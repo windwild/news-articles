@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0a0a0a;
+      --surface: #141414;
+      --surface-hover: #1a1a1a;
+      --border: #222;
+      --text: #e5e5e5;
+      --text-muted: #888;
+      --text-dim: #555;
+      --accent: #3b82f6;
+      --accent-dim: #1e3a5f;
+      --openai: #10a37f;
+      --anthropic: #d4a274;
+      --vercel: #fff;
+      --langchain: #1c7c54;
+      --radius: 8px;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Header */
+    .site-header {
+      border-bottom: 1px solid var(--border);
+      padding: 16px 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(10,10,10,0.85);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+    .site-header .container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .site-title {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--text);
+      text-decoration: none;
+      letter-spacing: -0.3px;
+    }
+    .site-title:hover { color: #fff; }
+
+    /* Container */
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* Source nav */
+    .source-nav {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      padding: 20px 0 12px;
+    }
+    .source-nav a {
+      padding: 6px 14px;
+      border-radius: 20px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+    .source-nav a:hover {
+      background: var(--surface-hover);
+      color: var(--text);
+      border-color: #333;
+    }
+    .source-nav a.active {
+      background: #fff;
+      color: #000;
+      border-color: #fff;
+    }
+
+    /* Hero */
+    .hero {
+      padding: 48px 0 20px;
+    }
+    .hero h1 {
+      font-size: 32px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      background: linear-gradient(135deg, #fff 0%, #888 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .hero p {
+      color: var(--text-muted);
+      margin-top: 8px;
+      font-size: 15px;
+    }
+
+    /* Article cards */
+    .article-list {
+      padding-bottom: 60px;
+    }
+    .article-card {
+      padding: 20px 0;
+      border-bottom: 1px solid var(--border);
+      transition: background 0.2s;
+    }
+    .article-card:first-child {
+      border-top: 1px solid var(--border);
+    }
+    .article-card .badges {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+    .article-card h2 {
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 1.4;
+      letter-spacing: -0.3px;
+    }
+    .article-card h2 a {
+      color: var(--text);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+    .article-card h2 a:hover {
+      color: var(--accent);
+    }
+    .article-card .meta {
+      font-size: 13px;
+      color: var(--text-dim);
+      margin-top: 4px;
+    }
+    .article-card .desc {
+      font-size: 14px;
+      color: var(--text-muted);
+      margin-top: 6px;
+      line-height: 1.5;
+    }
+
+    /* Badges */
+    .source-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .source-badge.openai  { background: rgba(16,163,127,0.15); color: var(--openai); }
+    .source-badge.anthropic { background: rgba(212,162,116,0.15); color: var(--anthropic); }
+    .source-badge.vercel  { background: rgba(255,255,255,0.1); color: #ccc; }
+    .source-badge.langchain { background: rgba(28,124,84,0.15); color: var(--langchain); }
+
+    .tag-badge {
+      display: inline-block;
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-size: 11px;
+      background: var(--accent-dim);
+      color: var(--accent);
+    }
+
+    /* Post page */
+    .post-page { padding: 40px 0 80px; }
+    .post-page header { margin-bottom: 32px; }
+    .post-page header h1 {
+      font-size: 28px;
+      font-weight: 700;
+      line-height: 1.3;
+      letter-spacing: -0.5px;
+      margin-top: 12px;
+    }
+    .post-page .meta {
+      margin-top: 8px;
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+    .post-page .meta a { color: var(--accent); text-decoration: none; }
+    .post-page .meta a:hover { text-decoration: underline; }
+
+    .post-page .content {
+      font-size: 16px;
+      line-height: 1.8;
+      color: #d4d4d4;
+    }
+    .post-page .content h2 {
+      font-size: 22px;
+      font-weight: 600;
+      margin-top: 36px;
+      margin-bottom: 12px;
+      color: var(--text);
+    }
+    .post-page .content h3 {
+      font-size: 18px;
+      font-weight: 600;
+      margin-top: 28px;
+      margin-bottom: 8px;
+      color: var(--text);
+    }
+    .post-page .content p { margin-bottom: 16px; }
+    .post-page .content a { color: var(--accent); text-decoration: none; }
+    .post-page .content a:hover { text-decoration: underline; }
+    .post-page .content pre {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+      overflow-x: auto;
+      margin: 16px 0;
+      font-size: 14px;
+    }
+    .post-page .content code {
+      font-family: 'SF Mono', Menlo, monospace;
+      font-size: 14px;
+    }
+    .post-page .content img {
+      max-width: 100%;
+      border-radius: var(--radius);
+      margin: 20px 0;
+    }
+    .post-page .content blockquote {
+      border-left: 3px solid var(--accent);
+      padding-left: 16px;
+      margin: 16px 0;
+      color: var(--text-muted);
+    }
+    .post-page .content ul, .post-page .content ol {
+      margin: 12px 0;
+      padding-left: 24px;
+    }
+    .post-page .content li { margin-bottom: 6px; }
+
+    .post-footer {
+      margin-top: 48px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+    }
+    .post-footer a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 14px;
+    }
+    .post-footer a:hover { color: var(--text); }
+
+    /* Footer */
+    .site-footer {
+      border-top: 1px solid var(--border);
+      padding: 24px 0;
+      text-align: center;
+      color: var(--text-dim);
+      font-size: 13px;
+    }
+  </style>
+  {% seo %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ site.baseurl }}/" class="site-title">📰 {{ site.title }}</a>
+    </div>
+  </header>
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">News Curator · 自动聚合 · 每日更新</div>
+  </footer>
+</body>
+</html>

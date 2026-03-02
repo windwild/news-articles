@@ -6,8 +6,6 @@ baseurl: "/news-articles"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: minima
-
 # Plugins
 plugins:
   - jekyll-seo-tag

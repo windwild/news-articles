@@ -2,50 +2,43 @@
 layout: default
 ---
 
-<div class="home">
+<div class="hero">
   <h1>📰 AI/Tech News · 中英双语</h1>
-  <p class="site-desc">高质量 AI/科技新闻聚合，每日更新</p>
+  <p>高质量 AI/科技新闻聚合，每日更新</p>
+</div>
 
-  {% assign all_articles = "" | split: "" %} {% for article in site.openai %}{%
-  assign all_articles = all_articles | push: article %}{% endfor %} {% for
-  article in site.anthropic %}{% assign all_articles = all_articles | push:
-  article %}{% endfor %} {% for article in site.vercel %}{% assign all_articles
-  = all_articles | push: article %}{% endfor %} {% for article in site.langchain
-  %}{% assign all_articles = all_articles | push: article %}{% endfor %} {%
-  assign sorted = all_articles | sort: "date" | reverse %}
+{% assign all_articles = "" | split: "" %}
+{% for article in site.openai %}{% assign all_articles = all_articles | push: article %}{% endfor %}
+{% for article in site.anthropic %}{% assign all_articles = all_articles | push: article %}{% endfor %}
+{% for article in site.vercel %}{% assign all_articles = all_articles | push: article %}{% endfor %}
+{% for article in site.langchain %}{% assign all_articles = all_articles | push: article %}{% endfor %}
 
-  <div class="source-nav">
-    <a href="{{ site.baseurl }}/" class="active">全部</a>
-    <a href="{{ site.baseurl }}/openai/">OpenAI ({{ site.openai | size }})</a>
-    <a href="{{ site.baseurl }}/anthropic/"
-      >Anthropic ({{ site.anthropic | size }})</a
-    >
-    <a href="{{ site.baseurl }}/vercel/">Vercel ({{ site.vercel | size }})</a>
-    <a href="{{ site.baseurl }}/langchain/"
-      >LangChain ({{ site.langchain | size }})</a
-    >
-  </div>
+{% assign sorted = all_articles | sort: "date" | reverse %}
 
-  <div class="article-list">
-    {% for post in sorted limit:50 %}
-    <div class="article-card">
-      <span class="source-badge {{ post.collection }}"
-        >{{ post.source_name | default: post.source }}</span
-      >
-      {% if post.tags.size > 0 %} {% for tag in post.tags %}
-      <span class="tag-badge">{{ tag }}</span>
-      {% endfor %} {% endif %}
-      <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <div class="meta">
-        {% if post.date %}<time>{{ post.date | date: "%Y-%m-%d" }}</time>{%
-        endif %}
-      </div>
-      {% if post.description %}
-      <p class="desc">{{ post.description | truncate: 150 }}</p>
+<div class="source-nav">
+  <a href="{{ site.baseurl }}/" class="active">全部 ({{ sorted | size }})</a>
+  <a href="{{ site.baseurl }}/openai/">OpenAI ({{ site.openai | size }})</a>
+  <a href="{{ site.baseurl }}/anthropic/">Anthropic ({{ site.anthropic | size }})</a>
+  <a href="{{ site.baseurl }}/vercel/">Vercel ({{ site.vercel | size }})</a>
+  <a href="{{ site.baseurl }}/langchain/">LangChain ({{ site.langchain | size }})</a>
+</div>
+
+<div class="article-list">
+  {% for post in sorted %}
+  <div class="article-card">
+    <div class="badges">
+      <span class="source-badge {{ post.collection }}">{{ post.source_name | default: post.source }}</span>
+      {% if post.tags.size > 0 %}
+        {% for tag in post.tags %}
+        <span class="tag-badge">{{ tag }}</span>
+        {% endfor %}
       {% endif %}
     </div>
-    {% endfor %}
+    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    <div class="meta">
+      {% if post.date %}<time>{{ post.date | date: "%Y-%m-%d" }}</time>{% endif %}
+    </div>
+    {% if post.description %}<p class="desc">{{ post.description | truncate: 160 }}</p>{% endif %}
   </div>
+  {% endfor %}
 </div>
