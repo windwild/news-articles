@@ -1,0 +1,58 @@
+title: AI/Tech News
+description: 高质量 AI/科技新闻聚合 · 中英双语
+url: "https://windwild.github.io/news-articles"
+baseurl: "/news-articles"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Collections for articles by source
+collections:
+  openai:
+    output: true
+    permalink: /openai/:title/
+  anthropic:
+    output: true
+    permalink: /anthropic/:title/
+  vercel:
+    output: true
+    permalink: /vercel/:title/
+  langchain:
+    output: true
+    permalink: /langchain/:title/
+
+# Defaults
+defaults:
+  - scope:
+      type: "openai"
+    values:
+      layout: "post"
+      source_name: "OpenAI"
+  - scope:
+      type: "anthropic"
+    values:
+      layout: "post"
+      source_name: "Anthropic"
+  - scope:
+      type: "vercel"
+    values:
+      layout: "post"
+      source_name: "Vercel"
+  - scope:
+      type: "langchain"
+    values:
+      layout: "post"
+      source_name: "LangChain"
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
