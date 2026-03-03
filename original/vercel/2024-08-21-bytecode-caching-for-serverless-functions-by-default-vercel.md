@@ -1,0 +1,25 @@
+---
+title: "Bytecode caching for Serverless Functions by default - Vercel"
+source: "Vercel Blog"
+url: "https://vercel.com/changelog/bytecode-caching-for-serverless-functions-by-default"
+date: "2024-08-21"
+scraped_at: "2026-03-02T09:41:48.864915271+00:00"
+language: "en"
+translated: false
+description: "The best way to deploy your Next.js site."
+---
+
+
+
+
+Aug 21, 2024
+
+![](images/bytecode-caching-for-serverless-functions-by-default-vercel/img_001.jpg)![](images/bytecode-caching-for-serverless-functions-by-default-vercel/img_002.jpg)
+
+We recently [introduced bytecode caching](https://vercel.com/blog/introducing-bytecode-caching-for-vercel-functions)—an experimental feature built on our new Rust-based core for Vercel Functions—designed to drastically reduce start times during [increasingly rare](https://vercel.com/changelog/vercel-functions-now-have-faster-and-fewer-cold-starts) cold starts. Even when cold starts do occur, their impact is now minimal and barely noticeable.
+
+After validating the stability and performance improvements of bytecode caching, the feature is now **stable and the default** for all [Node.js 20+ Vercel Functions](https://vercel.com/docs/functions/runtimes/node-js#using-the-node.js-runtime-with-serverless-functions).
+
+This change **reduces global cold start times by up to 60%,** exceeding our initial benchmarks and observations. The improvement is particularly significant for functions that load a large amount of JavaScript, with smaller functions experiencing less impact.
+
+Bytecode caching is automatically enabled for all functions running on [Node.js 20 and using CommonJS](https://vercel.com/docs/functions/runtimes/node-js#bytecode-caching) (e.g., Next.js). Additionally, we're working to extend this support to include ESM for broader compatibility. Learn more in [our blog post](https://vercel.com/blog/introducing-bytecode-caching-for-vercel-functions).

@@ -1,0 +1,42 @@
+---
+title: "OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO) | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/openai-welcomes-cfo-cpo"
+date: "2024-06-10"
+scraped_at: "2026-03-02T10:19:03.767276176+00:00"
+language: "en-US"
+translated: false
+description: "OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)"
+tags: ["Company"]
+---
+
+June 10, 2024
+
+
+# OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)
+
+![Ex Appts](images/openai-welcomes-sarah-friar-cfo-and-kevin-weil-cpo-openai/img_001.png)
+
+
+
+OpenAI has grown into a global organization serving hundreds of millions of consumers, millions of developers and the world’s largest companies. To make continued progress on our mission, we are doubling down on the things we have always done uniquely well: conducting world-leading research, and using it as the foundation to build and safely deploy AI products.
+
+That’s why we are excited to welcome two leaders with the right experience, skills, and values to push the mission forward:
+
+- Sarah Friar is joining as Chief Financial Officer. She will lead a finance team that supports our mission by providing continued investment in our core research capabilities, and ensuring that we can scale to meet the needs of our growing customer base and the complex and global environment in which we are operating.
+- Kevin Weil is joining as Chief Product Officer. He will lead a product team focused on applying our research to products and services that benefit consumers, developers, and businesses.
+
+> “Sarah and Kevin bring a depth of experience that will enable OpenAI to scale our operations, set a strategy for the next phase of growth, and ensure that our teams have the resources they need to continue to thrive”
+
+OpenAI CEO Sam Altman
+
+Sarah most recently served as CEO of Nextdoor. She was previously CFO at Square, and also worked at Goldman Sachs, McKinsey, and Salesforce. She is a Board Member of Walmart and Consensys, a Fellow of the Aspen Institute, and Co-Chair of the Stanford Digital Economy Lab, an integral component of the Stanford Institute for Human-Centered AI (HAI).
+
+Kevin was most recently President, Product and Business at Planet Labs. He was previously the co-founder of the Libra cryptocurrency and VP of Product for Novi at Facebook, VP of Product at Instagram, and SVP of Product at Twitter. He is a term member of the Council on Foreign Relations (CFR) and serves on the boards of The Nature Conservancy and Black Product Managers Network.
+
+“I’m honored to join a team that is uniquely talented and mission-focused,” said Sarah Friar. “My goal is to help OpenAI continue excelling at what it does best—producing top-tier research and collaborating to maximize the benefits of AI tools for everyone.”
+
+“The product team at OpenAI has set the pace for both breakthrough innovation, and thoughtful deployment of AI products,” said Kevin Weil. “I am thrilled to be part of the next phase of growth, as we continue to safely and responsibly build towards AGI.”
+
+- [Culture & Careers](https://openai.com/news/?tags=culture-careers)
+- [2024](https://openai.com/news/?tags=2024)

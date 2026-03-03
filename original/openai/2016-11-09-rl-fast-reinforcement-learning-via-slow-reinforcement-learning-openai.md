@@ -1,0 +1,27 @@
+---
+title: "RL²: Fast reinforcement learning via slow reinforcement learning | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/rl2"
+date: "2016-11-09"
+scraped_at: "2026-03-02T10:33:55.213276831+00:00"
+language: "en-US"
+translated: false
+tags: ["Research"]
+---
+
+November 9, 2016
+
+
+# RL²: Fast reinforcement learning via slow reinforcement learning
+
+[Read paper(opens in a new window)](https://arxiv.org/abs/1611.02779)
+
+![Rl Fast Reinforcement Learning Via Slow Reinforcement Learning](images/rl-fast-reinforcement-learning-via-slow-reinforcement-learning-openai/img_001.webp)
+
+
+
+## Abstract
+
+Deep reinforcement learning (deep RL) has been successful in learning sophisticated behaviors automatically; however, the learning process requires a huge number of trials. In contrast, animals can learn new tasks in just a few trials, benefiting from their prior knowledge about the world. This paper seeks to bridge this gap. Rather than designing a "fast" reinforcement learning algorithm, we propose to represent it as a recurrent neural network (RNN) and learn it from data. In our proposed method, RL², the algorithm is encoded in the weights of the RNN, which are learned slowly through a general-purpose ("slow") RL algorithm. The RNN receives all information a typical RL algorithm would receive, including observations, actions, rewards, and termination flags; and it retains its state across episodes in a given Markov Decision Process (MDP). The activations of the RNN store the state of the "fast" RL algorithm on the current (previously unseen) MDP. We evaluate RL² experimentally on both small-scale and large-scale problems. On the small-scale side, we train it to solve randomly generated multi-arm bandit problems and finite MDPs. After RL² is trained, its performance on new MDPs is close to human-designed algorithms with optimality guarantees. On the large-scale side, we test RL² on a vision-based navigation task and show that it scales up to high-dimensional problems.
+
+- [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)

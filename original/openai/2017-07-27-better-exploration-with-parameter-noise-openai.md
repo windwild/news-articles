@@ -1,0 +1,75 @@
+---
+title: "Better exploration with parameter noise | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/better-exploration-with-parameter-noise"
+date: "2017-07-27"
+scraped_at: "2026-03-02T10:32:14.904386610+00:00"
+language: "en-US"
+translated: false
+description: "We’ve found that adding adaptive noise to the parameters of reinforcement learning algorithms frequently boosts performance. This exploration method is simple to implement and very rarely decreases ..."
+tags: ["Research"]
+---
+
+July 27, 2017
+
+
+# Better exploration with parameter noise
+
+[Read code(opens in a new window)](https://github.com/openai/baselines) [Read paper(opens in a new window)](https://arxiv.org/abs/1706.01905)
+
+![Better Exploration With Parameter Noise](images/better-exploration-with-parameter-noise-openai/img_001.jpg)
+
+Illustration: Ben Barry
+
+
+
+We’ve found that adding adaptive noise to the parameters of reinforcement learning algorithms frequently boosts performance. This exploration method is simple to implement and very rarely decreases performance, so it’s worth trying on any problem.
+
+Action Space Noise
+
+Parameter Space Noise
+
+Parameter noise helps algorithms more efficiently explore the range of actions available to solve an environment. After 216 episodes of training [DDPG](https://arxiv.org/abs/1509.02971) without parameter noise will frequently develop inefficient running behaviors, whereas policies trained with parameter noise often develop a high-scoring gallop.
+
+Parameter noise lets us teach agents tasks much more rapidly than with other approaches. After learning for 20 episodes on the [HalfCheetah⁠(opens in a new window)](https://gym.openai.com/envs/HalfCheetah-v1) Gym environment (shown above), the policy achieves a score of around 3,000, whereas a policy trained with traditional action noise only achieves around 1,500.
+
+Parameter noise adds adaptive noise to the parameters of the neural network policy, rather than to its action space. Traditional RL uses action space noise to change the likelihoods associated with each action the agent might take from one moment to the next. Parameter space noise injects randomness directly into the parameters of the agent, altering the types of decisions it makes such that they always fully depend on what the agent currently senses. The technique is a middle ground between [evolution strategies⁠(opens in a new window)](https://blog.openai.com/evolution-strategies/) (where you manipulate the parameters of your policy but don’t influence the actions a policy takes as it explores the environment during each rollout) and deep reinforcement learning approaches like [TRPO⁠(opens in a new window)](https://blog.openai.com/openai-baselines-ppo/), [DQN⁠(opens in a new window)](https://blog.openai.com/openai-baselines-dqn/), and DDPG (where you don’t touch the parameters, but add noise to the action space of the policy).
+
+![Action space noise (left), compared to parameter space noise (right)](images/better-exploration-with-parameter-noise-openai/img_002.png)
+
+Parameter noise helps algorithms explore their environments more effectively, leading to higher scores and more elegant behaviors. We think this is because adding noise in a deliberate manner to the parameters of the policy makes an agent’s exploration consistent across different timesteps, whereas adding noise to the action space leads to more unpredictable exploration which isn’t correlated to anything unique to the agent’s parameters.
+
+People have [previously⁠(opens in a new window)](http://people.idsia.ch/~juergen/ecml2008rueckstiess.pdf) tried applying parameter noise to policy gradients. We’ve extended this by showing that the technique works on policies based on deep neural networks and that it can be applied to both on- and off-policy algorithms.
+
+Action Space Noise
+
+Parameter Space Noise
+
+Parameter space noise leading to a higher score for Enduro. After two episodes of training, DDQN trained with parameter noise learns to accelerate and turn, while the one trained with action space noise displays less variety.
+
+When conducting this research we ran into three problems:
+
+- Different layers of the network have different sensitivities to perturbations.
+- The sensitivity of the policy’s weights may change over time while training progresses, making it hard for us to predict the actions the policy will take.
+- Picking the right scale of noise is difficult because it is hard to intuitively understand how parameter noise influences a policy during training.
+
+We use [layer normalization⁠(opens in a new window)](https://arxiv.org/abs/1607.06450) to deal with the first problem, which ensures that the output of a perturbed layer (which will be the input to the next one) is still within a similar distribution.
+
+We tackle the second and third problem by introducing an adaptive scheme to adjust the size of the parameter space perturbations. This adjustment works by measuring the effect of the perturbation on action space and whether the action space noise level is larger or smaller than a defined target. This trick allows us to push the problem of choosing noise scale into action space, which is more interpretable than parameter space.
+
+## Baselines and benchmarks
+
+We’re also releasing [baseline code⁠(opens in a new window)](https://github.com/openai/baselines) that incorporates this technique for DQN, Double DQN, Dueling DQN, Dueling Double DQN, and DDPG.
+
+![Graph](images/better-exploration-with-parameter-noise-openai/img_003.png)
+
+We’ve included benchmarks of the performance of DDQN with and without parameter noise on a subset of the [Atari games⁠(opens in a new window)](https://github.com/openai/baselines-results/blob/master/param-noise/atari.md) corpus, and of three variants of DDPG on a range of continuous control tasks within the [Mujoco simulator⁠(opens in a new window)](https://github.com/openai/baselines-results/blob/master/param-noise/mujoco.md).
+
+## Development
+
+When we first conducted this research, we found that the perturbations we applied to the Q function of DQN could sometimes be so extreme it would lead to the algorithm repeatedly executing the same action. To deal with this, we added a separate head that explicitly represents the policy as in DDPG (in regular DQN, the policy is only represented implicitly by the Q function) to make the setup more similar to our other experiments. However, when preparing our code for this release we ran an experiment that used parameter space noise _without_ the separate policy head. We found that this worked comparably to our version with the separate policy head while being much simpler to implement. Further experiments confirmed that the separate policy head was indeed unnecessary as the algorithm had likely improved since our early experiments due to us altering how we re-scaled the noise. This led to a simpler, easier to implement, and less costly to train algorithm while still achieving very similar results. It’s important to remember that AI algorithms, especially in reinforcement learning, can [fail silently and subtly⁠(opens in a new window)](https://blog.openai.com/openai-baselines-dqn/), which can lead to people engineering solutions around missed bugs.
+
+- [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+- [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
+- [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
+- [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)

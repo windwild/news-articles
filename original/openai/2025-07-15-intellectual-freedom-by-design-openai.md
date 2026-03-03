@@ -1,0 +1,60 @@
+---
+title: "Intellectual freedom by design | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/global-affairs/intellectual-freedom-by-design"
+date: "2025-07-15"
+scraped_at: "2026-03-02T10:11:32.313966134+00:00"
+language: "en-US"
+translated: false
+description: "ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own."
+---
+
+July 15, 2025
+
+[Global Affairs](https://openai.com/news/global-affairs/)
+
+# Intellectual freedom by design
+
+ChatGPT is designed to be useful, trustworthy, and adaptable so you can make it your own.
+
+![Soft abstract gradient in warm orange and yellow tones with hints of green, creating a blurred, dreamy background.](images/intellectual-freedom-by-design-openai/img_001.png)
+
+
+
+Millions of people around the world use ChatGPT every day. The most common reason people turn to it is simple: to learn. As AI becomes not just more powerful, but more widely used across cultures, professions, and political perspectives, it’s critical that these tools support intellectual freedom. That means helping people ask their own questions, follow their own reasoning, and make up their own minds.
+
+At OpenAI, we’re building ChatGPT to reflect those values with a default of objectivity, strong user controls, and transparent principles that guide how the model behaves.
+
+## Objectivity by default
+
+We believe ChatGPT should be objective by default, especially on topics that involve competing political, cultural, or ideological viewpoints. The goal isn’t to offer a single answer, but to help users explore multiple perspectives.
+
+We’ve also made our internal guidance public, so anyone can see for themselves how we handle these situations. Our [Model Spec⁠(opens in a new window)](https://model-spec.openai.com/2025-04-11.html) lays out the values we are working to build into the system, including commitments to usefulness, safety, neutrality, and intellectual freedom. If ChatGPT responds in a way that feels off, the Model Spec helps clarify whether that behavior is intentional and why.
+
+## Upholding intellectual freedom
+
+One of the Model Spec’s core principles is intellectual freedom: the belief that people should be able to use AI to explore ideas, including controversial or difficult ones, without being steered toward a particular worldview.
+
+That doesn’t mean anything goes. The model is trained to avoid causing harm, violating privacy, or helping with dangerous activities. But when it comes to learning about complex or sensitive topics, ChatGPT is designed to be open, thoughtful, and responsive—not preachy or closed off. It’s also designed to be [collaborative⁠(opens in a new window)](https://model-spec.openai.com/2025-02-12.html#seek_truth): it shouldn’t simply echo your view or validate everything you say.
+
+We know this balance takes care. Too much caution can limit exploration; too much opinion can feel like overreach. We’re continually refining how the model handles these moments to better reflect that nuance.
+
+## Customization you control
+
+While objectivity is the default, we know that doesn’t mean one-size-fits-all. People come to ChatGPT with different goals and contexts in mind and sometimes, they want the experience to adapt.
+
+Whether you’re using ChatGPT in your daily life or bringing it into your organization, we believe it should be customizable to meet your needs. This spring we [introduced new settings⁠](https://openai.com/global-affairs/the-power-of-personalized-ai/) that make it easier to personalize ChatGPT by adjusting tone, setting instructions, or defining how responses should sound.
+
+A teacher might want clear explanations and sources. A caregiver might want empathy and encouragement. Some users prefer caution; others want directness. These controls don’t change the facts—but they help tailor how those facts are communicated, making ChatGPT more helpful across a wide range of situations.
+
+## Evaluating our work so we can improve
+
+Getting this right is an ongoing effort and we’re not doing it alone.
+
+Over the past several months, we’ve held feedback sessions with users and civil society organizations across the political spectrum to better understand how ChatGPT performs in real-world conversations. These sessions have helped surface gaps, given us a better understanding of user expectations, and are informing how we evaluate the model’s behavior going forward.
+
+We’ve also launched a new initiative to improve how we assess political bias and objectivity. Traditional evaluations—tests run to measure model responses against a rubric—don't necessarily reflect how people actually use ChatGPT. Most users don't ask ChatGPT to pick an option in a multiple-choice compass test, nor even directly ask ChatGPT questions about its beliefs. So we’re developing new evaluations designed specifically to identify political bias, grounded in everyday use: how people ask questions, explore ideas, and learn. This will give us a clearer understanding of what balance, accuracy, and trustworthiness look like in practice—not just in theory.
+
+Bias evaluation is complex and requires nuance; we don’t expect to get everything right in a vacuum. We welcome feedback and will share more soon about our approach, which we hope will be helpful to others working on this challenge across the AI ecosystem.
+
+- [2025](https://openai.com/news/?tags=2025)

@@ -1,0 +1,29 @@
+---
+title: "Third-person imitation learning | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/third-person-imitation-learning"
+date: "2017-03-06"
+scraped_at: "2026-03-02T10:33:09.385993344+00:00"
+language: "en-US"
+translated: false
+tags: ["Research"]
+---
+
+March 6, 2017
+
+
+# Third-person imitation learning
+
+[Read paper(opens in a new window)](https://arxiv.org/abs/1703.01703)
+
+![Third Person Imitation Learning](images/third-person-imitation-learning-openai/img_001.webp)
+
+
+
+## Abstract
+
+Reinforcement learning (RL) makes it possible to train agents capable of achieving sophisticated goals in complex and uncertain environments. A key difficulty in reinforcement learning is specifying a reward function for the agent to optimize. Traditionally, imitation learning in RL has been used to overcome this problem. Unfortunately, hitherto imitation learning methods tend to require that demonstrations are supplied in the first-person: the agent is provided with a sequence of states and a specification of the actions that it should have taken. While powerful, this kind of imitation learning is limited by the relatively hard problem of collecting first-person demonstrations. Humans address this problem by learning from third-person demonstrations: they observe other humans perform tasks, infer the task, and accomplish the same task themselves.
+
+In this paper, we present a method for unsupervised third-person imitation learning. Here third-person refers to training an agent to correctly achieve a simple goal in a simple environment when it is provided a demonstration of a teacher achieving the same goal but from a different viewpoint; and unsupervised refers to the fact that the agent receives only these third-person demonstrations, and is not provided a correspondence between teacher states and student states. Our methods primary insight is that recent advances from domain confusion can be utilized to yield domain agnostic features which are crucial during the training process. To validate our approach, we report successful experiments on learning from third-person demonstrations in a pointmass domain, a reacher domain, and inverted pendulum.
+
+- [Robotics](https://openai.com/research/index/?tags=robotics)
