@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel collaborates with OpenAI for GPT-5 launch - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-collaborates-with-openai-for-gpt-5-launch"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The GPT-5 family of models released today, are now available through AI Gateway and are in production on our own v0.dev applications. Thanks to OpenAI, Vercel has been testing these models for a few w..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 7, 2025
 
@@ -258,3 +256,4 @@ Clone the vibe coding platform, change the model, swap in your own tools, or con
 [Vercel AI Cloud](https://vercel.com/ai) is designed for developers shaping how software is created; building with models, not just using them.
 
 [Vercel AI Cloud](https://vercel.com/ai) 专为重塑软件开发方式的开发者而设计：它支持您“基于模型构建”，而不仅仅是“使用模型”。
+{% endraw %}

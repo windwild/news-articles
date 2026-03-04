@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Our approach to data and AI  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/approach-to-data-and-ai"
@@ -10,6 +9,7 @@ translated: false
 description: "Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It’s also raised important conversations about data in the age of AI. More on our approach, a new Media Manager ..."
 tags: ["Safety"]
 ---
+{% raw %}
 
 May 7, 2024
 
@@ -84,3 +84,4 @@ AI evolves quickly, and we know our goals can’t be accomplished alone. We’re
 
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

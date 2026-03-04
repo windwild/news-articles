@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Grep a million GitHub repositories via MCP - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/grep-a-million-github-repositories-via-mcp"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Search 1M+ GitHub repositories from your AI agent using Grep's MCP server. Your agent can now reference coding patterns and solutions used in open source projects to solve problems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 17, 2025
 
@@ -282,3 +280,4 @@ Deploy now](https://vercel.com/templates/next.js/model-context-protocol-mcp-with
 快速上手，在 Vercel 上构建您的首个 MCP 服务器。\\
 \\
 立即部署](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js)
+{% endraw %}

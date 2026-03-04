@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Commonwealth Bank of Australia builds AI fluency at scale | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/commonwealth-bank-of-australia"
@@ -10,8 +9,7 @@ translated: true
 description: "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response."
 tags: ["ChatGPT"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 December 9, 2025
 
@@ -66,3 +64,4 @@ More than 1 million businesses around the world are achieving meaningful results
 [Contact our team](https://openai.com/contact-sales/)
 
 [联系我们的团队](https://openai.com/contact-sales/)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Teaching with AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/teaching-with-ai"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing a guide for teachers using ChatGPT in their classroom—including suggested prompts, an explanation of how ChatGPT works and its limitations, the efficacy of AI detectors, and bias. "
 tags: ["Company"]
 ---
+{% raw %}
 
 August 31, 2023
 
@@ -136,3 +136,4 @@ These prompts are only suggestions. Feel free to change any prompts and tell the
 
 - A
 Mollick, Ethan R. and Mollick, Lilach, Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts (March 17, 2023). Available at [http://dx.doi.org/10.2139/ssrn.4391243⁠(opens in a new window)](https://dx.doi.org/10.2139/ssrn.4391243)
+{% endraw %}

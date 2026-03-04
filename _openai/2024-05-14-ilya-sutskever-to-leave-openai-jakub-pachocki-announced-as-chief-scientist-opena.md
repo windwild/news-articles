@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Company"]
 ---
+{% raw %}
 
 May 14, 2024
 
@@ -31,3 +31,4 @@ Jakub is the Chief Scientist at OpenAI, where he has led transformative research
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

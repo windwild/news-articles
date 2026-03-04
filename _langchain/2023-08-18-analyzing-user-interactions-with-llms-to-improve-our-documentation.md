@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Analyzing User Interactions with LLMs to Improve our Documentation"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/llms-to-improve-documentation/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ### Introduction
 
@@ -211,3 +209,4 @@ The thoughtful union of these two methods offers considerable promise for addres
 [**LangGraph Platform in beta: New deployment options for scalable agent infrastructure**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [**LangGraph 平台进入公测阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
+{% endraw %}

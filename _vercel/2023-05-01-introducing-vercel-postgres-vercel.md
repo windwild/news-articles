@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Vercel Postgres - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-postgres"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing Postgres storage on Vercel. Connect your projects to native storage solutions. Works with any frontend framework."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 1, 2023
 
@@ -123,3 +121,4 @@ Vercel Postgres is available for Hobby and Pro users during the public beta.
 - [Prisma](https://vercel.com/templates/next.js/prisma-postgres)
 
 - [Prisma](https://vercel.com/templates/next.js/prisma-postgres)
+{% endraw %}

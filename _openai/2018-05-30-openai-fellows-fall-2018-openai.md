@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Fellows Fall 2018 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-fellows"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re now accepting applications for the next cohort of OpenAI Fellows, a program which offers a compensated 6-month apprenticeship in AI research at OpenAI."
 tags: ["Company"]
 ---
+{% raw %}
 
 May 30, 2018
 
@@ -32,3 +32,4 @@ We will give priority to applicants that can join OpenAI full-time following the
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2018](https://openai.com/news/?tags=2018)
+{% endraw %}

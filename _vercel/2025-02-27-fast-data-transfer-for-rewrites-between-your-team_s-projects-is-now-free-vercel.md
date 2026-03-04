@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Fast Data Transfer for rewrites between your team's projects is now free - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/fast-data-transfer-for-rewrites-between-a-teams-projects-is-now-free"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "External rewrites between projects within the same team have been optimized internally, lowering the Fast Data Transfer they use and their associated costs."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 27, 2025
 
@@ -27,3 +25,4 @@ Feb 27, 2025
 - 每次外部重写均会触发一次完整的请求生命周期（full request lifecycle），包括路由（routing）和 Web 应用防火墙（WAF）检查，确保每个项目的安全部署策略均得到严格执行；同时，每次重写也会计为一次独立的 [边缘请求（Edge Request）](https://vercel.com/docs/edge-network/overview)。
 
 了解有关 [重写（rewrites）](https://vercel.com/docs/edge-network/rewrites) 的更多信息，并监控您的快速数据传输 [用量（usage）](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fusage&title=Go+to+Fast+Data+Transfer+Usage) 和 [可观测性（observability）](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Ffast-data-transfer&title=Go+to+Fast+Data+Transfer+Observability)。
+{% endraw %}

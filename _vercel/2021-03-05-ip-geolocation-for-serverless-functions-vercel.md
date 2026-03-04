@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "IP Geolocation for Serverless Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ip-geolocation-for-serverless-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 5, 2021
 
@@ -53,3 +51,4 @@ This feature is now automatically activated for all new and existing Serverless 
 Check out [the documentation](http://vercel.com/docs/edge-network/headers#request-headers) as well.
 
 也请参阅 [相关文档](http://vercel.com/docs/edge-network/headers#request-headers)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New commission to provide insight as OpenAI builds the world’s best-equipped nonprofit | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/nonprofit-commission-guidance"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Already a nonprofit, and already using AI to help people solve hard problems, OpenAI aims to build the best-equipped nonprofit the world has ever seen—combining potentially historic financial resour..."
 ---
+{% raw %}
 
 April 2, 2025
 
@@ -30,3 +30,4 @@ OpenAI believes that innovation should create opportunity for all. Its Board of 
 The Board recognizes the importance of engaging with the philanthropic community and those closest to the work to help inform how OpenAI’s philanthropy can best deploy its potentially historic resources. The guiding principle, and an important part of the commission’s task, is ensuring that OpenAI’s innovation is working for people—not the other way around **.**
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

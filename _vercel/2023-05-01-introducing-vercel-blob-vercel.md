@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Vercel Blob - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-blob"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 1, 2023
 
@@ -48,3 +46,4 @@ export async function PUT(request: Request) {
 Vercel Blob 目前处于私测阶段。请加入[等候名单](https://vercel.com/login?next=%2Fstorage%2Fblob-register)，在未来几周内获得早期访问权限。
 
 [查看我们的文档](https://vercel.com/docs/storage/vercel-blob)以了解更多信息。
+{% endraw %}

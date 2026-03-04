@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Team++ | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/team-plus-plus"
@@ -10,6 +9,7 @@ translated: false
 description: "We've had some fantastic people join over the past few months (and we're still hiring). Welcome, everyone!"
 tags: ["Company"]
 ---
+{% raw %}
 
 March 31, 2016
 
@@ -49,3 +49,4 @@ We’re currently focused on unsupervised learning and reinforcement learning. W
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2016](https://openai.com/news/?tags=2016)
+{% endraw %}

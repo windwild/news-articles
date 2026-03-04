@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Benchmarking Multi-Agent Architectures"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/benchmarking-multi-agent-architectures/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:31:00.881824298+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 By Will Fu-Hinthorn
 
@@ -306,3 +304,4 @@ We think multi-agent systems will become more prevalent. While most successful m
 If you want to try out the supervisor architecture easily (including all the improvements we made as a result of this research) you can easily do so with [`langgraph-supervisor`](https://github.com/langchain-ai/langgraph-supervisor-py?ref=blog.langchain.com).
 
 若您希望便捷地尝试 `supervisor` 架构（包括本研究中所实现的全部改进），只需使用 [`langgraph-supervisor`](https://github.com/langchain-ai/langgraph-supervisor-py?ref=blog.langchain.com) 即可快速上手。
+{% endraw %}

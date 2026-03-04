@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Login with passkey is now supported - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/login-with-passkey-is-now-supported"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 11, 2024
 
@@ -39,3 +37,4 @@ Jan 11, 2024
 5. 您现在即可使用通行密钥登录
 
 [了解更多](https://vercel.com/docs/accounts/create-an-account#login-with-passkeys) 请参阅我们的文档。
+{% endraw %}

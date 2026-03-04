@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the Codex app | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-the-codex-app"
@@ -10,8 +9,7 @@ translated: true
 description: "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks."
 tags: ["Product"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 2, 2026
 
@@ -274,3 +272,4 @@ We’re excited to see what you build with Codex!
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

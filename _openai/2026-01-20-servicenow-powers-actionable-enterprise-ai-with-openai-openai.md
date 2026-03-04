@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "ServiceNow powers actionable enterprise AI with OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 20, 2026
 
@@ -88,3 +86,4 @@ ServiceNow 进一步拓展了 OpenAI 在全球范围内与规模最大、历史�
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

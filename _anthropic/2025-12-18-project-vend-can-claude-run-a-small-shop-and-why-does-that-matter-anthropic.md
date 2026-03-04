@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Project Vend: Can Claude run a small shop? (And why does that matter?) \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/project-vend-1"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We let Claude run a small shop in the Anthropic office. Here's what happened."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Policy
 
@@ -315,3 +313,4 @@ We’re very grateful to [Andon Labs](https://andonlabs.com/) for their partners
 You can read their earlier research on AIs running shops in a simulated environment [here](https://andonlabs.com/evals/vending-bench).  
 
 您可在此处阅读他们此前关于AI在模拟环境中经营商店的研究成果：[链接](https://andonlabs.com/evals/vending-bench)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Continuously hardening ChatGPT Atlas against prompt injection attacks | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/hardening-atlas-against-prompt-injection"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel expl..."
 tags: ["Security"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 December 22, 2025
 
@@ -243,3 +241,4 @@ We’ll be sharing more on this work soon.
 
 - [2025](https://openai.com/news/?tags=2025)  
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

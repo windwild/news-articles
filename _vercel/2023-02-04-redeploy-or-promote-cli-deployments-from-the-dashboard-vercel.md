@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Redeploy or promote CLI deployments from the dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/redeploy-or-promote-cli-deployments-from-the-dashboard"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 4, 2023
 
@@ -25,3 +23,4 @@ You can now redeploy or promote all deployments to production from the Vercel da
 [Read the documentation](https://vercel.com/docs/concepts/deployments/managing-deployments#redeploy-a-project) to learn more.
 
 [阅读文档](https://vercel.com/docs/concepts/deployments/managing-deployments#redeploy-a-project) 了解更多信息。
+{% endraw %}

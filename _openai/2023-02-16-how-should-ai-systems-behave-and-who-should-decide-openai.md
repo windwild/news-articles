@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How should AI systems behave, and who should decide? | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/how-should-ai-systems-behave"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re clarifying how ChatGPT’s behavior is shaped and our plans for improving that behavior, allowing more user customization, and getting more public input into our decision-making in these area..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 February 16, 2023
 
@@ -111,3 +111,4 @@ By AGI, we mean highly autonomous systems that outperform humans at most economi
 
 2. B
 In this post, we deliberately focus on this particular scope, and on where we are going in the near term. We are also pursuing an ongoing research agenda taking on these questions.
+{% endraw %}

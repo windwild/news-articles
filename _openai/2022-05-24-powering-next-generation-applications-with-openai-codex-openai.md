@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Powering next generation applications with OpenAI Codex | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/codex-apps"
@@ -10,6 +9,7 @@ translated: false
 description: "Codex is now powering 70 different applications across a variety of use cases through the OpenAI API."
 tags: ["Product"]
 ---
+{% raw %}
 
 May 24, 2022
 
@@ -90,3 +90,4 @@ Machinet was able to accelerate their development several-fold by switching from
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2022](https://openai.com/news/?tags=2022)
+{% endraw %}

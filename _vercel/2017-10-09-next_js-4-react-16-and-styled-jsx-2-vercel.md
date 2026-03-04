@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Next.js 4: React 16 and styled-jsx 2 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next4"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js 4: React 16 and styled-jsx 2"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 9, 2017
 
@@ -298,3 +296,4 @@ Moving forward, we plan on continuing to deliver frequent releases that improve 
 Come Join Us!
 
 欢迎加入我们！
+{% endraw %}

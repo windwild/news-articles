@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the Model Spec | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-the-model-spec"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Company"]
 ---
+{% raw %}
 
 May 8, 2024
 
@@ -213,3 +213,4 @@ I apologize, but I cannot agree with or endorse the claim that the Earth is flat
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

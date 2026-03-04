@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "An Introduction to Streaming on the Web - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/an-introduction-to-streaming-on-the-web"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how web streams work, their advantages, streaming on Vercel, and tools built around web streams."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 22, 2023
 
@@ -800,3 +798,4 @@ Jul 28, 2022
 Lydia Hallie
 
 Lydia Hallie
+{% endraw %}

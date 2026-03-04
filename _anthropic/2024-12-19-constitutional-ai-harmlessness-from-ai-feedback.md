@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Constitutional AI: Harmlessness from AI Feedback"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 AlignmentResearch
 
@@ -52,3 +50,4 @@ As AI systems become more capable, we would like to enlist their help to supervi
 ## 政策备忘录
 
 [Constitutional AI Policy Memo](https://www-cdn.anthropic.com/7512771452629584566b6303311496c262da1006/Anthropic_ConstitutionalAI_v2.pdf)
+{% endraw %}

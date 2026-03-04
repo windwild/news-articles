@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enhanced Logs to search, inspect, and share runtime logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-logs-ui-to-search-inspect-and-share-application-logs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 1, 2023
 
@@ -23,3 +21,4 @@ Mar 1, 2023
 所有套餐均可通过 Vercel 控制台访问和搜索日志。Hobby 和 Pro 套餐用户享有 1 小时的日志保留时长。
 
 [查看文档](https://vercel.com/docs/concepts/observability/runtime-logs) 以了解更多信息。
+{% endraw %}

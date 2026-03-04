@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Function start type now available in Runtime Logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/function-start-type-now-available-in-runtime-logs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now view the function start type for Vercel Functions in the runtime logs page on the Vercel dashboard"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 22, 2025
 
@@ -27,3 +25,4 @@ Dec 22, 2025
 
 or learn more about [Runtime Logs](https://vercel.com/docs/logs/runtime).  
 或深入了解 [Runtime Logs（运行时日志）](https://vercel.com/docs/logs/runtime)。
+{% endraw %}

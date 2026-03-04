@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Understand Interaction to Next Paint (INP) with the Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/interaction-timing-tool"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 21, 2024
 
@@ -33,3 +31,4 @@ This tool can also notify you as you navigate your site of any interactions that
 Learn more about the [Vercel Toolbar](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) and [INP.](https://vercel.com/guides/first-input-delay-vs-interaction-to-next-paint#interaction-to-next-paint-(inp))
 
 了解更多关于 [Vercel 工具栏](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) 和 [INP（交互到下一次绘制）](https://vercel.com/guides/first-input-delay-vs-interaction-to-next-paint#interaction-to-next-paint-(inp)) 的信息。
+{% endraw %}

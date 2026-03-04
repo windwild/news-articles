@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improvements and fixes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/april-2022-papercuts"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 14, 2022
 
@@ -47,3 +45,4 @@ With your feedback, we've shipped dozens of bug fixes and small feature requests
 [Let us know](https://vercel.com/contact) other opportunities where we can improve your experience with Vercel.
 
 [欢迎告诉我们](https://vercel.com/contact)，您在使用 Vercel 过程中还发现哪些可以进一步优化的体验点。
+{% endraw %}

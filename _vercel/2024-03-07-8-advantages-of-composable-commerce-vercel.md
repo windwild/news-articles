@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "8 advantages of composable commerce - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/8-advantages-of-composable-commerce"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Faster development cycles, better personalization, increased site performance, and more. Here are the benefits composable commerce can offer."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 7, 2024
 
@@ -399,3 +397,4 @@ You don’t have to go all in right off the bat. [Gradual migration strategies](
 \\  
 借助无头电商（Headless Commerce），释放性能与灵活性。Next.js 与 Vercel 让您无需替换后端，即可全面现代化您的线上门店。  
 \\
+{% endraw %}

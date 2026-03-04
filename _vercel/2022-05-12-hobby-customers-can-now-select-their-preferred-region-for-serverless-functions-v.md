@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Hobby customers can now select their preferred region for Serverless Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/hobby-customers-can-now-select-their-preferred-region-for-serverless"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 12, 2022
 
@@ -29,3 +27,4 @@ Previously, Hobby customers could only choose [US East](https://vercel.com/docs/
 [Check out the documentation](https://vercel.com/docs/concepts/functions/serverless-functions/regions) as well.
 
 也请参阅[相关文档](https://vercel.com/docs/concepts/functions/serverless-functions/regions)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Skew Protection now supports prebuilt deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/skew-protection-now-supports-prebuilt-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js now supports a custom deploymentId in next.config.js, enabling Skew Protection for vercel deploy --prebuilt workflows. Set your own deployment ID using a git SHA or timestamp to maintain versi..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 28, 2026
 
@@ -35,3 +33,4 @@ module.exports = {
 此功能为“本地构建应用、再上传至 Vercel”这一特定工作流提供了 Skew Protection 支持。
 
 了解更多关于 [Skew Protection](https://vercel.com/docs/skew-protection) 的信息。
+{% endraw %}

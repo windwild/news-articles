@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Airbyte sources within LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/introducing-airbyte-sources-within-langchain/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:52:00.553771974+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written in collaboration with the [Airbyte](https://airbyte.com/?ref=blog.langchain.com) team. They've made it really easy to connect even more data sources to LangChain as document loaders._
 
@@ -227,3 +225,4 @@ If you are interested in leveraging Airbyte to ship data to your LLM-based appli
 If you have questions or are interested in other existing sources being exposed as loaders this way, do not hesitate to reach out on our [community slack channel](https://airbyte.com/community/community?ref=blog.langchain.com) or in the [Airbyte channel](https://discord.com/channels/1038097195422978059/1131406672972218430?ref=blog.langchain.com) on the LangChain discord server.
 
 如果您有任何疑问，或希望将其他现有数据源以类似方式封装为加载器，请随时通过我们的 [社区 Slack 频道](https://airbyte.com/community/community?ref=blog.langchain.com) 或 LangChain Discord 服务器中的 [Airbyte 频道](https://discord.com/channels/1038097195422978059/1131406672972218430?ref=blog.langchain.com) 与我们联系。
+{% endraw %}

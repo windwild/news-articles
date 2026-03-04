@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/multi-goal-reinforcement-learning"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 February 26, 2018
 
@@ -27,3 +27,4 @@ The purpose of this technical report is two-fold. First of all, it introduces a 
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "MultiOn x LangChain: Powering Next-Gen Web Automation & Navigation with AI"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/multion-x-langchain-powering-next-gen-web-automation-navigation-with-ai/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:14:29.458643554+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written in collaboration with [MultiOn](https://www.multion.ai/?ref=blog.langchain.com). We're really excited about the way they're using Agents to automate and streamline online interactions. They are one of the first real world, production agent applications that we know of. Their integration with LangChain as a Toolkit makes it quick and easy to personalize and automate everyday web tasks._
 
@@ -91,3 +89,4 @@ We’re very enthusiastic about the potential for Autonomous Web AI Agents, and 
 Stay tuned for more updates on our journey, and don't hesitate to reach us out at [info@multion.ai](mailto:info@multion.ai) if you have any questions or suggestions. We're always looking to hear from users and improve MultiOn to best serve your needs 🚀
 
 敬请持续关注我们的发展动态！如您有任何问题或建议，欢迎随时通过 [info@multion.ai](mailto:info@multion.ai) 与我们联系。我们始终期待聆听用户的声音，并不断优化 MultiOn，以更好地满足您的需求 🚀
+{% endraw %}

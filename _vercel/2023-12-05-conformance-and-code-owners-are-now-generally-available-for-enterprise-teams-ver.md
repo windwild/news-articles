@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Conformance and Code Owners are now generally available for Enterprise teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/conformance-and-code-owners-are-now-generally-available-for-enterprise-teams"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 5, 2023
 
@@ -53,3 +51,4 @@ Today, we're releasing new features to Vercel's [Developer Experience Platform](
 [Check out the documentation](https://vercel.com/docs/workflow-collaboration/conformance) to learn more or [contact us](https://vercel.com/contact/sales) to get started.
 
 请查阅[文档](https://vercel.com/docs/workflow-collaboration/conformance)了解更多信息，或[联系我们](https://vercel.com/contact/sales)立即开始。
+{% endraw %}

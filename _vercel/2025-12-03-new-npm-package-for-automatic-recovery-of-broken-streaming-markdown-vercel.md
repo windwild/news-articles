@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New npm package for automatic recovery of broken streaming markdown - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-npm-package-for-automatic-recovery-of-broken-streaming-markdown"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A new standalone package that brings Streamdown's intelligent incomplete Markdown handling to any application. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 3, 2025
 
@@ -148,3 +146,4 @@ To get started, either use it through [Streamdown](https://www.npmjs.com/package
 ```bash
 npm i remend
 ```
+{% endraw %}

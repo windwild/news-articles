@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deployment logs filtering now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deployment-logs-filtering-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 10, 2023
 
@@ -21,3 +19,4 @@ Feb 10, 2023
 You can now apply filters to your deployment logs. For failed builds, the logs will automatically filter to errors. The heuristics used to detect error and warning logs have also been improved.
 
 现在，您可对部署日志应用筛选器。对于构建失败的情况，日志将自动筛选出错误信息。此外，用于识别错误日志和警告日志的启发式算法也已优化改进。
+{% endraw %}

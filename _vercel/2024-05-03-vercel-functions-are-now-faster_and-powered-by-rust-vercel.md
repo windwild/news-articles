@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Functions are now faster—and powered by Rust - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-functions-are-now-faster-and-powered-by-rust"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn about how we've improved startup performance with our Rust-powered functions."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 3, 2024
 
@@ -106,3 +104,4 @@ In the coming weeks, we'll also share more about automatic optimizations we're m
 [Learn more about Vercel Functions](https://vercel.com/docs/functions) or get started [building your first site](https://vercel.com/templates).
 
 [深入了解 Vercel Functions](https://vercel.com/docs/functions)，或立即着手 [构建您的首个网站](https://vercel.com/templates)。
+{% endraw %}

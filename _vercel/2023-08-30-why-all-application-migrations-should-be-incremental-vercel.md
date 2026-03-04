@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Why all application migrations should be incremental  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/incremental-migrations"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Projects that require migrations should aim for incremental migrations"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 30, 2023
 
@@ -303,3 +301,4 @@ Contact Us](https://vercel.com/contact/sales)
 我们的专家可协助您根据团队的独特需求，高效使用 Vercel。\\
 \\
 联系我们](https://vercel.com/contact/sales)
+{% endraw %}

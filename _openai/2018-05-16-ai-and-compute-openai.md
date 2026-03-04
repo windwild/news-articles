@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI and compute | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ai-and-compute"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing an analysis showing that since 2012, the amount of compute used in the largest AI training runs has been increasing exponentially with a 3.4-month doubling time (by comparison, Moore..."
 tags: ["Research"]
 ---
+{% raw %}
 
 May 16, 2018
 
@@ -279,3 +279,4 @@ ReleaseJul 28, 2021](https://openai.com/index/triton/)
 ConclusionJan 25, 2021](https://openai.com/index/scaling-kubernetes-to-7500-nodes/)
 
 AI and compute \| OpenAI
+{% endraw %}

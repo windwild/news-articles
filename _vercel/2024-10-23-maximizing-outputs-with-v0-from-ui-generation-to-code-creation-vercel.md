@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Maximizing outputs with v0: From UI generation to code creation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/maximizing-outputs-with-v0-from-ui-generation-to-code-creation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn prompt engineering best practices for working with v0's core functionality to get the best results."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 23, 2024
 
@@ -232,3 +230,4 @@ Whether you're coding, designing, or strategizing, v0 is your 24/7 companion, tr
 \\  
 Start building](https://v0.dev/)  
 开始构建](https://v0.dev/)
+{% endraw %}

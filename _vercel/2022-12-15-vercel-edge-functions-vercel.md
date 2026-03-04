@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Edge Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/edge-functions-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Edge Functions are now generally available for fast, efficient compute."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 15, 2022
 
@@ -222,3 +220,4 @@ Hobby（入门版）用户每月可免费使用 **50 万** 个 Edge Function 执
 ## 下一步
 
 要开始使用 Vercel，请[部署一个 Edge Function](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fedge-api-routes%2Fhello-world-next&project-name=next-edge-api-route&repository-name=next-edge-api-route)，或查阅我们的[文档](https://vercel.com/docs/concepts/functions/edge-functions)快速上手。
+{% endraw %}

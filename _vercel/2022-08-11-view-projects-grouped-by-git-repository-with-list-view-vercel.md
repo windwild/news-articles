@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "View projects grouped by Git repository with list view - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/view-projects-grouped-by-git-repository-with-list-view"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 11, 2022
 
@@ -29,3 +27,4 @@ List view improves the experience for teams using monorepos or a large number of
 Check out the [documentation](https://vercel.com/docs/dashboard-features/overview) to learn more.
 
 请查阅[文档](https://vercel.com/docs/dashboard-features/overview)，了解更多信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Unified documentation search across Vercel, Next.js, and Turborepo - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/unified-documentation-search-across-vercel-next-js-and-turborepo"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 8, 2023
 
@@ -29,3 +27,4 @@ Dec 8, 2023
 您可在 Vercel 文档网站或控制台（使用 `Shift+D` 打开）中，通过 macOS 上按 `⌘+K` 或 Windows/Linux 上按 `Ctrl+K` 调出该菜单。
 
 [查阅相关文档](https://vercel.com/docs/dashboard-features/command-menu#searching-documentation) 以了解更多信息。
+{% endraw %}

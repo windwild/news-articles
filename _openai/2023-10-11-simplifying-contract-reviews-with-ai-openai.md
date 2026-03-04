@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Simplifying contract reviews with AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ironclad"
@@ -10,6 +9,7 @@ translated: false
 description: "Ironclad uses GPT-4 to simplify the contract review process."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Ironclad
@@ -81,3 +81,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Simplifying contract reviews with AI \| OpenAI
+{% endraw %}

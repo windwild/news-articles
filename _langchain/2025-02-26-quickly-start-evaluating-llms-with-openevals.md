@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Quickly Start Evaluating LLMs With OpenEvals"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/evaluating-llms-with-openevals/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:39:06.774023059+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Evaluations (evals) are important for bringing reliable LLM powered applications or agents to production, but it can be hard to know where to start when building evaluations from scratch. Our new packages— [openevals](https://github.com/langchain-ai/openevals?ref=blog.langchain.com) and [agentevals](https://github.com/langchain-ai/agentevals?ref=blog.langchain.com)—provide a set of evaluators and a common framework that you can easily get started with.
 
@@ -176,3 +174,4 @@ This is just the beginning of our ongoing effort to codify best practices for ev
 Have ideas for evaluators you'd like to see? Open an issue on our GitHub repositories ( [openevals](https://github.com/langchain-ai/openevals?ref=blog.langchain.com) and [agentevals](https://github.com/langchain-ai/agentevals?ref=blog.langchain.com)). If you've developed evaluators that have worked well for your applications, we welcome pull requests to share them with the community.
 
 您对评估器有新的构想或需求？欢迎在我们的 GitHub 仓库中提交 Issue：[openevals](https://github.com/langchain-ai/openevals?ref=blog.langchain.com) 和 [agentevals](https://github.com/langchain-ai/agentevals?ref=blog.langchain.com)。若您已开发出在实际应用中表现优异的评估器，我们也非常欢迎您通过 Pull Request 将其贡献给社区。
+{% endraw %}

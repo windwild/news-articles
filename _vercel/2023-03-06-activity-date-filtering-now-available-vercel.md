@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Activity date filtering now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/activity-date-filtering-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 6, 2023
 
@@ -25,3 +23,4 @@ You are now able to filter the Activity of your team on Vercel based on a specif
 [Check out the documentation](https://vercel.com/docs/concepts/observability/activity-log) to learn more.
 
 [查看文档](https://vercel.com/docs/concepts/observability/activity-log) 了解更多信息。
+{% endraw %}

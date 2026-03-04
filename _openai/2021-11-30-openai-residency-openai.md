@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Residency | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-residency"
@@ -10,6 +9,7 @@ translated: false
 description: "As part of our effort to support and develop AI talent, we’re excited to announce the OpenAI Residency."
 tags: ["Company"]
 ---
+{% raw %}
 
 November 30, 2021
 
@@ -54,3 +54,4 @@ Sam Altman, CEO of OpenAI
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2021](https://openai.com/news/?tags=2021)
+{% endraw %}

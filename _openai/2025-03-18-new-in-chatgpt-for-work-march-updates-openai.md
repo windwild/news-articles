@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New in ChatGPT for Work: March Updates  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Join us as we share our latest releases and how ChatGPT is becoming more interactive, customized to the way your teams work, and agentic."
 ---
+{% raw %}
 
 Recorded: March 18, 2025
 
@@ -26,3 +26,4 @@ Canvas, work with apps, deep research and OpenAI o1 pro mode.
 - [Talk with our team](https://openai.com/contact-sales/)
 
 New in ChatGPT for Work: March Updates \| OpenAI
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Self-serve domain renewals and redemptions now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/self-serve-domain-renewals-and-redemptions-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Self-serve domain renewals and redemptions are now available directly in the Vercel dashboard, giving you the ability to manage domain lifecycle events without assistance."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 21, 2025
 
@@ -57,3 +55,4 @@ Not all top-level domains (TLDs) support redemptions.
 Read our [domains renewal documentation](https://vercel.com/docs/projects/domains/renew-a-domain) for more information.
 
 请查阅我们的 [域名续费文档](https://vercel.com/docs/projects/domains/renew-a-domain)，了解更多信息。
+{% endraw %}

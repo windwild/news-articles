@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Exceeding included Image Optimization usage no longer pauses deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/exceeding-included-image-optimization-usage-no-longer-pauses-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 28, 2023
 
@@ -31,3 +29,4 @@ Based on your feedback, rather than pausing a deployment when exceeding the incl
 [Check out our documentation](https://vercel.com/docs/image-optimization/limits-and-pricing) to learn more.  
 
 [查阅我们的文档](https://vercel.com/docs/image-optimization/limits-and-pricing)，了解更多信息。
+{% endraw %}

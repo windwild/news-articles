@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Fullstack serverless with MongoDB Atlas integration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/mongodb-atlas-integration"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 7, 2022
 
@@ -27,3 +25,4 @@ MongoDB Atlas 集成使您能够在数秒内将新的或已有的免费 Atlas �
 Try out [the integration](https://vercel.com/integrations/mongodbatlas) or jumpstart your development with the [MongoDB Starter](https://github.com/vercel/mongodb-starter).
 
 请尝试使用 [该集成](https://vercel.com/integrations/mongodbatlas)，或通过 [MongoDB 启动模板（MongoDB Starter）](https://github.com/vercel/mongodb-starter) 快速启动您的开发工作。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
@@ -10,8 +9,7 @@ translated: true
 description: "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
 tags: ["Company"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 27, 2026
 
@@ -94,3 +92,4 @@ Amazon Bedrock 中的 Stateful Runtime 即将上线。如希望了解其如何�
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

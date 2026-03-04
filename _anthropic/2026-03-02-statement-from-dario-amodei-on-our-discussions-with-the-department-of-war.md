@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Statement from Dario Amodei on our discussions with the Department of War"
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/statement-department-of-war"
@@ -9,8 +8,7 @@ translated: true
 description: "A statement from our CEO on national security uses of AI"
 tags: ["Announcements"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 # Statement from Dario Amodei on our discussions with the Department of War
 
@@ -67,3 +65,4 @@ It is the Department’s prerogative to select contractors most aligned with the
 We remain ready to continue our work to support the national security of the United States.
 
 我们始终做好准备，继续致力于支持美利坚合众国的国家安全。
+{% endraw %}

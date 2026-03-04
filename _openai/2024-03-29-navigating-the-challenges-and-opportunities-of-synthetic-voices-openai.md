@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Navigating the challenges and opportunities of synthetic voices | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re sharing lessons from a small scale preview of Voice Engine, a model for creating custom voices."
 tags: ["Product"]
 ---
+{% raw %}
 
 March 29, 2024
 
@@ -121,3 +121,4 @@ PublicationJan 31, 2024](https://openai.com/index/building-an-early-warning-syst
 SafetyDec 14, 2023](https://openai.com/index/weak-to-strong-generalization/)
 
 Navigating the challenges and opportunities of synthetic voices \| OpenAI
+{% endraw %}

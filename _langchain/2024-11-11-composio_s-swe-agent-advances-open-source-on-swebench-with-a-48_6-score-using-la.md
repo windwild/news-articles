@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Composio’s SWE agent advances open-source on SweBench with a 48.6% score using LangGraph and LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/composio-swekit/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:49:13.152352529+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 We are excited to launch SWE-Kit, an open-source headless IDE with AI-native coding toolkits for AI agents, as part of Composio's agent tooling ecosystem. SWE-kit offers a headless IDE featuring Language Server Protocol (LSP) for code intelligence and a development container for secure code execution. It also features comprehensive coding tools like CodeAnalysis, Shell tools, File management and Git tools.
 
@@ -267,3 +265,4 @@ SWE-Kit 的设计初衷之一，是让开发者能够便捷地构建其专属的
 
 Our vision extends beyond software engineering to various real-world applications, including CRM, HRM, and administration. By making agent-driven automation dependable and accessible, we aim to equip developers to build intelligent agents capable of transforming workflows across industries.  
 我们的愿景不仅限于软件工程领域，更延伸至客户关系管理（CRM）、人力资源管理（HRM）、行政管理等众多现实应用场景。通过使基于智能体的自动化技术更加可靠且易于获取，我们致力于赋能开发者构建具备跨行业流程变革能力的智能体。
+{% endraw %}

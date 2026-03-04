@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Turborepo is porting from Go to Rust - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Our strategy for making updates and maintaining stability while we migrate languages."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 21, 2023
 
@@ -301,3 +299,4 @@ Vercel.com 官网落地页
 ### Visit turborepo.com
 
 ### 访问 turborepo.com
+{% endraw %}

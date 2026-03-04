@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Role-based Access Control now generally available on Enterprise Plans - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/role-based-access-control-now-generally-available-on-enterprise-plans"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 28, 2022
 
@@ -37,3 +35,4 @@ Role-based access controls are now available to all Enterprise customers, includ
 [Check out the documentation](https://vercel.com/docs/teams-and-accounts/team-members-and-roles) to learn more.
 
 [查阅文档](https://vercel.com/docs/teams-and-accounts/team-members-and-roles) 了解更多信息。
+{% endraw %}

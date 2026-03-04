@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Fluid compute works on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-fluid-compute-works-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "See how Fluid combines server efficiency and serverless flexibility by reusing compute before creating new resources, reducing cold starts, and running in unconstrained environments while staying secu..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 3, 2025
 
@@ -126,3 +124,4 @@ Once enabled, visit [your Observability tab](https://vercel.com/d?to=%2F%5Bteam%
 Learn more about Fluid in the [changelog](https://vercel.com/changelog/vercel-functions-can-now-run-on-fluid-compute) and [documentation](https://vercel.com/docs/functions/fluid-compute).
 
 更多关于 Fluid 的信息，请参阅[更新日志](https://vercel.com/changelog/vercel-functions-can-now-run-on-fluid-compute)和[文档](https://vercel.com/docs/functions/fluid-compute)。
+{% endraw %}

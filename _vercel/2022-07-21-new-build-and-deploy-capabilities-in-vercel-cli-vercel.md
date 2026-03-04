@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New build and deploy capabilities in Vercel CLI - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-build-and-deploy-capabilities-in-vercel-cli"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 21, 2022
 
@@ -27,3 +25,4 @@ Vercel 的 [Build Output API](https://vercel.com/docs/build-output-api/v3) 现�
 - `vercel deploy --prebuilt`：将预构建的产物（build output）直接部署至 Vercel，无需将源代码经由 Vercel 的构建系统进行处理
 
 更多详情，请参阅博客上的 [Build Output API 发布公告](https://vercel.com/blog/build-output-api)。框架开发者可参考 [Build Output API 示例代码库](https://github.com/vercel/examples/tree/main/build-output-api)。
+{% endraw %}

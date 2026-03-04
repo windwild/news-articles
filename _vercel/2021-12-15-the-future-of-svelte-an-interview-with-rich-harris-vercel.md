@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The future of Svelte, an interview with Rich Harris - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-future-of-svelte-an-interview-with-rich-harris"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "In this 45-minute interview, hear Rich Harris (the creator of Svelte) talk about its plans for the future. Other topics include funding open-source, SvelteKit 1.0, the Edge-first future, and more."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 15, 2021
 
@@ -113,3 +111,4 @@ And in the case of Vercel where we have this global CDN and we have this global 
 **Watch the full interview to see why developers love Svelte and try** [**Svelte on Vercel**](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fsveltekit&template=sveltekit&id=67753070&b=main&from=templates) **today.**
 
 **观看完整访谈，了解开发者为何钟爱 Svelte，并立即尝试** [**Vercel 上的 Svelte**](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fsveltekit&template=sveltekit&id=67753070&b=main&from=templates) **。**
+{% endraw %}

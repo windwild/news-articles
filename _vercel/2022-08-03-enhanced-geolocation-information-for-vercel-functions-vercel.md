@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enhanced geolocation information for Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-geolocation-information-available-for-vercel-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 3, 2022
 
@@ -43,3 +41,4 @@ X-Vercel-IP-Timezone: Japan
 该请求头现已对所有计划（包括新部署和已存在的）Vercel Functions 自动启用——无需修改代码或配置。
 
 也可参阅 [相关文档](http://vercel.com/docs/edge-network/headers#request-headers)。
+{% endraw %}

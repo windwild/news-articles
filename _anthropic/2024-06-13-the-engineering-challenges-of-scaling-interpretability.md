@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The engineering challenges of scaling interpretability"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/engineering-challenges-interpretability"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Interpretability
 
@@ -155,3 +153,4 @@ If you’re an engineer who fits this bill, and who is passionate about AI safet
 5. **Are you open to candidates outside of the Bay Area?** The team currently has members in San Francisco, Boston, New York, Seattle, and London. The largest concentration is in San Francisco, and those members come into the office several days a week. We are open to remote working, with a requirement to visit an Anthropic office about 25% of the year. See our [Careers page](https://www.anthropic.com/careers) for more information about all our open positions.
 
 5. **是否接受旧金山湾区以外地区的候选人？** 目前团队成员分布于旧金山、波士顿、纽约、西雅图和伦敦等地。其中人数最集中的办公地点是旧金山，当地成员每周需到办公室办公数天。我们支持远程办公，但要求员工每年约 25% 的工作时间需在 Anthropic 办公室现场办公。有关所有开放职位的更多信息，请参阅我们的 [招聘页面](https://www.anthropic.com/careers)。
+{% endraw %}

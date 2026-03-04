@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel now supports Build Commands for FastAPI and Flask - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-now-supports-build-commands-for-fastapi-and-flask"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "In addition to defining a Build Command in the project Settings dashboard, you can also define a build script in [tool.vercel.scripts] inside your pyproject.toml to run after dependencies are installe..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 17, 2025
 
@@ -47,3 +45,4 @@ build = "python build.py"
 Learn more about the [Build Command](https://vercel.com/docs/frameworks/backend/fastapi#build-command) for Python projects.
 
 了解更多关于 Python 项目的 [构建命令](https://vercel.com/docs/frameworks/backend/fastapi#build-command)。
+{% endraw %}

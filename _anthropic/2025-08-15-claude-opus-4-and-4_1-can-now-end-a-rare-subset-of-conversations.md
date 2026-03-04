@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Claude Opus 4 and 4.1 can now end a rare subset of conversations"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/end-subset-conversations"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "An update on our exploratory research on model welfare"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -66,3 +64,4 @@ When Claude chooses to end a conversation, the user will no longer be able to se
 
 We’re treating this feature as an ongoing experiment and will continue refining our approach. If users encounter a surprising use of the conversation-ending ability, we encourage them to submit feedback by reacting to Claude’s message with Thumbs or using the dedicated “Give feedback” button.  
 我们将此功能视为一项持续进行的实验，并将持续优化相关策略。若用户遇到该终止对话能力的出乎意料的启用情形，我们鼓励您通过点击克劳德消息旁的“点赞/点踩”按钮，或使用专用的“提交反馈”按钮，及时向我们反馈。
+{% endraw %}

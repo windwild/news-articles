@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Updated default retention policy for canceled deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/updated-default-retention-policy-for-canceled-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 12, 2024
 
@@ -21,3 +19,4 @@ Oct 12, 2024
 自 2024 年 11 月 18 日起，我们将仅针对**已取消的部署（canceled deployments）** 调整默认保留策略。除非您的项目已配置[自定义部署保留设置](https://vercel.com/docs/security/deployment-retention#setting-a-deployment-retention-policy)，否则所有项目的已取消部署将在 **30 天后** 自动删除。此调整不会影响任何未被取消的部署。
 
 了解更多关于[部署保留（Deployment Retention）](https://vercel.com/docs/security/deployment-retention) 的信息。
+{% endraw %}

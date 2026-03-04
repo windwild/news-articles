@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Spend Management now available for Pro users - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/spend-management-now-available-for-pro-users"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 5, 2023
 
@@ -41,3 +39,4 @@ Setting a spend amount does not mean your project with pause automatically. To p
 [Check out our documentation](https://vercel.com/docs/accounts/spend-management) to learn more.
 
 [查阅我们的文档](https://vercel.com/docs/accounts/spend-management)以了解更多信息。
+{% endraw %}

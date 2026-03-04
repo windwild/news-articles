@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The no-nonsense approach to AI agent development - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-no-nonsense-approach-to-ai-agent-development"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to build reliable, domain-specific AI agents by simulating tasks manually, structuring logic with code, and optimizing with real-world feedback. A clear, hands-on approach to practical autom..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 4, 2025
 
@@ -322,3 +320,4 @@ Try AI SDK](https://ai-sdk.dev/)
 立即上手 AI SDK，运用真实的软件工程模式，构建可靠、边界清晰的 AI 智能体。\\
 \\
 试用 AI SDK](https://ai-sdk.dev/)
+{% endraw %}

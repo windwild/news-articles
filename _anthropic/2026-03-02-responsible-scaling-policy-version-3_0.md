@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Responsible Scaling Policy Version 3.0"
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/responsible-scaling-policy-v3"
@@ -9,8 +8,7 @@ translated: true
 description: "An update to Anthropic's policy to mitigate catastrophic risks from AI"
 tags: ["Policy"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 PolicyAnnouncements
 
@@ -217,3 +215,4 @@ The Responsible Scaling Policy was always planned to be a living document: a pol
 In that same spirit of pragmatism we will continue to revise and refine our RSP, and our methods of evaluating and mitigating risks, as the technology evolves.
 
 秉承同样务实的精神，我们将持续修订和完善RSP，以及风险评估与缓解方法，以适配技术的不断演进。
+{% endraw %}

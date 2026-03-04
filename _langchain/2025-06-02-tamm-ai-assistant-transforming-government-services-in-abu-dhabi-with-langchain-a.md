@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "TAMM AI Assistant: Transforming Government Services in Abu Dhabi with LangChain and LangGraph\""
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-abu-dhabi-government/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how the Abu Dhabi Government powers their government services platform with LangGraph and LangChain to achieve efficiency and precision."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 The TAMM platform, Abu Dhabi Government’s exclusive one-stop shop, offers more than 940 services to citizens, residents, visitors, and businesses in the emirate. Recognised globally for its cutting-edge technologies and innovation, TAMM enables users to access essential services such as applying for driving licenses, paying fines, and retrieving personal documents.
 
@@ -188,3 +186,4 @@ TAMM AI 助手代表了未来公民参与服务的新范式——通过 AI 智�
 [**Monte Carlo: Building Data + AI Observability Agents with LangGraph and LangSmith**](https://blog.langchain.com/customers-monte-carlo/)
 
 [**Monte Carlo：使用 LangGraph 和 LangSmith 构建数据与 AI 可观测性智能体**](https://blog.langchain.com/customers-monte-carlo/)
+{% endraw %}

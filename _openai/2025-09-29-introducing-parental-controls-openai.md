@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing parental controls | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-parental-controls"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 2025年9月29日
 
@@ -155,3 +153,4 @@ This is an important step forward, but our work isn’t done. We’ll continue t
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)  
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
+{% endraw %}

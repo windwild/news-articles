@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Invite collaborators to view and comment on your deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/invite-collaborators-to-view-and-comment-on-your-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 6, 2024
 
@@ -27,3 +25,4 @@ The share menu will display who currently has access to a given deployment. User
 Visit the documentation to learn more about all options for [sharing deployments](https://vercel.com/docs/deployments/sharing-deployments).
 
 请查阅文档，了解有关[分享部署](https://vercel.com/docs/deployments/sharing-deployments)的所有选项详情。
+{% endraw %}

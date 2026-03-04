@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "What is a \"cognitive architecture\"?"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/what-is-a-cognitive-architecture/"
@@ -10,8 +9,7 @@ translated: true
 description: "The second installment in our \"In the Loop\" series, focusing on what cognitive architecture means."
 tags: ["Harrison Chase", "Harrison's Hot Takes"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **_Update: Several readers have pointed out that the term "cognitive architecture" has a_** [**_rich history_**](https://en.wikipedia.org/wiki/Cognitive_architecture?ref=blog.langchain.com) **_in neuroscience and computational cognitive science. Per Wikipedia, "a cognitive architecture refers to both a theory about the structure of the human mind and to a computational instantiation of such a theory". That definition (and corresponding research and articles on the topic) are more comprehensive than any definition I attempt to offer here, and this blog should instead be read as a mapping of my experience building and helping build LLM-powered applications over the past year to this area of research._**
 
@@ -172,3 +170,4 @@ _若你正构建结构清晰的链式流程或检索流程，请查阅 LangChain
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 min read
 
 [Harrison 的热点评论](https://blog.langchain.com/tag/in-the-loop/) 阅读时长：4 分钟
+{% endraw %}

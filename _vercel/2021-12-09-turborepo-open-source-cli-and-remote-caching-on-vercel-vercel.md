@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Turborepo Open-Source CLI and Remote Caching on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/turborepo-open-source-cli-and-remote-caching-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 9, 2021
 
@@ -33,3 +31,4 @@ Turborepo 通过以下特性显著缩短构建时间：
 - **任务流水线（Task pipelines）**
 
 立即 [开始使用 Turborepo](https://turborepo.org/docs/getting-started)。
+{% endraw %}

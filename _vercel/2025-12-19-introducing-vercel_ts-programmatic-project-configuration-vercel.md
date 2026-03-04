@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing vercel.ts: Programmatic project configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-ts"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports vercel.ts, a new TypeScript-based configuration file that brings type safety, dynamic logic, and better developer experience to project configuration."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 19, 2025
 
@@ -88,3 +86,4 @@ export const config: VercelConfig = {
 [Try the playground](https://vercel-ts-playground.vercel.app/) to explore `vercel.ts`, [learn how to migrate from an existing vercel.json](https://vercel.com/docs/project-configuration/vercel-ts#migrating-from-vercel.json), or read the [documentation](https://vercel.com/docs/project-configuration) and the [@vercel/config package](https://www.npmjs.com/package/@vercel/config).
 
 [Try the playground](https://vercel-ts-playground.vercel.app/)（尝试在线 Playground）以探索 `vercel.ts`，[学习如何从现有的 `vercel.json` 迁移](https://vercel.com/docs/project-configuration/vercel-ts#migrating-from-vercel.json)，或查阅 [文档](https://vercel.com/docs/project-configuration) 及 [@vercel/config 包](https://www.npmjs.com/package/@vercel/config)。
+{% endraw %}

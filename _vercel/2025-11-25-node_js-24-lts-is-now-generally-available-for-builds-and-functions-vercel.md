@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Node.js 24 LTS is now generally available for builds and functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-24-lts-is-now-generally-available-for-builds-and-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports Node.js 24 for builds and functions, featuring a V8 13.6 upgrade, the global URLPattern API, Undici v7 for faster fetch(), and npm v11 for modern package compatibility."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 25, 2025
 
@@ -33,3 +31,4 @@ Node.js 24 的主要更新亮点如下：
 当前使用的具体版本为 [24.11.0](https://github.com/nodejs/node/releases/tag/v24.11.0)，系统将自动更新补丁版本；仅保证主版本号（即 `24.x`）保持稳定。
 
 欲了解更多信息，请参阅我们的 [Node.js 运行时文档](https://vercel.com/docs/functions/runtimes/node-js)。
+{% endraw %}

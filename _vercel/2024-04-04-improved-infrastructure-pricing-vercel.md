@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved infrastructure pricing - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/improved-infrastructure-pricing"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We're reducing pricing on Vercel fundamentals like bandwidth and functions."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 4, 2024
 
@@ -100,3 +98,4 @@ How can I manage my spend?
 What is regional pricing?
 
 什么是区域定价？
+{% endraw %}

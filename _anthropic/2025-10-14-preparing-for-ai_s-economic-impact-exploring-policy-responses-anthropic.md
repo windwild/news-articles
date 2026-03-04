@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Preparing for AI’s economic impact: exploring policy responses \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/economic-policy-responses"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We’ve asked economists and researchers to explore policy responses to the potential economic effects of powerful AI. We share some of the initial ideas and feedback we’ve received."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Policy
 
@@ -255,3 +253,4 @@ What's clear, though, is that proactive engagement between researchers, policyma
 _Most of the policy ideas discussed in this post have emerged from proposals from or conversations with members of Anthropic's Economic Advisory Council, participants in our Economic Futures Symposia, and independent researchers. They do not all necessarily represent Anthropic's policy positions._
 
 _本文所讨论的多数政策构想，源自 Anthropic 经济咨询委员会（Economic Advisory Council）成员、我们“经济未来专题研讨会”（Economic Futures Symposia）的参会者，以及独立研究人员所提出的建议或相关交流。这些构想并不必然代表 Anthropic 的官方政策立场。_
+{% endraw %}

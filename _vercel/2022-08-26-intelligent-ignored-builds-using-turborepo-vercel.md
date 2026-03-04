@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Intelligent ignored builds using Turborepo - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/intelligent-ignored-builds-using-turborepo"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 26, 2022
 
@@ -35,3 +33,4 @@ Try it now by setting `npx turbo-ignore` as the [Ignored Build Step](https://ver
 [Check out the documentation](https://vercel.com/docs/concepts/monorepos/turborepo#step-4:-setup-the-ignored-build-step) to learn more.
 
 [查阅相关文档](https://vercel.com/docs/concepts/monorepos/turborepo#step-4:-setup-the-ignored-build-step) 以了解更多信息。
+{% endraw %}

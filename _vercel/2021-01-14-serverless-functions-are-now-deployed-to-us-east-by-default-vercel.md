@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Serverless Functions are now deployed to US East by default - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/serverless-functions-are-now-deployed-to-us-east-by-default"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 14, 2021
 
@@ -35,3 +33,4 @@ Existing projects will be unaffected, but can be switched to the new default fro
 Check out [the documentation](https://vercel.com/docs/serverless-functions/regions) as well.
 
 也欢迎查阅[相关文档](https://vercel.com/docs/serverless-functions/regions)。
+{% endraw %}

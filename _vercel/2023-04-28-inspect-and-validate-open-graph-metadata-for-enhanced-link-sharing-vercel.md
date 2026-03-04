@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Inspect and validate Open Graph metadata for enhanced link sharing - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/open-graph-link-sharing-inspector"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 28, 2023
 
@@ -29,3 +27,4 @@ View link previews for social platforms like Twitter, Slack, Facebook, and Linke
 Try it now by visiting the Open Graph tab on a [Vercel Deployment](https://vercel.com/docs/concepts/deployments/overview).
 
 立即尝试：访问任意 [Vercel 部署页面](https://vercel.com/docs/concepts/deployments/overview)，点击其中的 “Open Graph”（Open Graph）标签页。
+{% endraw %}

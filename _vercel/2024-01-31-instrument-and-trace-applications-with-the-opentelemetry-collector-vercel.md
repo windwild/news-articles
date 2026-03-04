@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Instrument and trace applications with the OpenTelemetry collector - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/instrument-and-trace-applications-with-the-opentelemetry-collector"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 31, 2024
 
@@ -89,3 +87,4 @@ Using the Vercel OTEL package with Next.js.
 Learn more in [our documentation](https://vercel.com/docs/observability/otel-overview) or start using the package with [Next.js](https://nextjs.org/docs/app/building-your-application/optimizing/open-telemetry).
 
 如需了解更多信息，请参阅[我们的文档](https://vercel.com/docs/observability/otel-overview)，或立即在 [Next.js](https://nextjs.org/docs/app/building-your-application/optimizing/open-telemetry) 项目中开始使用该包。
+{% endraw %}

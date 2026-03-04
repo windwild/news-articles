@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Securing your agents with authentication and authorization"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/agent-authorization-explainer/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Agents can take action which makes proper authentication and authorization critical. Read on for how to implement and evolve agent auth."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 最近，每家公司都在竞相构建智能体（agents）。与几年前的 AI 应用不同，智能体不再局限于聊天交互。智能体的显著特点是能够主动执行操作——例如获取文件、发送消息、调用工具以及更新记录。这使得其影响范围更广、风险更高，因而亟需一套更为审慎周密的安全保障策略。
 
@@ -245,3 +243,4 @@ However, agents _do_ bring new challenges to the table. Agents will routinely sp
 We’ve written about [agent access control](https://blog.arcade.dev/agent-authorization-langgraph-guide?ref=blog.langchain.com) before with our friends at [Arcade](https://www.arcade.dev/?ref=blog.langchain.com), in case you’re interested in diving deeper.
 
 我们此前曾与 [Arcade](https://www.arcade.dev/?ref=blog.langchain.com) 团队合作撰文，深入探讨了[智能体访问控制（agent access control）](https://blog.arcade.dev/agent-authorization-langgraph-guide?ref=blog.langchain.com)，若您希望进一步了解，欢迎阅读。
+{% endraw %}

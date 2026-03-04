@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved support for Nuxt on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nuxt-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Nuxt on Vercel now supports KV for Redis, Incremental Static Regeneration, and more."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 5, 2023
 
@@ -219,3 +217,4 @@ To leverage Vercel KV storage and ISR features for Nuxt, upgrade your Nuxt proje
 Learn more about [Nuxt on Vercel](https://vercel.com/docs/frameworks/nuxt) or [deploy a Nuxt template](https://vercel.com/templates/nuxt).
 
 了解更多关于 [Vercel 上的 Nuxt](https://vercel.com/docs/frameworks/nuxt)，或 [部署一个 Nuxt 模板](https://vercel.com/templates/nuxt)。
+{% endraw %}

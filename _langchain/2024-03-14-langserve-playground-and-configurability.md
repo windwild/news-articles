@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangServe Playground and Configurability"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langserve-playground-and-configurability/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["![Extraction Benchmarking", "**Extraction Benchmarking**", "**The Prompt Landscape**", "![Building Chat LangChain", "**Building Chat LangChain**"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Last week we launched [LangServe](https://blog.langchain.com/introducing-langserve/), a way to easily deploy chains and agents in a production-ready manner. Specifically, it takes a chain and easily spins up a FastAPI server with streaming and batch endpoints, as well as providing a way to stream intermediate steps.
 
@@ -154,3 +152,4 @@ This insight - and belief that this is a good path towards application developme
 [**Building Chat LangChain**](https://blog.langchain.com/building-chat-langchain-2/)
 
 [**构建 Chat LangChain**](https://blog.langchain.com/building-chat-langchain-2/)
+{% endraw %}

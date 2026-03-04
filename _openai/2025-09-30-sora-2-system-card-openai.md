@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sora 2 System Card | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/sora-2-system-card"
@@ -10,6 +9,7 @@ translated: false
 description: "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achie..."
 tags: ["Publication"]
 ---
+{% raw %}
 
 September 30, 2025
 
@@ -28,3 +28,4 @@ Our iterative deployment includes rolling out initial access to Sora 2 via limit
 
 - [2025](https://openai.com/research/index/?tags=2025)
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
+{% endraw %}

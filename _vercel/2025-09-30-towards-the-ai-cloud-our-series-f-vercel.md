@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Towards the AI Cloud: Our Series F - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/series-f"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Today, Vercel announced an important milestone: a Series F funding round valuing our company at $9.3 billion."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 30, 2025
 
@@ -132,3 +130,4 @@ v0 移动端应用，是笔记类 App 的进化形态——不同之处在于：
 I'll see you there (and also at [Next.js Conf](https://nextjs.org/conf) and [Ship AI](https://vercel.com/ship/ai)), building the future on the free, open, and infinitely creative web.
 
 期待在那里与你相见（也欢迎参加 [Next.js Conf](https://nextjs.org/conf) 和 [Ship AI](https://vercel.com/ship/ai)），共同在自由、开放、无限富有创造力的网络之上，构建未来。
+{% endraw %}

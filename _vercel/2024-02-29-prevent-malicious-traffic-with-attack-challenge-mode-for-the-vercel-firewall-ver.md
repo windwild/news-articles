@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Prevent malicious traffic with Attack Challenge Mode for the Vercel Firewall - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/prevent-malicious-traffic-with-attack-challenge-mode-for-vercel-firewall"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 29, 2024
 
@@ -37,3 +35,4 @@ Spikes in high volumes of traffic sometimes indicate malicious activity on your 
 Learn how to [enable Attack Challenge Mode](https://vercel.com/docs/security/attack-challenge-mode) and protect your site.
 
 了解如何[启用攻击挑战模式](https://vercel.com/docs/security/attack-challenge-mode)，以保护您的网站。
+{% endraw %}

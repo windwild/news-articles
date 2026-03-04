@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Doubling down on DeepAgents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/doubling-down-on-deepagents/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:18:43.726732223+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Two months ago [we wrote about Deep Agents](https://blog.langchain.com/deep-agents/) \- a term we coined for agents that are able to do complex, open ended tasks over longer time horizons. We hypothesized that there were four key elements to those agents: a planning tool, access to a filesystem, subagents, and detailed prompts.
 
@@ -97,3 +95,4 @@ They built on top of each other - `deepagents` is built on top of `langchain`'s 
 它们层层构建——`deepagents` 建立在 `langchain` 的智能体（agent）抽象层之上，而该抽象层又建立在 `langgraph` 的智能体运行时（agent runtime）之上。
 
 ![](images/doubling-down-on-deepagents/img_003.png)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Emergence of grounded compositional language in multi-agent populations | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/emergence-of-grounded-compositional-language-in-multi-agent-populations"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 March 15, 2017
 
@@ -27,3 +27,4 @@ By capturing statistical patterns in large corpora, machine learning has enabled
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
+{% endraw %}

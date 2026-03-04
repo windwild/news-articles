@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI code reviews by Vercel Agent now in Public Beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-code-reviews-by-vercel-agent-now-in-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Agent now provides high signal AI code reviews and fix suggestions to speed up your development process"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 18, 2025
 
@@ -35,3 +33,4 @@ Vercel Agent 现已支持代码审查功能，可提供经过验证的改进建�
 立即免费试用：[全新 Agent 仪表盘](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fvercel-agent&title=Open+Vercel+Agent)  
 深入了解：[官方文档](https://vercel.com/docs/agent/overview#pricing)  
 欢迎反馈：[Vercel 社区讨论帖](https://community.vercel.com/t/vercel-agent-now-in-public-beta/22813)
+{% endraw %}

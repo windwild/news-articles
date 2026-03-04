@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Preventing the stampede: Request collapsing in the Vercel CDN  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/cdn-request-collapsing"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel CDN now supports request collapsing for ISR routes. For a given path, only one function invocation per region runs at once, no matter how many concurrent requests arrive."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 25, 2025
 
@@ -402,3 +400,4 @@ The number of function calls elided by request collapsing varies a lot over time
 In production, the Vercel CDN currently collapses over 3M requests per day on cache miss, on top of the 90M collapsed requests from background revalidations. This feature is enabled for all projects on Vercel, so any customer using ISR benefits from request collapsing automatically.
 
 在生产环境中，Vercel CDN 目前每天在缓存未命中（cache miss）场景下合并超过 300 万次请求，此外还通过后台重新验证（background revalidation）合并了 9000 万次请求。该功能已默认对所有 Vercel 项目启用，因此任何使用增量静态再生（ISR）的客户均可自动受益于请求合并。
+{% endraw %}

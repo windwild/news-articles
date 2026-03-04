@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improvements and fixes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvements-and-fixes"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 22, 2023
 
@@ -33,3 +31,4 @@ Jun 22, 2023
 - **Git 元数据：** 当部署存在未暂存（unstaged）的更改时，您现在可在部署详情中查看相关 Git 元数据。
 
 - **Vercel CLI：** [v30.2.3 版本](https://github.com/vercel/vercel/releases/tag/vercel%4030.2.3)已发布，其中更新了 Node 和 Remix 的依赖项。
+{% endraw %}

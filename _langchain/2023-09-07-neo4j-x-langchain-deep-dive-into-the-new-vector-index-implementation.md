@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Neo4j x LangChain: Deep dive into the new Vector index implementation"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/neo4j-x-langchain-new-vector-index/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:46:38.827805382+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ### Learn how to customize LangChain’s wrapper of Neo4j vector index
 
@@ -383,3 +381,4 @@ Neo4j 新增的向量索引实现，使其能够支持依赖结构化与非结�
 The code is available on GitHub.
 
 代码已在 GitHub 上开源。
+{% endraw %}

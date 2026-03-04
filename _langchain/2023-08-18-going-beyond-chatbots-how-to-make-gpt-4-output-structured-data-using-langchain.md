@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Going Beyond Chatbots: How to Make GPT-4 Output Structured Data Using LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/going-beyond-chatbots-how-to-make-gpt-4-output-structured-data-using-langchain/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 By [Jacob Lee](https://twitter.com/hacubu?lang=en&ref=blog.langchain.com)
 
@@ -304,3 +302,4 @@ Happy prompting!
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

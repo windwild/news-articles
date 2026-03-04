@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Emburse increased site performance by 4x with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-emburse-increased-site-performance-by-4x-with-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Emburse transformed its digital presence by adopting Sanity, Next.js, and Vercel, enhancing performance, SEO, and global localization. This allowed their marketing team to manage content and launch ca..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 10, 2024
 
@@ -93,3 +91,4 @@ Jun 12, 2024
 Malte Ubl
 
 马尔特·乌布爾
+{% endraw %}

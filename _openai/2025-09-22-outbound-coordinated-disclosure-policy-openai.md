@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Outbound coordinated disclosure policy | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/policies/outbound-coordinated-disclosure-policy"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Outbound coordinated vulnerability disclosure policy"
 ---
+{% raw %}
 
 September 22, 2025
 
@@ -75,3 +75,4 @@ There may be exceptions in certain cases. For example, if timelines shift or the
 We reserve the right to change or deviate from this policy and our procedures implementing it. We anticipate that these will change substantially as security research and application security testing become increasingly automated with advances in AI. This policy does not create a contract, confer rights, or form the basis for reliance by any party.
 
 Outbound coordinated disclosure policy \| OpenAI
+{% endraw %}

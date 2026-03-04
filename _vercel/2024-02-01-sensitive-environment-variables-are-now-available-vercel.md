@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sensitive environment variables are now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sensitive-environment-variables-are-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 1, 2024
 
@@ -29,3 +27,4 @@ While all Environment Variables are encrypted, **sensitive values can** **only b
 Get started using [Sensitive Environment Variables](https://vercel.com/docs/projects/environment-variables/sensitive-environment-variables) through the dashboard or with Vercel CLI `33.4`.
 
 您可通过控制台或 Vercel CLI `33.4` 版本开始使用[敏感环境变量](https://vercel.com/docs/projects/environment-variables/sensitive-environment-variables)。
+{% endraw %}

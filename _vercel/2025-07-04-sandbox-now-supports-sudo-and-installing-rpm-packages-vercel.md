@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sandbox now supports sudo and installing RPM packages - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sandbox-now-supports-sudo-and-installing-rpm-packages"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now run commands with sudo inside Vercel Sandbox, giving you full control to install packages at runtime, just like on a traditional Linux system."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 4, 2025
 
@@ -53,3 +51,4 @@ await sandbox.runCommand({
 在 Sandbox 中启用 `sudo` 后，无需任何变通方案，即可在具备恰当权限的隔离环境中更轻松地运行不受信任的代码。
 
 了解更多关于 [Vercel Sandbox](https://vercel.com/docs/vercel-sandbox) 和文档中的 [sudo 配置](https://vercel.com/docs/vercel-sandbox#sudo-config)。
+{% endraw %}

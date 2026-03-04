@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Generating Usable Text with AI"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/generating-usable-text-with-ai/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written by_ [_Mutt Data_](https://muttdata.ai/?ref=blog.langchain.com) _through LangChain's Partner Program._
 
@@ -369,3 +367,4 @@ It is evident that a thoughtful approach to LLM integration, grounded in practic
 [**LangGraph 平台进入 Beta 测试阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 分钟阅读
+{% endraw %}

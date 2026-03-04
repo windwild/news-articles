@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enhance your collaboration experience - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/making-live-reviews-a-reality-enhanced-preview-experience"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Preview Deployments"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 20, 2022
 
@@ -97,3 +95,4 @@ All Pro and Enterprise teams will have the ability to use comments on their Prev
 [Get started today](https://vercel.com/docs/concepts/deployments/comments).
 
 [立即开始使用](https://vercel.com/docs/concepts/deployments/comments)
+{% endraw %}

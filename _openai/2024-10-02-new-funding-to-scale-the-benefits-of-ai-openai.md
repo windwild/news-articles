@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New funding to scale the benefits of AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/scale-the-benefits-of-ai"
@@ -10,6 +9,7 @@ translated: false
 description: "We are making progress on our mission to ensure that artificial general intelligence benefits all of humanity."
 tags: ["Company"]
 ---
+{% raw %}
 
 October 2, 2024
 
@@ -28,3 +28,4 @@ We aim to make advanced intelligence a widely accessible resource. We’re grate
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

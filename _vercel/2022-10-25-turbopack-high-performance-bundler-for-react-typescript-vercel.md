@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Turbopack: High-performance bundler for React & TypeScript - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/turbopack"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing Turbopack, the Rust-based successor to Webpack. A high-performance bundler for React Server Components and TypeScript codebases."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 25, 2022
 
@@ -119,3 +117,4 @@ We couldn’t be more excited about the future of the Turbo ecosystem, as we pus
 Explore the [Turbopack alpha](https://turbo.build/pack) in Next.js 13 today.
 
 今天就来体验 Next.js 13 中的 [Turbopack Alpha 版本](https://turbo.build/pack)。
+{% endraw %}

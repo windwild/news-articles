@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using the AI SDK to build Sitecore Stream's AI-powered brand aware assistant - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/using-the-ai-sdk-to-build-sitecore-streams-ai-powered-brand-aware-assistant"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Sitecore Stream from Sitecore, powered by the AI SDK, empowers marketers with real-time conversational AI. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 3, 2025
 
@@ -122,3 +120,4 @@ Get started with the AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-s
 使用 AI SDK 构建 AI 驱动的应用程序。\\
 \\
 立即开始使用 AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-sdk)
+{% endraw %}

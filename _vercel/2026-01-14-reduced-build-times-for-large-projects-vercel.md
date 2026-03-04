@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Reduced build times for large projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/reduced-build-times-for-large-projects"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've shipped optimizations that reduce build overhead, particularly for projects with many input files, large node_modules, or extensive build outputs."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 14, 2026
 
@@ -31,3 +29,4 @@ Builds complete 2.8 seconds faster on average, with larger builds seeing improve
 See the [builds documentation](https://vercel.com/docs/builds) for details.
 
 详情请参阅[构建文档](https://vercel.com/docs/builds)。
+{% endraw %}

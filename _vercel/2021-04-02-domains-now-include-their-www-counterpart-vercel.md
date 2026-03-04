@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Domains now include their `www` counterpart - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/domains-now-include-their-www-counterpart"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 2, 2021
 
@@ -35,3 +33,4 @@ Existing domains are not affected by this change, but we recommend ensuring that
 Check out [the documentation](https://vercel.com/docs/custom-domains#redirecting-domains) as well.
 
 请参阅 [相关文档](https://vercel.com/docs/custom-domains#redirecting-domains)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Codex | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-codex"
@@ -10,6 +9,7 @@ translated: false
 description: "Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independent..."
 tags: ["Release"]
 ---
+{% raw %}
 
 May 16, 2025
 
@@ -404,3 +404,4 @@ We are sharing the codex-1 system message to help developers understand the mode
 
 - [2025](https://openai.com/research/index/?tags=2025)
 - [Codex](https://openai.com/research/index/?tags=codex)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Pytest and Vitest integrations for LangSmith Evaluations"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/pytest-and-vitest-for-langsmith-evals/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing a new way to run evals using LangSmith’s Pytest and Vitest/Jest integrations."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Evaluations (evals) are an essential part of building reliable and high-quality LLM applications.  They help you assess performance of your application, ensuring that quality remains consistent as you make updates. If you come from a software engineering background, you’re likely familiar with using tests for this purpose.  To extend this familiar interface, we’re excited to introduce a new way to run evals using **LangSmith’s** [**Pytest**](https://docs.smith.langchain.com/evaluation/how_to_guides/pytest?ref=blog.langchain.com) **and** [**Vitest/Jest**](https://docs.smith.langchain.com/evaluation/how_to_guides/vitest_jest?ref=blog.langchain.com) **integrations.**
 
@@ -374,3 +372,4 @@ We’re excited to share our new approach to running evals using Pytest and Vite
 If you have feedback or feature requests, let us know what you think by getting in touch with us through the [LangChain Slack Community](https://langchaincommunity.slack.com/?ref=blog.langchain.com) or opening an issue on [GitHub](https://github.com/langchain-ai/langsmith-sdk?ref=blog.langchain.com). If you’re not part of the Slack community yet, sign up [here](https://www.langchain.com/join-community?ref=blog.langchain.com).
 
 如果您有任何反馈或功能建议，欢迎通过 [LangChain Slack 社区](https://langchaincommunity.slack.com/?ref=blog.langchain.com) 与我们联系，或在 [GitHub](https://github.com/langchain-ai/langsmith-sdk?ref=blog.langchain.com) 上提交 Issue。若您尚未加入 Slack 社区，可点击此处 [注册](https://www.langchain.com/join-community?ref=blog.langchain.com)。
+{% endraw %}

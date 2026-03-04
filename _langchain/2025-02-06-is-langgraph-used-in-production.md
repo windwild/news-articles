@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Is LangGraph Used In Production?"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/is-langgraph-used-in-production/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "LinkedIn, Uber, Replit, and Elastic are just a few of the companies using LangGraph for real use cases in production. Learn how they did it below!"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [Leading companies](https://www.langchain.com/built-with-langgraph?ref=blog.langchain.com) like Uber, LinkedIn, and Replit are choosing LangGraph to build agents that are not only powerful but also reliable.  
 像 Uber、LinkedIn 和 Replit 这样的领先企业正选择 LangGraph 来构建不仅功能强大、而且高度可靠的智能体（agents）。
@@ -111,3 +109,4 @@ As we enter 2025, LangGraph is poised to drive the next wave of AI agent adoptio
 Looking for more insights? Check out the [latest stories](https://www.langchain.com/built-with-langgraph?ref=blog.langchain.com) on how companies are using LangGraph, or explore our latest [video tutorial](https://www.youtube.com/watch?v=aHCDrAbH_go&ref=blog.langchain.com) on how to build effective AI agents.
 
 希望获取更多洞见？欢迎查阅关于企业如何使用 LangGraph 的[最新案例集锦](https://www.langchain.com/built-with-langgraph?ref=blog.langchain.com)，或观看我们的最新[视频教程](https://www.youtube.com/watch?v=aHCDrAbH_go&ref=blog.langchain.com)，了解如何构建高效实用的 AI 智能体。
+{% endraw %}

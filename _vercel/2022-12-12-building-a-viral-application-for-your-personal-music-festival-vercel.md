@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building a viral application for your personal music festival - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/from-idea-to-100-million-views-instafest-music-festival-application"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Anshay Saboo, a Computer Science student at USC, used Next.js and Vercel to launch Instafest fast and scale to 500,000 new users per hour."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 12, 2022
 
@@ -77,3 +75,4 @@ Instead, Anshay was able to take advantage of Vercel’s global Edge Network to 
 Learn more about [Next.js on Vercel](https://vercel.com/docs/concepts/next.js/overview) or get started today using one of our [Next.js templates](http://vercel.com/templates/next.js).
 
 了解更多关于 [Vercel 上的 Next.js](https://vercel.com/docs/concepts/next.js/overview)，或立即选用我们的任一 [Next.js 模板](http://vercel.com/templates/next.js) 开始构建。
+{% endraw %}

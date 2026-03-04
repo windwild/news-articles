@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Weak-to-strong generalization | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/weak-to-strong-generalization"
@@ -10,6 +9,7 @@ translated: false
 description: "We present a new research direction for superalignment, together with promising initial results: can we leverage the generalization properties of deep learning to control strong models with weak super..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 December 14, 2023
 
@@ -76,3 +76,4 @@ Figuring out how to align future superhuman AI systems to be safe has never been
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Framework](https://openai.com/news/?tags=framework)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

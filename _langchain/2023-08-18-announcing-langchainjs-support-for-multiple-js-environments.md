@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Announcing LangChainJS Support for Multiple JS Environments"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/js-envs/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **TLDR:** We're announcing support for running [LangChain.js](https://github.com/hwchase17/langchainjs?ref=blog.langchain.com) in browsers, [Cloudflare Workers](https://workers.cloudflare.com/?ref=blog.langchain.com), [Vercel/Next.js](https://nextjs.org/?ref=blog.langchain.com), [Deno](https://deno.com/runtime?ref=blog.langchain.com), [Supabase Edge Functions](https://supabase.com/edge-functions?ref=blog.langchain.com), alongside existing support for Node.js ESM and CJS. See install/upgrade [docs](https://js.langchain.com/docs/getting-started/install?ref=blog.langchain.com) and **breaking changes [list](https://blog.langchain.com/js-envs/#breaking-changes)**.
 
@@ -237,3 +235,4 @@ If we're not testing with your favorite environment yet, we're very open to PRs 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

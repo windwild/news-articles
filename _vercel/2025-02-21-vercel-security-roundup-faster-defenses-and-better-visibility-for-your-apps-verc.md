@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel security roundup: Faster defenses and better visibility for your apps - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-security-roundup-faster-defenses-and-better-visibility-for-your-apps"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel's security product updates improved traffic visibility, enhanced mitigation techniques, and resulted in blocking billions of malicious attacks."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 21, 2025
 
@@ -174,3 +172,4 @@ Learn more](https://vercel.com/security)
 Vercel 防火墙提供多层防护，可有效抵御应用层攻击、DDoS 威胁及恶意机器人流量。欢迎访问我们的安全页面，立即预约产品演示或配置防火墙规则\\
 \\
 了解更多](https://vercel.com/security)
+{% endraw %}

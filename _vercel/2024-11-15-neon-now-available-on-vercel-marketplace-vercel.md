@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Neon now available on Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/neon-now-available-on-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 15, 2024
 
@@ -27,3 +25,4 @@ Nov 15, 2024
 [Vercel Marketplace](https://vercel.com/marketplace) 面向所有订阅计划的客户开放。
 
 立即开始使用 [Vercel 上的 Neon](https://vercel.com/new/templates/next.js/postgres-starter)。
+{% endraw %}

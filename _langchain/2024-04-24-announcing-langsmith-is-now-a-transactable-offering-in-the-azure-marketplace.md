@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Announcing LangSmith is now a transactable offering in the Azure Marketplace"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/announcing-langsmith-is-now-a-transactable-offering-in-the-azure-marketplace/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Today, we’re thrilled to announce that enterprises can purchase [LangSmith in the Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/langchain.langsmith?tab=Overview&ref=blog.langchain.com) as an Azure Kubernetes Application.  
 今天，我们非常激动地宣布：企业 now 可通过 Azure Marketplace 以“Azure Kubernetes 应用”的形式采购 [LangSmith](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/langchain.langsmith?tab=Overview&ref=blog.langchain.com)。
@@ -166,3 +164,4 @@ _更多资源：_
 [**LangGraph 平台进入 Beta 阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 分钟阅读
+{% endraw %}

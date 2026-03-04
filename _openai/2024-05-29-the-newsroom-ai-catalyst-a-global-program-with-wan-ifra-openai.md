@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The Newsroom AI Catalyst: a global program with WAN-IFRA | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/newsroom-ai-catalyst-global-program-with-wan-ifra"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re collaborating with WAN-IFRA, the World Association of News Publishers, to launch a global accelerator program that will assist over 100 news publishers to explore and integrate AI in their new..."
 tags: ["Company"]
 ---
+{% raw %}
 
 May 29, 2024
 
@@ -38,3 +38,4 @@ More details about the program, the curriculum, the timeline, eligibility and th
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

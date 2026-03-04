@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Skills v1.1.1: Interactive discovery, open source release, and agent support - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/skills-v1-1-1-interactive-discovery-open-source-release-and-agent-support"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Skills v1.1.1 introduces interactive skill discovery with npx skills find, full open source release on GitHub, and enhanced support for 27 coding agents with automated workflows."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 26, 2026
 
@@ -57,3 +55,4 @@ npx skills add vercel-labs/agent-skills
 ```text
 npx skills add vercel-labs/agent-skills
 ```
+{% endraw %}

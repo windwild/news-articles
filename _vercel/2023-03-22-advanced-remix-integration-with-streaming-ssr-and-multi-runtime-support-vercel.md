@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Advanced Remix integration with streaming SSR and multi-runtime support - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/advanced-remix-integration-with-streaming-ssr-and-multi-runtime-support"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Advanced Remix integration with streaming SSR and multi-runtime support. Dynamically stream content with Node.js and Edge runtimes, easily build your serverless API, use powerful caching headers, and ..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 22, 2023
 
@@ -30,3 +28,4 @@ Mar 22, 2023
 
 
 请访问[我们的博客](https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support)，进一步了解 Vercel 如何增强 Remix 的开发体验。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Custom fonts without compromise using  Next.js and `next/font` - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-next-font"
@@ -9,8 +8,8 @@ language: "en-zh"
 translated: true
 description: "`next/font` automatically self-hosts your custom fonts, preventing layout shift and significantly reducing needed code."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
+{% raw %}
 
 Mar 28, 2023
 
@@ -348,3 +347,5 @@ Vercel.com 着陆页
 ### Docs for \`next/font\`
 
 ### \`next/font\` 文档
+{% endraw %}
+{% endraw %}

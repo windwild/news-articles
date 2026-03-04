@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Anthropic Education Report: The AI Fluency Index"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/AI-fluency-index"
@@ -9,8 +8,7 @@ translated: true
 description: "Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills."
 tags: ["Announcements"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Announcements
 
@@ -253,3 +251,4 @@ Hanah Ho helped visualize the data.
 
 Keir Bradwell, Rebecca Hiscott, Ryan Donegan and Sarah Pollack provided communications review and guidance.  
 凯尔·布拉德韦尔（Keir Bradwell）、丽贝卡·希斯科特（Rebecca Hiscott）、瑞安·多纳根（Ryan Donegan）和莎拉·波拉克（Sarah Pollack）提供了传播层面的审阅与指导。
+{% endraw %}

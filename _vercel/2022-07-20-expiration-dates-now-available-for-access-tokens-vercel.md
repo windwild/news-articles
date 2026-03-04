@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Expiration dates now available for Access Tokens - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/expiration-dates-now-available-for-access-tokens"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 20, 2022
 
@@ -27,3 +25,4 @@ You can now set an expiration date on all newly created Access Tokens. Setting a
 Check out [the documentation](https://vercel.com/docs/rest-api#introduction%2Fapi-basics%2Fauthentication%2Fcreating-an-access-token) to learn more.
 
 请查阅 [相关文档](https://vercel.com/docs/rest-api#introduction%2Fapi-basics%2Fauthentication%2Fcreating-an-access-token)，了解更多信息。
+{% endraw %}

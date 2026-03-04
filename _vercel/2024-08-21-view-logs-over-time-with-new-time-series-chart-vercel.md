@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "View logs over time with new time series chart - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/view-logs-over-time-with-new-time-series-chart"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 21, 2024
 
@@ -37,3 +35,4 @@ You can now visualize Runtime Logs with a time series chart.
 Learn more about [Runtime Logs](https://vercel.com/docs/observability/runtime-logs).
 
 了解更多关于 [Runtime Logs](https://vercel.com/docs/observability/runtime-logs) 的信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How to build agents with filesystems and bash - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-to-build-agents-with-filesystems-and-bash"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How to build agents with filesystems and bash, production agents, context management, template, bash"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 9, 2026
 
@@ -430,3 +428,4 @@ Deploy the template](https://vercel.com/templates/ai/call-summary-agent)
 “销售电话摘要”模板已在生产环境中落地应用该“文件系统 + Bash”范式。将其部署至 Vercel，即可实时观察智能体如何探索和操作文件。\\
 \\
 一键部署该模板](https://vercel.com/templates/ai/call-summary-agent)
+{% endraw %}

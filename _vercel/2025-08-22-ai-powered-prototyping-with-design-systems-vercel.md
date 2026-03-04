@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI-powered prototyping with design systems - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-powered-prototyping-with-design-systems"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Why AI-native design systems unlock true brand-ready, production-aligned prototyping for teams using v0"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 22, 2025
 
@@ -185,3 +183,4 @@ Get started](https://v0.app/)
 准备好在日常工作中亲身体验 v0 的强大能力了吗？\\
 \\
 立即开始](https://v0.app/)
+{% endraw %}

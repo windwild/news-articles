@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Societal Impacts
 
@@ -48,3 +46,4 @@ We describe our early efforts to red team language models in order to simultaneo
 ## 政策备忘录
 
 [Red Teaming Policy Memo](https://www-cdn.anthropic.com/82564d4ec2451b2eed2e0796b7c658fc989f0c1a/Anthropic_RedTeaming.pdf)
+{% endraw %}

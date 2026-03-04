@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Plan-and-Execute Agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/plan-and-execute-agents/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **TL;DR: 我们正在推出一种新型的智能体执行器（agent executor），我们称之为“规划-执行”（Plan-and-Execute）型智能体。此举旨在与此前支持的“动作型”（Action）智能体形成对比。“规划-执行”型智能体的设计深受 [BabyAGI](https://github.com/yoheinakajima/babyagi?ref=blog.langchain.com) 以及近期发表的 [Plan-and-Solve](https://storage.ghost.io/c/97/88/97889716-a759-46f4-b63f-4f5c46a13333/content/files/abs/2305.xml?ref=blog.langchain.com) 论文启发。我们认为，“规划-执行”模式特别适合处理更复杂的长期规划任务，但代价是需调用语言模型更多次。由于我们预期该功能将快速迭代，因此初始版本已放入 `experimental` 模块中。**
 
@@ -198,3 +196,4 @@ We were really excited to see this new agent paradigm pop up in BabyAGI (we high
 [**LangGraph 平台进入公测阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 分钟阅读
+{% endraw %}

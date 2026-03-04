@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "PaperBench: Evaluating AI’s Ability to Replicate AI Research | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/paperbench"
@@ -10,6 +9,7 @@ translated: false
 description: "We introduce PaperBench, a benchmark evaluating the ability of AI agents to replicate state-of-the-art AI research."
 tags: ["Publication"]
 ---
+{% raw %}
 
 April 2, 2025
 
@@ -26,3 +26,4 @@ We introduce PaperBench, a benchmark evaluating the ability of AI agents to repl
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [2025](https://openai.com/research/index/?tags=2025)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Mendable leverages LangSmith to debug Tools & Actions"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/how-mendable-leverages-langsmith-to-debug-tools-actions/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:17:42.945343935+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **_Editor's Note: this blog is from Nicolas Camara, CTO @ Mendable. Mendable.ai is a platform helping enterprise teams answer technical questions with AI. We're incredibly excited to highlight how they are using LangChain Agents and LangSmith on their newest feature:_** [**_Tools & Actions_**](https://www.mendable.ai/blog/tools?ref=blog.langchain.com) **_._**
 
@@ -162,3 +160,4 @@ Also, if you are looking to speed up your LLM development process, I would defin
 I hope my insights were helpful and thanks to LangChain for being an awesome partner.  
 
 希望我的分享对您有所启发；同时，衷心感谢 LangChain 作为卓越合作伙伴给予的支持。
+{% endraw %}

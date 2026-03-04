@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the Vercel Platforms Starter Kit - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/platforms-starter-kit"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A fullstack template for building multi-tenant applications with custom domains using Next.js App Router, Vercel Postgres, and the Vercel Domains API."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 5, 2023
 
@@ -299,3 +297,4 @@ Twitter 帖子
 ### 全新 Vercel Platforms 入门套件正式发布！使用 Next.js App Router、Vercel Postgres 和 Vercel Domains API，快速构建支持自定义域名的多租户应用。
 
 ![Vercel's avatar](images/introducing-the-vercel-platforms-starter-kit-vercel/img_010.jpg)Vercel@vercel
+{% endraw %}

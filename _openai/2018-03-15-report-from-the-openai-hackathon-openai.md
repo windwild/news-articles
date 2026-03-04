@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Report from the OpenAI hackathon | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/hackathon-follow-up"
@@ -10,6 +9,7 @@ translated: false
 description: "On March 3rd, we hosted our first hackathon with 100 members of the artificial intelligence community."
 tags: ["Company"]
 ---
+{% raw %}
 
 March 15, 2018
 
@@ -59,3 +59,4 @@ We got a [lot⁠(opens in a new window)](https://twitter.com/malharhar/status/9
 - [Events](https://openai.com/news/?tags=events)
 - [Community](https://openai.com/news/?tags=community)
 - [2018](https://openai.com/news/?tags=2018)
+{% endraw %}

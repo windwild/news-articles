@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Advanced Project Settings on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/advanced-project-settings"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fully customize your project’s behaviour or hit the ground running using our new framework presets."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 6, 2020
 
@@ -108,3 +106,4 @@ The `--name` flag is now [deprecated](https://vercel.com/docs/now-cli#commands/n
 With this release, we've also paved the way for several additional fields that will enable an even more extensive range of use cases in the future. [Stay tuned](https://twitter.com/vercel) [!](https://twitter.com/zeithq)
 
 借助本次发布，我们还为若干新增字段铺平了道路，未来将支持更广泛多样的使用场景。[敬请关注](https://twitter.com/vercel) [!](https://twitter.com/zeithq)
+{% endraw %}

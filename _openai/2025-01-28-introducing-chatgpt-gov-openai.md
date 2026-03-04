@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing ChatGPT Gov  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/introducing-chatgpt-gov"
@@ -10,6 +9,7 @@ translated: false
 description: "ChatGPT Gov is designed to streamline government agencies’ access to OpenAI’s frontier models."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 January 28, 2025
 
@@ -48,3 +48,4 @@ Since 2024, more than 90,000 users across more than 3,500 US federal, state, and
 - [Commonwealth of Pennsylvania⁠(opens in a new window)](https://www.pa.gov/agencies/oa/newsroom/agreement-innovateus-to-train-responsible-generative-artificial-.html) employees participating in a first-in-the-nation AI pilot program found ChatGPT Enterprise helped reduce the time spent on routine tasks—– such as analyzing project requirements and other elements of their work—– by approximately 105 minutes per day on the days they used it.
 
 We look forward to collaborating with government agencies to enhance service delivery to the American people through AI and to foster public trust in this critical technology. [Contact our team](https://openai.com/contact-sales/) to learn more.
+{% endraw %}

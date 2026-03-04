@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Agentic Misalignment: How LLMs could be insider threats"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/agentic-misalignment"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "New research on simulated blackmail, industrial espionage, and other misaligned behaviors in LLMs"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -745,3 +743,4 @@ journal={Anthropic Research},
 note={https://www.anthropic.com/research/agentic-misalignment}
 }
 ```
+{% endraw %}

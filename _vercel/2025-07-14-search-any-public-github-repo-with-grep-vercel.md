@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Search any public GitHub repo with Grep - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/search-any-public-github-repo-with-grep"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now use Grep to search any public repository on GitHub, no longer limited to the 1M+ pre-indexed repos. Get quick, full-text search across the repo without any setup."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 14, 2025
 
@@ -33,3 +31,4 @@ For example: visit [grep.app/vercel/ai](https://grep.app/vercel/ai) and start ty
 Get quick, full-text and regular expression search across the repo without any setup.
 
 无需任何配置，即可在该仓库中快速执行全文搜索和正则表达式搜索。
+{% endraw %}

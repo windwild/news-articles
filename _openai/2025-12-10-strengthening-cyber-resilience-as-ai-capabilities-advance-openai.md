@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Strengthening cyber resilience as AI capabilities advance | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/strengthening-cyber-resilience"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security commun..."
 tags: ["Security"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 December 10, 2025
 
@@ -134,3 +132,4 @@ Together, these efforts reflect our long-term commitment to strengthening the de
 
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)  
 - [政策与规程](https://openai.com/news/?tags=policies-procedures)
+{% endraw %}

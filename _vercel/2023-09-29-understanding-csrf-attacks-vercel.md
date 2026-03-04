@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Understanding CSRF attacks - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/understanding-csrf-attacks"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Understand the mechanics and risks of Cross-Site Request Forgery (CSRF) attacks, and discover crucial development practices, like anti-CSRF tokens and appropriate use of HTTP methods, to fortify web a..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 29, 2023
 
@@ -177,3 +175,4 @@ Reserve **`GET`** requests solely for data retrieval and avoid using them to mod
 Reserving **`GET`** for data retrieval and using **`POST`** for actions isn't just good for security, but it also follows the principle of making web behaviors predictable and understandable. Adhering to the intended use of HTTP methods leads to both a better user experience _and_ improved security.
 
 将 **`GET`** 专用于数据获取、将 **`POST`** 专用于执行操作，不仅有利于提升安全性，也符合“让 Web 行为可预测、易理解”的设计原则。严格遵循 HTTP 方法的语义约定，既能改善用户体验，又能增强系统安全性。
+{% endraw %}

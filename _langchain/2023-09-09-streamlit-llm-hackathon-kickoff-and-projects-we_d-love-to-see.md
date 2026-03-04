@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Streamlit LLM Hackathon Kickoff (and projects we’d love to see)"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/streamlit-llm-hackathon-kickoff-and-projects-wed-love-to-see-2/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:46:21.229144514+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Streamlit’s LLM Hackathon kicks off today and we’re thrilled to be partnering with them to bring it to life. We’ve been building with the Streamlit team since LangChain’s inception because it’s the easiest place to get started building LLM apps and we can’t wait to see what everyone builds this week.
 
@@ -132,3 +130,4 @@ Tag us on Twitter (@langchainai), Send us a note at hello@langchain.dev, or ping
 We can’t wait to see what you build!
 
 我们迫不及待想看到您构建的作品！
+{% endraw %}

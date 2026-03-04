@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Trusted IPs for Deployment Protection is now Generally Available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/trusted-ips-is-now-generally-available-for-enterprise-customers"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 2, 2023
 
@@ -37,3 +35,4 @@ Trusted IP for Deployment Protection is only available for customers on the Ente
 [Check out the documentation](https://vercel.com/docs/security/deployment-protection/methods-to-protect-deployments/trusted-ips) to learn more.
 
 [查阅文档](https://vercel.com/docs/security/deployment-protection/methods-to-protect-deployments/trusted-ips) 了解更多信息。
+{% endraw %}

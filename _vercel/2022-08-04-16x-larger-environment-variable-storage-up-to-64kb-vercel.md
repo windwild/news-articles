@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "16x larger Environment Variable storage up to 64KB - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/16x-larger-environment-variable-storage-up-to-64kb"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 4, 2022
 
@@ -29,3 +27,4 @@ Deployments using Node.js, Python, and Ruby can support the larger 64KB environm
 Check out [the documentation](https://vercel.com/docs/concepts/projects/environment-variables#environment-variable-size) as well.
 
 也欢迎查阅[相关文档](https://vercel.com/docs/concepts/projects/environment-variables#environment-variable-size)。
+{% endraw %}

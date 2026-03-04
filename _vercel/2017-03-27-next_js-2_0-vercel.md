@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Next.js 2.0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next2"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js 2.0 comes packed with performance improvements and extensibility features"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 27, 2017
 
@@ -475,3 +473,4 @@ If you have shipped Next.js to production or are planning to, please let us know
 We are bringing together the Next.js community at our one-day conference ZEIT Day on April 29th in San Francisco. It's a unique opportunity to meet other users and learn more about it from its creators!
 
 我们将于 4 月 29 日在旧金山举办为期一天的会议 ZEIT Day，汇聚 Next.js 社区。这是一次难得的机会，让您结识其他用户，并直接向 Next.js 的创作者深入了解该框架！
+{% endraw %}

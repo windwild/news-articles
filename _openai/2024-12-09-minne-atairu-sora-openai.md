@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Minne Atairu & Sora | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/sora-minne-atairu"
@@ -10,6 +9,7 @@ translated: false
 description: "Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision."
 tags: ["Story"]
 ---
+{% raw %}
 
 December 9, 2024
 
@@ -50,3 +50,4 @@ ProductDec 9, 2024](https://openai.com/index/sora-is-here/)
 [Start now(opens in a new window)](https://sora.com/library)
 
 Minne Atairu & Sora \| OpenAI
+{% endraw %}

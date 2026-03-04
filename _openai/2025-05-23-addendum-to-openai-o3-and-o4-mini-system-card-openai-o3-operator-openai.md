@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o."
 ---
+{% raw %}
 
 May 23, 2025
 
@@ -29,3 +29,4 @@ Although o3 Operator inherits o3’s coding capabilities, it does not have nativ
 
 - [System Cards](https://openai.com/news/?tags=system-cards)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

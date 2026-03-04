@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "MotorTrend: Shifting into overdrive with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/motortrend-shifting-into-overdrive-with-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How a performance-first approach drives business value. By migrating to Vercel, MotorTrend improved release times from 18 days to 10 minutes. As velocity improved, ad impressions grew, translating int..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 7, 2024
 
@@ -138,3 +136,4 @@ Mar 7, 2023
 
 Malte Ubl  
 马尔特·乌布爾
+{% endraw %}

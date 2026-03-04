@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Factory builds the Command Center for software development with OpenAI’s reasoning models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/factory"
@@ -10,6 +9,7 @@ translated: false
 description: "Accelerating engineering cycles 20% with OpenAI."
 tags: ["API"]
 ---
+{% raw %}
 
 
 # Factory builds the Command Center for software development with OpenAI’s reasoning models
@@ -107,3 +107,4 @@ APIFeb 27, 2025](https://openai.com/index/endex/)
 APIFeb 13, 2025](https://openai.com/index/rogo/)
 
 Factory builds the Command Center for software development with OpenAI’s reasoning models \| OpenAI
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Awakening Sleeping Beauties at The Met | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/the-met-museum"
@@ -10,6 +9,7 @@ translated: false
 description: "AI can enrich lives through beauty and creativity, and its artistic potential shines in \"Sleeping Beauties: Reawakening Fashion,\" a collaborative exhibit from The Met's Costume Institute."
 tags: ["Story"]
 ---
+{% raw %}
 
 [API](https://openai.com/stories/api/) [ChatGPT](https://openai.com/stories/chatgpt/)
 
@@ -25,3 +25,4 @@ To build the experience, we worked with the museum’s digital team to curate a 
 While there is still work to do to achieve a world where everyone can benefit from AI, collaborations like this push us towards that ideal. Examples like this highlight the potential for AI to drive human progress, and showcase how AI can be a tool to enhance how we think, create and experience the world around us.
 
 OpenAI
+{% endraw %}

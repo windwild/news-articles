@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Trading Inference-Time Compute for Adversarial Robustness | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness"
@@ -10,6 +9,7 @@ translated: false
 description: "Trading Inference-Time Compute for Adversarial Robustness"
 tags: ["Research"]
 ---
+{% raw %}
 
 January 22, 2025
 
@@ -74,3 +74,4 @@ Overall, we view this work as a promising sign for the power of inference-time c
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
+{% endraw %}

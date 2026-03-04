@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "PCI compliance for ecommerce - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/pci-compliance-for-ecommerce-teams"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Leverage iframes for payment processing to enable PCI compliance and maintain secure transactions on Vercel."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 7, 2024
 
@@ -149,3 +147,4 @@ Included, you’ll notice the `sandbox` [attribute](https://developer.mozilla.or
 
 While the inclusion of the iframe is relatively trivial for your frontend, maintaining security and integrity, requires diligence, and often involves maintaining at least some level of PCI compliance. For any organization integrating a payments processor, the PCI Security Standards Council provides a guide to [Best Practices for Securing Ecommerce](https://docs-prv.pcisecuritystandards.org/Guidance%20Document/e-Commerce/best_practices_securing_ecommerce.pdf), which we recommend reading. To learn more about Vercel and PCI DSS compliance, please visit our [Security & Compliance Measures](https://vercel.com/docs/security#pci-dss).  
 尽管在前端中嵌入 iframe 相对简单，但要确保安全性与完整性，仍需保持高度谨慎，且通常需至少满足一定程度的 PCI 合规要求。对于任何集成支付处理器的组织，PCI 安全标准委员会提供了《[电子商务安全最佳实践指南](https://docs-prv.pcisecuritystandards.org/Guidance%20Document/e-Commerce/best_practices_securing_ecommerce.pdf)》，我们强烈建议您阅读。如需进一步了解 Vercel 在 PCI DSS 合规方面的相关信息，请参阅我们的 [安全与合规措施](https://vercel.com/docs/security#pci-dss) 页面。
+{% endraw %}

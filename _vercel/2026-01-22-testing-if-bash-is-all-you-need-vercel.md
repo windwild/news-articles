@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Testing if \"bash is all you need\" - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/testing-if-bash-is-all-you-need"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We tested bash vs SQL agents on structured data queries. SQL dominated, but combining both tools achieved 100% accuracy. Try the open-source eval harness."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 22, 2026
 
@@ -280,3 +278,4 @@ Looks like filesystems are the next big thing in AI :) Everybody is playing with
 This is happening because models are trained heavily on coding tasks inside sandboxed environments with shells and filesystems. Hence, they get really good at navigating directories, reading
 
 这背后的原因在于：当前大模型大量依赖沙箱环境（内含 Shell 和文件系统）进行编程类任务训练。因此，它们在目录导航、文件读取等方面表现得尤为出色。
+{% endraw %}

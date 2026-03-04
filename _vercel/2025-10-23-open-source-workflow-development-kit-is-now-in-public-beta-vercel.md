@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Open source Workflow Development Kit is now in public beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/open-source-workflow-dev-kit-is-now-in-public-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Turn TypeScript functions into durable, reliable workflows with automatic retries, persistence, and observability built in."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 23, 2025
 
@@ -72,3 +70,4 @@ export async function hailRide(requestId: string) {
 Learn more about [Workflow](https://useworkflow.dev/) or [read the documentation](https://useworkflow.dev/docs/getting-started).
 
 了解更多关于 [Workflow](https://useworkflow.dev/) 的信息，或 [查阅文档](https://useworkflow.dev/docs/getting-started)。
+{% endraw %}

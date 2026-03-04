@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "What we’re optimizing ChatGPT for | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/optimizing-chatgpt"
@@ -10,6 +9,7 @@ translated: false
 description: "We build ChatGPT to help you thrive in all the ways you want. Learn how we're improving support for tough moments, have rolled out reminders to take breaks, and are working on better life advice, all ..."
 tags: ["Safety"]
 ---
+{% raw %}
 
 August 4, 2025
 
@@ -68,3 +68,4 @@ Our goal to help you thrive won’t change. Our approach will keep evolving as w
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)
+{% endraw %}

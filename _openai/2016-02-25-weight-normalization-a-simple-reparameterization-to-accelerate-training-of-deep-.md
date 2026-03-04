@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Weight normalization: A simple reparameterization to accelerate training of deep neural networks | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/weight-normalization"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 February 25, 2016
 
@@ -26,3 +26,4 @@ February 25, 2016
 We present weight normalization: a reparameterization of the weight vectors in a neural network that decouples the length of those weight vectors from their direction. By reparameterizing the weights in this way we improve the conditioning of the optimization problem and we speed up convergence of stochastic gradient descent. Our reparameterization is inspired by batch normalization but does not introduce any dependencies between the examples in a minibatch. This means that our method can also be applied successfully to recurrent models such as LSTMs and to noise-sensitive applications such as deep reinforcement learning or generative models, for which batch normalization is less well suited. Although our method is much simpler, it still provides much of the speed-up of full batch normalization. In addition, the computational overhead of our method is lower, permitting more optimization steps to be taken in the same amount of time. We demonstrate the usefulness of our method on applications in supervised image recognition, generative modelling, and deep reinforcement learning.
 
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
+{% endraw %}

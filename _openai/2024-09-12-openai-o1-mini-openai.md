@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI o1-mini | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning"
@@ -10,6 +9,7 @@ translated: false
 description: "Advancing cost-efficient reasoning"
 tags: ["Research"]
 ---
+{% raw %}
 
 September 12, 2024
 
@@ -109,3 +109,4 @@ Due to its specialization on STEM reasoning capabilities, o1‑mini’s factual 
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
+{% endraw %}

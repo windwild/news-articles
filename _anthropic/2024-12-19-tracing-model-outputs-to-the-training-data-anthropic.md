@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Tracing Model Outputs to the Training Data \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/influence-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 AlignmentResearch
 
@@ -113,3 +111,4 @@ We’re even more excited about extending influence functions to fine-tuning, si
 Our aforementioned ability to localize influence to specific layers and tokens also suggests a way forward for connecting influence functions to mechanistic interpretability, with the goal of determining which neurons and circuits are responsible for any given pattern of generalization.  
 
 前述将影响定位到特定层和特定词元（token）的能力，也为将影响函数与机制可解释性（mechanistic interpretability）相结合指明了一条可行路径——其目标是确定哪些神经元和神经回路导致了特定的泛化模式。
+{% endraw %}

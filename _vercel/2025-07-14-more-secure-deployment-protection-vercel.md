@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "More Secure Deployment Protection - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/more-secure-deployment-protection"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Standard Deployment Protection now protects all except production custom domains enhancing protection for automatic aliases for production deployments."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 14, 2025
 
@@ -29,3 +27,4 @@ Starting today, the [Standard Deployment Protection](https://vercel.com/docs/dep
 Existing projects can update to this new behavior in the Project settings page in the Vercel dashboard.
 
 现有项目可在 Vercel 控制台的“项目设置（Project settings）”页面中启用此项新行为。
+{% endraw %}

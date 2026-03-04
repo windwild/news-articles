@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Video Generation with AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/video-generation-with-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Build video generation into your apps with AI Gateway. Create product videos, dynamic content, and marketing assets at scale."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 19, 2026
 
@@ -567,3 +565,4 @@ Check out the changelogs for these video models for more detailed examples and p
 - [Veo](https://vercel.com/changelog/veo-video-models-on-ai-gateway)
 
 - [Kling](https://vercel.com/changelog/kling-video-models-on-ai-gateway)
+{% endraw %}

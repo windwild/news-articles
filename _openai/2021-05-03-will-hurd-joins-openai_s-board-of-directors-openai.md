@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Will Hurd joins OpenAI’s board of directors | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/will-hurd-joins"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI is committed to developing general-purpose artificial intelligence that benefits all humanity, and we believe that achieving our goal requires expertise in public policy as well as technology. ..."
 tags: ["Company"]
 ---
+{% raw %}
 
 May 3, 2021
 
@@ -40,3 +40,4 @@ After two decades of service in government and U.S. national security, Will is c
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2021](https://openai.com/news/?tags=2021)
+{% endraw %}

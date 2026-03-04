@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A joint statement from OpenAI and Microsoft | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/joint-statement-from-openai-and-microsoft"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation."
 ---
+{% raw %}
 
 September 11, 2025
 
@@ -24,3 +24,4 @@ OpenAI and Microsoft have signed a non-binding memorandum of understanding (MOU)
 _See also_ [_Statement on OpenAI’s Nonprofit and PBC_](https://openai.com/index/statement-on-openai-nonprofit-and-pbc/).
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Less code, better UX: Fetching data faster with the Next.js 13 App Router - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-app-router-data-fetching"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fetching data in Next.js 13 has been vastly improved with Server Components, smarter caching, and Loading UI."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 10, 2023
 
@@ -143,3 +141,4 @@ Twitter 帖子
 ![Guillermo Rauch's avatar](images/less-code-better-ux-fetching-data-faster-with-the-next_js-13-app-router-vercel/img_003.jpg)Guillermo Rauch@rauchg
 
 ![Guillermo Rauch 的头像](images/less-code-better-ux-fetching-data-faster-with-the-next_js-13-app-router-vercel/img_003.jpg)Guillermo Rauch@rauchg
+{% endraw %}

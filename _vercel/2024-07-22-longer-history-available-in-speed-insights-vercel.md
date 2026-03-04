@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Longer history available in Speed Insights - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/longer-history-available-in-speed-insights"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 22, 2024
 
@@ -41,3 +39,4 @@ Measure your site's performance over longer periods, at no additional cost.
 [Learn more about Speed Insights](https://vercel.com/docs/speed-insights) or [enable Speed Insights](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fspeed-insights&title=Open+Speed+Insights) for your project.
 
 [进一步了解 Speed Insights](https://vercel.com/docs/speed-insights)，或为您的项目[启用 Speed Insights](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fspeed-insights&title=Open+Speed+Insights)。
+{% endraw %}

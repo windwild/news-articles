@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel extension for Azure DevOps now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-extension-for-azure-devops-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 8, 2023
 
@@ -33,3 +31,4 @@ This feature is available to customers on all plans.
 Check out the [documentation](https://vercel.com/docs/deployments/git/vercel-for-azure-pipelines) to learn more or view the [extension](https://marketplace.visualstudio.com/items?itemName=Vercel.vercel-deployment-extension) to get started.
 
 请查阅[文档](https://vercel.com/docs/deployments/git/vercel-for-azure-pipelines)了解详情，或访问[扩展页面](https://marketplace.visualstudio.com/items?itemName=Vercel.vercel-deployment-extension)立即开始使用。
+{% endraw %}

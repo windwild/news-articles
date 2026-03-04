@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Evolution through large models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/evolution-through-large-models"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 June 17, 2022
 
@@ -32,3 +32,4 @@ This paper pursues the insight that large language models (LLMs) trained to gene
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
+{% endraw %}

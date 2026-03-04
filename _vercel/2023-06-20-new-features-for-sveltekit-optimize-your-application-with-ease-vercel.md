@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New features for SvelteKit: Optimize your application with ease - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/feature-complete-sveltekit"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Get the most out of your SvelteKit app with pre-route configuration, Incremental Static Regeneration, and data at the Edge."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 20, 2023
 
@@ -306,3 +304,4 @@ Contact Us](https://vercel.com/solutions/svelte)
 欢迎联系我们，告诉我们您团队的具体需求。\\  
 \\  
 立即联系](https://vercel.com/solutions/svelte)
+{% endraw %}

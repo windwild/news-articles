@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Cursor uses GPT-5 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-cursor"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Learn how Cursor uses GPT-5."
 ---
+{% raw %}
 
 August 7, 2025
 
@@ -21,3 +21,4 @@ August 7, 2025
 
 
 How Cursor uses GPT-5 \| OpenAI
+{% endraw %}

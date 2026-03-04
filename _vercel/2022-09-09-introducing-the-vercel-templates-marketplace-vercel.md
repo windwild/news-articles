@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the Vercel Templates Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-vercel-templates-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We are excited to announce the launch of the Vercel Templates Marketplace."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 9, 2022
 
@@ -55,3 +53,4 @@ Here are some examples:
 - [使用 Svelte 构建的模板](https://vercel.com/templates/svelte)
 
 今天就来浏览我们的 [模板市场](https://vercel.com/templates)，借助我们预先构建的解决方案，快速启动您的应用开发流程。
+{% endraw %}

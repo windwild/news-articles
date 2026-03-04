@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Instant Rollback public beta available to revert deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/instant-rollback-public-beta-available-to-revert-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 25, 2022
 
@@ -27,3 +25,4 @@ With Instant Rollback you can quickly revert to a previous production deployment
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/instant-rollback) to learn more.
 
 [查看文档](https://vercel.com/docs/concepts/deployments/instant-rollback) 了解更多信息。
+{% endraw %}

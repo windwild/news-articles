@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Critical npm supply chain attack response - September 8, 2025 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/critical-npm-supply-chain-attack-response-september-8-2025"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How Vercel responded to the September 2025 npm supply chain attack on chalk, debug and 16 other packages. Incident timeline, impact analysis, and customer remediation."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 8, 2025
 
@@ -182,3 +180,4 @@ Thanks to Aikido Security for early detection and the npm community's rapid resp
 _For questions about this incident, please contact_ [_security@vercel.com_](mailto:security@vercel.com)
 
 如需了解本次事件的相关问题，请联系 [_security@vercel.com_](mailto:security@vercel.com)
+{% endraw %}

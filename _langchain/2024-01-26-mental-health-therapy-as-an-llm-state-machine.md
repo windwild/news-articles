@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Mental Health Therapy as an LLM State Machine"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/mental-health-therapy-as-an-llm-state-machine/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:17:24.762996744+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Editor's Note: this blog post was written by Chris from** [**Sonia Health**](https://www.linkedin.com/company/sonia-health/?ref=blog.langchain.com) **. We're particularly excited to highlight this for a few reasons. First, this is a use case with a really positive societal benefit. Second, the implementation mirrors how we are thinking about more complex workflows internally — as state machines! Check out** [**LangGraph**](https://python.langchain.com/docs/langgraph?ref=blog.langchain.com) **(which we just released) as an easy way to build these types of applications.**
 
@@ -136,3 +134,4 @@ Modeling CBT as a state machine allowed us to find the right balance between str
 Thanks a lot for reading - reach out to [contact@soniahealth.com](mailto:contact@soniahealth.com) with any questions or feedback.
 
 非常感谢您的阅读！如有任何问题或反馈，请联系 [contact@soniahealth.com](mailto:contact@soniahealth.com)。
+{% endraw %}

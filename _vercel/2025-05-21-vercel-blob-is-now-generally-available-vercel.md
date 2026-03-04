@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Blob is now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-blob-is-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Blob is now generally available, bringing high-performance storage integrated with the Vercel application delivery platform."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 21, 2025
 
@@ -59,3 +57,4 @@ Hobby 用户现享更高的免费额度：每月 1 GB 存储空间及 10 GB Blob
 
 [Get started with Vercel Blob](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fstores&title=Get+started+with+Vercel+Blob) and learn more in the [documentation](https://vercel.com/docs/vercel-blob).  
 [立即开始使用 Vercel Blob](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fstores&title=Get+started+with+Vercel+Blob)，或在[文档](https://vercel.com/docs/vercel-blob)中了解更多信息。
+{% endraw %}

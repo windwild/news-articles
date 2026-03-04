@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Rubric Labs and Graphite leveraged LLMs to create personalized videos at scale"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/rubric-labs-graphite-personalized-video-at-scale/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How Rubric Labs and Graphite generated personalized, unique GitHub Wrapped 2023 videos for each user."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 随着2023年接近尾声，[Graphite](https://graphite.dev/?ref=blog.langchain.com)希望向[GitHub](https://github.com/?ref=blog.langchain.com)用户致以诚挚谢意，表彰他们全年来的卓越贡献。我们的目标是为开发者献上一份特别的年终礼物，助其重温过往、静心反思，并在新的一年里获得灵感与鼓舞。
 
@@ -324,3 +322,4 @@ Your chronicle awaits.
 Thanks for reading! If you have feedback on this post, please reach out to us at [_hello@rubriclabs.com_](mailto:hello@rubriclabs.com) _._
 
 感谢阅读！若您对本文有任何反馈，欢迎致信 [_hello@rubriclabs.com_](mailto:hello@rubriclabs.com)。
+{% endraw %}

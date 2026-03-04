@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Anthropic and the Government of Rwanda sign MOU for AI in health and education"
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/anthropic-rwanda-mou"
@@ -9,8 +8,7 @@ translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 tags: ["Announcements"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Announcements
 
@@ -75,3 +73,4 @@ Today’s announcement builds on our education partnerships, which help students
 Together, these partnerships reflect a long-term collaboration that prioritizes capacity building, responsible deployment, and local autonomy over how new technologies are introduced. By investing in skills, infrastructure, and institutions, we hope to lay the groundwork for AI to deliver lasting value in the sectors that matter most to people’s lives.
 
 上述各项合作共同体现了一种长期协作关系，其核心在于重视能力建设、负责任部署，以及赋予本地对新技术引入方式的自主权。通过投资人才培养、基础设施与制度建设，我们期望为人工智能在关乎民众生活福祉的关键领域中持续创造价值奠定坚实基础。
+{% endraw %}

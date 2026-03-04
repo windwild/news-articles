@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing LangSmith’s No Code Agent Builder"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langsmith-agent-builder/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:15:19.520242978+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _By Brace Sproul and Sam Crowder_
 
@@ -119,3 +117,4 @@ For folks already using the LangChain ecosystem of tools, here's a table with so
 If you’re interested in checking out the new experience, you can [try Agent Builder](https://smith.langchain.com/?ref=blog.langchain.com) today! We can’t wait to hear input from the community to continue to improve the experience for everyone.
 
 如果您希望体验这一全新功能，现在即可立即 [尝试 Agent Builder](https://smith.langchain.com/?ref=blog.langchain.com)！我们热切期待来自社区的反馈，以便持续优化产品体验，惠及每一位用户。
+{% endraw %}

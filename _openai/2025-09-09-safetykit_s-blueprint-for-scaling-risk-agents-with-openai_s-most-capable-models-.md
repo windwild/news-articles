@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "SafetyKit’s blueprint for scaling risk agents with OpenAI’s most capable models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/safetykit"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy ."
 ---
+{% raw %}
 
 September 9, 2025
 
@@ -82,3 +82,4 @@ In that same time, SafetyKit has expanded to payments risk, fraud, anti-child ex
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

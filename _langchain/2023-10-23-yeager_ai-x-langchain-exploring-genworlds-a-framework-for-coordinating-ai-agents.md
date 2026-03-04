@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Yeager.ai x LangChain: Exploring GenWorlds a Framework for Coordinating AI Agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/exploring-genworlds/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:32:34.732583673+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ![](images/yeager_ai-x-langchain-exploring-genworlds-a-framework-for-coordinating-ai-agents/img_001.png)
 
@@ -504,3 +502,4 @@ At Yeager.ai, we are on a mission to enhance the quality of life through the pow
 [![LangChain Expression Language](images/yeager_ai-x-langchain-exploring-genworlds-a-framework-for-coordinating-ai-agents/img_011.jpg)](https://blog.langchain.com/langchain-expression-language/)
 
 [**LangChain 表达式语言（LangChain Expression Language）**](https://blog.langchain.com/langchain-expression-language/)
+{% endraw %}

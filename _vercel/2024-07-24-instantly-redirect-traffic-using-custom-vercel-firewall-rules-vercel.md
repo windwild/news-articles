@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Instantly redirect traffic using custom Vercel Firewall rules - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/instantly-redirect-traffic-using-custom-vercel-firewall-rules"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 24, 2024
 
@@ -33,3 +31,4 @@ Firewall redirects execute before Edge Network configuration redirects (e.g. [ve
 Custom rules are available for free on all plans.
 
 所有套餐均免费提供自定义规则功能。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Latency numbers every frontend developer should know - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/latency-numbers-every-web-developer-should-know"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Latency numbers every web developer should know"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 23, 2024
 
@@ -50,3 +48,4 @@ Jeff Dean 的《每位程序员都应了解的延迟数据》在前端领域的�
 ## 致谢
 
 灵感源自 [Jeff Dean](https://twitter.com/JeffDean) 的经典文章《[每位程序员都应了解的延迟数据](https://brenocon.com/dean_perf.html)》。如需更多类似性能基准数据，请参阅 [Napkin Math](https://github.com/sirupsen/napkin-math)。
+{% endraw %}

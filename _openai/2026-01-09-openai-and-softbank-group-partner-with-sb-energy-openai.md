@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and SoftBank Group partner with SB Energy | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/stargate-sb-energy-partnership"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 9, 2026
 
@@ -67,3 +65,4 @@ OpenAI 与 SB Energy 已针对该数据中心进行优化设计，以最大限�
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

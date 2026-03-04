@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Streamdown 2.2 - animated streaming and better support for custom HTML - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/streamdown-2-2"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Streamdown 2.2 delivers animated per-word text streaming, improved custom HTML handling, and drop-in compatibility with ReactMarkdown - making it easier to adopt Streamdown in existing projects."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 8, 2025
 
@@ -148,3 +146,4 @@ Streamdown 现在支持其余所有 ReactMarkdown 的 props，使得迁移只需
 此版本还移除了 CommonJS 构建，为常见的 JavaScript、TypeScript 和 Shell 标签添加了捆绑式语言别名，并在表格、代码块、LaTeX 和 Mermaid 图表等方面引入了大量渲染与安全修复。
 
 详情请参阅 [Streamdown 文档](https://streamdown.ai/docs)。
+{% endraw %}

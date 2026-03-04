@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Human-in-the-loop with OpenGPTs and LangGraph"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/human-in-the-loop-with-opengpts-and-langgraph/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:15:10.467582279+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **TLDR; Today we’re launching two “human in the loop” features in OpenGPTs, Interrupt and Authorize, both powered by LangGraph.**
 
@@ -107,3 +105,4 @@ The first mode, Interrupt, is the simplest form of control – the user is looki
 您可以点击此处 [体验演示](https://opengpts-example-vz4y4ooboq-uc.a.run.app/?ref=blog.langchain.com) OpenGPTs，或点击此处 [Fork 项目](https://github.com/langchain-ai/opengpts?ref=blog.langchain.com)。
 
 您还可在此处查看示例 Notebook：[构建带人工干预（Human-in-the-loop）控制的 LangGraph 应用](https://github.com/langchain-ai/langgraph/blob/main/examples/human-in-the-loop.ipynb?ref=blog.langchain.com)。
+{% endraw %}

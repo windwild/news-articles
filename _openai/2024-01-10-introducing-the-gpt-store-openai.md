@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the GPT Store | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-the-gpt-store"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re launching the GPT Store to help you find useful and popular custom versions of ChatGPT."
 tags: ["Product"]
 ---
+{% raw %}
 
 January 10, 2024
 
@@ -64,3 +64,4 @@ Explore GPTs at [chatgpt.com/gpts⁠(opens in a new window)](https://chatgpt.com
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

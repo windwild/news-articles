@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Filter by custom date ranges in Speed Insights - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-by-custom-date-ranges-in-speed-insights"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 29, 2024
 
@@ -25,3 +23,4 @@ You can now filter by custom date ranges in Speed Insights. Select any custom ti
 Learn more about [Speed Insights](https://vercel.com/docs/speed-insights) or [enable Speed Insights](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fspeed-insights&title=Open+Speed+Insights) for your project.
 
 了解更多关于 [Speed Insights](https://vercel.com/docs/speed-insights) 的信息，或为您的项目 [启用 Speed Insights](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fspeed-insights&title=Open+Speed+Insights)。
+{% endraw %}

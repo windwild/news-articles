@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Unifying AI endpoints with Genoss, powered by LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/unifying-ai-endpoints-with-genoss/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:26:30.130960663+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **_Editor’s Note: This blog post was written by [Matt Carey](https://twitter.com/mattzcarey?ref=blog.langchain.com), one of the builders of Genoss. We're sharing it on our blog too because we hear from a lot of people that don't want to get locked in to a single model. We think tools like Genoss that provide clean interfaces for interoperability will help more builders get robust apps into production fast. We're also incredibly excited about the integration it has with [LangSmith](https://www.langchain.com/langsmith?ref=blog.langchain.com) to enable easy debugging, logging, monitoring, and observability!_**
 
@@ -156,3 +154,4 @@ Given the rapid pace of LLM advancements, developers will use Genoss to test the
 [**LangChain Expression Language**](https://blog.langchain.com/langchain-expression-language/)
 
 [**LangChain 表达式语言（LCEL）**](https://blog.langchain.com/langchain-expression-language/)
+{% endraw %}

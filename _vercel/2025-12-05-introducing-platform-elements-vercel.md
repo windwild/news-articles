@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Platform Elements - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-platform-elements"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A new library of production-ready shadcn/ui components and actions that you can drop into your app to help accelerate your platform development. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 5, 2025
 
@@ -62,3 +60,4 @@ npx @vercel/platforms add claim-deployment
 ```
 
 使用我们的快速入门指南，开始基于 Platform Elements 构建平台：[多租户平台](https://vercel.com/platforms/docs/multi-tenant-platforms/quickstart) 或 [多项目平台](https://vercel.com/platforms/docs/multi-project-platforms/quickstart)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Comments now available in Vercel's Slack integration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/comments-now-available-in-vercels-slack-integration"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 6, 2023
 
@@ -25,3 +23,4 @@ Oct 6, 2023
 每产生一条新评论，您都将收到一条 Slack 消息；而在 Slack 中对评论的回复，也会自动同步至对应部署页面的评论线程中。您还可使用 Vercel 账户[登录该集成](https://vercel.com/docs/workflow-collaboration/comments/integrations#updating-your-slack-integration)，以接收与您相关的评论私信（DM）。
 
 请前往我们的[应用市场安装该集成](https://vercel.com/integrations/slack)，或查阅[相关文档](https://vercel.com/docs/workflow-collaboration/comments/integrations#use-the-vercel-slack-app)了解更多信息。
+{% endraw %}

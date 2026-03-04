@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Build an interactive WebGL experience with Next.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-an-interactive-webgl-experience-in-next-js"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Use interactive code sandboxes to build the Next.js Conf registration prism game."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 21, 2022
 
@@ -1086,3 +1084,4 @@ function App() {
 ¹ _We'd like to give a thanks to outside contributors to our mood board, including artists like Davo Galavotti._
 
 ¹ _我们衷心感谢为情绪板（mood board）提供支持的外部贡献者，包括艺术家 Davo Galavotti 等。_
+{% endraw %}

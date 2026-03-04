@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Use the Vercel Toolbar in Production with the Chrome Extension or the toolbar menu - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/use-the-vercel-toolbar-in-production"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 23, 2024
 
@@ -29,3 +27,4 @@ This allows you and your team to use all the features of the Vercel Toolbar, lik
 Learn more about the [features of the toolbar](https://vercel.com/docs/workflow-collaboration/vercel-toolbar#vercel-toolbar-features) and [adding it to your environments](https://vercel.com/docs/workflow-collaboration/vercel-toolbar/in-production-and-localhost) in the documentation.
 
 请参阅文档，进一步了解工具栏的 [各项功能](https://vercel.com/docs/workflow-collaboration/vercel-toolbar#vercel-toolbar-features) 以及 [如何将其添加到您的各类环境](https://vercel.com/docs/workflow-collaboration/vercel-toolbar/in-production-and-localhost) 中。
+{% endraw %}

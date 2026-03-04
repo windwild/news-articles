@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Commits to the same branch now build with no queues - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/build-commits-to-the-same-branch-without-waiting"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Building and deploying applications within the same GitHub branch, such as main, is now faster when using concurrent builds."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 14, 2025
 
@@ -21,3 +19,4 @@ Oct 14, 2025
 此前，新提交需等待该分支上先前的构建完成之后才能开始。此次更新消除了这一排队机制，使提交在到达后即可立即启动构建。
 
 访问 [按需并发构建文档](https://vercel.com/docs/builds/managing-builds#on-demand-concurrent-builds) 了解更多信息。
+{% endraw %}

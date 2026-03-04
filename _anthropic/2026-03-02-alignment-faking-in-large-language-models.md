@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Alignment faking in large language models"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/alignment-faking"
@@ -8,8 +7,7 @@ language: "en-zh"
 translated: true
 description: "A paper from Anthropic's Alignment Science team on Alignment Faking in AI large language models"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -195,3 +193,4 @@ _更新于 2024 年 12 月 20 日：完整论文现已发布于 arXiv，本文�
 We prepared a [two-page memo for policymakers](https://assets.anthropic.com/m/52eab1f8cf3f04a6/original/Alignment-Faking-Policy-Memo.pdf) describing our results on alignment faking.
 
 我们编制了一份面向政策制定者的[两页政策备忘录](https://assets.anthropic.com/m/52eab1f8cf3f04a6/original/Alignment-Faking-Policy-Memo.pdf)，概述了我们在对齐伪装（alignment faking）方面的研究成果。
+{% endraw %}

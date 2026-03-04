@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improving language model behavior by training on a curated dataset | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/improving-language-model-behavior"
@@ -10,6 +9,7 @@ translated: false
 description: "Our latest research finds we can improve language model behavior with respect to specific behavioral values by fine-tuning on a small, curated dataset."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 June 10, 2021
 
@@ -127,3 +127,4 @@ Read more about the GPT-3 model and its training data in the [GPT-3 Model Card�
 
 6. F
 Our research experimented with a question–answer format.
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "UX for Agents, Part 3: Spreadsheet, Generative, and Collaborative UI/UX"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/ux-for-agents-part-3/"
@@ -10,8 +9,7 @@ translated: true
 description: "Learn about spreadsheet UX for batch agent workloads, Generative UI, and collaborative UX with agents."
 tags: ["Harrison's Hot Takes"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _At Sequoia’s AI Ascent conference in March, I talked about three limitations for agents: planning, UX, and memory. Check out that talk_ [_here_](https://www.youtube.com/watch?v=pBBe1pk8hf4&ref=blog.langchain.com) _. Since UX for agents is such a wide-ranging topic, we’ve split our discussion of it into three posts. See the first blog post on_ [_chat UX_](https://blog.langchain.com/ux-for-agents-part-1-chat-2/) _and the second on_ [_ambient UX_](https://blog.langchain.com/ux-for-agents-part-2-ambient/) _. This is our third post on UX for agents, focused on spreadsheet, generative, and collaborative UI/UX._
 
@@ -208,3 +206,4 @@ If you are building an application with a novel or interesting UI/UX (e.g. non-s
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 分钟阅读
 
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 分钟阅读
+{% endraw %}

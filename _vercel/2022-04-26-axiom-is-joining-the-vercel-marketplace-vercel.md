@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Axiom is joining the Vercel marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/axiom-is-joining-the-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 26, 2022
 
@@ -27,3 +25,4 @@ Axiom 集成可帮助您监控 Vercel 部署的健康状况与性能，方法是
 [Try out the integration](https://vercel.com/integrations/axiom) and start streaming your logs.
 
 [立即试用该集成](https://vercel.com/integrations/axiom)，开始实时传输您的日志。
+{% endraw %}

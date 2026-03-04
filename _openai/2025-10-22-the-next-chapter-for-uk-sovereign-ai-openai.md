@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The next chapter for UK sovereign AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Pl..."
 ---
+{% raw %}
 
 October 22, 2025
 
@@ -47,3 +47,4 @@ OpenAI’s technology is already essential for millions across the country. The 
 With UK data residency, new public sector partnerships, and our ongoing work through the MOU, we’re helping lay the foundation for trusted and secure AI adoption in the UK. We look forward to working with the Government to help more British people, businesses, and institutions benefit from AI.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Detecting and preventing distillation attacks "
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks"
@@ -9,8 +8,7 @@ translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 tags: ["Announcements"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Announcements
 
@@ -199,3 +197,4 @@ We continue to invest heavily in defenses that make such distillation attacks ha
 But no company can solve this alone. As we noted above, distillation attacks at this scale require a coordinated response across the AI industry, cloud providers, and policymakers. We are publishing this to make the evidence available to everyone with a stake in the outcome.
 
 但没有任何一家公司能够独自解决这一问题。如前所述，如此规模的蒸馏攻击亟需人工智能行业、云服务提供商及政策制定者协同应对。我们发布本文，旨在将相关证据公开，供所有利益相关方参考。
+{% endraw %}

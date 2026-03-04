@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Node.js Vercel Functions now support fetch web handlers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-vercel-functions-now-support-fetch-web-handlers"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Functions running on the Node.js runtime now support fetch web handlers to enhance interoperability across runtimes and frameworks."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 19, 2025
 
@@ -33,3 +31,4 @@ export default {
 如您偏好，仍可[导出独立的 HTTP 方法](https://vercel.com/docs/functions/functions-api-reference?framework=other#function-signature)。
 
 有关 [fetch Web 处理器](https://vercel.com/docs/functions/functions-api-reference?framework=other#fetch-web-standard) 的更多信息，请参阅[文档](https://vercel.com/docs/functions/functions-api-reference?framework=other#fetch-web-standard)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "An update on disrupting deceptive uses of AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/an-update-on-disrupting-deceptive-uses-of-ai"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We are dedicated to identifying, preventing, and disrupting attempts to abuse our models for harmful ends..."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 October 9, 2024
 
@@ -31,3 +31,4 @@ As we look to the future, we will continue to work across our intelligence, inve
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Notion powers rapid and performant experimentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-notion-powers-rapid-and-performant-experimentation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Notion runs hundreds of experiments per year with Statsig and Next.js on Vercel. Learn how they maintain Core Web Vitals on marketing pages while testing new content with users."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 25, 2024
 
@@ -119,3 +117,4 @@ Get in touch](https://vercel.com/contact/sales)
 联系专家，了解如何提升您网站的性能与用户体验。\\
 \\
 立即联系](https://vercel.com/contact/sales)
+{% endraw %}

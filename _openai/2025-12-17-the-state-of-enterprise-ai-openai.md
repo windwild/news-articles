@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The state of enterprise AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "A data-driven look at enterprise AI adoption, showing how organizations move from experimentation to real productivity gains and new capabilities."
 ---
+{% raw %}
 
 December 17, 2025
 
@@ -417,3 +417,4 @@ Despite a growing divide in AI adoption, enterprise AI is still in the early inn
 Learn how we help companies build scalable, responsible AI strategies.
 
 [Try ChatGPT](https://chatgpt.com/?openaicom-did=6fb423fe-67d3-49af-8cbc-b27491dddf00&openaicom_referred=true) [Contact sales](https://openai.com/contact-sales/)
+{% endraw %}

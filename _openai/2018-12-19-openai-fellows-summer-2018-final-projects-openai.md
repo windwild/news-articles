@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Fellows Summer 2018: Final projects | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-summer-fellows-2018"
@@ -10,6 +9,7 @@ translated: false
 description: "Our first cohort of OpenAI Fellows has concluded, with each Fellow going from a machine learning beginner to core OpenAI contributor in the course of a 6-month apprenticeship."
 tags: ["Company"]
 ---
+{% raw %}
 
 December 19, 2018
 
@@ -159,3 +159,4 @@ _Applications for our 2019 Winter Fellows Cohort have closed—please stay tuned
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2018](https://openai.com/news/?tags=2018)
+{% endraw %}

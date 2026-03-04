@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Automating 90% of finance and legal work with agents | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/hebbia"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Hebbia’s deep research automates 90% of finance and legal work, powered by OpenAI"
 ---
+{% raw %}
 
 
 # Hebbia’s deep research automates 90% of finance and legal work, powered by OpenAI
@@ -93,3 +93,4 @@ George Sivulka, CEO at Hebbia
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

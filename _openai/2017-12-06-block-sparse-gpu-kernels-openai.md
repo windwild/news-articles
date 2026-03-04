@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Block-sparse GPU kernels | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/block-sparse-gpu-kernels"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing highly-optimized GPU kernels for an underexplored class of neural network architectures: networks with block-sparse weights. Depending on the chosen sparsity, these kernels can run o..."
 tags: ["Research"]
 ---
+{% raw %}
 
 December 6, 2017
 
@@ -133,3 +133,4 @@ Here we list some suggestions for future research.
 - [CLIP](https://openai.com/research/index/?tags=technology-clip)
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
+{% endraw %}

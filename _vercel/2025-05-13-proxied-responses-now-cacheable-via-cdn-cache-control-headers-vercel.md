@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Proxied responses now cacheable via CDN-Cache-Control headers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/proxied-responses-now-cacheable-via-cdn-cache-control-headers"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's CDN now supports CDN-Cache-Control headers for external backends, giving you simple, powerful caching control without any configuration changes."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 13, 2025
 
@@ -41,3 +39,4 @@ No configuration changes or redeployments required. Return the header (or set it
 Learn more about [CDN-Cache-Control headers](https://vercel.com/docs/rewrites#caching-external-rewrites).
 
 了解更多关于 [CDN-Cache-Control 响应头](https://vercel.com/docs/rewrites#caching-external-rewrites) 的信息。
+{% endraw %}

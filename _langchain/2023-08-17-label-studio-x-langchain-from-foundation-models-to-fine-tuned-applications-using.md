@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Label Studio x LangChain: From Foundation Models to Fine-Tuned Applications Using Label Studio"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/from-foundation-models-to-fine-tuned-applications-using-label-studio/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:11:01.134166460+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _**Editor's Note:** This post was written by Jimmy Whitaker, Data Scientist in Residence at [HumanSignal](https://humansignal.com/?ref=blog.langchain.com). [Label Studio](https://labelstud.io/blog/from-foundation-models-to-fine-tuned-applications-using-label-studio/?ref=blog.langchain.com) is an open-source data labeling platform that provides LangChain with flexibility when it comes to labeling data for fine-tuning large language models (LLMs). It also enables the preparation of custom training data and the collection and evaluation of responses through human feedback, a critical part of ongoing evaluation and maintenance of expert systems._
 
@@ -361,3 +359,4 @@ In an era where large language models (LLMs) have changed the landscape of AI-dr
 Open source is about building communities, sharing knowledge, and innovating together. Label Studio invites you to be a part of this movement. [Contribute to the project](https://github.com/humansignal/label-studio?ref=blog.langchain.com), [learn from the community](https://slack.labelstud.io/?source=blog), and harness the power of collective wisdom. Together, let's fine-tune the future of AI and make technology more inclusive and adaptive.
 
 开源的本质在于共建社区、共享知识、协同创新。Label Studio 诚挚邀请您加入这场运动：[为项目贡献代码](https://github.com/humansignal/label-studio?ref=blog.langchain.com)，[向社区学习交流](https://slack.labelstud.io/?source=blog)，并充分释放集体智慧的力量。让我们携手同行，共同微调 AI 的未来，让技术更加包容、更具适应性。
+{% endraw %}

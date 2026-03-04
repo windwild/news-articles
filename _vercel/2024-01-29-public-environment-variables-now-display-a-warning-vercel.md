@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Public environment variables now display a warning - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/public-environment-variables-now-display-a-warning"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 29, 2024
 
@@ -41,3 +39,4 @@ This supports all frameworks that use a prefix to mark an environment variable a
 Learn more about [Environment Variables](https://vercel.com/docs/projects/environment-variables).
 
 了解更多关于 [环境变量](https://vercel.com/docs/projects/environment-variables) 的信息。
+{% endraw %}

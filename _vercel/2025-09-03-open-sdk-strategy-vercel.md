@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Open SDK strategy - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/open-sdk-strategy"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel’s Open SDK strategy commits to building frameworks, SDKs, and tools in the open, under permissive licenses. Learn how we’re avoiding lock-in, ensuring portability, and investing in open sou..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 3, 2025
 
@@ -108,3 +106,4 @@ This isn’t about any single framework, whether Next.js or the AI SDK. And it w
 商业价值源于品质，品质源于使命。
 
 我们的使命，是为所有人构建一个更美好的 Web。
+{% endraw %}

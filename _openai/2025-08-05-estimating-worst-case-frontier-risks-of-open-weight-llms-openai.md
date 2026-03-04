@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Estimating worst case frontier risks of open weight LLMs | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as ca..."
 ---
+{% raw %}
 
 August 5, 2025
 
@@ -24,3 +24,4 @@ August 5, 2025
 In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity. To maximize biological risk (biorisk), we curate tasks related to threat creation and train gpt-oss in an RL environment with web browsing. To maximize cybersecurity risk, we train gpt-oss in an agentic coding environment to solve capture-the-flag (CTF) challenges. We compare these MFT models against open- and closed-weight LLMs on frontier risk evaluations. Compared to frontier closed-weight models, MFT gpt-oss underperforms OpenAI o3, a model that is below Preparedness High capability level for biorisk and cybersecurity. Compared to open-weight models, gpt-oss may marginally increase biological capabilities but does not substantially advance the frontier. Taken together, these results contributed to our decision to release the model, and we hope that our MFT approach can serve as useful guidance for estimating harm from future open-weight releases.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

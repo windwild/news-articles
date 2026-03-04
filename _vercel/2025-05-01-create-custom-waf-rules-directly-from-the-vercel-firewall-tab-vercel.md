@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Create custom WAF rules directly from the Vercel Firewall tab - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/create-custom-waf-rules-directly-from-the-vercel-firewall-tab"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel customers can now create custom WAF rules directly from the chart displayed on the Firewall tab of the Vercel dashboard."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 1, 2025
 
@@ -37,3 +35,4 @@ This feature is available to all users across all plans at no additional cost.
 Learn more about the [Vercel Firewall](https://vercel.com/docs/vercel-firewall).
 
 了解更多关于[Vercel 防火墙](https://vercel.com/docs/vercel-firewall)的信息。
+{% endraw %}

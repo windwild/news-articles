@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Firewall now supports localized challenge pages - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-firewall-now-supports-localized-challenge-pages"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 10, 2024
 
@@ -29,3 +27,4 @@ Challenges are automatically served for malicious traffic or when defined throug
 Learn more about the [Vercel Firewall](https://vercel.com/docs/security/vercel-firewall).
 
 了解更多关于 [Vercel 防火墙](https://vercel.com/docs/security/vercel-firewall) 的信息。
+{% endraw %}

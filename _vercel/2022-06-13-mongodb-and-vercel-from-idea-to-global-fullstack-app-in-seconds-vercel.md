@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "MongoDB and Vercel: from idea to global fullstack app in seconds - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/mongodb-and-vercel-from-idea-to-global-fullstack-app-in-seconds"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "At this year's MongoDB World, we announced the MongoDB and Vercel integration—and shared our vision for enabling developers to create at the moment of inspiration. Let’s explore how MongoDB and Ve..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 13, 2022
 
@@ -129,3 +127,4 @@ MongoDB 与 Vercel（配合 Next.js）协同赋能开发者，提供全栈无服
 - [查看集成演示应用](https://mongodb.vercel.app/)
 
 - [部署 MongoDB 入门套件（Starter Kit）](https://github.com/vercel/mongodb-starter)
+{% endraw %}

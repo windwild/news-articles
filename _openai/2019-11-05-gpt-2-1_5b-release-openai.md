@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-2: 1.5B release | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-2-1-5b-release"
@@ -10,6 +9,7 @@ translated: false
 description: "As the final model release of GPT-2’s staged release, we’re releasing the largest version (1.5B parameters) of GPT-2 along with code and model weights to facilitate detection of outputs of GPT..."
 tags: ["Research"]
 ---
+{% raw %}
 
 November 5, 2019
 
@@ -102,3 +102,4 @@ APIJan 12, 2024](https://openai.com/index/digital-green/)
 APIMay 29, 2025](https://openai.com/index/wix/)
 
 GPT-2: 1.5B release \| OpenAI
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Converting inbound leads into customers at OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-inbound-sales-assistant"
@@ -10,6 +9,7 @@ translated: false
 description: "Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers."
 tags: ["API"]
 ---
+{% raw %}
 
 September 29, 2025
 
@@ -92,3 +92,4 @@ Personalizing every lead isn’t a tactic. It’s becoming a better way for all 
 ## Ready to put ChatGPT to work in your business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

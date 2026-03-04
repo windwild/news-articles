@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Preparing for the worst: Our core database failover test - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/preparing-for-the-worst-our-core-database-failover-test"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "On July 24, 2025, we successfully performed a full production failover of our core control-plane database from Azure West US to East US 2 with zero customer impact."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 28, 2025
 
@@ -147,3 +145,4 @@ Power disruptions are an industry-wide reality — not a reflection of any singl
 We're grateful for Azure’s continued support and shared focus on building reliable, scalable infrastructure.
 
 我们衷心感谢 Azure 持续以来的支持，以及双方在构建高可靠性、可扩展基础设施方面所秉持的共同目标。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Moving from Gatsby to Next.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/navigating-tradeoffs-in-large-scale-website-migrations"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Navigating large scale migrations"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 9, 2023
 
@@ -214,3 +212,4 @@ Customer case study
 Alli Pope
 
 Alli Pope
+{% endraw %}

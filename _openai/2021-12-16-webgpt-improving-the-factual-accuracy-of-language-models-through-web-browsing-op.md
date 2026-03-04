@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "WebGPT: Improving the factual accuracy of language models through web browsing | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/webgpt"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve fine-tuned GPT-3 to more accurately answer open-ended questions using a text-based web browser."
 tags: ["Research"]
 ---
+{% raw %}
 
 December 16, 2021
 
@@ -86,3 +86,4 @@ S. Lin, J. Hilton, and O. Evans. TruthfulQA: Measuring how models mimic human fa
 
 6. 6
 D. Metzler, Y. Tay, D. Bahri, and M. Najork. Rethinking search: Making experts out of dilettantes. arXiv preprint [arXiv:2105.02274⁠(opens in a new window)](https://arxiv.org/abs/2105.02274), 2021\.
+{% endraw %}

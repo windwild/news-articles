@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Preserving languages for the future | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/government-of-iceland"
@@ -10,6 +9,7 @@ translated: false
 description: "How Iceland is using GPT-4 to preserve its language."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Government of Iceland
@@ -135,3 +135,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Preserving languages for the future \| OpenAI
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LaunchDarkly's approach to AI-powered product management | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/launchdarkly-claire-vo"
@@ -10,6 +9,7 @@ translated: false
 description: "A conversation with Claire Vo, Chief Product Officer of LaunchDarkly, about the changing role of product managers, her anti-to-do list, and building AI-native teams."
 tags: ["ChatGPT"]
 ---
+{% raw %}
 
 March 4, 2025
 
@@ -93,3 +93,4 @@ _LaunchDarkly uses ChatGPT and custom GPTs across multiple departments._
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Technology](https://openai.com/stories/?tags=industry-technology)
 - [Services](https://openai.com/stories/?tags=industry-services)
+{% endraw %}

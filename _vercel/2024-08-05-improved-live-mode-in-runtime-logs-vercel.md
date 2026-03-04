@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved Live Mode in Runtime Logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-live-mode-in-runtime-logs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 5, 2024
 
@@ -29,3 +27,4 @@ Runtime logs capture crucial information from server-side rendering, API routes,
 Learn more about [Runtime Logs](https://vercel.com/docs/observability/runtime-logs).
 
 了解更多关于 [运行时日志（Runtime Logs）](https://vercel.com/docs/observability/runtime-logs) 的信息。
+{% endraw %}

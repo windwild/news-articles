@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Summarizing and Querying Data from Excel Spreadsheets Using eparse and a Large Language Model"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/summarizing-and-querying-data-from-excel-spreadsheets-using-eparse-and-a-large-language-model/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:23:46.507150719+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written by_ [_Chris Pappalardo_](https://www.linkedin.com/in/chris-a-pappalardo/?ref=blog.langchain.com) _, a Senior Director at Alvarez & Marsal, a leading global professional services firm. The standard processes for building with LLM work well for documents that contain mostly text, but do not work as well for documents that contain tabular data (like spreadsheets). We wrote about our_ [_latest thinking on Q&A over csvs_](https://blog.langchain.com/benchmarking-question-answering-over-csv-data/) _on the blog a couple weeks ago, and we loved reading Chris's exploration of working with csvs and_ [_LangChain_](https://www.langchain.com/?ref=blog.langchain.com) _using agents, chains, RAG, and metadata. Lots of great learnings in here!_
 
@@ -179,3 +177,4 @@ To facilitate an ETL pipeline powered by eparse, a drop-in replacement of the un
 - 大语言模型（LLMs）擅长处理文本，但不擅长直接解析结构化数据，因此你很可能需要采用智能体（agent）方案，才能从查询中获取准确结果；  
 - 不同大语言模型在摘要生成（summarization）任务上的性能表现差异显著；  
 - 元数据（metadata）极具价值，而你的向量数据库（vectorstore）中可能尚有大量未被充分利用的数据资源。
+{% endraw %}

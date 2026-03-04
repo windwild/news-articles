@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "What's new in Svelte 5 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/whats-new-in-svelte-5"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Svelte 5 brings runes for universal reactivity, snippets for reusable markup, and compiler improvements. Get started with Svelte 5 on Vercel today."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 23, 2024
 
@@ -499,3 +497,4 @@ Svelte 5 在保持灵活性与强大功能的同时，让前端开发变得更�
 To get started, try the [interactive Svelte tutorial](https://svelte.dev/tutorial/svelte/welcome-to-svelte), deploy a [SvelteKit templates](https://vercel.com/templates/svelte), or view the official [Svelte 5 migration guide](https://svelte.dev/docs/svelte/v5-migration-guide).  
 
 入门指南：尝试 [交互式 Svelte 教程](https://svelte.dev/tutorial/svelte/welcome-to-svelte)，部署一个 [SvelteKit 模板](https://vercel.com/templates/svelte)，或查阅官方 [Svelte 5 迁移指南](https://svelte.dev/docs/svelte/v5-migration-guide)。
+{% endraw %}

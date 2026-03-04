@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Adding Long Term Memory to OpenGPTs"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/adding-long-term-memory-to-opengpts/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:09:50.841315539+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Three weeks ago we launched [OpenGPTs](https://github.com/langchain-ai/opengpts?ref=blog.langchain.com), an implementation of OpenAI GPTs and Assistant API but in an open source manner. OpenGPTs allows for implementation of conversational agents - a flexible and futuristic cognitive architecture. One large part of agents is **memory**. In their current implementation, GPTs, OpenGPTs, and the Assistants API only really support basic conversational memory. Longer term memory is an underexplored area. In this blog post we will talk a little bit about how we think about memory, why it is so underexplored, and then walk through the specific memory we implemented and exposed in OpenGPTs to create a "Dungeons and Dragons" Dungeon Master.
 
@@ -372,3 +370,4 @@ At LangChain, we believe that most applications that need a form of long term me
 We're building a framework (and tools) to help make this easy - LangChain, OpenGPTs, LangSmith. Still, due to the application-specific nature of it, it's tough to work on in the abstract. **If you are a company working on an application that requires long-term memory and need assistance, please reach out to hello@langchain.dev**
 
 我们正在构建一套框架与配套工具（LangChain、OpenGPTs、LangSmith），以大幅降低此类工作的门槛。然而，正因其高度依赖具体应用场景，脱离实际应用去抽象地研究和推进这项工作十分困难。**如果您所在的公司正在开发需要长期记忆能力的应用，并寻求相关支持，请随时联系 hello@langchain.dev**
+{% endraw %}

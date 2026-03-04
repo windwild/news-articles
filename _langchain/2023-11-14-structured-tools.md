@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Structured Tools"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/structured-tools/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **TL;DR: we're introducing a new abstraction to allow for usage of more complex tools. While previous tools took in a single string input, new tools can take in an arbitrary number of inputs of arbitrary types. We are also introducing a new agent class that works well with these new types of tools.**
 
@@ -457,3 +455,4 @@ Tools that expect json serialized string inputs may require some modifications t
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

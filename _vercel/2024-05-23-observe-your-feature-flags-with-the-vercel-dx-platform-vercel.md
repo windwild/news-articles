@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Observe your feature flags with the Vercel DX platform - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/observe-your-feature-flags-with-the-vercel-dx-platform"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 23, 2024
 
@@ -51,3 +49,4 @@ This update lets users on all plans leverage existing feature flag workflows wit
 Check out the [documentation](https://vercel.com/docs/workflow-collaboration/feature-flags/integrate-vercel-platform) to learn more.
 
 请查阅[相关文档](https://vercel.com/docs/workflow-collaboration/feature-flags/integrate-vercel-platform)，了解更多信息。
+{% endraw %}

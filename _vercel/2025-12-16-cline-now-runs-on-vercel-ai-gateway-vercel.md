@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Cline now runs on Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/cline-on-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Cline scales its open source coding agent with Vercel AI Gateway, delivering global performance, transparent pricing, and enterprise reliability."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 16, 2025
 
@@ -125,3 +123,4 @@ The integration gives Cline the consistency it needed with lower latency varianc
 The story here isn’t about infrastructure for its own sake. It’s about helping an open source tool perform the way developers expect, everywhere they use it.
 
 这里的故事并非单纯聚焦于基础设施本身，而是关于如何助力一款开源工具，在开发者所使用的每一个场景中，都能如其所期地稳定运行。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "​Introducing BotID, invisible bot filtering for critical routes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-botid"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "BotID is a new invisible CAPTCHA layer of protection that stops sophisticated bots before they reach your backend. It's built to secure critical routes like checkouts, logins, and signups or actions t..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 25, 2025
 
@@ -152,3 +150,4 @@ Get started](https://vercel.com/docs/botid/get-started)
 在高级机器人抵达您最敏感的路由（如登录页、结算页、AI 智能体、API 接口）之前，即刻识别并拦截。实施简易，难以绕过。\\
 \\
 立即开始](https://vercel.com/docs/botid/get-started)
+{% endraw %}

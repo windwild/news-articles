@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI hackathon | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-hackathon"
@@ -10,6 +9,7 @@ translated: false
 description: "Come to OpenAI’s office in San Francisco’s Mission District for talks and a hackathon on Saturday, March 3rd."
 tags: ["Company"]
 ---
+{% raw %}
 
 February 22, 2018
 
@@ -36,3 +36,4 @@ Feel free to come for any subset. The goal of the day is to learn more about AI,
 
 - [Events](https://openai.com/news/?tags=events)
 - [2018](https://openai.com/news/?tags=2018)
+{% endraw %}

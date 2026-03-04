@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improving Memory Retrieval: How New Computer achieved 50% higher recall with LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-new-computer/"
@@ -10,8 +9,7 @@ translated: true
 description: "New Computer used LangSmith to improve their memory retrieval system, achieving 50% higher recall by tracking regressions in comparison view and adjusting conversation prompts accordingly."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ## **About New Computer**
 
@@ -150,3 +148,4 @@ New Computer 与 LangChain 团队的合作，以及对 LangSmith 的应用，将
 [**Monte Carlo：使用 LangGraph 和 LangSmith 构建数据与 AI 可观测性智能体**](https://blog.langchain.com/customers-monte-carlo/)
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长 4 分钟
+{% endraw %}

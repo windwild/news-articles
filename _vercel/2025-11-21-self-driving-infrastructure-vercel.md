@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Self-driving infrastructure - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/self-driving-infrastructure"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "At Vercel, we’re building self-driving infrastructure, a system that autonomously manages production operations, improves application code using real-world insights, and learns from the unpredictabl..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 21, 2025
 
@@ -178,3 +176,4 @@ Join us this Thursday, December 11th, at 11am PT to learn more about self-drivin
 
 [Register Now](https://vercel.com/go/self-driving-infra-aws-webinar)  
 [立即报名](https://vercel.com/go/self-driving-infra-aws-webinar)
+{% endraw %}

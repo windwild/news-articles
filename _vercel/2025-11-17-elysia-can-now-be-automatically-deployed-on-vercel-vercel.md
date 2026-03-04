@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Elysia can now be automatically deployed on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-for-elysia"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Elysia, a popular ergonomic TypeScript framework with end-to-end type safety, can now be detected and deployed at Vercel."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 17, 2025
 
@@ -53,3 +51,4 @@ export default app;
 Vercel 上的后端服务默认采用 [Fluid Compute（流式计算）](https://vercel.com/fluid)，并按 [Active CPU 定价模式](https://vercel.com/blog/introducing-active-cpu-pricing-for-fluid-compute) 计费，因此您仅需为代码实际占用 CPU 的时间付费。
 
 [在 Vercel 上部署 Elysia](https://vercel.com/templates/backend/elysia-on-vercel)，或访问 Vercel 官方文档了解 [Elysia 框架支持](https://vercel.com/docs/frameworks/backend/elysia) 或 [Bun 运行时配置](https://vercel.com/docs/functions/runtimes/bun#configuring-the-runtime)。
+{% endraw %}

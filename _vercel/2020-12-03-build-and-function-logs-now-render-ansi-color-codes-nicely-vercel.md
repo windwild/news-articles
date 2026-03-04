@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Build and Function Logs now render ANSI color codes nicely - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/build-and-function-logs-now-render-ansi-color-codes-nicely"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 3, 2020
 
@@ -23,3 +21,4 @@ Dec 3, 2020
 然而，自今日起，所有此类 ANSI 代码均会在“部署详情页”（Deployment View）中被自动解析。该页面主界面显示构建日志（Build Logs），同时在“函数”（Functions）标签页中也展示各无服务器函数的日志。
 
 在上方示例中，您可以看到 ANSI 颜色代码现已自动渲染为它们本应代表的实际颜色，从而显著提升了日志文本的可读性。
+{% endraw %}

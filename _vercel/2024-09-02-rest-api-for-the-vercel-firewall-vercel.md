@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "REST API for the Vercel Firewall - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/rest-api-for-the-vercel-firewall"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 2, 2024
 
@@ -37,3 +35,4 @@ Vercel 防火墙现已提供 REST API，支持以下功能：
 Learn more and get started today with the [REST API documentation](https://vercel.com/docs/security/vercel-waf/examples#using-the-firewall-rest-api).
 
 请通过 [REST API 文档](https://vercel.com/docs/security/vercel-waf/examples#using-the-firewall-rest-api) 了解更多信息，并立即开始使用。
+{% endraw %}

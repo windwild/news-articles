@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Run and share custom queries in Observability Plus - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/run-and-share-custom-queries-in-observability-plus"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now use the all new querying interface to visualize, analyze and dig deep into your observability data "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 4, 2025
 
@@ -34,3 +32,4 @@ Apr 4, 2025
 Learn more about running [queries](https://vercel.com/docs/observability/query) in Observability and its available [metrics](https://vercel.com/docs/observability/query/query-reference).
 
 进一步了解如何在可观测性（Observability）中运行[查询](https://vercel.com/docs/observability/query)，以及其支持的[指标](https://vercel.com/docs/observability/query/query-reference)。
+{% endraw %}

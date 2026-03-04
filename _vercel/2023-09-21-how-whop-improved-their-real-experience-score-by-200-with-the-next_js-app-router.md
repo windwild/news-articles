@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Whop improved their Real Experience Score by 200% with the Next.js App Router - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-whop-improved-their-real-experience-score-by-200-with-the-next-js-app"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Whop improved developer experience with Vercel and Next.js"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 21, 2023
 
@@ -186,3 +184,4 @@ Vercel.com 着陆页
 Download the whitepaper
 
 下载白皮书
+{% endraw %}

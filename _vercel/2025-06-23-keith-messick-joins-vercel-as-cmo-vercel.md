@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Keith Messick joins Vercel as CMO - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/keith-messick-joins-vercel-as-cmo"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We’re welcoming Keith Messick as Chief Marketing Officer to support our growth, engage on more channels, and (as always) amplify the voice of the developer. Keith is a longtime enterprise CMO and co..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 23, 2025
 
@@ -57,3 +55,4 @@ The team is growing, with open roles for [Content Engineers](https://vercel.com/
 Please join me in welcoming Keith to Vercel.
 
 诚邀大家一同欢迎 Keith 加入 Vercel！
+{% endraw %}

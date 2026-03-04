@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Flags SDK 3.2 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/flags-sdk-3-2"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Flags SDK 3.2 now supports precomputing pattern in SvelteKit, making it possible to use feature flags on static pages without causing layout shift or jank."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 31, 2025
 
@@ -29,3 +27,4 @@ Mar 31, 2025
 我们还全面优化了 [Flags SDK 文档](https://flags-sdk.dev/docs)，按不同前端框架进行结构化拆分，并明确列出所有已为 Flags SDK 提供适配器（adapter）的第三方服务提供商。
 
 深入了解 [Flags SDK 与 SvelteKit 的集成](https://flags-sdk.dev/frameworks/sveltekit) 以及 [预计算模式（precompute pattern）](https://flags-sdk.dev/principles/precompute)。
+{% endraw %}

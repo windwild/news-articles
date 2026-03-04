@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Many-shot jailbreaking \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/many-shot-jailbreaking"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -172,3 +170,4 @@ All the technical details of our many-shot jailbreaking study are reported in ou
 
 You can read Anthropic’s approach to safety and security [at this link.](https://www.anthropic.com/responsible-disclosure-policy)  
 您可通过[此链接](https://www.anthropic.com/responsible-disclosure-policy)了解Anthropic在安全与可靠性方面的整体策略。
+{% endraw %}

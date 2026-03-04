@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved support for Gatsby sites - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-support-for-gatsby-sites"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 23, 2023
 
@@ -29,3 +27,4 @@ Jan 23, 2023
 部署至 Vercel 的 Gatsby `v4+` 网站将自动检测 Gatsby 的使用情况，并安装全新的 `@vercel/gatsby-plugin-vercel-builder` 插件。而 Gatsby `v5` 网站则需使用 [Node.js 18](https://vercel.com/changelog/node-js-18-lts-is-now-available)，该版本目前是新建项目的默认 Node.js 版本。
 
 立即通过我们的 [更新版模板](https://vercel.com/templates/gatsby/gatsbyjs-boilerplate) 开始使用 Gatsby。
+{% endraw %}

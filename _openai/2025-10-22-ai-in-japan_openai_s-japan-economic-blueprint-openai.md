@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI in Japan—OpenAI’s Japan Economic Blueprint | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/japan-economic-blueprint"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth."
 tags: ["Company"]
 ---
+{% raw %}
 
 October 22, 2025
 
@@ -63,3 +63,4 @@ The full Japan Economic Blueprint is available [here⁠(opens in a new window)](
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

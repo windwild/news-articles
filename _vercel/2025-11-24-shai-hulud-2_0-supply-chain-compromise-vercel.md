@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Shai-Hulud 2.0 Supply Chain Compromise  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/shai-hulud-2-0-supply-chain-compromise"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel updates that no Vercel-managed systems or internal build processes were impacted by the Shai-Halud 2.0 supply chain compromise "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 24, 2025
 
@@ -31,3 +29,4 @@ Vercel 已立即采取措施，为受影响的客户解决问题。作为初步�
 - 我们正直接联系受影响的客户，并提供详细的缓解措施说明。
 
 我们将持续在调查过程中发布最新进展。
+{% endraw %}

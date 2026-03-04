@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Supercharge your Vercel Projects with Integrations - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/integrations-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Connect your Vercel project to databases, monitoring tools, commerce providers, developer tools, and more."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 1, 2021
 
@@ -128,3 +126,4 @@ Sentry 彻底改变了我们在 Vercel 平台上监控和响应错误的方式�
 
 准备好开发一个集成应用了吗？请查阅我们的文档，并[今天就使用 Vercel 创建一个集成](https://vercel.com/docs/integrations)。  
 Ready to develop an integration? Check out our documentation and [create an integration with Vercel today](https://vercel.com/docs/integrations).
+{% endraw %}

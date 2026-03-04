@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/pacific-northwest-national-laboratory"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting..."
 tags: ["Global Affairs"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 26, 2026
 
@@ -111,3 +109,4 @@ This benchmark evaluates model capability on well-specified drafting tasks where
 OpenAI is supporting PNNL to further develop and refine solutions for [PermitAI⁠(opens in a new window)](https://www.pnnl.gov/projects/permitai)’s applications, designed to help federal agencies streamline permitting processes. Over time, we expect to see the average time to approval for federally reviewed infrastructure projects fall from months to weeks, accelerating project development and strengthening U.S. competitiveness and supporting long-term economic growth.
 
 OpenAI 正在支持美国太平洋西北国家实验室（PNNL）进一步开发与优化面向 [PermitAI⁠（在新窗口中打开）](https://www.pnnl.gov/projects/permitai) 应用场景的解决方案，旨在协助联邦机构简化许可审批流程。长远来看，我们预期由联邦机构审核的基础设施项目平均审批周期将从数月缩短至数周，从而加快项目落地进程，增强美国全球竞争力，并支撑长期经济增长。
+{% endraw %}

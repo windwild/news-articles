@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Talha Tariq joins Vercel as CTO of Security - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/talha-tariq-joins-vercel-as-cto-security"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Talha Tariq joins Vercel as CTO of Security, bringing expertise from HashiCorp and IBM to lead security innovation in the AI era."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 15, 2025
 
@@ -127,3 +125,4 @@ Of course, the immediate focus is on the Vercel ecosystem and its customers, but
 From our [Web Application Firewall](https://vercel.com/security/web-application-firewall) to [platform-level safeguards](https://vercel.com/security), we’re investing in security as a core part of the developer experience. With Talha’s leadership, we’re building tools that protect by default—so teams can move fast, stay secure, and focus on shipping.
 
 从我们的 [Web 应用防火墙（WAF）](https://vercel.com/security/web-application-firewall) 到 [平台级安全防护措施](https://vercel.com/security)，我们将安全能力深度融入开发者体验的核心环节。在塔尔哈（Talha）的领导下，我们正打造“默认即受保护”的安全工具——让团队既能快速迭代，又能持续保障安全，从而专注交付价值。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Insights on Crosscoder Model Diffing \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/crosscoder-model-diffing"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Interpretability
 
@@ -39,3 +37,4 @@ At the link above, we report some developing work from the Anthropic Interpretab
 As ever, we'd ask readers to treat these results like those of a colleague sharing some thoughts or preliminary experiments for a few minutes at a lab meeting, rather than a mature paper.
 
 一如既往，我们恳请读者将这些结果视作一位同事在实验室组会上用几分钟时间分享的一些初步想法或实验探索，而非一篇成熟、定稿的学术论文。
+{% endraw %}

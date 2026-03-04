@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building Chat LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/building-chat-langchain-2/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["![Extraction Benchmarking", "**Extraction Benchmarking**", "**The Prompt Landscape**"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Hosted: [https://chat.langchain.com](https://chat.langchain.com/?ref=blog.langchain.com)
 
@@ -473,3 +471,4 @@ If you are exploring building apps and want to chat, I would be happy to make th
 [**The Prompt Landscape**](https://blog.langchain.com/the-prompt-landscape/)
 
 [**提示词生态全景图**](https://blog.langchain.com/the-prompt-landscape/)
+{% endraw %}

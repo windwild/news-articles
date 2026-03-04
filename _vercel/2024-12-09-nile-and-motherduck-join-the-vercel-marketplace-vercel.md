@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Nile and MotherDuck join the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/nile-and-motherduck-join-the-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can integrate Nile's database services or leverage MotherDuck's data analysis capabilities directly from the Vercel dashboard, complete with integrated billing and CLI provisioning."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 9, 2024
 
@@ -23,3 +21,4 @@ Dec 9, 2024
 您可直接通过 Vercel 控制台集成 [Nile 的数据库服务](https://thenile.dev/blog/nile-vercel)，或利用 [MotherDuck 的数据分析能力](https://motherduck.com/blog/motherduck-vercel-marketplace-native-integration/)，全程支持统一账单管理与 CLI 自动化配置。
 
 立即访问 [Vercel Marketplace](https://vercel.com/marketplace)，所有付费计划的用户均可使用。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Node.js Version now customizable in the Project Settings - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-version-now-customizable-in-the-project-settings"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 22, 2021
 
@@ -23,3 +21,4 @@ Jan 22, 2021
 此前，若需自定义 Node.js 版本，必须在 `package.json` 文件中定义 `engines` 属性。但请注意：该属性的设置将优先于项目设置中的配置。
 
 也可参阅[相关文档](https://vercel.com/docs/runtimes#official-runtimes/node-js/node-js-version)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Groq, fal, and DeepInfra join the Vercel Marketplace  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/groq-fal-and-deepinfra-join-the-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Groq, fal, and DeepInfra now have first-party AI integrations available on the Vercel Marketplace for all users. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 18, 2025
 
@@ -49,3 +47,4 @@ Explore the new [AI category](https://vercel.com/marketplace?category=ai), [read
 You can also explore the most popular models from each provider in the [AI SDK playground](https://sdk.vercel.ai/playground).
 
 您还可前往 [AI SDK Playground](https://sdk.vercel.ai/playground)，探索各提供商最受欢迎的模型。
+{% endraw %}

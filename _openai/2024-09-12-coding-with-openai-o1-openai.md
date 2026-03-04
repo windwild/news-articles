@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Coding with OpenAI o1 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/o1-coding"
@@ -10,6 +9,7 @@ translated: false
 description: "Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way."
 tags: ["Story"]
 ---
+{% raw %}
 
 September 12, 2024
 
@@ -24,3 +24,4 @@ September 12, 2024
 Scott Wu, CEO and Co-Founder of Cognition
 
 Coding with OpenAI o1 \| OpenAI
+{% endraw %}

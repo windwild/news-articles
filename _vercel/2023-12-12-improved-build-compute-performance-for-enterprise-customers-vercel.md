@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved build compute performance for Enterprise customers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-build-compute-performance-for-enterprise-customers"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 12, 2023
 
@@ -25,3 +23,4 @@ Dec 12, 2023
 构建速度中位数比 Pro 版快 15%，比此前的企业版构建基础设施快 7%。此外，企业版客户现在还可购买增强型构建机器，配备更大的内存和存储空间。
 
 [了解更多关于构建的信息](https://vercel.com/docs/deployments/builds) 或 [联系我们](https://vercel.com/contact/sales) 升级至企业版。
+{% endraw %}

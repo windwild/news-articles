@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Generate shareable snapshots of Observability charts - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/generate-shareable-snapshots-of-observability-charts"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: " Quickly share Observability charts with your team. Copy any chart with CMD+C to get a URL that previews the exact view, including filters and timeline data."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 28, 2025
 
@@ -33,3 +31,4 @@ The link includes a preview image of the chart that unfurls in tools like Slack 
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability) or learn more about [Observability](https://vercel.com/docs/observability) and [Observability Plus](https://vercel.com/docs/observability/observability-plus).
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability)，或进一步了解 [可观测性（Observability）](https://vercel.com/docs/observability) 和 [可观测性增强版（Observability Plus）](https://vercel.com/docs/observability/observability-plus)。
+{% endraw %}

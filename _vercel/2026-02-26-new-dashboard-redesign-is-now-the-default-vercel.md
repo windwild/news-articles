@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New dashboard redesign is now the default - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/dashboard-navigation-redesign-rollout"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The new dashboard navigation redesign is now rolling out to all users on February 25, 2026 with no action required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 26, 2026
 
@@ -59,3 +57,4 @@ No action is required. The new navigation is available to all users automaticall
 [Open your dashboard](https://vercel.com/dashboard) to see the updated experience.
 
 [打开您的控制台](https://vercel.com/dashboard) 以体验更新后的界面。
+{% endraw %}

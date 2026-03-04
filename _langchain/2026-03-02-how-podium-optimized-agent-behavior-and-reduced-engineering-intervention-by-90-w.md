@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-podium/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how Podium tests across the lifecycle development of their AI employee agent, using LangSmith for dataset curation and finetuning. They improved agent F1 response quality to 98% and reduced the ne..."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ## **About Podium**
 
@@ -259,3 +257,4 @@ Together, these suite of products have allowed Podium to focus on their core val
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

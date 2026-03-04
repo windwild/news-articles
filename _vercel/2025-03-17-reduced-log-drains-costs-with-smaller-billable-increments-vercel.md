@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Reduced Log Drains costs with smaller billable increments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/reduced-log-drains-costs-with-smaller-billable-increments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Additional transferred Log Drain data will be charged in smaller increments of $0.50 per 1GB instead of $10 per 20GB"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 17, 2025
 
@@ -27,3 +25,4 @@ Log Drains 传输的数据将按每 1GB 收费 $0.50，取代原先每 20GB 收�
 Learn more about [Log Drains](https://vercel.com/docs/log-drains).
 
 了解更多关于 [Log Drains](https://vercel.com/docs/log-drains) 的信息。
+{% endraw %}

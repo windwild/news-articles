@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPTeam: A multi-agent simulation"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/gpteam-a-multi-agent-simulation/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:48:22.112646701+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Editor's Note: This is another edition in our series of guest posts highlighting novel applications of LangChain. After the Generative Agents paper was released, there was a flurry of open source projects rushing to incorporate some of the key ideas. GPTeam was one of the most impressive ones we saw, so we're incredibly excited to highlight this guest blog from [@itstimconnors](https://twitter.com/itstimconnors?ref=blog.langchain.com) and the rest of the team  ( [@alecvxyz](https://twitter.com/alecvxyz?ref=blog.langchain.com) [@joshsny](https://twitter.com/joshsny?ref=blog.langchain.com), and [@haniasnyder](https://twitter.com/haniasnyder?ref=blog.langchain.com)).**
 
@@ -349,3 +347,4 @@ This project was a blast to build, and we’re all really appreciate of the rece
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
+{% endraw %}

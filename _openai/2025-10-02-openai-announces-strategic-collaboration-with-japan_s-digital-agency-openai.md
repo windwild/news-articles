@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI announces strategic collaboration with Japan’s Digital Agency | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 October 2, 2025
 
@@ -36,3 +36,4 @@ Looking ahead, OpenAI will continue to prioritize safety, transparency, and inte
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

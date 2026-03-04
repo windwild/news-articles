@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing ChatGPT Atlas | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-chatgpt-atlas"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS."
 ---
+{% raw %}
 
 October 21, 2025
 
@@ -110,3 +110,4 @@ Play video
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

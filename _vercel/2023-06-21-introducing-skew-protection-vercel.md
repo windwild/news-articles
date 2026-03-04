@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Skew Protection - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/version-skew-protection"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Skew Protection from Vercel, a mechanism to eliminate version skew"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 21, 2023
 
@@ -207,3 +205,4 @@ Vercel.com 着陆页
 ### See how teams ship faster with frontend cloud
 
 ### 了解团队如何借助前端云更快地交付产品
+{% endraw %}

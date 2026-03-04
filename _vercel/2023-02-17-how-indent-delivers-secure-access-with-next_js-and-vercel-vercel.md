@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Indent delivers secure access with Next.js and Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-indent-delivers-secure-access-with-next.js-and-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Indent"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 17, 2023
 
@@ -52,3 +50,4 @@ Along with faster feedback, running Next.js on Vercel allows Indent to take full
 Want to see how your team could achieve a better workflow? [Get in touch](https://vercel.com/contact/sales).
 
 想了解您的团队如何实现更高效的工作流？[联系我们](https://vercel.com/contact/sales)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Clients blocked by persistent actions now receive a 403 Forbidden response - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/clients-blocked-by-persistent-actions-now-receive-a-403-forbidden-response"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Web Application Firewall blocks clients by persistent actions with a 403 Forbidden response "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 28, 2025
 
@@ -27,3 +25,4 @@ WAF 中的“持久化操作”有助于降低边缘节点的请求负载，并�
 Learn more about [persistent actions](https://vercel.com/docs/security/vercel-waf/custom-rules#persistent-actions).
 
 了解更多关于 [持久化操作](https://vercel.com/docs/security/vercel-waf/custom-rules#persistent-actions) 的信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI SDK 4.0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-4-0"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing PDF support, computer use, and an xAI Grok provider"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 18, 2024
 
@@ -524,3 +522,4 @@ AI SDK 4.0 是 Vercel 核心团队（[Lars](https://x.com/lgrammel)、[Jeremy](h
 Your feedback and contributions are invaluable as we continue to evolve the AI SDK.
 
 在 AI SDK 持续演进的过程中，您的反馈与贡献弥足珍贵。
+{% endraw %}

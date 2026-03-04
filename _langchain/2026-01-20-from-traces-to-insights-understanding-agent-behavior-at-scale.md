@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "From Traces to Insights: Understanding Agent Behavior at Scale"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/from-traces-to-insights-understanding-agent-behavior-at-scale/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes", "![Deep Agents", "**Deep Agents**"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 > Visibility is the easiest piece. The hard part is analyzing and understanding what you’re observing. I’ve spoken to teams recording 100k+ traces every single day. What are they doing with those traces? Literally nothing. Because it’s impossible to read and summarize 100,000 traces at any human scale.
 
@@ -271,3 +269,4 @@ Try it today in LangSmith today.
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 3 分钟阅读
 
 [Harrison 的热点评论](https://blog.langchain.com/tag/in-the-loop/) 3 分钟阅读
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "45% faster build initialization - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/45-percent-faster-build-initialization"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Customers on all plans can now benefit from faster build cache restoration times. We've made architectural improvements to builds to help customers build faster."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 15, 2025
 
@@ -31,3 +29,4 @@ This improvement also reduced I/O wait times for file writes inside the build co
 Learn more about [builds on Vercel](https://vercel.com/docs/deployments/builds).
 
 了解更多关于 [Vercel 构建（builds）](https://vercel.com/docs/deployments/builds) 的信息。
+{% endraw %}

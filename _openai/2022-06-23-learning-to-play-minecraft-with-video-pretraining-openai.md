@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Learning to play Minecraft with Video PreTraining | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/vpt"
@@ -10,6 +9,7 @@ translated: false
 description: "We trained a neural network to play Minecraft by Video PreTraining (VPT) on a massive unlabeled video dataset of human Minecraft play, while using only a small amount of labeled contractor data. With ..."
 tags: ["Research"]
 ---
+{% raw %}
 
 June 23, 2022
 
@@ -110,3 +110,4 @@ For more information, please see [our paper⁠(opens in a new window)](https://
 - [Compute Scaling](https://openai.com/research/index/?tags=compute-scaling)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Dota 2 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/dota-2"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve created a bot which beats the world’s top professionals at 1v1 matches of Dota 2 under standard tournament rules. The bot learned the game from scratch by self-play, and does not use imitati..."
 tags: ["Research"]
 ---
+{% raw %}
 
 August 11, 2017
 
@@ -43,3 +43,4 @@ The full game of Dota is played by two teams of five. Each player chooses from a
 - [OpenAI Five](https://openai.com/research/index/?tags=openai-five)
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

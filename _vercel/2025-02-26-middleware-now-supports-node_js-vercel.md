@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Middleware now supports Node.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/middleware-now-supports-node-js"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js 15.2 introduces experimental Node.js Middleware, now available at Vercel—giving you full Node.js runtime support for your Middleware. Run authentication, logging, request handling, and more ..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 26, 2025
 
@@ -70,3 +68,4 @@ export const config = {
 [Deploy now](https://vercel.com/templates/next.js/nextjs-boilerplate) with Next.js 15.2.
 
 使用 Next.js 15.2 立即部署：[立即部署](https://vercel.com/templates/next.js/nextjs-boilerplate)
+{% endraw %}

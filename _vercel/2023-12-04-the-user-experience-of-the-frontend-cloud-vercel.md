@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The user experience of the Frontend Cloud - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-user-experience-of-the-frontend-cloud"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The user experience of the Frontend Cloud: Part 2 of the developer's guide to a future-proofed stack."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 4, 2023
 
@@ -315,3 +313,4 @@ Dec 21, 2023
 Alice Alexandra Moore
 
 爱丽丝·亚历山德拉·摩尔
+{% endraw %}

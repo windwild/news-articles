@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The Hidden Metric That Determines AI Product Success"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/the-hidden-metric-that-determines-ai-product-success/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Co-authored by Assaf Elovic and Harrison Chase. You can also find a version of this post_ [_published on Assaf's Medium_](https://medium.com/@assafelovic/the-hidden-metric-that-determines-ai-product-success-799a98fd57aa?ref=blog.langchain.com) _._
 
@@ -372,3 +370,4 @@ The question isn’t whether your AI is good enough. The question is whether you
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 min read
 
 [Harrison 的犀利观点](https://blog.langchain.com/tag/in-the-loop/) 阅读时长：4 分钟
+{% endraw %}

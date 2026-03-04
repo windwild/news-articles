@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How OpenAI is approaching 2024 worldwide elections | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re working to prevent abuse, provide transparency on AI-generated content, and improve access to accurate voting information."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 January 15, 2024
 
@@ -103,3 +103,4 @@ We’ll have more to share in the coming months. We look forward to continuing t
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

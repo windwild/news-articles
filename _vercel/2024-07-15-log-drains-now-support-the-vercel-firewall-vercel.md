@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Log Drains now support the Vercel Firewall - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/log-drains-now-support-the-vercel-firewall"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 15, 2024
 
@@ -45,3 +43,4 @@ If a rule is set to `log` or to `bypass`, requests will not be sent to Log Drain
 Learn more about the [Log Drains](https://vercel.com/docs/observability/log-drains).
 
 了解更多关于 [Log Drains（日志导出）](https://vercel.com/docs/observability/log-drains) 的信息。
+{% endraw %}

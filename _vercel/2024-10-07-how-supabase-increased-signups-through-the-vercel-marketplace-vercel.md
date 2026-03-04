@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Supabase increased signups through the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-supabase-increased-signups-through-the-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Supabase increased signups through the Vercel Marketplace"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 7, 2024
 
@@ -77,3 +75,4 @@ Additionally, the ease of managing backend services directly from Vercel boosted
 If you're a service provider interested in joining the Marketplace, feel free to reach out to us at [integrations@vercel.com](mailto:integrations@vercel.com).
 
 如果您是希望入驻 Marketplace 的服务提供商，欢迎通过 [integrations@vercel.com](mailto:integrations@vercel.com) 与我们联系。
+{% endraw %}

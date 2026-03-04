@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Computational limitations in robust classification and win-win results | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/computational-limitations-in-robust-classification-and-win-win-results"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 February 4, 2019
 
@@ -32,3 +32,4 @@ Second, we show hard-to-robustly-learn classification tasks in the large-perturb
 Third, we show that any such counterexample implies the existence of cryptographic primitives such as one-way functions. This leads us to a win-win scenario: either we can learn an efficient robust classifier, or we can construct new instances of cryptographic primitives.
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New Slack Integration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-slack-integration"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 11, 2021
 
@@ -29,3 +27,4 @@ Aug 11, 2021
 若您当前仍在使用旧版遗留 Slack 集成（可通过个人账户或团队仪表板中打开该集成的配置页面进行确认），请立即卸载旧版，并[安装新版集成](https://vercel.com/integrations/slack)，因为**旧版集成将于 8 月 20 日起停止服务**。
 
 此外，若您仍在使用旧版集成，您还将直接在 Slack 频道中收到一条通知，其中包含升级至最新版本的具体操作指引。
+{% endraw %}

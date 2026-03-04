@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangChain State of AI 2023"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langchain-state-of-ai-2023/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:18:46.125009157+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 In 2023 we saw an explosion of interest in Generative AI upon the heels of ChatGPT. All companies - from startups to enterprises - were (and still are) trying to figure out their GenAI strategy.
 
@@ -209,3 +207,4 @@ As the first real year of LLM app development comes to a close, we are hearing f
 LangSmith is emerging as the dominant way that teams are bringing their applications from prototype to production - whether they are using LangChain or not. If you are interested in enterprise access or support, please [reach out](https://airtable.com/appwQzlErAS2qiP0L/shrGtGaVBVAz7NcV2?ref=blog.langchain.com) or [sign up here](https://smith.langchain.com/?ref=blog.langchain.com).
 
 LangSmith 正日益成为各团队将应用从原型推进至生产环境的主流方案——无论其是否采用 LangChain 框架。如果您有企业级访问或技术支持需求，欢迎[联系我们](https://airtable.com/appwQzlErAS2qiP0L/shrGtGaVBVAz7NcV2?ref=blog.langchain.com)，或[立即注册](https://smith.langchain.com/?ref=blog.langchain.com)。
+{% endraw %}

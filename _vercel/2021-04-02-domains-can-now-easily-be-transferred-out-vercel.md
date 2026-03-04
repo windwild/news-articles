@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Domains can now easily be transferred out - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/domains-can-now-easily-be-transferred-out"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 2, 2021
 
@@ -31,3 +29,4 @@ Previously, this was only possible by contacting Support.
 Check out [the documentation](https://vercel.com/docs/custom-domains#transferring-domains-out) as well.
 
 也欢迎查阅[相关文档](https://vercel.com/docs/custom-domains#transferring-domains-out)。
+{% endraw %}

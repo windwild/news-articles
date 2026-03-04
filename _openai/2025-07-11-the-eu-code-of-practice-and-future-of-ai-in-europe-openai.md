@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The EU Code of Practice and future of AI in Europe | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/eu-code-of-practice"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth."
 ---
+{% raw %}
 
 July 11, 2025
 
@@ -93,3 +93,4 @@ We have also developed industry-leading safety practices that guide how we devel
 Together, this work has been instrumental for setting safety standards in the industry and informing the development of a workable Code of Practice and we will continue to iteratively improve our approach to safety to help ensure that our technology is used to benefit everyone responsibly, wherever they are in the world.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and GEDI partner for Italian news content | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gedi"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI and GEDI announce strategic partnership to bring Italian-language news content to ChatGPT."
 tags: ["Company"]
 ---
+{% raw %}
 
 September 26, 2024
 
@@ -42,3 +42,4 @@ Sam Altman, CEO of OpenAI, said, “It’s important we work with publishers aro
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

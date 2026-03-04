@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Revolutionizing video editing on the web with Next.js and Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/revolutionizing-video-editing-on-the-web-with-next-js-and-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Ozone, the AI-infused, web-based video editor, accelerated their development process by 5x after switching to Vercel and Next.js. See how."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 20, 2024
 
@@ -119,3 +117,4 @@ Talk to an expert to learn how you can get started with Vercel today.
 
 Get in Touch  
 立即联系](https://vercel.com/contact/sales)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI and efficiency | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ai-and-efficiency"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing an analysis showing that since 2012 the amount of compute needed to train a neural net to the same performance on ImageNet classification has been decreasing by a factor of 2 every ..."
 tags: ["Research"]
 ---
+{% raw %}
 
 May 5, 2020
 
@@ -205,3 +205,4 @@ van den Oord, A., Li, Y., Babuschkin, I., Simonyan, K., Vinyals, O., Kavukcuoglu
 
 5. 32
 Jack Clark (2019). “ [Written Testimony of Jack Clark, Policy Director at OpenAI. Hearing on “Artificial Intelligence: Societal and Ethical Implications” before the House Committee on Science, Space, & Technology⁠(opens in a new window)](https://science.house.gov/imo/media/doc/Clark%20Testimony.pdf).”
+{% endraw %}

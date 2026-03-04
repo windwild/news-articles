@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New models and developer products announced at DevDay | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/new-models-and-developer-products-announced-at-devday"
@@ -10,6 +9,7 @@ translated: false
 description: "GPT-4 Turbo with 128K context and lower prices, the new Assistants API, GPT-4 Turbo with Vision, DALL·E 3 API, and more."
 tags: ["Product"]
 ---
+{% raw %}
 
 November 6, 2023
 
@@ -152,3 +152,4 @@ _Learn more about our_ [_OpenAI DevDay announcements for ChatGPT_ ⁠](https://o
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

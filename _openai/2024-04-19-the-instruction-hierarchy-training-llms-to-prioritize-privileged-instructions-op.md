@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/the-instruction-hierarchy"
@@ -10,6 +9,7 @@ translated: false
 description: "Today's LLMs are susceptible to prompt injections, jailbreaks, and other attacks that allow adversaries to overwrite a model's original instructions with their own malicious prompts."
 tags: ["Research"]
 ---
+{% raw %}
 
 April 19, 2024
 
@@ -29,3 +29,4 @@ Today's LLMs are susceptible to prompt injections, jailbreaks, and other attacks
 - [Language](https://openai.com/research/index/?tags=language)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
+{% endraw %}

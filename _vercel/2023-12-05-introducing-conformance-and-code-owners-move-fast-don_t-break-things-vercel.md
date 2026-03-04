@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Conformance and Code Owners: Move fast, don't break things - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-conformance"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Conformance and Code Owners are now available"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 5, 2023
 
@@ -179,3 +177,4 @@ Contact Us](https://vercel.com/contact/sales)
 联系我们，深入了解如何优化您的前端工作流，并借助 Vercel 赋能团队，交付更卓越的 Web 体验。\\
 \\
 联系销售](https://vercel.com/contact/sales)
+{% endraw %}

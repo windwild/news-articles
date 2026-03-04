@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Consensys rebuilt MetaMask.io with Vercel and Next.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-consensys-rebuilt-metamask-io-with-vercel-and-next-js"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Consensys modernized MetaMask.io using Vercel and Next.js—cutting deployment times, improving collaboration across teams, and unlocking dynamic content with serverless architecture."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 14, 2025
 
@@ -87,3 +85,4 @@ Contact Us](https://vercel.com/contact/sales)
 我们的专家可协助您了解如何让您的网站跻身其中。\\
 \\
 联系我们](https://vercel.com/contact/sales)
+{% endraw %}

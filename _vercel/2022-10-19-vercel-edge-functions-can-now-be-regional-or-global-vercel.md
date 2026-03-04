@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Edge Functions can now be regional or global - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/regional-edge-functions-are-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 19, 2022
 
@@ -29,3 +27,4 @@ By default, Edge Functions run in every Vercel [region](https://vercel.com/docs/
 Check out the [documentation](https://vercel.com/docs/concepts/edge-network/regions) to learn more.
 
 请查阅 [文档](https://vercel.com/docs/concepts/edge-network/regions) 了解更多信息。
+{% endraw %}

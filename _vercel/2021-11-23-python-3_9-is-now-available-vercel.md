@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Python 3.9 is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/python-3-9-is-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 23, 2021
 
@@ -25,3 +23,4 @@ Nov 23, 2021
 Python 3.6 将于 **2021 年 12 月正式终止支持（End of Life）**（参见 [PEP 0494](https://www.python.org/dev/peps/pep-0494/)）。在完全移除对该版本的支持之前，我们将另行发布公告，明确标注其最终停用日期。
 
 您也可查阅相关[文档](https://vercel.com/docs/runtimes#official-runtimes/python/python-version)以获取更多信息。
+{% endraw %}

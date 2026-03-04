@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building the Black Friday-Cyber Monday live dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-the-black-friday-cyber-monday-live-dashboard"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "See how we built the data-heavy Black Friday-Cyber Monday dashboard to be cost-efficient, fast, and accurate. Building a data-heavy, real-time dashboard with a good user experience comes with challeng..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 24, 2024
 
@@ -578,3 +576,4 @@ Jan 16, 2024
 Greta Workman
 
 格蕾塔·沃克曼
+{% endraw %}

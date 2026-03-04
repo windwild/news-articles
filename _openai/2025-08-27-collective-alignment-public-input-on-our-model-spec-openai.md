@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Collective alignment: public input on our Model Spec | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/collective-alignment-aug-2025-updates"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human va..."
 ---
+{% raw %}
 
 August 27, 2025
 
@@ -192,3 +192,4 @@ _\*\*Argentina, Australia, Canada, Germany, Greece, Italy, Republic of Korea, Ma
 ## Acknowledgements
 
 Adam Kalai, AJ Ostrow, Andrea Vallone, Anna-Luisa Brakman, Boaz Barak, Brent Bannon, Cary Bassin, Casey Meehan, Charlotte Cole, Freddie Sulit, Gaby Raila, Isabelle Zhou, Jasmyn Samaroo, Jason Wolfe, Joanne Jang, Johannes Heidecke, Laurentia Romaniuk, Marwan Aljubeh, Mia Glaese, Michael Sharman, Phillip Kim, Rodrigo Riaza Perez, Saachi Jain, Sam Altman, Sean Grove, Taya Christianson, Tom Cunningham, Wade Morgan, Yara Khakbaz.
+{% endraw %}

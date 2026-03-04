@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Statement on the comments from Secretary of War Pete Hegseth"
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/statement-comments-secretary-war"
@@ -9,8 +8,7 @@ translated: true
 description: "Anthropic's response to the Secretary of War and advice for customers"
 tags: ["Announcements"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 # Statement on the comments from Secretary of War Pete Hegseth
 
@@ -77,3 +75,4 @@ Our sales and [support](https://support.claude.com/en/) teams are standing by to
 We are deeply grateful to our users, and to the industry peers, policymakers, veterans, and members of the public who have voiced their support in recent days. Thank you. Above all else, our priorities are to protect our customers from any disruption caused by these extraordinary events and to work with the Department of War to ensure a smooth transition—for them, for our troops, and for American military operations.
 
 我们由衷感谢广大用户，以及近日以来公开表达支持的行业同仁、政策制定者、退伍军人和公众人士。衷心感谢！归根结底，我们的首要任务是：全力保护客户免受此次异常事件带来的任何干扰，并与“战争部”通力协作，确保平稳过渡——既服务于“战争部”自身，也服务于我军将士，更服务于美国军事行动的整体运行。
+{% endraw %}

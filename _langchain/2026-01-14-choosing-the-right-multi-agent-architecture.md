@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Choosing the Right Multi-Agent Architecture"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/choosing-the-right-multi-agent-architecture/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "In this post, we’ll explore when multi-agent architectures become necessary, the four main patterns we’ve observed, and how LangChain empowers you to effectively build multi-agent systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 By Sydney Runkle
 
@@ -341,3 +339,4 @@ Multi-agent systems coordinate specialized components to tackle complex workflow
 In many cases though, simpler architectures often suffice. Start with a single agent and good prompt engineering. Add tools before adding agents. Graduate to multi-agent patterns only when you hit clear limits.
 
 然而在许多情况下，更简单的架构已足以满足需求。建议从单智能体起步，并辅以高质量的提示词工程；优先为单智能体添加工具，而非直接引入多智能体；仅当明确遭遇性能或功能瓶颈时，再逐步升级至多智能体模式。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Osaka (Japan) is now available on the Edge Network - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/osaka-japan-is-now-available-on-the-edge-network"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 13, 2022
 
@@ -29,3 +27,4 @@ Static files and [function responses](https://vercel.com/docs/concepts/functions
 Check out [the documentation](https://vercel.com/docs/functions/regions) as well.
 
 也欢迎查阅相关[文档](https://vercel.com/docs/functions/regions)。
+{% endraw %}

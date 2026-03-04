@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-5.1-Codex-Max System Card | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-1-codex-max-system-card"
@@ -10,6 +9,7 @@ translated: false
 description: "This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax. It details both model-level mitigations, such as specialized safety training for harmful tasks and promp..."
 tags: ["Publication"]
 ---
+{% raw %}
 
 November 19, 2025
 
@@ -30,3 +30,4 @@ GPT‑5.1‑Codex‑Max was evaluated under our Preparedness Framework. It is ve
 
 - [2025](https://openai.com/research/index/?tags=2025)
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Dataset schemas for fast and iterative data curation in LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/dataset-schemas/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Define and flexibly manage dataset schemas in LangSmith. Validate examples against a defined schema, and update the schema easily in the LangSmith UI."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 In traditional ML and data science, perhaps the first thing you do is think about data. You need to build data sets (i.e. training/validation/test sets) before even thinking about training and evaluating a model. Only after these steps do you integrate the model into your application to see how it performs.
 
@@ -119,3 +117,4 @@ Curating datasets is incredibly important for building both traditional ML and L
 **To dive deeper, check out our** [**documentation**](https://docs.smith.langchain.com/how_to_guides/datasets/manage_datasets_in_application?ref=blog.langchain.com#dataset-schema-validation) **on dataset schemas. You can** [**try out LangSmith**](https://smith.langchain.com/?ref=blog.langchain.com) **today for robust experimentation and evaluation, with support for prompt versioning, debugging, and human annotations — so you can gain production observability as you build your LLM apps.**
 
 **如需深入了解，请查阅我们关于[数据集模式（dataset schemas）的文档](https://docs.smith.langchain.com/how_to_guides/datasets/manage_datasets_in_application?ref=blog.langchain.com#dataset-schema-validation)。您可立即[试用 LangSmith](https://smith.langchain.com/?ref=blog.langchain.com)，开展稳健的实验与评估——它支持提示词版本管理（prompt versioning）、调试（debugging）及人工标注（human annotations），助您在构建 LLM 应用的过程中，实现生产环境级的可观测性（production observability）。**
+{% endraw %}

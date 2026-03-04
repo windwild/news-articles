@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Bun install is now supported with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bun-install-is-now-supported-with-zero-configuration"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 11, 2023
 
@@ -35,3 +33,4 @@ This change impacts the build phase but not runtime. Therefore, Serverless Funct
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/build-step#install-command) to learn more.
 
 [查阅文档](https://vercel.com/docs/concepts/deployments/build-step#install-command) 了解更多信息。
+{% endraw %}

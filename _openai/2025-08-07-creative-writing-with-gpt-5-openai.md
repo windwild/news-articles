@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Creative writing with GPT-5 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-creative-writing"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Learn how GPT-5 assists with creative writing."
 ---
+{% raw %}
 
 August 7, 2025
 
@@ -23,3 +23,4 @@ August 7, 2025
 
 
 Creative writing with GPT-5 \| OpenAI
+{% endraw %}

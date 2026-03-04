@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Stopping the slow death of internal tools - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/stopping-the-slow-death-of-internal-tools"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Internal tools often decay due to high maintenance costs and security tradeoffs. Learn how Vercel uses v0 to build secure, sustainable custom software that business teams can ship and maintain without..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 27, 2025
 
@@ -201,3 +199,4 @@ Ship your first internal tool today using one of our templates:
 - Try the [AI ad creator template](https://v0.app/templates/ai-ad-creator-7JdqEwKmtIG) to generate video marketing assets
 
 - 尝试 [AI 广告生成器模板](https://v0.app/templates/ai-ad-creator-7JdqEwKmtIG)，自动生成视频营销素材
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and Microsoft | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-and-microsoft"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re working with Microsoft to start running most of our large-scale experiments on Azure."
 tags: ["Company"]
 ---
+{% raw %}
 
 November 15, 2016
 
@@ -36,3 +36,4 @@ It’s great to work with another organization that believes in the importance o
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2016](https://openai.com/news/?tags=2016)
+{% endraw %}

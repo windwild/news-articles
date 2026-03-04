@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Query Construction"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/query-construction/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:26:40.326932287+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Key Links**
 
@@ -313,3 +311,4 @@ Seamlessly retrieving structured and unstructured data across a variety of data 
 在多种数据源之间无缝检索结构化与非结构化数据，对充分释放大语言模型（LLM）的潜力至关重要。本文总结了目前面向各类数据存储系统兴起的四种主流“自然语言→结构化查询”流水线，并为用户提供了开箱即用的模板与实践指南（cookbooks），助其快速上手。
 
 ![](images/query-construction/img_004.png)
+{% endraw %}

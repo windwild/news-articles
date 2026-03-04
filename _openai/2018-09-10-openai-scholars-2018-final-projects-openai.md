@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Scholars 2018: Final projects | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-scholars-2018-final-projects"
@@ -10,6 +9,7 @@ translated: false
 description: "Our first cohort of OpenAI Scholars has now completed the program."
 tags: ["Company"]
 ---
+{% raw %}
 
 September 10, 2018
 
@@ -222,3 +222,4 @@ We can’t wait to see how our Scholars continue to contribute to the ML communi
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2018](https://openai.com/news/?tags=2018)
+{% endraw %}

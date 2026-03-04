@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Default Production Domain - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/default-production-domain"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Every new project now receives a default production domain."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 31, 2019
 
@@ -81,3 +79,4 @@ This drastically decreases the time it takes for you to share a working version 
 [Let us know what you think](mailto:support@vercel.com) about this change!
 
 欢迎通过 [support@vercel.com](mailto:support@vercel.com) 告诉我们您对本次变更的看法！
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Blob is now in public beta for Hobby and Pro customers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-blob-is-now-in-public-beta-for-hobby-and-pro-customers"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 18, 2023
 
@@ -25,3 +23,4 @@ Vercel Blob 可与任意框架配合使用。它可安全地从边缘函数（Ed
 该功能现已进入公开测试阶段（public beta），面向所有 Hobby 和 Pro 计划用户开放。
 
 [查阅我们的文档](https://vercel.com/docs/storage/vercel-blob) 以了解更多信息。
+{% endraw %}

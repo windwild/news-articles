@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deploy steps are now up to 21% faster - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deploy-steps-are-now-up-to-21-faster"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Deploy steps for projects with Functions are now up to 21% faster—nearly 2 seconds faster on average. No changes required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 2, 2025
 
@@ -27,3 +25,4 @@ During the deploy step, Vercel uploads static assets, provisions and uploads lik
 Check out [the documentation](https://vercel.com/docs/builds) to learn more about builds.
 
 请查阅 [相关文档](https://vercel.com/docs/builds)，进一步了解构建（builds）流程。
+{% endraw %}

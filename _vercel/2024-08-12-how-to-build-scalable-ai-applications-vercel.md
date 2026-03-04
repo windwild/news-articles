@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How to build scalable AI applications - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-to-build-scalable-ai-applications"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Explore AI integration strategies with Vercel's AI SDK. Learn to choose providers, optimize performance, and future-proof your apps. Discover tools for seamless AI deployment and scalability."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 12, 2024
 
@@ -584,3 +582,4 @@ You can create AI solutions that drive business value while maintaining trust, a
 我们的 AI 工程师可为您解答有关迁移或复杂基础设施的问题，并针对大规模 AI 应用推荐最佳实践。  
 \\  
 联系我们](https://vercel.com/contact/sales)
+{% endraw %}

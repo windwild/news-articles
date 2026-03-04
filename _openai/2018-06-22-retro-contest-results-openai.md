@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Retro Contest: Results | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/retro-contest-results"
@@ -10,6 +9,7 @@ translated: false
 description: "The first run of our Retro Contest—exploring the development of algorithms that can generalize from previous experience—is now complete."
 tags: ["Research"]
 ---
+{% raw %}
 
 June 22, 2018
 
@@ -167,3 +167,4 @@ _Gotta Learn Fast_
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
+{% endraw %}

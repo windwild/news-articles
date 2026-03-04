@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Track a request's full lifecycle with session tracing - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/session-tracing-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel session tracing is now available on all plans, providing insight into steps Vercel's infrastructure took to serve a request alongside user code spans. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 5, 2025
 
@@ -47,3 +45,4 @@ Session tracing is free to customers on all plans.
 To get started, find Tracing in the Vercel Toolbar, or learn more in [the docs](https://vercel.com/docs/session-tracing).
 
 如需开始使用，请在 Vercel 工具栏中找到 “Tracing”（追踪），或参阅[官方文档](https://vercel.com/docs/session-tracing)了解更多信息。
+{% endraw %}

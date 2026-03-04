@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Reptile: A scalable meta-learning algorithm | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/reptile"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve developed a simple meta-learning algorithm called Reptile which works by repeatedly sampling a task, performing stochastic gradient descent on it, and updating the initial parameters towards t..."
 tags: ["Research"]
 ---
+{% raw %}
 
 March 7, 2018
 
@@ -196,3 +196,4 @@ Several people have pointed out to us that first-order MAML and Reptile are more
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Language](https://openai.com/research/index/?tags=language)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
+{% endraw %}

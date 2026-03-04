@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Procgen and MineRL Competitions | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/procgen-minerl-competitions"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re excited to announce that OpenAI is co-organizing two NeurIPS 2020 competitions with AIcrowd, Carnegie Mellon University, and DeepMind, using Procgen Benchmark and MineRL."
 tags: ["Company"]
 ---
+{% raw %}
 
 June 20, 2020
 
@@ -87,3 +87,4 @@ To guarantee that competitors develop truly sample efficient algorithms, the Min
 
 1. A
 While direct application is not possible due to the sheer number of samples required, Sim2Real and data augmentation techniques can mittigate the need to sample real-world dynamics directly.
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Langchain x Predibase: The easiest way to fine-tune and productionize OSS LLMs"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langchain-predibase-the-easiest-way-to-fine-tune-and-productionize-oss-llms/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:10:55.057087751+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written in collaboration with the Predibase team. We're really excited about the way their integration with LangChain helps bring production-grade standards and workflows to open-source models._
 
@@ -144,3 +142,4 @@ We’re very excited to make these capabilities available for all LangChain user
 If you have ideas, comments, or questions, feel free to reach out on the [LangChain](https://discord.gg/6adMQxSpJS?ref=blog.langchain.com) Discord or via [support@predibase.com](mailto:support@predibase.com).
 
 如果您有任何想法、意见或疑问，欢迎通过 [LangChain Discord](https://discord.gg/6adMQxSpJS?ref=blog.langchain.com) 或邮件 [support@predibase.com](mailto:support@predibase.com) 与我们联系。
+{% endraw %}

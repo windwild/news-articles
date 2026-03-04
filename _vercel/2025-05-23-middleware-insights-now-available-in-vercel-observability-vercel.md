@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Middleware insights now available in Vercel Observability - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/middleware-insights-now-available-in-vercel-observability"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Observability dashboard now includes a dedicated view for middleware, showing invocation counts and performance metrics."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 23, 2025
 
@@ -32,3 +30,4 @@ Observability Plus 用户还可获得额外的洞察分析能力与配套工具�
 
 
 [访问仪表板](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fobservability%2Fmiddleware&title=Go%20to%20Middleware%20Observability) 或进一步了解 [Observability](https://vercel.com/docs/observability) 和 [Observability Plus](https://vercel.com/docs/observability#observability-plus)。
+{% endraw %}

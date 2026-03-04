@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Open your Vercel dashboard from the Vercel CLI - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/open-your-vercel-dashboard-from-the-vercel-cli"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Quickly access your Vercel project dashboard with the new vercel open CLI command. Open your project in the browser with a single command from your terminal."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 24, 2025
 
@@ -31,3 +29,4 @@ Update `vercel` to `48.10.0` or newer with `npm i -g vercel` to give it a try.
 See [docs](https://vercel.com/docs/cli/open) for more.
 
 详见 [文档](https://vercel.com/docs/cli/open)。
+{% endraw %}

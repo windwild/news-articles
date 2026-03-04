@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using GPT-4 to deliver a new customer service standard | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ada"
@@ -10,6 +9,7 @@ translated: false
 description: "Ada uses GPT-4 to deliver a new customer service standard"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Ada uses GPT‑4 to deliver a new customer service standard
@@ -79,3 +79,4 @@ The sense of possibility is mutual. “One thing that stands out at OpenAI compa
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How to integrate AI into your business - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-to-integrate-ai-into-your-business"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn to build robust AI use cases, evaluate initiatives, and integrate AI into your team's workflow. Discover how Vercel's platform accelerates AI development and drives innovation."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 6, 2024
 
@@ -314,3 +312,4 @@ Vercel.com 着陆页
 ### Power your next AI breakthrough.
 
 ### 赋能您的下一次 AI 突破。
+{% endraw %}

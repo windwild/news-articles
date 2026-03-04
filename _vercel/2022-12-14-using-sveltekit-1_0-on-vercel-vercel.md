@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using SvelteKit 1.0 on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/using-sveltekit-1-0-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Using SvelteKit 1.0 on Vercel"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 14, 2022
 
@@ -580,3 +578,4 @@ SvelteKit 生态系统正持续蓬勃发展、不断演进。目前已有不少�
 Get started with SvelteKit on Vercel by [deploying one of our SvelteKit templates](https://vercel.com/templates/svelte) in seconds, or begin learning with Vercel’s free [Beginner SvelteKit course](https://vercel.com/docs/beginner-sveltekit)!
 
 只需几秒钟，即可通过在 Vercel 上[部署我们的任一 SvelteKit 模板](https://vercel.com/templates/svelte)快速开始使用 SvelteKit；或者，也可从 Vercel 免费提供的 [SvelteKit 新手入门课程](https://vercel.com/docs/beginner-sveltekit) 开始学习！
+{% endraw %}

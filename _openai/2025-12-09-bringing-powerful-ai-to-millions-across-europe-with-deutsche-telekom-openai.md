@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Bringing powerful AI to millions across Europe with Deutsche Telekom | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/deutsche-telekom-collaboration"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche..."
 ---
+{% raw %}
 
 December 9, 2025
 
@@ -40,3 +40,4 @@ Deutsche Telekom further extends OpenAI’s work with the world’s largest and 
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
+{% endraw %}

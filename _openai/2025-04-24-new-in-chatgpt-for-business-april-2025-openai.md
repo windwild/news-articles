@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New in ChatGPT for Business: April 2025 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal knowledge."
 ---
+{% raw %}
 
 Recorded: April 24, 2025
 
@@ -24,3 +24,4 @@ Hands-on demos of OpenAI o3, image generation, memory and internal knowledge.
 - [Talk with our team](https://openai.com/contact-sales/)
 
 New in ChatGPT for Business: April 2025 \| OpenAI
+{% endraw %}

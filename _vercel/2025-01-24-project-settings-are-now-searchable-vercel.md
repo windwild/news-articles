@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Project settings are now searchable - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/project-settings-are-now-searchable"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Project settings in the Vercel Dashboard are now searchable, making it easier to find the setting you are looking for. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 24, 2025
 
@@ -27,3 +25,4 @@ Jan 24, 2025
 2. 点击 **设置（Settings）** 标签页。
 
 了解更多关于[项目设置](https://vercel.com/docs/projects/project-configuration/project-settings)的信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing ChatGPT Edu | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-chatgpt-edu"
@@ -10,6 +9,7 @@ translated: false
 description: "An affordable offering for universities to responsibly bring AI to campus."
 tags: ["Product"]
 ---
+{% raw %}
 
 May 30, 2024
 
@@ -56,3 +56,4 @@ ChatGPT Edu is designed for schools that want to deploy AI more broadly to stude
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

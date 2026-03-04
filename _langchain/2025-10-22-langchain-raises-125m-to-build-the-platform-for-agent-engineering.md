@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangChain raises $125M to build the platform for agent engineering"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/series-b/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We raised $125M at a $1.25B valuation to build the platform for agent engineering."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 # Today, we’re announcing we’ve raised $125M at a $1.25B valuation to build the **platform for agent engineering.** We’re also releasing new capabilities to accelerate the path to reliable agents, including LangChain and LangGraph 1.0 releases, a new Insights Agent, and a no code agent builder. IVP led the round alongside existing investors Sequoia, Benchmark, and Amplify, as well as new investors CapitalG and Sapphire Ventures.
 
@@ -91,3 +89,4 @@ We’d love you to be a part of the story. Head on over to the [docs](http://doc
 _Thank you to our new investors, many of whom are already customers or partners, that help make this journey possible – ServiceNow Ventures, Workday Ventures, Cisco Investments, Datadog Ventures, Databricks Ventures, and Frontline._
 
 衷心感谢我们的新投资人——其中许多已是我们的客户或合作伙伴，正是他们让这段征程成为可能：ServiceNow Ventures、Workday Ventures、Cisco Investments、Datadog Ventures、Databricks Ventures 以及 Frontline。
+{% endraw %}

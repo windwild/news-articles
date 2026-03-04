@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Chaos Labs built a multi-agent system for resolution in prediction markets"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/how-chaos-labs-built-a-multi-agent-system-for-resolution-in-prediction-markets/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:50:15.028854144+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **_Editor's Note: one of the most common use cases we've seen for LangGraph is complex research agents. This guest blog post by_** [**_Chaos Labs_**](https://chaoslabs.xyz/?ref=blog.langchain.com) **_highlights a great example of that. It utilizes multiple sources and complex architecture to do research that would power resolution in prediction markets. For those unfamiliar with prediction markets: prediction markets are resolved via an "oracle" that determines outcomes and resolves bets. Edge AI Oracle is an LLM based system that does just that._**
 
@@ -155,3 +153,4 @@ Edge AI Oracle 的 Alpha 版本发布，标志着构建可靠、客观的预言�
 Read more about Chaos Labs [here](https://chaoslabs.xyz/?ref=blog.langchain.com).
 
 更多关于 Chaos Labs 的信息，请点击[此处](https://chaoslabs.xyz/?ref=blog.langchain.com)了解。
+{% endraw %}

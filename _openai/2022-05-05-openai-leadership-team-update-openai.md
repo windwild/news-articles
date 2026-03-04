@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI leadership team update | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/leadership-team-update"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re happy to announce several executive role changes that reflect our recent progress and will ensure continued momentum toward our next major milestones."
 tags: ["Company"]
 ---
+{% raw %}
 
 May 5, 2022
 
@@ -34,3 +34,4 @@ These executives are supported by world-class teams who are the lifeblood of Ope
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2022](https://openai.com/news/?tags=2022)
+{% endraw %}

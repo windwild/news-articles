@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "iOS developers can now offer commission-free payments on web - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ios-developers-can-now-offer-commission-free-payments-on-web"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The open web wins: A U.S. court ended Apple’s 27% fee on external payments, letting developers link freely and offer better, direct checkout experiences."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 1, 2025
 
@@ -143,3 +141,4 @@ We believe in openness. Not in opposition to native, but in connection with it. 
 This ruling doesn’t tear down a walled garden, but it opens a gate. Now it’s up to developers to walk through.
 
 这一裁决并未推倒一座“围墙花园”，而是打开了一扇门。如今，该由开发者迈步而入了。
+{% endraw %}

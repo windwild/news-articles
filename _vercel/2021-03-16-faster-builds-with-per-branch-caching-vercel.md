@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Faster builds with per-branch caching - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-builds-with-per-branch-caching"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 16, 2021
 
@@ -29,3 +27,4 @@ Mar 16, 2021
 我们在一个大型 Next.js 应用上的测试表明，增量构建时间从 **13 分钟** 缩短至 **4 分钟**。
 
 也欢迎查阅 [相关文档](https://vercel.com/docs/build-step#caching)。
+{% endraw %}

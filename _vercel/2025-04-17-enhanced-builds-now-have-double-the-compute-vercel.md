@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enhanced Builds now have double the compute - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-builds-now-have-double-the-compute"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Enterprise customers using Enhanced Build Machines now benefit from 8 of our faster CPUs. This upgrade is available today and has delivered an average 20 percent improvement in build performance acros..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 17, 2025
 
@@ -25,3 +23,4 @@ Apr 17, 2025
 欲了解更多信息，请参阅我们的 [文档](https://vercel.com/docs/deployments/troubleshoot-a-build#build-container-resources)，或联系您的 Vercel 客户成功团队以启用增强型构建。
 
 此项变更还显著加快了 Turbopack 构建速度——通过高效地将工作负载分发至所有可用 CPU 核心实现。在我们的内部测试中，随着核心数量增加，性能提升接近线性增长。
+{% endraw %}

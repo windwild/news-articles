@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/thrive-holdings"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, ..."
 ---
+{% raw %}
 
 December 1, 2025
 
@@ -30,3 +30,4 @@ OpenAI will embed research, product, and engineering teams inside Thrive Holding
 “We are excited to extend our partnership with OpenAI to embed their frontier models, products, and services into sectors we believe have tremendous potential to benefit from technological innovation and adoption,” said Joshua Kushner, CEO and founder of Thrive Capital and Thrive Holdings. “Historically, technology transformed industries from the outside in. We believe this paradigm shift will happen from the inside out as domain experts and practitioners use AI as a native tool to reshape their fields. The businesses we acquire represent the right reward systems for this evolution, bringing together industry expertise and real-world data that can help improve models on specific tasks and capabilities.”
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Detailed usage metrics are now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/detailed-usage-metrics-are-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 24, 2021
 
@@ -29,3 +27,4 @@ Feb 24, 2021
 请前往 [Pro 或 Enterprise 套餐](https://vercel.com/pricing) 用户团队可用的全新“用量（Usage）”标签页，立即开始优化您的项目。
 
 [同时欢迎查阅相关文档](https://vercel.com/docs/platform/usage)。
+{% endraw %}

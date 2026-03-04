@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Query data on external API requests in Vercel Observability - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/query-data-on-external-api-requests-in-vercel-observability"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "It's now possible to run custom queries against all external API requests that where made from Vercel Functions"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 24, 2025
 
@@ -25,3 +23,4 @@ TTFB 查询结果包含平均值、最小值、最大值以及第 75、90、95 �
 查询构建器面向使用 Observability Plus 的 Pro 和 Enterprise 团队开放。
 
 了解更多关于 [可观测性（Observability）](https://vercel.com/docs/observability) 和 [Observability Plus](https://vercel.com/docs/observability/observability-plus) 的信息。
+{% endraw %}

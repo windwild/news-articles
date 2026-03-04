@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Jekyll deployments are now 15x faster - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/jekyll-deployments-are-now-15x-faster"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 25, 2021
 
@@ -27,3 +25,4 @@ Starting today, Jekyll dependencies from `bundle install` will be cached and use
 You can verify that the build cache was used by viewing your Deployment's build logs.
 
 您可通过查看部署（Deployment）的构建日志，确认构建缓存是否已被成功使用。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "backendlessConf_ 2019 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/our-first-online-conference"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Catch all the highlights and important links from the first-ever backendlessConf_ representing the frontend and JAMstack."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 23, 2019
 
@@ -148,3 +146,4 @@ Keep an eye out on our [**Twitter**](https://twitter.com/vercel) for upcoming an
 Shout out to [Marcos Nils](https://twitter.com/marcosnils), [Alyssa Rauch](https://twitter.com/alyssa___rose), [Timothy Lorimer](https://twitter.com/timothyis_), [JJ Kasper](https://twitter.com/_ijjk), [Allen Hai](https://twitter.com/coetry), [Christopher Skillicorn](https://twitter.com/skllcrn), and [Callum Macrae](https://twitter.com/callumacrae) for their contributions to the first edition of backendlessConf\_.
 
 特别鸣谢 [Marcos Nils](https://twitter.com/marcosnils)、[Alyssa Rauch](https://twitter.com/alyssa___rose)、[Timothy Lorimer](https://twitter.com/timothyis_)、[JJ Kasper](https://twitter.com/_ijjk)、[Allen Hai](https://twitter.com/coetry)、[Christopher Skillicorn](https://twitter.com/skllcrn) 与 [Callum Macrae](https://twitter.com/callumacrae) 为首届 backendlessConf\_ 所做的贡献！
+{% endraw %}

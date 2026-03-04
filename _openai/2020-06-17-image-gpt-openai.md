@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Image GPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/image-gpt"
@@ -10,6 +9,7 @@ translated: false
 description: "We find that, just as a large transformer model trained on language can generate coherent text, the same exact model trained on pixel sequences can generate coherent image completions and samples. ..."
 tags: ["Research"]
 ---
+{% raw %}
 
 June 17, 2020
 
@@ -562,3 +562,4 @@ A generative model which learns features in a purely unsupervised fashion.
 
 60. 60
     Sutton, R. (2019). “ [The Bitter Lesson⁠(opens in a new window)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).”
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI domain search now available via Vercel Domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-domain-search-now-available-via-vercel-domains"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now search for domains on Vercel using AI. Results are fast and creative, and you have full control via the search bar."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 7, 2025
 
@@ -39,3 +37,4 @@ In smart search, you can:
 Try it at [vercel.com/domains](https://vercel.com/domains).
 
 欢迎前往 [vercel.com/domains](https://vercel.com/domains) 体验！
+{% endraw %}

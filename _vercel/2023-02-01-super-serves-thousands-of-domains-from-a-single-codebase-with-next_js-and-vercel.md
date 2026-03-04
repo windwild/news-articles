@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Super serves thousands of domains from a single codebase with Next.js and Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/super-serves-thousands-of-domains-on-one-project-with-next-js-and-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How Super uses Next.js and Vercel to power thousands of Notion-based websites with custom domains from a single codebase."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 1, 2023
 
@@ -120,3 +118,4 @@ Performance on [@super\_](https://x.com/super_) sites is looking pretty good
 [Read 3 replies](https://x.com/TrillCyborg/status/1499498835281735696)
 
 [阅读 3 条回复](https://x.com/TrillCyborg/status/1499498835281735696)
+{% endraw %}

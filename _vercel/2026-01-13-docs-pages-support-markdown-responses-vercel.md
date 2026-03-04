@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Docs pages support Markdown responses - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/docs-pages-support-markdown-responses"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Docs pages now accept `Accept: text/markdown` to return Markdown instead of HTML, and include a `sitemap.md` link at the end for programmatic discovery."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 13, 2026
 
@@ -51,3 +49,4 @@ curl -sL https://vercel.com/docs \
 Example request using the \`Accept: text/markdown\` header.
 
 使用 \`Accept: text/markdown\` 请求头的示例请求。
+{% endraw %}

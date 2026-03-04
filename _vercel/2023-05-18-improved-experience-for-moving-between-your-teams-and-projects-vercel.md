@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved experience for moving between your teams and projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-experience-for-moving-between-your-teams-and-projects"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 18, 2023
 
@@ -27,3 +25,4 @@ Vercel 现已为所有用户推出改进版项目与团队切换器：
 - 切换项目时不会丢失当前上下文。例如，当您正在查看“Web Analytics”（网页分析）页面时，可直接切换项目，同时保持在该视图中  
 
 - 支持键盘导航，操作更便捷
+{% endraw %}

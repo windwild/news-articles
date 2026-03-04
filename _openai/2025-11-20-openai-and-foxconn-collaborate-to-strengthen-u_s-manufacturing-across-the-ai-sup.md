@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-and-foxconn-collaborate"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strength..."
 ---
+{% raw %}
 
 November 20, 2025
 
@@ -33,3 +33,4 @@ This new initiative will focus on three core efforts:
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

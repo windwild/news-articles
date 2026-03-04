@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing EVMbench | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-evmbench"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities."
 tags: ["Research"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 18, 2026
 
@@ -108,3 +106,4 @@ Building on our Cybersecurity Grant Program launched in 2023, we’re also commi
 We release EVMbench’s tasks, tooling, and evaluation framework to support continued research on measuring and managing emerging AI cyber capabilities.
 
 我们开源 EVMbench 的评测任务、配套工具及评估框架，以支持学界与业界持续开展关于新兴 AI 网络能力的量化评估与风险管理研究。
+{% endraw %}

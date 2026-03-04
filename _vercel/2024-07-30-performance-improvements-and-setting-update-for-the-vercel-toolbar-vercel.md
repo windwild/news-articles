@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Performance improvements and setting update for the Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/performance-improvements-and-setting-update-for-the-vercel-toolbar"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 30, 2024
 
@@ -37,3 +35,4 @@ When the toolbar is on, individual users can still hide and unhide it using the 
 Learn more about [toolbar settings and functionality](https://vercel.com/docs/workflow-collaboration/vercel-toolbar).
 
 了解更多关于 [工具栏设置与功能](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) 的信息。
+{% endraw %}

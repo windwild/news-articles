@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Evolving online forms into dynamic data | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/typeform"
@@ -10,6 +9,7 @@ translated: false
 description: "Typeform evolves online forms into dynamic and conversational data collection experiences with GPT-3.5 and GPT-4."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Typeform
@@ -75,3 +75,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Evolving online forms into dynamic data \| OpenAI
+{% endraw %}

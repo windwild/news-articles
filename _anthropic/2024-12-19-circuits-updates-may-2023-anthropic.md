@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Circuits Updates — May 2023 \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/circuits-updates-may-2023"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 InterpretabilityResearch
 
@@ -46,3 +44,4 @@ We tracked 11 observable behaviors across thousands of Claude.ai conversations t
 We report a number of developing ideas on the Anthropic interpretability team, which might be of interest to researchers working actively in this space. Some of these are emerging strands of research where we expect to publish more on in the coming months. Others are minor points we wish to share, since we're unlikely to ever write a paper about them.
 
 我们汇报了 Anthropic 可解释性团队当前正在探索的一系列初步构想，这些构想可能对活跃于该领域的研究人员具有参考价值。其中一部分已发展为新兴的研究方向，我们预计将在未来数月内就此发表更多成果；另一些则属于我们认为值得分享但不太可能专门撰文论述的细节性观点。
+{% endraw %}

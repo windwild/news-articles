@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "More on Dota 2 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/more-on-dota-2"
@@ -10,6 +9,7 @@ translated: false
 description: "Our Dota 2 result shows that self-play can catapult the performance of machine learning systems from far below human level to superhuman, given sufficient compute. In the span of a month, our system w..."
 tags: ["Research"]
 ---
+{% raw %}
 
 August 16, 2017
 
@@ -114,3 +114,4 @@ We have many more ideas, and are [hiring⁠](https://openai.com/careers/) engi
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
+{% endraw %}

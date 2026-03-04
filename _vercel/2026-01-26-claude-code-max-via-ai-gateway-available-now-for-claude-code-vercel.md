@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Claude Code Max via AI Gateway, available now for Claude Code - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claude-code-max-via-ai-gateway-available-now-for-claude-code"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can use your Claude Code Max subscription through Vercel's AI Gateway. This lets you leverage your existing subscription while gaining centralized observability, usage tracking, and monitoring cap..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 26, 2026
 
@@ -71,3 +69,4 @@ Since the `Authorization` header is reserved for Claude subscription credentials
 Read more about how to configure Claude Code Max with AI Gateway in the [docs](https://vercel.com/docs/ai-gateway/coding-agents/claude-code#with-claude-code-max).
 
 有关如何将 Claude Code Max 与 AI Gateway 配合使用的更多说明，请参阅 [文档](https://vercel.com/docs/ai-gateway/coding-agents/claude-code#with-claude-code-max)。
+{% endraw %}

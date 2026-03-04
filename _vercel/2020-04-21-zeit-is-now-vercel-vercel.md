@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "ZEIT is now Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/zeit-is-now-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Today, we have some very special news regarding the evolution of our company."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 21, 2020
 
@@ -227,3 +225,4 @@ As always, we are incredibly grateful for your never-ending support. There are m
 [Read 15 replies](https://x.com/vercel/status/717764348706316288)
 
 [查看 15 条回复](https://x.com/vercel/status/717764348706316288)
+{% endraw %}

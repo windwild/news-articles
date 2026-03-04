@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: " Shipping code faster with o3, o4-mini, and GPT-4.1 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/coderabbit"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "CodeRabbit uses OpenAI models to revolutionize code reviews—boosting accuracy, accelerating PR merges, and helping developers ship faster with fewer bugs and higher ROI."
 ---
+{% raw %}
 
 May 22, 2025
 
@@ -79,3 +79,4 @@ CodeRabbit is continuing to scale adoption and expand its in-IDE support, making
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

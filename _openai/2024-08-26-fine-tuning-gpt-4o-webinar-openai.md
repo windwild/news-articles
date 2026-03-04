@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Fine-Tuning GPT-4o Webinar | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/business/fine-tuning-gpt-4o-webinar"
@@ -10,6 +9,7 @@ translated: false
 description: "Fine-Tuning GPT-4o Webinar"
 tags: ["Webinar"]
 ---
+{% raw %}
 
 Recorded: August 26, 2024
 
@@ -20,3 +20,4 @@ Recorded: August 26, 2024
 00:0049:33
 
 Fine-Tuning GPT-4o Webinar \| OpenAI
+{% endraw %}

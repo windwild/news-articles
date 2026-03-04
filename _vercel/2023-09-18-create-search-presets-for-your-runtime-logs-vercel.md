@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Create search presets for your Runtime Logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/create-search-presets-for-your-runtime-logs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 18, 2023
 
@@ -31,3 +29,4 @@ This feature is available to users on all plans.
 [Check out our documentation](https://vercel.com/docs/observability/runtime-logs#save-log-presets) to learn more.
 
 [查阅我们的文档](https://vercel.com/docs/observability/runtime-logs#save-log-presets)，了解更多信息。
+{% endraw %}

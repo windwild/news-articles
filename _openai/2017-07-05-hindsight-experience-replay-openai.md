@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Hindsight Experience Replay | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/hindsight-experience-replay"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 July 5, 2017
 
@@ -28,3 +28,4 @@ Dealing with sparse rewards is one of the biggest challenges in Reinforcement Le
 We demonstrate our approach on the task of manipulating objects with a robotic arm. In particular, we run experiments on three different tasks: pushing, sliding, and pick-and-place, in each case using only binary rewards indicating whether or not the task is completed. Our ablation studies show that Hindsight Experience Replay is a crucial ingredient which makes training possible in these challenging environments. We show that our policies trained on a physics simulation can be deployed on a physical robot and successfully complete the task.
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

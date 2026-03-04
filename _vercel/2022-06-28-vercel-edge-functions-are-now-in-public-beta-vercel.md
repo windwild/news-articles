@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Edge Functions are now in public beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-edge-functions-are-now-in-public-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 28, 2022
 
@@ -31,3 +29,4 @@ Edge API 路由基于 Edge Functions 构建，使您能够为任意前端框架�
 [Check out the documentation](https://vercel.com/docs/concepts/functions/edge-functions) to get started.
 
 [查阅文档](https://vercel.com/docs/concepts/functions/edge-functions) 开始使用。
+{% endraw %}

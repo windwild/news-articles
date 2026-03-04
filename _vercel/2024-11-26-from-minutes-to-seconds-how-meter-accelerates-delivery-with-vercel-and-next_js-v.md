@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "From minutes to seconds: How Meter accelerates delivery with Vercel and Next.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/from-minutes-to-seconds-how-meter-accelerates-delivery-with-vercel-and-next"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Meter's updated tech stack with Vercel"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 26, 2024
 
@@ -102,3 +100,4 @@ Connect with a Next.js expert and learn about Vercel's best-in-class tooling for
 
 Contact us](https://vercel.com/contact)  
 联系我们](https://vercel.com/contact)
+{% endraw %}

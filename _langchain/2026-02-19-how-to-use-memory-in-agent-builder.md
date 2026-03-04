@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How to Use Memory in Agent Builder"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/how-to-use-memory-in-agent-builder/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "By Jacob TalbotAgent Builder gets better the more you use it because it remembers your feedback. Every correction you make, preference you share, and approach that works well is something that your ag..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _By Jacob Talbot_
 
@@ -163,3 +161,4 @@ If you build something you love, share it with us in the [Community Slack](https
 [Try Agent Builder](https://www.langchain.com/langsmith/agent-builder?ref=blog.langchain.com)
 
 [试用 Agent Builder](https://www.langchain.com/langsmith/agent-builder?ref=blog.langchain.com)
+{% endraw %}

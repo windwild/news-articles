@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Model fallbacks now available in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/model-fallbacks-now-available-in-vercel-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Model fallbacks now supported in Vercel AI Gateway in addition to provider routing, giving you failover options when models fail or are unavailable."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 10, 2025
 
@@ -120,3 +118,4 @@ const result = streamText({
 AI Gateway also includes built-in [observability](https://vercel.com/docs/ai-gateway/observability), [Bring Your Own Key support](https://vercel.com/docs/ai-gateway#configuring-your-own-provider-keys-byok), and supports [OpenAI-compatible API](https://vercel.com/docs/ai-gateway/openai-compat#model-fallbacks).
 
 AI Gateway 还内置了 [可观测性（Observability）](https://vercel.com/docs/ai-gateway/observability)、[自带密钥（Bring Your Own Key，BYOK）支持](https://vercel.com/docs/ai-gateway#configuring-your-own-provider-keys-byok)，并支持 [OpenAI 兼容 API](https://vercel.com/docs/ai-gateway/openai-compat#model-fallbacks)。
+{% endraw %}

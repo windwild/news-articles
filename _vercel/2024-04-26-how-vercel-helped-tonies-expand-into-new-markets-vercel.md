@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Vercel helped Tonies expand into new markets - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-vercel-helped-tonies-expand-into-new-markets"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "By embracing a headless stack powered by Vercel and Contentful, Tonies was able to scale their ecommerce presence, expand into new markets, and improve UX."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 26, 2024
 
@@ -47,3 +45,4 @@ With these advancements in place, Tonies is well-positioned not only to scale wi
 
 Break free from the monolith. Learn how the Vercel stack can accelerate your digital success.  
 摆脱单体架构的束缚。了解 Vercel 技术栈如何加速您的数字化成功。
+{% endraw %}

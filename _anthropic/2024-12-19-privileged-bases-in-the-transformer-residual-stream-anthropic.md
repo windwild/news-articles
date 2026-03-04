@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Privileged Bases in the Transformer Residual Stream \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/privileged-bases-in-the-transformer-residual-stream"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 InterpretabilityResearch
 
@@ -50,3 +48,4 @@ Our mathematical theories of the Transformer architecture suggest that individua
 We explore two other obvious sources of basis dependency in a Transformer: Layer normalization, and finite-precision floating-point calculations. We confidently rule these out as being the source of the observed basis-alignment.
 
 我们探讨了 Transformer 中另外两个明显的基依赖性来源：层归一化（Layer normalization）和有限精度浮点数计算。我们有充分把握排除这两者作为所观察到的基对齐现象的成因。
+{% endraw %}

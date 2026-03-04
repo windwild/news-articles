@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangGraph"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langgraph/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 TL;DR: LangGraph 是构建在 LangChain 之上的一个模块，旨在更好地支持循环图（cyclical graphs）的创建，而这在智能体（agent）运行时中常常是必需的。
 
@@ -434,3 +432,4 @@ If any of these resonate with you, please feel free to add an example notebook i
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

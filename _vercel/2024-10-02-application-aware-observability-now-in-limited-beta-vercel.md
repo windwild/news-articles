@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Application-aware Observability now in limited beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/application-aware-observability-in-limited-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 2, 2024
 
@@ -31,3 +29,4 @@ Oct 2, 2024
 目前，可观测性功能已面向现有 Monitoring 订阅用户开启限量公测（Limited Beta），您可通过 Vercel 项目中的全新 **Observability（可观测性）标签页** 进行访问。
 
 如需更高级的平台级可观测性能力，欢迎[探索我们与 Sentry、Datadog、Honeycomb 等厂商的集成方案](https://vercel.com/marketplace?category=observability)。
+{% endraw %}

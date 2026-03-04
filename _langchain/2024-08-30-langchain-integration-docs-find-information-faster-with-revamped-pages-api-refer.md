@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangChain Integration Docs: Find information faster with revamped pages & API references"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langchain-integration-docs-revamped/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "See the latest updates to the LangChain integration docs, including a new standardized format and improved API references that can help you find relevant information faster."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 A large part of the LangChain ecosystem is its extensive collection of integrations. LangChain offers over 1,000 integrations for LLMs, vector stores, tools, document loaders, and more.
 
@@ -110,3 +108,4 @@ This ongoing work aims to make our API references stand on their own as valuable
 **Check out our latest integration docs** [**for Python**](https://python.langchain.com/v0.2/docs/integrations/platforms/?ref=blog.langchain.com) **and** [**for JavaScript**](https://js.langchain.com/v0.2/docs/integrations/platforms/?ref=blog.langchain.com) **. Your feedback is invaluable as we continue to refine and improve our documentation. Feel free to drop us a line on** [**Twitter**](https://x.com/LangChainAI?ref=blog.langchain.com) **with any questions, suggestions, or comments.**
 
 **欢迎查阅我们最新的集成文档**：[**Python 版本**](https://python.langchain.com/v0.2/docs/integrations/platforms/?ref=blog.langchain.com) **和** [**JavaScript 版本**](https://js.langchain.com/v0.2/docs/integrations/platforms/?ref=blog.langchain.com) **。在我们持续优化和完善文档的过程中，您的反馈至关重要。如有任何问题、建议或意见，欢迎随时通过** [**Twitter**](https://x.com/LangChainAI?ref=blog.langchain.com) **与我们联系。**
+{% endraw %}

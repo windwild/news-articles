@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Summarizing books with human feedback | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/summarizing-books"
@@ -10,6 +9,7 @@ translated: false
 description: "Scaling human oversight of AI systems for tasks that are difficult to evaluate."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 September 23, 2021
 
@@ -63,3 +63,4 @@ These samples were selected from works in the [public domain⁠(opens in a new 
 
 2. B
 We’ve amended our original claim about results on NarrativeQA after being made aware of prior work with better results than ours.
+{% endraw %}

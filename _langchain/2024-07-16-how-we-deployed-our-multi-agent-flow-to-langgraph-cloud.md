@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How We Deployed our Multi-Agent Flow to LangGraph Cloud"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/how-we-deployed-our-multi-agent-flow-to-langgraph-cloud-2/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Read this guest blog post on how to create a LangGraph multi-agent flow via React & LangGraph Cloud."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Note: This is a guest blog post by Elisha Kramer, Tech Lead at Fiverr. He is also one of the top contributors of the leading `gpt-researcher` Github project by Assaf Elovic._
 
@@ -264,3 +262,4 @@ If the Graph had some field edits in real-time, those differences in the Graph a
 In this blog post, we show how we triggered our LangGraph multi-agent flows via React & LangGraph Cloud. These flows mimic human reasoning, making them quite complex. However, as demonstrated in the walkthrough above, an elegant API simplifies the process and makes everything fall into place effortlessly.
 
 本文博客展示了我们如何通过 React 与 LangGraph Cloud 触发 LangGraph 多智能体工作流（multi-agent flows）。这些工作流模拟人类推理过程，因而具有相当高的复杂性。然而，如上文操作指南所示，一个优雅简洁的 API 极大地简化了整个流程，使一切水到渠成、轻松自如。
+{% endraw %}

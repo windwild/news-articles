@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Spam detection in the physical world | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/spam-detection-in-the-physical-world"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve created the world’s first Spam-detecting AI trained entirely in simulation and deployed on a physical robot."
 tags: ["Research"]
 ---
+{% raw %}
 
 April 1, 2017
 
@@ -51,3 +51,4 @@ If you’d like to sink your teeth into compelling applied research problems lik
 
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
+{% endraw %}

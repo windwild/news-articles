@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "MCP: Flash in the Pan or Future Standard?"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/mcp-fad-or-fixture/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Model Context Protocol (MCP) is creating quite the stir on Twitter – but is it actually useful, or just noise? In this back and forth, Harrison Chase (LangChain CEO) and Nuno Campos (LangGraph Lead) debate whether MCP lives up to the hype._
 
@@ -236,3 +234,4 @@ So, let’s turn it back to them. Cast your vote at the Twitter poll below - is 
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 min read
 
 [Harrison 的热点评论](https://blog.langchain.com/tag/in-the-loop/) 阅读时长：4 分钟
+{% endraw %}

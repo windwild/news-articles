@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Install Marketplace Integrations from the Vercel CLI - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/install-marketplace-integrations-from-the-vercel-cli"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 19, 2024
 
@@ -47,3 +45,4 @@ Running the **`vc i`** command will:
 Check out the [documentation](https://vercel.com/docs/cli/install) to learn more.
 
 请查阅 [文档](https://vercel.com/docs/cli/install) 了解更多信息。
+{% endraw %}

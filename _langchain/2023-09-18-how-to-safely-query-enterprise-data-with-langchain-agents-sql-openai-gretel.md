@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How to Safely Query Enterprise Data with LangChain Agents + SQL + OpenAI + Gretel"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/how-to-safely-query-enterprise-data-with-langchain-agents-sql-openai-gretel/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:44:44.991464396+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written in collaboration with the [Gretel](https://gretel.ai/?ref=blog.langchain.com) team. We're really excited by their approach to combining agent-based methods, LLMs, and synthetic data to enable natural language queries for databases and data warehouses, sans SQL. The post has a really helpful walkthrough (with code!) to bring the ideas to life._
 
@@ -370,3 +368,4 @@ This scalable solution democratizes data access and ushers in a new era of smart
 If you're ready to up your data game, [sign up for Gretel today](https://gretel.ai/signup?ref=blog.langchain.com) and start synthesizing.
 
 如果您已准备好全面提升您的数据能力，请[立即注册 Gretel](https://gretel.ai/signup?ref=blog.langchain.com)，开启数据合成之旅。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT Researcher x LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/gpt-researcher-x-langchain/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Here at LangChain we think that web research is fantastic use case for LLMs. So much so that we wrote a [blog on it](https://blog.langchain.com/automating-web-research/) about a month ago. In that blog we mentioned the leading open-source implementation of a research assistant - [gpt-researcher](https://github.com/assafelovic/gpt-researcher?ref=blog.langchain.com). Today we're excited to announce that GPT Researcher is integrated with LangChain. Specifically, it is integrated with our OpenAI adapter, which allows (1) easy usage of other LLM models under the hood, (2) easy logging with LangSmith.
 
@@ -149,3 +147,4 @@ We're incredibly excited to be supporting GPT Researcher. We think this is one o
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Frame.io builds fluid UI for a seamless user experience - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/frameio-never-drop-the-illusion"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Their users \"see in milliseconds,\" so every frame within their web experience matters. Frame.io commits itself to delivering web applications that feel as responsive and powerful as their desktop coun..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 11, 2024
 
@@ -191,3 +189,4 @@ Dec 4, 2023
 Alice Alexandra Moore
 
 爱丽丝·亚历山德拉·摩尔
+{% endraw %}

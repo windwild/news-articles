@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Fine-tuning GPT-2 from human preferences | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/fine-tuning-gpt-2"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve fine-tuned the 774M parameter GPT-2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did no..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 September 19, 2019
 
@@ -1857,3 +1857,4 @@ For summarization, the text is the article plus the string “TL;DR:”.
 
 2. B
 Each fine-tuned model is trained using 5,000 four-way comparisons by humans.
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Paradigm runs and monitors thousands of agents in parallel with LangChain and LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-paradigm/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how Paradigm used LangSmith and LangChain to build, iterate, and monitor their AI agents."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [Paradigm](https://www.paradigmai.com/?ref=blog.langchain.com) (YC24) is transforming the traditional spreadsheet by integrating AI to create the first generally intelligent spreadsheet. Their tool orchestrates a swarm of AI agents to gather data, structure it, and execute tasks with human-level precision.
 
@@ -169,3 +167,4 @@ To learn more about monitoring in LangSmith, watch [this video series](https://w
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

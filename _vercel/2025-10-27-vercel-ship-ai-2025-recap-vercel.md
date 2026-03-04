@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Ship AI 2025 recap - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ship-ai-2025-recap"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Earlier this year we introduced the foundations of the AI Cloud: a platform for building intelligent systems that think, plan, and act. At Ship AI, we showed what comes next. What and how to build wit..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 27, 2025
 
@@ -327,3 +325,4 @@ The pieces fit together because they solve the same problem: making agent develo
 You can just ship agents.
 
 您只需专注于交付智能体。
+{% endraw %}

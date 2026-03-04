@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Use Perplexity Web Search with Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/use-perplexity-web-search-with-vercel-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel AI Gateway now supports Perplexity Web Search as a model-agnostic tool that works for all models and providers. Use the tool to get access to the most recent information to supplement your AI q..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 14, 2026
 
@@ -249,3 +247,4 @@ AI Gateway 还支持 Anthropic、OpenAI 和 Google 提供的原生网页搜索�
 - [AI Gateway](https://vercel.com/ai-gateway)
 
 - [AI 网关](https://vercel.com/ai-gateway)
+{% endraw %}

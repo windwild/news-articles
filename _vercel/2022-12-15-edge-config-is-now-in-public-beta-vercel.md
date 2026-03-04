@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Edge Config is now in public beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/edge-config-is-now-in-public-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 15, 2022
 
@@ -32,3 +30,4 @@ Edge Config 现已开放**公开测试（Public Beta）**——您可通过以�
 [Check out the documentation](https://vercel.com/docs/concepts/edge-network/edge-config) to learn more.
 
 [查阅官方文档](https://vercel.com/docs/concepts/edge-network/edge-config)，了解更多信息。
+{% endraw %}

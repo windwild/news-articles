@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and Greek Government launch ‘OpenAI for Greece’ | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/openai-for-greece"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel ..."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 September 5, 2025
 
@@ -66,3 +66,4 @@ OpenAI for Greece is the latest deployment of our [OpenAI for Countries](https:/
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

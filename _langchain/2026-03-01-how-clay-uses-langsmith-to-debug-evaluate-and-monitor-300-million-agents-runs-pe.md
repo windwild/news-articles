@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Clay uses LangSmith to debug, evaluate, and monitor 300 million agents runs per month"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-clay/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Clay is the creative tool for growth — a platform where go-to-market teams build, enrich, and activate lists of companies and people. Sales teams use Clay to source target accounts, qualify leads wi..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [Clay](https://clay.com/?ref=blog.langchain.com) 是面向增长的创意工具——一个供市场拓展（Go-to-Market）团队构建、丰富并激活公司与联系人名单的平台。销售团队使用 Clay 来挖掘目标客户账户、借助 AI 驱动的研究对潜在客户进行资质评估、撰写个性化外联内容，并将商机路由至其 CRM 系统。Clay 的客户涵盖快速成长的初创公司到大型企业团队，所有客户均依赖该平台规模化地支撑其主动外拓（outbound）业务。
 
@@ -178,3 +176,4 @@ As Clay's agents become more complex — running longer, spanning more steps, an
 Clay has built one of the most operationally sophisticated AI agent systems in the B2B SaaS world, running 300 million agent runs a month across a model-agnostic, multi-provider stack. LangSmith provides the observability foundation that makes that scale manageable: day-zero tracing for new agent development, production monitoring across usage and cost patterns, structured evaluation infrastructure for model assessments, and near-perfect cost reconciliation that directly informs pricing decisions.
 
 Clay 已构建出 B2B SaaS 领域中运营最为成熟的 AI 智能体系统之一：该系统基于与模型无关、支持多服务商的底层架构，每月执行高达 3 亿次智能体运行。LangSmith 为其提供了坚实的可观测性基础，使如此庞大的规模仍可控可管——包括面向新智能体开发的“首日即追踪（day-zero tracing）”能力、覆盖使用量与成本模式的生产环境监控、结构化的模型评估基础设施，以及近乎完美的成本对账能力——后者可直接支撑定价决策。
+{% endraw %}

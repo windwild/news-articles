@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Node.js 10 is being deprecated - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-10-is-being-deprecated"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 9, 2021
 
@@ -27,3 +25,4 @@ Feb 9, 2021
 如果您的项目正在使用 Node.js 10（无论是在 `package.json` 的 `engines` 字段中指定，还是在项目设置的“通用”页面中手动选择），我们建议您将其升级至最新稳定版本——Node.js 14。
 
 需要帮助迁移到 Node.js 14 吗？[请联系我们](https://vercel.com/support)，我们将为您提供支持。
+{% endraw %}

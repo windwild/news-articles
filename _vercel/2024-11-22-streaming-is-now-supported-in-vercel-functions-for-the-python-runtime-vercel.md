@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Streaming is now supported in Vercel Functions for the Python runtime - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/streaming-is-now-supported-in-vercel-functions-for-the-python-runtime"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 22, 2024
 
@@ -25,3 +23,4 @@ Nov 22, 2024
 如需为您的 Python 版 Vercel Functions 默认启用流式传输，请在项目中添加环境变量 `VERCEL_FORCE_PYTHON_STREAMING=1`。此后，您下一次生产环境部署将自动启用流式传输功能。
 
 欲了解更多信息，请参阅 [Python 流式传输文档](https://vercel.com/docs/functions/streaming-functions#streaming-python-functions)，或通过 [我们的模板](https://vercel.com/templates/python/ai-sdk-python-streaming) 快速上手。
+{% endraw %}

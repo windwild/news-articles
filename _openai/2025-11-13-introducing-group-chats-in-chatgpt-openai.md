@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing group chats in ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/group-chats-in-chatgpt"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "We’re piloting group chats in ChatGPT to make collaboration simple. Bring others—and ChatGPT—into one shared conversation to plan, brainstorm, and create together."
 ---
+{% raw %}
 
 November 13, 2025
 
@@ -65,3 +65,4 @@ Group chats are just the beginning of ChatGPT becoming a shared space to collabo
 
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
+{% endraw %}

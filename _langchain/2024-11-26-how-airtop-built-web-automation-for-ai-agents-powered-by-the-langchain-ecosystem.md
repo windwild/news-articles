@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Airtop built web-automation for AI agents powered by the LangChain ecosystem"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-airtop/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how Airtop, which provides browser automation for AI agents, built a flexible agent architecture with LangGraph and debugged and refined prompts in LangSmith."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [Airtop](https://www.airtop.ai/?ref=blog.langchain.com) is a powerful platform that empowers developers to create scalable, production-ready web automations with simplicity and precision. Airtop is at the forefront of enabling agents to interact intelligently with the web, it empowers agents to perform actions such as logging in, extracting information, filling forms, and interacting with web interfaces—all through natural language commands.
 
@@ -166,3 +164,4 @@ In the future, the Airtop team aims to:
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

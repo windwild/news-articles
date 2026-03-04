@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The Frontend Cloud: Resiliency for global web applications - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-resiliency-of-the-frontend-cloud"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Optimize your web presence for maximum uptime, scalability, and security. Discover the power of frontend clouds for enterprise resilience."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 29, 2024
 
@@ -449,3 +447,4 @@ Vercel.com 官网落地页
 
 ### Learn more about Vercel's infrastructure.  
 ### 进一步了解 Vercel 的基础设施。
+{% endraw %}

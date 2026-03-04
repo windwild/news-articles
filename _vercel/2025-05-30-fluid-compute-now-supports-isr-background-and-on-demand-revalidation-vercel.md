@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Fluid compute now supports ISR background and on-demand revalidation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/fluid-compute-now-supports-isr-background-and-on-demand-revalidation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fluid compute now supports both background and on-demand revalidations across all Vercel projects. This update brings the same performance and efficiency improvements to on-demand cache updates, with ..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 30, 2025
 
@@ -53,3 +51,4 @@ Fluid compute 在创建新资源前优先复用现有资源，可将高并发工
 for your existing projects, and learn more in our [blog](https://vercel.com/blog/introducing-fluid-compute) and [documentation](https://vercel.com/docs/functions/fluid-compute).
 
 为您的现有项目启用 Fluid，并在我们的 [博客文章](https://vercel.com/blog/introducing-fluid-compute) 和 [文档](https://vercel.com/docs/functions/fluid-compute) 中了解更多信息。
+{% endraw %}

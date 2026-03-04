@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deployment Protection is now enabled by default for new projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deployment-protection-is-now-enabled-by-default-for-new-projects"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 2, 2023
 
@@ -45,3 +43,4 @@ To configure existing deployments with Deployment Protection, you can use this [
 [Check out the documentation](https://vercel.com/docs/security/deployment-protection) to learn more.
 
 [查阅文档](https://vercel.com/docs/security/deployment-protection)了解更多信息。
+{% endraw %}

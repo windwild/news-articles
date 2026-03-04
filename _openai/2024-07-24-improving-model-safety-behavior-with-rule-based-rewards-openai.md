@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improving Model Safety Behavior with Rule-Based Rewards | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards"
@@ -10,6 +9,7 @@ translated: false
 description: "We've developed and applied a new method leveraging Rule-Based Rewards (RBRs) that aligns models to behave safely without extensive human data collection."
 tags: ["Research"]
 ---
+{% raw %}
 
 July 24, 2024
 
@@ -172,3 +172,4 @@ We invite researchers and practitioners to explore the potential of RBRs in thei
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deep Agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/deep-agents/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Using an LLM to call tools in a loop is the simplest form of an agent.  
 让大语言模型（LLM）在循环中调用工具，是最简单的智能体（agent）形式。
@@ -224,3 +222,4 @@ You can easily create your own deep agent by passing in a custom prompt (will be
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 min read
 
 [Harrison 的犀利观点](https://blog.langchain.com/tag/in-the-loop/) 阅读时长：4 分钟
+{% endraw %}

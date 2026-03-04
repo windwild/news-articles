@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Solving Rubik’s Cube with a robot hand | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/solving-rubiks-cube"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve trained a pair of neural networks to solve the Rubik’s Cube with a human-like robot hand. The neural networks are trained entirely in simulation, using the same reinforcement learning code a..."
 tags: ["Research"]
 ---
+{% raw %}
 
 October 15, 2019
 
@@ -178,3 +178,4 @@ Please refer to our [paper⁠(opens in a new window)](https://arxiv.org/abs/191
 
 5. E
 The only modification we made was cutting out a small piece of each center cublet’s colorful sticker. This was necessary to break [rotational symmetry⁠(opens in a new window)](https://en.wikipedia.org/wiki/Rotational_symmetry).
+{% endraw %}

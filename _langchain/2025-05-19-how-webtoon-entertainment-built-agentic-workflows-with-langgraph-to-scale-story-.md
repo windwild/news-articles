@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Webtoon Entertainment built agentic workflows with LangGraph to scale story understanding"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-webtoon/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how Webtoon is transforming storytelling with agent workflows built on LangGraph for content discovery to help marketing, transation, and recommendation teams."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **WEBTOON Entertainment** (Nasdaq: **WBTN**) is a global digital entertainment company transforming the future of storytelling.  
 **WEBTOON Entertainment**（纳斯达克股票代码：**WBTN**）是一家全球性数字娱乐公司，致力于重塑叙事的未来。
@@ -223,3 +221,4 @@ With WCAI and LangGraph, we’re shaping the future of scalable narrative unders
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

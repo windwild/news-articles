@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The foundations of the Frontend Cloud - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-foundations-of-the-frontend-cloud"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "An introduction to the underlying infrastructure of the Frontend Cloud: Part 1 of the developer's guide to a future-proofed stack for the modern frontend."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 21, 2023
 
@@ -393,3 +391,4 @@ Vercel.com 着陆页
 ### See for yourself
 
 ### 亲身体验
+{% endraw %}

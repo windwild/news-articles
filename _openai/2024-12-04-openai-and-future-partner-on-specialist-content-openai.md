@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and Future partner on specialist content  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-and-future-partner-on-specialist-content"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI and Future, the global platform for specialist media, have today announced a strategic partnership to bring content from Future’s 200 plus media brands to OpenAI’s users."
 tags: ["Company"]
 ---
+{% raw %}
 
 December 4, 2024
 
@@ -36,3 +36,4 @@ This content partnership builds on Future’s existing deployment of OpenAI’s 
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

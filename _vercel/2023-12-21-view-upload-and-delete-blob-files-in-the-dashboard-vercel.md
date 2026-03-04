@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "View, upload, and delete Blob files in the dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/view-upload-and-delete-blob-files-in-the-dashboard"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 21, 2023
 
@@ -38,3 +36,4 @@ You can now manage your Vercel Blob files from the dashboard using the new file 
 [Try it out](https://vercel.com/dashboard/stores) or [learn more about Vercel Blob](https://vercel.com/docs/storage/vercel-blob).
 
 [立即试用](https://vercel.com/dashboard/stores) 或 [了解有关 Vercel Blob 的更多信息](https://vercel.com/docs/storage/vercel-blob)。
+{% endraw %}

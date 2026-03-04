@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Expanding observability on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/expanding-observability-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Marketplace adds new native integrations from Sentry, Checkly, and Dash0. Use the tools you already trust to monitor, measure, and debug your apps with integrated billing, single sign-on, a..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 8, 2025
 
@@ -49,3 +47,4 @@ Whether you need alerts for production regressions, want to track performance ov
 If you're a service provider interested in joining the Marketplace, you can fill out our [provider application](https://vercel.com/marketplace-providers).
 
 如果您是希望加入 Marketplace 的服务提供商，欢迎填写我们的 [服务商申请表](https://vercel.com/marketplace-providers)。
+{% endraw %}

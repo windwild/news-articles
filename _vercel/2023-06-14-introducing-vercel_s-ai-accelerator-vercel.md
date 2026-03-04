@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Vercel's AI Accelerator - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-ai-accelerator"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A 6 week program with over $850k in credits from Vercel and top AI platforms."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 14, 2023
 
@@ -211,3 +209,4 @@ Deploy this template
 AI Photo Restorer
 
 AI 照片修复工具
+{% endraw %}

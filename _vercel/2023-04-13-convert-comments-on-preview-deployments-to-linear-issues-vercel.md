@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Convert Comments on Preview Deployments to Linear issues - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/convert-comments-on-preview-deployments-to-linear-issues"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 13, 2023
 
@@ -25,3 +23,4 @@ Apr 13, 2023
 如需开始使用，请前往 Vercel 集成市场（Integrations Marketplace），查看我们的 [Vercel × Linear 集成](https://vercel.com/integrations/linear)。您可在集成市场内点击 **Add Integration**（添加集成）按钮，然后选择该集成所适用的 Team（团队）与项目（project）。
 
 [参阅我们的官方文档](https://vercel.com/docs/concepts/deployments/comments/integrations#use-the-vercel-comments-linear-integration)，了解更多信息。
+{% endraw %}

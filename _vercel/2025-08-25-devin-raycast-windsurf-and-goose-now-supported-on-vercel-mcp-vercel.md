@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Devin, Raycast, Windsurf, and Goose now supported on Vercel MCP - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/devin-raycast-windsurf-and-goose-now-supported-on-vercel-mcp"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Use Vercel MCP with supported AI clients like Devin, Raycast, Windsurf, and Goose to explore projects, view logs, inspect deployments, and more."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 25, 2025
 
@@ -103,3 +101,4 @@ Follow the steps below to get started with each client:
 阅读文档，深入了解该服务\\
 \\
 立即开始](https://vercel.com/docs/mcp/vercel-mcp#setup)
+{% endraw %}

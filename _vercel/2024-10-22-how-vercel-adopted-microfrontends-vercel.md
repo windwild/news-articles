@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Vercel adopted microfrontends - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-vercel-adopted-microfrontends"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel cut build times and improved developer velocity while maintaining a smooth user experience with microfrontends."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 22, 2024
 
@@ -197,3 +195,4 @@ Contact Us](https://vercel.com/contact/sales)
 您的应用在规模化过程中是否遭遇开发者效率瓶颈？联系专家，深入探讨微前端是否有助于改善您的开发者体验。\\
 \\
 联系我们](https://vercel.com/contact/sales)
+{% endraw %}

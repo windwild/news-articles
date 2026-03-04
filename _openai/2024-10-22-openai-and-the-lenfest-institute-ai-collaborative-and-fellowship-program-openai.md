@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and the Lenfest Institute AI Collaborative and Fellowship program | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/lenfest-institute"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI and the Lenfest Institute AI Collaborative and Fellowship program"
 tags: ["Company"]
 ---
+{% raw %}
 
 October 22, 2024
 
@@ -52,3 +52,4 @@ Learn more about LINC [here⁠(opens in a new window)](https://www.lenfestinstit
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

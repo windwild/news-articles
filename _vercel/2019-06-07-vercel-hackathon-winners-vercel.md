@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Hackathon Winners - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/hackathon-winners"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The first-ever Vercel Hackathon was a phenomenal success. Read on to learn about winners, and a summary of the event."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 7, 2019
 
@@ -235,3 +233,4 @@ You can also get in touch with us [over Twitter](https://twitter.com/vercel).
 This event would not have been possible without the relentless efforts of the following Vercel staff: [Paco Coursey](https://twitter.com/pacocoursey), [JJ Kasper](https://twitter.com/_ijjk), [Joe Haddad](https://twitter.com/timer150), [Evil Rabbit](https://twitter.com/evilrabbit_), [Matheus Fernandes](https://twitter.com/matheusfrndes), [Shu Ding](https://twitter.com/shuding_), [Luis Alvarez](https://twitter.com/luis_fades), [Marxos Nils](https://twitter.com/marcosnils), [Timothy Lorimer](https://twitter.com/timothyis_), and [Matthew Sweeney](https://twitter.com/msweeneydev).  
 
 若非以下 Vercel 员工坚持不懈的努力，本次活动将无法成功举办：[Paco Coursey](https://twitter.com/pacocoursey)、[JJ Kasper](https://twitter.com/_ijjk)、[Joe Haddad](https://twitter.com/timer150)、[Evil Rabbit](https://twitter.com/evilrabbit_)、[Matheus Fernandes](https://twitter.com/matheusfrndes)、[Shu Ding](https://twitter.com/shuding_)、[Luis Alvarez](https://twitter.com/luis_fades)、[Marcos Nils](https://twitter.com/marcosnils)、[Timothy Lorimer](https://twitter.com/timothyis_) 和 [Matthew Sweeney](https://twitter.com/msweeneydev)。
+{% endraw %}

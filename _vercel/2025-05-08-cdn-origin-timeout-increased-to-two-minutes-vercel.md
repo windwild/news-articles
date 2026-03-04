@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "CDN origin timeout increased to two minutes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/cdn-origin-timeout-increased-to-two-minutes"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel’s CDN proxy read timeout now increased to 120 seconds across all plans, enabling long-running AI workloads and reducing 504 gateway timeout errors. Available immediately at no cost, including..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 8, 2025
 
@@ -31,3 +29,4 @@ This update improves reliability for workloads with long processing times, such 
 This change is effective immediately, with no action or configuration required.
 
 此项变更即刻生效，无需任何操作或配置。
+{% endraw %}

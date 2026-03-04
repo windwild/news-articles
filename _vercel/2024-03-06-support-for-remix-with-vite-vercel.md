@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Support for Remix with Vite - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-for-remix-with-vite"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 6, 2024
 
@@ -107,3 +105,4 @@ This preset enables adding additional features for Remix on Vercel such as:
 [Deploy Remix to Vercel](https://vercel.com/templates/remix/remix-boilerplate) or learn more [in the docs](https://vercel.com/docs/frameworks/remix).
 
 [将 Remix 部署到 Vercel](https://vercel.com/templates/remix/remix-boilerplate)，或在[文档中](https://vercel.com/docs/frameworks/remix)了解更多信息。
+{% endraw %}

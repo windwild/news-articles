@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Addendum to o3 and o4-mini system card: Codex | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/o3-o4-mini-codex-system-card-addendum"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks..."
 ---
+{% raw %}
 
 May 16, 2025
 
@@ -28,3 +28,4 @@ Codex is trained to provide verifiable evidence of its actions through citations
 Read the full OpenAI o3 and o4-mini System Card [here⁠](https://openai.com/index/o3-o4-mini-system-card/).
 
 - [System Cards](https://openai.com/news/?tags=system-cards)
+{% endraw %}

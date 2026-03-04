@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Preventing infrastructure abuse with Vercel Firewall - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/preventing-infrastructure-abuse-with-vercel-firewall"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "DDoS resilience in the face of modern threats."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 24, 2024
 
@@ -97,3 +95,4 @@ Add Firewall Rule](https://vercel.com/templates/vercel-firewall/block-ai-bots-fi
 该规则默认动作为“记录（Log）”，您可将其更改为“拒绝（Deny）”以拦截此类爬虫。\\  
 \\  
 添加防火墙规则](https://vercel.com/templates/vercel-firewall/block-ai-bots-firewall-rule)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel BotID is now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-botid-is-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel BotID is now generally available. BotID is an advanced bot detection package powered by Kasada."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 25, 2025
 
@@ -119,3 +117,4 @@ Get started](https://vercel.com/docs/botid/get-started)
 在高级机器人抵达您最敏感的路由（例如登录页、结算页、AI 代理及 API）之前，即刻识别并拦截它们。实施简易，难以绕过。\\
 \\
 立即开始](https://vercel.com/docs/botid/get-started)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improvements to Vercel Secure Compute builds provisioning time - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvements-to-vercel-secure-compute-builds-provisioning-time"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 8, 2024
 
@@ -25,3 +23,4 @@ Nov 8, 2024
 此外，构建任务现已更集中地调度至靠近 Secure Compute 区域（例如法兰克福、圣保罗、俄勒冈、北弗吉尼亚、悉尼或爱尔兰）的节点，进一步提升了执行效率。
 
 了解更多关于 [Vercel Secure Compute](https://vercel.com/docs/security/secure-compute#vercel-secure-compute) 的信息。
+{% endraw %}

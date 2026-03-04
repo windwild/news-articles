@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Five Finals | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-five-finals"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ll be holding our final live event for OpenAI Five at 11:30am PT on April 13."
 tags: ["Company"]
 ---
+{% raw %}
 
 March 26, 2019
 
@@ -49,3 +49,4 @@ If you can’t attend in person, please tune in on [Twitch⁠(opens in a new wi
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [Events](https://openai.com/news/?tags=events)
 - [2019](https://openai.com/news/?tags=2019)
+{% endraw %}

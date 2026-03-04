@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI nonprofit jam | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/openai-nonprofit-jam"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, ..."
 ---
+{% raw %}
 
 July 17, 2025
 
@@ -60,3 +60,4 @@ We want to thank the Decoded Futures, National Center for Civic Innovation, and 
 This initiative reflects our commitment to ensuring that the benefits of AI are accessible to everyone. We're excited to learn from today's participants and to continue building tools that empower communities and expand opportunity.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

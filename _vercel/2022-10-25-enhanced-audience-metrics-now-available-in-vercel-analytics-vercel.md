@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enhanced audience metrics now available in Vercel Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-audience-metrics-now-available-in-vercel-analytics"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 25, 2022
 
@@ -31,3 +29,4 @@ Measure page views and understand your audience breakdown, including referrers a
 Check out the [documentation](https://vercel.com/docs/concepts/analytics/audiences) to get started.
 
 请查阅 [文档](https://vercel.com/docs/concepts/analytics/audiences) 开始使用。
+{% endraw %}

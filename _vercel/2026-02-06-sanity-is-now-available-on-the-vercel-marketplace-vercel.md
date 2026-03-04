@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sanity is now available on the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sanity-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Sanity is now available as a content management system integration on the Vercel Marketplace. Install and configure directly from your Vercel dashboard."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 6, 2026
 
@@ -189,3 +187,4 @@ Fetch the 12 most recent posts and render them as a list
 That's all you need to go from install to fetching content. [Install Sanity from the Vercel Marketplace](https://vercel.com/marketplace/sanity) to get started, or deploy the [Next.js + Sanity Personal Website](https://vercel.com/templates/template/sanity-next-js-personal-website) template to start from a working example.
 
 从安装到获取内容，您只需完成以上步骤。点击此处 [从 Vercel 应用市场安装 Sanity](https://vercel.com/marketplace/sanity) 即可开始；或者部署 [Next.js + Sanity 个人网站](https://vercel.com/templates/template/sanity-next-js-personal-website) 模板，直接基于一个可运行的示例项目启动开发。
+{% endraw %}

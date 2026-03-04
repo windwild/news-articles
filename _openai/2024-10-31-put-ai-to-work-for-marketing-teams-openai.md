@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Put AI to Work for Marketing Teams | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/business/put-ai-to-work-for-marketing-teams"
@@ -10,6 +9,7 @@ translated: false
 description: "Put AI to Work for Marketing Teams"
 tags: ["Webinar"]
 ---
+{% raw %}
 
 Recorded: October 31, 2024
 
@@ -25,3 +25,4 @@ Go beyond content development.
 00:0043:35
 
 Put AI to Work for Marketing Teams \| OpenAI
+{% endraw %}

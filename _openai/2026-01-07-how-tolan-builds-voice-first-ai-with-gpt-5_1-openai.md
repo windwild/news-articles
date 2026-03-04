@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Tolan builds voice-first AI with GPT-5.1 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/tolan"
@@ -10,8 +9,7 @@ translated: true
 description: "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations."
 tags: ["API"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 7, 2026
 
@@ -169,3 +167,4 @@ Looking ahead,  Tolan plans to deepen its investments in steerability and memor
 “The next frontier,” says Quinten, “is building voice agents that aren’t just responsive, but truly multimodal, able to integrate voice, vision, and context into a single, steerable system.”
 
 “下一个前沿领域，”Quinten 表示，“是打造不仅具备响应能力、更真正实现多模态融合的语音代理——它能将语音、视觉与上下文整合进一个统一、可精确调控的系统之中。”
+{% endraw %}

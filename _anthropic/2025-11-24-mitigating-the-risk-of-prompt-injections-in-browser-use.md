@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Mitigating the risk of prompt injections in browser use"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/prompt-injection-defenses"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Product
 
@@ -117,3 +115,4 @@ We will continue to publish our progress transparently, both to help customers m
 If you're interested in helping make our models and products more robust to prompt injection, consider [applying to join our team](https://job-boards.greenhouse.io/anthropic/jobs/4949336008).
 
 若您希望参与提升我司模型与产品抵御提示注入的能力，欢迎 [申请加入我们的团队](https://job-boards.greenhouse.io/anthropic/jobs/4949336008)。
+{% endraw %}

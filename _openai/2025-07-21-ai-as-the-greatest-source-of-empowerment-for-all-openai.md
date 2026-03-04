@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI as the greatest source of empowerment for all | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "I’ve always considered myself a pragmatic technologist—someone who loves technology not for its own sake, but for the direct impact it can have on people’s lives. That’s what makes this job so..."
 ---
+{% raw %}
 
 July 21, 2025
 
@@ -96,3 +96,4 @@ Again, this isn’t about replacing human connection, but about filling a gap th
 AI coaches, on the other hand, can be available throughout every day, leverage their full understanding of all aspects of your life to help support you, and bring your subconscious patterns to your consciousness. At the core of philosophy and religion is the idea of self-knowledge: to become who we want to be, we have to understand who we are. If AI can help people truly understand themselves, it could be one of the biggest gifts we could ever receive.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the Vercel AI SDK: npm i ai - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-vercel-ai-sdk"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "An interoperable, streaming-enabled, edge-ready software development kit for AI apps built with React and Svelte."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 15, 2023
 
@@ -407,3 +405,4 @@ Jun 22, 2023
 Lydia Hallie
 
 莉迪亚·哈利
+{% endraw %}

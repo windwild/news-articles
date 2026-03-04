@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved traffic visibility on Firewall overview page - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-traffic-visibility-on-firewall-overview-page"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel improves traffic visibility on the Firewall page with a new design, better filtering, and a new warnings if a reverse proxy is inhibiting Vercel's ability to protect your site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 20, 2025
 
@@ -28,3 +26,4 @@ Vercel 防火墙概览页面现已增强流量与防火墙状态的可视化能�
 Vercel 防火墙会自动为所有 Vercel 部署缓解 DDoS 攻击。您还可通过配置[自定义规则与 IP 封禁](https://vercel.com/docs/security/vercel-waf)，以及在遭遇高流量攻击时启用[攻击挑战模式（Attack Challenge Mode）](https://vercel.com/docs/security/attack-challenge-mode)，进一步提升网站安全性。
 
 了解更多关于[Vercel 防火墙](https://vercel.com/docs/security/vercel-firewall)的信息。
+{% endraw %}

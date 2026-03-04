@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Understanding the capabilities, limitations, and societal impact of large language models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/understanding-the-capabilities-limitations-and-societal-impact-of-large-language-models"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 February 4, 2021
 
@@ -29,3 +29,4 @@ On October 14th, 2020, researchers from OpenAI, the Stanford Institute for Human
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
 - [Language](https://openai.com/research/index/?tags=language)
+{% endraw %}

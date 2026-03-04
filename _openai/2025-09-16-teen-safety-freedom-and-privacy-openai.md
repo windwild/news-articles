@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Teen safety, freedom, and privacy | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/teen-safety-freedom-and-privacy"
@@ -10,6 +9,7 @@ translated: false
 description: "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use."
 tags: ["Safety"]
 ---
+{% raw %}
 
 September 16, 2025
 
@@ -42,3 +42,4 @@ We realize that these principles are in conflict and not everyone will agree wit
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)
+{% endraw %}

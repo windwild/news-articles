@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Evolved Policy Gradients | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/evolved-policy-gradients"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing an experimental metalearning approach called Evolved Policy Gradients, a method that evolves the loss function of learning agents, which can enable fast training on novel tasks. Agen..."
 tags: ["Research"]
 ---
+{% raw %}
 
 April 18, 2018
 
@@ -51,3 +51,4 @@ The above video demonstrates how our method (left) teaches an ant robot how to w
 As do all metalearning approaches, our method still has many limitations. Right now, we can train an EPG loss to be effective for one small family of tasks at a time, e.g., getting an ant to walk left and right. However, the EPG loss for this family of tasks is unlikely to be at all effective on a wildly different kind of task, like playing Space Invaders. In contrast, standard RL losses _do_ have this level of generality—the same loss function can be used to learn a huge variety of skills. EPG gains on performance by losing on generality. There is a long road ahead toward metalearning methods that both outperform standard RL methods _and_ have the same level of generality.
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

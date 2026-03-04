@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Joint Statement from OpenAI and Microsoft | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/continuing-microsoft-partnership"
@@ -10,8 +9,7 @@ translated: true
 description: "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success."
 tags: ["Company"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 27, 2026
 
@@ -68,3 +66,4 @@ We remain committed to our partnership and to the shared mission that brought us
 我们始终坚定致力于这一合作关系，以及将我们凝聚在一起的共同使命。我们继续并肩协作，致力于推出强大的 AI 工具、推动负责任的 AI 发展，并确保 AI 福泽全球每一个人与每一家组织。
 
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using LangSmith to Support Fine-tuning"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/using-langsmith-to-support-fine-tuning-of-open-source-llms/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ### Summary
 
@@ -343,3 +341,4 @@ Overall, these results (and the linked [CoLab](https://colab.research.google.com
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

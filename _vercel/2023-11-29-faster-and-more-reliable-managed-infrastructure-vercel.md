@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Faster and more reliable Managed Infrastructure - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-and-more-reliable-managed-infrastructure"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 2023年11月29日
 
@@ -25,3 +23,4 @@ render_with_liquid: false
 如今，得益于优化后的元数据获取机制与路由逻辑，这一性能提升惠及所有类型的工作负载。随后，系统将根据部署元数据中提供的路由信息，从存储中获取静态资源的响应，或通过 Vercel Functions 动态生成内容。
 
 此次基础设施升级惠及所有现有及新建的部署。[立即部署](https://vercel.com/templates)，或进一步了解 [Vercel 托管基础设施](https://vercel.com/blog/behind-the-scenes-of-vercels-infrastructure) 的技术细节。
+{% endraw %}

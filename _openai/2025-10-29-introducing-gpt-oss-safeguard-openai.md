@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing gpt-oss-safeguard | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-gpt-oss-safeguard"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies."
 ---
+{% raw %}
 
 October 29, 2025
 
@@ -96,3 +96,4 @@ We’ll continue to iterate with the community to improve open safety tooling, i
 To start building with these models, download them from [Hugging Face⁠(opens in a new window)](https://huggingface.co/collections/openai/gpt-oss-safeguard).
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

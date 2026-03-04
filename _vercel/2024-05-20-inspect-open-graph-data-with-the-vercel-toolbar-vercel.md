@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Inspect Open Graph data with the Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/inspect-open-graph-data-with-the-vercel-toolbar"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 20, 2024
 
@@ -31,3 +29,4 @@ After selecting "Open Graph" from the toolbar menu, you can see how your images 
 Learn more about the [Vercel Toolbar](https://vercel.com/docs/workflow-collaboration/vercel-toolbar).
 
 了解更多关于 [Vercel Toolbar](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) 的信息。
+{% endraw %}

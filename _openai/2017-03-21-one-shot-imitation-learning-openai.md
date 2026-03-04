@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "One-shot imitation learning | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/one-shot-imitation-learning"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 March 21, 2017
 
@@ -30,3 +30,4 @@ Specifically, we consider the setting where there is a very large set of tasks, 
 Videos available at [this https URL⁠(opens in a new window)](https://bit.ly/nips2017-oneshot) .
 
 - [Robotics](https://openai.com/research/index/?tags=robotics)
+{% endraw %}

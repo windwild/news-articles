@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Branch Domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/branch-domains"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Assign a Git Branch to your domain, so that every deployment created on it will automatically receive the domain."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 20, 2019
 
@@ -61,3 +59,4 @@ Check out [our documentation](https://vercel.com/docs/v2/custom-domains/) to lea
 All our work is inspired by feedback from people like yourself. For feature requests, or to suggest ideas to make our platform and your experience better, please reach out to us [via email](mailto:support@vercel.com) or on [Twitter](https://twitter.com/vercel).
 
 我们所有的开发工作都源于像您这样的用户所提出的宝贵反馈。如需提出功能需求，或有任何建议以帮助我们优化平台与您的使用体验，欢迎随时通过[电子邮件](mailto:support@vercel.com)或[Twitter](https://twitter.com/vercel)与我们联系。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "MongoDB Atlas joins the Vercel Marketplace  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/mongodb-atlas-joins-the-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "MongoDB Atlas is now available on the Vercel Marketplace, making it simple to provision and scale databases directly from your Vercel dashboard"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 10, 2025
 
@@ -53,3 +51,4 @@ Get started with [MongoDB Atlas](https://vercel.com/new/clone?demo-description=T
 Learn more in the [blog post](https://vercel.com/blog/mongodb-atlas-is-now-available-on-the-vercel-marketplace) and deploy the [MongoDB Atlas Forum template](https://vercel.com/templates/next.js/mongodb-atlas-forum) on Vercel.
 
 详情请参阅 [博客文章](https://vercel.com/blog/mongodb-atlas-is-now-available-on-the-vercel-marketplace)，并在 Vercel 上部署 [MongoDB Atlas 论坛模板](https://vercel.com/templates/next.js/mongodb-atlas-forum)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Practices for Governing Agentic AI Systems | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/practices-for-governing-agentic-ai-systems"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 December 14, 2023
 
@@ -66,3 +66,4 @@ PublicationJan 31, 2024](https://openai.com/index/building-an-early-warning-syst
 SafetyJan 16, 2024](https://openai.com/index/democratic-inputs-to-ai-grant-program-update/)
 
 Practices for Governing Agentic AI Systems \| OpenAI
+{% endraw %}

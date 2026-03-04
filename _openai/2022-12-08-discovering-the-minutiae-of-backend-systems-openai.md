@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Discovering the minutiae of backend systems | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/discovering-the-minutiae-of-backend-systems"
@@ -10,6 +9,7 @@ translated: false
 description: "Christian Gibson is an engineer on the Supercomputing team at OpenAI."
 tags: ["Company"]
 ---
+{% raw %}
 
 December 8, 2022
 
@@ -71,3 +71,4 @@ I also use the popular :meow\_party: Slackmoji to tag motivating or inspirationa
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2022](https://openai.com/news/?tags=2022)
+{% endraw %}

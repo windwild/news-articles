@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Partnership with American Journalism Project to support local news | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/partnership-with-american-journalism-project-to-support-local-news"
@@ -10,6 +9,7 @@ translated: false
 description: "A new $5+ million partnership aims to explore ways the development of artificial intelligence (AI) can support a thriving, innovative local news field, and ensure local news organizations shape the fu..."
 tags: ["Company"]
 ---
+{% raw %}
 
 July 18, 2023
 
@@ -82,3 +82,4 @@ CompanyMar 8, 2024](https://openai.com/index/openai-announces-new-members-to-boa
 CompanyMar 8, 2024](https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai/)
 
 Partnership with American Journalism Project to support local news \| OpenAI
+{% endraw %}

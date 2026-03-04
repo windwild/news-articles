@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "ChatGPT apps support on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/chatgpt-apps-support-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Use the Apps SDK, Next.js, and mcp-handler to build and deploy ChatGPT apps on Vercel, complete with custom UI and app-specific functionality."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 9, 2025
 
@@ -59,3 +57,4 @@ Deploy now](https://vercel.com/templates/ai/chatgpt-app-with-next-js)
 使用 Next.js 快速启动 ChatGPT 应用开发\\
 \\
 立即部署](https://vercel.com/templates/ai/chatgpt-app-with-next-js)
+{% endraw %}

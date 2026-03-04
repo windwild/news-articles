@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Behind the scenes of Vercel's infrastructure: Achieving optimal scalability and performance - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/behind-the-scenes-of-vercels-infrastructure"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel builds, deploys, and scales serverless applications with speed and global reliability"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 27, 2023
 
@@ -199,3 +197,4 @@ Vercel 同样显著提升了开发者体验与产品迭代速度。其自动化�
 - ⁷ [AWS Lambda](https://aws.amazon.com/lambda/)
 
 - ⁷ [AWS Lambda](https://aws.amazon.com/lambda/)
+{% endraw %}

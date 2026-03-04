@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing ChatGPT agent: bridging research and action | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-chatgpt-agent"
@@ -10,6 +9,7 @@ translated: false
 description: "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance."
 tags: ["Product"]
 ---
+{% raw %}
 
 July 17, 2025
 
@@ -212,3 +212,4 @@ Play video
 
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
+{% endraw %}

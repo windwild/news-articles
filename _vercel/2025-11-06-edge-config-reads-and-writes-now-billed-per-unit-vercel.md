@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Edge Config reads and writes now billed per unit - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/pro-edge-config-pricing"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel changes Edge Config Reads and Writes to granular usage based billing for increased flexibility and scalability "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 6, 2025
 
@@ -27,3 +25,4 @@ Nov 6, 2025
 按单位计费模式能更平滑地适配不同规模团队及多样化的使用模式。同时，它也有助于 Pro 套餐用户在使用 Edge Config 时，避免在月初即快速耗尽当月包含的用量额度。
 
 [立即开始使用](https://vercel.com/docs/edge-config/get-started) 或进一步了解 [Edge Config](https://vercel.com/docs/edge-config)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A small number of samples can poison LLMs of any size"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/small-samples-poison"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic research on data-poisoning attacks in large language models"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -209,3 +207,4 @@ This research was authored by Alexandra Souly1, Javier Rando2,5, Ed Chapman3, Xa
 Affiliations: 1UK AI Security Institute; 2Anthropic; 3Alan Turing Institute; 4OATML, University of Oxford; 5ETH Zurich
 
 所属机构：¹ 英国人工智能安全研究所（UK AI Security Institute）；² Anthropic；³ 艾伦·图灵研究所（Alan Turing Institute）；⁴ 牛津大学机器学习研究组（OATML, University of Oxford）；⁵ 苏黎世联邦理工学院（ETH Zurich）
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel now supports post-quantum cryptography - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/post-quantum-crypto"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Connections to all Vercel deployments now support a new encryption algorithm during TLS handshakes, which protects against future quantum threats."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 7, 2025
 
@@ -31,3 +29,4 @@ Vercel 现已在 TLS 握手过程中支持后量子加密，从而帮助您的�
 Read more about [encryption](https://vercel.com/docs/encryption#post-quantum-cryptography) and how we secure your deployments.
 
 了解更多关于[加密](https://vercel.com/docs/encryption#post-quantum-cryptography)的信息，以及我们如何保障您部署的安全性。
+{% endraw %}

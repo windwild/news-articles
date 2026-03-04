@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Code and Theory and Vercel ensure speed and reliability for news organizations and publishers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/break-the-news-not-the-site"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Code and Theory partners with Vercel to deliver breaking news with high performance and uptime. News organizations RealClearPolitics and Minnesota Star Tribune upgrade their digital infrastructure to ..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 31, 2024
 
@@ -188,3 +186,4 @@ Greta Workman
 ![](images/how-code-and-theory-and-vercel-ensure-speed-and-reliability-for-news-organizatio/img_006.jpg)
 
 Alice Alexandra Moore
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sora first impressions | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/sora-first-impressions"
@@ -10,6 +9,7 @@ translated: false
 description: "Since we introduced Sora to the world last month, we’ve been working with artists to learn how Sora might aid in their creative process."
 tags: ["Product"]
 ---
+{% raw %}
 
 March 25, 2024
 
@@ -77,3 +77,4 @@ Starting his career at DreamWorks Animation, [Don Allen III⁠(opens in a new wi
 [Alexander Reben⁠(opens in a new window)](https://linktr.ee/artboffin) is an artist who has spent the last decade creating work that explores the humor and absurdity of human nature in artificial intelligence. Alex has been [creating sculptures⁠(opens in a new window)](https://www.instagram.com/p/C4Q8J-9vSjM/) that originate from AI-generated imagery, manually transforming those AI creations into 3D models materialized in the physical world. “My experience of using Sora was as a starting point to develop 3D sculpture. My thoughts drifted towards exploring the realm of photogrammetry and its potential applications to sculpture. The prospect of transforming video into 3D models intrigued me, as it hinted at propelling the AI system beyond its initial scope.”
 
 Sora first impressions \| OpenAI
+{% endraw %}

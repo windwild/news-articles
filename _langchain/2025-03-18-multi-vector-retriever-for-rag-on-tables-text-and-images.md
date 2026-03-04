@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Multi-Vector Retriever for RAG on tables, text, and images"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/semi-structured-multi-modal-rag/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:37:33.525065476+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ### Summary
 
@@ -162,3 +160,4 @@ We store these in the [multi-vector retriever](https://python.langchain.com/docs
 ### 结论
 
 我们证明了多向量检索器（multi-vector retriever）既可支持半结构化 RAG，也可支持融合多模态数据（文本、表格与图像）的半结构化 RAG。同时，我们验证了整套流水线完全可在消费级笔记本电脑上依托开源组件实现本地化运行。最后，我们归纳出三种通用的多模态 RAG 方法，均基于多向量检索器理念构建，这些方法将作为未来实战指南（cookbooks）中的特色功能予以呈现。
+{% endraw %}

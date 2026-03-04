@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Life of a request: Securing your app's traffic with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/life-of-a-request-securing-your-apps-traffic-with-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Firewall automatically prevents over 1B malicious requests every week, with 5x that amount coming in over Black Friday-Cyber Monday.  Learn how Vercel protects every request so you can focu..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 5, 2024
 
@@ -193,3 +191,4 @@ Altogether, there are many components within the early stages of a request's lif
 The Vercel Firewall, Deployment Protection, and the Web Application Firewall (WAF) are cornerstones of our vision for a secure by default web. We’re committed to continuous innovation, ensuring our defenses evolve to counter new threats while making security effortless for developers. This commitment extends to proactive investments in WAF technologies and edge infrastructure, helping developers stay ahead in a shifting threat landscape.
 
 Vercel 防火墙（Vercel Firewall）、部署防护（Deployment Protection）以及 Web 应用防火墙（Web Application Firewall，WAF）是我们“默认安全 Web”愿景的三大基石。我们致力于持续创新，确保防御能力不断演进，以应对新兴威胁，同时让开发者享受无负担的安全体验。这一承诺还体现在我们对 WAF 技术和边缘基础设施的前瞻性投入上，助力开发者在动态变化的威胁环境中始终领先一步。
+{% endraw %}

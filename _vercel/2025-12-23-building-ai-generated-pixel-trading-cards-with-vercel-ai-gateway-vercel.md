@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building AI-Generated Pixel Trading Cards with Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/pixel-portraits-ai-generated-trading-cards"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How Vercel built AI-generated pixel trading cards for Next.js Conf and Ship AI, then turned the same pipeline into a v0 template and festive holiday experiment."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 23, 2025
 
@@ -490,3 +488,4 @@ Those same patterns now power a v0 template, a festive Vercelf Yourself variant,
 Happy holidays!
 
 节日快乐！
+{% endraw %}

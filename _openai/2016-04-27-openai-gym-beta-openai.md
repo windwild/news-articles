@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Gym Beta | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-gym-beta"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing the public beta of OpenAI Gym, a toolkit for developing and comparing reinforcement learning (RL) algorithms. It consists of a growing suite of environments (from simulated robots to..."
 tags: ["Research"]
 ---
+{% raw %}
 
 April 27, 2016
 
@@ -78,3 +78,4 @@ During the public beta, we’re looking for feedback on how to make this into an
 - [Robotics](https://openai.com/research/index/?tags=robotics)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
+{% endraw %}

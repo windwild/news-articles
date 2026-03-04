@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Welcome, Pieter and Shivon! | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/welcome-pieter-and-shivon"
@@ -10,6 +9,7 @@ translated: false
 description: "We have two more team updates."
 tags: ["Company"]
 ---
+{% raw %}
 
 April 26, 2016
 
@@ -33,3 +33,4 @@ We could not be more excited to work with both. Welcome Pieter and Shivon!
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2016](https://openai.com/news/?tags=2016)
+{% endraw %}

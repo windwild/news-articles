@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Bringing Free OSS Models to the Playground with Fireworks AI"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/bringing-free-oss-models-to-the-playground-with-fireworks-ai/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:35:39.102324947+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 A year ago, the only real LLM people were using was OpenAI's GPT-3. Fast forward to now, and there are a multitude of models to choose from - including a wide variety of open source models. These open source models have seen large performance gains over the past six months in particular. As these models get better, we've seen more and more people wanting to try them out. We've teamed up with [Fireworks AI](https://app.fireworks.ai/?ref=blog.langchain.com) to bring these models to the LangSmith playground - completely free of cost (for now, we'll see how expensive this gets).
 
@@ -120,3 +118,4 @@ A big part of the LLM workflow requires testing and optimizing prompts which is 
 - Step 6: You can enter you API key in the `Secrets & API Keys` section in the playground
 
 - 第六步：您可在 Playground 的 `Secrets & API Keys`（密钥与 API 密钥）区域中输入您的 API 密钥。
+{% endraw %}

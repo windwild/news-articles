@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Node.js 18 LTS is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-18-lts-is-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 18, 2022
 
@@ -61,3 +59,4 @@ The exact version used today is [18.12.1](https://nodejs.org/en/blog/release/v18
 [Read the documentation](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/node-js) for more.
 
 [查阅文档](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/node-js) 了解更多信息。
+{% endraw %}

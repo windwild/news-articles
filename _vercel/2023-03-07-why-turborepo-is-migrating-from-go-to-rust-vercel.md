@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Why Turborepo is migrating from Go to Rust - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/turborepo-migration-go-rust"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How we're migrating from Go to Rust for better alignment with our tools and work"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 7, 2023
 
@@ -306,3 +304,4 @@ Jan 24, 2023
 ![](images/why-turborepo-is-migrating-from-go-to-rust-vercel/img_009.png)![](images/why-turborepo-is-migrating-from-go-to-rust-vercel/img_010.jpg)
 
 Alli 和 Anthony
+{% endraw %}

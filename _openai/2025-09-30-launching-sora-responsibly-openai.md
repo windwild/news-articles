@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Launching Sora responsibly | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/launching-sora-responsibly"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our appro..."
 ---
+{% raw %}
 
 September 30, 2025
 
@@ -24,3 +24,4 @@ Sora 2 and the Sora app combine cutting-edge video generation with a new way to 
 - **Filtering harmful content.** Sora uses layered defenses to keep the feed safe while leaving room for creativity. At creation, guardrails seek to block unsafe content before it’s made—including sexual material, terrorist propaganda, and self-harm promotion—by checking both prompts and outputs across multiple video frames and audio transcripts. We’ve red teamed to explore novel risks, and we’ve tightened policies relative to image generation given Sora’s greater realism and the addition of motion and audio. Beyond generation, automated systems scan all feed content against our [Global Usage Policies⁠](https://openai.com/policies/usage-policies/) and filter out unsafe or age-inappropriate material. These systems are continuously updated as we learn about new risks and are complemented by human review focused on the highest-impact harms.
 - **Audio safeguards**. Adding audio to Sora raises the bar for safety, and while perfect protections are difficult, we continue to invest seriously in this area. Sora automatically scans transcripts of generated speech for potential policy violations, and also blocks attempts to generate music that imitates living artists or existing works. Our systems are designed to detect and stop such prompts, and we honor takedown requests from creators who believe a Sora output infringes on their work.
 - **User control and recourse.** You choose when and how to share your videos, and you can remove your published content at any time. Videos will only be shared to the feed when you choose to do so. Every video, profile, and comment can be reported for abuse, with clear recourse when policies are violated. You can also choose to block accounts at any time, which will prevent others from seeing your profile or contacting you via direct message.
+{% endraw %}

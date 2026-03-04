@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The next chapter for AI in the EU | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/the-next-chapter-for-ai-in-the-eu"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe."
 tags: ["Global Affairs"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 28, 2026
 
@@ -113,3 +111,4 @@ The EU Economic Blueprint 2.0 sets out how Europe can lead in AI, and we look fo
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

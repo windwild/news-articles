@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Approaches for optimizing your dashboard's frontend - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-we-made-the-vercel-dashboard-twice-as-fast"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Let’s review the techniques and strategies we used to improve the Vercel Dashboard so you can make a data-driven impact on your application. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 9, 2022
 
@@ -688,3 +686,4 @@ As a part of our continued effort to help developers improve their application p
 Enable [Analytics](https://vercel.com/analytics) today by visiting the Analytics tab in your project dashboard or [try it free with a team on Vercel Pro](https://vercel.com/signup?next=/dashboard?createTeam=true).
 
 立即启用 [Analytics](https://vercel.com/analytics)：请访问项目仪表板中的 Analytics 标签页；或[在 Vercel Pro 上免费为团队试用](https://vercel.com/signup?next=/dashboard?createTeam=true)。
+{% endraw %}

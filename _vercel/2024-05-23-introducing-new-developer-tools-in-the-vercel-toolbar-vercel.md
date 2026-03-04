@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing new developer tools in the Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-new-developer-tools-in-the-vercel-toolbar"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Toolbar now includes even more developer tools to simplify collaboration, improve accessibility, and enhance your workflow."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 23, 2024
 
@@ -145,3 +143,4 @@ These new additions join an already robust set of tooling:
 Explore the Vercel Toolbar today and experience truly collaborative iteration in your development. Visit our [documentation](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) to learn more and start enhancing your projects with Vercel's powerful tools. With Vercel, iterating on your product is no longer a separate step—it's a seamless part of your workflow.
 
 今天就体验 Vercel Toolbar，亲身感受真正协作式的开发迭代。访问我们的[文档](https://vercel.com/docs/workflow-collaboration/vercel-toolbar)，深入了解并立即使用 Vercel 强大的工具提升您的项目开发效率。借助 Vercel，产品迭代不再是一个孤立环节——它已无缝融入您的整个工作流。
+{% endraw %}

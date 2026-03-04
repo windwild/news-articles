@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New configuration overrides available per-deployment - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-configuration-overrides-available-per-deployment"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 2, 2022
 
@@ -42,3 +40,4 @@ Sep 2, 2022
 [Check out the documentation](https://vercel.com/docs/project-configuration)
 
 [查看文档](https://vercel.com/docs/project-configuration) 以了解更多信息。
+{% endraw %}

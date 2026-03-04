@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "With the AI Gateway, build with any model instantly. No API keys, no configuration, no vendor lock-in."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 20, 2025
 
@@ -172,3 +170,4 @@ For model support and more usage examples, visit [ai-sdk.dev/model-library](http
 Vercel AI Gateway is not yet ready for production use or migrating existing projects.  
 
 Vercel AI Gateway 当前尚未达到生产环境就绪状态，也不适用于现有项目的迁移。
+{% endraw %}

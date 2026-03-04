@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Achieving 10x growth with agentic sales prospecting | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/clay"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Clay
@@ -63,3 +63,4 @@ Your browser does not support the video tag.
 [Talk with our team](https://openai.com/contact-sales/)
 
 Achieving 10x growth with agentic sales prospecting \| OpenAI
+{% endraw %}

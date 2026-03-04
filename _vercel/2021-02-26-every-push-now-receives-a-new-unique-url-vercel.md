@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Every push now receives a new unique URL - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/every-push-now-receives-a-unique-url"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 26, 2021
 
@@ -33,3 +31,4 @@ This change will likely not impact you in a meaningful way. On November 20th 202
 Vercel always strives to give you real-time feedback on every change you push. To this end, we are working on leveraging smart incremental computation techniques to **avoid redoing work that’s already been done**.
 
 Vercel 始终致力于为您推送的每一次变更提供实时反馈。为此，我们正在探索并应用智能的增量计算技术，以**避免重复执行已完成的工作**。
+{% endraw %}

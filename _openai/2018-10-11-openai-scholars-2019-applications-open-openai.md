@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Scholars 2019: Applications open | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-scholars-2019"
@@ -10,6 +9,7 @@ translated: false
 description: "We are now accepting applications for our second cohort of OpenAI Scholars, a program where we provide 6–10 stipends and mentorship to individuals from underrepresented groups to study deep learning..."
 tags: ["Company"]
 ---
+{% raw %}
 
 October 11, 2018
 
@@ -116,3 +116,4 @@ _Questions? Email_ [_scholars@openai.com_ ⁠](mailto:scholars@openai.com)
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2018](https://openai.com/news/?tags=2018)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing skills, the open agent skills ecosystem - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-skills-the-open-agent-skills-ecosystem"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing skills, a CLI for installing and managing agent “skill packages.” Add a skill package with npx skills add , with more commands planned."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 20, 2026
 
@@ -48,3 +46,4 @@ Use it to:
 Get started with [`npx skills add vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) and explore [skills.sh](https://skills.sh/).
 
 立即通过 [`npx skills add vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) 开始体验，并前往 [skills.sh](https://skills.sh/) 探索更多技能。
+{% endraw %}

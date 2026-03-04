@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Learning from human preferences | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/learning-from-human-preferences"
@@ -10,6 +9,7 @@ translated: false
 description: "One step towards building safe AI systems is to remove the need for humans to write goal functions, since using a simple proxy for a complex goal, or getting the complex goal a bit wrong, can lead to ..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 June 13, 2017
 
@@ -92,3 +92,4 @@ You can replicate this backflip in [gym⁠(opens in a new window)](https://gith
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Search domains on the Vercel dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/search-domains-on-the-vercel-dashboard"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 15, 2022
 
@@ -29,3 +27,4 @@ The search bar improves discoverability for teams working with multiple domains 
 Check out the [documentation](https://vercel.com/docs/concepts/projects/custom-domains) to learn more.
 
 请查阅[文档](https://vercel.com/docs/concepts/projects/custom-domains)，了解更多信息。
+{% endraw %}

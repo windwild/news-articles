@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Build your own web framework - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/build-your-own-web-framework"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Build your own web framework that deploys to edge and serverless infrastructure."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 28, 2022
 
@@ -1059,3 +1057,4 @@ Although it should be clear that this framework should not be used in production
 The code is available in [this GitHub Repo](https://github.com/lydiahallie/byof-demo) to see the demo implementation covered in this article. If you’d like another example of using the Build Output API, check out [Astro](https://github.com/withastro/astro/tree/main/packages/integrations/vercel), a framework that has successfully integrated with Vercel.
 
 本文所涵盖的演示实现代码已开源，详见 [GitHub 仓库](https://github.com/lydiahallie/byof-demo)。如需了解 Build Output API 的另一示例，可参考 [Astro](https://github.com/withastro/astro/tree/main/packages/integrations/vercel) —— 一个已成功与 Vercel 集成的框架。
+{% endraw %}

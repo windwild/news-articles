@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "DALL·E now available without waitlist | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/dall-e-now-available-without-waitlist"
@@ -10,6 +9,7 @@ translated: false
 description: "New users can start creating straight away. Lessons learned from deployment and improvements to our safety systems make wider availability possible."
 tags: ["Product"]
 ---
+{% raw %}
 
 September 28, 2022
 
@@ -90,3 +90,4 @@ OpenAI announces the [first DALL·E⁠](https://openai.com/index/dall-e/) and�
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2022](https://openai.com/news/?tags=2022)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Iterating Towards LLM Reliability with Evaluation Driven Development"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/iterating-towards-llm-reliability-with-evaluation-driven-development/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:09:19.664592390+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: the following is a guest blog post from Devin Stein, CEO of_ [_Dosu_](https://dosu.dev/?ref=blog.langchain.com) _._ _Dosu is an engineering teammate that helps you develop, maintain, and support software._
 
@@ -221,3 +219,4 @@ Dosu 与 LangChain 的协作中存在一个有趣的“飞轮效应”：LangSmi
 PS: Dosu’s hiring! Reach out at jobs\*@dosu.dev\*
 
 附注：Dosu 正在招聘！欢迎发送邮件至 jobs\*@dosu.dev\* 联系我们。
+{% endraw %}

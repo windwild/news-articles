@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel launches partner certification - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-launches-partner-certification"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel introduces the inaugural cohort of Vercel Certified Solution Partners. These industry-leading teams share our commitment to creating a faster, more accessible, and innovative web for our custom..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 10, 2025
 
@@ -157,3 +155,4 @@ If you would like an introduction to a Vercel Certified Solution Partner, contac
 - Existing partners: current partners interested in certification [can register here to learn more](https://vercel.com/go/solution-partner-certification-request)
 
 - 现有合作伙伴：当前有意参与认证的合作伙伴可[在此注册以了解更多信息](https://vercel.com/go/solution-partner-certification-request)。
+{% endraw %}

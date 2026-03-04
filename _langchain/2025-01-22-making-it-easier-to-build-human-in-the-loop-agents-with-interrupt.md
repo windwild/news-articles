@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Making it easier to build human-in-the-loop agents with interrupt"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/making-it-easier-to-build-human-in-the-loop-agents-with-interrupt/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:43:07.276649070+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 While agents can be powerful, they are not perfect. This often makes it important to keep the human “in the loop” when building agents. For example, in our [fireside chat](https://www.youtube.com/watch?v=ViykMqljjxU&ref=blog.langchain.com) we did with Michele Catasta (President of Replit) on their Replit Agent, he speaks several times about the human-in-the-loop component being crucial to their agent design.
 
@@ -174,3 +172,4 @@ See our [YouTube walkthrough](https://youtu.be/6t7YJcEFUIY?ref=blog.langchain.co
 We’re excited to see what you build!
 
 我们热切期待您构建出的精彩成果！
+{% endraw %}

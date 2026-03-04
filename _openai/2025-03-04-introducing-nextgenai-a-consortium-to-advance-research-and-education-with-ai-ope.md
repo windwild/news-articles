@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing NextGenAI: A consortium to advance research and education with AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-nextgenai"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI commits $50M in funding and tools to leading institutions."
 ---
+{% raw %}
 
 March 4, 2025
 
@@ -84,3 +84,4 @@ The Ohio State University
 00:00
 
 University of Oxford
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Free Vercel BotID Deep Analysis through January 15 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/free-botid-deep-analysis"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "BotID is Vercel's most advanced bot solution, and will be free for all pro and enterprise customers during the Black Friday Cyber Monday/ the holidays."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 5, 2025
 
@@ -27,3 +25,4 @@ Vercel 推出的高级机器人防护系统 BotID Deep Analysis，将于 2025 �
 To participate, visit the [Bot Management](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Ffirewall%2Fconfigure&title=Open+Firewall+Configuration) section in the Firewall dashboard and opt in. BotID usage will not be billed during this period. Regular billing resumes on January 16.
 
 如需参与，请前往防火墙（Firewall）控制台中的 [Bot Management](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Ffirewall%2Fconfigure&title=Open+Firewall+Configuration)（机器人管理）板块并完成启用操作。在此期间，BotID 的使用不产生任何费用；常规计费将于 1 月 16 日恢复。
+{% endraw %}

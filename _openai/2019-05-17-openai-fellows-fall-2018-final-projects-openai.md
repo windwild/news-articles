@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Fellows Fall 2018: Final projects | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-fellows-fall-2018"
@@ -10,6 +9,7 @@ translated: false
 description: "Our second class of OpenAI Fellows has wrapped up, with each Fellow going from a machine learning beginner to core OpenAI contributor in the course of a 6-month apprenticeship. We are currently review..."
 tags: ["Company"]
 ---
+{% raw %}
 
 May 17, 2019
 
@@ -161,3 +161,4 @@ As part of our effort to educate more people like our class of Fellows, we recen
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2019](https://openai.com/news/?tags=2019)
+{% endraw %}

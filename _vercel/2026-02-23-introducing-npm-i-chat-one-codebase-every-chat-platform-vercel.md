@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing npm i chat – One codebase, every chat platform - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/chat-sdk"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Chat SDK is now open source and available in public beta. It's a TypeScript library for building chat bots that work across Slack, Microsoft Teams, Google Chat, Discord, GitHub, and Linear — from a ..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 23, 2026
 
@@ -168,3 +166,4 @@ Explore the [documentation](https://chat-sdk.dev/docs) to learn more.
 Looking for the chatbot template? It's now [here](https://chatbot.ai-sdk.dev/).  
 
 在寻找聊天机器人模板吗？它现已迁移至 [此处](https://chatbot.ai-sdk.dev/)。
+{% endraw %}

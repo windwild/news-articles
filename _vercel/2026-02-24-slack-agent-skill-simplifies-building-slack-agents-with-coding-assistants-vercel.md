@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Slack Agent Skill simplifies building Slack agents with coding assistants - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/slack-agent-skill-simplifies-building-slack-agents-with-coding-assistants"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Use the Slack Agent Skill in your favorite coding agent to simplify the otherwise complex task of building Slack integrated agents"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 24, 2026
 
@@ -63,3 +61,4 @@ npx skills add vercel-labs/slack-agent-skill
 Try the [skill](https://skills.sh/vercel-labs/slack-agent-skill/slack-agent) to make your custom agent or use the [Slack Agent Template](https://vercel.com/templates/nitro/slack-agent-template) to deploy right away and customize later.
 
 试用该 [技能](https://skills.sh/vercel-labs/slack-agent-skill/slack-agent)，快速构建您自己的定制化智能体；或直接使用 [Slack Agent 模板](https://vercel.com/templates/nitro/slack-agent-template)，立即部署，后续再进行个性化定制。
+{% endraw %}

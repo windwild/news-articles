@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Node.js v20 LTS is now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-v20-lts-is-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 25, 2024
 
@@ -33,3 +31,4 @@ Vercel 当前实际使用的具体版本为 [20.11.1](https://github.com/nodejs/
 [Read the documentation](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/node-js) for more.
 
 [查阅文档](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/node-js) 了解更多信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved web notifications are now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-web-notifications-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 9, 2023
 
@@ -25,3 +23,4 @@ Feb 9, 2023
 - 您现在可以选择退出域名配置相关通知。虽然我们不建议执行此操作，以免因未及时获知配置变更而导致应用中断，但您仍可将此项设为个人偏好设置。
 
 [查看文档](https://vercel.com/docs/concepts/dashboard-features/notifications) 以了解更多信息。
+{% endraw %}

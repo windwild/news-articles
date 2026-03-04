@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Infor is Transforming Enterprise AI using LangGraph and LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-infor/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how Infor is using the full LangChain product suite — including LangChain, LangGraph, and LangSmith — to drive enterprise automation for the cloud."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [Infor](https://www.infor.com/?ref=blog.langchain.com) 是一家领先的 enterprise software 公司，提供面向特定行业的云原生多租户解决方案，涵盖航空航天与国防、汽车、分销、时尚、食品与饮料、医疗健康以及工业制造等领域。其解决方案以 **云套件（cloud suites）** 的形式交付给客户——即一套全面集成的软件应用程序，通过软件即服务（SaaS）模式部署于多个 AWS 区域。这些套件帮助组织优化运营流程、提升生产力，并借助云基础设施降低 IT 成本。
 
@@ -155,3 +153,4 @@ Looking ahead, Infor is committed to empowering customers to leverage AI to enha
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

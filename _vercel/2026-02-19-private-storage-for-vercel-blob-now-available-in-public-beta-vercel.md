@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Private storage for Vercel Blob, now available in public beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/private-storage-for-vercel-blob-now-available-in-public-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Blob now supports private storage for user content or sensitive files. Private blobs require authentication for all read operations, ensuring your data cannot be accessed via public URLs and is..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 19, 2026
 
@@ -140,3 +138,4 @@ export async function GET(req: Request) {
 私有存储（Private storage）目前处于测试阶段，所有套餐均支持，按标准的 [Vercel Blob 定价](https://vercel.com/docs/storage/vercel-blob/usage-and-pricing) 收费。
 
 [了解更多关于私有存储的信息](https://vercel.com/docs/storage/vercel-blob/private-storage)。
+{% endraw %}

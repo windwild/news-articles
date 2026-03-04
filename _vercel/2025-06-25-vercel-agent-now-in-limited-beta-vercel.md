@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Agent now in Limited Beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-agent-now-in-limited-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Agent is an AI-powered assistant built into the Vercel dashboard that automatically analyzes your application performance and security data and makes recommends. Available now in Limited Beta."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 25, 2025
 
@@ -35,3 +33,4 @@ Insights appear contextually as detailed notebooks with no configuration require
 Sign up with [Vercel Community, express your interest in participating,](https://community.vercel.com/invites/B3nHfdR7XS) and we'll reach out to you.
 
 请加入[Vercel 社区，表明您参与意向](https://community.vercel.com/invites/B3nHfdR7XS)，我们将主动与您联系。
+{% endraw %}

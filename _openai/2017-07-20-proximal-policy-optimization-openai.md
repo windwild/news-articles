@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Proximal Policy Optimization | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-baselines-ppo"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing a new class of reinforcement learning algorithms, Proximal Policy Optimization (PPO), which perform comparably or better than state-of-the-art approaches while being much simpler to ..."
 tags: ["Research"]
 ---
+{% raw %}
 
 July 20, 2017
 
@@ -67,3 +67,4 @@ We’re looking for people to help build and optimize our reinforcement learning
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
+{% endraw %}

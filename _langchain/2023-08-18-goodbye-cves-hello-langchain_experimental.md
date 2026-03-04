@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Goodbye CVEs, Hello `langchain_experimental`"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/goodbye-cves-hello-langchain_experimental/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 One of the things that LangChain seeks to enable is connecting language models to external sources of data and computation. This allows language models to act as the reasoning engine and outsource knowledge and execution to other systems. Some examples of this include:
 
@@ -128,3 +126,4 @@ We’d like to thank the entire community for understanding, as well as their pa
 [**LangGraph Platform in beta: New deployment options for scalable agent infrastructure**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [**LangGraph Platform 进入 Beta 阶段：面向可扩展智能体基础设施的新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
+{% endraw %}

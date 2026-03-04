@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Migrating Grep from Create React App to Next.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/migrating-grep-from-create-react-app-to-next-js"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We migrated grep​.app from Create React App to Next.js. We break down how we combined single-page app speed with React Server Component efficiency. 70% faster First Contentful Paint, 73% quicker net..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 14, 2025
 
@@ -758,3 +756,4 @@ The move to Next.js wasn’t just about performance—it was about setting Grep 
 [Try Grep](http://grep.app/) for yourself.
 
 [立即体验 Grep](http://grep.app/)
+{% endraw %}

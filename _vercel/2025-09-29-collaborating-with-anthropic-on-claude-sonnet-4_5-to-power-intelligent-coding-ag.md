@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Collaborating with Anthropic on Claude Sonnet 4.5 to power intelligent coding agents - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/collaborating-with-anthropic-on-claude-sonnet-4-5"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Claude Sonnet 4.5 is now available on Vercel AI Gateway and across the Vercel AI Cloud. Also introducing a new coding agent platform template."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 29, 2025
 
@@ -129,3 +127,4 @@ Try Claude Sonnet 4.5](https://vercel.com/ai-gateway/models/claude-sonnet-4.5)
 无需任何配置或安装，即可在 AI Gateway 上即时体验 Claude Sonnet 4.5。打开 Playground，立即开始输入提示词（prompt）并运行。\\  
 \\  
 立即体验 Claude Sonnet 4.5](https://vercel.com/ai-gateway/models/claude-sonnet-4.5)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Split-tgz is now the default CLI archive deployment behavior - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/split-tgz-is-now-the-default-cli-archive-deployment-behavior"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Split tgz deployments are now the default option for archive deployments. It should result in better equal or better performance while avoiding many unintuitive limits."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 11, 2025
 
@@ -31,3 +29,4 @@ We’ve confirmed `split-tgz`’s stability and made it the default behavior for
 Learn more about [CLI archive deployments](https://vercel.com/docs/cli/deploy#archive).
 
 了解更多关于[CLI 归档部署](https://vercel.com/docs/cli/deploy#archive)的信息。
+{% endraw %}

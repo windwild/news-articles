@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "@vercel/toolbar available to use collaboration features in production - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-toolbar-now-available-to-use-collaboration-features-in-production"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 22, 2023
 
@@ -63,3 +61,4 @@ This package is available to users on all plans and is our first step in bringin
 [Check out the documentation](https://vercel.com/docs/workflow-collaboration/comments/in-production-and-localhost) to learn more.
 
 [查看文档](https://vercel.com/docs/workflow-collaboration/comments/in-production-and-localhost) 以了解更多信息。
+{% endraw %}

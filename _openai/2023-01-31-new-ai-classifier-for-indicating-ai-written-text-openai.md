@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New AI classifier for indicating AI-written text | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re launching a classifier trained to distinguish between AI-written and human-written text."
 tags: ["Product"]
 ---
+{% raw %}
 
 January 31, 2023
 
@@ -57,3 +57,4 @@ If you’re directly impacted by these issues (including but not limited to teac
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

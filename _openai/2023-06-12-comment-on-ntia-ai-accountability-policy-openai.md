@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Comment on NTIA AI Accountability Policy | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/comment-on-ntia-ai-accountability-policy"
@@ -10,6 +9,7 @@ translated: false
 description: "The National Telecommunications and Information Administration (NTIA) request for comments on AI Accountability policy."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 Submitted: June 12, 2023
 
@@ -121,3 +121,4 @@ There remain many open questions in the design of registration and licensing mec
 
 
 Comment on NTIA AI Accountability Policy \| OpenAI
+{% endraw %}

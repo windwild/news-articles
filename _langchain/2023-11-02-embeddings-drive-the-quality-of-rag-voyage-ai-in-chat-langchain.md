@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Embeddings Drive the Quality of RAG: Voyage AI in Chat LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/voyage-embeddings-in-langchain-and-chat-langchain/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:30:12.595366299+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written by the [_Voyage AI_](https://www.voyageai.com/?ref=blog.langchain.com) team._
 
@@ -240,3 +238,4 @@ Try Voyage embeddings `voyage-01` or contact us for early access to the fine-tun
 Follow up on [twitter](https://twitter.com/voyage_ai_?ref=blog.langchain.com) and/or [linkedin](https://www.linkedin.com/company/voyageai?ref=blog.langchain.com) for more updates!
 
 欢迎关注 [Twitter](https://twitter.com/voyage_ai_?ref=blog.langchain.com) 和/或 [LinkedIn](https://www.linkedin.com/company/voyageai?ref=blog.langchain.com)，获取更多最新动态！
+{% endraw %}

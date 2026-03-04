@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Edge Config + LaunchDarkly: Low latency, global feature flags to your favorite frontend framework - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/edge-config-and-launch-darkly"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We're excited to announce a new LaunchDarkly integration to bring low latency, global feature flags to your favorite frontend framework."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 27, 2023
 
@@ -170,3 +168,4 @@ Vercel.com 着陆页
 ### LaunchDarkly integration
 
 ### LaunchDarkly 集成
+{% endraw %}

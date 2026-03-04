@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Board Forms Safety and Security Committee | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-board-forms-safety-and-security-committee"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Company"]
 ---
+{% raw %}
 
 May 28, 2024
 
@@ -38,3 +38,4 @@ Additionally, OpenAI will retain and consult with other safety, security, and te
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

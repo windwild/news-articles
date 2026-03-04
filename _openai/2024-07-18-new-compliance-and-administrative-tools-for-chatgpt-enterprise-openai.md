@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New compliance and administrative tools for ChatGPT Enterprise | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/new-tools-for-chatgpt-enterprise"
@@ -10,6 +9,7 @@ translated: false
 description: "Compliance API integrations, SCIM, and GPT controls to support compliance programs, data security, and user access at scale"
 tags: ["Product"]
 ---
+{% raw %}
 
 July 18, 2024
 
@@ -118,3 +118,4 @@ CompanyJun 10, 2024](https://openai.com/index/openai-and-apple-announce-partners
 ProductMay 16, 2024](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
 
 New compliance and administrative tools for ChatGPT Enterprise \| OpenAI
+{% endraw %}

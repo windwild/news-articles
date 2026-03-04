@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Build smarter workflows with Notion and v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/build-smarter-workflows-with-notion-and-v0"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "v0 now connects to Notion via MCP. Build dashboards, tools, and prototypes from your existing docs and databases, and write generated content back to your workspace."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 15, 2025
 
@@ -113,3 +111,4 @@ v0 直接从 Notion 数据库读取数据，几秒钟内便生成了一个可运
 在您的 v0 项目中启用 [Notion MCP 集成](https://v0.app/)，连接您的工作区，然后向 v0 提出有关您数据的问题。不知从何入手？请查看我们的 [入门模板](https://v0.app/templates/community-events-dashboard-from-notion-database-ZGbgOdhwh88)，并使用您自己的页面和数据库对其进行自定义。
 
 我们非常期待看到您的创作！欢迎在 [X](https://x.com/v0)、[Vercel 社区](https://community.vercel.com/) 中与我们分享您的工作流，或将其 [提交为模板](https://v0.app/templates)，供他人使用。
+{% endraw %}

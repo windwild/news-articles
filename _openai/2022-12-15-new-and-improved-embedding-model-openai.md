@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New and improved embedding model | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/new-and-improved-embedding-model"
@@ -10,6 +9,7 @@ translated: false
 description: "We are excited to announce a new embedding model which is significantly more capable, cost effective, and simpler to use."
 tags: ["Product"]
 ---
+{% raw %}
 
 December 15, 2022
 
@@ -80,3 +80,4 @@ Check the [Limitations & Risks⁠(opens in a new window)](https://beta.openai.c
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2022](https://openai.com/news/?tags=2022)
+{% endraw %}

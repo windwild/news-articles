@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Requester's public IP postal code now available in Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/requesters-public-ip-postal-code-now-available-in-vercel-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Postal codes of the requester's public IP address are now available in Vercel headers. The x-vercel-ip-postal-code header complements existing headers like x-vercel-ip-country and x-vercel-ip-city."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 9, 2025
 
@@ -67,3 +65,4 @@ export function GET(request: Request) {
 ```
 
 有关请求头和地理位置信息的更多信息，请参阅 [Vercel 的请求头文档](https://vercel.com/docs/edge-network/headers/request-headers)。
+{% endraw %}

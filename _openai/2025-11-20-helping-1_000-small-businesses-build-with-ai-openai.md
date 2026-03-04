@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Helping 1,000 small businesses build with AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/small-business-ai-jam"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training..."
 ---
+{% raw %}
 
 November 20, 2025
 
@@ -55,3 +55,4 @@ We want to thank DoorDash and SCORE for supporting the Jam and sharing their exp
 - [Community](https://openai.com/news/?tags=community)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

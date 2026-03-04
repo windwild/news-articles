@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Dosu Used LangSmith to Achieve a 30% Accuracy Improvement with No Prompt Engineering"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/dosu-langsmith-no-prompt-eng/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:01:41.656946204+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **_Editor's Note: the following is authored by Devin Stein, CEO of_** [**_Dosu_**](https://dosu.dev/?ref=blog.langchain.dev) **_. In this blog we walk through how Dosu uses LangSmith to improve the performance of their application - with NO prompt engineering. Rather, they collected feedback from their users, transformed that into few shot examples, and then fed that back into their application._**
 
@@ -210,3 +208,4 @@ _如果您希望试用 Dosu 以提升工程研发效能，或有意参与共建�
 **_If you want to try this out for yourself with LangSmith, check out our cookbook_** [**_here_**](https://docs.smith.langchain.com/monitoring/use_cases/classification?ref=blog.langchain.com) **_or our YouTube walkthrough_** [**_here_**](https://youtu.be/tHZtq_pJSGo?ref=blog.langchain.com) **_._**
 
 **_若您希望借助 LangSmith 亲自动手实践，请查阅我们的使用指南（Cookbook）_** [**_此处_**](https://docs.smith.langchain.com/monitoring/use_cases/classification?ref=blog.langchain.com) **_，或观看我们的 YouTube 操作演示视频_** [**_此处_**](https://youtu.be/tHZtq_pJSGo?ref=blog.langchain.com) **_。_**
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Our approach to age prediction | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/our-approach-to-age-prediction"
@@ -10,8 +9,7 @@ translated: true
 description: "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time."
 tags: ["Safety"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 20, 2026
 
@@ -98,3 +96,4 @@ While this is an important milestone, our work to support teen safety is ongoing
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)  
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)  
 - [用户安全与控制](https://openai.com/news/?tags=user-safety)
+{% endraw %}

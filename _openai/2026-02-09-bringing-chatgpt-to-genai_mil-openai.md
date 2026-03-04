@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Bringing ChatGPT to GenAI.mil | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/bringing-chatgpt-to-genaimil"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams."
 tags: ["Global Affairs"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 9, 2026
 
@@ -72,3 +70,4 @@ ChatGPT 专为支持美军官兵日常任务而设计，旨在提升战备水平
 
 This effort reflects how we approach government work more broadly: focused, practical, safety-forward, and grounded in real-world use.  
 此项工作体现了我们开展政府相关工作的整体理念：目标明确、注重实效、安全优先、立足实际应用。
+{% endraw %}

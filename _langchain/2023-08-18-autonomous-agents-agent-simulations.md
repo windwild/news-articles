@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Autonomous Agents & Agent Simulations"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/agents-round/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Over the past two weeks, there has been a massive increase in using LLMs in an agentic manner. Specifically, projects like [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT?ref=blog.langchain.com), [BabyAGI](https://github.com/yoheinakajima/babyagi?ref=blog.langchain.com), [CAMEL](https://github.com/lightaime/camel?ref=blog.langchain.com), and [Generative Agents](https://storage.ghost.io/c/97/88/97889716-a759-46f4-b63f-4f5c46a13333/content/files/abs/2304.xml?ref=blog.langchain.com) have popped up. The LangChain community has now implemented some parts of all of those projects in the LangChain framework. While researching and implementing these projects, we’ve tried to best understand what the differences between them are and what the novel features of each are. This blog is an explanation of what we’ve learned.
 
@@ -357,3 +355,4 @@ We’re excited to have started implementing parts of these projects in the Lang
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长约 4 分钟
+{% endraw %}

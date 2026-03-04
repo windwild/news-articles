@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Edge Middleware: Dynamic at the speed of static - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Execute custom logic at the moment of request, pushing personalization to the edge with exceptional performance."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 28, 2022
 
@@ -242,3 +240,4 @@ Every Vercel account has 1 million monthly Middleware invocations included for _
 Whether you’re using Vercel Edge Middleware to authenticate, personalize, or localize at the edge, now you can provide tailor-made experiences at the speed of static. You have the power to serve the exact end-user experience you envisioned, every time.
 
 无论您是使用 Vercel Edge Middleware 在边缘进行身份认证、个性化定制，还是本地化处理，如今您都能以静态网站般的速度，提供量身打造的用户体验。您将有能力在每次请求中，精准交付您所构想的最终用户体验。
+{% endraw %}

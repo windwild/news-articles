@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How AppFolio transformed property management workflows with Realm-X, built using LangGraph and LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-appfolio/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how AppFolio's AI-powered copilot Realm-X has saved property managers over 10 hours per week. Learn how they improved Realm-X's performance 2x using LangSmith and built an agent architecture with ..."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 AppFolio, the technology leader powering the future of the real estate industry, has released **Realm-X Assistant**, an AI-powered copilot designed to improve the efficiency of property managers’ day-to-day work.  
 
@@ -220,3 +218,4 @@ Looking ahead, AppFolio is expanding Realm-X to further improve overall performa
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

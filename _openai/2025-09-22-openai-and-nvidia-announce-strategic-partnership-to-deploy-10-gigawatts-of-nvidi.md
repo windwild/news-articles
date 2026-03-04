@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-nvidia-systems-partnership"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026."
 ---
+{% raw %}
 
 September 22, 2025
 
@@ -42,3 +42,4 @@ OpenAI has grown to over 700 million weekly active users and strong adoption acr
 NVIDIA and OpenAI look forward to finalizing the details of this new phase of strategic partnership in the coming weeks.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

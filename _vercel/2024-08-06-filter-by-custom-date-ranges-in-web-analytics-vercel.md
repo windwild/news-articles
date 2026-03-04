@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Filter by custom date ranges in Web Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-by-custom-date-ranges-in-web-analytics"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 6, 2024
 
@@ -25,3 +23,4 @@ You can now choose custom date ranges in Web Analytics. Select any **custom time
 [Learn more about Web Analytics](https://vercel.com/docs/analytics) or [enable Web Analytics](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fanalytics&title=Open+Web+Analytics) for your project.
 
 [了解更多关于 Web Analytics 的信息](https://vercel.com/docs/analytics)，或为您的项目 [启用 Web Analytics](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fanalytics&title=Open+Web+Analytics)。
+{% endraw %}

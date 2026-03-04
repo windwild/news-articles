@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Hierarchical text-conditional image generation with CLIP latents | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 April 13, 2022
 
@@ -28,3 +28,4 @@ Contrastive models like CLIP have been shown to learn robust representations of 
 - [CLIP](https://openai.com/research/index/?tags=technology-clip)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

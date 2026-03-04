@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Git Fork Protection can now be disabled - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/git-fork-protection-can-now-be-disabled"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 23, 2021
 
@@ -35,3 +33,4 @@ If you're certain your Environment Variables do not contain sensitive informatio
 Check out [the documentation](https://vercel.com/docs/platform/projects#git-fork-protection) as well.
 
 也欢迎查阅 [相关文档](https://vercel.com/docs/platform/projects#git-fork-protection)。
+{% endraw %}

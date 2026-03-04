@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Aligning language models to follow instructions | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/instruction-following"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve trained language models that are much better at following user intentions than GPT-3 while also making them more truthful and less toxic, using techniques developed through our alignment resea..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 January 27, 2022
 
@@ -310,3 +310,4 @@ These labelers are sourced from Scale AI and Upwork, similarly to our training l
 
 20. 20
     Nangia, N., Vania, C., Bhalerao, R. and Bowman, S.R., 2020. CrowS-pairs: A challenge dataset for measuring social biases in masked language models. arXiv preprint arXiv:2010.00133.
+{% endraw %}

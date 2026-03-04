@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Developers can now submit apps to ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt"
@@ -10,8 +9,7 @@ translated: true
 description: "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help de..."
 tags: ["Product"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 December 17, 2025
 
@@ -78,3 +76,4 @@ This is just the beginning. Over time, we want apps in ChatGPT to feel like a na
 这仅仅是个开始。未来，我们希望 ChatGPT 中的应用能成为对话的自然延伸，帮助用户将想法迅速转化为行动，同时为开发者构建一个蓬勃发展的生态系统。我们将持续从开发者与用户的实践中汲取经验，不断优化所有人的使用体验。此外，我们还计划拓展 ChatGPT 应用生态的规模，提升应用的可发现性，并丰富开发者触达用户及实现商业价值的途径。
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

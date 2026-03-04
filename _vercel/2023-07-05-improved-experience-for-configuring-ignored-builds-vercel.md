@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved experience for configuring ignored builds - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-experience-for-configuring-ignored-builds"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 5, 2023
 
@@ -34,3 +32,4 @@ You no longer have to write your own commands when configuring your project's [I
 [Check the documentation](https://vercel.com/docs/concepts/projects/overview#ignored-build-step) to learn more about Ignored Build Step.
 
 [查阅文档](https://vercel.com/docs/concepts/projects/overview#ignored-build-step)，深入了解“忽略构建步骤（Ignored Build Step）”。
+{% endraw %}

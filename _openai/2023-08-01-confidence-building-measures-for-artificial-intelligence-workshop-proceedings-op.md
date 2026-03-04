@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Confidence-Building Measures for Artificial Intelligence: Workshop proceedings | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/confidence-building-measures-for-artificial-intelligence"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 August 1, 2023
 
@@ -107,3 +107,4 @@ PublicationJan 31, 2024](https://openai.com/index/building-an-early-warning-syst
 SafetyJan 16, 2024](https://openai.com/index/democratic-inputs-to-ai-grant-program-update/)
 
 Confidence-Building Measures for Artificial Intelligence: Workshop proceedings \| OpenAI
+{% endraw %}

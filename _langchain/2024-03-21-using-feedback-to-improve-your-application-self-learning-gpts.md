@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using Feedback to Improve Your Application: Self Learning GPTs"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/self-learning-gpts/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:05:58.023019368+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 We built and hosted a simple demo app to show how applications can learn and improve from feedback over time.  
 我们构建并托管了一个简单的演示应用，以展示应用程序如何随时间推移，通过用户反馈实现自我学习与持续优化。
@@ -128,3 +126,4 @@ The current Self Optimizing GPTs doesn't go as far as DSPy. We just curate a few
 
 We're very excited to explore more advanced ideas around optimization in the future. We'll be hosting a webinar with Omar on "Optimization of LLM Systems" in a few weeks - should be a fun one. [Register here](https://us06web.zoom.us/webinar/register/WN_n4HUNqhFQFa4ax3kYrZW8g?ref=blog.langchain.com).  
 我们对未来探索更前沿的优化理念充满期待。数周后，我们将携手 Omar 举办主题为“LLM 系统的优化”的线上研讨会，敬请期待！[立即报名](https://us06web.zoom.us/webinar/register/WN_n4HUNqhFQFa4ax3kYrZW8g?ref=blog.langchain.com)
+{% endraw %}

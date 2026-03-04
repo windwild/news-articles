@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "BBVA puts AI in the hands of every team with OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/bbva"
@@ -10,6 +9,7 @@ translated: false
 description: "Empowering a global org with ChatGPT"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # BBVA puts AI in the hands of every team with OpenAI
@@ -76,3 +76,4 @@ With foundational applications already proving impactful, BBVA plans to continue
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

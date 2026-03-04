@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Flags SDK now supports OpenFeature - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/flags-sdk-now-supports-openfeature"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The newly released @flags-sdk/openfeature Flags SDK adapter for OpenFeature allows using any Node.js OpenFeature provider with the Flags SDK. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 21, 2025
 
@@ -138,3 +136,4 @@ The [Flags SDK](https://flags-sdk.dev/) sits between your application and the so
 
 View the [OpenFeature adapter](https://flags-sdk.dev/providers/openfeature) or [clone the template](https://vercel.com/templates/next.js/flags-sdk-openfeature) to get started.  
 请查看 [OpenFeature 适配器](https://flags-sdk.dev/providers/openfeature)，或 [克隆该模板](https://vercel.com/templates/next.js/flags-sdk-openfeature) 以快速开始。
+{% endraw %}

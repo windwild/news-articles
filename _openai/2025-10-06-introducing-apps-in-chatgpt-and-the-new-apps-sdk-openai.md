@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing apps in ChatGPT and the new Apps SDK | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-apps-in-chatgpt"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview."
 ---
+{% raw %}
 
 October 6, 2025
 
@@ -91,3 +91,4 @@ This is just the start of apps in ChatGPT, bringing new utility to users and new
 
 - [2025](https://openai.com/news/?tags=2025)
 - [DevDay](https://openai.com/news/?tags=devday)
+{% endraw %}

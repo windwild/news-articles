@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New filters and metrics available on the Usage Overview - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-filters-and-metrics-available-on-the-usage-overview"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 8, 2021
 
@@ -27,3 +25,4 @@ Jul 8, 2021
 - 新增「图片优化（Image Optimization）」图表，显示已优化的源图片数量，助您全面了解图片优化功能在各项目中的使用情况。
 
 也欢迎查阅[相关文档](https://vercel.com/docs/platform/usage)。
+{% endraw %}

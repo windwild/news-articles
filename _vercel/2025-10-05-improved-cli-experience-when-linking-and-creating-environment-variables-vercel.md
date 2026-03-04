@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved CLI experience when linking and creating environment variables​​​​‌‍​‍​‍‌‍ ‌​‍‌‍‍‌‌‍‌‌‍‍‌‌‍‍​‍​‍​‍‍​‍​‍‌‍​‌‍ ‌‍‍‌‌​‌‍‌‌‌‍‍‌‌​‌‍‌‍‌‌‌‌‍​​‍‍‌‍​‌‍ ‌‍‌​‍​‍​‍​​‍​‍‌‍‍​‌​‍‌‍‌‌‌‍‌‍​‍​‍​‍‍​‍​‍‌‍‍​‌‌​‌‌​‌​​‌​​‍‍​‍ ​‍ - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-cli-experience-when-linking-and-creating-environment-variables"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel CLI 49.0.0 introduces standardized ls error handling along with improved project linking, environment variable syncing, and more reliable --repo behavior."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 5, 2025
 
@@ -29,3 +27,4 @@ Oct 5, 2025
 - 修复了 `vc link --repo` 命令错误地为项目名称添加前缀的问题。
 
 - 所有支持 `ls` 参数的命令现已统一行为标准：传入额外或意外的参数时，将始终输出清晰的错误信息并提前退出，从而确保所有 `ls` 类命令的结果具备可预测性与可靠性。此变更可能需要您更新此前依赖旧有行为的脚本。
+{% endraw %}

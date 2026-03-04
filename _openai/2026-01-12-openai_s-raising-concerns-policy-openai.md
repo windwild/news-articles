@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI’s Raising Concerns Policy | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-raising-concerns-policy"
@@ -10,8 +9,7 @@ translated: true
 description: "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
 tags: ["Global Affairs"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 12, 2026
 
@@ -57,3 +55,4 @@ Like other companies in our industry, OpenAI continues to distinguish between ra
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026年](https://openai.com/news/?tags=2026)
+{% endraw %}

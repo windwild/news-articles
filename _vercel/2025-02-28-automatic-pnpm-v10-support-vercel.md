@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Automatic pnpm v10 support - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatic-pnpm-v10-support"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "New projects will detect and use pnpm@10, based on the project lockfile. Old projects can opt-in to pnpm@10 using Corepack."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 28, 2025
 
@@ -33,3 +31,4 @@ Check your [build logs](https://vercel.com/docs/deployments/logs) to see which v
 Visit the [package managers documentation](https://vercel.com/docs/deployments/builds/package-managers#supported-package-managers) to learn more.
 
 请访问 [包管理器文档](https://vercel.com/docs/deployments/builds/package-managers#supported-package-managers)，了解更多信息。
+{% endraw %}

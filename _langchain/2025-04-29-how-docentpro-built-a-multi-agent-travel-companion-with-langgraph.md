@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How DocentPro Built a Multi-Agent Travel Companion with LangGraph"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-docentpro/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how DocentPro built a multi-agent system in LangGraph and traces and monitors interactions with LangSmith for their AI search itinerary agent"
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [DocentPro](https://docentpro.ai/?ref=blog.langchain.com) is building an AI travel platform that helps travelers figure out where to go, what to do, and how to plan.
 
@@ -200,3 +198,4 @@ DocentPro 正持续优化其智能体之间的协作方式，并不断探索如�
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

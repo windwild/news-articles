@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Baselines: ACKTR & A2C | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-baselines-acktr-a2c"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing two new OpenAI Baselines implementations: ACKTR and A2C. A2C is a synchronous, deterministic variant of Asynchronous Advantage Actor Critic (A3C) which we’ve found gives equal perf..."
 tags: ["Research"]
 ---
+{% raw %}
 
 August 18, 2017
 
@@ -80,3 +80,4 @@ We have included code in Baselines for training feedforward convnets and LSTMs o
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
+{% endraw %}

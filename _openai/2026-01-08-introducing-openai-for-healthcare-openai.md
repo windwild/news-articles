@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing OpenAI for Healthcare | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-for-healthcare"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 8, 2026
 
@@ -197,3 +195,4 @@ To learn more about OpenAI for Healthcare, [contact our team⁠](https://openai.
 
 - [API Platform](https://openai.com/news/?tags=api-platform)  
 - [API 平台](https://openai.com/news/?tags=api-platform)
+{% endraw %}

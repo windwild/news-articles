@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Learning policy representations in multiagent systems | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/learning-policy-representations-in-multiagent-systems"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 June 17, 2018
 
@@ -27,3 +27,4 @@ Modeling agent behavior is central to understanding the emergence of complex phe
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
+{% endraw %}

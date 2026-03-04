@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI technical goals | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-technical-goals"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI’s mission is to build safe AI, and ensure AI’s benefits are as widely and evenly distributed as possible."
 tags: ["Company"]
 ---
+{% raw %}
 
 June 20, 2016
 
@@ -56,3 +56,4 @@ We’re just getting started on these projects, and the details may change as we
 
 - [Framework](https://openai.com/news/?tags=framework)
 - [2016](https://openai.com/news/?tags=2016)
+{% endraw %}

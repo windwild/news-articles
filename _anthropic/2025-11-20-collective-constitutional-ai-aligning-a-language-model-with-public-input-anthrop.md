@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Collective Constitutional AI: Aligning a Language Model with Public Input \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 PolicySocietal Impacts
 
@@ -305,3 +303,4 @@ We would love your feedback as we continue to iterate on our research. Reach out
 [Collective Constitutional AI Policy Memo](https://www-cdn.anthropic.com/b43359be43cabdbe3a8ffd60ea8a68acf25cb22e/Anthropic_CollectiveConstitutionalAI.pdf)
 
 [《集体宪政人工智能政策备忘录》](https://www-cdn.anthropic.com/b43359be43cabdbe3a8ffd60ea8a68acf25cb22e/Anthropic_CollectiveConstitutionalAI.pdf)
+{% endraw %}

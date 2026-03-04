@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "402-mcp enables x402 payments in MCP - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/402-mcp-enables-x402-payments-in-mcp"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing x402-mcp, a library that integrates with the AI SDK to bring x402 paywalls to Model Context Protocol (MCP) servers to let agents discover and call pay for MCP tools easily and securely."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 12, 2025
 
@@ -140,3 +138,4 @@ Deploy](https://vercel.com/templates/ai/x402-ai-starter)
 基于 Next.js、AI SDK、AI 网关、AI Components 及 Coinbase CDP 构建的 x402 全栈 AI 演示应用\\
 \\
 立即部署](https://vercel.com/templates/ai/x402-ai-starter)
+{% endraw %}

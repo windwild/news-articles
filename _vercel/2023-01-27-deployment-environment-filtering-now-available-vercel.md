@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deployment environment filtering now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deployment-environment-filtering-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 27, 2023
 
@@ -25,3 +23,4 @@ You can now filter your Deployments on Vercel by their environment type in addit
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/managing-deployments#filter-deployments) to learn more.
 
 [查看相关文档](https://vercel.com/docs/concepts/deployments/managing-deployments#filter-deployments)，了解更多信息。
+{% endraw %}

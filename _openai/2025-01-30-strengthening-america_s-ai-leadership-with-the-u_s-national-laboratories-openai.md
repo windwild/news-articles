@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Strengthening America’s AI leadership with the U.S. National Laboratories | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/strengthening-americas-ai-leadership-with-the-us-national-laboratories"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI’s latest line of reasoning models will be used by nation’s leading scientists to drive scientific breakthroughs."
 tags: ["Company"]
 ---
+{% raw %}
 
 January 30, 2025
 
@@ -42,3 +42,4 @@ The Labs also lead a comprehensive program in nuclear security, focused on reduc
 As advanced AI continues to reshape global geopolitics, this partnership provides a critical opportunity for OpenAI to help guide that transformation. This builds on our successful [earlier collaboration⁠](https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together/) with Los Alamos National Laboratory, where we worked closely with wet labs to assess the risks posed by the most advanced models in creating bioweapons (such as human-designed pandemics). We anticipate that this engagement will lead to broader safety collaborations across a variety of chemical, biological, radiological, and nuclear (CBRN) risks. Further, through our partnership with Microsoft as our preferred partner for AI compute infrastructure, and building on the valuable experience of this partnership with the Labs, we look forward to developing future projects together to support the U.S. government and the mission of ensuring AGI benefits all of humanity.
 
 This is the beginning of a new era, where AI will advance science, strengthen national security, and support U.S. government initiatives. We are deeply grateful for the opportunity to be part of this transformation, and we extend our thanks to the leaders of the National Labs and government officials for placing their trust in us, and to Microsoft for our enduring partnership that helped make these advances possible.
+{% endraw %}

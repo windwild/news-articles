@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "If agents are building your app, who gets the W-2? - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/if-agents-are-building-your-app-who-gets-the-w-2"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "If agents can design, build, test, and deploy features, their work should be treated like a developer's under GAAP. With modern AI logging, you can tie usage directly to capitalizable development acti..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 18, 2025
 
@@ -150,3 +148,4 @@ Build AI agents with the AI SDK. Create agents that can design, build, test, and
 
 Build AI agents on Vercel](https://vercel.com/docs/agents)  
 在 Vercel 上构建 AI 智能体](https://vercel.com/docs/agents)
+{% endraw %}

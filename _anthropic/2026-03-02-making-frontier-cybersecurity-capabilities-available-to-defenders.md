@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Making frontier cybersecurity capabilities available to defenders"
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/claude-code-security"
@@ -9,8 +8,7 @@ translated: true
 description: "Claude Code Security is one step towards our goal of more secure codebases and a higher security baseline across the industry."
 tags: ["Announcements"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Announcements
 
@@ -145,3 +143,4 @@ We also encourage open-source maintainers to apply for free, expedited access.
 To learn more, visit [claude.com/solutions/claude-code-security](http://claude.com/solutions/claude-code-security).  
 
 欲了解更多信息，请访问 [claude.com/solutions/claude-code-security](http://claude.com/solutions/claude-code-security)。
+{% endraw %}

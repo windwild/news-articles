@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Evaluating large language models trained on code | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/evaluating-large-language-models-trained-on-code"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 July 7, 2021
 
@@ -35,3 +35,4 @@ We introduce Codex, a GPT language model fine-tuned on publicly available code f
 - [Compute Scaling](https://openai.com/research/index/?tags=compute-scaling)
 - [Language](https://openai.com/research/index/?tags=language)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
+{% endraw %}

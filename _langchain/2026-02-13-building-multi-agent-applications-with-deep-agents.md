@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building Multi-Agent Applications with Deep Agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/building-multi-agent-applications-with-deep-agents/"
@@ -10,8 +9,7 @@ translated: true
 description: "Breaking down complex tasks across specialized agents is one of the most effective approaches to building capable AI systems. In this post, we'll show you how to build multi-agent systems with Deep Ag..."
 tags: ["deep agents", "agents", "Engineering", "agent builder", "langgraph", "![Reflection Agents", "**Reflection Agents**", "**Plan-and-Execute Agents**", "By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 By Sydney Runkle and Vivek Trivedy
 
@@ -254,15 +252,11 @@ Each [SKILL.md](http://skill.md/?ref=blog.langchain.com) file has YAML frontmatt
 
 ```markdown
 ---
-render_with_liquid: false
-render_with_liquid: false
 name: deploy
 description: Deploy to production
 version: 1.0.0  # Optional
 tags: [deployment, production]  # Optional
 ---
-render_with_liquid: false
-render_with_liquid: false
 
 # Deploy to Production
 
@@ -278,15 +272,11 @@ Always confirm with the user before deploying to production.
 
 ```markdown
 ---
-render_with_liquid: false
-render_with_liquid: false
 name: deploy
 description: 部署至生产环境
 version: 1.0.0  # 可选
 tags: [deployment, production]  # 可选
 ---
-render_with_liquid: false
-render_with_liquid: false
 
 # 部署至生产环境
 
@@ -336,8 +326,6 @@ agent = create_deep_agent(
 
 skill_content = """
 ---
-render_with_liquid: false
-render_with_liquid: false
 name: deploy
 ...
 """
@@ -478,3 +466,4 @@ Start with subagents for context management, add skills for progressive disclosu
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 5 分钟阅读
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 5 min read
+{% endraw %}

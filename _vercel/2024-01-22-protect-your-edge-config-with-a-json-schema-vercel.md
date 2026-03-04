@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Protect your Edge Config with a JSON schema - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/protect-your-edge-config-with-a-json-schema"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 22, 2024
 
@@ -29,3 +27,4 @@ Edge Config 是一种低延迟数据存储服务，可通过 [Vercel Functions](
 - 点击 **Save**（保存）。此操作将同时保存 Schema 和数据的变更。
 
 请参阅[相关文档](https://vercel.com/docs/storage/edge-config/edge-config-dashboard#schema-validation)了解更多信息。
+{% endraw %}

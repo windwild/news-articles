@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Debugging Deep Agents with LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/debugging-deep-agents-with-langsmith/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:15:51.848864050+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Debugging is the process of finding and fixing errors. This is a critical step in software engineering, and even more critical in [agent engineering](https://blog.langchain.com/agent-engineering-a-new-discipline/). One of the key capabilities of [LangSmith](https://docs.langchain.com/langsmith/home?ref=blog.langchain.com) is tooling to debug LLM applications.
 
@@ -209,3 +207,4 @@ With LangSmith, you can trace your deep agents and see what's going on — then,
 Set up tracing in just a few minutes, and try chatting with Polly today on LangSmith to debug and improve your deep agents!
 
 仅需几分钟即可完成追踪配置——今天就登录 LangSmith，与 Polly 开始对话，立即调试并优化您的深度智能体！
+{% endraw %}

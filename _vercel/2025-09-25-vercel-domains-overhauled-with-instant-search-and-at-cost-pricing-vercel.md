@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Domains overhauled with instant search and at-cost pricing - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-domains-at-cost-pricing-and-the-fastest-on-the-web"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We rebuilt the Vercel Domains experience to make search and checkout significantly faster and more reliable."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 25, 2025
 
@@ -57,3 +55,4 @@ An upcoming blog will share how we built this speed using structured concurrency
 Try it now at [vercel.com/domains](https://vercel.com/domains).
 
 立即试用：[vercel.com/domains](https://vercel.com/domains)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Prompt Caching in the API | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/api-prompt-caching"
@@ -10,6 +9,7 @@ translated: false
 description: "Offering automatic discounts on inputs that the model has recently seen"
 tags: ["Product"]
 ---
+{% raw %}
 
 October 1, 2024
 
@@ -85,3 +85,4 @@ Prompt Caching is one of a variety of tools for developers to scale their applic
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "We’re bringing the Financial Times’ world-class journalism to ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/content-partnership-with-financial-times"
@@ -10,6 +9,7 @@ translated: false
 description: "We will also collaborate on new AI experiences for FT readers."
 tags: ["Company"]
 ---
+{% raw %}
 
 April 29, 2024
 
@@ -41,3 +41,4 @@ We have always embraced new technologies and disruption, and we’ll continue to
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

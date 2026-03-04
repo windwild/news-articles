@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A more flexible Pro plan for modern teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/new-pro-pricing-plan"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We’re updating Vercel’s Pro plan to better align with how modern teams collaborate and how applications consume infrastructure, and how workloads are changing shape with AI."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 9, 2025
 
@@ -172,3 +170,4 @@ Get flexible credits, free Viewer seats, and self-serve access to Enterprise-lev
 
 Switch now  
 立即切换](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fbilling&title=Switch+to+new+Pro+pricing)
+{% endraw %}

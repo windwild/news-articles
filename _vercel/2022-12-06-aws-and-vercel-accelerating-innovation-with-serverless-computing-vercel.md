@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AWS and Vercel: Accelerating innovation with serverless computing - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/aws-and-vercel-accelerating-innovation-with-serverless-computing"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Helping teams take advantage of best-in-class AWS infrastructure with zero configuration."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 6, 2022
 
@@ -84,3 +82,4 @@ I am constantly in awe of our customers’ achievements with this platform, and 
 
 - [See why a serverless infrastructure is best on Vercel](https://vercel.com/features/infrastructure)  
 - [了解为何 Vercel 是运行无服务器基础设施的最佳平台](https://vercel.com/features/infrastructure)
+{% endraw %}

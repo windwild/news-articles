@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Nova 2 Lite now available on Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/nova-2-lite-now-available-on-vercel-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access Amazon's latest model Nova 2 Lite on Vercel AI Gateway with no other provider accounts required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 3, 2025
 
@@ -69,3 +67,4 @@ AI Gateway 模型排行榜根据通过该网关的所有流量的总 Token 量�
 
 [View the leaderboard](https://vercel.com/ai-gateway/leaderboards)  
 [查看排行榜](https://vercel.com/ai-gateway/leaderboards)
+{% endraw %}

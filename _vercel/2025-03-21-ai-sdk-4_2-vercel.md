@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI SDK 4.2 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-4-2"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI SDK 4.2 introduces MCP clients, reasoning, image generation with language models, message parts, sources, and more"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 21, 2025
 
@@ -1072,3 +1070,4 @@ With special recognition to:
 - [Und3rf10w](https://github.com/Und3rf10w) 为 Amazon Bedrock 推理功能提供支持
 
 您的反馈与贡献持续推动着 AI SDK 的演进。我们非常期待看到您利用这些新能力构建出的精彩应用。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Python Vercel Functions now have streaming enabled by default - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/python-vercel-functions-now-have-streaming-enabled-by-default"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Streaming is now enabled by default for all Vercel Functions using the Python runtime. Python functions can now send data to the client as it’s generated, rather than waiting for the entire response..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 6, 2025
 
@@ -30,3 +28,4 @@ If you’re using Log Drains, ensure your ingestion pipeline can handle the new 
 
 For more details, visit [our documentation](https://vercel.com/docs/functions/streaming-functions#streaming-python-functions) or get started with [our template](https://vercel.com/templates/python/ai-sdk-python-streaming).  
 如需了解更多详情，请访问[我们的文档](https://vercel.com/docs/functions/streaming-functions#streaming-python-functions)，或通过[我们的模板](https://vercel.com/templates/python/ai-sdk-python-streaming)快速上手。
+{% endraw %}

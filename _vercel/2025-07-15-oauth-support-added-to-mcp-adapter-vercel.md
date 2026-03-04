@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OAuth support added to MCP Adapter - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/oauth-support-added-to-mcp-adapter"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's open-source MCP adapter now supports the latest MCP Authorization spec—letting you securely ship, OAuth-enabled MCP servers."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 15, 2025
 
@@ -168,3 +166,4 @@ Get started building your first MCP server on Vercel.
 
 Deploy now  
 立即部署](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js)
+{% endraw %}

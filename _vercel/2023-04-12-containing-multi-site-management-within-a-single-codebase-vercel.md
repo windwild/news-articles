@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Containing multi-site management within a single codebase - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/wunderman-thompson-composable-workflow"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Discover how to create an efficient design system that streamlines the site creation process, inspired by Wunderman Thompson's work in managing hundreds of brands from a single codebase."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 12, 2023
 
@@ -578,3 +576,4 @@ Vercel.com 官网落地页
 ### Read this ebook  
 
 ### 阅读本电子书
+{% endraw %}

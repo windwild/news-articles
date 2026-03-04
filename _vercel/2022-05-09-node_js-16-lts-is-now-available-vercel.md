@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Node.js 16 LTS is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-16-lts-is-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 9, 2022
 
@@ -55,3 +53,4 @@ The exact version used today is [16.14.0](https://github.com/nodejs/node/blob/ma
 Check out [the documentation](https://vercel.com/docs/runtimes#official-runtimes/node-js/node-js-version) as well.
 
 也请参阅 [相关文档](https://vercel.com/docs/runtimes#official-runtimes/node-js/node-js-version)。
+{% endraw %}

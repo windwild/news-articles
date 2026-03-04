@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Algolia cuts build times in half with ISR using Next.js on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/algolia-cuts-build-times-in-half-with-isr-using-next-js-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How Algolia cuts build times in half with ISR using Next.js on Vercel"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 9, 2023
 
@@ -43,3 +41,4 @@ Now, Algolia’s engineers are looking forward to continuing to make website per
 Want to see how your team can improve site performance while reducing build times? [Get in touch](https://vercel.com/contact/sales).
 
 想了解您的团队如何在缩短构建时间的同时提升网站性能？[立即联系](https://vercel.com/contact/sales)。
+{% endraw %}

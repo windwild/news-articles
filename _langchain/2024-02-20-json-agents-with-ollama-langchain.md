@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "JSON agents with Ollama & LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/json-based-agents-with-ollama-and-langchain/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:11:33.087385178+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ## Learn to implement an open-source Mixtral agent that interacts with a graph database Neo4j through a semantic layer
 
@@ -437,3 +435,4 @@ Most of the work to implement the JSON-based agent was done by Harrison Chase an
 The [code is available as a Langchain template](https://github.com/langchain-ai/langchain/tree/master/templates/neo4j-semantic-ollama?ref=blog.langchain.com) and as a [Jupyter notebook](https://github.com/tomasonjo/blogs/blob/master/llm/ollama_semantic_layer.ipynb?ref=blog.langchain.com).
 
 代码以 Langchain 模板形式提供：[点击访问](https://github.com/langchain-ai/langchain/tree/master/templates/neo4j-semantic-ollama?ref=blog.langchain.com)，同时也提供 [Jupyter Notebook 版本](https://github.com/tomasonjo/blogs/blob/master/llm/ollama_semantic_layer.ipynb?ref=blog.langchain.com)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sabotage evaluations for frontier models \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/sabotage-evaluations"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A new paper on AI safety evaluations from Anthropic's Alignment Science team"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -206,3 +204,4 @@ All our results, and further discussion, can be found in the full paper [at this
 _If you’re interested in joining the team working on these and related questions, please see our job listing for [Research Engineers and Research Scientists](https://boards.greenhouse.io/anthropic/jobs/4009165008) in Alignment Science._
 
 _若您有兴趣加入我们团队，共同探索上述及相关的前沿课题，欢迎查看我们在“对齐科学（Alignment Science）”方向的职位招聘启事：[研究工程师与研究科学家](https://boards.greenhouse.io/anthropic/jobs/4009165008)。_
+{% endraw %}

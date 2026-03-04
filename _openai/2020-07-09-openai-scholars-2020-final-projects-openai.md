@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Scholars 2020: Final projects | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-scholars-2020-final-projects"
@@ -10,6 +9,7 @@ translated: false
 description: "Our third class of OpenAI Scholars presented their final projects at virtual Demo Day, showcasing their research results from over the past five months."
 tags: ["Company"]
 ---
+{% raw %}
 
 July 9, 2020
 
@@ -210,3 +210,4 @@ CompanyDec 23, 2022](https://openai.com/index/the-power-of-continuous-learning/)
 CompanyDec 8, 2022](https://openai.com/index/discovering-the-minutiae-of-backend-systems/)
 
 OpenAI Scholars 2020: Final projects \| OpenAI
+{% endraw %}

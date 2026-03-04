@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Monorepos are changing how teams build software - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/monorepos-are-changing-how-teams-build-software"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Monorepos are codebases containing multiple projects in a single unified code repository. This post explores how monorepos can improve your development workflow."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 3, 2022
 
@@ -157,3 +155,4 @@ However, with remote caching, you can share the Turborepo cache across your enti
 
 Watch Turborepo Remote Caching in action and get started with your monorepo today.  
 观看 Turborepo 远程缓存的实际运行效果，并即刻开启您的单体仓库之旅。
+{% endraw %}

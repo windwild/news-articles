@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Disrupting malicious uses of AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/disrupting-malicious-ai-uses"
@@ -10,8 +9,7 @@ translated: true
 description: "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense."
 tags: ["Security"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 25, 2026
 
@@ -40,3 +38,4 @@ Read the full report [here⁠(opens in a new window)](https://cdn.openai.com/pdf
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

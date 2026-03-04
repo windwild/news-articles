@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Log Drains are now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/log-drains-are-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 23, 2024
 
@@ -33,3 +31,4 @@ _基于用量的计费模式（新）_
 **如何查看我的 Log Drains 用量？**
 
 您可在 [用量页面](https://vercel.com/docs/pricing/manage-and-optimize-usage) 查看当前 Log Drains 的用量情况。
+{% endraw %}

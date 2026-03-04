@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "You.com x LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/you-com-x-langchain/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Editor's Note: the following is a guest blog post from our friends at You.com. We've seen a lot of interesting use cases around interacting with the internet, and we're always looking for new tools to highlight to our community that can help do that. So when You.com mentioned they would releasing an API access to their search engine - the same one they use to power their [**AI assistant**](https://about.you.com/category/ai-tools/youchat/?ref=blog.langchain.com) \- we jumped at the opportunity to help them highlight this.**
 
@@ -167,3 +165,4 @@ As you can see, the You.com Search API heavily out-performs Google on this small
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Copy visual context to agents from Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/copy-visual-context-to-agents"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Copy visual context from Vercel Toolbar comments directly to agents. Streamlines feedback-to-code workflow with deployment details and component data."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 3, 2026
 
@@ -53,3 +51,4 @@ The feature is available to all Vercel users immediately.
 [Learn more about Vercel Toolbar](https://vercel.com/docs/workflow/vercel-toolbar) or [get started with Agents](https://vercel.com/ai).
 
 [了解更多关于 Vercel Toolbar 的信息](https://vercel.com/docs/workflow/vercel-toolbar)，或 [开始使用 Agents](https://vercel.com/ai)。
+{% endraw %}

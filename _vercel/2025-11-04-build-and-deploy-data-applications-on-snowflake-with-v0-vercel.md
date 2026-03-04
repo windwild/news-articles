@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Build and deploy data applications on Snowflake with v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/build-and-deploy-data-applications-on-snowflake-with-v0"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The v0 Snowflake integration lets you build and deploy Next.js data applications with natural language. Your data stays secure in your Snowflake account."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 4, 2025
 
@@ -93,3 +91,4 @@ The application inherits your existing Snowflake security controls, authenticati
 The v0 Snowflake integration is being announced today at Snowflake BUILD. [Sign up for the waitlist](https://vercel.com/go/v0-snowflake-waitlist) to get notified when it's ready for testing, and we'll reach out when you can start building applications on your Snowflake data with v0.
 
 v0 与 Snowflake 的集成今日在 Snowflake BUILD 大会上正式发布。[加入等候名单](https://vercel.com/go/v0-snowflake-waitlist)，即可在功能开放测试时第一时间收到通知；待条件成熟，我们将主动联系您，助您立即开始基于 Snowflake 数据使用 v0 构建应用。
+{% endraw %}

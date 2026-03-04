@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Configure build machine settings across all projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/configure-build-machine-settings-across-all-projects"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Manage build and deployment settings across all Vercel projects at once. Configure Build Machines and On-Demand Concurrent Builds from a single place."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 23, 2026
 
@@ -29,3 +27,4 @@ Jan 23, 2026
 您现在可一次性将配置应用至团队内全部项目，也可通过统一界面，对多个项目进行定向调整。
 
 [立即开始使用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment) 团队级设置。
+{% endraw %}

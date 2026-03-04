@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Inside JetBrains—the company reshaping how the world writes code | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/jetbrains-2025"
@@ -10,6 +9,7 @@ translated: false
 description: "JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster."
 tags: ["ChatGPT"]
 ---
+{% raw %}
 
 November 25, 2025
 
@@ -97,3 +97,4 @@ Kris Kang, Kris Kang, Head of Product, JetBrains
 More than 1 million businesses around the world are achieving meaningful results with OpenAI.
 
 [Contact our team](https://openai.com/contact-sales/)
+{% endraw %}

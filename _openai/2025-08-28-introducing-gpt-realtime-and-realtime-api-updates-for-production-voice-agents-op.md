@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing gpt-realtime and Realtime API updates for production voice agents | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-gpt-realtime"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support."
 ---
+{% raw %}
 
 August 28, 2025
 
@@ -199,3 +199,4 @@ To get started, visit our [Realtime API documentation⁠(opens in a new window)]
 Play video
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

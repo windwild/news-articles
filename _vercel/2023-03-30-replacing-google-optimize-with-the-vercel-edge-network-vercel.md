@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Replacing Google Optimize with the Vercel Edge Network - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-edge-google-optimize"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Power your A/B testing and personalization strategy with better data and higher performance."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 30, 2023
 
@@ -410,3 +408,4 @@ Jan 13, 2023
 
 Grace Madlinger  
 格蕾丝·马德林格
+{% endraw %}

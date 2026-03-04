@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Powering a serverless Web: Vercel joins AWS Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-joins-aws-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Powering a serverless Web: Vercel joins the AWS Marketplace"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 5, 2023
 
@@ -129,3 +127,4 @@ Feb 9, 2023
 Kelsey Dillon
 
 凯尔西·迪伦
+{% endraw %}

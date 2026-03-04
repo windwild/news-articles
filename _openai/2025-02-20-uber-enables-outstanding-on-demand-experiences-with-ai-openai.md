@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Uber enables outstanding on-demand experiences with AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/uber-enables-outstanding-experiences"
@@ -10,6 +9,7 @@ translated: false
 description: "A conversation with Jai Malkani, Head of AI and Product, Customer Obsession at Uber."
 tags: ["Story"]
 ---
+{% raw %}
 
 February 20, 2025
 
@@ -98,3 +98,4 @@ _Uber leverages ChatGPT Enterprise across various departments, including marketi
 - [Technology](https://openai.com/stories/?tags=industry-technology)
 - [Travel](https://openai.com/stories/?tags=industry-travel)
 - [Services](https://openai.com/stories/?tags=industry-services)
+{% endraw %}

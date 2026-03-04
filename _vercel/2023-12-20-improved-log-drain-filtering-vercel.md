@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved Log Drain filtering - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-log-drain-filtering"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 20, 2023
 
@@ -25,3 +23,4 @@ Log Drains 现在可通过控制台和 API 支持以下功能：
 2. 配置采样大小，以降低日志吞吐量  
 
 更多详情，请参阅我们的[文档](https://vercel.com/docs/observability/log-drains-overview/log-drains-reference#log-environments)。
+{% endraw %}

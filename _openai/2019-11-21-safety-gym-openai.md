@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Safety Gym | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/safety-gym"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents that respect safety constraints while training."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 November 21, 2019
 
@@ -132,3 +132,4 @@ _If you’re excited to work on safe exploration problems with us,_ [_we’re h
 
 1. A
 OpenAI’s comments in response to a request for information from the US agency NIST regarding Artificial Intelligence Standards.
+{% endraw %}

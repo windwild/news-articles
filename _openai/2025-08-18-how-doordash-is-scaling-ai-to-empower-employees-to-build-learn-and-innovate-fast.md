@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How DoorDash is scaling AI to empower employees to build, learn, and innovate faster | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/doordash-mariana-garavaglia"
@@ -10,6 +9,7 @@ translated: false
 description: "Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Mariana Garavaglia."
 tags: ["API"]
 ---
+{% raw %}
 
 August 18, 2025
 
@@ -101,3 +101,4 @@ _DoorDash is using ChatGPT Enterprise across its organization in both technical 
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Services](https://openai.com/stories/?tags=industry-services)
 - [Technology](https://openai.com/stories/?tags=industry-technology)
+{% endraw %}

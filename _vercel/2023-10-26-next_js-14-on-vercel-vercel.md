@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Next.js 14 on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/next-js-14"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 26, 2023
 
@@ -49,3 +47,4 @@ Next.js 14 已在 Vercel 上获得全面支持。借助 Next.js，您可以为�
 [Check out our documentation](https://nextjs.org/docs/getting-started/installation) to learn more.
 
 [查阅我们的文档](https://nextjs.org/docs/getting-started/installation) 以了解更多信息。
+{% endraw %}

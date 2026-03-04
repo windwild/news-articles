@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Run untrusted code with Vercel Sandbox - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/run-untrusted-code-with-vercel-sandbox"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Sandbox securely runs untrusted code in isolated cloud environments, like AI-generated code. Create ephemeral, isolated microVMs using the new Sandbox SDK, with up to 45m execution times. Now i..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 25, 2025
 
@@ -110,3 +108,4 @@ Sandbox 采用 Fluid 计算模型，并依据 [Fluid 全新“活跃 CPU 时间�
 Now in [Beta](https://vercel.com/docs/release-phases#beta) and available to customers on all plans. Learn more about [Vercel Sandbox](https://vercel.com/docs/vercel-sandbox).
 
 目前已进入 [Beta 测试阶段](https://vercel.com/docs/release-phases#beta)，所有付费计划的客户均可使用。了解更多关于 [Vercel Sandbox](https://vercel.com/docs/vercel-sandbox) 的信息。
+{% endraw %}

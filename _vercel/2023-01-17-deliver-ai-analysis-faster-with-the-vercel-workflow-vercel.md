@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deliver AI analysis faster with the Vercel workflow - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/delivering-ai-analysis-faster-with-the-vercel-workflow"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Viable customer story"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 17, 2023
 
@@ -62,3 +60,4 @@ With a more efficient feedback loop on Vercel, Viable is able to ship insights t
 Want to see how your frontend team could achieve a better workflow? [Get in touch](https://vercel.com/contact).
 
 想了解您的前端团队如何实现更高效的工作流？[联系我们](https://vercel.com/contact)。
+{% endraw %}

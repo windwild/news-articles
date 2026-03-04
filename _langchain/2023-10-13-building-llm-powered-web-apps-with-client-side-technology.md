@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building LLM-Powered Web Apps with Client-Side Technology"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/building-llm-powered-web-apps-with-client-side-technology/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **The initial version of this blog post was a talk for Google’s internal WebML Summit 2023, which you can check out here.**
 
@@ -302,3 +300,4 @@ If you’d like to keep in touch, you can follow me [@Hacubu](https://twitter.co
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

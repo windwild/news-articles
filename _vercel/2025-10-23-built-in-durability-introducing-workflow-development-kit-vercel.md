@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Built-in durability: Introducing Workflow Development Kit - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-workflow"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Workflow Development Kit (WDK) makes async workflows in TypeScript reliable, durable, fault-tolerant, and portable across any cloud."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 23, 2025
 
@@ -396,3 +394,4 @@ Use familiar JavaScript to build workflows that persist across deploys and crash
 使用您熟悉的 JavaScript 构建工作流，这些工作流可在部署更新和系统崩溃后持续存在。无需消息队列、调度器或额外基础设施。  
 
 Get started](https://useworkflow.dev/)
+{% endraw %}

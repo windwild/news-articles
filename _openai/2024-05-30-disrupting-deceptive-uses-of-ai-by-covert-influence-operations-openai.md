@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Disrupting deceptive uses of AI by covert influence operations  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/disrupting-deceptive-uses-of-ai-by-covert-influence-operations"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve terminated accounts linked to covert influence operations; no significant audience increase due to our services. "
 tags: ["Security"]
 ---
+{% raw %}
 
 May 30, 2024
 
@@ -74,3 +74,4 @@ We are committed to developing safe and responsible AI, which involves designing
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

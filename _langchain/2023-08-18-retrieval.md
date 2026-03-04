@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Retrieval"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/retrieval/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 TL;DR: We are adjusting our abstractions to make it easy for other retrieval methods besides the LangChain `VectorDB` object to be used in LangChain. This is done with the goals of (1) allowing retrievers [constructed elsewhere](https://github.com/openai/chatgpt-retrieval-plugin?ref=blog.langchain.com) to be used more easily in LangChain, (2) encouraging more experimentation with alternative retrieval methods (like [hybrid search](https://www.pinecone.io/learn/hybrid-search-intro/?ref=blog.langchain.com)). This is backwards compatible, so all existing chains should continue to work as before. However, we recommend updating from `VectorDB` chains to the new `Retrieval` chains as soon as possible, as those will be the ones most fully supported going forward.
 
@@ -245,3 +243,4 @@ Expanding on the `Retriever` interface:
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

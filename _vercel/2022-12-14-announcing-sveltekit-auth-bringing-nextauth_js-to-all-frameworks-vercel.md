@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Announcing SvelteKit Auth: Bringing NextAuth.js to all frameworks - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/announcing-sveltekit-auth"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "SvelteKit Auth is a simple, low configuration authentication library for SvelteKit applications, with support for many popular OAuth providers."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 14, 2022
 
@@ -196,3 +194,4 @@ Install `@auth/sveltekit` today and get started with our new [SvelteKit Auth Tem
 We’re incredibly thankful for the over 450 community contributors to NextAuth.js, including the core team of myself, Thang Vu, Nico Domino, Lluis Agusti, and Robert Soriano. We’d also like to thank Prisma, Clerk, Lowdefy, WorkOS, Checkly, Superblog, and others sponsoring NextAuth.js on OpenCollective. Finally, we’d like to thank the original creator of NextAuth.js, Ian Collins, for their work creating the base for all this innovation and Filip Skokan ( [@panva](https://twitter.com/_panva)) for their outstanding work on open-source libraries.
 
 我们由衷感谢为 NextAuth.js 贡献力量的 450 多位社区贡献者，其中包括核心团队成员：我本人、Thang Vu、Nico Domino、Lluis Agusti 和 Robert Soriano。我们还要感谢 Prisma、Clerk、Lowdefy、WorkOS、Checkly、Superblog 等机构通过 OpenCollective 对 NextAuth.js 的赞助支持。最后，我们要特别感谢 NextAuth.js 的最初创建者 Ian Collins —— 正是他的开创性工作，为所有这些创新奠定了坚实基础；同时也要感谢 Filip Skokan（[@panva](https://twitter.com/_panva)）在开源库领域所做出的卓越贡献。
+{% endraw %}

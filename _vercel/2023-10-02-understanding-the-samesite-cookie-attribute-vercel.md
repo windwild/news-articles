@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Understanding the SameSite cookie attribute - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/understanding-the-samesite-cookie-attribute"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Explore the SameSite cookie attribute's significance in ensuring web security and user privacy to strike the right balance between security and usability."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 2, 2023
 
@@ -155,3 +153,4 @@ Deciding which configuration to use depends on your specific use case.
 The **`SameSite`** attribute offers web developers granular control over cookies, enhancing web security and ensuring a better user experience. By understanding the nuances of **`Strict`**, **`Lax`**, and **`None`**, you can make more informed decisions, keeping users both happy and secure.
 
 **`SameSite`** 属性为 Web 开发者提供了对 Cookie 的精细化控制能力，既提升了 Web 安全性，又保障了更优质的用户体验。深入理解 **`Strict`**、**`Lax`** 和 **`None`** 各自的特性与适用场景，有助于您做出更明智的决策，让用户既满意又安全。
+{% endraw %}

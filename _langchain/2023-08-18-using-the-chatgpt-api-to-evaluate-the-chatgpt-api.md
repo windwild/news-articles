@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using the ChatGPT API to evaluate the ChatGPT API"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/using-chatgpt-api-to-evaluate-chatgpt/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 OpenAI released a new [ChatGPT API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis?ref=blog.langchain.com) yesterday.  
 OpenAI 昨日发布了全新的 [ChatGPT API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis?ref=blog.langchain.com)。
@@ -251,3 +249,4 @@ Next, the example that GPT3 graded as correct for both, but ChatGPT graded as in
 [**LangGraph Platform in beta: New deployment options for scalable agent infrastructure**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [**LangGraph 平台进入 Beta 阶段：面向可扩展智能体基础设施的新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
+{% endraw %}

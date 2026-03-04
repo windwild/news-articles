@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Zero-configuration support for Koa - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/zero-configuration-support-for-koa"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now detects and deploys Koa, an expressive HTTP middleware framework to make web applications and APIs more enjoyable to write."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 3, 2026
 
@@ -61,3 +59,4 @@ Vercel 上的后端默认使用 [Fluid compute（流式计算）](https://vercel
 Visit the [Koa on Vercel documentation](https://vercel.com/docs/frameworks/backend/koa) for more details.
 
 更多详情，请参阅 [Vercel 上的 Koa 文档](https://vercel.com/docs/frameworks/backend/koa)。
+{% endraw %}

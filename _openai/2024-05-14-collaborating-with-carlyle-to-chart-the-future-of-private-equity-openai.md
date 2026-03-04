@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Collaborating with Carlyle to Chart the Future of Private Equity | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/collaborating-with-carlyle-to-chart-the-future-of-private-equity"
@@ -10,6 +9,7 @@ translated: false
 description: "Collaborating with Carlyle to Chart the Future of Private Equity"
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 May 14, 2024
 
@@ -53,3 +53,4 @@ Looking ahead, both OpenAI and Carlyle are committed to deepening our collaborat
 Co-hosting the GenAI summit with Carlyle is an important illustration of how OpenAI is working with innovative companies across many industries.  In the private equity industry, which spans the global economy, Carlyle continues to demonstrate leadership as it proactively embraces AI to deliver value to stakeholders.  As we continue to explore new horizons, we anticipate more collaborations like this, dedicated to investing in technologies that drive efficiency, enhance productivity, and create sustainable value.
 
 Collaborating with Carlyle to Chart the Future of Private Equity \| OpenAI
+{% endraw %}

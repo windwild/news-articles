@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Figma integrates AI to transform design and empower creatives | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/figma-david-kossnick"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Discover how Figma is transforming digital design with AI. David Kossnick shares how tools like Figma Make empower teams to prototype, collaborate, and build with AI—reshaping workflows for designer..."
 ---
+{% raw %}
 
 August 1, 2025
 
@@ -124,3 +124,4 @@ _Figma uses OpenAI APIs to power FigJam AI, as well as its image generation capa
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Arts & Culture](https://openai.com/stories/?tags=arts-culture)
 - [Technology](https://openai.com/stories/?tags=industry-technology)
+{% endraw %}

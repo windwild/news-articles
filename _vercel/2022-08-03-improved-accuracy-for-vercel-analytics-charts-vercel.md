@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved accuracy for Vercel Analytics charts - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-accuracy-for-vercel-analytics-charts"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 3, 2022
 
@@ -29,3 +27,4 @@ Individual Core Web Vital data points are now displayed as a scatter plot with a
 [Check out the documentation](https://vercel.com/docs/concepts/analytics) to learn more.
 
 [查看文档](https://vercel.com/docs/concepts/analytics) 了解更多信息。
+{% endraw %}

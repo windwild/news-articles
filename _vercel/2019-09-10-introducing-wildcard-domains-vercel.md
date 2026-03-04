@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Wildcard Domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/wildcard-domains"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Wildcard Domains allow for pointing all imaginable sub domains to a project, without having to define those sub domains at all."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 10, 2019
 
@@ -97,3 +95,4 @@ With **Wildcard Domains**, you can capture all subdomains on the fly and have a 
 We can't wait to find out what you will create with this! [Let us know via Twitter](https://twitter.com/vercel).
 
 我们迫不及待想了解您将用此功能创造出什么！[欢迎通过 Twitter 告诉我们](https://twitter.com/vercel)。
+{% endraw %}

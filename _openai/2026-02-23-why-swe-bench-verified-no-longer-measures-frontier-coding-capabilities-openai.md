@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Why SWE-bench Verified no longer measures frontier coding capabilities | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
@@ -10,8 +9,7 @@ translated: true
 description: "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro."
 tags: ["Research"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 23, 2026
 
@@ -963,3 +961,4 @@ We will continue to invest in original, privately authored benchmarks and ask fo
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

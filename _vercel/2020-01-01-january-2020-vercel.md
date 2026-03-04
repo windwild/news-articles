@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "January 2020 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/changelog-january-2020"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's changelog for January 2020"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 1, 2020
 
@@ -55,3 +53,4 @@ Jan 1, 2020
 - New endpoints for retrieving a [realtime stream of all requests for a deployment](https://zeit.co/docs/api/#endpoints/logs/stream-serverless-function-logs) and retrieving all [failed requests](https://zeit.co/docs/api/#endpoints/logs/fetch-failed-requests-for-serverless-function) are now available.
 
 - 现已提供两个新 API 端点：用于获取部署的[所有请求的实时流](https://zeit.co/docs/api/#endpoints/logs/stream-serverless-function-logs)，以及用于获取所有[失败请求](https://zeit.co/docs/api/#endpoints/logs/fetch-failed-requests-for-serverless-function)。
+{% endraw %}

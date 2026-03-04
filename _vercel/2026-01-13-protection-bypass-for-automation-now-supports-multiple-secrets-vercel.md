@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Protection bypass for automation now supports multiple secrets - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/protection-bypass-for-automation-multiple-secrets"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel projects now support multiple protection bypass secrets for automation. Rotate secrets, use different secrets for different workflows, and add notes to track each bypass. One bypass is automati..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 13, 2026
 
@@ -23,3 +21,4 @@ Vercel 项目现已支持多个 [自动化保护绕过](https://vercel.com/docs/
 这使得密钥轮换更加便捷，也便于为不同工作流使用不同的密钥。此外，每个绕过配置还可添加备注，从而更轻松地追踪其具体用途。
 
 详见 [部署保护文档](https://vercel.com/docs/deployment-protection)。
+{% endraw %}

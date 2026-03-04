@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Blue J’s approach for scaling fast in complex, regulated domains | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/blue-j"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Discover how Blue J is transforming tax research with AI-powered tools built on GPT-4.1. By combining domain expertise with Retrieval-Augmented Generation, Blue J delivers fast, accurate, and fully-ci..."
 ---
+{% raw %}
 
 August 21, 2025
 
@@ -78,3 +78,4 @@ Blue J earned that level of engagement by focusing on what they uniquely know be
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

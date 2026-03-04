@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Dashboard redesign - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/dashboard-redesign"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We're bringing the simplicity of our developer experience to our web dashboard. Creating new projects, importing existing code, managing domains, setting up redirects, inspecting deployments and funct..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 20, 2019
 
@@ -204,3 +202,4 @@ We would love to hear your thoughts on our new dashboard! If you'd like to share
 
 A special thank you to [Ana Trajkovska](https://twitter.com/AnaTrajkovska_), [Arunoda Susiripala](https://twitter.com/arunoda), [Leo Lamprecht](https://twitter.com/notquiteleo), and [Timothy Lorimer](https://twitter.com/timothyis_) for helping with making this release a reality.  
 特别感谢 [Ana Trajkovska](https://twitter.com/AnaTrajkovska_)、[Arunoda Susiripala](https://twitter.com/arunoda)、[Leo Lamprecht](https://twitter.com/notquiteleo) 和 [Timothy Lorimer](https://twitter.com/timothyis_) 为本次版本发布所付出的努力与支持。
+{% endraw %}

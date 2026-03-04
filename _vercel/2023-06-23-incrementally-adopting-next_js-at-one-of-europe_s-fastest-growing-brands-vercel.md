@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Incrementally adopting Next.js at one of Europe's fastest growing brands - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/incrementally-adopting-next-js-at-one-of-europes-fastest-growing-brands"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "reMarkable goes composable "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 23, 2023
 
@@ -158,3 +156,4 @@ Deploy this template
 Sanity + Next.js Clean App
 
 Sanity + Next.js 简洁应用
+{% endraw %}

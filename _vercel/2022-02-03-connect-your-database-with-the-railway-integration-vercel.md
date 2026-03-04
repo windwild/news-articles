@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Connect your database with the Railway integration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/railway-integration-postgres-redis-mysql"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 3, 2022
 
@@ -25,3 +23,4 @@ Feb 3, 2022
 [Try out the integration](https://vercel.com/integrations/railway) and connect your database.
 
 [试用该集成](https://vercel.com/integrations/railway)，并连接您的数据库。
+{% endraw %}

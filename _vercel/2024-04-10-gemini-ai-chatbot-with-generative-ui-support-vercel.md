@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Gemini AI Chatbot with Generative UI support - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gemini-ai-chatbot-with-generative-ui-support"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 10, 2024
 
@@ -33,3 +31,4 @@ The Gemini model used is `models/gemini-1.0-pro-001`, however, the [Vercel AI SD
 [Try the demo](https://gemini.vercel.ai/) or [deploy your own](https://vercel.com/templates/next.js/gemini-ai-chatbot).
 
 [试用演示版](https://gemini.vercel.ai/) 或 [部署您自己的实例](https://vercel.com/templates/next.js/gemini-ai-chatbot)。
+{% endraw %}

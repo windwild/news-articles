@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-5.1: A smarter, more conversational ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-1"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "We’re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT’s tone and style. GPT-5.1 starts rolling out today to paid users."
 ---
+{% raw %}
 
 November 12, 2025
 
@@ -404,3 +404,4 @@ Today’s GPT‑5.1 updates and new customization options are a step toward a Ch
 
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
+{% endraw %}

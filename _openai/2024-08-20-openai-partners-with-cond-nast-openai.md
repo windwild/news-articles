@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI partners with Condé Nast | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/conde-nast"
@@ -10,6 +9,7 @@ translated: false
 description: "Condé Nast"
 tags: ["Company"]
 ---
+{% raw %}
 
 August 20, 2024
 
@@ -38,3 +38,4 @@ Condé Nast joins a growing list of publishers including Associated Press, Axel 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

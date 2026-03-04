@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangChain Integrates NVIDIA NIM for GPU-optimized LLM Inference in RAG"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/nvidia-nim/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Roughly a year and a half ago, OpenAI launched ChatGPT and the generative AI era really kicked off. Since then we’ve seen rapid growth and widespread adoption by all types of industries and all types of enterprises. As enterprises turn their attention from prototyping LLM applications to productionizing them, they often want to turn from third-party model services to self-hosted solutions. We’ve seen many folks struggle with this, and that’s why LangChain is so excited to integrate the new [NVIDIA NIM](https://nvidianews.nvidia.com/news/generative-ai-microservices-for-developers?ref=blog.langchain.com) inference microservices.
 
@@ -364,3 +362,4 @@ for s in final_chain.stream("how can langsmith help with testing"):
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the new v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-new-v0"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The new v0 brings production-ready AI coding to enterprises with git workflows, security, and real integrations. Ship faster with agents and teams."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 3, 2026
 
@@ -161,3 +159,4 @@ Welcome to the new v0. We can’t wait to see what you build.
 _Snowflake, GitHub, AWS are trademarks of their respective owners._
 
 _雪浪云（Snowflake）、GitHub、AWS 均为其各自所有者的商标。_
+{% endraw %}

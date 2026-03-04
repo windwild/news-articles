@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Understanding the source of what we see and hear online | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online"
@@ -10,6 +9,7 @@ translated: false
 description: "Today we’re introducing new technology to help researchers identify content created by our tools and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote indus..."
 tags: ["Research"]
 ---
+{% raw %}
 
 May 7, 2024
 
@@ -88,3 +88,4 @@ Our efforts around provenance are just one part of a broader industry effort –
 - [DALL·E](https://openai.com/research/index/?tags=dall-e)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
+{% endraw %}

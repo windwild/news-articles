@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How we optimized package imports in Next.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-we-optimized-package-imports-in-next-js"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How solving barrel files led to faster cold boots and build times."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 13, 2023
 
@@ -383,3 +381,4 @@ Deploy this template
 
 Next.js App Router Playground  
 Next.js App Router 交互式体验环境
+{% endraw %}

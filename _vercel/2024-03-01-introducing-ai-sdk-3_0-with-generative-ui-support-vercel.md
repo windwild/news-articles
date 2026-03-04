@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing AI SDK 3.0 with Generative UI support - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-3-generative-ui"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Stream React Components from LLMs to deliver richer user experiences"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 1, 2024
 
@@ -537,3 +535,4 @@ Try now](https://sdk.vercel.ai/demo)
 
 - Yes, with the [`createStreamableUI`](https://sdk.vercel.ai/docs/api-reference/generative-ui/create-streamable-ui) and [`createStreamableValue`](https://sdk.vercel.ai/docs/api-reference/generative-ui/create-streamable-value) primitives you can use any JavaScript library as long as you can call it during the execution of a React Server Action. This means you can build Generative UI products with tools like [LangChain](https://www.langchain.com/), [LlamaIndex](https://www.llamaindex.ai/), agent abstractions, and with durable task runners like [Inngest](https://inngest.com/).  
 - 是的，借助 [`createStreamableUI`](https://sdk.vercel.ai/docs/api-reference/generative-ui/create-streamable-ui) 和 [`createStreamableValue`](https://sdk.vercel.ai/docs/api-reference/generative-ui/create-streamable-value) 这两类基础构建单元，只要能在 React Server Action 执行过程中调用，您即可集成任意 JavaScript 库。这意味着您可以基于 [LangChain](https://www.langchain.com/)、[LlamaIndex](https://www.llamaindex.ai/)、各类 Agent 抽象层，以及 [Inngest](https://inngest.com/) 等持久化任务运行器，构建生成式 UI 产品。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "URLs are becoming consistent - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/urls-are-becoming-consistent"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 20, 2021
 
@@ -29,3 +27,4 @@ Jan 20, 2021
 - 类似 `project.team.vercel.app` 的 **自动项目 URL（Automatic Project URLs）**，以及类似 `project-user.team.vercel.app` 的 **自动团队成员 URL（Automatic Team Member URLs）**，其调整方式将与自动分支 URL 一致。
 
 我们建议：**切勿在生产环境（Production）中依赖任何自动 URL**，而应改用 [自定义域名（Custom Domains）](https://vercel.com/docs/custom-domains)。若无法使用自定义域名，请确保所有向这些 URL 发起请求的程序均支持 HTTP 308 重定向（如同现代浏览器那样）。
+{% endraw %}

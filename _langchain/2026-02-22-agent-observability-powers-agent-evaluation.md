@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Agent Observability Powers Agent Evaluation"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/agent-observability-powers-agent-evaluation/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can't build reliable agents without understanding how they reason, and you can't validate improvements without systematic evaluation."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **TL;DR**
 
@@ -527,3 +525,4 @@ LangSmith 帮助团队观测、评估和部署智能体（agents）。
 Sign up for free [here](https://smith.langchain.com/?ref=blog.langchain.com).
 
 免费注册，请点击[此处](https://smith.langchain.com/?ref=blog.langchain.com)。
+{% endraw %}

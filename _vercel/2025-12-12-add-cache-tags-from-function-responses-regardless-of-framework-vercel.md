@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Add cache tags from Function responses, regardless of framework - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/add-cache-tags-from-function-responses-regardless-of-framework"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now add tag(s) to cached responses from serverless functions using `addCacheTag()` and later invalidate the cache associated with these tag(s) using `invalidateByTag()`."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 12, 2025
 
@@ -33,3 +31,4 @@ Dec 12, 2025
 **所有套餐及所有框架均支持此功能。**
 
 了解更多关于[缓存失效（缓存清除）](https://vercel.com/docs/edge-cache/purge#understanding-cache-purging)的信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Workflow Builder: Build your own workflow automation platform - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/workflow-builder-build-your-own-workflow-automation-platform"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Workflow Builder is a free, open-source template, powered by Next.js and the Workflow DevKit, that helps you build workflow builder applications and agents."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 24, 2025
 
@@ -113,3 +111,4 @@ With Workflow Builder, you have the foundation to build your own workflow automa
 - **Data pipelines**: Design ETL or data processing pipelines with visual monitoring and execution tracking
 
 - **数据管道**：使用可视化监控与执行追踪功能，设计 ETL 或数据处理流水线
+{% endraw %}

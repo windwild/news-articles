@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI appoints Scott Schools as Chief Compliance Officer | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/openai-chief-compliance-officer-announcement"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI appoints Scott Schools as Chief Compliance Officer"
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 October 22, 2024
 
@@ -35,3 +35,4 @@ With decades of legal experience spanning both the public and private sectors, S
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

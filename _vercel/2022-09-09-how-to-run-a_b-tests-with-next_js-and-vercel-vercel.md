@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How to run A/B tests with Next.js and Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ab-testing-with-nextjs-and-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to run A/B tests with Next.js and Vercel Edge Middleware."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 9, 2022
 
@@ -607,3 +605,4 @@ This prompted us to add a few WordPress templates before releasing the Templates
 Check out our [Templates Marketplace](https://vercel.com/templates) today to jumpstart your app development process with our pre-built solutions.
 
 欢迎立即访问我们的 [Templates Marketplace](https://vercel.com/templates)，借助我们预构建的解决方案，快速启动您的应用开发流程。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "What is Edge Runtime | Edge Runtime"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-edge-runtime"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Edge Runtime is a toolkit for developing, testing, and defining the runtime Web APIs for Edge infrastructure."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Introduction
 
@@ -77,3 +75,4 @@ Get started using Edge Runtime:
 
 [Getting Started](https://edge-runtime.vercel.app/getting-started "Getting Started")  
 [入门指南](https://edge-runtime.vercel.app/getting-started "入门指南")
+{% endraw %}

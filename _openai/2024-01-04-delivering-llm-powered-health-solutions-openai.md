@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Delivering LLM-powered health solutions | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/whoop"
@@ -10,6 +9,7 @@ translated: false
 description: "WHOOP delivers personalized fitness and health coaching with GPT-4."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # WHOOP
@@ -69,3 +69,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIDec 14, 2023](https://openai.com/index/summer-health/)
 
 Delivering LLM-powered health solutions \| OpenAI
+{% endraw %}

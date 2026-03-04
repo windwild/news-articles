@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Model Distillation in the API | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/api-model-distillation"
@@ -10,6 +9,7 @@ translated: false
 description: "Fine-tune a cost-efficient model with the outputs of a large frontier model–all on the OpenAI platform"
 tags: ["Product"]
 ---
+{% raw %}
 
 October 1, 2024
 
@@ -92,3 +92,4 @@ For more information, check out our [Model Distillation docs⁠(opens in a new w
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

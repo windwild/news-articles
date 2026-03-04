@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Detecting misbehavior in frontier reasoning models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/chain-of-thought-monitoring"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: " Frontier reasoning models exploit loopholes when given the chance. We show we can detect exploits using an LLM to monitor their chains-of-thought. Penalizing their “bad thoughts” doesn’t stop t..."
 ---
+{% raw %}
 
 March 10, 2025
 
@@ -190,3 +190,4 @@ Chain-of-thought monitoring is already useful—it’s not just a speculative to
 Not long ago, language models struggled to produce a coherent paragraph of text. Today, they can solve complex mathematical problems, thoroughly research topics by synthesizing information from numerous disparate sources, and carry out basic software engineering tasks. But as these capabilities continue to grow, so too will the potential for increasingly sophisticated and subtle reward hacking. Our models may learn misaligned behaviors such as power-seeking, sandbagging, deception, and strategic scheming.
 
 We believe that chain-of-thought (CoT) monitoring may be one of the few effective methods we have for supervising superhuman models. At this stage, we strongly recommend that AI developers training frontier reasoning models refrain from applying strong supervision directly to CoTs. Our experiments show that light optimization pressure can produce more performant and aligned models; however, it will be hard to measure in practice when models begin hiding their intent, and so even if light supervision is used, we recommend treading with extreme caution.
+{% endraw %}

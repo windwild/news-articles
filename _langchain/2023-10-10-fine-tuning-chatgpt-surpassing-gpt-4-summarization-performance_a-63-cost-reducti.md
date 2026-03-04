@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Fine-tuning ChatGPT: Surpassing GPT-4 Summarization Performance–A 63% Cost Reduction and 11x Speed Enhancement using Synthetic Data and LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/fine-tuning-chatgpt-surpassing-gpt-4-summarization/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:38:29.488713396+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written by [_Charlie George_](https://twitter.com/__Charlie_G?ref=blog.langchain.com), machine learning engineer at [_Elicit_](https://elicit.com/?ref=blog.langchain.com)._
 
@@ -126,3 +124,4 @@ Utilizing automated human-level evaluation in LangChain, particularly with the r
 In conclusion, fine-tuning ChatGPT using synthetic data exhibits great potential in yielding high-performing yet fast and cost-effective language models. This approach opens pathways for the next generation of AI-first apps to scale millions of users while maintaining performance.
 
 综上所述，利用合成数据对 ChatGPT 进行微调，展现出巨大潜力：既能获得高性能，又兼具低延迟与低成本优势。这一方法为下一代以 AI 为先（AI-first）的应用铺平道路，使其得以服务数百万用户，同时持续保障性能水准。
+{% endraw %}

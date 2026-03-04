@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Announcing OpenAI’s Bug Bounty Program | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/bug-bounty-program"
@@ -10,6 +9,7 @@ translated: false
 description: "This initiative is essential to our commitment to develop safe and advanced AI. As we create technology and services that are secure, reliable, and trustworthy, we need your help."
 tags: ["Safety"]
 ---
+{% raw %}
 
 April 11, 2023
 
@@ -49,3 +49,4 @@ Interested in contributing further? We’re hiring—explore open [security role
 
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

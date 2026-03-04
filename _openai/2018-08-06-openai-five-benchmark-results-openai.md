@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Five Benchmark: Results | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-five-benchmark-results"
@@ -10,6 +9,7 @@ translated: false
 description: "Yesterday, OpenAI Five won a best-of-three against a team of 99.95th percentile Dota players: Blitz, Cap, Fogged, Merlini, and MoonMeander—four of whom have played Dota professionally—in fr..."
 tags: ["Research"]
 ---
+{% raw %}
 
 August 6, 2018
 
@@ -107,3 +107,4 @@ These results give us confidence in moving to the next phase of this project: pl
 
 1. A
 We revised these numbers after a more rigorous analysis (4/14/19)
+{% endraw %}

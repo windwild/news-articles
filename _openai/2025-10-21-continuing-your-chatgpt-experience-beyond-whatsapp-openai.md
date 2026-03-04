@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Continuing your ChatGPT experience beyond WhatsApp | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/chatgpt-whatsapp-transition"
@@ -10,6 +9,7 @@ translated: false
 description: "ChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn how to link your ChatGPT account and continue your conversations across devices."
 tags: ["Product"]
 ---
+{% raw %}
 
 October 21, 2025
 
@@ -42,3 +42,4 @@ If you need help, please visit our [Help Center⁠(opens in a new window)](https
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

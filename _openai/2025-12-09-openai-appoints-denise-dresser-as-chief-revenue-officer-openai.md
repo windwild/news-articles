@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI appoints Denise Dresser as Chief Revenue Officer  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-appoints-denise-dresser"
@@ -10,6 +9,7 @@ translated: false
 description: "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-d..."
 tags: ["Company"]
 ---
+{% raw %}
 
 December 9, 2025
 
@@ -41,3 +41,4 @@ Denise Dresser, Chief Revenue Officer
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

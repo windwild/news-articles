@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Emergent introspective awareness in large language models"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/introspection"
@@ -9,8 +8,7 @@ translated: true
 description: "Research from Anthropic on the ability of large language models to introspect"
 tags: ["Interpretability"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Interpretability
 
@@ -363,3 +361,4 @@ Finally, we need to develop methods to validate introspective reports and detect
 
 We expect that understanding machine introspection and its limitations will become more important as models become more capable.  
 我们预期，随着大语言模型能力的持续增强，理解机器内省及其局限性将变得愈发重要。
+{% endraw %}

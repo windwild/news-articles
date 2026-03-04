@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Declaring feature flags in code - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/declaring-feature-flags-in-code"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 23, 2024
 
@@ -95,3 +93,4 @@ export const showSummerSale = flag<boolean>({
 [Check out our documentation](https://vercel.com/docs/workflow-collaboration/feature-flags/flags-pattern-nextjs) to learn more.
 
 请参阅我们的[文档](https://vercel.com/docs/workflow-collaboration/feature-flags/flags-pattern-nextjs)以了解更多信息。
+{% endraw %}

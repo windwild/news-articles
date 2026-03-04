@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enhanced security with new API scopes for integrations - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-security-with-new-api-scopes-for-integrations"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 6, 2022
 
@@ -31,3 +29,4 @@ All new integrations are required to select which API scopes they need access to
 Check out [the documentation](https://vercel.com/docs/integrations/reference#using-the-vercel-api/scopes) as well.
 
 也欢迎查阅 [相关文档](https://vercel.com/docs/integrations/reference#using-the-vercel-api/scopes)。
+{% endraw %}

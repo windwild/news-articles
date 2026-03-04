@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Reducing bias and improving safety in DALL·E 2 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/reducing-bias-and-improving-safety-in-dall-e-2"
@@ -10,6 +9,7 @@ translated: false
 description: "Today, we are implementing a new technique so that DALL·E generates images of people that more accurately reflect the diversity of the world’s population."
 tags: ["Product"]
 ---
+{% raw %}
 
 July 18, 2022
 
@@ -50,3 +50,4 @@ Expanding access is an important part of our [deploying AI systems responsibly�
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2022](https://openai.com/news/?tags=2022)
+{% endraw %}

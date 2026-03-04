@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "MuseNet | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/musenet"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve created MuseNet, a deep neural network that can generate 4-minute musical compositions with 10 different instruments, and can combine styles from country to Mozart to the Beatles. MuseNet was ..."
 tags: ["Research"]
 ---
+{% raw %}
 
 April 25, 2019
 
@@ -175,3 +175,4 @@ PublicationApr 13, 2022](https://openai.com/index/hierarchical-text-conditional-
 MilestoneFeb 2, 2022](https://openai.com/index/formal-math/)
 
 MuseNet \| OpenAI
+{% endraw %}

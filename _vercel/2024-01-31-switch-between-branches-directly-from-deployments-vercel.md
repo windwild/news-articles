@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Switch between branches directly from deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/switch-between-branches-directly-from-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 31, 2024
 
@@ -29,3 +27,4 @@ Access the command menu through the toolbar or `⌘K` (`Ctrl+K` on Windows) a
 Learn more about the [command menu](https://vercel.com/docs/workflow-collaboration/vercel-toolbar#using-the-command-menu) and other features of the toolbar.
 
 了解更多关于 [命令菜单](https://vercel.com/docs/workflow-collaboration/vercel-toolbar#using-the-command-menu) 及工具栏其他功能的信息。
+{% endraw %}

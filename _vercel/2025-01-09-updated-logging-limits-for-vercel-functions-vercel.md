@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Updated logging limits for Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/updated-logging-limits-for-vercel-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The runtime log limits for Vercel Functions have been increased, allowing for significantly larger log entries. Logs are increased to 256KB per log line, 256 log lines per request, and 1MB total log s..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 9, 2025
 
@@ -27,3 +25,4 @@ Jan 9, 2025
 - **单次请求的总日志大小：** 每次请求中所有日志行的总和最多为 1 MB。
 
 了解更多关于日志的信息，请参阅 [我们的文档](https://vercel.com/docs/observability/runtime-logs)。
+{% endraw %}

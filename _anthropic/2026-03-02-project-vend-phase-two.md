@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Project Vend: Phase two"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/project-vend-2"
@@ -9,8 +8,7 @@ translated: true
 description: "How Claude turned around its failing vending machine business"
 tags: ["Policy"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Policy
 
@@ -417,3 +415,4 @@ As society begins to plug AI models into more and more important functions, desi
 Project Vend wouldn’t exist without our partners at [Andon Labs](https://andonlabs.com/), who built the hardware and software infrastructure behind the operation and kept our fridges and shelves stocked. We’re also very grateful to Keir Bradwell and Allison Lattanzio for doing the same in their respective offices, and to Amritha Kini and Ryan O’Holleran for some sales advice.
 
 若无我们在 [Andon Labs](https://andonlabs.com/) 的合作伙伴——他们构建了项目运营所需的软硬件基础设施，并持续保障我们的冰箱与货架补货充足——Project Vend 将不复存在。我们同样由衷感谢 Keir Bradwell 与 Allison Lattanzio 在各自办公室中提供的同等支持，也感谢 Amritha Kini 和 Ryan O’Holleran 提供的销售建议。
+{% endraw %}

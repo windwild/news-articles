@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Chat-Your-Data Challenge"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/chat-your-data-challenge/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:34:48.353447041+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ChatGPT has taken the world by storm. Millions are using it. But while it’s great for general purpose knowledge, it only knows information about what it has been trained on, which is pre-2021 generally available internet data. It doesn’t know about your private data, it doesn’t know about recent sources of data.
 
@@ -177,3 +175,4 @@ A limited edition LangChain t-shirt.
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
+{% endraw %}

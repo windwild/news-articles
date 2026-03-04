@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved performance for Vercel Postgres from Edge Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-performance-for-vercel-postgres-from-edge-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The @vercel/postgres package has been updated to use the latest version of Neon’s Serverless driver which adds support for SQL-over-HTTP"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 27, 2023
 
@@ -33,3 +31,4 @@ The `@vercel/postgres` package has been updated to use the latest version of Neo
 You do not need to make any changes to your queries to see these improvements, you only need to update to [the latest version of `@vercel/postgres`](https://www.npmjs.com/package/@vercel/postgres/v/0.4.0) to take advantage of these improvements.
 
 您无需修改现有查询代码即可享受上述性能提升；只需将依赖升级至 [`@vercel/postgres`](https://www.npmjs.com/package/@vercel/postgres/v/0.4.0) 的最新版本，即可启用这些优化。
+{% endraw %}

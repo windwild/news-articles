@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-5 lowers the cost of cell-free protein synthesis | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost"
@@ -10,8 +9,7 @@ translated: true
 description: "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation."
 tags: ["Research"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 5, 2026
 
@@ -197,3 +195,4 @@ We’re grateful to our partners at Ginkgo Bioworks and the teams who helped des
 
 - [Science](https://openai.com/news/?tags=science)  
 - [科学](https://openai.com/news/?tags=science)
+{% endraw %}

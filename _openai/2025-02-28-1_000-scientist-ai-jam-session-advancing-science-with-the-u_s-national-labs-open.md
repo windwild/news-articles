@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "1,000 Scientist AI Jam Session: Advancing science with the U.S. national labs | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/1000-scientist-ai-jam-session"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and nine national labs bring together leading scientists for first-of-its kind event."
 ---
+{% raw %}
 
 February 28, 2025
 
@@ -39,3 +39,4 @@ This event builds on the long-standing tradition of U.S. government collaboratio
 Last month, [OpenAI announced an agreement](https://openai.com/index/strengthening-americas-ai-leadership-with-the-us-national-laboratories/) with the National Labs to deploy an o-series reasoning model to accelerate breakthroughs in materials science, renewable energy, astrophysics, and more. We also [partnered with Los Alamos National Laboratory](https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together/) to study how multimodal AI models can be used safely by scientists in laboratory settings to advance bioscientific research.
 
 We appreciate the partnership of the Department of Energy and national labs to strengthen U.S. leadership in AI and science, and look forward to continued collaboration in laying the foundation for sustained innovation in AI-powered scientific discovery.
+{% endraw %}

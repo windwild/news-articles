@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Growthbook joins the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/growthbook-joins-the-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Add feature flags and A/B testing to your Vercel projects with GrowthBook, now available on the Vercel Marketplace."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 24, 2025
 
@@ -29,3 +27,4 @@ Jul 24, 2025
 - 借助 GrowthBook 原生支持数据仓库的 A/B 测试平台，接入您自有数据源  
 
 [探索该模板](https://vercel.com/new/builds/templates/next.js/growthbook-flags-sdk-example)，查看并一键部署示例项目，享受一键式配置与统一账单管理。
+{% endraw %}

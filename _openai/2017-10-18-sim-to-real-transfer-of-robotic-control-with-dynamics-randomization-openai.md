@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sim-to-real transfer of robotic control with dynamics randomization | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 October 18, 2017
 
@@ -27,3 +27,4 @@ Simulations are attractive environments for training agents as they provide an a
 
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
+{% endraw %}

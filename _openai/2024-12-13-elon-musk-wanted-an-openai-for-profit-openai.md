@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Elon Musk wanted an OpenAI for-profit | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/elon-musk-wanted-an-openai-for-profit"
@@ -10,8 +9,7 @@ translated: true
 description: "Elon Musk’s latest legal filing against OpenAI marks his fourth attempt in less than a year to reframe his claims. However, his own words and actions speak for themselves—in 2017, Elon not only wa..."
 tags: ["Company"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 December 13, 2024
 
@@ -1313,3 +1311,4 @@ On March 22, 2023, Elon co-signed an [open letter⁠(opens in a new window)](htt
 - [2024](https://openai.com/news/?tags=2024)
 
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

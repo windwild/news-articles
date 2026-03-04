@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Incremental Static Regeneration (ISR): A flexible way to cache dynamic content - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/isr-a-flexible-way-to-cache-dynamic-content"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Explore how Incremental Static Regeneration (ISR) enhances your caching strategy. Learn its benefits, implementation across frameworks, and real-world applications. Optimize performance with this hybr..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 16, 2024
 
@@ -651,3 +649,4 @@ ISR 是一种强大的混合缓存策略，可为现代 Web 应用带来更优�
 To get started with ISR on Vercel, check out our [ISR template](https://vercel.com/templates/next.js/on-demand-incremental-static-regeneration) for a hands-on experience.
 
 如需在 Vercel 上快速开始使用 ISR，请查看我们的 [ISR 模板](https://vercel.com/templates/next.js/on-demand-incremental-static-regeneration)，亲自动手实践。
+{% endraw %}

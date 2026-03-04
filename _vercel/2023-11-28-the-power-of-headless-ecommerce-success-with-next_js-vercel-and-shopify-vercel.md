@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The power of headless: Ecommerce success with Next.js, Vercel, and Shopify - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/commerceui-headless-shopify-nextjs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Commerce-UI helps designer ecommerce brands deliver a world-class experience to their online users."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 28, 2023
 
@@ -149,3 +147,4 @@ Talk with Us](https://vercel.com/contact/sales)
 我们的专家团队可深入分析您团队的具体使用场景，并为您量身定制最优解决方案。\\
 \\
 立即联系我们](https://vercel.com/contact/sales)
+{% endraw %}

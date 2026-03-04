@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Jimdo empower solopreneurs with AI-powered business assistance"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-jimdo/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how Jimdo uses LangChain.js, LangGraph.js, and LangSmith to deliver personalized business insights that drive 50% more first customer contacts and 40% more overall customer activity."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ## **About Jimdo**
 
@@ -220,3 +218,4 @@ The goal: transform every login into concrete business value with dramatically l
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 分钟阅读
 
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 分钟阅读
+{% endraw %}

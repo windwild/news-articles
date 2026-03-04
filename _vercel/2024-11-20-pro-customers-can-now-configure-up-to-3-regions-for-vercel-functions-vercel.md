@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Pro customers can now configure up to 3 regions for Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/pro-customers-can-now-configure-up-to-3-regions-for-vercel-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 20, 2024
 
@@ -43,3 +41,4 @@ vercel.json file with three regions configured
 Redeploy your project for the changes to take effect. Learn more about [configuring regions](https://vercel.com/docs/functions/configuring-functions/region#project-configuration).
 
 请重新部署您的项目，使更改生效。了解更多关于[配置区域](https://vercel.com/docs/functions/configuring-functions/region#project-configuration)的信息。
+{% endraw %}

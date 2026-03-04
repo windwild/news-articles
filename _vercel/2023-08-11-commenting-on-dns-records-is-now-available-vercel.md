@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Commenting on DNS records is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/commenting-on-dns-records-is-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 11, 2023
 
@@ -31,3 +29,4 @@ New records created by an Email Preset will include a comment explaining why a r
 [Check out our documentation](https://vercel.com/docs/concepts/projects/domains/managing-dns-records) to learn more about DNS records.
 
 [查看我们的文档](https://vercel.com/docs/concepts/projects/domains/managing-dns-records)，深入了解 DNS 记录。
+{% endraw %}

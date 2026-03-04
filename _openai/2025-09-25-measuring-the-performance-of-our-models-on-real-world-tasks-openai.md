@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Measuring the performance of our models on real-world tasks  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gdpval"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations."
 tags: ["Publication"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 September 25, 2025
 
@@ -471,3 +469,4 @@ Community participation is essential—we’re excited to build GDPval together 
 
 - [2025](https://openai.com/research/index/?tags=2025)  
 - [2025](https://openai.com/research/index/?tags=2025)
+{% endraw %}

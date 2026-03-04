@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Genmab launches “AI Everywhere”  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/genmab"
@@ -10,6 +9,7 @@ translated: false
 description: "Genmab embraces ChatGPT Enterprise, supported by OpenAI’s commitment to security and privacy"
 tags: ["Story"]
 ---
+{% raw %}
 
 [ChatGPT](https://openai.com/stories/chatgpt/) [API](https://openai.com/stories/api/)
 
@@ -78,3 +78,4 @@ AI is poised to become even more integral to the biopharmaceutical industry wher
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

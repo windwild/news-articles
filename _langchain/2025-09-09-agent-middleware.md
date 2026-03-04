@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Agent Middleware"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/agent-middleware/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:28:16.141483026+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _LangChain has had agent abstractions for nearly three years. There are now probably 100s of agent frameworks with the same core abstraction. They all suffer from the same downsides that the original LangChain agents suffered from: they do not give the developer enough control over context engineering when needed, leading to developers graduating off of the abstraction for any non-trivial use case. In LangChain 1.0 we are introducing a new agent abstraction (_ [_`Middleware`_](https://docs.langchain.com/oss/python/langchain/middleware?ref=blog.langchain.com) _) which we think solves this._
 
@@ -177,3 +175,4 @@ Try it in Python: `pip install --pre -U langchain`
 Try it in JavaScript: `npm install langchain@next`
 
 在 JavaScript 中试用：`npm install langchain@next`
+{% endraw %}

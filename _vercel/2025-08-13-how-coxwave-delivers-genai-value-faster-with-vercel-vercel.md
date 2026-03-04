@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Coxwave delivers GenAI value faster with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-coxwave-delivers-genai-value-faster-with-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Coxwave's journey to cutting deployment times by 85% and building AI-native products faster with Vercel"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 13, 2025
 
@@ -158,3 +156,4 @@ Talk to an expert to learn how you can make your website faster and more reliabl
 
 Contact Sales](https://vercel.com/contact/sales)  
 联系销售](https://vercel.com/contact/sales)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deploy Slack's Bolt.js to Vercel with @vercel/slack-bolt - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/build-slack-agents-with-vercel-slack-bolt"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Deploy your Slack agent to Vercel's AI Cloud using @vercel/slack-bolt to take advantage of AI Gateway, Fluid compute, and more."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 27, 2025
 
@@ -144,3 +142,4 @@ Deploy Now](https://vercel.com/templates/ai/slack-agent-template)
 Get started with our [Slack Agent Template](https://vercel.com/templates/ai/slack-agent-template) today or [visit the library on npm](https://www.npmjs.com/package/@vercel/slack-bolt).
 
 今天就通过我们的 [Slack 代理模板](https://vercel.com/templates/ai/slack-agent-template) 快速上手，或 [访问 npm 上的库](https://www.npmjs.com/package/@vercel/slack-bolt)。
+{% endraw %}

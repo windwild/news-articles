@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Yarn 2+ dependency caching now supported - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/yarn-2-dependency-caching-now-supported"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's build cache now supports Yarn 2+ dependencies. Previously, dependencies were only cached for npm, pnpm, and Yarn 1."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 31, 2025
 
@@ -33,3 +31,4 @@ If you're using Yarn 4, [enable Corepack](https://vercel.com/docs/builds/configu
 Visit [the Build Cache documentation](https://vercel.com/docs/deployments/troubleshoot-a-build#understanding-build-cache) to learn more.
 
 请访问 [构建缓存文档](https://vercel.com/docs/deployments/troubleshoot-a-build#understanding-build-cache)，了解更多信息。
+{% endraw %}

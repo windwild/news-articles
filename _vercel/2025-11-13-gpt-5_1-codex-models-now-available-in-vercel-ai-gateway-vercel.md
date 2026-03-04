@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT 5.1 Codex models now available in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gpt-5-1-codex-models-now-available-in-vercel-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access the two GPT 5.1 Codex models with Vercel's AI Gateway with no other provider accounts required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 13, 2025
 
@@ -69,3 +67,4 @@ View the leaderboard](https://vercel.com/ai-gateway/leaderboards)
 AI Gateway 模型排行榜依据所有经由网关的流量所产生的总 Token 量，对各模型在一段时间内的使用热度进行排序。榜单定期更新。\\
 \\
 查看排行榜](https://vercel.com/ai-gateway/leaderboards)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Moving AI governance forward | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/moving-ai-governance-forward"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI and other leading labs reinforce AI safety, security and trustworthiness through voluntary commitments."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 July 21, 2023
 
@@ -87,3 +87,4 @@ _You can read the White House fact sheet_ [_here_ ⁠(opens in a new window)](ht
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Framework](https://openai.com/news/?tags=framework)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

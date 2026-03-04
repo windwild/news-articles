@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Recraft image models now on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/recraft-image-models-now-on-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access image models from Recraft in Vercel AI Gateway with no other provider accounts required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 19, 2026
 
@@ -59,3 +57,4 @@ View the leaderboard](https://vercel.com/ai-gateway/leaderboards)
 AI Gateway 模型排行榜依据所有经由 Gateway 的流量所产生的总 Token 数量，对各模型的历史使用频次进行排序。榜单定期更新。\\
 \\
 查看排行榜](https://vercel.com/ai-gateway/leaderboards)
+{% endraw %}

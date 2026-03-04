@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Bridging the gap between design and code with v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/bridging-the-gap-between-design-and-code-with-v0"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Understanding how the team at Speakeasy uses v0 to ship faster with features like Figma import and custom Tailwind config. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 12, 2025
 
@@ -86,3 +84,4 @@ Ready to experience the power of v0 in your day-to-day?
 \\  
 Get started  
 立即开始](https://v0.app/)
+{% endraw %}

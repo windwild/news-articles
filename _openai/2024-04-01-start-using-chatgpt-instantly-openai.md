@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Start using ChatGPT instantly | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/start-using-chatgpt-instantly"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re making it easier for people to experience the benefits of AI without needing to sign up"
 tags: ["Product"]
 ---
+{% raw %}
 
 April 1, 2024
 
@@ -61,3 +61,4 @@ PublicationJan 31, 2024](https://openai.com/index/building-an-early-warning-syst
 SafetyDec 14, 2023](https://openai.com/index/weak-to-strong-generalization/)
 
 Start using ChatGPT instantly \| OpenAI
+{% endraw %}

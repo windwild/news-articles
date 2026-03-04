@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "v0 plans for teams are here - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/v0-plans-for-teams"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing v0 Team and Enterprise plans—designed for secure and efficient collaboration. Team can share Projects, chats, and resources with higher messaging limits. Enterprises can secure access wi..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 15, 2024
 
@@ -102,3 +100,4 @@ To get started with v0 Enterprise, contact our team for a demo.
 
 Book a demo](https://vercel.com/contact/sales/v0-enterprise)  
 预约演示](https://vercel.com/contact/sales/v0-enterprise)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Reflections on Three Years of Building LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/three-years-langchain/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes", "![Deep Agents", "**Deep Agents**"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _by Harrison Chase_
 
@@ -235,3 +233,4 @@ LangSmith 的核心功能一直是可观测性（observability）和评估（eva
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 3 分钟阅读
 
 [Harrison 的热评](https://blog.langchain.com/tag/in-the-loop/) 3 分钟阅读
+{% endraw %}

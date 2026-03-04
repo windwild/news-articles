@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Evaluating feature steering: A case study in mitigating social biases \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/evaluating-feature-steering"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A new piece of Anthropic research by Durmus et al.: \"Evaluating feature steering: A case study in mitigating social biases\""
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Societal Impacts  
 社会影响  
@@ -329,3 +327,4 @@ Appendices are available [at this link](https://assets.anthropic.com/m/6a464113e
 
 - Appendix 4: How does feature steering compare to prompting? (Tables A3-A8).  
 - 附录 4：特征引导（feature steering）与提示工程（prompting）的对比效果如何？（表 A3–A8）。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New usage dashboard for Pro customers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-usage-dashboard-for-pro-customers"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We’ve launched a new usage dashboard for Pro teams to analyze Vercel usage and costs with detailed breakdowns and export options."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 3, 2025
 
@@ -27,3 +25,4 @@ Pro 团队现在可以访问一个[全新的用量仪表板](https://vercel.com/
 - **CSV 导出**：支持将数据导出为 CSV 格式，便于通过集成至您的成本可观测性工具或电子表格中进行外部分析  
 
 立即体验[全新仪表板](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fusage&title=Go%20to%20the%20new%20usage%20dashboard)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Speed Insights usage can now be viewed by Project - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/speed-insights-usage-can-now-be-viewed-by-project"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Speed Insights usage can now be viewed by Project"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 7, 2025
 
@@ -25,3 +23,4 @@ You can now view your Speed Insights traffic broken down by project in the [Usag
 Learn more about [Speed Insights](https://vercel.com/docs/speed-insights).
 
 了解更多关于 [Speed Insights](https://vercel.com/docs/speed-insights) 的信息。
+{% endraw %}

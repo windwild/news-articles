@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Addendum to GPT-5 System Card: Sensitive conversations | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-system-card-sensitive-conversations"
@@ -10,6 +9,7 @@ translated: false
 description: "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance."
 tags: ["Safety"]
 ---
+{% raw %}
 
 October 27, 2025
 
@@ -29,3 +29,4 @@ We are publishing a related [blog post⁠](https://openai.com/index/strengthenin
 - [Ethics & Safety](https://openai.com/news/?tags=ethics-safety)
 - [GPT](https://openai.com/news/?tags=gpt)
 - [System Cards](https://openai.com/news/?tags=system-cards)
+{% endraw %}

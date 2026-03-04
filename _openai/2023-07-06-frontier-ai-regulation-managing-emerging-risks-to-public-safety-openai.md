@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Frontier AI regulation: Managing emerging risks to public safety | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/frontier-ai-regulation"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 July 6, 2023
 
@@ -68,3 +68,4 @@ PublicationJan 31, 2024](https://openai.com/index/building-an-early-warning-syst
 SafetyJan 16, 2024](https://openai.com/index/democratic-inputs-to-ai-grant-program-update/)
 
 Frontier AI regulation: Managing emerging risks to public safety \| OpenAI
+{% endraw %}

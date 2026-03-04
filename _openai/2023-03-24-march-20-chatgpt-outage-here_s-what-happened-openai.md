@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "March 20 ChatGPT outage: Here’s what happened | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/march-20-chatgpt-outage"
@@ -10,6 +9,7 @@ translated: false
 description: "An update on our findings, the actions we’ve taken, and technical details of the bug."
 tags: ["Company"]
 ---
+{% raw %}
 
 March 24, 2023
 
@@ -72,3 +72,4 @@ The Redis open-source maintainers have been fantastic collaborators, swiftly add
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

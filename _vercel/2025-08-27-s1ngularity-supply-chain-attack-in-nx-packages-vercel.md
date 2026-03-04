@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "s1ngularity: supply chain attack in Nx packages - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/s1ngularity-supply-chain-attack-in-nx-packages"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A critical vulnerability was published in Nx and some of its supporting libraries. Vercel builds are safe from this vulnerability by default."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 27, 2025
 
@@ -73,3 +71,4 @@ Additionally, we've notified a small number of users who installed one or more o
 - [GitHub advisory from Nx](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
 
 - [Nx 团队发布的 GitHub 安全通告](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
+{% endraw %}

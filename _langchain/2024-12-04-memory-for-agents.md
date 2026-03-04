@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Memory for agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/memory-for-agents/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _在三月举行的红杉资本（Sequoia）AI Ascend 大会上，我谈到了智能体（agents）的三大局限性：规划（planning）、用户体验（UX）和记忆（memory）。欢迎观看该演讲_ [_此处_](https://www.youtube.com/watch?v=pBBe1pk8hf4&ref=blog.langchain.com) _。本文将深入探讨“记忆”这一主题。关于“规划”的上一篇博文请见_ [_此处_](https://blog.langchain.com/planning-for-agents/) _；关于“用户体验”的系列文章请分别参阅_ [_第一篇_](https://blog.langchain.com/ux-for-agents-part-1-chat-2/) _、_ [_第二篇_](https://blog.langchain.com/ux-for-agents-part-2-ambient/) _和_ [_第三篇_](https://blog.langchain.com/ux-for-agents-part-3/) _。_
 
@@ -258,3 +256,4 @@ We’ve even built [a few applications of our own](https://github.com/langchain-
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 min read
 
 [Harrison 的热点评论](https://blog.langchain.com/tag/in-the-loop/) 阅读时长：4 分钟
+{% endraw %}

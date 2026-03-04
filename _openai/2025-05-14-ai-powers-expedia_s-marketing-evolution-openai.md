@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI powers Expedia’s marketing evolution | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/expedia-jochen-koedijk"
@@ -10,6 +9,7 @@ translated: false
 description: "A conversation with Jochen Koedijk, Chief Marketing Officer of Expedia Group."
 tags: ["API"]
 ---
+{% raw %}
 
 May 14, 2025
 
@@ -96,3 +96,4 @@ _Expedia Group uses OpenAI APIs to automate the process of identifying and corre
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Travel](https://openai.com/stories/?tags=industry-travel)
 - [Services](https://openai.com/stories/?tags=industry-services)
+{% endraw %}

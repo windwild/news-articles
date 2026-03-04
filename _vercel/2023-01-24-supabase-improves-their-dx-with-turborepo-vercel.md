@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Supabase improves their DX with Turborepo - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-supabase-elevated-their-developer-experience-with-turborepo"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Supabase and Turborepo"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 24, 2023
 
@@ -45,3 +43,4 @@ Supabase 的开发者还充分利用 [Vercel 预览部署（Preview Deployments�
 **If you’d like to experience how Turborepo and Vercel can improve your own developer experience,** [**get in touch**](https://vercel.com/contact) **.**
 
 **如果您希望亲身体验 Turborepo 和 Vercel 如何提升您自身的开发体验，**[**请联系我们**](https://vercel.com/contact)**。**
+{% endraw %}

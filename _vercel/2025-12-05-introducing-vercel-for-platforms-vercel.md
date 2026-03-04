@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Vercel for Platforms - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-vercel-for-platforms"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We're launching Vercel for Platforms, a comprehensive solution for building multi-customer platforms."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 5, 2025
 
@@ -149,3 +147,4 @@ Today we are also introducing [Platform Elements](https://vercel.com/changelog/i
 Start building with our Quickstart for [Multi-Tenant](https://vercel.com/platforms/docs/multi-tenant-platforms/quickstart) or [Multi-Project](https://vercel.com/platforms/docs/multi-project-platforms/quickstart) platform.
 
 请通过我们的快速入门指南开始构建：[多租户（Multi-Tenant）平台](https://vercel.com/platforms/docs/multi-tenant-platforms/quickstart) 或 [多项目（Multi-Project）平台](https://vercel.com/platforms/docs/multi-project-platforms/quickstart)。
+{% endraw %}

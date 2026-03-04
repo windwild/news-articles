@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Towards LangChain 0.1: LangChain-Core and LangChain-Community"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/the-new-langchain-architecture-langchain-core-v0-1-langchain-community-and-a-path-to-langchain-v0-1/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:21:01.700377577+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 The goal of LangChain has always been to make it as easy as possible to develop context-aware reasoning applications with LLMs.  
 LangChain 的目标始终是让开发者能够以最简便的方式，利用大语言模型（LLMs）构建具备上下文感知能力的推理应用。
@@ -558,3 +556,4 @@ A：您**无需强制升级**！所有这些变更均以向后兼容的方式实
 A: We will be adding instructions and a CLI to help with that over the next few days - keep an eye on the GitHub discussions for that.
 
 A：我们将在未来几天内提供相关说明及命令行工具（CLI）来协助完成此任务——请持续关注 GitHub 上的相关讨论。
+{% endraw %}

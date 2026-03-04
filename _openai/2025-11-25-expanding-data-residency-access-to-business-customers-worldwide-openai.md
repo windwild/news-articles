@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Expanding data residency access to business customers worldwide  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region."
 ---
+{% raw %}
 
 November 25, 2025
 
@@ -47,3 +47,4 @@ For the API Platform and ChatGPT business products, data remains confidential, s
 To learn more about eligibility and supported data, visit our [Help Center⁠(opens in a new window)](https://help.openai.com/en/articles/9903489-data-residency-for-chatgpt) or [contact our team](https://openai.com/contact-sales/) to discuss enabling data residency for your organization.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

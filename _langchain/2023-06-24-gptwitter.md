@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPTwitter"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/gptwitter/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:34:43.558469242+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **[Editor's Note]: This is the first of hopefully many guest posts. We intend to highlight novel applications building on top of LangChain. If you are interested in working with us on such a post, please reach out to harrison@langchain.dev.**
 
@@ -177,3 +175,4 @@ We’ll leave you with one of our favorite generated inspirational tweets below:
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
+{% endraw %}

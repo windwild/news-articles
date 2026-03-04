@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Pinecone integration now available for vector databases - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/pinecone-integration-now-available-for-vector-databases"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 16, 2024
 
@@ -29,3 +27,4 @@ This integration is available for users on all plans.
 
 [Check out the integration](https://vercel.com/integrations/pinecone) to get started.  
 [立即查看该集成](https://vercel.com/integrations/pinecone)，开始使用。
+{% endraw %}

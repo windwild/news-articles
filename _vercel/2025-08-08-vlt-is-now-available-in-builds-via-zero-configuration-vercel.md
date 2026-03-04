@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "vlt is now available in builds via zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vlt-is-now-available-in-builds-via-zero-configuration"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The package manager vlt is now available as a zero-config option, auto detected based on the presence of a lockfile in your build."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 8, 2025
 
@@ -25,3 +23,4 @@ Vercel 现在支持 `vlt` 包管理器，可在构建过程中实现零配置自
 `vlt` 运行需依赖 Node.js `20.x` 版本，且仅适用于现代版 [构建镜像](https://vercel.com/docs/builds/build-image)。
 
 了解更多关于 [Vercel 对包管理器的支持](https://vercel.com/docs/package-managers#supported-package-managers)。
+{% endraw %}

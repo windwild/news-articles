@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Technical audits: Optimizing cost, performance, and productivity - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/technical-audits"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "See what we've learned from hundreds of real-world audits—what to look for and what you can do to improve your applications."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 12, 2024
 
@@ -621,3 +619,4 @@ Nov 27, 2024
 Alina Weinstein
 
 阿莉娜·魏因斯坦
+{% endraw %}

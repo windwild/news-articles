@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Monitoring - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-monitoring"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Monitoring"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 6, 2023
 
@@ -80,3 +78,4 @@ With this suite of tools, get detailed insights into your application performanc
 If you’re on a [Pro or Enterprise plan](https://vercel.com/pricing) you can get started with Monitoring today in the [dashboard](https://vercel.com/dashboard/monitoring) or check out the [documentation](https://vercel.com/docs/concepts/observability/monitoring/overview).  
 
 若您已订阅 [Pro 或 Enterprise 套餐](https://vercel.com/pricing)，即刻前往 [仪表板（dashboard）](https://vercel.com/dashboard/monitoring) 开始使用监控（Monitoring）功能，或查阅 [相关文档](https://vercel.com/docs/concepts/observability/monitoring/overview)。
+{% endraw %}

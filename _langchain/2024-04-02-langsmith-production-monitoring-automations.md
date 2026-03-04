@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangSmith: Production Monitoring & Automations"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langsmith-production-logging-automations/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:04:24.776621843+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Key Links:**
 
@@ -192,3 +190,4 @@ You can see a detailed walkthrough [here](https://docs.smith.langchain.com/monit
 Launching an LLM application to production is just the first step. With that, you have the gift of beginning to get real user interactions and feedback. It is crucial to capture this information and then also take advantage of it. The more easily you can do that, the more quickly your application can improve. With these "Production Logging & Automations" features, we're making it as easy as possible for you to do that.  
 
 将大语言模型（LLM）应用部署至生产环境，仅仅是第一步。由此，您便拥有了获取真实用户交互与反馈的宝贵机会。及时捕获这些信息并加以有效利用，至关重要。您完成这一过程越便捷，您的应用迭代优化的速度就越快。借助这些“生产环境日志记录与自动化”功能，我们正竭尽所能，让这一切变得尽可能简单。
+{% endraw %}

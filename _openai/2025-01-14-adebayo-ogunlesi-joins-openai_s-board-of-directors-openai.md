@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Adebayo Ogunlesi Joins OpenAI’s Board of Directors | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/adebayo-ogunlesi-joins-openais-board-of-directors"
@@ -10,6 +9,7 @@ translated: false
 description: "Adebayo Ogunlesi Joins OpenAI’s Board of Directors"
 tags: ["Company"]
 ---
+{% raw %}
 
 January 14, 2025
 
@@ -39,3 +39,4 @@ Mr. Ogunlesi holds a B.A. in Politics, Philosophy and Economics from Oxford Univ
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [Community](https://openai.com/news/?tags=community)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improvements to Support Center - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvements-to-support-center"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 19, 2024
 
@@ -34,3 +32,4 @@ The Support Center now has an improved design to make it easier to understand th
 [Support Center](https://vercel.com/docs/dashboard-features/support-center) is available to Pro and Enterprise customers.
 
 [支持中心](https://vercel.com/docs/dashboard-features/support-center) 面向 Vercel Pro 和 Enterprise 计划用户开放。
+{% endraw %}

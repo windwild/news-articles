@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Turbopack updates: Moving homes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/turbopack-moving-homes"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "An update on our progress with Turbopack, details on where we’re headed, and a planned move of Turbopack to the Next.js repository."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 23, 2024
 
@@ -131,3 +129,4 @@ Current priorities for the team are:
 We look forward to continuing our work on Turbopack to help improve the development velocity of your web applications.
 
 我们期待持续推进 Turbopack 的开发工作，助力提升您 Web 应用的开发效率。
+{% endraw %}

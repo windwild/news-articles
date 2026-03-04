@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Redesigned search and filtering for runtime logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/redesigned-search-and-filtering-for-runtime-logs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Logs search bar has been redesigned with visual filter pills, smarter suggestions from your log data, and instant query validation."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 18, 2026
 
@@ -25,3 +23,4 @@ Feb 18, 2026
 - **更优的输入处理。** 搜索栏会在您键入时实时校验筛选条件，并通过工具提示（tooltip）标出错误，助您在执行搜索前及时修正拼写错误。粘贴 Vercel 请求 ID（Request ID）将自动转换为对应筛选条件。
 
 以上改进现已在您的项目仪表板中上线。了解更多关于[运行时日志](https://vercel.com/docs/observability/runtime-logs)的信息。
+{% endraw %}

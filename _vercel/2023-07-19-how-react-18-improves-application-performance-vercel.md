@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How React 18 Improves Application Performance - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-react-18-improves-application-performance"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how React 18's concurrent features like Transitions, Suspense, and React Server Components improve application performance."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 19, 2023
 
@@ -989,3 +987,4 @@ Deploy this template
 Next.js App Router Playground
 
 Next.js App Router 交互式体验 playground
+{% endraw %}

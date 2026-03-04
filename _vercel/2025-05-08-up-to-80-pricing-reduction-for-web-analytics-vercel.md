@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Up to 80% pricing reduction for Web Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/up-to-80-pricing-reduction-for-web-analytics"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Hobby and Pro teams on Vercel now have higher usage limits on Web Analytics, including reduced costs and smaller billable increments"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 8, 2025
 
@@ -45,3 +43,4 @@ Included event limits have increased:
 Learn more about [Web Analytics pricing](https://vercel.com/docs/analytics/limits-and-pricing).
 
 了解更多关于 [Web Analytics 定价](https://vercel.com/docs/analytics/limits-and-pricing) 的信息。
+{% endraw %}

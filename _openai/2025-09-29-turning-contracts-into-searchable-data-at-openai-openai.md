@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Turning contracts into searchable data at OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-contract-data-agent"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need."
 tags: ["API"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 September 29, 2025
 
@@ -156,3 +154,4 @@ The contract data Agent is a blueprint for how AI can responsibly transform regu
 [Talk with our team](https://openai.com/contact-sales/)
 
 [与我们的团队交流](https://openai.com/contact-sales/)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Automating Web Research"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/automating-web-research/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ## Key Links
 
@@ -208,3 +206,4 @@ While hosted AI search from large models like [Bard](https://bard.google.com/?re
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长 4 分钟
+{% endraw %}

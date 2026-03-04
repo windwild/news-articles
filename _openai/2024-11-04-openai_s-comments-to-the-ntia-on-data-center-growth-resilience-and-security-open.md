@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI’s comments to the NTIA on data center growth, resilience, and security  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/comments-to-the-ntia-on-data-center-growth-resilience-and-security"
@@ -10,6 +9,7 @@ translated: false
 description: "This comment was submitted in response to a request for information from the National Telecommunications and Information Administration (NTIA)."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 November 4, 2024
 
@@ -36,3 +36,4 @@ OpenAI recently engaged outside experts to forecast potential job gains and GDP 
 These numbers highlight the importance of getting data center policy right. To that end, we provide the following feedback to help policymakers invest in AI infrastructure growth, resilience and security.
 
 Read OpenAI’s full comment letter [here⁠(opens in a new window)](https://cdn.openai.com/global-affairs/final-ntia-request-for-comments-on-bolstering-data-center-growth-resilience-and-security.pdf).
+{% endraw %}

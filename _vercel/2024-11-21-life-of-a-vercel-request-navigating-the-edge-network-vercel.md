@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Life of a Vercel request: Navigating the Edge Network - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/life-of-a-vercel-request-navigating-the-edge-network"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Unpacking the core usage metrics of Edge Requests and Fast Data Transfer. Learn how Vercel handles network routing and data transfer—while giving you full control over performance and costs."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 21, 2024
 
@@ -234,3 +232,4 @@ Every request to a Vercel app— [from the moment a user presses enter to the fi
 Maximize your app’s performance by tracking Edge Requests and Fast Data Transfer. With resources allocated based on your framework, you have full control to ensure your application is efficient and cost-effective.
 
 通过监控“边缘请求”（Edge Requests）与“快速数据传输”（Fast Data Transfer），最大化您应用的性能表现。由于资源分配基于您选用的框架，您可全面掌控应用行为，确保其高效运行且具备成本效益。
+{% endraw %}

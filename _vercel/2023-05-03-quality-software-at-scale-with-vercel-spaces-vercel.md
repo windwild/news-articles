@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Quality software at scale with Vercel Spaces - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-spaces"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Spaces from Vercel"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 3, 2023
 
@@ -147,3 +145,4 @@ Contact Us](https://vercel.com/contact/sales)
 若您对 Vercel Spaces 感兴趣，目前该功能已面向 Vercel Enterprise 客户开放早期试用。欢迎联系我们的销售团队了解详情。\\
 \\
 联系我们](https://vercel.com/contact/sales)
+{% endraw %}

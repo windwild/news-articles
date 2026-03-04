@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Clio: Privacy-preserving insights into real-world AI use \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/clio"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A blog post describing Anthropic’s new system, Clio, for analyzing how people use AI while maintaining their privacy "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Societal Impacts
 
@@ -252,3 +250,4 @@ _我们当前正在为“社会影响团队”（Societal Impacts team）招聘�
 
 **Edit 14 January 2025:** Links to the Clio paper in this post have been updated to point to the _arXiv_ version.  
 **更新说明（2025 年 1 月 14 日）：** 本文中所有指向 Clio 论文的链接均已更新为指向 _arXiv_ 版本。
+{% endraw %}

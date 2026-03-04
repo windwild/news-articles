@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "An update on our safety & security practices | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/update-on-safety-and-security-practices"
@@ -11,6 +10,7 @@ description: "An update on our safety & security practices
 "
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 September 16, 2024
 
@@ -61,3 +61,4 @@ Ensuring the safety and security of our models involves the work of many teams a
 
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

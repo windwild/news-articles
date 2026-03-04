@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Empowering teams to unlock insights faster at OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-research-assistant"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company."
 tags: ["API"]
 ---
+{% raw %}
 
 September 29, 2025
 
@@ -90,3 +90,4 @@ What began as a tool for parsing millions of tickets is becoming part of the ope
 ## Ready to put ChatGPT to work in your business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

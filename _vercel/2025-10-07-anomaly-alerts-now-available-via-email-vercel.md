@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Anomaly alerts now available via email - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/anomaly-alerts-now-available-via-email"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Subscribe to receive alerts by email when anomalous spikes in usage or HTTP 500 errors occur on your Vercel projects."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 7, 2025
 
@@ -39,3 +37,4 @@ Anomaly alerts are available in limited beta for Enterprise customers with [Obse
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Falerts) or learn more about [Alerts](https://vercel.com/docs/alerts).
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Falerts)，或深入了解 [告警功能](https://vercel.com/docs/alerts)。
+{% endraw %}

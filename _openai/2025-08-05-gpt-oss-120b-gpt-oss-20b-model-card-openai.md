@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "gpt-oss-120b & gpt-oss-20b Model Card | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-oss-model-card"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy."
 ---
+{% raw %}
 
 August 5, 2025
 
@@ -36,3 +36,4 @@ As part of this launch, OpenAI is reaffirming its commitment to advancing benefi
 
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
 - [2025](https://openai.com/research/index/?tags=2025)
+{% endraw %}

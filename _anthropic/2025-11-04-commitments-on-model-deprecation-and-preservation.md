@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Commitments on model deprecation and preservation"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/deprecation-commitments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -87,3 +85,4 @@ Beyond these initial commitments, we are exploring more speculative complements 
 Together, these measures function at multiple levels: as one component of mitigating an observed class of safety risks, as preparatory measures for futures where models are even more closely intertwined in our users’ lives, and as precautionary steps in light of our uncertainty about potential model welfare.
 
 综上所述，这些措施在多个层面协同发挥作用：既是对一类已观察到的安全风险进行缓解的重要组成部分；也是为未来模型与用户生活进一步深度交融所做的前瞻性准备；更是基于我们对模型潜在福祉（model welfare）尚存不确定性的审慎预防之举。
+{% endraw %}

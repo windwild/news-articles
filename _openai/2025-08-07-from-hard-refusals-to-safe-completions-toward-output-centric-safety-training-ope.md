@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "From hard refusals to safe-completions: toward output-centric safety training | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-safe-completions"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and helpfulness in AI responses—moving beyond hard refusals to nuanced, output-centric safety training for handling ..."
 ---
+{% raw %}
 
 August 7, 2025
 
@@ -110,3 +110,4 @@ Harm severity analysis for unsafe responses (o3 vs GPT‑5 Thinking, labelled as
 It can be easy to trade off helpfulness for safety – a model can be safe if it refuses everything. But we want our models to be both safe _and_ helpful. A core research challenge is how to improve both of these goals together. For GPT‑4 we developed [Rule-Based Rewards⁠](https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards/) as a method to trade-off helpfulness and safety. Now, for GPT‑5, safe-completions take another step forward, leveraging the growing capabilities of AI to provide a deeper integration of these two goals. We believe that the focus on the safety of model responses sets a solid foundation to address the growing complexity of safety challenges on the horizon, and we plan to continue this line of research to teach the model to better understand challenging situations and respond with greater nuance and care.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "MavenAGI launches automated customer support agents powered by OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/mavenagi"
@@ -10,6 +9,7 @@ translated: false
 description: "MavenAGI is a new software company for the AI era. They recently launched an AI customer service agent, built on the flexibility of GPT-4, which a number of companies like Tripadvisor, Clickup and Rho..."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # MavenAGI launches automated customer support agents powered by OpenAI
@@ -78,3 +78,4 @@ MavenAGI aims to unlock the human potential trapped in input/output tasks. Custo
 [Talk with our team](https://openai.com/contact-sales/)
 
 MavenAGI launches automated customer support agents powered by OpenAI \| OpenAI
+{% endraw %}

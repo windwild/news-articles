@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Navigating health questions with ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/navigating-health-questions"
@@ -10,8 +9,7 @@ translated: true
 description: "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors."
 tags: ["ChatGPT"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 5, 2026
 
@@ -29,3 +27,4 @@ February 5, 2026
 00:0001:00
 
 00:0001:00
+{% endraw %}

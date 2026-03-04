@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing GPT-5.3-Codex-Spark | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-gpt-5-3-codex-spark"
@@ -10,8 +9,7 @@ translated: true
 description: "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
 tags: ["Product"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 12, 2026
 
@@ -149,3 +147,4 @@ As models become more capable, interaction speed becomes a clear bottleneck. Ult
 
 - [Codex](https://openai.com/news/?tags=codex)  
 - [Codex](https://openai.com/news/?tags=codex)
+{% endraw %}

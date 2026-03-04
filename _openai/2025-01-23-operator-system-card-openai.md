@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Operator System Card | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/operator-system-card"
@@ -10,6 +9,7 @@ translated: false
 description: "Drawing from OpenAI’s established safety frameworks, this document highlights our multi-layered approach, including model and product mitigations we’ve implemented to protect against prompt engine..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 January 23, 2025
 
@@ -409,3 +409,4 @@ T. Xie, D. Zhang, J. Chen, X. Li, S. Zhao, R. Cao, T. J. Hua, Z. Cheng, D. Shin,
 
 7. 7
 OpenAI, “OpenAI developer documentation.” [https://platform.openai.com/docs/guides/tools-computer-use⁠(opens in a new window)](https://platform.openai.com/docs/guides/tools-computer-use), 2025\. Accessed: 2025-03-11.
+{% endraw %}

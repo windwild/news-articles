@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Preview URLs optimized for multi-tenant platforms - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/preview-urls-optimized-for-multi-tenant-platforms"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Multi-tenant applications can now generate unique preview URLs for each tenant and encode metadata and routing context directly into the URL"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 17, 2025
 
@@ -35,3 +33,4 @@ Vercel 帮助您构建多租户平台，单个项目可支持数万个域名，�
 Try the [demo](https://multi-tenant-preview-urls-k6oodlv4w.vercel.rocks/all) or to get started, go to your [team's settings](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings&title=Set+Preview+Deployment+Suffix) to set your Preview Deployment Suffix. Then, follow [our guide](https://vercel.com/platforms/docs/multi-tenant-platforms/preview-url-prefixes) on configuring multi-tenant preview URLs.
 
 请试用 [演示版](https://multi-tenant-preview-urls-k6oodlv4w.vercel.rocks/all)，或立即开始：前往您的 [团队设置页面](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings&title=Set+Preview+Deployment+Suffix) 配置预览部署后缀（Preview Deployment Suffix）。随后，请参阅 [我们的指南](https://vercel.com/platforms/docs/multi-tenant-platforms/preview-url-prefixes)，了解如何配置多租户预览 URL。
+{% endraw %}

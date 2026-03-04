@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing text and code embeddings | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-text-and-code-embeddings"
@@ -10,6 +9,7 @@ translated: false
 description: "We are introducing embeddings, a new endpoint in the OpenAI API that makes it easy to perform natural language and code tasks like semantic search, clustering, topic modeling, and classification."
 tags: ["Product"]
 ---
+{% raw %}
 
 January 25, 2022
 
@@ -203,3 +203,4 @@ All API customers can get started with the [embeddings documentation⁠(opens i
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2022](https://openai.com/news/?tags=2022)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI acquires Software Applications Incorporated, maker of Sky | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-acquires-software-applications-incorporated"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s ..."
 ---
+{% raw %}
 
 October 23, 2025
 
@@ -38,3 +38,4 @@ _Disclosure: An investment fund associated with Sam Altman held a passive invest
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

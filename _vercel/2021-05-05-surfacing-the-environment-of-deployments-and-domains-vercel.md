@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Surfacing the Environment of Deployments and Domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/surfacing-the-environment-of-deployments-and-domains"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 5, 2021
 
@@ -47,3 +45,4 @@ This change will make it easier for you to determine which Deployments, Domains,
 Check out [the documentation](https://vercel.com/docs/platform/deployments?query=production#deployment-types) as well.
 
 也欢迎查阅[相关文档](https://vercel.com/docs/platform/deployments?query=production#deployment-types)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Saving lives with AI health coaching | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/healthify"
@@ -10,6 +9,7 @@ translated: false
 description: "Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Healthify
@@ -111,3 +111,4 @@ ChatGPTMar 18, 2024](https://openai.com/index/holiday-extras/)
 APIMar 18, 2024](https://openai.com/index/superhuman/)
 
 Saving lives with AI health coaching \| OpenAI
+{% endraw %}

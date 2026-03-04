@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Minimal built a multi-agent customer support system with LangGraph & LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/how-minimal-built-a-multi-agent-customer-support-system-with-langgraph-langsmith/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 In the thriving world of e-commerce, where customer satisfaction can make or break a brand, [Minimal](https://gominimal.ai/?ref=blog.langchain.com) is leveraging the LangChain ecosystem to transform how support issues are handled. Minimal AI agents are delivering 80%+ efficiency gains over a broad variety of E-commerce stores while improving customer satisfaction. This year, Minimal expects that 90% of their customers' support tickets will be handled autonomously by their AI, escalating only 10% to human agents. Below, you’ll see how this new e-commerce support provider constructed a multi-agent system that integrates seamlessly with popular helpdesk tools, automates customer interactions, and even executes order management tasks—all while maintaining tight control over business protocols.
 
@@ -177,3 +175,4 @@ By pairing multi-agent workflows with LangChain’s ecosystem—LangGraph for or
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

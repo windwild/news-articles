@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-4V(ision) system card | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-4v-system-card"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 September 25, 2023
 
@@ -30,3 +30,4 @@ GPT‑4 with vision (GPT‑4V) enables users to instruct GPT‑4 to analyze imag
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
+{% endraw %}

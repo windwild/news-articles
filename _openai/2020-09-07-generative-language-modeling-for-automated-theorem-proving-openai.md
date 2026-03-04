@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Generative language modeling for automated theorem proving | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/generative-language-modeling-for-automated-theorem-proving"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 September 7, 2020
 
@@ -27,3 +27,4 @@ We explore the application of transformer-based language models to automated the
 
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Language](https://openai.com/research/index/?tags=language)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Track server-side custom events with Vercel Web Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/track-server-side-custom-events-with-vercel-web-analytics"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 6, 2023
 
@@ -86,3 +84,4 @@ export default function FeedbackPage() {
 自定义事件跟踪功能仅面向 Pro 和 Enterprise 用户开放。
 
 [查看文档](https://vercel.com/docs/analytics/custom-events) 了解更多信息。
+{% endraw %}

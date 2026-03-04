@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the ChatGPT app for iOS | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-the-chatgpt-app-for-ios"
@@ -10,6 +9,7 @@ translated: false
 description: "The ChatGPT app syncs your conversations, supports voice input, and brings our latest model improvements to your fingertips."
 tags: ["Product"]
 ---
+{% raw %}
 
 May 18, 2023
 
@@ -70,3 +70,4 @@ CompanyMar 8, 2024](https://openai.com/index/review-completed-altman-brockman-to
 CompanyMar 8, 2024](https://openai.com/index/openai-announces-new-members-to-board-of-directors/)
 
 Introducing the ChatGPT app for iOS \| OpenAI
+{% endraw %}

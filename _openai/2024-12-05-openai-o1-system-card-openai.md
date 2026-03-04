@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI o1 System Card | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-o1-system-card"
@@ -10,6 +9,7 @@ translated: false
 description: "This report outlines the safety work carried out prior to releasing OpenAI o1 and o1-mini, including external red teaming and frontier risk evaluations according to our Preparedness Framework."
 tags: ["Research"]
 ---
+{% raw %}
 
 Updated: December 5, 2024
 
@@ -1369,3 +1369,4 @@ Simple Evals GitHub Link: https://www.github.com/openai/simple-evals
 ## Previous version
 
 [Read the o1-preview System Card⁠(opens in a new window)](https://cdn.openai.com/o1-preview-system-card-20240917.pdf) originally published on September 12, 2024.
+{% endraw %}

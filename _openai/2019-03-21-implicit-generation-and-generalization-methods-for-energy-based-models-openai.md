@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Implicit generation and generalization methods for energy-based models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/energy-based-models"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve made progress towards stable and scalable training of energy-based models (EBMs) resulting in better sample quality and generalization ability than existing models. Generation in EBMs spends..."
 tags: ["Research"]
 ---
+{% raw %}
 
 March 21, 2019
 
@@ -114,3 +114,4 @@ Compositionality is one of the [unsolved challenges⁠(opens in a new window)](
 
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

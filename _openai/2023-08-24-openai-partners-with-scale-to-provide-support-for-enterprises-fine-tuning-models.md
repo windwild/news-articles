@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI partners with Scale to provide support for enterprises fine-tuning models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI’s customers can leverage Scale’s AI expertise to customize our most advanced models."
 tags: ["Product"]
 ---
+{% raw %}
 
 August 24, 2023
 
@@ -34,3 +34,4 @@ Scale has already demonstrated value for customers by fine-tuning GPT‑3.5 for 
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

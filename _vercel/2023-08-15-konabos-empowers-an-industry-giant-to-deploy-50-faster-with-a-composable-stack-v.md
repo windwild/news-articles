@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Konabos empowers an industry giant to deploy 50% faster with a composable stack  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/konobos-empowers-industry-giant-to-deploy-50-faster"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "American Bath Group's success with Konobos and Vercel"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 15, 2023
 
@@ -73,3 +71,4 @@ Get in Touch](https://vercel.com/contact/sales)
 联系专家，即刻了解如何开始使用 Vercel。  
 \\  
 立即联系](https://vercel.com/contact/sales)
+{% endraw %}

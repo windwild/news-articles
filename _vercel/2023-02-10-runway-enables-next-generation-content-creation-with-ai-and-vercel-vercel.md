@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Runway enables next-generation content creation with AI and Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/runway-enables-next-generation-content-creation-with-ai-and-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Runway migrated to Vercel, resulting in faster build times, review cycles, and better performance."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 10, 2023
 
@@ -55,3 +53,4 @@ Runway 团队不仅显著缩短了构建与评审周期，还对其网站性能�
 您的团队是否也希望获得更快的构建速度与更短的反馈闭环？[联系我们](https://vercel.com/contact/sales)。
 
 您的团队是否也希望获得更快的构建速度与更短的反馈闭环？[联系我们](https://vercel.com/contact/sales)。
+{% endraw %}

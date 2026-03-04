@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "With GPT-5, Wrtn builds lifestyle AI for millions in Korea | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/wrtn"
@@ -10,6 +9,7 @@ translated: false
 description: "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia."
 tags: ["API"]
 ---
+{% raw %}
 
 October 2, 2025
 
@@ -69,3 +69,4 @@ Each new OpenAI release pushes that mission forward. Wrtn builds systems that ke
 ## OpenAI <3 startups. Come build with us.
 
 [Join the community](https://openai.com/leads/startup/) [Start building(opens in a new window)](https://platform.openai.com/)
+{% endraw %}

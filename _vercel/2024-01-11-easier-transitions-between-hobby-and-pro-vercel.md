@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Easier transitions between hobby and pro - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/2024-01-account-changes"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 11, 2024
 
@@ -45,3 +43,4 @@ For a small number of accounts with thousands of projects or deployments, you ma
 Please [contact us](https://vercel.com/help) using the “Account Management” case type if you have questions about this change or notice something wrong with your account.
 
 如果您对该变更存在疑问，或发现账户出现异常，请通过“账户管理”问题类型[联系我们](https://vercel.com/help)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Scholars 2021: Final projects | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-scholars-2021-final-projects"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re proud to announce that the 2021 class of OpenAI Scholars has completed our six-month mentorship program and have produced an open-source research project with stipends and support from Open..."
 tags: ["Company"]
 ---
+{% raw %}
 
 May 10, 2021
 
@@ -220,3 +220,4 @@ Play video
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2021](https://openai.com/news/?tags=2021)
+{% endraw %}

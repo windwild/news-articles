@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing OpenAI for Ireland | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-for-ireland"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next ge..."
 ---
+{% raw %}
 
 November 14, 2025
 
@@ -48,3 +48,4 @@ These collaborations build on OpenAI’s long-term commitment to Ireland. Our Eu
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
+{% endraw %}

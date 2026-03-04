@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/shade-arena-sabotage-monitoring"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A new set of evaluations to test the sabotage and monitoring capabilities of LLM AI models"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -216,3 +214,4 @@ This work was a collaboration between researchers at Anthropic, Scale AI (Xiang 
 If you’re interested in working on these or related questions of Alignment Science, we’re recruiting Research Engineers and Scientists in both [San Francisco](https://job-boards.greenhouse.io/anthropic/jobs/4631822008) and [London](https://job-boards.greenhouse.io/anthropic/jobs/4610158008).  
 
 若您对 Alignment Science（对齐科学）领域中上述或相关问题的研究感兴趣，我们正在旧金山[（职位链接）](https://job-boards.greenhouse.io/anthropic/jobs/4631822008) 和伦敦[（职位链接）](https://job-boards.greenhouse.io/anthropic/jobs/4610158008) 招聘研究工程师（Research Engineer）与研究科学家（Research Scientist）。
+{% endraw %}

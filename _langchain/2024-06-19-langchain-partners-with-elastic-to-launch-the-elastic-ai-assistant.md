@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangChain partners with Elastic to launch the Elastic AI Assistant"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langchain-partners-with-elastic-to-launch-the-elastic-ai-assistant/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies", "By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Elastic，一家领先的搜索分析公司，为全球超过 20,000 家客户提供服务，助力企业安全地利用“搜索驱动的 AI”能力，使任何用户都能实时、规模化地基于全部数据快速获取所需答案。通过将人工智能与搜索技术深度融合，Elastic 能够从海量结构化与非结构化数据中发掘可操作的业务洞见，切实满足企业对实时性与可扩展性数据处理的需求。公司提供面向搜索、安全与可观测性的云原生解决方案，帮助企业兑现 AI 承诺；近期，Elastic 更借助 LangChain 和 LangSmith，在其安全套件中新增了 AI 助手（AI Assistant）功能。
 
@@ -150,3 +148,4 @@ In the spirit of open source, the Elastic team has made available a lot of their
 [**ServiceNow 如何利用 LangSmith 实现对其客户成功专员的可观测性**](https://blog.langchain.com/customers-servicenow/)
 
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 分钟阅读
+{% endraw %}

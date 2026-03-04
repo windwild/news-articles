@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenID Connect (OIDC) Federation now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/openid-connect-federation-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 23, 2024
 
@@ -66,3 +64,4 @@ const s3client = new s3.S3Client({
 Check out the [documentation](https://vercel.com/docs/security/secure-backend-access/oidc) and [blog post](https://vercel.com/blog/enhancing-security-of-backend-connectivity-with-openid-connect) to learn more.
 
 请参阅[文档](https://vercel.com/docs/security/secure-backend-access/oidc)和[博客文章](https://vercel.com/blog/enhancing-security-of-backend-connectivity-with-openid-connect)，了解更多信息。
+{% endraw %}

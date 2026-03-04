@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Build reliable agents in JavaScript with LangGraph.js v0.2: Now supporting Cloud and Studio"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/javascript-langgraph-v02-cloud-studio/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "For JavaScript developers - LangGraph v0.2, LangGraph Cloud, and LangGraph Studio are all available."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Today, we’re launching [LangGraph.js v0.2.0](https://github.com/langchain-ai/langgraphjs?ref=blog.langchain.com), our JavaScript/TypeScript framework for building LLM-powered agents. Here’s what’s new:
 
@@ -106,3 +104,4 @@ This is just the beginning - we’re committed to making LangGraph.js the most d
 We’re closely listening to the community and their feedback, many of whom are already running LangGraph.js in production – and we invite you to share your thoughts.  [Connect with us on X](https://x.com/LangChainAI?ref=blog.langchain.com), or join our [community Slack workspace](https://join.slack.com/t/langchaincommunity/shared_invite/zt-2of5edn9u-kVYpEDdEkbg7JDQxpg0HsQ?ref=blog.langchain.com).
 
 我们正密切关注社区的声音与反馈——其中已有许多用户正在生产环境中运行 LangGraph.js。诚挚邀请您分享宝贵见解：[欢迎在 X 平台关注我们](https://x.com/LangChainAI?ref=blog.langchain.com)，或加入我们的 [社区 Slack 工作区](https://join.slack.com/t/langchaincommunity/shared_invite/zt-2of5edn9u-kVYpEDdEkbg7JDQxpg0HsQ?ref=blog.langchain.com)。
+{% endraw %}

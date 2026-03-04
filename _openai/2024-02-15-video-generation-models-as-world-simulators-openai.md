@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Video generation models as world simulators | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/video-generation-models-as-world-simulators"
@@ -10,6 +9,7 @@ translated: false
 description: "We explore large-scale training of generative models on video data. Specifically, we train text-conditional diffusion models jointly on videos and images of variable durations, resolutions and aspect ..."
 tags: ["Research"]
 ---
+{% raw %}
 
 February 15, 2024
 
@@ -279,3 +279,4 @@ We believe the capabilities Sora has today demonstrate that continued scaling of
 
 32. 32
     Meng, Chenlin, et al. "Sdedit: Guided image synthesis and editing with stochastic differential equations." _arXiv preprint arXiv:2108.01073_ (2021).
+{% endraw %}

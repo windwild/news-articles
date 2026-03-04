@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing GPTs | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-gpts"
@@ -10,6 +9,7 @@ translated: false
 description: "You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills."
 tags: ["Product"]
 ---
+{% raw %}
 
 November 6, 2023
 
@@ -77,3 +77,4 @@ _Learn more about_ [_OpenAI DevDay announcements for new models and developer pr
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

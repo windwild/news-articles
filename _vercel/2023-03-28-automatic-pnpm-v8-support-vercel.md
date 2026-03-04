@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Automatic pnpm v8 support - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatic-pnpm-v8-support"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 28, 2023
 
@@ -33,3 +31,4 @@ If you want to specify an exact version of pnpm in your Vercel project, enable [
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/build-step#install-command) to learn more.
 
 [查阅文档](https://vercel.com/docs/concepts/deployments/build-step#install-command)，了解更多信息。
+{% endraw %}

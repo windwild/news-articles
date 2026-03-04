@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel has now achieved the ISO 27001:2013 certification  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-has-now-achieved-the-iso-27001-2013-certification"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 12, 2023
 
@@ -27,3 +25,4 @@ Sep 12, 2023
 - **我们致力于持续合规：** 作为遵守 ISO/IEC 27001 标准的一部分，我们将持续接受定期监督审核。
 
 [了解更多关于 Vercel 安全性的信息](https://vercel.com/docs/security/overview)。
+{% endraw %}

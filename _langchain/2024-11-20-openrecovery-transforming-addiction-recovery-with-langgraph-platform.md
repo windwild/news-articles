@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenRecovery: Transforming addiction recovery with LangGraph Platform"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-openrecovery/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how OpenRecovery built an AI assistant with LangGraph Cloud, LangGraph, and LangSmith to support users on their journey to addiction recovery."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [OpenRecovery](http://openrecovery.com/?ref=blog.langchain.com) is transforming addiction recovery with their AI-powered assistant that provides personalized, 24/7 support via text and voice. Bridging the gap between costly inpatient care and generic self-help programs, it makes expert-level guidance accessible to those struggling with addiction. Using tools like LangGraph and LangSmith, and deploying the final application to LangGraph Platform, the OpenRecovery team has built a sophisticated mobile application that adapts to individual users’ recovery journey.
 
@@ -190,3 +188,4 @@ To try out the beta version of their new Recovery Assistant, visit their [websit
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

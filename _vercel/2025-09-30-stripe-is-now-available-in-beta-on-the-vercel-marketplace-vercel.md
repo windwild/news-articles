@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Stripe is now available in beta on the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/stripe-is-now-available-in-beta-on-the-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "stripe claimable sandbox available on vercel marketplace and v0. You can test your flow fully in test mode and go claim it when ready to go live"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 30, 2025
 
@@ -33,3 +31,4 @@ Sep 30, 2025
 - **开发者上手入门**：为团队成员即时提供开箱即用的 Stripe 沙盒环境。
 
 立即通过此 [示例项目](https://vercel.com/templates/next.js/simple-online-store-with-stripe) 开始实践，使用 Vercel 与 Stripe 快速构建您的首个简易在线商店。
+{% endraw %}

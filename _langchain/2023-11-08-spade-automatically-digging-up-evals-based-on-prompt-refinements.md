@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "♠️ SPADE: Automatically Digging up Evals based on Prompt Refinements"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/spade-automatically-digging-up-evals-based-on-prompt-refinements/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:29:08.941150586+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _作者：Shreya Shankar（加州大学伯克利分校），与李浩天（香港科技大学）、Will Fu-Hinthorn（LangChain）、Harrison Chase（LangChain）、J.D. Zamfirescu-Pereira（加州大学伯克利分校）、林一鸣（加州大学伯克利分校）、Sam Noyes（LangChain）、Eugene Wu（哥伦比亚大学）、Aditya Parameswaran（加州大学伯克利分校）合作完成_
 
@@ -136,3 +134,4 @@ Thanks for reading! See what evaluation functions are suggested by the the [SPAD
 The code for SPADE is freely available at the linked [GitHub repo](https://github.com/langchain-ai/prompt-eval-recommendation?ref=blog.langchain.com).
 
 SPADE 的代码在关联的 [GitHub 仓库](https://github.com/langchain-ai/prompt-eval-recommendation?ref=blog.langchain.com) 中免费提供。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-4o System Card External Testers Acknowledgements | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-o1-system-card/external-testers-acknowledgements"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI o1 system card external testers acknowledgements"
 tags: ["Research"]
 ---
+{% raw %}
 
 
 # OpenAI o1 System Card External Testers Acknowledgements
@@ -32,3 +32,4 @@ Apollo Research, Faculty, Gray Swan AI, Haize Labs, METR, Virtue AI
 Adwith Mukherjee, Bowen Jiang, Chan Jun Shern, Daniel Griffin, Dane Sherburn, Dillon Semin, Gigi Gronvall, Giulio Starace, Grace Kim, Jake Hecla, James Aung, Josh Ip, Julie Goodman, Megan Cangemi, Oliver Jaffe, Rosie Campbell, Steven Adler
 
 GPT-4o System Card External Testers Acknowledgements \| OpenAI
+{% endraw %}

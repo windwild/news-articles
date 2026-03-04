@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/samsung-and-sk-join-stargate"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea."
 ---
+{% raw %}
 
 October 1, 2025
 
@@ -44,3 +44,4 @@ Further details on the scope and specifics of these collaborations will be share
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
+{% endraw %}

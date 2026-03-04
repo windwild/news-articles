@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Optimize your Next.js site: Tips from industry leaders - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/optimize-your-nextjs-site"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Hear from industry leaders on how you can best use React Server Components, the latest in Web UI, powerful layouts, and more to create a fast site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 21, 2022
 
@@ -123,3 +121,4 @@ Once you’ve made your way through the talks above, take a look at the rest of 
 If you’re ready for your team to start creating with Next.js on Vercel, [sign up for a Pro trial](https://vercel.com/signup?next=/dashboard?createTeam=true).
 
 如果您已准备好让团队在 Vercel 上基于 Next.js 开始构建应用，[立即注册 Pro 版试用](https://vercel.com/signup?next=/dashboard?createTeam=true)。
+{% endraw %}

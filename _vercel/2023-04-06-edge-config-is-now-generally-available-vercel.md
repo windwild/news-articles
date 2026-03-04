@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Edge Config is now generally available  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/edge-config-is-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 6, 2023
 
@@ -23,3 +21,4 @@ Apr 6, 2023
 Edge Config 现已面向 [所有 Vercel 用户](https://vercel.com/docs/concepts/edge-network/edge-config/edge-config-limits) 正式发布。Hobby 计划用户每月可执行 50,000 次读取操作；Pro 和 Enterprise 计划用户每月可执行 1,000,000 次读取操作，超出部分可根据需求按量付费扩容。
 
 [查看文档](https://vercel.com/docs/concepts/edge-network/edge-config) 以了解更多信息。
+{% endraw %}

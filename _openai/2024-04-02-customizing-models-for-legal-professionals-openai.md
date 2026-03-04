@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Customizing models for legal professionals | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/harvey"
@@ -10,6 +9,7 @@ translated: false
 description: "Harvey partners with OpenAI to build a custom-trained model for legal professionals."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Harvey
@@ -99,3 +99,4 @@ APIApr 1, 2024](https://openai.com/index/oscar/)
 APIMar 28, 2024](https://openai.com/index/zelma/)
 
 Customizing models for legal professionals \| OpenAI
+{% endraw %}

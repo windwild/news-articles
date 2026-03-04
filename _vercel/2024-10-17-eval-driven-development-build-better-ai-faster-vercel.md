@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Eval-driven development: Build better AI faster - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/eval-driven-development-build-better-ai-faster"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how eval-driven development helps you build better AI faster. Discover a new testing paradigm for AI-native development and unlock continuous improvement."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 17, 2024
 
@@ -426,3 +424,4 @@ Aug 12, 2024
 Alice Alexandra Moore
 
 爱丽丝·亚历山德拉·摩尔
+{% endraw %}

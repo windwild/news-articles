@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Scaling security with responsible disclosure | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/scaling-coordinated-vulnerability-disclosure"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI introduces its Outbound Coordinated Disclosure Policy to guide how it responsibly reports vulnerabilities in third-party software—emphasizing integrity, collaboration, and proactive security ..."
 tags: ["Security"]
 ---
+{% raw %}
 
 June 9, 2025
 
@@ -49,3 +49,4 @@ Security is a journey defined by continuous improvement. We’re thankful to the
 
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

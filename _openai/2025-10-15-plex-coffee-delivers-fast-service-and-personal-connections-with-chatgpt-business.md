@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Plex Coffee delivers fast service and personal connections with ChatGPT Business | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/plex-coffee"
@@ -10,6 +9,7 @@ translated: false
 description: "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding."
 tags: ["ChatGPT"]
 ---
+{% raw %}
 
 October 15, 2025
 
@@ -69,3 +69,4 @@ With plans to expand to 10 cafés while keeping operations lean, Plex Coffee see
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

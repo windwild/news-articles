@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Rogo scales AI-driven financial research with OpenAI o1 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/rogo"
@@ -10,6 +9,7 @@ translated: false
 description: "Rogo scales AI-driven financial research with OpenAI o1"
 tags: ["API"]
 ---
+{% raw %}
 
 
 # Rogo scales AI-driven financial research with OpenAI o1
@@ -75,3 +75,4 @@ Rogo continues to expand its platform’s capabilities. In December, Rogo hired 
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

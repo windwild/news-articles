@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved support for pnpm, Corepack, and monorepos - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-support-for-pnpm-corepack-and-monorepos"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 30, 2024
 
@@ -31,3 +29,4 @@ For example, a project with Corepack enabled, specifying `pnpm@9.0.0`, and a loc
 Additionally, each package previously had to define its own `packageManager`. The root `package.json#packageManager` is now detected in monorepo projects with [Corepack enabled](https://vercel.com/docs/deployments/configure-a-build#corepack) and applied to all packages.
 
 此外，此前每个包都需单独定义其 `packageManager`。现在，在启用 [Corepack](https://vercel.com/docs/deployments/configure-a-build#corepack) 的单体仓库（monorepo）项目中，根目录下的 `package.json#packageManager` 将被自动识别，并应用于所有子包。
+{% endraw %}

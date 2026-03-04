@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI’s Economic Blueprint  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/openais-economic-blueprint"
@@ -12,6 +11,7 @@ description: "OpenAI’s Economic Blueprint
 "
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 January 13, 2025
 
@@ -77,3 +77,4 @@ The full Blueprint is available [here⁠(opens in a new window)](https://cdn.ope
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Rethinking prototyping, requirements, and project delivery at Code and Theory - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/rethinking-prototyping-requirements-and-project-delivery-at-code-and-theory"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How the agency, Code and Theory, cuts time-to-prototype by 75% and moves faster from idea to execution"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 20, 2025
 
@@ -142,3 +140,4 @@ Book a demo](https://vercel.com/contact/sales/v0-enterprise)
 如需体验 v0 Enterprise，请联系我们的团队预约演示。\\
 \\
 预约演示](https://vercel.com/contact/sales/v0-enterprise)
+{% endraw %}

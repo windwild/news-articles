@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-5.3-Codex System Card | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-3-codex-system-card"
@@ -10,8 +9,7 @@ translated: true
 description: "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2. "
 tags: ["Publication"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 5, 2026
 
@@ -53,3 +51,4 @@ This is the first launch we are treating as High capability in the Cybersecurity
 - [2026](https://openai.com/research/index/?tags=2026)
 - [Codex](https://openai.com/research/index/?tags=codex)
 - [系统卡](https://openai.com/research/index/?tags=system-cards)
+{% endraw %}

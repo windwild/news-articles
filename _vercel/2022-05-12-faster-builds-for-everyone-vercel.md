@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Faster builds for everyone - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-builds-for-everyone"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 12, 2022
 
@@ -41,3 +39,4 @@ We’ve made improvements to the Vercel infrastructure for customers across all 
 [Deploy a template](http://vercel.com/new) to get started.
 
 [部署一个模板](http://vercel.com/new) 快速开始。
+{% endraw %}

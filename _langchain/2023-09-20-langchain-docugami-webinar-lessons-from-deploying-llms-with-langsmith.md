@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangChain + Docugami Webinar: Lessons from Deploying LLMs with LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langchain-docugami-webinar-lessons-from-deploying-llms-with-langsmith/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:43:47.055709652+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written in collaboration with the_ [_Docugami_](https://www.docugami.com/?ref=blog.langchain.com) _team. We recently did a webinar with them and_ [_Rechat_](https://rechat.com/ai/?ref=blog.langchain.com) _to talk about what it actually requires to get an LLM application into production. You can find the recording of the webinar [here](https://www.youtube.com/watch?v=ll-Xit_Khq0&ref=blog.langchain.com)–and this post provides a helpful overview of what they discussed and dives even deeper on their learnings._
 
@@ -70,3 +68,4 @@ You can also watch the webinar here.
 We are excited to see what you build with LangChain and Docugami. Tag us @docugami on twitter to share your results and experience, or just reach out [https://www.docugami.com/contact-us](https://www.docugami.com/contact-us?ref=blog.langchain.com)
 
 我们热切期待您基于 LangChain 与 Docugami 构建的各类应用！欢迎在 Twitter 上通过 @docugami 分享您的成果与体验；或直接通过 [https://www.docugami.com/contact-us](https://www.docugami.com/contact-us?ref=blog.langchain.com) 与我们联系。
+{% endraw %}

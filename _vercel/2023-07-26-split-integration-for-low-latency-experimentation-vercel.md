@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Split integration for low latency experimentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/split-integration-for-low-latency-experimentation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 26, 2023
 
@@ -33,3 +31,4 @@ This integration is available to users on all plans.
 Check out the [integration](https://vercel.com/integrations/split) to get started.
 
 请访问 [该集成页面](https://vercel.com/integrations/split) 开始使用。
+{% endraw %}

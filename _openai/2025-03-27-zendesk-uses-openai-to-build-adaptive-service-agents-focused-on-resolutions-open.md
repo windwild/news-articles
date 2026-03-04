@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Zendesk uses OpenAI to build adaptive service agents focused on resolutions | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/zendesk"
@@ -10,6 +9,7 @@ translated: false
 description: "Moving from intent-based bots to proactive AI agents."
 tags: ["API"]
 ---
+{% raw %}
 
 March 27, 2025
 
@@ -90,3 +90,4 @@ While broader metrics will follow later in 2025, early feedback has been strong:
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Customizing GPT-3 for your application | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/customizing-gpt-3"
@@ -10,6 +9,7 @@ translated: false
 description: "Fine-tune with a single command."
 tags: ["Product"]
 ---
+{% raw %}
 
 December 14, 2021
 
@@ -100,7 +100,6 @@ openai api fine_tunes.create -m ada --n_epochs 2 \
     -t https://cdn.openai.com/API/train-demo.jsonl
 
 ---
-render_with_liquid: false
 
 (Ctrl-C will interrupt the stream, but not cancel the fine-tune)
 [2021-12-08 12:11:30] Created fine-tune: ft-gK9R3N3lDQYQJD0SXqlF8Fnc
@@ -135,10 +134,10 @@ openai api completions.create -m <model_ID> \
   -p $'Conecte la PS3 y vaya a Configuración>Configuraciones de Red, seleccione la red y escriba sus credenciales.\nEnglish translation:'
 
 ---
-render_with_liquid: false
 
 Conecte la PS3 y vaya a Configuración>Configuraciones de Red, seleccione la red y escriba sus credenciales.\nEnglish translation: Connect the PS3 and go to Settings> Accounts Settings, select the network and write your credentials.%
 ```
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2021](https://openai.com/news/?tags=2021)
+{% endraw %}

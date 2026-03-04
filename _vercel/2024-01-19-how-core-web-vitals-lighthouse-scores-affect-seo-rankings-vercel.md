@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Core Web Vitals & Lighthouse scores affect SEO Rankings - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-core-web-vitals-affect-seo"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Understand your application's Google page experience ranking and Lighthouse scores. We'll dive into what they are, how they’re measured, and how your users and search ranking are impacted by them."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 19, 2024
 
@@ -303,3 +301,4 @@ Vercel.com 首页
 
 ### Composable commerce on Vercel  
 ### 基于 Vercel 的可组合式电商（Composable Commerce）
+{% endraw %}

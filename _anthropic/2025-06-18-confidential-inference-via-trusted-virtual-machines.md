@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Confidential Inference via Trusted Virtual Machines"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/confidential-inference-trusted-vms"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing a new collaborative research paper on Confidential Inference, a set of tools to improve the security of our model weights and of our users' data"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Announcements
 
@@ -164,3 +162,4 @@ Read [the full report](https://assets.anthropic.com/m/c52125297b85a42/original/C
 If this discussion of Confidential Inference has inspired you to want to work with us on these questions, please consider applying for one of the open roles listed in the “Security” and “AI Research and Engineering” sections on the [jobs page on our website](https://www.anthropic.com/jobs).
 
 若您因本次关于“机密推理”的讨论而萌生与我们共同探索相关问题的兴趣，欢迎申请我们官网[招聘页面](https://www.anthropic.com/jobs)中“安全”（Security）与“AI 研究与工程”（AI Research and Engineering）板块所列的开放职位。
+{% endraw %}

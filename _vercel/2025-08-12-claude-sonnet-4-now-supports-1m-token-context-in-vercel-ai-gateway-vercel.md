@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Claude Sonnet 4 now supports 1M token context in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claude-sonnet-4-now-supports-1m-token-context-in-vercel-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now leverage Claude Sonnet 4's updated token context window with Vercel's AI Gateway with no other provider accounts required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 12, 2025
 
@@ -97,3 +95,4 @@ View the leaderboard](https://vercel.com/ai-gateway/leaderboards)
 AI Gateway 模型排行榜根据通过网关的所有流量所产生的总 Token 量，对各模型的历史使用量进行排序。榜单定期更新。\\  
 \\  
 查看排行榜](https://vercel.com/ai-gateway/leaderboards)
+{% endraw %}

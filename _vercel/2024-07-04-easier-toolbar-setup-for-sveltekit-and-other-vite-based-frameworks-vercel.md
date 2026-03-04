@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Easier toolbar setup for SvelteKit and other Vite-based frameworks - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/easier-toolbar-setup-for-sveltekit-and-other-vite-based-frameworks"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 4, 2024
 
@@ -64,3 +62,4 @@ mountVercelToolbar();
 [Check out the documentation](https://vercel.com/docs/workflow-collaboration/vercel-toolbar/in-production-and-localhost/add-to-localhost) to learn more.
 
 [查看文档](https://vercel.com/docs/workflow-collaboration/vercel-toolbar/in-production-and-localhost/add-to-localhost) 了解更多信息。
+{% endraw %}

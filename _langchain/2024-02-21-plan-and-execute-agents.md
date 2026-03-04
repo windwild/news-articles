@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Plan-and-Execute Agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/planning-agents/"
@@ -10,8 +9,7 @@ translated: true
 description: "Plan and execute agents promise faster, cheaper, and more performant task execution over previous agent designs. Learn how to build 3 types of planning agents in LangGraph in this post."
 tags: ["By LangChain", "agents", "langgraph", "agent builder", "![Building Multi-Agent Apps", "deep agents"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ### **Links**
 
@@ -319,3 +317,4 @@ These three agent architectures are prototypical of the "plan-and-execute" desig
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 6 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长 6 分钟
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Serve personalized content faster with Vary support - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/serve-personalized-content-faster-with-vary-support"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports the HTTP Vary header, enabling faster delivery of personalized, cached content based on location and language. Improve site performance and reduce compute automatically with Edge N..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 2, 2025
 
@@ -49,3 +47,4 @@ A visitor from the United States receives the US-specific cached version, and vi
 Learn more about caching personalized content in [Vercel's application network documentation](https://vercel.com/docs/edge-network/caching).
 
 欲了解个性化内容缓存的更多详情，请参阅 [Vercel 应用网络文档](https://vercel.com/docs/edge-network/caching)。
+{% endraw %}

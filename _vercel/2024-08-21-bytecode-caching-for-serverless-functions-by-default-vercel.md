@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Bytecode caching for Serverless Functions by default - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bytecode-caching-for-serverless-functions-by-default"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 21, 2024
 
@@ -33,3 +31,4 @@ This change **reduces global cold start times by up to 60%,** exceeding our init
 Bytecode caching is automatically enabled for all functions running on [Node.js 20 and using CommonJS](https://vercel.com/docs/functions/runtimes/node-js#bytecode-caching) (e.g., Next.js). Additionally, we're working to extend this support to include ESM for broader compatibility. Learn more in [our blog post](https://vercel.com/blog/introducing-bytecode-caching-for-vercel-functions).
 
 所有运行于 [Node.js 20 且采用 CommonJS 模块系统](https://vercel.com/docs/functions/runtimes/node-js#bytecode-caching)（例如 Next.js）的函数，均会**自动启用字节码缓存**。此外，我们正在积极拓展对该功能的支持，以兼容 ES 模块（ESM），从而实现更广泛的适用性。详情请参阅[我们的博客文章](https://vercel.com/blog/introducing-bytecode-caching-for-vercel-functions)。
+{% endraw %}

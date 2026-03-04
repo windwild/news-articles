@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Extracting Concepts from GPT-4 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/extracting-concepts-from-gpt-4"
@@ -10,6 +9,7 @@ translated: false
 description: "Using new techniques for scaling sparse autoencoders, we automatically identified 16 million patterns in GPT-4's computations."
 tags: ["Research"]
 ---
+{% raw %}
 
 June 6, 2024
 
@@ -81,3 +81,4 @@ Today, we are sharing a [paper⁠(opens in a new window)](https://arxiv.org/abs/
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Language](https://openai.com/research/index/?tags=language)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

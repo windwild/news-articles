@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Reminder of legacy environment variable secrets sunset - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/legacy-environment-variable-secrets-sunset-reminder"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 29, 2024
 
@@ -99,3 +97,4 @@ vercel secrets ls
 View the secrets added to your Vercel teams.
 
 查看已添加到您的 Vercel 团队中的密钥。
+{% endraw %}

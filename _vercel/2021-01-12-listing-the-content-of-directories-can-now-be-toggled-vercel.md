@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Listing the content of directories can now be toggled - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/listing-the-content-of-directories-can-now-be-toggled"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 12, 2021
 
@@ -33,3 +31,4 @@ As of today, the Directory Listing is **disabled for all newly created Projects*
 Check out [the documentation](https://vercel.com/docs/edge-network/directory-listing) as well.
 
 也欢迎查阅[相关文档](https://vercel.com/docs/edge-network/directory-listing)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Robocorp’s code generation assistant makes building Python automation easy for developers"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/robocorps-code-gen-assistant-makes-building-python-automation-easy-for-developers/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ### Challenge
 
@@ -99,3 +97,4 @@ Robocorp 因客户能够自助解决自身问题，从而在支持请求上节�
 [**Monte Carlo：使用 LangGraph 和 LangSmith 构建数据与 AI 可观测性智能体**](https://blog.langchain.com/customers-monte-carlo/)
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

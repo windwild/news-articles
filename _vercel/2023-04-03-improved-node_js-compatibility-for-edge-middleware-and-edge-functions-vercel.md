@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved Node.js compatibility for Edge Middleware and Edge Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-node-js-compatibility-for-edge-middleware-and-edge-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 3, 2023
 
@@ -79,3 +77,4 @@ The following APIs are now supported:
 - **util.types:** 一组用于验证对象是否属于指定类型的函数。
 
 您可在下一次部署中，在 Edge Middleware 和 Edge Functions 中使用这些额外的 API。如需在 Vercel 上部署 Edge Functions，您可以从 [任意框架](https://vercel.com/docs/concepts/functions/edge-functions/quickstart) 入手，或选用我们的 [Edge Functions 模板](https://vercel.com/templates/edge-functions) 之一。
+{% endraw %}

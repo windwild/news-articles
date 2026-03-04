@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Fellows Winter 2019 & Interns Summer 2019 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-fellows-interns-2019"
@@ -10,6 +9,7 @@ translated: false
 description: "We are now accepting applications for OpenAI Fellows and Interns for 2019."
 tags: ["Company"]
 ---
+{% raw %}
 
 October 9, 2018
 
@@ -112,3 +112,4 @@ _Questions—email_ [_internships@openai.com_ ⁠](mailto:internships@openai.com
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2018](https://openai.com/news/?tags=2018)
+{% endraw %}

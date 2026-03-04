@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "ChatGPT usage and adoption patterns at work | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 22, 2026
 
@@ -472,3 +470,4 @@ Learn how we help companies build scalable, responsible AI strategies.
 ChatGPT usage and adoption patterns at work \| OpenAI
 
 工作中 ChatGPT 的使用与采用模式 \| OpenAI
+{% endraw %}

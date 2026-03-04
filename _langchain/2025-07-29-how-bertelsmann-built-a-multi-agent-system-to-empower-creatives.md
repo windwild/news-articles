@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Bertelsmann Built a Multi-Agent System to Empower Creatives"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customer-bertelsmann/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how one of the world’s biggest media companies leveraged LangGraph from its earliest days to build and deploy a multi-agent system to production that empowers creativity."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [Bertelsmann](https://www.bertelsmann.com/?ref=blog.langchain.com) is one of the world's largest media companies that has produced some of the most influential content of our time. From publishing Barack Obama's and Prince Harry's bestselling biographies and Pulitzer-winning novels, to producing Emmy- and Academy Award-winning productions like *Poor Things* and *The Young Pope*, the company's creative teams span dozens of brands and platforms to reach millions globally.
 
@@ -315,3 +313,4 @@ As multi-agent systems become more mainstream, the Bertelsmann Content Search st
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

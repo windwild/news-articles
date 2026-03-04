@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Economics and reasoning with OpenAI o1 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/o1-economics"
@@ -10,6 +9,7 @@ translated: false
 description: "Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions."
 tags: ["Story"]
 ---
+{% raw %}
 
 September 12, 2024
 
@@ -26,3 +26,4 @@ Say hello to OpenAI o1—a new series of AI models designed to spend more time t
 Tyler Cowen, Economist
 
 Economics and reasoning with OpenAI o1 \| OpenAI
+{% endraw %}

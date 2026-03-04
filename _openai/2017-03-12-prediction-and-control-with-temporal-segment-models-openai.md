@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Prediction and control with temporal segment models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/prediction-and-control-with-temporal-segment-models"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 tags: ["Research"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 March 12, 2017
 
@@ -41,3 +39,4 @@ We introduce a method for learning the dynamics of complex nonlinear systems bas
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 
 - [生成模型](https://openai.com/research/index/?tags=generative-models)
+{% endraw %}

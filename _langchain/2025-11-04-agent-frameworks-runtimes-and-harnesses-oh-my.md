@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Agent Frameworks, Runtimes, and Harnesses- oh my!"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/agent-frameworks-runtimes-and-harnesses-oh-my/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes", "![Deep Agents", "**Deep Agents**"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 There are few different open source packages we maintain: [LangChain](https://docs.langchain.com/oss/python/langchain/quickstart?ref=blog.langchain.com) and [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview?ref=blog.langchain.com) being the biggest ones, but [DeepAgents](https://docs.langchain.com/oss/python/deepagents/overview?ref=blog.langchain.com) being an increasingly popular one. I’ve started using different terms to describe them: LangChain is an agent framework, LangGraph is an agent runtime, DeepAgents is an [agent harness](https://www.vtrivedy.com/posts/claude-code-sdk-haas-harness-as-a-service?ref=blog.langchain.com). Other folks are using these terms as well — but I don’t think there is a clear definition of framework vs runtime vs harness. This is my attempt to do try to define things. I will readily admit that there is still murkiness and overlap so I would love any feedback!
 
@@ -180,3 +178,4 @@ We think describing them as a framework, runtime, and harness respectively is a 
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 3 min read
 
 [Harrison 的热点评论](https://blog.langchain.com/tag/in-the-loop/) 阅读时长：3 分钟
+{% endraw %}

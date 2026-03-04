@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A letter from Sam & Jony | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/sam-and-jony"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Building a family of AI products for everyone."
 ---
+{% raw %}
 
 [OpenAI Home](https://openai.com/)
 
@@ -81,3 +81,4 @@ Sam & Jony
 >
 >
 > Share
+{% endraw %}

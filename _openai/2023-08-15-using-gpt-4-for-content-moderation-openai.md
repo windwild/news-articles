@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using GPT-4 for content moderation | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/using-gpt-4-for-content-moderation"
@@ -10,6 +9,7 @@ translated: false
 description: "We use GPT-4 for content policy development and content moderation decisions, enabling more consistent labeling, a faster feedback loop for policy refinement, and less involvement from human moderator..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 August 15, 2023
 
@@ -117,3 +117,4 @@ We are actively exploring further enhancement of GPT‑4’s prediction quality,
 ## Limitations
 
 Judgments by language models are vulnerable to undesired biases that might have been introduced into the model during training. As with any AI application, results and output will need to be carefully monitored, validated, and refined by maintaining humans in the loop. By reducing human involvement in some parts of the moderation process that can be handled by language models, human resources can be more focused on addressing the complex edge cases most needed for policy refinement. As we continue to refine and develop this method, we remain committed to transparency and will continue to share our learnings and progress with the community.
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Exploring Prompt Optimization"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/exploring-prompt-optimization/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:42:31.037786162+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 By [Krish Maniar](https://www.linkedin.com/in/krishmaniar4?ref=blog.langchain.com) and William Fu-Hinthorn
 
@@ -506,3 +504,4 @@ While we ultimately care more about the downstream metrics than the exact conten
 ![](images/exploring-prompt-optimization/img_019.png)
 
 ![](images/exploring-prompt-optimization/img_020.png)
+{% endraw %}

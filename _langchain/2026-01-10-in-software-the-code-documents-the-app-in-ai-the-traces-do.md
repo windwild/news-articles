@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "In software, the code documents the app. In AI, the traces do."
 source: "LangChain Blog"
 url: "https://blog.langchain.com/in-software-the-code-documents-the-app-in-ai-the-traces-do/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes", "![Deep Agents", "**Deep Agents**"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **TL;DR**
 
@@ -329,3 +327,4 @@ If you're building agents and you don't have this, you're working blind. The log
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 3 分钟阅读
 
 [Harrison 的热评](https://blog.langchain.com/tag/in-the-loop/) 3 分钟阅读
+{% endraw %}

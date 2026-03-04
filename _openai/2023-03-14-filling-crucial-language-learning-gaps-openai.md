@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Filling crucial language learning gaps | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/duolingo"
@@ -10,6 +9,7 @@ translated: false
 description: "GPT-4 deepens the conversation on Duolingo."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Duolingo
@@ -99,3 +99,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Filling crucial language learning gaps \| OpenAI
+{% endraw %}

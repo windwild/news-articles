@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel WAF upgrade brings persistent actions, rate limiting, and API control - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-waf-upgrade-brings-persistent-actions-rate-limiting-and-api-control"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "New capabilities reduce effects of DDoS attacks and enhance traffic control"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 2, 2024
 
@@ -158,3 +156,4 @@ This rule defaults to 'Log.' Change it to 'Deny' to actually block these request
 该规则默认动作为“记录（Log）”；将其更改为“拒绝（Deny）”，即可实际拦截这些请求。
 
 Add Firewall Rule](https://vercel.com/templates/vercel-firewall/rate-limit-api-requests-firewall-rule)
+{% endraw %}

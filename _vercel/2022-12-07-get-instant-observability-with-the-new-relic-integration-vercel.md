@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Get instant observability with the New Relic integration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/get-instant-observability-with-the-new-relic-integration"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 7, 2022
 
@@ -29,3 +27,4 @@ With the integration, you can stream function, error, and build logs from your V
 [Try out the integration](https://vercel.com/integrations/newrelic) for instant observability.
 
 [Try out the integration](https://vercel.com/integrations/newrelic) — 立即体验集成，实现即时可观测性。
+{% endraw %}

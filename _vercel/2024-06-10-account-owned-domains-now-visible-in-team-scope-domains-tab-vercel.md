@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Account-owned domains now visible in team-scope domains tab - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/account-owned-domains-now-visible-in-team-scope-domains-tab"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 10, 2024
 
@@ -21,3 +19,4 @@ Jun 10, 2024
 为了帮助用户更清晰地了解其在 Teams 和账户（account）层面所拥有的域名，Team 所有者现在可在同一标签页中查看账户级域名（account-owned domains）和 Team 域名。此项变更提升了您对跨 Teams 及账户所拥有域名的全局可见性。
 
 了解更多关于 Vercel 上 [域名](https://vercel.com/docs/projects/domains) 的信息，请参阅官方文档。
+{% endraw %}

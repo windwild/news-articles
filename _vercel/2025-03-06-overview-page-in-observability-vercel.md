@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Overview page in Observability - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/overview-page-in-observability"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Observability section now includes an Overview dashboard that shows key metrics from Edge Requests, Fast Data Transfer, Vercel Functions, and Edge Functions at a glance."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 6, 2025
 
@@ -33,3 +31,4 @@ Each metric also serves as a starting point for deeper analysis, with one-click 
 Try it in [your Observability dashboard](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability&title=Open+Observability).
 
 请前往 [您的 Observability 仪表板](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability&title=Open+Observability) 体验该功能。
+{% endraw %}

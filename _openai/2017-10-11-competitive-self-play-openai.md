@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Competitive self-play | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/competitive-self-play"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment wi..."
 tags: ["Research"]
 ---
+{% raw %}
 
 October 11, 2017
 
@@ -56,3 +56,4 @@ Additionally, we’re [releasing⁠(opens in a new window)](https://github.com/
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Transformers](https://openai.com/research/index/?tags=transformers)
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
+{% endraw %}

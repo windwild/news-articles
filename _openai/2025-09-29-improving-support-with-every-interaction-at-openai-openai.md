@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improving support with every interaction at OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-support-model"
@@ -10,8 +9,7 @@ translated: true
 description: "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth."
 tags: ["API"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 September 29, 2025
 
@@ -192,3 +190,4 @@ What began as a response to scale has become a blueprint for how people and AI c
 [Talk with our team](https://openai.com/contact-sales/)
 
 [与我们的团队联系](https://openai.com/contact-sales/)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The San Antonio Spurs use ChatGPT to scale impact on and off the court | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/san-antonio-spurs"
@@ -10,6 +9,7 @@ translated: false
 description: "Discover how the San Antonio Spurs are using custom GPTs to enhance fan engagement, streamline operations, and drive innovation across teams."
 tags: ["ChatGPT"]
 ---
+{% raw %}
 
 May 7, 2025
 
@@ -110,3 +110,4 @@ Buford has guided the club through decades of change, from pioneering internatio
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

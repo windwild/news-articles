@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Why OpenAI’s structure must evolve to advance our mission | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission"
@@ -10,6 +9,7 @@ translated: false
 description: "A stronger non-profit supported by the for-profit’s success."
 tags: ["Company"]
 ---
+{% raw %}
 
 December 27, 2024
 
@@ -71,3 +71,4 @@ We’ve learned to think of the mission as a [continuous objective](https://open
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

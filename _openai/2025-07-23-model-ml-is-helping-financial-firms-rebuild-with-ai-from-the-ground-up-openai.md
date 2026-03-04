@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Model ML is helping financial firms rebuild with AI from the ground up | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/model-ml-chaz-englander"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows."
 ---
+{% raw %}
 
 July 23, 2025
 
@@ -94,3 +94,4 @@ _Model ML uses OpenAI’s API platform, including GPT‑4.1, OpenAI o3, and the 
 - [Startup](https://openai.com/stories/?tags=startup)
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Technology](https://openai.com/stories/?tags=industry-technology)
+{% endraw %}

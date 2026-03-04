@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Access tokens can now be scoped to teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/access-tokens-can-now-be-scoped-to-teams"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 15, 2022
 
@@ -23,3 +21,4 @@ Mar 15, 2022
 此项改进为通过 Vercel CLI 或 API 扩展 Vercel 平台的用户提供了更强的安全性与更精细的权限控制。
 
 也欢迎查阅[相关文档](https://vercel.com/docs/rest-api#introduction/api-basics/authentication)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Our updated Preparedness Framework | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/updating-our-preparedness-framework"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Sharing our updated framework for measuring and protecting against severe harm from frontier AI capabilities."
 ---
+{% raw %}
 
 April 15, 2025
 
@@ -46,3 +46,4 @@ We’re deeply grateful to internal teams, external researchers and industry pee
 - [2025](https://openai.com/research/index/?tags=2025)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Framework](https://openai.com/research/index/?tags=framework)
+{% endraw %}

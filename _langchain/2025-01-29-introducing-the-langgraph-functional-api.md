@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the LangGraph Functional API"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/introducing-the-langgraph-functional-api/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:42:19.575344400+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Have you ever wanted to take advantage of LangGraph's core features like **human-in-the-loop**, **persistence/memory**, and **streaming** without having to explicitly define a graph?
 
@@ -415,3 +413,4 @@ The **Functional API** in **LangGraph** provides a flexible approach to building
 🎥 We've also prepared [this YouTube video](https://www.youtube.com/watch?v=NXhyWJozM8A&ref=blog.langchain.com) that covers the Functional API for Python.
 
 🎥 我们还专门制作了 [这段 YouTube 视频](https://www.youtube.com/watch?v=NXhyWJozM8A&ref=blog.langchain.com)，全面讲解 Python 版本的 Functional API。
+{% endraw %}

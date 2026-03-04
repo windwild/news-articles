@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the vercel api CLI command - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-the-vercel-api-cli-command"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The vercel api command makes an authenticated HTTP request to the Vercel API and prints the response."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 27, 2026
 
@@ -23,3 +21,4 @@ Jan 27, 2026
 使用 `vercel api ls` 列出所有可用 API；使用 `vercel api` 以交互方式构建请求；或使用 `vercel api [endpoint] [options]` 直接发送请求。
 
 请运行 `npx vercel@latest api --help` 开始使用。
+{% endraw %}

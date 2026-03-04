@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Environment Variables UI - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/environment-variables-ui"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Configure different Environment Variables for Production, Preview, and Development – right in the Dashboard."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 14, 2020
 
@@ -118,3 +116,4 @@ Additionally, sharing Development Environment Variables with your colleagues is 
 [Let us know](https://zeit.co/contact) what you think about this change. We're excited to help you succeed.
 
 [欢迎告诉我们](https://zeit.co/contact) 您对这一变更的看法。我们非常期待助您取得成功。
+{% endraw %}

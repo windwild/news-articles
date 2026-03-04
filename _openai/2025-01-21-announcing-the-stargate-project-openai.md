@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Announcing The Stargate Project | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/announcing-the-stargate-project"
@@ -10,6 +9,7 @@ translated: false
 description: "Announcing The Stargate Project"
 tags: ["Company"]
 ---
+{% raw %}
 
 January 21, 2025
 
@@ -41,3 +41,4 @@ We want to [connect with firms](https://openai.com/form/stargate-infrastructure/
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

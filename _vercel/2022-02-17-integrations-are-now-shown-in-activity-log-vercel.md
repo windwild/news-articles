@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Integrations are now shown in Activity Log - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/integrations-are-now-shown-in-activity-log"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 17, 2022
 
@@ -23,3 +21,4 @@ Feb 17, 2022
 安装、卸载以及修改 [集成（Integrations）](https://vercel.com/integrations) 的权限操作，现已在活动日志（Activity Log）中显示。
 
 请查看 [活动日志（Activity Log）](https://vercel.com/dashboard/activity)，以浏览集成相关数据。
+{% endraw %}

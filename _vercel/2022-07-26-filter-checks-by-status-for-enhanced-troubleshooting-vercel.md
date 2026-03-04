@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Filter Checks by status for enhanced troubleshooting - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-checks-by-status-for-enhanced-troubleshooting"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 26, 2022
 
@@ -25,3 +23,4 @@ You can now filter Checks by status to show which failures are causing performan
 To build your own deployment validation and status checks, [view the Checks API documentation](https://vercel.com/docs/integrations/checks-overview#building-your-own-checks).
 
 如需构建自定义的部署验证与状态检查，请参阅 [Checks API 文档](https://vercel.com/docs/integrations/checks-overview#building-your-own-checks)。
+{% endraw %}

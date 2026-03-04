@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Acquires Rockset | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-acquires-rockset"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI Acquires Rockset"
 tags: ["Company"]
 ---
+{% raw %}
 
 June 21, 2024
 
@@ -38,3 +38,4 @@ Stay tuned for more updates as we get to work integrating Rockset’s capabiliti
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

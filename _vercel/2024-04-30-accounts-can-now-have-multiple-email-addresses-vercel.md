@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Accounts can now have multiple email addresses - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/accounts-can-now-have-multiple-email-addresses"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 30, 2024
 
@@ -29,3 +27,4 @@ For example, both your personal email and work email can be attached to the same
 Learn more in our [documentation](https://vercel.com/docs/accounts/manage-emails).
 
 更多详情，请参阅我们的[文档](https://vercel.com/docs/accounts/manage-emails)。
+{% endraw %}

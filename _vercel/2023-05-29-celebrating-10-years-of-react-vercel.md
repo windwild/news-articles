@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Celebrating 10 Years of React - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/10-years-of-react"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Congratulations to the React team for a decade of innovation."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 29, 2023
 
@@ -59,3 +57,4 @@ Here's to [a decade of React](https://www.youtube.com/watch?v=8pDqJVdNa44) \- a 
 To celebrate React's 10th anniversary, watch Delba de Oliveira (Senior Developer Advocate at Vercel) host a roundtable discussion on React, Server Components, and more with Andrew Clark and Sebastian Markbåge from the React core team.
 
 为庆祝 React 十周年，敬请观看 Vercel 高级开发者倡导者 Delba de Oliveira 主持的圆桌讨论——她将携手 React 核心团队成员 Andrew Clark 与 Sebastian Markbåge，深入探讨 React、服务端组件（Server Components）等前沿话题。
+{% endraw %}

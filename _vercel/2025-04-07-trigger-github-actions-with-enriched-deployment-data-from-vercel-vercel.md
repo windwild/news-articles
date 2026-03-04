@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Trigger GitHub Actions with enriched deployment data from Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/trigger-github-actions-with-enriched-deployment-data-from-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now use repository_dispatch events in GitHub Actions for your Vercel projects, simplifying how you trigger GitHub Actions workflows in response to Vercel deployments."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 7, 2025
 
@@ -31,3 +29,4 @@ With `repository_dispatch`, Vercel sends custom JSON payloads with full deployme
 We recommend [migrating to `repository_dispatch`](https://vercel.com/docs/git/vercel-for-github#repository-dispatch-events) for a better experience. `deployment_status` events will continue to work for backwards compatibility.
 
 我们建议您[迁移到 `repository_dispatch`](https://vercel.com/docs/git/vercel-for-github#repository-dispatch-events)，以获得更佳体验。`deployment_status` 事件仍将保留，以确保向后兼容性。
+{% endraw %}

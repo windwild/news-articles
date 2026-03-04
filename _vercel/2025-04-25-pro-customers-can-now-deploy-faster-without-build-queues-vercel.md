@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Pro customers can now deploy faster without build queues - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/pro-customers-can-now-deploy-faster-with-on-demand-concurrency-builds"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "On-demand concurrent builds are now available for Pro and Enterprise teams with a new 5-minute slot size for greater flexibility."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 25, 2025
 
@@ -39,3 +37,4 @@ Concurrent build slots remain available for teams with steady, high-volume workl
 Learn about [on-demand concurrent builds](https://vercel.com/docs/builds/managing-builds#on-demand-concurrent-builds) and [enable them on your project](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment&title=Enable%20on-demand%20concurrent%20builds).
 
 了解更多关于[按需并发构建（on-demand concurrent builds）](https://vercel.com/docs/builds/managing-builds#on-demand-concurrent-builds)的信息，并[在您的项目中启用该功能](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment&title=Enable%20on-demand%20concurrent%20builds)。
+{% endraw %}

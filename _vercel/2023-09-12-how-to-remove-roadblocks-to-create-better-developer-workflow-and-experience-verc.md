@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How to remove roadblocks to create better developer workflow and experience - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/improving-developer-workflow"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The way your team builds software matters: Create a developer experience that promotes iteration"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 12, 2023
 
@@ -230,3 +228,4 @@ Contact Us](https://vercel.com/contact/sales)
 联系我们，深入了解如何优化您的前端工作流，并借助 Vercel 赋能团队，交付更出色的 Web 体验。\\
 \\
 联系我们](https://vercel.com/contact/sales)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI safety needs social scientists | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ai-safety-needs-social-scientists"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve written a paper arguing that long-term AI safety research needs social scientists to ensure AI alignment algorithms succeed when actual humans are involved. Properly aligning advanced AI syste..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 February 19, 2019
 
@@ -46,3 +46,4 @@ We believe close collaborations between social scientists and machine learning r
 
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
+{% endraw %}

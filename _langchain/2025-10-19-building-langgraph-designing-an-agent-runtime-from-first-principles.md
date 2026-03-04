@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building LangGraph: Designing an Agent Runtime from first principles"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/building-langgraph/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "In this blog piece, you’ll learn why and how we built LangGraph for production agents—focusing on control, durability, and the core features needed to scale."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _By Nuno Campos_
 
@@ -508,3 +506,4 @@ In summary, we thought deeply about what is different about building with LLMs a
 
 If you want to learn more about LangGraph and test it out for your own projects, head on over to the [docs](https://langchain-ai.github.io/langgraph/?ref=blog.langchain.com) to get started.  
 如果你想进一步了解 LangGraph，并将其应用于自己的项目中，请访问 [文档页面](https://langchain-ai.github.io/langgraph/?ref=blog.langchain.com) 开始上手。
+{% endraw %}

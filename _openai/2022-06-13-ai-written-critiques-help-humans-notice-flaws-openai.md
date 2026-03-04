@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI-written critiques help humans notice flaws | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/critiques"
@@ -10,6 +9,7 @@ translated: false
 description: "We trained “critique-writing” models to describe flaws in summaries. Human evaluators find flaws in summaries much more often when shown our model’s critiques. Larger models are better at self-c..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 June 13, 2022
 
@@ -210,3 +210,4 @@ Nevertheless, these results make us optimistic that we can train models to provi
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Language](https://openai.com/research/index/?tags=language)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

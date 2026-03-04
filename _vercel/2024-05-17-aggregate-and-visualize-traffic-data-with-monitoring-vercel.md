@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Aggregate and visualize traffic data with Monitoring - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/aggregate-and-visualize-traffic-data-with-monitoring"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 17, 2024
 
@@ -48,3 +46,4 @@ These aggregations can be used with any visualize setting, for analyzing **data 
 Learn more in [our documentation](https://vercel.com/docs/observability/monitoring/monitoring-reference#aggregations) about Monitoring.
 
 有关监控的更多信息，请参阅[我们的文档](https://vercel.com/docs/observability/monitoring/monitoring-reference#aggregations)。
+{% endraw %}

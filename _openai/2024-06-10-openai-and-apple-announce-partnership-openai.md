@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and Apple announce partnership | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-and-apple-announce-partnership"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI and Apple announce partnership to integrate ChatGPT into Apple experiences. "
 tags: ["Company"]
 ---
+{% raw %}
 
 June 10, 2024
 
@@ -38,3 +38,4 @@ Sam Altman, CEO of OpenAI
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

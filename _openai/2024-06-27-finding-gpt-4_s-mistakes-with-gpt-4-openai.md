@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Finding GPT-4’s mistakes with GPT-4 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4"
@@ -10,6 +9,7 @@ translated: false
 description: "CriticGPT, a model based on GPT-4, writes critiques of ChatGPT responses to help human trainers spot mistakes during RLHF"
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 June 27, 2024
 
@@ -115,3 +115,4 @@ In order to align AI systems that are increasingly complex, we’ll need better 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
+{% endraw %}

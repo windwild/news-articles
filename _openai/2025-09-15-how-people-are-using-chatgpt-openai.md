@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How people are using ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/how-people-are-using-chatgpt"
@@ -10,6 +9,7 @@ translated: false
 description: "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and mak..."
 tags: ["Research"]
 ---
+{% raw %}
 
 September 15, 2025
 
@@ -58,3 +58,4 @@ Together, these findings from the largest study of ChatGPT consumer usage to dat
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2025](https://openai.com/news/?tags=2025)
 - [GPT](https://openai.com/news/?tags=gpt)
+{% endraw %}

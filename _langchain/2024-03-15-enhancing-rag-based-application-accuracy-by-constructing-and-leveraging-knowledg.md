@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enhancing RAG-based application accuracy by constructing and leveraging knowledge graphs"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/enhancing-rag-based-applications-accuracy-by-constructing-and-leveraging-knowledge-graphs/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Partner Post"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ### A practical guide to constructing and retrieving information from knowledge graphs in RAG applications with Neo4j and LangChain
 
@@ -482,3 +480,4 @@ The code is available on [GitHub](https://github.com/tomasonjo/blogs/blob/maste
 [Partner Post](https://blog.langchain.com/tag/partner-post/) 11 min read
 
 [合作伙伴文章](https://blog.langchain.com/tag/partner-post/) 阅读时长：11 分钟
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A Content and Product Partnership with Vox Media | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/a-content-and-product-partnership-with-vox-media"
@@ -10,6 +9,7 @@ translated: false
 description: "In a multi-faceted agreement, Vox Media’s content will enhance the output of OpenAI’s ChatGPT, and the company will build on OpenAI’s technology to develop products to better serve its audiences..."
 tags: ["Company"]
 ---
+{% raw %}
 
 May 29, 2024
 
@@ -37,3 +37,4 @@ Vox Media will also use OpenAI technology to extend the leadership of Forte, its
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Invoices are now available on a dedicated page - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/invoices-are-now-available-on-a-dedicated-page"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 22, 2021
 
@@ -25,3 +23,4 @@ Vercel 付款的发票此前位于控制台（Dashboard）中“用量”（Usag
 为提升导航便捷性，发票现已迁移至个人账户（Personal Account）和团队设置（Team Settings）中的独立 **发票页面（Invoices page）**，与账单（Billing）并列呈现。
 
 尽管此次调整移除了“待出账单”（Upcoming Invoice）区域，但个人账户和团队设置中的账单页面现已提供同等的信息洞察。
+{% endraw %}

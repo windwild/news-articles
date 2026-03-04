@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing ChatGPT Health | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-chatgpt-health"
@@ -10,8 +9,7 @@ translated: true
 description: "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design."
 tags: ["Product"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 7, 2026
 
@@ -263,3 +261,4 @@ We’ll continue to expand what you can connect and the insights Health can supp
 
 - [Health & Wellness](https://openai.com/news/?tags=health-wellness)  
 - [健康与 wellness（健康福祉）](https://openai.com/news/?tags=health-wellness)
+{% endraw %}

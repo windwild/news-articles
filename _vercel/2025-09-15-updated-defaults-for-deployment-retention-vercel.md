@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Updated defaults for deployment retention - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/updated-defaults-for-deployment-retention"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel is updating the default retention policy for deployments. Unlimited retention is no longer available."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 15, 2025
 
@@ -47,3 +45,4 @@ _请注意：您最近的 10 个生产环境部署，以及当前拥有别名（
 Learn more about [Deployment Retention](https://vercel.com/docs/security/deployment-retention).
 
 了解更多关于[部署保留策略](https://vercel.com/docs/security/deployment-retention)的信息。
+{% endraw %}

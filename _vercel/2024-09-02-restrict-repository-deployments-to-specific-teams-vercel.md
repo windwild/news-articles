@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Restrict repository deployments to specific teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/restrict-repository-deployments-to-specific-teams"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 2, 2024
 
@@ -33,3 +31,4 @@ This protects against intentional and accidental deployments of protected reposi
 Learn more in our [documentation](https://vercel.com/docs/security/protected-git-scopes).
 
 更多详情，请参阅我们的[文档](https://vercel.com/docs/security/protected-git-scopes)。
+{% endraw %}

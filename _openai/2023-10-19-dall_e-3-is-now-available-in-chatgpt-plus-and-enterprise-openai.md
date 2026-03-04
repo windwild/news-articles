@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "DALL·E 3 is now available in ChatGPT Plus and Enterprise | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise"
@@ -10,6 +9,7 @@ translated: false
 description: "We developed a safety mitigation stack to ready DALL·E 3 for wider release and are sharing updates on our provenance research."
 tags: ["Product"]
 ---
+{% raw %}
 
 October 19, 2023
 
@@ -160,3 +160,4 @@ DALL·E 3 is designed to decline requests that ask for an image in the style of 
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

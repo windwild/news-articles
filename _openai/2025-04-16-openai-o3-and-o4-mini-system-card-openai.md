@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI o3 and o4-mini System Card | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/o3-o4-mini-system-card"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web browsing, Python, image and file analysis, image generation, canvas, automations, file search, and mem..."
 tags: ["Publication"]
 ---
+{% raw %}
 
 April 16, 2025
 
@@ -32,3 +32,4 @@ Read the addendum to o3 and o4-mini system card: OpenAI o3 Operator [here](https
 
 - [2025](https://openai.com/research/index/?tags=2025)
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
+{% endraw %}

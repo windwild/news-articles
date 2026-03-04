@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Experimental build mode for Hono and Express projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/experimental-build-mode-hono-express"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Users can opt-in to an experimental build mode for backend frameworks like Hono or Express. The new behavior allows logs to be filtered by route, similar to Next.js and other frameworks. It also impro..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 15, 2026
 
@@ -39,3 +37,4 @@ It also updates the build pipeline with better module resolution:
 To enable it, set `VERCEL_EXPERIMENTAL_BACKENDS=1` in your project's [environment variables](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fenvironment-variables&title=Open+environment+variables).
 
 如需启用该功能，请在项目的 [环境变量](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fenvironment-variables&title=Open+environment+variables) 中设置 `VERCEL_EXPERIMENTAL_BACKENDS=1`。
+{% endraw %}

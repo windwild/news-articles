@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Link and share Build Logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/link-and-share-build-logs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 3, 2023
 
@@ -31,3 +29,4 @@ By clicking on the timestamp on the left side of the build log line, you can hig
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/build-features) to learn more.
 
 [查看文档](https://vercel.com/docs/concepts/deployments/build-features) 了解更多信息。
+{% endraw %}

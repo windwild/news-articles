@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Set team-wide defaults for Deployment Protection - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/set-team-wide-defaults-for-deployment-protection"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Set default Deployment Protection levels for your Vercel team. Configure Standard Protection, All Deployments, or no protection for all new projects."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 13, 2026
 
@@ -41,3 +39,4 @@ If you set All Deployments as the default, every new project is protected as soo
 See the [Deployment Protection documentation](https://vercel.com/docs/deployment-protection).
 
 请参阅[部署保护文档（Deployment Protection documentation）](https://vercel.com/docs/deployment-protection)。
+{% endraw %}

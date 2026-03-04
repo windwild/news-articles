@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI announces new members to board of directors | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-announces-new-members-to-board-of-directors"
@@ -10,6 +9,7 @@ translated: false
 description: "Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board"
 tags: ["Company"]
 ---
+{% raw %}
 
 March 8, 2024
 
@@ -34,3 +34,4 @@ Bret Taylor, Chair of the OpenAI board, stated, “I am excited to welcome Sue, 
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

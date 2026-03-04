@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing OpenAI for Government | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/introducing-openai-for-government"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "We’re launching OpenAI for Government, a new initiative focused on bringing our most advanced AI tools to public servants across the United States. We're supporting the U.S. government's efforts in ..."
 ---
+{% raw %}
 
 June 16, 2025
 
@@ -38,3 +38,4 @@ Across these efforts, we’re aiming to improve both the day-to-day experience o
 We are just getting started, and we look forward to helping U.S. government leaders harness AI to better serve the public. We are committed to working in close partnership with agencies, advancing their missions with powerful tools that are safe, and secure.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How GPT-5 helped mathematician Ernest Ryu solve a 40-year-old open problem | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-mathematical-discovery"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery."
 ---
+{% raw %}
 
 November 24, 2025
 
@@ -98,3 +98,4 @@ Ultimately, Ryu thinks it will be a good thing when researchers use AI in produc
 “Be patient,” Ryu said. “If you want the model to fail, it will fail. But if your mindset is that you want to work with the model to extract value, then it’s much more likely that you will.”
 
 “This experience really had a profound influence on me. I plan to use AI in my math research all the time going forward,” Ryu said. “There's no reason why I wouldn’t.”
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "waitUntil is now available for Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/waituntil-is-now-available-for-vercel-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 10, 2024
 
@@ -37,3 +35,4 @@ The package is supported in Next.js (including Server Actions), Vercel CLI, and 
 Learn more in the [documentation](https://vercel.com/docs/functions/functions-api-reference#waituntil).
 
 更多详情请参阅 [文档](https://vercel.com/docs/functions/functions-api-reference#waituntil)。
+{% endraw %}

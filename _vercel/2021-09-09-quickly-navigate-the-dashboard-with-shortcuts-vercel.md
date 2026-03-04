@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Quickly navigate the Dashboard with shortcuts - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/quickly-navigate-the-dashboard-with-shortcuts"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 9, 2021
 
@@ -31,3 +29,4 @@ Sep 9, 2021
 - **新建项目**：基于现有 Git 仓库或模板创建新项目
 
 也欢迎查阅[相关文档](https://vercel.com/docs/personal-accounts/command-menu)。
+{% endraw %}

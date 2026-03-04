@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and Amazon announce strategic partnership | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/amazon-partnership"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
 tags: ["Company"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 27, 2026
 
@@ -111,3 +109,4 @@ OpenAI 与亚马逊将携手开发定制化大模型，供亚马逊内部开发�
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 
 - [合作伙伴关系](https://openai.com/news/?tags=partnerships)
+{% endraw %}

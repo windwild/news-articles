@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Lower pricing with Active CPU pricing for Fluid compute - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/lower-pricing-with-active-cpu-pricing-for-fluid-compute"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Pricing for Vercel Functions on Fluid compute has been reduced. All Fluid-based compute now uses an Active CPU pricing model, offering up to 90% savings in addition to the cost efficiency already deli..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 25, 2025
 
@@ -54,3 +52,4 @@ This change takes effect after a redeploy.
 Learn more about [Fluid compute with Active CPU pricing](https://vercel.com/docs/fluid-compute/pricing) and read the [announcement](https://vercel.com/blog/introducing-active-cpu-pricing-for-fluid-compute).
 
 了解更多关于[采用 Active CPU 定价的 Fluid 计算](https://vercel.com/docs/fluid-compute/pricing)，并阅读[公告](https://vercel.com/blog/introducing-active-cpu-pricing-for-fluid-compute)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Evaluating DeepAgents CLI on Terminal Bench 2.0"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/evaluating-deepagents-cli-on-terminal-bench-2-0/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:15:59.668920343+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 By Vivek Trivedy and Eugene Yurtsev
 
@@ -251,3 +249,4 @@ By running DeepAgents CLI on Terminal Bench 2 we’ve established DeepAgents as 
 
 - [Terminal Bench 2.0](https://www.tbench.ai/?ref=blog.langchain.com)
 - [Terminal Bench 2.0](https://www.tbench.ai/?ref=blog.langchain.com)
+{% endraw %}

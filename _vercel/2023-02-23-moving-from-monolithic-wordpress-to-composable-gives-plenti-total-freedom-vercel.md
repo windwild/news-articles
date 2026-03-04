@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Moving from monolithic WordPress to composable gives Plenti total freedom - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/from-monolith-to-composable-equipping-a-financial-services-ipo"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Plenti"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 23, 2023
 
@@ -73,3 +71,4 @@ And when it comes to harnessing the power of Vercel in tandem with Next.js, he c
 - Want to ensure a great developer and user experience by going composable with Next.js? [Get in touch](https://vercel.com/contact/sales).
 
 - 想通过采用 Next.js 实现可组合架构，同时保障卓越的开发者体验与终端用户体验？[联系我们](https://vercel.com/contact/sales)
+{% endraw %}

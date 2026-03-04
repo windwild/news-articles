@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Accelerating developer velocity and creating high-impact web teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/accelerating-developer-velocity-and-creating-high-impact-web-teams"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Transforming team dynamics by shifting focus from infrastructure management to innovation and delivering value."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 27, 2024
 
@@ -176,3 +174,4 @@ Let's Talk](https://vercel.com/contact/sales)
 释放顶尖云原生工具的强大能力\\  
 \\  
 立即沟通](https://vercel.com/contact/sales)
+{% endraw %}

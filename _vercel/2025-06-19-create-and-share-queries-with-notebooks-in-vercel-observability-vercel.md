@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Create and share queries with notebooks in Vercel Observability - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/create-and-share-queries-with-notebooks-in-vercel-observability"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Observability Plus users can now create a collection of queries in notebooks to collaboratively explore their observability data."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 19, 2025
 
@@ -27,3 +25,4 @@ Vercel Observability 中的 [查询（Queries）](https://vercel.com/docs/observ
 此功能面向 Observability Plus 订阅用户免费提供，无需额外付费。
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Fnotebooks)，或进一步了解 [可观测性（Observability）](https://vercel.com/docs/observability) 和 [Observability Plus](https://vercel.com/docs/observability/observability-plus)。
+{% endraw %}

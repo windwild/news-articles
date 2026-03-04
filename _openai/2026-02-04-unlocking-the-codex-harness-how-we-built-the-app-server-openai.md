@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Unlocking the Codex harness: how we built the App Server | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/unlocking-the-codex-harness"
@@ -10,8 +9,7 @@ translated: true
 description: "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs."
 tags: ["Engineering"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 2026年2月4日
 
@@ -408,3 +406,4 @@ If this sparked ideas for integrating Codex into your own workflows, it’s wort
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

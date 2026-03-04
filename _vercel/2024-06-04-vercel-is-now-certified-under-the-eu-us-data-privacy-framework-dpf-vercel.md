@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel is now certified under the EU-US Data Privacy Framework (DPF) - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-is-now-certified-under-the-eu-us-data-privacy-framework-dpf"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 4, 2024
 
@@ -25,3 +23,4 @@ Jun 4, 2024
 - **支持客户工作流程：** 当您向 Vercel 传输客户个人数据时，DPF 认证可作为一项补充机制，协助您履行相关法律及合规义务。
 
 如需查看我们的公开认证名录，请访问 [数据隐私框架官网](https://www.dataprivacyframework.gov/list)。
+{% endraw %}

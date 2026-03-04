@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved monorepo support with increased Projects per repository - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-monorepo-support-with-increased-projects-per-repository"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 27, 2022
 
@@ -29,3 +27,4 @@ Pro 用户现可从单个 Git 仓库关联最多 `60` 个项目（此前上限�
 Check out the [documentation](https://vercel.com/docs/concepts/limits/overview) to learn more.
 
 请查阅 [文档](https://vercel.com/docs/concepts/limits/overview) 了解详情。
+{% endraw %}

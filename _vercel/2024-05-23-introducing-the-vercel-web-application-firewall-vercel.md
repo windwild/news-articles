@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the Vercel Web Application Firewall - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-vercel-waf"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing the Vercel Web Application Firewall: application-aware, Vercel-native protection that brings the web one step closer to being secure by default."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 23, 2024
 
@@ -93,3 +91,4 @@ Learn more](https://vercel.com/docs/security/vercel-waf)
 查阅 Vercel WAF 文档，立即为您的应用启用安全防护。\\
 \\
 了解更多](https://vercel.com/docs/security/vercel-waf)
+{% endraw %}

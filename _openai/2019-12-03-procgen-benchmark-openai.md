@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Procgen Benchmark | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/procgen-benchmark"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills."
 tags: ["Research"]
 ---
+{% raw %}
 
 December 3, 2019
 
@@ -253,3 +253,4 @@ _If you’re interested in helping develop diverse environments,_ [_we’re hir
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
+{% endraw %}

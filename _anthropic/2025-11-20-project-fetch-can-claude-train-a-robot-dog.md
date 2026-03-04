@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Project Fetch: Can Claude train a robot dog?"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/project-fetch-robot-dog"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A practical experiment on AI's ability to affect the physical world"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Policy
 
@@ -317,3 +315,4 @@ But the idea of powerful, intelligent, and autonomous AI systems using some of t
 The dogs are in their kennels at the moment. But we’ll let them out again soon, and keep you posted on what we find.
 
 此刻，这些“狗”正暂居于各自的犬舍之中。但很快我们将再次放它们出来，并持续向您通报我们的新发现。
+{% endraw %}

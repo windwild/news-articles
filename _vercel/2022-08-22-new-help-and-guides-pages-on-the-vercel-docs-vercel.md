@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New help and guides pages on the Vercel docs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-help-and-guides-pages-on-the-vercel-docs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 22, 2022
 
@@ -29,3 +27,4 @@ The new guides page enables you to filter and search through hundreds of learnin
 Check out the [help](https://vercel.com/help) and [guides](https://vercel.com/guides) pages to learn more.
 
 欢迎访问 [帮助页面](https://vercel.com/help) 和 [指南页面](https://vercel.com/guides) 了解更多信息。
+{% endraw %}

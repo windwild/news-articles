@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Investing in the Python ecosystem - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/investing-in-the-python-ecosystem"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel welcomes the Gel Data team and deepens support for the Python ecosystem through PSF sponsorships, community funding, and improved Python developer tools."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 2, 2025
 
@@ -138,3 +136,4 @@ We're honored to welcome Yury, Elvis, and the Gel Data team to Vercel. And we're
 _Disclosure: An investment fund associated with Vercel CEO Guillermo Rauch held a passive investment in Gel Data. This acquisition was approved by an independent M&A Committee of Vercel's board of directors, which did not include Mr. Rauch._
 
 _披露声明：Vercel 首席执行官吉列尔莫·劳赫（Guillermo Rauch）名下的一支投资基金曾对 Gel Data 持有被动投资。本次收购已获 Vercel 董事会下属的独立并购委员会（M&A Committee）批准，该委员会成员不包括劳赫先生。_
+{% endraw %}

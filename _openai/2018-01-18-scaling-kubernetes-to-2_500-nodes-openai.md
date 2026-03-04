@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Scaling Kubernetes to 2,500 nodes | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/scaling-kubernetes-to-2500-nodes"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 January 18, 2018
 
@@ -151,3 +151,4 @@ Our Kubernetes clusters have been incident-free for about 3 months now, and weâ€
 
 - [Compute Scaling](https://openai.com/research/index/?tags=compute-scaling)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Bulk redirects are now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bulk-redirects-are-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Using bulk redirects, you can import millions of redirects via csv and other formats natively with Vercel."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 13, 2025
 
@@ -45,3 +43,4 @@ vercel.json
 - **额外容量：** 起价为每月 50 美元，每增加 25,000 条重定向规则
 
 [开始使用批量重定向](https://vercel.com/docs/redirects/bulk-redirects/getting-started)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Questions for the Record | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/sam-altman-senate-questions-for-the-record"
@@ -10,6 +9,7 @@ translated: false
 description: "The following are the Questions for the Record following Sam Altman's testimony before the U.S. Senate Committee on the Judiciary (Subcommittee on Privacy, Technology, & the Law)."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 Submitted: June 22, 2023
 
@@ -191,3 +191,4 @@ OpenAI does not want to replace creators. We want our systems to be used to empo
 
 
 Questions for the Record \| OpenAI
+{% endraw %}

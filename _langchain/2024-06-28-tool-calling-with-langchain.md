@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Tool Calling with LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/tool-calling-with-langchain/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:59:37.875202329+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **TLDR: We are introducing a new `tool_calls` attribute on `AIMessage`. More and more LLM providers are exposing API’s for reliable tool calling. The goal with the new attribute is to provide a standard interface for interacting with tool invocations. This is fully backwards compatible and is supported on all models that have native tool-calling support. In order to access these latest features you will need to upgrade your `langchain_core` and partner package versions.**
 
@@ -395,3 +393,4 @@ Remember to update your `langchain_core` and partner package versions to leverag
 We’d love to [hear any feedback](https://github.com/langchain-ai/langchain/discussions/20343?ref=blog.langchain.com) from you!
 
 我们非常期待收到您的[任何反馈](https://github.com/langchain-ai/langchain/discussions/20343?ref=blog.langchain.com)！
+{% endraw %}

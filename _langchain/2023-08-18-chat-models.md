@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Chat Models"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/chat-models/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Last week OpenAI released a [ChatGPT endpoint](https://openai.com/blog/introducing-chatgpt-and-whisper-apis?ref=blog.langchain.com). It came marketed with several big improvements, most notably being 10x cheaper and a lot faster. But it also came with a completely new API endpoint. We were able to [quickly write a wrapper](https://twitter.com/hwchase17/status/1631023126472724480?s=20&ref=blog.langchain.com) for this endpoint to let users use it like any normal LLM in LangChain, but this did not fully take advantage of the new message-based API. In this blog post we go over the new API schema and how we are adapting LangChain to accommodate not only ChatGPT but also all future chat-based models.
 
@@ -312,3 +310,4 @@ Finally, a big thank-you to the Anthropic team (and Mike Lambert in particular) 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

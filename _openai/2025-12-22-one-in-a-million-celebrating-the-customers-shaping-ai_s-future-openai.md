@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "One in a million: celebrating the customers shaping AI’s future | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/one-in-a-million-customers"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moder..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 December 22, 2025
 
@@ -157,3 +155,4 @@ Read more
 [联系我们的团队](https://openai.com/contact-sales/)
 
 百万中的一位：致敬塑造人工智能未来的客户 \| OpenAI
+{% endraw %}

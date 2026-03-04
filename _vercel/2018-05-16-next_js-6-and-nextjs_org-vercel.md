@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Next.js 6 and Nextjs.org - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next6"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js 6 features zero-configuration static exports, App Component, Babel 7 and more"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 16, 2018
 
@@ -305,3 +303,4 @@ We are now featuring a showcase of some nice-looking websites and applications b
 
 ![Showcase of projects built with Next.js](images/next_js-6-and-nextjs_org-vercel/img_005.jpg)  
 ![使用 Next.js 构建的项目展示](images/next_js-6-and-nextjs_org-vercel/img_005.jpg)
+{% endraw %}

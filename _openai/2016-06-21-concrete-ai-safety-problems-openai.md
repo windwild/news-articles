@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Concrete AI safety problems | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/concrete-ai-safety-problems"
@@ -10,6 +9,7 @@ translated: false
 description: "We (along with researchers from Berkeley and Stanford) are co-authors on today’s paper led by Google Brain researchers, Concrete Problems in AI Safety. The paper explores many research problems aro..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 June 21, 2016
 
@@ -41,3 +41,4 @@ Many of the problems are not new, but the paper explores them in the context of 
 We’re particularly excited to have participated in this paper as a cross-institutional collaboration. We think that broad AI safety collaborations will enable everyone to build better machine learning systems. [Let us know⁠(opens in a new window)](https://gitter.im/openai/research) if you have a future paper you’d like to collaborate on!
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
+{% endraw %}

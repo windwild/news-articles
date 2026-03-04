@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Self-serve delegation of subdomains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/self-serve-delegation-of-subdomains"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 2, 2022
 
@@ -33,3 +31,4 @@ This change makes it easier to share domains for Platforms, teams, and collabora
 To learn more check out the [UI docs](https://vercel.com/docs/concepts/projects/custom-domains#verification-challenge) or REST API docs to [add a domain to a project](https://vercel.com/docs/rest-api#endpoints/projects/add-a-domain-to-a-project) and [verify that domain](https://vercel.com/docs/rest-api#endpoints/projects/verify-project-domain) if needed.
 
 如需了解更多，请查阅 [UI 文档](https://vercel.com/docs/concepts/projects/custom-domains#verification-challenge)，或参考 REST API 文档，了解如何 [将域名添加到项目](https://vercel.com/docs/rest-api#endpoints/projects/add-a-domain-to-a-project) 以及（如有需要）如何 [验证该域名](https://vercel.com/docs/rest-api#endpoints/projects/verify-project-domain)。
+{% endraw %}

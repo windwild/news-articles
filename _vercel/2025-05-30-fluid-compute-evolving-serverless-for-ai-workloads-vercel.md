@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Fluid compute: Evolving serverless for AI workloads - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/fluid-compute-evolving-serverless-for-ai-workloads"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fluid, our newly announced compute model, eliminates wasted compute by maximizing resource efficiency. Instead of launching a new function for every request, it intelligently reuses available capacity..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 30, 2025
 
@@ -165,3 +163,4 @@ Get started](https://vercel.com/templates/ai)
 借助 Fluid Compute 优化您的 AI 应用，充分释放计算潜力。\\
 \\
 立即开始](https://vercel.com/templates/ai)
+{% endraw %}

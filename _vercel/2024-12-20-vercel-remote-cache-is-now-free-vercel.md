@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Remote Cache is now free - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/free-vercel-remote-cache"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Remote Cache is now free for all plans.  Never do the same work twice in your Turborepo or Nx repository with a shared store of build outputs and logs for your team."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 20, 2024
 
@@ -35,3 +33,4 @@ Fees accrued for usage prior to the change must be paid. Going forward, users wi
 Learn more about [Vercel Remote Cache](https://vercel.com/docs/monorepos/remote-caching).
 
 了解更多关于 [Vercel 远程缓存](https://vercel.com/docs/monorepos/remote-caching) 的信息。
+{% endraw %}

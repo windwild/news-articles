@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Winning in AI means mastering the new stack"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/winning-in-ai-means-mastering-the-new-stack/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:11:46.566102360+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Authors: Edo Liberty, Guillermo Rauch, Ori Goshen, Robert Nishihara, Harrison Chase
 
@@ -174,3 +172,4 @@ Robert Nishihara is one of the creators of Ray, a distributed framework for seam
 Harrison Chase is the co-founder and CEO of LangChain, a company formed around the popular open source Python/Typescript packages. The goal of LangChain is to make it as easy as possible to use LLMs to develop context-aware reasoning applications. Prior to starting LangChain, he led the ML team at Robust Intelligence (an MLOps company focused on testing and validation of machine learning models), led the entity linking team at Kensho (a fintech startup), and studied stats and CS at Harvard.
 
 哈里森·蔡斯是 LangChain 的联合创始人兼首席执行官——该公司围绕广受欢迎的开源 Python/TypeScript 工具包而创立。LangChain 的使命是最大限度降低使用大语言模型（LLMs）开发具备上下文感知能力的推理型应用的门槛。在创立 LangChain 之前，他曾领导 Robust Intelligence（一家专注于机器学习模型测试与验证的 MLOps 公司）的机器学习团队；也曾领导金融科技初创公司 Kensho 的实体链接（entity linking）团队；并在哈佛大学攻读统计学与计算机科学专业。
+{% endraw %}

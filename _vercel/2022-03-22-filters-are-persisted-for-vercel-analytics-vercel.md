@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Filters are persisted for Vercel Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filters-are-persisted-for-vercel-analytics"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 22, 2022
 
@@ -25,3 +23,4 @@ You can now share and bookmark a specific filter state of Vercel Analytics, whic
 Check out the [documentation](https://vercel.com/docs/concepts/analytics) as well.
 
 也请查阅[文档](https://vercel.com/docs/concepts/analytics)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Meta-learning for wrestling | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/meta-learning-for-wrestling"
@@ -10,6 +9,7 @@ translated: false
 description: "We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to ph..."
 tags: ["Research"]
 ---
+{% raw %}
 
 October 11, 2017
 
@@ -36,3 +36,4 @@ We’re exploring meta-learning as part of our work on large-scale multi-agent r
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
+{% endraw %}

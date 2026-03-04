@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Codex and Figma launch seamless code-to-design experience | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/figma-partnership"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster."
 tags: ["Global Affairs"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 26, 2026
 
@@ -95,3 +93,4 @@ To get started, install the [Figma MCP server⁠(opens in a new window)](https:/
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

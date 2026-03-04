@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Upcoming change in Let's Encrypt Chain of Trust - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/upcoming-change-in-lets-encrypt-chain-of-trust"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 18, 2024
 
@@ -35,3 +33,4 @@ After **September 30th, 2024**, clients accessing your websites hosted on Vercel
 You can check more details about this change and review remedy options in our [public announcement](https://github.com/orgs/vercel/discussions/6374) on the GitHub community forum.
 
 您可在 GitHub 社区论坛的 [公开公告](https://github.com/orgs/vercel/discussions/6374) 中查阅有关此次变更的更多细节，并评估可行的应对方案。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing IndQA | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-indqa"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge..."
 tags: ["Research"]
 ---
+{% raw %}
 
 November 3, 2025
 
@@ -120,3 +120,4 @@ We hope the release of IndQA will inform and inspire new benchmark creation from
 - [2025](https://openai.com/news/?tags=2025)
 - [Language](https://openai.com/news/?tags=language)
 - [Reasonings & Policy](https://openai.com/news/?tags=reasoning-policy)
+{% endraw %}

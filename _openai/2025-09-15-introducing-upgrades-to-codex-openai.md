@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing upgrades to Codex | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-upgrades-to-codex"
@@ -10,6 +9,7 @@ translated: false
 description: "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone."
 tags: ["Release"]
 ---
+{% raw %}
 
 September 15, 2025
 
@@ -139,3 +139,4 @@ Codex is becoming the coding partner we’ve always envisioned—one that’s fa
 
 - [2025](https://openai.com/research/index/?tags=2025)
 - [Codex](https://openai.com/research/index/?tags=codex)
+{% endraw %}

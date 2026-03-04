@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "One-click linking from Usage to Vercel Observability dashboards - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/one-click-linking-from-usage-to-vercel-observability-dashboards"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Metrics on the Vercel Usage dashboard now contain one-click links to corresponding Observability tabs, making it easier to dive deeper into your team and project usage."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 25, 2025
 
@@ -44,3 +42,4 @@ This new linking is available today for:
 Try it from [your Usage dashboard](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fusage&title=View+Usage+dashboard) and learn more about [Vercel Observability](https://vercel.com/docs/observability).
 
 请立即前往 [您的用量仪表板](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fusage&title=View+Usage+dashboard) 体验该功能，并进一步了解 [Vercel 可观测性（Vercel Observability）](https://vercel.com/docs/observability)。
+{% endraw %}

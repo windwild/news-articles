@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the Runtime Cache API - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-the-runtime-cache-api"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel RuntimeCache API that's available in all runtimes, including build, edge, middleware, & serverless."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 13, 2025
 
@@ -113,3 +111,4 @@ You can still view your Vercel Data Cache usage under the Runtime Cache tab via 
 Learn more about [Runtime Cache in the docs](https://vercel.com/docs/functions/functions-api-reference/vercel-functions-package#getcache).
 
 请在文档中了解有关 [运行时缓存（Runtime Cache）](https://vercel.com/docs/functions/functions-api-reference/vercel-functions-package#getcache) 的更多信息。
+{% endraw %}

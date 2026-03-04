@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "React Server Components with Next.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/everything-about-react-server-components"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn about React Server Components (experimental) and how they'll change how we build React applications, creating a better end-user experience."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 15, 2021
 
@@ -64,3 +62,4 @@ Both client and server components can be used together in the same route.
 Stay tuned for more updates on React Server Components in the upcoming months.
 
 敬请关注未来几个月关于 React 服务器组件的更多更新。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Life of a Vercel request: Application-aware routing - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/life-of-a-request-application-aware-routing"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's gateway leverages framework-defined infrastructure to intelligently load balance, protect, and route applications at-scale and with any architecture complexity."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 15, 2025
 
@@ -267,3 +265,4 @@ Start with Vercel to deploy and scale your app with automated, application-aware
 
 Deploy now](https://vercel.com/new)  
 立即部署](https://vercel.com/new)
+{% endraw %}

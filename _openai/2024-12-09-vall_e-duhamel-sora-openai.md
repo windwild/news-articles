@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vallée Duhamel & Sora | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/sora-vallee-duhamel"
@@ -10,6 +9,7 @@ translated: false
 description: "Filmmaking duo Vallée Duhamel explains how Sora helps build new worlds."
 tags: ["Story"]
 ---
+{% raw %}
 
 December 9, 2024
 
@@ -24,3 +24,4 @@ December 9, 2024
 Vallée Duhamel, Artists
 
 Vallée Duhamel & Sora \| OpenAI
+{% endraw %}

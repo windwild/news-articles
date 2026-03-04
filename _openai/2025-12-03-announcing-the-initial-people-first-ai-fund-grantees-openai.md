@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Announcing the initial People-First AI Fund grantees | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/people-first-ai-fund-grantees"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity."
 ---
+{% raw %}
 
 December 3, 2025
 
@@ -295,3 +295,4 @@ We’re just getting started.
 
 - [Community](https://openai.com/news/?tags=community)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

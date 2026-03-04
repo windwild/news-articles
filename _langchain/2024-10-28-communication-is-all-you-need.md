@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Communication is all you need"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/communication-is-all-you-need/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 > “What we’ve got here is failure to communicate” — [《铁窗喋血》（1967）](https://www.youtube.com/watch?v=452XjnaHr1A&ref=blog.langchain.com)  
 > “我们眼前所见，是沟通的失败。”——《铁窗喋血》（1967）
@@ -340,3 +338,4 @@ _感谢 Nuno Campos、Julia Schottenstein 与 Linda Ye 对本文初稿的审阅�
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 分钟阅读
 
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 分钟阅读
+{% endraw %}

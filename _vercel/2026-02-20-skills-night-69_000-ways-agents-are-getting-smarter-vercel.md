@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Skills Night: 69,000+ ways agents are getting smarter - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/skills-night-69000-ways-agents-are-getting-smarter"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Andrew Qu reflects on Skills Night SF: how a weekend project became 69,000 community-created skills, the security partnerships protecting them, and what eight partner demos revealed about agents, cont..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 20, 2026
 
@@ -194,3 +192,4 @@ Join us in London for our next skills.sh event. See from developers how they're 
 Join us in London](https://luma.com/l4nmctta)  
 \\  
 欢迎来到伦敦！](https://luma.com/l4nmctta)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Increasing accuracy of pediatric visit notes | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/summer-health"
@@ -10,6 +9,7 @@ translated: false
 description: "Summer Health reimagines pediatric doctor’s visits with OpenAI."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Summer Health
@@ -74,3 +74,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Increasing accuracy of pediatric visit notes \| OpenAI
+{% endraw %}

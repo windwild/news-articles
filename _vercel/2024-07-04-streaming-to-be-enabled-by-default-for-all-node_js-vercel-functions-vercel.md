@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Streaming to be enabled by default for all Node.js Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-functions-to-enable-streaming-by-default"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 4, 2024
 
@@ -25,3 +23,4 @@ Jul 4, 2024
 函数返回的流式响应将改变您的 [运行时日志格式与频率](https://vercel.com/docs/functions/streaming-functions#runtime-logs)。如果您正在使用日志转发（Log Drains），请确保您的日志采集管道能够兼容新的日志格式并应对更高的日志输出频率。
 
 更多详情，请参阅这篇 [博客文章](https://vercel.com/blog/vercel-functions-streaming-to-be-framework-agnostic) 以及我们的 [流式传输文档](https://vercel.com/docs/functions/streaming-functions)。
+{% endraw %}

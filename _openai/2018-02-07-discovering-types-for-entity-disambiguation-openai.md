@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Discovering types for entity disambiguation | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/discovering-types-for-entity-disambiguation"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve built a system for automatically figuring out which object is meant by a word by having a neural network decide if the word belongs to each of about 100 automatically-discovered “types” (n..."
 tags: ["Research"]
 ---
+{% raw %}
 
 February 7, 2018
 
@@ -350,3 +350,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Discovering types for entity disambiguation \| OpenAI
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Kimi K2.5 is live on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/kimi-k2-5-on-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access Moonshot AI's Kimi K2.5 model via Vercel's AI Gateway with no other provider accounts required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 26, 2026
 
@@ -58,3 +56,4 @@ AI 网关（AI Gateway）提供统一的 API，用于调用模型、追踪用量
 Learn more about [AI Gateway](https://vercel.com/ai-gateway), view the [AI Gateway model leaderboard](https://vercel.com/ai-gateway/leaderboards) or try it in our [model playground](https://vercel.com/ai-gateway/models/kimi-k2.5).
 
 了解更多关于 [AI 网关](https://vercel.com/ai-gateway) 的信息，查看 [AI 网关模型排行榜](https://vercel.com/ai-gateway/leaderboards)，或在我们的 [模型体验平台](https://vercel.com/ai-gateway/models/kimi-k2.5) 中亲自试用。
+{% endraw %}

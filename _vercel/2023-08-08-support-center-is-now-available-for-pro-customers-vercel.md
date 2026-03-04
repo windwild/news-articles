@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Support Center is now available for Pro customers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-center-on-pro"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 8, 2023
 
@@ -29,3 +27,4 @@ Vercel 支持中心允许您创建支持工单、查看工单状态，并接收�
 Check out the documentation on [Support Center](https://vercel.com/docs/concepts/dashboard-features/support-center) to learn more.
 
 请查阅 [支持中心](https://vercel.com/docs/concepts/dashboard-features/support-center) 文档以了解更多信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Visual Editing can now be used with Builder.io  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/visual-editing-can-now-be-used-with-builder-io"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 18, 2023
 
@@ -29,3 +27,4 @@ This functionality is now possible for Enterprise customers using [Builder.io](h
 Check out the [documentation](https://vercel.com/docs/workflow-collaboration/visual-editing#get-started) to learn more or [contact us for access](https://vercel.com/contact/sales).
 
 请查阅 [相关文档](https://vercel.com/docs/workflow-collaboration/visual-editing#get-started) 了解详情，或 [联系我们申请访问权限](https://vercel.com/contact/sales)。
+{% endraw %}

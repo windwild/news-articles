@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Stargate UK | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-stargate-uk"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public servi..."
 ---
+{% raw %}
 
 September 16, 2025
 
@@ -40,3 +40,4 @@ OpenAI’s technology has become essential for millions of people in the UK. The
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Boosting the customer retail experience with GPT-4o mini | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/zalando"
@@ -10,6 +9,7 @@ translated: false
 description: "Zalando boosts the customer experience with its Assistant, powered by GPT-4o mini"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Zalando boosts the customer experience with its Assistant, powered by GPT‑4o mini
@@ -74,3 +74,4 @@ Building on this success, Zalando is progressing the Assistant with more convers
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

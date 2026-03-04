@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Benchmarking Agent Tool Use"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/benchmarking-agent-tool-use/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:19:21.584081262+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Agents may be _the_ [“killer” LLM app](https://www.latent.space/p/agents?ref=blog.langchain.com), but building and evaluating agents is hard.  
 代理可能是 _那个_ [“杀手级”大语言模型应用](https://www.latent.space/p/agents?ref=blog.langchain.com)，但构建和评估代理却十分困难。
@@ -424,3 +422,4 @@ Thanks again!
 再次感谢！
 
 ![](images/benchmarking-agent-tool-use/img_017.png)
+{% endraw %}

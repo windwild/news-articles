@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Releasing safe and cost-efficient blue-green deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/releasing-safe-and-cost-efficient-blue-green-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel's platform primitives enable safe and scalable blue-green deployments that mitigate the risks of rolling out new software versions."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 12, 2024
 
@@ -176,3 +174,4 @@ See how Vercel's Skew Protection feature enables production-ready blue-green dep
 
 [Get Started Now](https://vercel.com/templates/next.js/blue-green-deployments-vercel)  
 [立即开始](https://vercel.com/templates/next.js/blue-green-deployments-vercel)
+{% endraw %}

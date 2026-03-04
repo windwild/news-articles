@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-5, GPT-5-mini, and GPT-5-nano are now available in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gpt-5-gpt-5-mini-and-gpt-5-nano-are-now-available-in-vercel-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access the gpt-5 models by OpenAI, their most advanced models pushing the frontier of reasoning and domain expertise, using Vercel's AI Gateway with no other provider accounts required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 7, 2025
 
@@ -93,3 +91,4 @@ View the leaderboard](https://vercel.com/ai-gateway/leaderboards)
 AI Gateway 模型排行榜依据所有经由网关的流量所产生的总 Token 量，对各模型的历史使用频次进行排序。榜单定期更新。  
 \\  
 查看排行榜](https://vercel.com/ai-gateway/leaderboards)
+{% endraw %}

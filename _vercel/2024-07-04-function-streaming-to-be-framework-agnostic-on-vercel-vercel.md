@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Function streaming to be framework-agnostic on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-functions-streaming-to-be-framework-agnostic"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Function streaming now framework-agnostic on Vercel."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 4, 2024
 
@@ -278,3 +276,4 @@ Streaming will be enabled by default for Hobby accounts starting **July 8th, 202
 To enable streaming as the default today for all your Vercel Functions, set the `VERCEL_FORCE_NODEJS_STREAMING` environment variable in your project to `true`. Streaming will be enabled on your next deployment.
 
 如需立即为您的所有 Vercel Functions 默认启用流式传输，请在项目中将环境变量 `VERCEL_FORCE_NODEJS_STREAMING` 设置为 `true`。下次部署时，流式传输即会生效。
+{% endraw %}

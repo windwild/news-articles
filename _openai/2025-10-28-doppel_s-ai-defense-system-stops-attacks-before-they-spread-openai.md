@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Doppel’s AI defense system stops attacks before they spread | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/doppel"
@@ -10,6 +9,7 @@ translated: false
 description: "Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to stop deepfake and impersonation attacks before they spread, cutting analyst workloads by 80% and reducing threat respon..."
 tags: ["API"]
 ---
+{% raw %}
 
 October 28, 2025
 
@@ -89,3 +89,4 @@ With each iteration, Doppel is building toward a system that defends what’s re
 ## OpenAI <3 startups. Come build with us.
 
 [Join the community](https://openai.com/leads/startup/) [Start building(opens in a new window)](https://platform.openai.com/)
+{% endraw %}

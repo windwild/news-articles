@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "HYGH accelerates development and campaign delivery with ChatGPT Business | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/hygh"
@@ -10,6 +9,7 @@ translated: false
 description: "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth."
 tags: ["ChatGPT"]
 ---
+{% raw %}
 
 October 10, 2025
 
@@ -83,3 +83,4 @@ HYGH set out to build the backbone for the “Internet of Public Screens.” Wit
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

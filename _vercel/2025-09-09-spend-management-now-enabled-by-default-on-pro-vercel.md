@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Spend Management now enabled by default on Pro - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/spend-management-now-enabled-by-default-on-pro"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Pro teams can now add unlimited free Viewer seats so team members can more flexibly, and cost-efficiently collaborate."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 9, 2025
 
@@ -49,3 +47,4 @@ Read more](https://vercel.com/blog/new-pro-pricing-plan)
 即刻开始使用全新 Pro 计划进行开发。现提供灵活的额度信用（flexible credits）、免费的查看者席位（free viewer seats），以及企业级功能。\\  
 \\  
 了解更多](https://vercel.com/blog/new-pro-pricing-plan)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI safety practices | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-safety-update"
@@ -10,6 +9,7 @@ translated: false
 description: "Artificial general intelligence has the potential to benefit nearly every aspect of our lives—so it must be developed and deployed responsibly."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 May 21, 2024
 
@@ -49,3 +49,4 @@ As we move towards our next frontier model, we recognize we will need to evolve 
 
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

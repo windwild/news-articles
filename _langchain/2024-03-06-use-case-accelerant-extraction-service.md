@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Use Case Accelerant: Extraction Service"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/use-case-accelerant-extraction-service/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Today we’re excited to announce our newest OSS use-case accelerant: an [extraction](https://github.com/langchain-ai/langchain-extract?ref=blog.langchain.com) [service](https://github.com/langchain-ai/langchain-extract?ref=blog.langchain.com). LLMs are a powerful tool for extracting structured data from unstructured sources. We've improved our [support for data extraction](https://python.langchain.com/docs/use_cases/extraction/?ref=blog.langchain.com) in the open source LangChain library over the past few releases, and now we’re taking that a step further with a starter repository to help you build your own extraction application.
 
@@ -368,3 +366,4 @@ Additional Resources:
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Common mistakes with the Next.js App Router and how to fix them - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/common-mistakes-with-the-next-js-app-router-and-how-to-fix-them"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to use the Next.js App Router more effectively and understand the new model."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 8, 2024
 
@@ -1340,3 +1338,4 @@ Next.js App Router 是构建 React 应用程序的一种新方法，其中包含
 If you want to keep learning more and apply this knowledge, check out our [Next.js Learn course](https://nextjs.org/learn) to build a real dashboard application with the App Router.
 
 如果你想持续深入学习并实践所学知识，欢迎访问我们的 [Next.js Learn 课程](https://nextjs.org/learn)，使用 App Router 构建一个真实的仪表盘应用。
+{% endraw %}

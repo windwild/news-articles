@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Constitutional Classifiers: Defending against universal jailbreaks"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/constitutional-classifiers"
@@ -8,8 +7,7 @@ language: "en-zh"
 translated: true
 description: "A paper from Anthropic describing a new way to guard LLMs against jailbreaking"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -313,3 +311,4 @@ We’d like to thank [HackerOne](https://www.hackerone.com/) for supporting our 
 If you’re interested in working on problems such as jailbreak robustness or on other questions related to model safeguards, we’re currently recruiting for [Research Engineers / Scientists](https://boards.greenhouse.io/anthropic/jobs/4459012008), and we’d love to see your application.
 
 如果您对诸如“越狱鲁棒性”等课题，或其他与模型安全防护相关的问题感兴趣，我们目前正招聘 [研究工程师／科学家（Research Engineers / Scientists）](https://boards.greenhouse.io/anthropic/jobs/4459012008)，诚挚期待您的申请！
+{% endraw %}

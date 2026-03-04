@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Remote uses LangChain and LangGraph to onboard thousands of customers with AI"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-remote/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Guest post written by José Mussa (Staff Software Engineer @ Remote)_
 
@@ -184,3 +182,4 @@ Migrating HR data is one of the toughest parts of onboarding thousands of custom
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：6 分钟
+{% endraw %}

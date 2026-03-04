@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Build stateful conversational AI agents with LangGraph and assistant-ui"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/assistant-ui/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:53:50.177704680+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **TL;DR: assistant-ui 是一个可嵌入 React 应用的 AI 聊天前端组件。它支持流式响应（streaming）、生成式 UI（generative UI）、人工介入（human-in-the-loop）等关键用户体验范式，专为智能体（agentic）应用而设计。我们与该项目维护者 Simon 合作，实现了 assistant-ui 与 LangGraph Cloud 的深度集成。这使得你可以轻松将 LangGraph 智能体部署为独立 Web 应用，或将其作为助手无缝集成到现有应用中。本文由 LangChain 团队与 Simon 共同撰写。**
 
@@ -174,3 +172,4 @@ By leveraging this powerful integration, developers can focus on creating value-
 To learn more about assistant-ui, check out the [documentation](https://www.assistant-ui.com/docs/runtimes/langgraph?ref=blog.langchain.com) or the stockbroker [example repository](https://github.com/Yonom/assistant-ui-stockbroker?ref=blog.langchain.com).
 
 如需深入了解 assistant-ui，请查阅其 [官方文档](https://www.assistant-ui.com/docs/runtimes/langgraph?ref=blog.langchain.com)，或参阅股票经纪人（stockbroker）[示例代码仓库](https://github.com/Yonom/assistant-ui-stockbroker?ref=blog.langchain.com)。
+{% endraw %}

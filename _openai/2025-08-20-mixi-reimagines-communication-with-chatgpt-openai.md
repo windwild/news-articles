@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "MIXI reimagines communication with ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/mixi"
@@ -10,6 +9,7 @@ translated: false
 description: "Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment..."
 tags: ["ChatGPT"]
 ---
+{% raw %}
 
 August 20, 2025
 
@@ -88,3 +88,4 @@ Yoshino echoes this sentiment, saying the organization’s capabilities have bro
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Vercel helped Desenio future-proof their business - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-vercel-helped-desenio-future-proof-their-business"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel helped Desenio future-proof their business"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 9, 2024
 
@@ -95,3 +93,4 @@ With a toolbelt of new tools, skyrocketing metrics, and the confidence to experi
 Ready to future-proof your business and frontend stack? [Get in touch](https://vercel.com/contact/sales).
 
 准备好为您的业务和前端技术栈做好面向未来的准备了吗？[联系我们](https://vercel.com/contact/sales)。
+{% endraw %}

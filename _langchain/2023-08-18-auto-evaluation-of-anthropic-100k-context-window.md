@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Auto-Evaluation of Anthropic 100k Context Window"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/auto-evaluation-of-anthropic-100k-context-window/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [Lance Martin](https://twitter.com/RLanceMartin?ref=blog.langchain.com)
 
@@ -159,3 +157,4 @@ On a test set of 5 questions for the 75 page GPT3 paper ( [here](https://github.
 [**LangGraph Platform in beta: New deployment options for scalable agent infrastructure**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [**LangGraph Platform 进入 Beta 阶段：面向可扩展智能体基础设施的新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New utilities to work with Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-utilities-to-work-with-vercel-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 17, 2024
 
@@ -33,3 +31,4 @@ pnpm i @vercel/functions​
 ```
 
 在[文档](https://vercel.com/docs/functions/vercel-functions-package)中了解更多信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Zero-configuration Express backends - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/zero-configuration-express-backends"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now detects and deploys Express, a fast, unopinionated, minimalist web framework built on web standards, with zero configuration."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 5, 2025
 
@@ -55,3 +53,4 @@ Vercel 的 [框架定义基础设施（Framework-Defined Infrastructure）](http
 [Deploy Express on Vercel](https://vercel.com/templates/backend/express-js-on-vercel) or [visit the Express on Vercel documentation](https://vercel.com/docs/frameworks/backend/express).
 
 [在 Vercel 上部署 Express](https://vercel.com/templates/backend/express-js-on-vercel)，或 [查阅 Vercel 上的 Express 文档](https://vercel.com/docs/frameworks/backend/express)。
+{% endraw %}

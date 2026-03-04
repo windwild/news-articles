@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Up to 5 TB file transfers with Blob multipart uploads - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/5tb-file-transfers-with-vercel-blob-multipart-uploads"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 17, 2024
 
@@ -49,3 +47,4 @@ Network output is maximized without consuming too much memory. Multipart uploads
 [Check out the documentation](https://vercel.com/docs/storage/vercel-blob/using-blob-sdk#upload) to learn more.
 
 [查看文档](https://vercel.com/docs/storage/vercel-blob/using-blob-sdk#upload) 以了解更多信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Nano Banana Pro (Gemini 3 Pro Image) now available in the AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/nano-banana-pro-gemini-3-pro-image-now-available-in-the-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access Google's latest model Nano Banana Pro (Gemini 3 Pro Image) in Vercel AI Gateway with no other provider accounts required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 20, 2025
 
@@ -93,3 +91,4 @@ View the leaderboard](https://vercel.com/ai-gateway/leaderboards)
 AI Gateway 模型排行榜依据通过网关的所有流量所产生的总 Token 量，对各模型的历史使用频次进行排序。榜单定期更新。  
 \\  
 查看排行榜](https://vercel.com/ai-gateway/leaderboards)
+{% endraw %}

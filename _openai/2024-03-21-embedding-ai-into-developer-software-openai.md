@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Embedding AI into developer software | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/jetbrains"
@@ -10,6 +9,7 @@ translated: false
 description: "JetBrains uses OpenAI’s API to build its fastest-growing product ever."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # JetBrains
@@ -105,3 +105,4 @@ APIMar 18, 2024](https://openai.com/index/superhuman/)
 APIMar 18, 2024](https://openai.com/index/salesforce/)
 
 Embedding AI into developer software \| OpenAI
+{% endraw %}

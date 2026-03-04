@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "American-made innovation | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/american-made-innovation"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "American-made innovation"
 ---
+{% raw %}
 
 September 22, 2025
 
@@ -18,3 +18,4 @@ September 22, 2025
 
 
 American-made innovation \| OpenAI
+{% endraw %}

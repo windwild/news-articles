@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improving health literacy and patient well-being | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/lifespan"
@@ -10,6 +9,7 @@ translated: false
 description: "Lifespan uses GPT-4 to radically improve health literacy and patient outcomes."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Lifespan
@@ -89,3 +89,4 @@ ChatGPTMar 18, 2024](https://openai.com/index/holiday-extras/)
 APIMar 18, 2024](https://openai.com/index/superhuman/)
 
 Improving health literacy and patient well-being \| OpenAI
+{% endraw %}

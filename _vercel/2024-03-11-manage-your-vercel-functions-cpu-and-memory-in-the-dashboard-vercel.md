@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Manage your Vercel Functions CPU and memory in the dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/manage-your-vercel-functions-cpu-and-memory-in-the-dashboard"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 11, 2024
 
@@ -25,3 +23,4 @@ Mar 11, 2024
 当前已部署的工作负载（未修改过 `vercel.json`）默认采用高性价比的基础配置。提高函数 CPU 配额会在相同执行时长下增加费用，但可能显著缩短函数执行时间。这种执行加速效果，可能使总体成本保持不变（甚至在某些情况下降低费用）。
 
 [查阅文档](https://vercel.com/docs/functions/configuring-functions/memory) 了解更多信息。
+{% endraw %}

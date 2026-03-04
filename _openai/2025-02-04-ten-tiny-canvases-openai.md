@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Ten tiny canvases | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ten-tiny-canvases"
@@ -10,6 +9,7 @@ translated: false
 description: "Using ChatGPT to find inspiration for nail art"
 tags: ["Story"]
 ---
+{% raw %}
 
 February 4, 2025
 
@@ -121,3 +121,4 @@ ChatGPTFeb 4, 2025](https://openai.com/index/my-dog-the-math-tutor/)
 APIDec 11, 2024](https://openai.com/index/zalando/)
 
 Ten tiny canvases \| OpenAI
+{% endraw %}

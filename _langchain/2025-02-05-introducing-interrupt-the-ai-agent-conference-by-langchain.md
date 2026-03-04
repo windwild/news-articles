@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Interrupt: The AI Agent Conference by LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/introducing-interrupt-langchain-conference/"
@@ -10,8 +9,7 @@ translated: true
 description: "Join us this May at Interrupt, LangChain’s inaugural conference where the future of AI agents takes center stage."
 tags: ["Harrison Chase", "![LangChain's Second Birthday", "![What is an AI agent?", "**What is an AI agent?**"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Interrupt is LangChain’s inaugural conference, where we’re exploring what the future of AI agents looks like — from their untapped potential, to practical use cases, to risks and challenges. This is a meeting of the minds for anyone building AI agents — whether you’re a software engineer, AI/ML practitioner, data scientist, researcher, or engineering leader.
 
@@ -138,3 +136,4 @@ Looking forward to seeing you all in May!
 [Harrison Chase](https://blog.langchain.com/tag/harrison-chase/) 4 分钟阅读
 
 [Harrison Chase](https://blog.langchain.com/tag/harrison-chase/) 4 min read
+{% endraw %}

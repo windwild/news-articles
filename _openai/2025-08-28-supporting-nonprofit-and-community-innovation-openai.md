@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Supporting nonprofit and community innovation | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/supporting-nonprofit-and-community-innovation"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more."
 ---
+{% raw %}
 
 August 28, 2025
 
@@ -41,3 +41,4 @@ This fund is an early step in a larger vision: to ensure the Intelligence Age is
 This is the next step in a continuing journey—we’re just getting started.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

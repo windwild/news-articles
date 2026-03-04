@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Security through design: Creating the improved Firewall experience - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/security-through-design-creating-the-improved-firewall-experience"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel introduces a new Firewall UI for better surfacing of events and alerts while providing deeper information on mitigation activity"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 24, 2025
 
@@ -165,3 +163,4 @@ Security is usability. When tools are clear and well-designed, teams act faster 
 We'd love your feedback. Explore the new Firewall experience today in your [Vercel Dashboard](https://vercel.com/dashboard) and share your thoughts in the [Vercel Community](https://vercel.com/community).
 
 我们非常期待您的反馈！请立即前往您的 [Vercel 控制台](https://vercel.com/dashboard) 体验全新的防火墙功能，并在 [Vercel 社区](https://vercel.com/community) 中分享您的想法。
+{% endraw %}

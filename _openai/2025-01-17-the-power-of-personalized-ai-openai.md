@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The power of personalized AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/the-power-of-personalized-ai"
@@ -11,6 +10,7 @@ description: "The power of personalized AI
 "
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 January 17, 2025
 
@@ -43,3 +43,4 @@ We believe customization works best when paired with transparency about why Chat
 More broadly, AI is transformational because it can help people do things they couldn’t do on their own—and because it can be fine-tuned to meet their needs. Our responsibility to our users—and to the world—is to find ways of maximizing the technology’s enormous potential gains while minimizing its risks.
 
 Steve Jobs famously described computers as “bicycles for the mind,” highlighting their role in amplifying human productivity, creativity, and access to information. AI is even more powerful—it’s like a rocket ship for the mind. And like a rocket ship, humans-not computers - are the ones who operate AI. People can decide for themselves where they want to go and how they want to get there. At the end of the day, there’s no single experience with ChatGPT. It can serve vastly different purposes for vastly different people—and that’s exactly how it should be.
+{% endraw %}

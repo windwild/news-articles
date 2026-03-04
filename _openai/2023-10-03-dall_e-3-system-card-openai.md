@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "DALL·E 3 system card | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/dall-e-3-system-card"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 October 3, 2023
 
@@ -30,3 +30,4 @@ DALL·E 3 is an artificial intelligence system that takes a text prompt as an in
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved dashboard navigation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-dashboard-navigation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 25, 2023
 
@@ -25,3 +23,4 @@ The dashboard navigation has received a visual update. You can now see the proje
 Check out the [documentation](https://vercel.com/docs/concepts/dashboard-features) to learn more.
 
 请查阅[文档](https://vercel.com/docs/concepts/dashboard-features)了解更多信息。
+{% endraw %}

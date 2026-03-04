@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing GPT-4.5 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-gpt-4-5"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing a research preview of GPT‑4.5—our largest and best model for chat yet. GPT‑4.5 is a step forward in scaling up pre-training and post-training."
 tags: ["Release"]
 ---
+{% raw %}
 
 February 27, 2025
 
@@ -158,3 +158,4 @@ Below, we provide GPT‑4.5’s results on standard academic benchmarks to illus
 | SWE-Bench Verified (coding)\* | 38.0% | 30.7% | 61.0% |
 
 \*Numbers shown represent best internal performance.
+{% endraw %}

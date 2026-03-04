@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Multi Needle in a Haystack"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/multi-needle-in-a-haystack/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:08:43.267701831+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ## Key Links
 
@@ -256,3 +254,4 @@ We can draw a few general insights, but further testing is needed:
 - `Retrieval vs reasoning` \- Performance degrades when the LLM is asked to reason about the retrieved facts.
 
 - `检索 vs 推理`：当要求大语言模型对已检索出的事实进行推理时，其性能会下降。
+{% endraw %}

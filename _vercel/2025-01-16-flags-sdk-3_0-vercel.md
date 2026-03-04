@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Flags SDK 3.0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/flags-sdk-3-0"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Flags SDK has been updated to version 3.0 and open sourced. Check out the new standalone Flags SDK documentation with updated examples to learn more."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 16, 2025
 
@@ -75,3 +73,4 @@ With this release, [the repository](https://github.com/vercel/flags) is now open
 Check out the [new Flags SDK documentation](https://www.flags-sdk.dev/) with updated examples to learn more.
 
 欢迎查阅 [全新的 Flags SDK 文档](https://www.flags-sdk.dev/)，其中包含更新的示例，帮助您进一步了解。
+{% endraw %}

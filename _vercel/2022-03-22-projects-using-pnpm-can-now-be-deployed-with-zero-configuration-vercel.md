@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Projects using pnpm can now be deployed with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/projects-using-pnpm-can-now-be-deployed-with-zero-configuration"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 22, 2022
 
@@ -29,3 +27,4 @@ Like Yarn and npm, pnpm is a package manager focused on saving disk space and [b
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/build-step#install-command) as well.
 
 也请参阅[相关文档](https://vercel.com/docs/concepts/deployments/build-step#install-command)。
+{% endraw %}

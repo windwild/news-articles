@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Addendum to GPT-5 system card: GPT-5-Codex | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex"
@@ -10,6 +9,7 @@ translated: false
 description: "This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based..."
 tags: ["Safety"]
 ---
+{% raw %}
 
 September 15, 2025
 
@@ -29,3 +29,4 @@ This addendum outlines the comprehensive safety measures implemented for GPT‑5
 - [2025](https://openai.com/news/?tags=2025)
 - [System Cards](https://openai.com/news/?tags=system-cards)
 - [Codex](https://openai.com/news/?tags=codex)
+{% endraw %}

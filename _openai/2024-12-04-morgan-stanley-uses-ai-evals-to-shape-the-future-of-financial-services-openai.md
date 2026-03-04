@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Morgan Stanley uses AI evals to shape the future of financial services | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/morgan-stanley"
@@ -10,6 +9,7 @@ translated: false
 description: "Morgan Stanley uses AI evals to shape the future of financial services"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Morgan Stanley uses AI evals to shape the future of financial services
@@ -97,3 +97,4 @@ Their strong eval framework has also unlocked a flywheel for future solutions an
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

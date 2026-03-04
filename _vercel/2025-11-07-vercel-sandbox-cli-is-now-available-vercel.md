@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Sandbox CLI is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-sandbox-cli-is-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Sandbox CLI, based on the Docker CLI, allows you to manage sandboxes, execute commands, copy files, and more from the command line."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 7, 2025
 
@@ -47,3 +45,4 @@ We’ve introduced the Vercel Sandbox CLI, a command-line interface for managing
 Full reference now available in the [Sandbox CLI docs](https://vercel.com/docs/vercel-sandbox/cli-reference).
 
 完整参考文档现已发布于 [Sandbox CLI 文档](https://vercel.com/docs/vercel-sandbox/cli-reference)。
+{% endraw %}

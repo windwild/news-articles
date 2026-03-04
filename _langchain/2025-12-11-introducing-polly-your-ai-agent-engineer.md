@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Polly: Your AI Agent Engineer"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/introducing-polly-your-ai-agent-engineer/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:15:49.723060935+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Today, we're launching **Polly:** an AI-powered assistant built directly into LangSmith that helps you debug, analyze, and improve your agents.
 
@@ -154,3 +152,4 @@ Polly 当前已支持分析 traces、调试对话以及提示词工程（prompt 
 LangChain 是一个广受信赖的代理工程平台，已被数千支团队用于构建和上线生产级 agent。如今，借助 Polly，您将拥有一位 AI 专家，在整个开发过程中为您提供全程支持。
 
 [今天就试用 Polly](https://smith.langchain.com/?ref=blog.langchain.com)
+{% endraw %}

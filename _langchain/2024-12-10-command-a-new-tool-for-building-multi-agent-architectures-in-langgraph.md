@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Command: A new tool for building multi-agent architectures in LangGraph"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/command-a-new-tool-for-multi-agent-architectures-in-langgraph/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn about Command, a new tool in LangGraph that helps facilitate multi-agent communication."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Agent and multi-agent systems are all about how the different components of the system [communicate with each other](https://blog.langchain.com/communication-is-all-you-need/). We spend a lot of time thinking about the best infrastructure and developer experience for facilitating this type of communication. Today, we’re excited to announce `Command`: a new tool in `langgraph` to more easily facilitate multi-actor (or multi-agent) communication.
 
@@ -98,3 +96,4 @@ Building agentic and multi-agent systems is all about communication. As such, ou
 For a video guide of this, see [our walkthrough on YouTube](https://youtu.be/6BJDKf90L9A?ref=blog.langchain.com).  
 
 如需视频讲解，请观看我们在 YouTube 上发布的[操作演示视频](https://youtu.be/6BJDKf90L9A?ref=blog.langchain.com)。
+{% endraw %}

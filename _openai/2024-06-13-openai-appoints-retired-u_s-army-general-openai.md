@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI appoints Retired U.S. Army General  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-appoints-retired-us-army-general"
@@ -11,6 +10,7 @@ description: "Nakasone brings cybersecurity experience to growing Board of Direc
 "
 tags: ["Company"]
 ---
+{% raw %}
 
 June 13, 2024
 
@@ -39,3 +39,4 @@ General Nakasone shared his perspective on joining the Board, stating, “OpenAI
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

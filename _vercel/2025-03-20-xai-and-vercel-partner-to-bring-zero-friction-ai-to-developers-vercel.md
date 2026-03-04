@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "xAI and Vercel partner to bring zero-friction AI to developers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/xai-and-vercel-partner-to-bring-zero-friction-ai-to-developers"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel partners with xAI to bring Grok models directly to your Vercel projects through the Vercel Marketplace—and soon v0—with no additional signup required. xAI adds a new free tier through Verce..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 20, 2025
 
@@ -158,3 +156,4 @@ Vercel 提供了您开始使用 AI 所需的一切。
 
 Start building  
 立即开始构建](https://vercel.com/ai)
+{% endraw %}

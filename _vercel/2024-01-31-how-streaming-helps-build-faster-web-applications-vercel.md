@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How streaming helps build faster web applications - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-streaming-helps-build-faster-web-applications"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn why streaming is critical for performance and how the Next.js App Router integrates with React Suspense to easily enable streaming UI."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 31, 2024
 
@@ -117,3 +115,4 @@ Jun 22, 2023
 ![](images/how-streaming-helps-build-faster-web-applications-vercel/img_001.jpg)
 
 莉迪亚·哈利
+{% endraw %}

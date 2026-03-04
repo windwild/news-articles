@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Feature Stores and LLMs"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/feature-stores-and-llms/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:47:04.084718207+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Editor's note: big thank you to [Willem Pienaar](https://twitter.com/willpienaar?ref=blog.langchain.com) ( [Feast](https://github.com/feast-dev/feast?ref=blog.langchain.com)), [Mike Del Balso](https://twitter.com/mikedelbalso?ref=blog.langchain.com) ( [Tecton](https://www.tecton.ai/?ref=blog.langchain.com)), and [Simba Khadder](https://twitter.com/simba_khadder?ref=blog.langchain.com) ( [FeatureForm](https://www.featureform.com/?ref=blog.langchain.com)) for their comments and help on this post.**
 
@@ -206,3 +204,4 @@ This is obviously a simple example, but we believe it highlights the power of th
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口端点**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Working with US CAISI and UK AISI to build more secure AI systems | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/us-caisi-uk-aisi-ai-update"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 September 12, 2025
 
@@ -89,3 +89,4 @@ The technical expertise in AI and national security that CAISI and UK AISI broug
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

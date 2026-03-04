@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangSmith's Latest Feature: Grouped Monitoring Charts"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/grouped-monitoring-charts/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["agent builder"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ## Tag and Metadata Grouping
 
@@ -293,3 +291,4 @@ You can sign up for LangSmith [here](https://smith.langchain.com/?ref=blog.langc
 [**Access Control Updates for LangSmith**](https://blog.langchain.com/access-control-updates-for-langsmith/)
 
 [**LangSmith 访问控制更新**](https://blog.langchain.com/access-control-updates-for-langsmith/)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Browserbase joins the Vercel Agent Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/browserbase-joins-the-vercel-agent-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Browserbase is now available on the Vercel Marketplace, allowing teams to run browser automation for AI agents without managing infrastructure. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 12, 2026
 
@@ -30,3 +28,4 @@ Feb 12, 2026
 同日发布的还有 [Browserbase 对 Web Bot Auth 的支持](https://vercel.com/changelog/web-bot-auth-browserbase-agents)，使智能体能够稳定访问托管于 Vercel 的部署应用，不受各类安全防护层的干扰。
 
 立即前往 Vercel Marketplace 开始使用 [Browserbase](https://vercel.com/marketplace/browserbase)，或尝试此 [示例](https://vercel.com/templates/template/ai-research-agent)，亲身体验其实际效果。
+{% endraw %}

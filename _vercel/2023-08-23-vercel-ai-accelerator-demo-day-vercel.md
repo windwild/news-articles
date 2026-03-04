@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel AI Accelerator Demo Day - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-ai-accelerator-demo-day"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Watch 28 talented AI startups show off impressive demos in 3 minutes each as part of our AI Accelerator Demo Day."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 2023年8月23日
 
@@ -215,3 +213,4 @@ Vercel 模板
 ### 由 Vercel 构建的全功能、可高度定制的 Next.js AI 聊天机器人
 
 聊天机器人
+{% endraw %}

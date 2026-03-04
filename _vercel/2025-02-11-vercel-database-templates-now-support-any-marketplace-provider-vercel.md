@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel database templates now support any marketplace provider - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-database-templates-now-support-any-marketplace-provider"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel database templates are provider agnostic and now support any Postgres or Redis provider in the Vercel Marketplace."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 11, 2025
 
@@ -25,3 +23,4 @@ Feb 11, 2025
 - PostgreSQL：[Next.js](https://vercel.com/new/templates/next.js/postgres-starter)，[Nuxt.js](https://vercel.com/new/templates/nuxt/postgres-nuxt)，[SvelteKit](https://vercel.com/new/templates/svelte/postgres-sveltekit)，[Kysely](https://vercel.com/new/templates/next.js/postgres-kysely)，[Drizzle](https://vercel.com/new/templates/next.js/postgres-drizzle)
 
 请查阅文档，[了解如何部署您自己的应用](https://vercel.com/docs/deployments/deploy-button)。
+{% endraw %}

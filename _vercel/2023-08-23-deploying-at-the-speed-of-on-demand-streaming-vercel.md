@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deploying at the speed of on-demand streaming - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/deploying-at-the-speed-of-on-demand-streaming"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Streamlined deployment process and superior developer experience for Joyn"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 23, 2023
 
@@ -51,3 +49,4 @@ This means the viewing experience for Joyn users is seamless and near-instant—
 Want to learn more about how you can ensure on-demand performance with Vercel? [Get in touch with us](https://vercel.com/contact).
 
 想进一步了解如何借助 Vercel 实现按需高性能？[联系我们](https://vercel.com/contact)。
+{% endraw %}

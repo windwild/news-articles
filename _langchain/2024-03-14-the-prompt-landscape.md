@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The Prompt Landscape"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/the-prompt-landscape/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["![Extraction Benchmarking", "**Extraction Benchmarking**", "![Building Chat LangChain", "**Building Chat LangChain**"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ### Context
 
@@ -334,3 +332,4 @@ This will open a playground for workshopping and debugging prompts with a broad 
 [![Building Chat LangChain](images/the-prompt-landscape/img_013.png)](https://blog.langchain.com/building-chat-langchain-2/)
 
 [**构建 Chat LangChain**](https://blog.langchain.com/building-chat-langchain-2/)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Finishing Turborepo's migration from Go to Rust - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/finishing-turborepos-migration-from-go-to-rust"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've finished porting Turborepo, the high performance JavaScript and TypeScript build system, from Go to Rust."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 12, 2024
 
@@ -245,3 +243,4 @@ Vercel 模板
 Turborepo & Next.js Starter
 
 Turborepo 与 Next.js 入门模板
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing ChatGPT search | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-chatgpt-search"
@@ -10,6 +9,7 @@ translated: false
 description: "Get fast, timely answers with links to relevant web sources"
 tags: ["Product"]
 ---
+{% raw %}
 
 October 31, 2024
 
@@ -82,3 +82,4 @@ ChatGPT Plus and Team users can try it out today at [chatgpt.com⁠(opens in a n
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

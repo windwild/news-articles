@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Update regarding Vercel service disruption on October 20, 2025 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/update-regarding-vercel-service-disruption-on-october-20-2025"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Update regarding Vercel service disruption on October 20, 2025. Read the summary of impact, timeline, root cause, and steps we’re taking to improve reliability."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 21, 2025
 
@@ -373,3 +371,4 @@ We’re currently working on a highly detailed technical postmortem that will re
 Additionally, we will continue and intensify our efforts to [rehearse major regional disruptions.](https://vercel.com/blog/preparing-for-the-worst-our-core-database-failover-test)
 
 此外，我们将持续并进一步加强针对重大区域性中断事件的演练工作。[（参见相关博客）](https://vercel.com/blog/preparing-for-the-worst-our-core-database-failover-test)
+{% endraw %}

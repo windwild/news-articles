@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "@vercel/otel 1.3.0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-otel-1-3-0"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 16, 2024
 
@@ -43,3 +41,4 @@ For example, `/products/hoodie` can be mapped to `/products/[name]`.
 Learn more in [our documentation](https://vercel.com/docs/observability/otel-overview) or start using the package with [Next.js](https://nextjs.org/docs/app/building-your-application/optimizing/open-telemetry).
 
 请在[我们的文档](https://vercel.com/docs/observability/otel-overview)中了解更多信息，或通过 [Next.js](https://nextjs.org/docs/app/building-your-application/optimizing/open-telemetry) 开始使用该软件包。
+{% endraw %}

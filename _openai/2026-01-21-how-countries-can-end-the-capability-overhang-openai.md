@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How countries can end the capability overhang | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/how-countries-can-end-the-capability-overhang"
@@ -10,8 +9,7 @@ translated: true
 description: "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI."
 tags: ["Global Affairs"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 21, 2026
 
@@ -82,3 +80,4 @@ Read more about our OpenAI for Countries expansion in the Ending the Capability 
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

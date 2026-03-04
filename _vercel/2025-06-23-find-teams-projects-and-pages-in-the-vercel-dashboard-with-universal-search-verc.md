@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Find teams, projects, and pages in the Vercel dashboard with universal search - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/dashboard-universal-search"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Dashboard now has a universal search for teams, projects, repos, deployments, pages, and settings."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 23, 2025
 
@@ -33,3 +31,4 @@ Vercel 网站（vercel.com）控制台的每个页面右上角，现已新增搜
 Learn more about **Find** in the [documentation](https://vercel.com/docs/dashboard-features#find).
 
 请在[文档](https://vercel.com/docs/dashboard-features#find)中了解有关 **Find** 的更多信息。
+{% endraw %}

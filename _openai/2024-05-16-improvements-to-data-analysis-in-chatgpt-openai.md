@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improvements to data analysis in ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/improvements-to-data-analysis-in-chatgpt"
@@ -11,6 +10,7 @@ description: "Improvements to data analysis in ChatGPT
 Interact with tables and charts and add files directly from Google Drive and Microsoft OneDrive."
 tags: ["Product"]
 ---
+{% raw %}
 
 May 16, 2024
 
@@ -73,3 +73,4 @@ As with any feature in ChatGPT, trust and data privacy are at the core of OpenAI
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

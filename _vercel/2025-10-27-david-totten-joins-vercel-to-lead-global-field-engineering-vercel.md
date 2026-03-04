@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "David Totten Joins Vercel to Lead Global Field Engineering - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/david-totten-joins-vercel-to-lead-global-field-engineering"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "David Totten joins Vercel as VP of Global Field Engineering from Databricks to oversee Sales Engineering, Developer Success, Professional Services, and Customer Support Engineering under one integrate..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 27, 2025
 
@@ -101,3 +99,4 @@ As AI becomes embedded in every application and agentic experiences become stand
 If you're a Vercel customer or partner, you'll be hearing from David and his team soon. And if you're interested in joining a technical organization that's rethinking how field engineering should work, [we're hiring](https://vercel.com/careers?function=Field+Engineering).
 
 如果您是 Vercel 的客户或合作伙伴，近期将很快收到来自 David 及其团队的消息。如果您希望加入一家正在重新定义现场工程（field engineering）工作方式的技术型组织，[我们正在招聘](https://vercel.com/careers?function=Field+Engineering)。
+{% endraw %}

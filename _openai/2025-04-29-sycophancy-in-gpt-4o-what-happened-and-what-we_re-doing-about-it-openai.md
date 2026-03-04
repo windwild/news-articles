@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sycophancy in GPT-4o: What happened and what we’re doing about it | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/sycophancy-in-gpt-4o"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "We have rolled back last week’s GPT‑4o update in ChatGPT so people are now using an earlier version with more balanced behavior. The update we removed was overly flattering or agreeable—often de..."
 ---
+{% raw %}
 
 April 29, 2025
 
@@ -59,3 +59,4 @@ And, we’re exploring new ways to incorporate broader, democratic feedback into
 We are grateful to everyone who’s spoken up about this. It’s helping us build more helpful and better tools for you.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

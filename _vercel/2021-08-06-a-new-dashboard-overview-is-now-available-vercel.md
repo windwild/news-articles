@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A new dashboard overview is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/a-new-dashboard-overview-is-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 6, 2021
 
@@ -45,3 +43,4 @@ Today we're excited to announce **a completely overhauled dashboard overview**�
 In addition, the header and activity stream were removed to help you get to what matters faster.
 
 此外，我们移除了页眉（header）和活动流（activity stream），以便您更快聚焦于关键内容。
+{% endraw %}

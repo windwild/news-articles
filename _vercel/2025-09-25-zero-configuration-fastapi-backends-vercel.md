@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Zero-configuration FastAPI backends - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/zero-config-fastapi-backends"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "FastAPI, a modern, high-performance, web framework for building APIs with Python based on standard Python type hints, is now supported with zero-configuration."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 25, 2025
 
@@ -55,3 +53,4 @@ Vercel 上的后端默认采用 [Fluid Compute](https://vercel.com/fluid) 与 [A
 [Deploy FastAPI on Vercel](https://vercel.com/templates/python/fastapi-python-boilerplate) or visit the [FastAPI on Vercel documentation](https://vercel.com/docs/frameworks/backend/fastapi).
 
 [在 Vercel 上部署 FastAPI](https://vercel.com/templates/python/fastapi-python-boilerplate)，或查阅 [Vercel 上的 FastAPI 文档](https://vercel.com/docs/frameworks/backend/fastapi)。
+{% endraw %}

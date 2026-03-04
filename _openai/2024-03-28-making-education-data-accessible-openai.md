@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Making education data accessible | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/zelma"
@@ -10,6 +9,7 @@ translated: false
 description: "Zelma uses GPT-4 to make education data accessible."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Zelma
@@ -82,3 +82,4 @@ APIApr 2, 2024](https://openai.com/index/harvey/)
 APIApr 1, 2024](https://openai.com/index/oscar/)
 
 Making education data accessible \| OpenAI
+{% endraw %}

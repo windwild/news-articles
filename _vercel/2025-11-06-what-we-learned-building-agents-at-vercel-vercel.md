@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "What we learned building agents at Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/what-we-learned-building-agents-at-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We're presenting a simple methodology for discovering successful agent projects that perform well with current generation AI"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 6, 2025
 
@@ -175,3 +173,4 @@ We’ve open-sourced a range of agent examples meant to be used as the building 
 
 If your team want’s more direct support in finding and building high-ROI AI projects, we’re offering a [hands-on program](https://vercel.com/go/an-agent-on-every-desk) that guides you through use case discovery and agent implementation with our team of forward-deployed engineers.  
 如果您的团队希望获得更直接的支持，以发掘并构建高投资回报率（ROI）的 AI 项目，我们正推出一项[实践型计划（hands-on program）](https://vercel.com/go/an-agent-on-every-desk)，由我方派驻一线的工程师团队全程指导您完成用例探索与智能体（agent）落地实施。
+{% endraw %}

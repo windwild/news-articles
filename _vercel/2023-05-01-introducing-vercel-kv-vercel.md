@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Vercel KV - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-kv"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing Redis storage on Vercel. Connect your projects to native storage solutions. Works with any frontend framework."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 1, 2023
 
@@ -74,3 +72,4 @@ Vercel KV 在公开测试期间面向 Hobby 和 Pro 用户开放。
 
 [查看我们的文档](https://vercel.com/docs/redis) 以了解更多信息。
 ```
+{% endraw %}

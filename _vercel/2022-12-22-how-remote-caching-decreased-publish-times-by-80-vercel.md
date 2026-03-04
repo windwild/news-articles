@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Remote Caching decreased publish times by 80% - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/turborepo-remote-cache-nextjs-publish-times-80-percent"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Next.js release process got 80% faster using Turborepo Remote Caching."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 22, 2022
 
@@ -102,3 +100,4 @@ After creating a few custom scripts for our specific use case (building for Free
 
 Hit a Remote Cache using [the Turborepo and Next.js starter template](https://vercel.com/templates/next.js/turborepo-next-basic) or [visit the Vercel Remote Cache docs](https://vercel.com/docs/concepts/monorepos/remote-caching) to learn more.  
 通过使用 [Turborepo 与 Next.js 入门模板](https://vercel.com/templates/next.js/turborepo-next-basic)，或访问 [Vercel 远程缓存文档](https://vercel.com/docs/concepts/monorepos/remote-caching)，进一步了解如何启用远程缓存。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Edge Functions are now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/edge-functions-are-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 15, 2022
 
@@ -54,3 +52,4 @@ We’re excited to announce that beginning today, Edge Functions are now general
 [Check out the documentation](https://vercel.com/docs/concepts/functions/edge-functions) to learn more.
 
 [查阅文档](https://vercel.com/docs/concepts/functions/edge-functions) 以了解更多信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Invideo AI enables anyone with an idea to produce high-quality videos | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/invideo-ai"
@@ -10,6 +9,7 @@ translated: false
 description: "Invideo AI uses OpenAI’s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes."
 tags: ["API"]
 ---
+{% raw %}
 
 July 17, 2025
 
@@ -67,3 +67,4 @@ With model orchestration and a frictionless interface, invideo AI shows what’s
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

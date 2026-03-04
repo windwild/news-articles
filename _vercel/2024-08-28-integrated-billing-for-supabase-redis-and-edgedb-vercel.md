@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Integrated billing for Supabase, Redis, and EdgeDB - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/integrated-billing-for-supabase-redis-and-edgedb"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now has native integrations with Supabase, Redis, and EdgeDB. These include integrated billing, direct access to provider consoles, and more."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 28, 2024
 
@@ -37,3 +35,4 @@ In the coming months, we will begin a zero-downtime migration for Vercel Postgre
 Get started with the [Vercel Marketplace](https://vercel.com/marketplace), available to customers on all plans.
 
 立即通过 [Vercel Marketplace](https://vercel.com/marketplace) 开始使用——所有付费计划用户均可访问。
+{% endraw %}

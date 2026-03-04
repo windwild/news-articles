@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Scout24 is building the next generation of real-estate search with AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/scout24"
@@ -10,8 +9,7 @@ translated: true
 description: "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations."
 tags: ["ChatGPT"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 December 9, 2025
 
@@ -122,3 +120,4 @@ More than 1 million businesses around the world are achieving meaningful results
 [Contact our team](https://openai.com/contact-sales/)  
 
 [联系我们的团队](https://openai.com/contact-sales/)
+{% endraw %}

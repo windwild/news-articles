@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Learning concepts with energy functions | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/learning-concepts-with-energy-functions"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve developed an energy-based model that can quickly learn to identify and generate instances of concepts, such as near, above, between, closest, and furthest, expressed as sets of 2d points. Ou..."
 tags: ["Research"]
 ---
+{% raw %}
 
 November 7, 2018
 
@@ -75,3 +75,4 @@ Proximity Concepts: demonstration events bring attention to the entity closest o
 In the future we’re excited to explore a wider variety of concepts learned in richer, three-dimensional environments, integrate concepts with the decision-making policies of our agents (we have so far only looked at concepts as things learned from passive experience), and explore connections between concepts and language understanding. If you are interested in this line of research, consider [working at OpenAI⁠](https://openai.com/careers/)!
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

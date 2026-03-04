@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI licenses GPT-3 technology to Microsoft | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-licenses-gpt-3-technology-to-microsoft"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI has agreed to license GPT-3 to Microsoft for their own products and services."
 tags: ["Product"]
 ---
+{% raw %}
 
 September 22, 2020
 
@@ -31,3 +31,4 @@ Unlike most AI systems which are designed for one use-case, OpenAI’s API today
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2020](https://openai.com/news/?tags=2020)
+{% endraw %}

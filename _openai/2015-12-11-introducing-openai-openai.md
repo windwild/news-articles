@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-openai"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI is a non-profit artificial intelligence research company. Our goal is to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to g..."
 tags: ["Company"]
 ---
+{% raw %}
 
 December 11, 2015
 
@@ -51,3 +51,4 @@ You can follow us on Twitter at [@OpenAI⁠(opens in a new window)](https://twi
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [Community](https://openai.com/news/?tags=community)
 - [2015](https://openai.com/news/?tags=2015)
+{% endraw %}

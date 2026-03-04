@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Server rendering benchmarks: Fluid Compute and Cloudflare Workers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/fluid-compute-benchmark-results"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fluid Compute outperforms Cloudflare Workers by 1.2x–5x in server-side rendering benchmarks, offering faster, more consistent response times through an optimized in-region architecture."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 9, 2025
 
@@ -115,3 +113,4 @@ The complete benchmark implementation and raw results [are available on GitHub](
 Deployment architecture determines performance characteristics. For server rendering workloads that query databases and perform compute operations, in-region deployment with full runtime compatibility provides measurable advantages.
 
 部署架构决定了性能特征。对于需要查询数据库并执行计算操作的服务器端渲染工作负载，具备完整运行时兼容性的同区域（in-region）部署可带来可衡量的性能优势。
+{% endraw %}

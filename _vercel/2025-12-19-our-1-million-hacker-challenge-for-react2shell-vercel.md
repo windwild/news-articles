@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Our $1 million hacker challenge for React2Shell - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/our-million-dollar-hacker-challenge-for-react2shell"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We paid $1M to security researchers to break our WAF. Here's what we learned defending against React2Shell."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 19, 2025
 
@@ -309,3 +307,4 @@ This response wouldn't have been possible without our partners:
 Special thanks to [Marten Abrahamsen](https://www.linkedin.com/in/martenabrahamsen), Vercel CFO, for approving the $1 million bounty payout.
 
 特别感谢 Vercel 首席财务官 [Marten Abrahamsen](https://www.linkedin.com/in/martenabrahamsen)，他批准了本次 100 万美元的漏洞赏金发放。
+{% endraw %}

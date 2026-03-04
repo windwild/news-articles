@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Expanding on what we missed with sycophancy | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/expanding-on-sycophancy"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "A deeper dive on our findings, what went wrong, and future changes we’re making."
 ---
+{% raw %}
 
 May 2, 2025
 
@@ -95,3 +95,4 @@ Here are the big takeaways we’re taking forward:
 One of the biggest lessons is fully recognizing how people have started to use ChatGPT for deeply personal advice—something we didn’t see as much even a year ago. At the time, this wasn’t a primary focus, but as AI and society have co-evolved, it’s become clear that we need to treat this use case with great care. It’s now going to be a more meaningful part of our safety work. With so many people depending on a single system for guidance, we have a responsibility to adjust accordingly. This shift reinforces why our work matters, and why we need to keep raising the bar on safety, alignment, and responsiveness to the ways people actually use AI in their lives.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

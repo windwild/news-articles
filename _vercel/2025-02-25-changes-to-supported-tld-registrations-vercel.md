@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Changes to supported TLD registrations - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/changes-to-supported-tld-registrations"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Domains now supports registration for 66 new TLDs, while removing select ccTLDs and regional domains. Learn more about these updates."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 25, 2025
 
@@ -69,3 +67,4 @@ We’re continuing to improve our domain offerings by:
 
 These changes take effect immediately. Existing registrations, renewals, and services for deprecated TLDs remain unaffected.  
 上述调整即日起生效。已注册的域名、续费及已停用顶级域的相关服务均不受影响。
+{% endraw %}

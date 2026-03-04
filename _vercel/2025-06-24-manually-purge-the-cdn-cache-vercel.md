@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Manually purge the CDN cache - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/manually-purge-the-cdn-cache"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's CDN Cache can now be purged with the click of a button in the dashboard or by running a CLI command, vercel cache purge --type=cdn, using version 44.2.0 or newer."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 24, 2025
 
@@ -33,3 +31,4 @@ This is especially useful for persistent cache scenarios, like **Image Optimizat
 Learn more in the [documentation](https://vercel.com/docs/edge-cache#manually-purging-edge-cache).
 
 更多详情，请参阅 [文档](https://vercel.com/docs/edge-cache#manually-purging-edge-cache)。
+{% endraw %}

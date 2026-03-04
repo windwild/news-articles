@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing OpenAI for Countries | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/openai-for-countries"
@@ -10,6 +9,7 @@ translated: false
 description: "A new initiative to support countries around the world that want to build on democratic AI rails."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 May 7, 2025
 
@@ -53,3 +53,4 @@ _We look forward to engaging with interested countries through their representat
 **_Update on February 6, 2026:_** _More details on the principles that guide ChatGPT localization_ [_⁠_ ⁠(opens in a new window)](https://model-spec.openai.com/2025-09-12.html#red_line_principles) _can be found_ [_here_](https://openai.com/index/our-approach-to-localization/) _._
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

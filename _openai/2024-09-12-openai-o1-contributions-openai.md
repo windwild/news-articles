@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI o1 Contributions | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/openai-o1-contributions"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI o1 Contributions"
 ---
+{% raw %}
 
 # OpenAI o1 Contributions
 
@@ -82,3 +82,4 @@ We are grateful to our expert adversarial testers and red teamers who helped tes
 \*Contributors listed in alphabetized order
 
 OpenAI o1 Contributions \| OpenAI
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "More flexible Environment Variables in Edge Functions and Middleware - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/more-flexible-environment-variables-in-edge-functions-and-middleware"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 24, 2023
 
@@ -37,3 +35,4 @@ You now have more flexible access and improved limits for environment variables 
 [Check out the documentation](https://vercel.com/docs/concepts/projects/environment-variables) to learn more.
 
 [查阅文档](https://vercel.com/docs/concepts/projects/environment-variables) 了解更多信息。
+{% endraw %}

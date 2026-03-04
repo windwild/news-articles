@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Custom firewall rules for IP blocking - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/custom-firewall-rules-for-ip-blocking"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 2, 2023
 
@@ -21,3 +19,4 @@ May 2, 2023
 作为 [Vercel 防火墙（Vercel Firewall）](https://vercel.com/docs/security/vercel-firewall) 的一部分，您现在可以创建自定义规则，以屏蔽特定的 IP 地址。通过根据传入请求的 IP 地址限制对您的应用或网站的访问，您可以阻止恶意行为者访问您的站点，从而防止未授权访问或不良流量。
 
 该功能面向 Vercel 的企业版团队提供。[联系我们立即开始使用](https://vercel.com/contact/sales)，或[查阅相关文档](https://vercel.com/docs/security/ip-blocking)了解更多信息。
+{% endraw %}

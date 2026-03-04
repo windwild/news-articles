@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-4o System Card External Testers Acknowledgements | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-4o-system-card/external-testers-acknowledgements"
@@ -10,6 +9,7 @@ translated: false
 description: "GPT-4o system card external testers acknowledgements"
 tags: ["Research"]
 ---
+{% raw %}
 
 
 # GPT‑4o System Card External Testers Acknowledgements
@@ -31,3 +31,4 @@ METR, Apollo Research, Virtue AI
 Choice Mpanza, David Adelani, Edward Bayes, Igneciah Pocia Thete, Imaan Khadir, Israel A. Azime, Jesujoba Oluwadara Alabi, Jonas Kgomo, Naome A. Etori, Shamsuddeen Hassan Muhammad
 
 GPT-4o System Card External Testers Acknowledgements \| OpenAI
+{% endraw %}

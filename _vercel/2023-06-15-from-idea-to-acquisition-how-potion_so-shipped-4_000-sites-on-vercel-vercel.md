@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "From idea to acquisition: How Potion.so shipped 4,000+ sites on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/from-idea-to-acqusition-how-potion-shipped-4k-sites-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The success of Potion's one-person team is a testament to the power of Vercel's Frontend Cloud toolkit. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 15, 2023
 
@@ -186,3 +184,4 @@ Feb 1, 2023
 Alli and Steven
 
 阿莉和史蒂文
+{% endraw %}

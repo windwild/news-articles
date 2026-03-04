@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Agent bio bug bounty | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/bio-bug-bounty"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI invites researchers to its Bio Bug Bounty. Test the ChatGPT agent’s safety with a universal jailbreak prompt and win up to $25,000."
 ---
+{% raw %}
 
 July 17, 2025
 
@@ -43,3 +43,4 @@ Submit a short application [here⁠(opens in a new window)](https://openai.smapp
 Apply now and help us make frontier AI safer.
 
 ## Apply to the OpenAI bio bug bounty
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing React Tweet - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-react-tweet"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Embed tweets into your React application without sacrificing performance."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 25, 2023
 
@@ -224,3 +222,4 @@ Vercel.com 官网首页
 ### Check out the code
 
 ### 查看源代码
+{% endraw %}

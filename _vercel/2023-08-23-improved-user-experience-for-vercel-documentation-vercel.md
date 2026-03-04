@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved user experience for Vercel documentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-user-experience-for-vercel-documentation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 23, 2023
 
@@ -41,3 +39,4 @@ We've redesigned and improved the Vercel documentation with:
 [Get started](https://vercel.com/docs) with the Vercel documentation today.
 
 立即 [开始使用](https://vercel.com/docs) Vercel 文档。
+{% endraw %}

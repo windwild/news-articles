@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangChain v0.2: A Leap Towards Stability"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langchain-v02-leap-to-stability/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "LangChain v0.2 decouples langchain and langchain-community packages. Includes versioned docs, standardized tool calling, and LangGraph."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Four months ago, we released the [first stable version of LangChain](https://blog.langchain.com/langchain-v0-1-0/).
 
@@ -183,3 +181,4 @@ While `langchain` and `langchain-core` are currently in a pre-1.0 state, we stri
 ### Tags
 
 ### 标签
+{% endraw %}

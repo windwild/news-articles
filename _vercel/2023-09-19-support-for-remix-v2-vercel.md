@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Support for Remix v2 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-for-remix-v2"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 19, 2023
 
@@ -41,3 +39,4 @@ Vercel 现已支持 [Remix v2](https://remix.run/blog/remix-v2)。您可在 Verc
 [Deploy our Remix template](https://vercel.com/templates/remix/remix-boilerplate) to get started.
 
 [立即部署我们的 Remix 模板](https://vercel.com/templates/remix/remix-boilerplate)，快速开始使用。
+{% endraw %}

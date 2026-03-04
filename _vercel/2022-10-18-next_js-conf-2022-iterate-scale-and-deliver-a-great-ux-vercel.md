@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Next.js Conf 2022: Iterate, scale, and deliver a great UX - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-conf-2022-iterate-scale-deliver"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to iterate, scale, and deliver a great UX from the experts speaking at this year’s Next.js Conf. Register for the online event today."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 18, 2022
 
@@ -147,3 +145,4 @@ Builder.io 联合创始人兼首席执行官 Steve Sewell 将讲解如何在 Nex
 Those are just a few of the talks we have in store for you during Next.js Conf 2022. [Register today](https://nextjs.org/conf) to tune in on October 25 at 10:30am PT to watch the entire expert lineup, live. [Check out the full list of speakers](https://nextjs.org/conf/speakers) to see who else is presenting.
 
 以上仅是 Next.js Conf 2022 大会精彩议程中的一小部分。[立即注册](https://nextjs.org/conf)，于太平洋时间 10 月 25 日上午 10:30 观看全部专家演讲的现场直播。[查看完整演讲嘉宾名单](https://nextjs.org/conf/speakers)，了解还有哪些行业专家将登台分享。
+{% endraw %}

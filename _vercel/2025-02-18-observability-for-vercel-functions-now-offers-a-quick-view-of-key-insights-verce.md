@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Observability for Vercel Functions now offers a quick-view of key insights - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-observability-for-functions-now-offers-at-a-glance-key-insights"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Observability's Vercel Functions dashboard now shows quick-view tiles for advanced metrics, highlighting Fluid Compute and key insights to optimize projects on all plans."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 18, 2025
 
@@ -29,3 +27,4 @@ Feb 18, 2025
 上述洞察功能面向所有订阅计划开放。
 
 了解更多关于 [可观测性（Observability）](https://vercel.com/docs/observability) 和 [Fluid Compute](https://vercel.com/docs/functions/fluid-compute) 的信息。
+{% endraw %}

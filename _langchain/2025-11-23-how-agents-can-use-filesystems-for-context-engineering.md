@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How agents can use filesystems for context engineering"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/how-agents-can-use-filesystems-for-context-engineering/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:17:46.558656390+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 By Nick Huang
 
@@ -212,3 +210,4 @@ This hasn’t been fully solved and is still an emerging pattern, but it’s an 
 We have an open source repo called Deep Agents ( [Python](https://github.com/langchain-ai/deepagents?ref=blog.langchain.com), [TypeScript](https://github.com/langchain-ai/deepagentsjs?ref=blog.langchain.com)) that lets you quickly build an agent that has access to a filesystem. A lot of these context engineering tricks that use the filesystem are baked in! There are almost certainly more patterns that will emerge - try Deep Agents out and let us know what you think!
 
 我们开源了一个名为 Deep Agents 的代码仓库（[Python 版本](https://github.com/langchain-ai/deepagents?ref=blog.langchain.com)，[TypeScript 版本](https://github.com/langchain-ai/deepagentsjs?ref=blog.langchain.com)），可助您快速构建具备文件系统访问能力的智能体。其中已内建大量基于文件系统的上下文工程技巧！未来几乎必然还会涌现出更多新模式——欢迎试用 Deep Agents，并告诉我们您的想法！
+{% endraw %}

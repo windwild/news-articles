@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel achieves ISO 27001:2013 certification to further strengthen commitment to security  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-iso-27001-security"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel achieves the ISO 27001 certification"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 12, 2023
 
@@ -87,3 +85,4 @@ As we envision the future of the Frontend Cloud, security remains at the forefro
 Let’s build a better web. Securely.
 
 让我们携手共建更美好的 Web——以安全为基石。
+{% endraw %}

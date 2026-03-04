@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Iterating from design to deploy: Guillermo Rauch's talk at Figma Config 2023 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/iterating-from-design-to-deploy"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A reflection on Guillermo Roach's Config 2023 talk, \"The shape of future builders: from design to deploy.\""
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 13, 2023
 
@@ -273,3 +271,4 @@ Vercel.com 官网落地页
 Download the whitepaper
 
 下载白皮书
+{% endraw %}

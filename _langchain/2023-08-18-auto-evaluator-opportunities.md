@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Auto-Evaluator Opportunities"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/auto-evaluator-opportunities/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Editor's Note: this is a guest blog post by [Lance Martin](https://twitter.com/RLanceMartin?s=20&ref=blog.langchain.com).**
 
@@ -297,3 +295,4 @@ Feel free to contribute to the [open source](https://github.com/langchain-ai/aut
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

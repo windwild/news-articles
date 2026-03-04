@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Announcing our Student Hacker in Residence Program, Fall '23 Semester"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/student-hacker-in-residence-fall-23/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Today, we're opening up applications for our inaugural student hacker in residence program.
 
@@ -143,3 +141,4 @@ This is a non-exhaustive list of the kinds of applications we hope our student h
 [**LangGraph Platform 正式进入 Beta 测试阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长 4 分钟
+{% endraw %}

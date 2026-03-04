@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Automatically detect and replay layout shifts from the Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatically-detect-and-replay-layout-shifts"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 14, 2023
 
@@ -25,3 +23,4 @@ Vercel 现在可通过 Vercel Toolbar 自动检测并重放您各次部署中的
 Toolbar 会自动添加至所有预览部署（Preview Deployments）中；同时，您也可在本地开发环境（localhost）及生产环境中使用它（通常需配合您自身的员工身份认证机制），只需安装并使用 [@vercel/toolbar 包](https://vercel.com/docs/workflow-collaboration/comments/in-production-and-localhost) 即可。
 
 [查阅相关文档](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) 以了解更多信息。
+{% endraw %}

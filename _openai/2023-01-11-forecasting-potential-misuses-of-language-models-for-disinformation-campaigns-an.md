@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/forecasting-misuse"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI researchers collaborated with Georgetown University’s Center for Security and Emerging Technology and the Stanford Internet Observatory to investigate how large language models might be misus..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 January 11, 2023
 
@@ -111,3 +111,4 @@ PublicationJan 31, 2024](https://openai.com/index/building-an-early-warning-syst
 SafetyJan 16, 2024](https://openai.com/index/democratic-inputs-to-ai-grant-program-update/)
 
 Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk \| OpenAI
+{% endraw %}

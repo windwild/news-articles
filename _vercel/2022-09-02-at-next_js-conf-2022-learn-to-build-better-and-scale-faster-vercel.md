@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "At Next.js Conf 2022, learn to build better and scale faster - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-conf-2022"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js Conf 2022: Presented by Vercel"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 2, 2022
 
@@ -51,3 +49,4 @@ This year's presentations will be our best yet, starting with the keynote by Gui
 Vercel is joined by Titanium Partners, [MongoDB](https://www.mongodb.com/atlas/database?utm_source=nextjs-conf), [Sanity](http://www.sanity.io/?utm_source=nextjs-conf), and [Sitecore](http://www.sitecore.com/?utm_source=nextjs-conf). See the rest of our sponsors [here](https://nextjs-conf.super.site/partners-at-nextjs-conf-2022).
 
 本次大会由 Titanium Partners、[MongoDB](https://www.mongodb.com/atlas/database?utm_source=nextjs-conf)、[Sanity](http://www.sanity.io/?utm_source=nextjs-conf) 和 [Sitecore](http://www.sitecore.com/?utm_source=nextjs-conf) 与 Vercel 联合主办。更多赞助商信息请参见[此处](https://nextjs-conf.super.site/partners-at-nextjs-conf-2022)。
+{% endraw %}

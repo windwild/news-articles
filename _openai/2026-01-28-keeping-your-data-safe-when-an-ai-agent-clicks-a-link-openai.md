@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Keeping your data safe when an AI agent clicks a link | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ai-agent-link-safety"
@@ -10,8 +9,7 @@ translated: true
 description: "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards."
 tags: ["Safety"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 28, 2026
 
@@ -186,3 +184,4 @@ If you’re a researcher working on prompt injection, agent security, or data ex
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

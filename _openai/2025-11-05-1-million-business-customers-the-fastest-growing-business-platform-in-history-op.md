@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "1 million business customers: the fastest-growing business platform in history | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/1-million-businesses-putting-ai-to-work"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-po..."
 ---
+{% raw %}
 
 November 5, 2025
 
@@ -54,3 +54,4 @@ Companies are creating new applications and agentic workflows directly on our pl
 We’re deeply grateful to the customers building with us today—and we’re looking forward to what’s next in 2026 and beyond. There’s a big opportunity to rethink the operating system for work, and we’re excited to build the platform to power it.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

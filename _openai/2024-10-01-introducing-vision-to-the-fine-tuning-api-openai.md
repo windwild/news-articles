@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing vision to the fine-tuning API | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-vision-to-the-fine-tuning-api"
@@ -10,6 +9,7 @@ translated: false
 description: "Developers can now fine-tune GPT-4o with images and text to improve vision capabilities"
 tags: ["Product"]
 ---
+{% raw %}
 
 October 1, 2024
 
@@ -115,3 +115,4 @@ To get started, visit the [fine-tuning dashboard⁠(opens in a new window)](http
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

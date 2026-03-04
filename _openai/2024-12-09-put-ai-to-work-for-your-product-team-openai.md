@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Put AI to work for your product team | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/put-ai-to-work-for-your-product-team"
@@ -10,6 +9,7 @@ translated: false
 description: "Put AI to work for your product team"
 tags: ["Webinar"]
 ---
+{% raw %}
 
 Recorded: December 9, 2024
 
@@ -25,3 +25,4 @@ For your product team.
 00:0040:11
 
 Put AI to work for your product team \| OpenAI
+{% endraw %}

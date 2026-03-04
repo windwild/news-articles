@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Bertelsmann powers creativity and productivity with OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai"
@@ -10,6 +9,7 @@ translated: false
 description: "Bertelsmann, the global media, services, and education company headquartered in Germany, will integrate OpenAI’s technology across multiple brands around the world."
 tags: ["Company"]
 ---
+{% raw %}
 
 January 22, 2025
 
@@ -36,3 +36,4 @@ Further, Bertelsmann established an AI Hub to define AI priorities across the co
 - Together with Fremantle and RTL innovative projects are planned in the area of video generation leveraging OpenAI’s products and solutions.
 
 “Bertelsmann is one of the world's leaders in media, services, and education and we're thrilled to be working together at the intersection of AI and media,” said Brad Lightcap, Chief Operating Officer at OpenAI. “With Bertelsmann, we look forward to inspiring creativity and innovation across the broader AI and creative ecosystems.”
+{% endraw %}

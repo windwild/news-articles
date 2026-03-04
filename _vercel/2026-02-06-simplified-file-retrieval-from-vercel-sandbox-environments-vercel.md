@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Simplified file retrieval from Vercel Sandbox environments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/simplified-file-retrieval-from-vercel-sandbox-environments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Easier file downloads from the Vercel sandbox with new download and read methods added to the sandbox sdk"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 6, 2026
 
@@ -61,3 +59,4 @@ Both methods handle the underlying stream operations automatically. For example,
 Learn more about the [Sandbox SDK](https://www.npmjs.com/package/@vercel/sandbox) or explore the updated [documentation](https://vercel.com/docs/vercel-sandbox/sdk-reference#sandbox.downloadfile).
 
 了解更多关于 [Sandbox SDK](https://www.npmjs.com/package/@vercel/sandbox) 的信息，或查阅更新后的 [文档](https://vercel.com/docs/vercel-sandbox/sdk-reference#sandbox.downloadfile)。
+{% endraw %}

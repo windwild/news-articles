@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sync projects with @vercel/related-projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sync-projects-with-vercel-related-projects"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Related projects allows automatically linking preview deployments across multiple projects in monorepos."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 20, 2025
 
@@ -60,3 +58,4 @@ Example of connecting a frontend project to a separate backend API.
 Learn more about [linking related projects](https://vercel.com/docs/monorepos#how-to-link-projects-together-in-a-monorepo).
 
 了解更多关于[关联项目链接](https://vercel.com/docs/monorepos#how-to-link-projects-together-in-a-monorepo)的信息。
+{% endraw %}

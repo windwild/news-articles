@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "10 Next.js tips you might not know - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/10-next-js-tips-you-might-not-know"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Discover 10 expert Next.js tips including redirects, rewrites, preview mode, API routes, and performance optimizations to boost your development workflow. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 26, 2021
 
@@ -558,3 +556,4 @@ If you have never written any React code before, start with [React’s official 
 For the easiest way to deploy a Next.js app, start with this [introduction](https://vercel.com/docs) to Vercel. Vercel, built by the same team that made Next.js, provides production-grade hosting for Next.js websites with zero configuration.
 
 若想以最简便的方式部署 Next.js 应用，请先阅读 Vercel 的这篇[入门指南](https://vercel.com/docs)。Vercel 由开发 Next.js 的同一支团队打造，为 Next.js 网站提供开箱即用、无需配置的生产级托管服务。
+{% endraw %}

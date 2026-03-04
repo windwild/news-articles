@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Retro Contest | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/retro-contest"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re launching a transfer learning contest that measures a reinforcement learning algorithm’s ability to generalize from previous experience."
 tags: ["Research"]
 ---
+{% raw %}
 
 April 5, 2018
 
@@ -75,3 +75,4 @@ Sometimes, algorithms can find exploits within the game. Here, a PPO-trained pol
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
+{% endraw %}

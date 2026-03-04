@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Cron Jobs are now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-cron-jobs-are-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 15, 2023
 
@@ -37,3 +35,4 @@ Cron Jobs 现已 **面向所有付费计划的客户免费包含**。每个账�
 Check out our [documentation](https://vercel.com/docs/cron-jobs) or [deploy an example with Cron Jobs](https://vercel.com/templates/next.js/vercel-cron).
 
 请查阅我们的 [文档](https://vercel.com/docs/cron-jobs)，或 [使用 Cron Jobs 部署一个示例项目](https://vercel.com/templates/next.js/vercel-cron)。
+{% endraw %}

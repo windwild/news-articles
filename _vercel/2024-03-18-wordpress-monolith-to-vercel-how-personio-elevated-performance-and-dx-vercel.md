@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "WordPress monolith to Vercel: How Personio elevated performance and DX - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/from-wordpress-monolith-to-vercel-personio-elevates-site-performance"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Personio migrated from a WordPress monolith to a composable solution with Vercel and Next.js, improving performance, security, and iteration speed. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 18, 2024
 
@@ -139,3 +137,4 @@ Contact Us](https://vercel.com/contact/sales)
 联系我们，深入了解如何优化您的前端工作流，并赋能您的团队借助 Vercel 构建更出色的 Web 用户体验。\\
 \\
 立即联系](https://vercel.com/contact/sales)
+{% endraw %}

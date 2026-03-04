@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI’s commitment to child safety: adopting safety by design principles | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/child-safety-adopting-sbd-principles"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 April 23, 2024
 
@@ -68,3 +68,4 @@ SafetyDec 14, 2023](https://openai.com/index/weak-to-strong-generalization/)
 PublicationDec 14, 2023](https://openai.com/index/practices-for-governing-agentic-ai-systems/)
 
 OpenAI’s commitment to child safety: adopting safety by design principles \| OpenAI
+{% endraw %}

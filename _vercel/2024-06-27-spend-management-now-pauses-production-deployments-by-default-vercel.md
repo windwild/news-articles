@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Spend Management now pauses production deployments by default - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/spend-management-now-pauses-production-deployments-by-default"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 27, 2024
 
@@ -41,3 +39,4 @@ Spend Management 可在当前计费周期内，当[按量计费用量](https://v
 [Check out our documentation](https://vercel.com/docs/accounts/spend-management) to learn more.
 
 [查阅我们的文档](https://vercel.com/docs/accounts/spend-management)，了解更多信息。
+{% endraw %}

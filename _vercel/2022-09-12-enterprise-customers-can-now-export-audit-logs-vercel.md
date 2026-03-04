@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enterprise customers can now export audit logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enterprise-customers-can-now-export-audit-logs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 12, 2022
 
@@ -29,3 +27,4 @@ Audit Logs allow team owners to track important events that occurred on their te
 Check out the [documentation](https://www.vercel.com/docs/concepts/teams/security-and-compliance#audit-logs) to learn more.
 
 请查阅[文档](https://www.vercel.com/docs/concepts/teams/security-and-compliance#audit-logs)了解更多信息。
+{% endraw %}

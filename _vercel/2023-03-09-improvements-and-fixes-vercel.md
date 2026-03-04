@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improvements and Fixes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/march-2023"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 9, 2023
 
@@ -29,3 +27,4 @@ Mar 9, 2023
 - **改进的日期选择器：** 使用量（Usage）标签页中新增的 [日期选择器](https://vercel.com/changelog/activity-date-filtering-now-available) 支持自然语言解析、预设时间范围及快捷操作。
 
 - **Vercel 定时任务（Cron Jobs）：** 我们现已支持框架作者通过构建输出 API（Build Output API）配置中的 `crons` 属性来创建 [定时任务](https://vercel.com/blog/cron-jobs)；终端用户也可通过 `vercel.json` 文件中的 `crons` 属性来定义定时任务。
+{% endraw %}

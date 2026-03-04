@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Faster builds now available with compute upgrades on paid plans - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-builds-now-available-with-compute-upgrades-on-paid-plans"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Enhanced Builds can now be enabled on demand per project for Pro and Enterprise teams. These builds offer double the compute. Customers already using Enhanced Builds are seeing, with no action require..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 7, 2025
 
@@ -37,3 +35,4 @@ Enterprise customers can run all concurrent builds, including pre-allocated buil
 [Enable on-demand enhanced builds](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment&title=Enable%20enhanced%20builds) and learn more in [our documentation](https://vercel.com/docs/builds/managing-builds#enhanced-build-machines).
 
 [启用按需增强型构建](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment&title=Enable%20enhanced%20builds)，并在[我们的文档](https://vercel.com/docs/builds/managing-builds#enhanced-build-machines)中了解更多信息。
+{% endraw %}

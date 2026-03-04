@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Next.js: Server-side Rendering vs. Static Generation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-server-side-rendering-vs-static-generation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How to use Static Generation, Incremental Static Generation, and Client-side Fetching with Next.js."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 9, 2020
 
@@ -678,3 +676,4 @@ With Next.js, you can use Static Generation for maximum performance without sacr
 - [API Routes](https://nextjs.org/docs/api-routes/introduction)
 
 - [API 路由（API Routes）](https://nextjs.org/docs/api-routes/introduction)
+{% endraw %}

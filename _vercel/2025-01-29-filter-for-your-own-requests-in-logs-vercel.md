@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Filter for your own requests in Logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-for-your-own-requests-in-logs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: " Filter browser-specific requests with the new \"My Logs\" filter in Vercel's Logs UI, simplifying debugging."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 29, 2025
 
@@ -25,3 +23,4 @@ You can now filter logs to display only requests made from your browser. This si
 Visit [your project's Logs tab](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Flogs&title=Open+Logs) and toggle the user filter to get started or learn more about [runtime logs](https://vercel.com/docs/observability/runtime-logs).
 
 请访问 [您项目的 Logs（日志）标签页](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Flogs&title=Open+Logs)，开启用户筛选器以立即开始使用；或进一步了解 [运行时日志（runtime logs）](https://vercel.com/docs/observability/runtime-logs)。
+{% endraw %}

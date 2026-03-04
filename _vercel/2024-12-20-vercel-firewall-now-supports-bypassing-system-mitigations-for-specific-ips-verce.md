@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Firewall now supports bypassing system mitigations for specific IPs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-firewall-now-supports-bypassing-system-mitigations-for-specific-ips"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Customers on paid plans can now configure firewall rules to bypass system mitigations, including DDoS protection, for specific IPs and CIDR ranges."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 20, 2024
 
@@ -33,3 +31,4 @@ Pro 和 Enterprise 客户现在可以配置防火墙规则，针对特定 IP 地
 Pro 计划客户最多可配置 3 条绕过规则；Enterprise 计划客户最多可配置 5 条。
 
 了解更多关于 [Vercel 防火墙的自动 DDoS 防护机制](https://vercel.com/docs/security/ddos-mitigation#bypass-system-level-mitigations)。
+{% endraw %}

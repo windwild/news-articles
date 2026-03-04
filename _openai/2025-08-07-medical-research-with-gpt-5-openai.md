@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Medical research with GPT-5 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-medical-research"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Learn how GPT-5 is used for medical research."
 ---
+{% raw %}
 
 August 7, 2025
 
@@ -23,3 +23,4 @@ August 7, 2025
 
 
 Medical research with GPT-5 \| OpenAI
+{% endraw %}

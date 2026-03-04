@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Join us for OpenAI’s first developer conference on November 6 in San Francisco | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/announcing-openai-devday"
@@ -10,6 +9,7 @@ translated: false
 description: "Developer registration for in-person attendance will open in the coming weeks and developers everywhere will be able to livestream the keynote."
 tags: ["Company"]
 ---
+{% raw %}
 
 September 6, 2023
 
@@ -37,3 +37,4 @@ To learn more, check out [devday.openai.com⁠(opens in a new window)](https://d
 - [Events](https://openai.com/news/?tags=events)
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

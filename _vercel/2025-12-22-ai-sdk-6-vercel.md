@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI SDK 6 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-6"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing agents, tool execution approval, DevTools, full MCP support, reranking, image editing, and more."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 22, 2025
 
@@ -2284,3 +2282,4 @@ AI SDK 6 是 Vercel 核心团队（Gregor、Lars、Aayush、Josh、Nico）与众
 Your feedback, bug reports, and pull requests on GitHub have been instrumental in shaping this release. We're excited to see what you'll build with these new capabilities.
 
 您在 GitHub 上提供的反馈、问题报告和拉取请求（pull requests）对本次版本的成型起到了至关重要的作用。我们非常期待看到您如何利用这些新功能构建出精彩的应用！
+{% endraw %}

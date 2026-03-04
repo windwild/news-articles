@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI supporters | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-supporters"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re excited to welcome new donors to OpenAI."
 tags: ["Company"]
 ---
+{% raw %}
 
 February 20, 2018
 
@@ -57,3 +57,4 @@ CompanyMar 8, 2024](https://openai.com/index/openai-announces-new-members-to-boa
 CompanyMar 8, 2024](https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai/)
 
 OpenAI supporters \| OpenAI
+{% endraw %}

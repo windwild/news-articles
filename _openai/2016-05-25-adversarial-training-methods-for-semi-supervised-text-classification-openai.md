@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Adversarial training methods for semi-supervised text classification | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 May 25, 2016
 
@@ -26,3 +26,4 @@ May 25, 2016
 Adversarial training provides a means of regularizing supervised learning algorithms while virtual adversarial training is able to extend supervised learning algorithms to the semi-supervised setting. However, both methods require making small perturbations to numerous entries of the input vector, which is inappropriate for sparse high-dimensional inputs such as one-hot word representations. We extend adversarial and virtual adversarial training to the text domain by applying perturbations to the word embeddings in a recurrent neural network rather than to the original input itself. The proposed method achieves state of the art results on multiple benchmark semi-supervised and purely supervised tasks. We provide visualizations and analysis showing that the learned word embeddings have improved in quality and that while training, the model is less prone to overfitting. Code is available at [this https URL⁠(opens in a new window)](https://github.com/tensorflow/models/tree/master/research/adversarial_text).
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
+{% endraw %}

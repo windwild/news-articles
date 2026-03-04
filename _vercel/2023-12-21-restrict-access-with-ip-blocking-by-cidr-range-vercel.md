@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Restrict access with IP blocking by CIDR range - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/restrict-access-with-ip-blocking-by-cidr-range"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 21, 2023
 
@@ -33,3 +31,4 @@ Stay secure by blocking entire subnets, or restricting access from untrusted net
 [Learn more in our documentation](https://vercel.com/docs/security/vercel-waf/ip-blocking) or [contact our sales team](https://vercel.com/contact/sales) to upgrade to Enterprise.
 
 [在我们的文档中了解更多信息](https://vercel.com/docs/security/vercel-waf/ip-blocking)，或 [联系我们的销售团队](https://vercel.com/contact/sales) 升级至企业版。
+{% endraw %}

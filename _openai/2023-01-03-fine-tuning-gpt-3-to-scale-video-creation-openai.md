@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Fine-tuning GPT-3 to scale video creation | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/waymark"
@@ -10,6 +9,7 @@ translated: false
 description: "Fine-tuning GPT-3 to power and scale done-for-you video creation."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Waymark
@@ -71,3 +71,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Fine-tuning GPT-3 to scale video creation \| OpenAI
+{% endraw %}

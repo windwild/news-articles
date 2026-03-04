@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel at AfroTech 2022: An immersive experience - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-at-afrotech-2022"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Last month, Vercel had the privilege of sponsoring AfroTech Conference 2022. This was our approach. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 19, 2022
 
@@ -101,3 +99,4 @@ Maybe someday soon, one of our future engineers or data scientists will come up 
 
 - [Take a tour of Vercel](https://vercel.com/vercel-product-tour)  
 - [体验 Vercel 产品导览](https://vercel.com/vercel-product-tour)
+{% endraw %}

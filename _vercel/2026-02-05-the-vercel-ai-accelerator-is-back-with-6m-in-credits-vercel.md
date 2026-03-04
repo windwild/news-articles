@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The Vercel AI Accelerator is back with $6m in credits - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-vercel-ai-accelerator-is-back-with-6-million-in-credits"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A six-week program to help you scale your AI company offering over $6M in credits from Vercel, v0, AWS, and leading AI platforms"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 5, 2026
 
@@ -258,3 +256,4 @@ _Applicants must be Vercel customers at or above the age of majority in your jur
 
 _申请人须为 Vercel 客户，且年满您所在司法管辖区规定的成年年龄。申请人须承诺全程参与为期 6 周的完整项目。申请人不得位于受美国制裁法律限制的国家或地区，亦不得受此类法律约束。_  
 _我们重点关注尚处于“种子前”（pre-seed）阶段的创意构想。申请材料将依据提交质量、创始人背景，以及项目整体的影响力潜力与可扩展性进行综合评估。_
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Conversational Retrieval Agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/conversational-retrieval-agents/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **TL;DR: There have been several emerging trends in LLM applications over the past few months: RAG, chat interfaces, agents. Our newest functionality - conversational retrieval agents - combines them all. This isn't just a case of combining a lot of buzzwords - it provides real benefits and superior user experience.**
 
@@ -236,3 +234,4 @@ As always, we'd love to hear from you with any suggestions or ideas.
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New Domains Registrar API for domain search, pricing, purchase, and management - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-domains-registrar-api-for-domain-search-pricing-purchase-and-management"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Domains Registrar APIs let you search TLDs, fetch pricing, check availability, purchase or renew domains, manage nameservers, and handle transfers."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 8, 2025
 
@@ -51,3 +49,4 @@ The [Legacy Domains API](https://vercel.com/docs/domains/registrar-api#deprecati
 Explore the [API docs](https://vercel.com/docs/domains/registrar-api).
 
 请查阅 [API 文档](https://vercel.com/docs/domains/registrar-api)。
+{% endraw %}

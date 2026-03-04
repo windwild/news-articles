@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Markdown support for comments on Preview Deployments  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/markdown-support-for-comments-on-preview-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 20, 2023
 
@@ -45,3 +43,4 @@ Jun 20, 2023
 [查看文档](https://vercel.com/docs/workflow-collaboration/comments/using-comments#use-markdown-in-a-comment) 以了解更多信息。
 
 [查看文档](https://vercel.com/docs/workflow-collaboration/comments/using-comments#use-markdown-in-a-comment) 以了解更多信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Build a fast, animated image gallery with Next.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-a-fast-animated-image-gallery-with-next-js"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to build a performant image gallery using the Next.js image component and Cloudinary that can handle hundreds of large images and deliver great UX."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 9, 2023
 
@@ -963,3 +961,4 @@ We hope this walkthrough helps outline some of the challenges we faced and our t
 Want to get started with Next.js on Vercel? [Here's a trial](https://vercel.com/signup?next=/dashboard?createTeam=true) to get you deploying on the only infrastructure that will always support the latest Next.js features the moment they release.
 
 想在 Vercel 上快速开始使用 Next.js？[点击此处试用](https://vercel.com/signup?next=/dashboard?createTeam=true)，即可在唯一能够即时支持最新 Next.js 功能发布的基础设施上完成部署——新功能一经发布，立即可用。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI en France | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-en-france"
@@ -10,6 +9,7 @@ translated: false
 description: "Our first office in continental Europe"
 tags: ["Company"]
 ---
+{% raw %}
 
 November 15, 2024
 
@@ -79,3 +79,4 @@ Avoir une présence en France nous permet également de renforcer notre collabor
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

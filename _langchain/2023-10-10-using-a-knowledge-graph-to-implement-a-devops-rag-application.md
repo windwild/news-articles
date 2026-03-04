@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using a Knowledge Graph to implement a DevOps RAG application"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/using-a-knowledge-graph-to-implement-a-devops-rag-application/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:39:02.399684146+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written in collaboration with the [_Neo4J_](https://neo4j.com/?ref=blog.langchain.com) team._
 
@@ -537,3 +535,4 @@ The code is available on [GitHub](https://github.com/tomasonjo/blogs/blob/master
 If you are eager to learn more about building AI applications with graphs, join us at the [NODES, online, 24h conference](https://neo4j.registration.goldcast.io/events/6fb85147-ca27-4310-9dec-cb345c53bd6f?ref=blog.langchain.com) organized by Neo4j on October 26th, 2023.
 
 如果你渴望深入了解如何借助图技术构建 AI 应用，欢迎参加 Neo4j 于 2023 年 10 月 26 日举办的线上全天候会议——[NODES 大会](https://neo4j.registration.goldcast.io/events/6fb85147-ca27-4310-9dec-cb345c53bd6f?ref=blog.langchain.com)。
+{% endraw %}

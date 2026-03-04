@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Updates to Vercel Toolbar shortcuts - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/updates-to-vercel-toolbar-shortcuts"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Toolbar now lets users set custom keyboard shortcuts to show and hide the Toolbar Menu, and add shortcuts for frequently used tools. The default shortcut to open the Toolbar Menu also chang..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 24, 2025
 
@@ -41,3 +39,4 @@ The default shortcut to show and hide the Toolbar Menu is changing to reduce con
 Learn more about the [Vercel Toolbar](https://vercel.com/docs/vercel-toolbar).
 
 了解更多关于 [Vercel Toolbar](https://vercel.com/docs/vercel-toolbar) 的信息。
+{% endraw %}

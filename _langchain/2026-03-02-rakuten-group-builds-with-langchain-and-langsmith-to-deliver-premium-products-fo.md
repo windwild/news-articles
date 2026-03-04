@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Rakuten Group builds with LangChain and LangSmith to deliver premium products for its business clients and employees"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-rakuten/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain", "Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Rakuten Group is well known for operating one of the largest online shopping malls in Japan. The company has 70+ businesses in fields such as e-commerce, travel, digital content, fintech, communications and more.
 
@@ -147,3 +145,4 @@ Rakuten started with two ambitious projects, impacting both their e-commerce mar
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长 4 分钟
+{% endraw %}

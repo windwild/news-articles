@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Hypertune integration available for low latency experimentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/hypertune-integration-available-for-low-latency-experimentation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 24, 2023
 
@@ -29,3 +27,4 @@ This integration is available for users on all plans.
 [Check out the integration](https://vercel.com/integrations/hypertune) to get started.
 
 [立即查看该集成](https://vercel.com/integrations/hypertune)，开始使用。
+{% endraw %}

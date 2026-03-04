@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Measuring Goodhart’s law | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/measuring-goodharts-law"
@@ -10,6 +9,7 @@ translated: false
 description: "Goodhart’s law famously says: “When a measure becomes a target, it ceases to be a good measure.” Although originally from economics, it’s something we have to grapple with at OpenAI when figu..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 April 13, 2022
 
@@ -84,3 +84,4 @@ Hint: express the PDF of the best-of-n n n distribution as a function of both th
 
 3. C
 Best-of-nnn is not necessarily optimal in the information-theoretic sense, however. For example, if PPP has a [heavy right tail⁠(opens in a new window)](https://en.wikipedia.org/wiki/Heavy-tailed_distribution), then for any x>0x>0x>0 and any ε>0\\varepsilon>0ε>0, there is a distribution QQQ such that Ey∼Q\[y\]>x\\mathbb E\_{y\\sim Q}\\left\[y\\right\]>xEy∼Q​\[y\]>x and DKL(Q∥P)<εD\_{\\text{KL}}\\left(Q\\parallel P\\right)<\\varepsilonDKL​(Q∥P)<ε (exercise).
+{% endraw %}

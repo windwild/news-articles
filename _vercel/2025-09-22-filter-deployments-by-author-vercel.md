@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Filter deployments by author - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-deployments-by-author"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Easily filter deployments on the Vercel dashboard by the Vercel username or email, or git username (if applicable)."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 22, 2025
 
@@ -27,3 +25,4 @@ You can now filter deployments in the dashboard by author, using username, email
 See now in your [project's deployments](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fdeployments&title=Go+to+Deployments).
 
 立即前往您的 [项目部署页面](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fdeployments&title=Go+to+Deployments) 查看。
+{% endraw %}

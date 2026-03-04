@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Evaluating Deep Agents: Our Learnings"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/evaluating-deep-agents-our-learnings/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Over the past month at LangChain, we shipped four applications on top of the Deep Agents harness:
 
@@ -394,3 +392,4 @@ The above techniques are common patterns we saw when writing our own test suites
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 8 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：8 分钟
+{% endraw %}

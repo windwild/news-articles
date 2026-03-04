@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Defining and evaluating political bias in LLMs | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/defining-and-evaluating-political-bias-in-llms"
@@ -10,6 +9,7 @@ translated: false
 description: "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias."
 tags: ["Research"]
 ---
+{% raw %}
 
 October 9, 2025
 
@@ -277,3 +277,4 @@ By discussing our definitions and evaluation methods, we aim to clarify our appr
 - [GPT](https://openai.com/news/?tags=gpt)
 - [Ethics & Safety](https://openai.com/news/?tags=ethics-safety)
 - [Reasonings & Policy](https://openai.com/news/?tags=reasoning-policy)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The Anthropic Economic Index report: New building blocks for understanding AI use"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/economic-index-primitives"
@@ -8,8 +7,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 经济研究
 
@@ -221,3 +219,4 @@ More generally, this report has given us a new baseline against which to compare
 In the meantime, researchers, journalists, and the public can use our data to inform their own research and thinking, and to provide an empirical foundation for the potential policy responses we might need. For much more detail on each of the areas we’ve discussed above, see our [full report](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report).
 
 与此同时，研究人员、记者及公众均可利用我们的数据开展自身研究与思考，并为其所需潜在政策响应提供实证基础。关于上述各议题的更详尽分析，请参阅我们的[完整报告](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)。
+{% endraw %}

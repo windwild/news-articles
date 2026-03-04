@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI Gateway is now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-gateway-is-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI Gateway is now generally available, providing a single interface to access hundreds of AI models with transparent pricing and built-in observability."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 21, 2025
 
@@ -50,3 +48,4 @@ const result = streamText({
 ```
 
 了解更多关于该[公告](https://vercel.com/blog/ai-gateway-is-now-generally-available)的信息，深入学习[AI Gateway](https://vercel.com/ai-gateway)，或立即[开始使用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fai%2Fquick-start&title=Get+started+with+AI+Gateway)。
+{% endraw %}

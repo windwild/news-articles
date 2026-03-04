@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and Altera logos appear on a white background, with a central image of a close-up orange leaf showing intricate vein details. | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/altera"
@@ -10,6 +9,7 @@ translated: false
 description: "Altera uses GPT-4o to build a new area of human collaboration"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Altera uses GPT‑4o to build a new area of human collaboration
@@ -72,3 +72,4 @@ Altera plans to scale its efforts to create entire societies of digital humans c
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

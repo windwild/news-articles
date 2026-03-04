@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "v0 Themes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/v0-themes"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 25, 2024
 
@@ -23,3 +21,4 @@ v0 现已支持主题功能。您可以通过提示词创建自定义主题，�
 [Try out v0 today](https://v0.dev/) and build your own theme.
 
 [立即试用 v0](https://v0.dev/)，打造属于您自己的主题。
+{% endraw %}

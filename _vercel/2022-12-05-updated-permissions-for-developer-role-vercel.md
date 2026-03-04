@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Updated permissions for Developer role - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/updated-permissions-for-developer-role"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 5, 2022
 
@@ -33,3 +31,4 @@ We suggest Enterprise plan customers review their policies in their Git environm
 Learn more about [Enterprise team roles and permissions](https://vercel.com/docs/teams-and-accounts/team-members-and-roles#enterprise-team-roles).
 
 了解更多关于 [Enterprise 团队角色与权限](https://vercel.com/docs/teams-and-accounts/team-members-and-roles#enterprise-team-roles) 的信息。
+{% endraw %}

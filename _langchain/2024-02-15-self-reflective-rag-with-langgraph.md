@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Self-Reflective RAG with LangGraph"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/agentic-rag-with-langgraph/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:13:05.176553794+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ### Key Links
 
@@ -193,3 +191,4 @@ Here, we show that LangGraph can be easily used for "flow engineering" of self-r
 We provide cookbooks for implementing ideas from two interesting papers, [Self-RAG](https://arxiv.org/pdf/2310.11511.pdf?ref=blog.langchain.com) and [CRAG](https://arxiv.org/pdf/2401.15884.pdf?ref=blog.langchain.com).  
 
 我们提供了两份实用指南（cookbook），分别介绍如何实现两篇颇具启发性的论文——[Self-RAG](https://arxiv.org/pdf/2310.11511.pdf?ref=blog.langchain.com) 和 [CRAG](https://arxiv.org/pdf/2401.15884.pdf?ref=blog.langchain.com)——中的核心思想。
+{% endraw %}

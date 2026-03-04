@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building a viral application to visualize train routes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-a-viral-application-to-visualize-train-routes"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How Benjamin Td built a viral application called Chronotrains to visualize train routes across Europe."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 10, 2022
 
@@ -61,3 +59,4 @@ Chronotrains 还充分利用了[增量静态再生（Incremental Static Regenera
 The code for Chronotains is now [open source](https://github.com/benjamintd/chronotrains). [Check out the site](https://www.chronotrains.com/) and [follow Benjamin](https://twitter.com/_benjamintd) for more updates.
 
 Chronotrains 的源代码现已[开源](https://github.com/benjamintd/chronotrains)。欢迎[访问网站](https://www.chronotrains.com/)，或[关注 Benjamin](https://twitter.com/_benjamintd) 获取更多动态更新。
+{% endraw %}

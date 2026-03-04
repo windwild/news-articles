@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New Relic Integration now supports traces from OpenTelemetry - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-relic-integration-now-supports-traces-from-opentelemetry"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 9, 2023
 
@@ -43,3 +41,4 @@ New Relic 集成现已包含以下功能：
 [Install the integration](https://vercel.com/integrations/newrelic) today or [learn more about](https://vercel.com/docs/integrations/otel-overview/quickstart) how to use OpenTelemetry on Vercel.
 
 [立即安装该集成](https://vercel.com/integrations/newrelic)，或[进一步了解](https://vercel.com/docs/integrations/otel-overview/quickstart)如何在 Vercel 上使用 OpenTelemetry。
+{% endraw %}

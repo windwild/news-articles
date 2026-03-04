@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Turborepo Run Summary is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/turborepo-run-summary-is-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 24, 2023
 
@@ -27,3 +25,4 @@ Apr 24, 2023
 Turborepo 运行摘要现已面向所有用户开放，适用于使用 [`turbo@1.9.0`](https://turbo.build/blog/turbo-1-9-0) 或更高版本的全部订阅计划。
 
 [查阅我们的文档](https://vercel.com/docs/concepts/monorepos/turborepo#debug-turborepo-cache-misses) 以了解更多信息。
+{% endraw %}

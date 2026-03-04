@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Announcing our $10M seed round led by Benchmark"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/announcing-our-10m-seed-round-led-by-benchmark/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:45:56.375794086+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 It was only six months ago that we released the first version of LangChain, but it seems like several years.  
 就在六个月前，我们发布了 LangChain 的首个版本，但感觉仿佛已过去好几年。
@@ -145,3 +143,4 @@ Again, these components are largely community driven. Some highlights:
 
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "From pilot to practice: How BBVA is scaling AI across the organization | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/bbva-2025"
@@ -10,6 +9,7 @@ translated: false
 description: "BBVA is reimagining how employees work with ChatGPT Enterprise, embedding AI into everyday operations. The bank has saved hours per week per employee, created 20,000+ Custom GPTs, and achieved up to 8..."
 tags: ["ChatGPT"]
 ---
+{% raw %}
 
 November 6, 2025
 
@@ -78,3 +78,4 @@ The bank also plans to continue broadening access to AI tools and capabilities a
 More than 1 million businesses around the world are achieving meaningful results with OpenAI.
 
 [Contact our team](https://openai.com/contact-sales/)
+{% endraw %}

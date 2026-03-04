@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Next.js AI Chatbot 2.0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/next-js-ai-chatbot-2-0"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 19, 2024
 
@@ -33,3 +31,4 @@ Lastly, we've simplified the default authentication setup by removing the need t
 [Try the demo](https://chat.vercel.ai/) or [deploy your own](https://vercel.com/templates/Next.js/nextjs-ai-chatbot).
 
 [试用演示版](https://chat.vercel.ai/) 或 [部署您自己的实例](https://vercel.com/templates/Next.js/nextjs-ai-chatbot)。
+{% endraw %}

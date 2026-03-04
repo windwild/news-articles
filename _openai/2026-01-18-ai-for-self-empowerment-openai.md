@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI for self empowerment | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ai-for-self-empowerment"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 18, 2026
 
@@ -83,3 +81,4 @@ This approach is useful for **everyday users and small businesses**, where we de
 We believe this is how the Intelligence Age can expand opportunity for everyone, and result in a future that is much better than the present. We believe everyone should focus on managing the capability overhang so as many people, businesses, and countries empower themselves to participate in and benefit from the positive transformative potential of AI.
 
 我们坚信，唯有如此，智能时代才能为每个人拓展机遇，并催生一个远胜于当下的美好未来。我们坚信，所有人都应聚焦于应对“能力过剩”（capability overhang）这一挑战，使尽可能多的个人、企业与国家得以自主赋能，积极参与并充分受益于 AI 所带来的积极变革力量。
+{% endraw %}

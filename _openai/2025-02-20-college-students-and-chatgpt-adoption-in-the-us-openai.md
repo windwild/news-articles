@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "College students and ChatGPT adoption in the US | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/college-students-and-chatgpt"
@@ -10,6 +9,7 @@ translated: false
 description: "A look into state-by-state adoption and how gaps might impact workforce readiness."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 February 20, 2025
 
@@ -46,3 +46,4 @@ We welcome insights from states, universities, colleges and schools to better un
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
+{% endraw %}

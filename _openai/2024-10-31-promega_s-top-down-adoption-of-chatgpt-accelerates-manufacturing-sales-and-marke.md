@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/promega"
@@ -10,6 +9,7 @@ translated: false
 description: "Promega's top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing
@@ -68,3 +68,4 @@ Looking ahead, he sees AI proficiency as a differentiator in the competitive lif
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

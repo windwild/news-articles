@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "DALL·E 2 pre-training mitigations | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/dall-e-2-pre-training-mitigations"
@@ -10,6 +9,7 @@ translated: false
 description: "In order to share the magic of DALL·E 2 with a broad audience, we needed to reduce the risks associated with powerful image generation models. To this end, we put various guardrails in place to p..."
 tags: ["Research"]
 ---
+{% raw %}
 
 June 28, 2022
 
@@ -141,3 +141,4 @@ To achieve this, we can compute a feature vector viv\_ivi​ for every training
 
 2. C
 Letting K K K represent the number of clusters and N N N the dataset size, this approach only requires O(K∗(N/K)2)=O(N2/K) O(K\*(N/K)^2) = O(N^2/K) O(K∗(N/K)2)=O(N2/K) pairwise distance calculations, rather than the full O(N2) O(N^2) O(N2). Meanwhile, we are still guaranteed that no image will have more than K K K near-duplicates in the worst possible case.
+{% endraw %}

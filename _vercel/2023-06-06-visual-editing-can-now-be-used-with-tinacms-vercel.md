@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Visual Editing can now be used with TinaCMS - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/visual-editing-can-now-be-used-with-tinacms"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 6, 2023
 
@@ -32,3 +30,4 @@ This functionality is now possible for Enterprise customers using [Tina](https:
 [Check out the documentation](https://vercel.com/docs/workflow-collaboration/visual-editing#get-started) to learn more or [contact us for access](https://vercel.com/contact/sales).  
 
 [查阅文档](https://vercel.com/docs/workflow-collaboration/visual-editing#get-started) 了解详情，或 [联系我们申请访问权限](https://vercel.com/contact/sales)。
+{% endraw %}

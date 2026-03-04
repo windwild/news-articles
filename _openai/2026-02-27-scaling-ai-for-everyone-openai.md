@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Scaling AI for everyone | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/scaling-ai-for-everyone"
@@ -10,8 +9,7 @@ translated: true
 description: "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
 tags: ["Company"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 27, 2026
 
@@ -68,3 +66,4 @@ OpenAI 与亚马逊今日宣布建立为期多年的战略性合作伙伴关系�
 — Sam Altman，OpenAI 联合创始人兼首席执行官
 
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

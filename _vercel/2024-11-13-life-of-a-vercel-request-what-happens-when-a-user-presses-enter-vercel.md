@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Life of a Vercel request: What happens when a user presses enter - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/life-of-a-vercel-request-what-happens-when-a-user-presses-enter"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Application delivery through the lens of a web request with Vercel’s framework-defined infrastructure."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 13, 2024
 
@@ -207,3 +205,4 @@ Deploy now](https://vercel.com/new)
 立即使用 Vercel，基于您的框架代码，一键完成应用的全球部署与弹性伸缩。\\
 \\
 立即部署](https://vercel.com/new)
+{% endraw %}

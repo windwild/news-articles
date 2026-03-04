@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building (and Breaking) WebLangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/weblangchain/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ## Important Links:
 
@@ -506,3 +504,4 @@ The underlying application logic is EXTREMELY similar (basically the same) as th
 [**LangGraph Platform in beta: New deployment options for scalable agent infrastructure**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [**LangGraph Platform 进入 Beta 阶段：面向可扩展智能体基础设施的新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
+{% endraw %}

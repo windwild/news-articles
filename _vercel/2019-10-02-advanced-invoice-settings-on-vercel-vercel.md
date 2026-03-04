@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Advanced Invoice Settings on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/advanced-invoice-settings"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: " As of today, invoices received from Vercel can be extended with much more information. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 2, 2019
 
@@ -77,3 +75,4 @@ With these new billing settings, you can easily make the invoices you receive fr
 
 In the future, more ways to configure your monthly bill will be available. If you have any suggestions for what you would like to see, feel free to [reach out](mailto:support@vercel.com?subject=Suggestion%20for%20billing%20settings). [Stay tuned for more updates](https://twitter.com/vercel) [!](https://twitter.com/zeithq)  
 未来，我们将提供更多配置月度账单的方式。如果您有任何功能建议，欢迎随时通过 [联系我们](mailto:support@vercel.com?subject=Suggestion%20for%20billing%20settings) 提出。[敬请关注更多更新](https://twitter.com/vercel) [!](https://twitter.com/zeithq)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A People-First AI Fund: $50M to support nonprofits | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/people-first-ai-fund"
@@ -10,6 +9,7 @@ translated: false
 description: "Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 202..."
 tags: ["Company"]
 ---
+{% raw %}
 
 September 8, 2025
 
@@ -65,3 +65,4 @@ Please note that we can only consider applications that have been completed in f
 - [Community](https://openai.com/news/?tags=community)
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

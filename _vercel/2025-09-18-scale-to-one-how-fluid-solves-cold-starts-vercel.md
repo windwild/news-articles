@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Scale to one: How Fluid solves cold starts - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/scale-to-one-how-fluid-solves-cold-starts"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel solves serverless cold starts with scale to one, Fluid compute, predictive scaling, and caching to keep functions warm and fast."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 18, 2025
 
@@ -275,3 +273,4 @@ Get started](https://vercel.com/fluid)
 告别冷启动焦虑，确保每一次首屏体验都快速流畅。\\
 \\
 立即开始](https://vercel.com/fluid)
+{% endraw %}

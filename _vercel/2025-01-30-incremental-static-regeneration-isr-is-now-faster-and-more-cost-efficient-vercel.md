@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Incremental Static Regeneration (ISR) is now faster and more cost-efficient - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/incremental-static-regeneration-is-now-faster-and-cheaper"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Incremental Static Regeneration (ISR) now faster and cheaper on Vercel. Writes to the ISR cache are now compressed by default, and the ISR cache location is now available in all regions and "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 30, 2025
 
@@ -43,3 +41,4 @@ Redeploy your project to apply these updates or learn more about [ISR](https://v
 _Update: The rollout of this change completed on February 5th, 2025 around 8am PST._
 
 _更新：本次变更已于 2025 年 2 月 5 日上午 8 点（太平洋标准时间，PST）完成全量发布。_
+{% endraw %}

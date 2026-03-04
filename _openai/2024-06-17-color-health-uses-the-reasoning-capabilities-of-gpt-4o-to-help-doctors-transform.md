@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Color Health uses the reasoning capabilities of GPT-4o to help doctors transform cancer care | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/color-health"
@@ -10,6 +9,7 @@ translated: false
 description: "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and cr..."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Color Health
@@ -89,3 +89,4 @@ Through the second half of 2024, Color intends to use the copilot application to
 [Talk with our team](https://openai.com/contact-sales/)
 
 Color Health uses the reasoning capabilities of GPT-4o to help doctors transform cancer care \| OpenAI
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Learning Day | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/learning-day"
@@ -10,6 +9,7 @@ translated: false
 description: "At OpenAI, each Thursday is Learning Day: a day where employees have the option to self-study technical skills that will make them better at their job but which aren’t being learned from daily work."
 tags: ["Company"]
 ---
+{% raw %}
 
 August 1, 2019
 
@@ -142,3 +142,4 @@ We’ve recently expanded Learning Day from a subset of our technical teams to t
 - [Events](https://openai.com/news/?tags=events)
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2019](https://openai.com/news/?tags=2019)
+{% endraw %}

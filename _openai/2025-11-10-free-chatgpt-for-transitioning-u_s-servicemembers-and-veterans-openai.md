@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Free ChatGPT for transitioning U.S. servicemembers and veterans | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/chatgpt-for-veterans"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI is offering U.S. servicemembers and veterans within 12 months of retirement or separation a free year of ChatGPT Plus to support their transition to civilian life. The tools can help with resum..."
 ---
+{% raw %}
 
 November 10, 2025
 
@@ -38,3 +38,4 @@ The leadership, discipline, and adaptability veterans bring to everything they d
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Community](https://openai.com/news/?tags=community)
+{% endraw %}

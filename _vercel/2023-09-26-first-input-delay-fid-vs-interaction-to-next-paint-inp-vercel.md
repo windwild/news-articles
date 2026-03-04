@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "First Input Delay (FID) vs. Interaction to Next Paint (INP) - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/first-input-delay-vs-interaction-to-next-paint"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn about the differences between FID and INP and how to optimize your website's INP score."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 26, 2023
 
@@ -200,3 +198,4 @@ Optimizing for INP will not only result in more responsive and seamless interact
 
 If you're using Next.js, using React 18's concurrent features can also help improve your INP score. [Learn more in this blog post](https://vercel.com/blog/how-react-18-improves-application-performance).  
 若您正在使用 Next.js，启用 React 18 的并发特性（concurrent features）也有助于提升您的 INP 分数。[了解更多，请参阅这篇博客文章](https://vercel.com/blog/how-react-18-improves-application-performance)。
+{% endraw %}

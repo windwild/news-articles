@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Access billing usage and cost data via API - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/access-billing-usage-cost-data-api"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports programmatic access to billing usage and cost data through the API and CLI, and we're introducing a new native integration that connects Vercel teams to Vantage accounts."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 19, 2026
 
@@ -156,3 +154,4 @@ Vantage 还推出了原生集成方案，可将 Vercel 团队与 Vantage 账户�
 Learn more in the [API documentation](https://docs.vercel.com/docs/rest-api/reference/endpoints/billing/list-focus-billing-charges) and [CLI reference](https://vercel.com/docs/cli/usage).
 
 更多详细信息，请参阅 [API 文档](https://docs.vercel.com/docs/rest-api/reference/endpoints/billing/list-focus-billing-charges) 和 [CLI 参考手册](https://vercel.com/docs/cli/usage)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Peering Into the Soul of AI Decision-Making with LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/peering-into-the-soul-of-ai-decision-making-with-langsmith/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:43:56.620883802+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written by [Paul Thomson](https://www.linkedin.com/in/thepaulthomson?ref=blog.langchain.com) from [Commandbar](https://www.commandbar.com/?ref=blog.langchain.com). They've been awesome partners as they brought their application into production with LangSmith, and we're excited to share their story getting there._
 
@@ -310,3 +308,4 @@ After diving deep with LangSmith's traces, experimenting with prompts, testing, 
 So, to our fellow AI product people trailblazers, dive into LangSmith. You’d be silly not to if you’re already using LangChain!
 
 因此，致所有奋战在 AI 产品前沿的同行开拓者们：请即刻拥抱 LangSmith！若您已在使用 LangChain，却尚未尝试 LangSmith——那可真就太可惜了！
+{% endraw %}

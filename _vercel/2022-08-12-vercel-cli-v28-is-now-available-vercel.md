@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel CLI v28 is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-cli-v28"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 12, 2022
 
@@ -58,3 +56,4 @@ Vercel CLI 28.0.0 版本现已发布。以下是过去几个月中完成的一�
 Note this batch of updates includes breaking changes. Check out the [full release notes](https://github.com/vercel/vercel/releases/tag/vercel%4028.0.0) to learn more.
 
 请注意，本次更新包含破坏性变更。详情请参阅 [完整发布说明](https://github.com/vercel/vercel/releases/tag/vercel%4028.0.0)。
+{% endraw %}

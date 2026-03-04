@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/building-chatgpt-atlas"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT."
 ---
+{% raw %}
 
 October 30, 2025
 
@@ -114,3 +114,4 @@ By rethinking how a browser holds Chromium, we’re creating space for new kinds
 ## Acknowledgements
 
 Special thanks to Darin Fisher and Marie Shin, who contributed to this post and to the entire OpenAI team that built Atlas.
+{% endraw %}

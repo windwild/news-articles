@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangChain Expression Language"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langchain-expression-language/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **TL;DR:**
 
@@ -276,3 +274,4 @@ We're incredibly excited about this being an easy and lightweight way to truly c
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

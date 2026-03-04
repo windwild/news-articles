@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New and improved content moderation tooling | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/new-and-improved-content-moderation-tooling"
@@ -10,6 +9,7 @@ translated: false
 description: "We are introducing a new and improved content moderation tool. The Moderation endpoint improves upon our previous content filter, and is available for free today to OpenAI API developers."
 tags: ["Product"]
 ---
+{% raw %}
 
 August 10, 2022
 
@@ -52,3 +52,4 @@ Get started with the Moderation endpoint by checking out [the documentation⁠(
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2022](https://openai.com/news/?tags=2022)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Chat Loaders: Fine-tune a ChatModel in your Voice"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/chat-loaders-finetune-a-chatmodel-in-your-voice/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ### Summary
 
@@ -248,3 +246,4 @@ We're excited to see all the creative applications fine-tuning unlocks.  We hav
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

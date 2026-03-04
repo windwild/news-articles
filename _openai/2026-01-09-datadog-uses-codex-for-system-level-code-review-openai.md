@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Datadog uses Codex for system-level code review | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/datadog"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 9, 2026
 
@@ -168,3 +166,4 @@ This shift aligns with how Datadog’s leaders frame engineering priorities, whe
 “We are the platform companies rely on when everything else is breaking,” says Carter. “Preventing incidents strengthens the trust our customers place in us.”
 
 “当其他一切系统都崩溃时，企业所依赖的正是我们的平台。”Carter 表示，“预防事故的发生，将进一步巩固客户对我们的信任。”
+{% endraw %}

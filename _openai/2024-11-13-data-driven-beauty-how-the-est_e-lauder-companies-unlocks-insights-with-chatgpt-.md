@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/estee-lauder"
@@ -10,6 +9,7 @@ translated: false
 description: "Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT
@@ -95,3 +95,4 @@ ELC plans to apply top GPTs across its portfolio of brands, empowering more team
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

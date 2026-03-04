@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Dataherald Makes Natural Language to SQL Easy"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/dataherald/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:13:28.261069965+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Editor's Note: we're excited to feature this guest post from the** [**Dataherald**](https://www.dataherald.com/?ref=blog.langchain.com) **team. Text-to-SQL is a HUGE use case, and Dataherald is the open-source leader in the space. This is a great look behind the curtains to see what makes it tick.**
 
@@ -121,3 +119,4 @@ We are just getting started and we have a lot lined up for the next few months: 
 If you are tired of wrangling with prompts to get NL-to-SQL to work, try out [Dataherald](https://dataherald.com/?ref=blog.langchain.com).
 
 如果您已厌倦反复调试提示词（prompt）以实现自然语言到 SQL 的转换，不妨试用一下 [Dataherald](https://dataherald.com/?ref=blog.langchain.com)。
+{% endraw %}

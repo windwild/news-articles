@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Transforming visual accessibility | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/be-my-eyes"
@@ -10,6 +9,7 @@ translated: false
 description: "Be My Eyes uses GPT-4 to transform visual accessibility."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Be My Eyes
@@ -87,3 +87,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Transforming visual accessibility \| OpenAI
+{% endraw %}

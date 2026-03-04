@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How to prompt v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-to-prompt-v0"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best v0 prompts include three things. What you're building, who uses it and when, and your design constraints. This guide walks through the framework with side-by-side tests showing faster generat..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 15, 2025
 
@@ -682,3 +680,4 @@ Start building](https://v0.dev/)
 - [Community Platform](https://community.vercel.com/c/v0/59) \- Ask for help, share prompt ideas, and chat about AI projects with the community
 
 - [社区平台](https://community.vercel.com/c/v0/59) \- 向社区寻求帮助、分享提示词创意，并就 AI 项目展开交流
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI board of directors announces advisors to nonprofit commission | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/nonprofit-commission-advisors"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI is appointing four new advisors to help inform OpenAI’s philanthropic efforts."
 ---
+{% raw %}
 
 April 15, 2025
 
@@ -56,3 +56,4 @@ This commitment reflects OpenAI’s broader goal of unlocking unprecedented scal
 See our recent [blog post](https://openai.com/index/nonprofit-commission-guidance/) for more information on OpenAI’s recently formed nonprofit commission.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

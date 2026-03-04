@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Argentina’s AI opportunity | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/argentinas-ai-opportunity"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainabl..."
 ---
+{% raw %}
 
 October 14, 2025
 
@@ -36,3 +36,4 @@ _“_ _The Stargate Argentina project represents a historic opportunity for the 
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
+{% endraw %}

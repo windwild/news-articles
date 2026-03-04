@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Delivering high-performance customer support | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/decagon"
@@ -10,6 +9,7 @@ translated: false
 description: "Decagon and OpenAI deliver high-performance, fully automated customer support at scale "
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Decagon and OpenAI deliver high-performance, fully automated customer support at scale
@@ -63,3 +63,4 @@ By continuously powering its platform with the latest OpenAI technology, Decagon
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

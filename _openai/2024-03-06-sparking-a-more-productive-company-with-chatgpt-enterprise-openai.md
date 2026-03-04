@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sparking a more productive company with ChatGPT Enterprise | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/match-group"
@@ -10,6 +9,7 @@ translated: false
 description: "Match Group uses ChatGPT Enterprise to spark creativity and impact."
 tags: ["Story"]
 ---
+{% raw %}
 
 [ChatGPT](https://openai.com/stories/chatgpt/) [API](https://openai.com/stories/api/)
 
@@ -98,3 +98,4 @@ ChatGPTMar 18, 2024](https://openai.com/index/holiday-extras/)
 APIMar 18, 2024](https://openai.com/index/superhuman/)
 
 Sparking a more productive company with ChatGPT Enterprise \| OpenAI
+{% endraw %}

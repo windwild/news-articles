@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building the most ambitious sites on the Web with Vercel and Next.js 14 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-the-most-ambitious-sites-on-the-web-with-vercel-and-next-js-14"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel and Next.js 14: Server Actions, Experimental Partial Prerendering, Next.js faster startups, and other announcements."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 6, 2023
 
@@ -212,3 +210,4 @@ Partial Prerendering is the next step towards our ambitious goal of **dynamic at
 Catch up on the rest of the [videos from Next.js Conf 2023](https://www.youtube.com/playlist?list=PLBnKlKpPeagl57K9bCw_IXShWQXePnXjY), browse our updated [documentation](https://nextjs.org/docs) and [courses](https://nextjs.org/learn), and most importantly—tell us what you think. This community and this framework is stronger with your feedback and your ideas. Thanks for being part of this journey.
 
 请观看 [Next.js Conf 2023 的其余视频](https://www.youtube.com/playlist?list=PLBnKlKpPeagl57K9bCw_IXShWQXePnXjY)，浏览我们更新后的 [文档](https://nextjs.org/docs) 和 [教程课程](https://nextjs.org/learn)，最重要的是——告诉我们您的想法！这个社区与这个框架，因您的反馈与创意而更加强大。感谢您一路同行！
+{% endraw %}

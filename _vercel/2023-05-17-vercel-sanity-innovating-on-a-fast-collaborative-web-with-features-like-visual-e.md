@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel + Sanity: Innovating on a fast, collaborative Web with features like Visual Editing - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-sanity-innovating-on-a-faster-collaborative-web"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing a strategic partnership with Sanity—the Composable Content Cloud"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 17, 2023
 
@@ -141,3 +139,4 @@ Vercel.com 着陆页
 ![](images/vercel-sanity-innovating-on-a-fast-collaborative-web-with-features-like-visual-e/img_005.svg)
 
 下载白皮书
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-monday/"
@@ -10,8 +9,7 @@ translated: true
 description: "Learn how monday Service developed an eval-driven development framework for their customer-facing service agents."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _[This is a guest post from our friends at_ [_Monday.com_](http://monday.com/?ref=blog.langchain.com) _driving eval strategy for their customer-facing AI service agents, led by Gal Ben Arieh (Group Tech Lead). Thank you for your contribution!_
 
@@ -415,3 +413,4 @@ This gave us the best of both worlds: LangSmith's powerful evaluation infrastruc
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：6 分钟
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Chat with Vercel Marketplace integrations using Vercel Agent - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/chat-with-vercel-marketplace-integrations-using-vercel-agent"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Agent Tools for Marketplace Integrations part of vercel agent tools and dashboard , featured on integration page for providers"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 18, 2025
 
@@ -31,3 +29,4 @@ Vercel Agent 是一个基于聊天界面的工具，可让您与 Marketplace 服
 - 您已安装的集成所对应的工具将自动加载，即刻可用。
 
 了解更多并立即开始使用，请参阅 [文档](http://vercel.com/docs/integrations/install-an-integration/agent-tools)。
+{% endraw %}

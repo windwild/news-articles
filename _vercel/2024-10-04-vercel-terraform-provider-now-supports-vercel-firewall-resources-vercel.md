@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Terraform Provider now supports Vercel Firewall resources - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-terraform-provider-now-supports-vercel-firewall"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 4, 2024
 
@@ -128,3 +126,4 @@ Bash
 ```bash
 terraform init -upgrade
 ```
+{% endraw %}

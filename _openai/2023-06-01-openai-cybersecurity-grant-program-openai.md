@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Cybersecurity Grant Program | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-cybersecurity-grant-program"
@@ -10,6 +9,7 @@ translated: false
 description: "Our goal is to facilitate the development of AI-powered cybersecurity capabilities for defenders through grants and other support."
 tags: ["Company"]
 ---
+{% raw %}
 
 June 1, 2023
 
@@ -69,3 +69,4 @@ Please submit your proposal [here⁠](https://openai.com/form/cybersecurity-gran
 
 - [Community](https://openai.com/news/?tags=community)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Techniques for training large neural networks | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/techniques-for-training-large-neural-networks"
@@ -10,6 +9,7 @@ translated: false
 description: "Large neural networks are at the core of many recent advances in AI, but training them is a difficult engineering and research challenge which requires orchestrating a cluster of GPUs to perform a sin..."
 tags: ["Research"]
 ---
+{% raw %}
 
 June 9, 2022
 
@@ -95,3 +95,4 @@ At OpenAI, we are training and improving large models from the underlying infras
 - [Compute Scaling](https://openai.com/research/index/?tags=compute-scaling)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Our new Edge and Dev infrastructure - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/new-edge-dev-infrastructure"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing major end-to-end enhancements from a better development experience to serving pages even faster."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 21, 2020
 
@@ -153,3 +151,4 @@ As far as the end-user is concerned, our edge is now faster, more robust and mor
 Remarkably, all the changes we outlined went live with zero interruptions – to visitors or developers. By choosing Vercel, you choose to focus on improving your product, while we take care the rest.
 
 值得一提的是，我们所概述的所有变更均实现零中断上线——既未影响访客访问，也未干扰开发者工作。选择 Vercel，意味着您可专注于产品优化，其余一切交由我们来保障。
+{% endraw %}

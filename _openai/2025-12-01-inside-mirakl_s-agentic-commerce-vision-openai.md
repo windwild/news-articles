@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Inside Mirakl’s agentic commerce vision | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/mirakl"
@@ -10,6 +9,7 @@ translated: false
 description: "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus."
 tags: ["API"]
 ---
+{% raw %}
 
 December 1, 2025
 
@@ -84,3 +84,4 @@ Mirakl’s role: provide the infrastructure, connections, and operational expert
 More than 1 million businesses around the world are achieving meaningful results with OpenAI.
 
 [Contact our team](https://openai.com/contact-sales/)
+{% endraw %}

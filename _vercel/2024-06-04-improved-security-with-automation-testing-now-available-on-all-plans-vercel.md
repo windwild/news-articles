@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved security with automation testing now available on all plans - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-security-with-automation-testing-now-available-on-all-plans"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 4, 2024
 
@@ -31,3 +29,4 @@ The automation bypass enables you to protect your project's deployments with [Ve
 See [how to use Protection Bypass for Automation](https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/protection-bypass-automation#using-protection-bypass-for-automation).
 
 请参阅 [如何在自动化中使用保护绕过功能](https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/protection-bypass-automation#using-protection-bypass-for-automation)。
+{% endraw %}

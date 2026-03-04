@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Rebuff: Detecting Prompt Injection Attacks"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/rebuff/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:48:21.353488350+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **[Editor's Note]**: we're excited to highlight a guest blog by [Willem Pienaar](https://twitter.com/willpienaar?ref=blog.langchain.com). As more and more LangChains make their way into production, we're getting an increased amount of questions about the security and privacy of these systems. We did a [webinar](https://www.youtube.com/watch?v=fP6vRNkNEt0&ref=blog.langchain.com) on this topic a few weeks ago, and the main action item that emerged was the best thing at the moment is more awareness of this topic is needed. That is why we are so excited for this post!
 
@@ -318,3 +316,4 @@ We'd love for you to join our community and help improve Rebuff! Here's how you 
 
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
+{% endraw %}

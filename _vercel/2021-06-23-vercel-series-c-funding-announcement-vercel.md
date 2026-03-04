@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel: Series C funding announcement - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/series-c-102m-continue-building-the-next-web"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel has added an additional $102 million of investment at a valuation greater than $1BN."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 23, 2021
 
@@ -63,3 +61,4 @@ We remain focused on helping **everyone** [build the next web](https://rauchg.co
 _Vercel has added an additional $102 million of investment at a valuation greater than $1BN. This Series C round is in addition to the $61 million previously raised. The round is led by existing investor_ [_Bedrock Capital_](http://www.bedrockcap.com/) _with participation from other existing investors_ [_Accel_](https://accel.com/) _,_ [_CRV_](https://crv.com/) _,_ [_Geodesic Capital_](https://www.geodesiccap.com/) _,_ [_Greenoaks Capital_](http://www.greenoakscap.com/) _, and_ [_GV_](https://www.gv.com/) _. New investors include_ [_8VC_](https://8vc.com/) _,_ [_Flex Capital_](https://www.flexcapital.com/) _,_ [_GGV_](https://www.ggvc.com/) _,_ [_Latacora_](https://www.latacora.com/) _,_ [_Salesforce Ventures_](https://www.salesforce.com/company/ventures/) _, and_ [_Tiger Global_](https://www.tigerglobal.com/) _._
 
 _Vercel 新增融资 1.02 亿美元，公司估值超过 10 亿美元。本轮融资为 C 轮，是在此前已募集的 6100 万美元基础上追加进行。本轮融资由现有投资方_ [_Bedrock Capital_](http://www.bedrockcap.com/) _领投，其他参与的现有投资方包括_ [_Accel_](https://accel.com/) _、_ [_CRV_](https://crv.com/) _、_ [_Geodesic Capital_](https://www.geodesiccap.com/) _、_ [_Greenoaks Capital_](http://www.greenoakscap.com/) _和_ [_GV_](https://www.gv.com/) _。新加入的投资方包括_ [_8VC_](https://8vc.com/) _、_ [_Flex Capital_](https://www.flexcapital.com/) _、_ [_GGV_](https://www.ggvc.com/) _、_ [_Latacora_](https://www.latacora.com/) _、_ [_Salesforce Ventures_](https://www.salesforce.com/company/ventures/) _以及_ [_Tiger Global_](https://www.tigerglobal.com/) _。_
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Basis scales accounting by turning OpenAI model progress into trusted agents | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/basis"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth."
 ---
+{% raw %}
 
 August 12, 2025
 
@@ -76,3 +76,4 @@ Today, Basis supports a significant share of large accounting firms across the U
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

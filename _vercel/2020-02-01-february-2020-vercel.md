@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "February 2020 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/changelog-february-2020"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's changelog for February 2020"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 1, 2020
 
@@ -79,3 +77,4 @@ Feb 1, 2020
 - The "Platform Version" field was removed from the account and team settings.
 
 - “平台版本（Platform Version）”字段已从账户及团队设置中移除。
+{% endraw %}

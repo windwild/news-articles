@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Log Drains on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/log-drains"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Easily forward and collect your logs using Log Drains."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 31, 2020
 
@@ -88,3 +86,4 @@ Ready to develop an integration? Check out our documentation and [create an inte
 
 All of our work is heavily driven by feedback from our users. For feature requests, or to suggest ideas to make our platform and your experience better, please reach out to us [via email](mailto:support@vercel.com) or on [Twitter](https://twitter.com/vercel).  
 我们所有的工作都高度依赖于用户的反馈。如需提出功能需求，或就如何改进平台及您的使用体验提供宝贵建议，欢迎通过[电子邮件](mailto:support@vercel.com)或在[Twitter](https://twitter.com/vercel) 上联系我们。
+{% endraw %}

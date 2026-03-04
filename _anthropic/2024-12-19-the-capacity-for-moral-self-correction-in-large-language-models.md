@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The Capacity for Moral Self-Correction in Large Language Models"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/the-capacity-for-moral-self-correction-in-large-language-models"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Societal Impacts
 
@@ -47,3 +45,4 @@ We test the hypothesis that language models trained with reinforcement learning 
 [Moral Self-Correction Policy Memo](https://www-cdn.anthropic.com/d14f58fe8f611858bc37ff8686bbda71e4927ce6/Anthropic_MoralSelfCorrection_v3.pdf)
 
 [《道德自我修正政策备忘录》](https://www-cdn.anthropic.com/d14f58fe8f611858bc37ff8686bbda71e4927ce6/Anthropic_MoralSelfCorrection_v3.pdf)
+{% endraw %}

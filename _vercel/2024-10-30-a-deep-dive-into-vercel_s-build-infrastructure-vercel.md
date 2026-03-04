@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A deep dive into Vercel’s build infrastructure - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/a-deep-dive-into-hive-vercels-builds-infrastructure"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel’s low-level untrusted and ephemeral compute platform is designed to give us the control needed to securely and efficiently manage and run builds."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 30, 2024
 
@@ -167,3 +165,4 @@ As a general-purpose compute platform, Hive has endless potential beyond builds.
 Join us in building a faster, and more scalable web. [Start building on Vercel today, powered by Hive](https://vercel.com/templates/next.js/nextjs-boilerplate).
 
 加入我们，共同构建更快、更具可扩展性的网络。[立即在 Vercel 上开始构建（由 Hive 提供支持）](https://vercel.com/templates/next.js/nextjs-boilerplate)
+{% endraw %}

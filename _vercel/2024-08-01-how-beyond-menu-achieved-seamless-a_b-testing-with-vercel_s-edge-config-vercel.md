@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Beyond Menu Achieved Seamless A/B Testing with Vercel’s Edge Config - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/beyond-menu-scaling-with-hypertune-and-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: " Learn how Beyond Menu resolved feature flagging and A/B testing issues in serverless environments by integrating Hypertune with Vercel’s Edge Config, achieving seamless performance and improved use..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 1, 2024
 
@@ -520,3 +518,4 @@ Vercel.com 官网首页
 ### Stop configuring and start innovating.
 
 ### 停止繁琐配置，开启创新之旅。
+{% endraw %}

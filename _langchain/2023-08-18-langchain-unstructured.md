@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangChain <> Unstructured"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langchain-unstructured/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 One of the core value props of LangChain is the ability to combine Large Language Models with your own text data. There are multiple ( [four!](https://python.langchain.com/docs/modules/chains/document/?ref=blog.langchain.com)) different methods of doing so, and [many](https://langchain.readthedocs.io/en/latest/use_cases/question_answering.html?ref=blog.langchain.com) [different](https://python.langchain.com/docs/use_cases/question_answering/?ref=blog.langchain.com) applications this can power.
 
@@ -113,3 +111,4 @@ We're incredibly excited to have made this integration with Unstructured. With t
 [**LangGraph Platform 正式进入 Beta 阶段：面向可扩展智能体基础设施的新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 分钟阅读
+{% endraw %}

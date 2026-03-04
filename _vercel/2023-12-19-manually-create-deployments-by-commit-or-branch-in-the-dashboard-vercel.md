@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Manually create deployments by commit or branch in the dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/manually-create-deployments-by-commit-or-branch-in-the-dashboard"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 19, 2023
 
@@ -57,3 +55,4 @@ When the same commit appears in multiple branches, Vercel will prompt you to cho
 [Learn more](https://vercel.com/docs/deployments/git#creating-a-deployment-from-a-git-reference) in our documentation.
 
 [了解更多](https://vercel.com/docs/deployments/git#creating-a-deployment-from-a-git-reference)（英文文档）
+{% endraw %}

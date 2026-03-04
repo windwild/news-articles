@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The Washington Post partners with OpenAI on search content | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/the-washington-post-partners-with-openai"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "The Washington Post is partnering with with OpenAI to integrate news into ChatGPT, providing users with summaries, quotes, and direct links to original reporting."
 ---
+{% raw %}
 
 April 22, 2025
 
@@ -38,3 +38,4 @@ This partnership is the latest example of The Post’s commitment to expanding t
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
+{% endraw %}

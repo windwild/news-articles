@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI at the Paris  AI Action Summit | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/openai-at-the-paris-ai-action-summit"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI looks forward to engaging with global leaders on AI’s role in shaping innovation and economic prosperity."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 February 7, 2025
 
@@ -66,3 +66,4 @@ In anticipation of the summit, we have prepared a more detailed report showing t
 We look forward to sharing our progress on safety and engaging with world leaders and civil society groups in Paris, and are committed to continuing to fulfill the Bletchley and Seoul voluntary commitments in future.
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Announcing LangGraph v0.1 & LangGraph Cloud: Running agents at scale, reliably"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langgraph-cloud/"
@@ -10,8 +9,7 @@ translated: true
 description: "Our new infrastructure for running agents at scale, LangGraph Cloud, is available in beta. We also have a new stable release of LangGraph."
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Note: As of October 2025, LangGraph Platform has been re-named to "LangSmith Deployment"._
 
@@ -256,3 +254,4 @@ If you have feedback, we’d love to hear from you at hello@langchain.dev!
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Automated security audits now available for skills.sh - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automated-security-audits-now-available-for-skills-sh"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Skills on the skills.sh now have automated security audits to help developers to use skills with confidence."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 17, 2026
 
@@ -31,3 +29,4 @@ Feb 17, 2026
 - 安全验证前置：自 `skills@1.4.0` 版本起，在添加技能时即清晰展示该技能的审计结果与风险等级。
 
 了解更多，请访问 [skills.sh](http://skills.sh/)。
+{% endraw %}

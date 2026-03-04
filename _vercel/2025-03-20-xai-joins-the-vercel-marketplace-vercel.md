@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "xAI joins the Vercel Marketplace  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/xai-joins-the-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "xAI joins the Vercel Marketplace to help users access Grok's large language models directly from their Vercel projects"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 20, 2025
 
@@ -71,3 +69,4 @@ To help you get started, we've also made a [ready-to-deploy Next.js xAI starter 
 To learn more about xAI on Vercel, read our [announcement](https://vercel.com/blog/xai-and-vercel-partner-to-bring-zero-friction-ai-to-developers) and the [documentation](https://vercel.com/docs/ai/xai).
 
 如需了解更多关于 Vercel 上 xAI 的信息，请参阅我们的 [官方公告](https://vercel.com/blog/xai-and-vercel-partner-to-bring-zero-friction-ai-to-developers) 和 [文档](https://vercel.com/docs/ai/xai)。
+{% endraw %}

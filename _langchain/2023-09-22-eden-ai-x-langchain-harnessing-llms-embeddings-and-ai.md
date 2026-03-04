@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Eden AI x LangChain: Harnessing LLMs, Embeddings, and AI"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/eden-ai-x-langchain/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:41:13.300476892+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written in collaboration with the [Eden AI](https://www.edenai.co/?ref=blog.langchain.com) team. We're really excited about Eden's approach to simplifying AI implementation so that we can get more applications into production! It grants access to a diverse range of AI capabilities, spanning text and image generation, OCR, speech-to-text, and image analysis, all with the convenience of a single API key and minimal code. And their integration with LangChain provides effortless access to lots of LLMs and Embeddings._
 
@@ -442,3 +440,4 @@ Whether you're starting with the basics or delving into advanced integration, yo
 [Get your API key for FREE](https://app.edenai.run/user/register?referral=article-langchain&ref=blog.langchain.com) and start revolutionizing your AI integration today!  
 
 [立即免费获取您的 API 密钥](https://app.edenai.run/user/register?referral=article-langchain&ref=blog.langchain.com)，即刻开启您的 AI 集成革新之旅！
+{% endraw %}

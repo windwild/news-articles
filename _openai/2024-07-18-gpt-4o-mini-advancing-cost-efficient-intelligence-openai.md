@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-4o mini: advancing cost-efficient intelligence | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence"
@@ -10,6 +9,7 @@ translated: false
 description: "Introducing the most cost-efficient small model in the market"
 tags: ["Research"]
 ---
+{% raw %}
 
 July 18, 2024
 
@@ -110,3 +110,4 @@ We envision a future where models become seamlessly integrated in every app and 
 - [Language](https://openai.com/research/index/?tags=language)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
+{% endraw %}

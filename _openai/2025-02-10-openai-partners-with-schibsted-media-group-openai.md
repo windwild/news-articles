@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI partners with Schibsted Media Group  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-partners-with-schibsted-media-group"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI and Schibsted Media Group announce content partnership to bring Guardian news and archive content to  ChatGPT."
 tags: ["Company"]
 ---
+{% raw %}
 
 February 10, 2025
 
@@ -36,3 +36,4 @@ Varun Shetty, Head of Media Partnerships, at OpenAI said “Our partnership with
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
+{% endraw %}

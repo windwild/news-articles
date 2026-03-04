@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "BCG X Releases AgentKit, a Full-Stack Starter Kit for Building Constrained Agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/bcg-x-releases-agentkit-a-full-stack-starter-kit-for-building-constrained-agents/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:13:32.346284737+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Editor's Note: We're very excited to share this work by BCG. We've worked closely with the BCG over the past year to help support companies bring GenAI initiatives into production. We were intrigued to hear about their AgentKit platform, and once we got a closer look we were even more excited. We hope you all are as well!**
 
@@ -134,3 +132,4 @@ To date, some of the projects BCG X has used AgentKit for include:
 - 利用智能体助手对供应链优化系统进行控制与协同编排  
 - 为一家大型汽车企业开发客户服务聊天机器人  
 - ……以及更多项目
+{% endraw %}

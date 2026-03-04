@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Intercom's three lessons for creating a sustainable AI advantage | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/intercom"
@@ -10,6 +9,7 @@ translated: false
 description: "Discover how Intercom built a scalable AI platform with 3 key lessons—from evaluations to architecture—to lead the future of customer support."
 tags: ["API"]
 ---
+{% raw %}
 
 July 30, 2025
 
@@ -101,3 +101,4 @@ Intercom built a scalable AI platform by staying rigorous on evaluation, grounde
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

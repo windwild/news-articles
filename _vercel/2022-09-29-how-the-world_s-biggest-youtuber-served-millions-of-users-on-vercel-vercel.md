@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How the world’s biggest YouTuber served millions of users on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/serving-millions-of-users-on-the-new-mrbeast-storefront"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Find out how basement.studio balanced performance, entertainment, and reliability for MrBeast's new storefront. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 29, 2022
 
@@ -150,3 +148,4 @@ Thanks to Vercel, Shopify, Axiom, and the media & TV company's team, we stuck to
 In the end, the work speaks for itself.  
 
 最终，成果本身已不言自明。
+{% endraw %}

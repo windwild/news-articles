@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Prompt Selectors"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/prompt-selectors/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 One common complaint we've heard is that the default prompt templates do not work equally well for all models. This became especially pronounced this past week when OpenAI released a ChatGPT API. This new API had a completely new interface ( [which required new abstractions](https://blog.langchain.com/chat-models/)) and as a result many users noticed issues with old prompts no longer working. Although we quickly added support for this model, many users noticed that prompt templates that worked well for GPT-3 did not work well in the chat setting.
 
@@ -164,3 +162,4 @@ It will take some time to transition over to these selectors, but we started wit
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

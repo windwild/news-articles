@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Superposition, Memorization, and Double Descent \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/superposition-memorization-and-double-descent"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 InterpretabilityResearch
 
@@ -67,3 +65,4 @@ In this note, we offer a very preliminary investigation of training the same toy
 
 - We observe double descent as the model transitions between these regimes.  
 - 当模型在这两种状态之间转换时，我们观察到了“双下降”（double descent）现象。
+{% endraw %}

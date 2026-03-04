@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing our latest image generation model in the API | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/image-generation-api"
@@ -10,6 +9,7 @@ translated: false
 description: "Our latest image generation model is now available in the API via ‘gpt-image-1’—enabling developers and businesses to build professional-grade, customizable visuals directly into their own tools..."
 tags: ["Product"]
 ---
+{% raw %}
 
 April 23, 2025
 
@@ -64,3 +64,4 @@ To get started, explore the model’s capabilities in the [playground⁠(opens i
 
 - [2025](https://openai.com/news/?tags=2025)
 - [API Platform](https://openai.com/news/?tags=api-platform)
+{% endraw %}

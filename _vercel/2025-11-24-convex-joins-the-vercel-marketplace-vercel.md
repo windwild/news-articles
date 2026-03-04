@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Convex joins the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/convex-joins-the-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Install Convex from the Vercel Marketplace and get a streamlined path to building full-stack apps with real-time data, strong consistency, and a great developer experience."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 24, 2025
 
@@ -28,3 +26,4 @@ Nov 24, 2025
 - 将 Convex 的数据模型与函数，无缝融入 Vercel 完整的开发者工作流  
 
 立即通过 Marketplace 安装 Convex，仅需数次点击，即可启动具备全链路连接能力的后端开发。
+{% endraw %}

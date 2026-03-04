@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Tracing the thoughts of a large language model"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/tracing-thoughts-language-model"
@@ -9,8 +8,7 @@ translated: true
 description: "Anthropic's latest interpretability research: a new microscope to understand Claude's internal mechanisms"
 tags: ["Interpretability"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Interpretability
 
@@ -275,3 +273,4 @@ A description of our new interpretability methods can be found in our first pape
 If you are interested in working with us to help interpret and improve AI models, we have open roles on our team and we’d love for you to apply. We’re looking for [Research Scientists](https://job-boards.greenhouse.io/anthropic/jobs/4020159008) and [Research Engineers](https://job-boards.greenhouse.io/anthropic/jobs/4020305008).
 
 如果您有兴趣与我们合作，共同提升人工智能模型的可解释性与性能，我们团队目前有多个开放职位，诚挚欢迎您的加入！我们正在招聘[研究科学家（Research Scientists）](https://job-boards.greenhouse.io/anthropic/jobs/4020159008)和[研究工程师（Research Engineers）](https://job-boards.greenhouse.io/anthropic/jobs/4020305008)。
+{% endraw %}

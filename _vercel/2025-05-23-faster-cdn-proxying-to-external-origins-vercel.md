@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Faster CDN proxying to external origins - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-cdn-proxying-to-external-origins"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel’s upgraded CDN connection pooling speeds up proxying to external backends by up to 60%, cutting latency for both low-traffic and high-traffic apps."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 23, 2025
 
@@ -31,3 +29,4 @@ We’ve optimized connection pooling in our CDN to reduce latency when connectin
 This is now live across all Vercel deployments at no additional cost.
 
 此项优化现已在所有 Vercel 部署中全面上线，且无需额外费用。
+{% endraw %}

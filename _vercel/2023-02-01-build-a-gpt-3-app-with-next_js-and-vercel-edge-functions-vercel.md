@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Build a GPT-3 app with Next.js and Vercel Edge Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/gpt-3-app-next-js-vercel-edge-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to build GPT-3 AI apps with OpenAI, Next.js, and Vercel Edge Functions."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 1, 2023
 
@@ -976,3 +974,4 @@ Deploy this template
 AI Photo Restorer
 
 AI 照片修复器
+{% endraw %}

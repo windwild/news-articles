@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New integrations to extend your Vercel workflow - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-integrations-to-extend-your-vercel-workflow"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 21, 2022
 
@@ -58,3 +56,4 @@ The integration marketplace allows you to extend and automate your workflow by i
 Explore these integrations and more at our [Integrations Marketplace](https://vercel.com/integrations).
 
 欢迎访问我们的[集成市场](https://vercel.com/integrations)，探索上述集成及其他更多选项。
+{% endraw %}

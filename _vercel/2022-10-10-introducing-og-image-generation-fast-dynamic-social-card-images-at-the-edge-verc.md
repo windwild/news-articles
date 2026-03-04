@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing OG Image Generation: Fast, dynamic social card images at the Edge - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-vercel-og-image-generation-fast-dynamic-social-card-images"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing Vercel OG Image Generation, a new library for generating dynamic social card images."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 10, 2022
 
@@ -339,3 +337,4 @@ Vercel OG 图像生成（基于 Vercel Edge Functions）现已开放公开测试
 - [Deploy your first social card](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/edge-functions/vercel-og-nextjs&project-name=vercel-og-nextjs&repository-name=vercel-og-nextjs)
 
 - [部署你的第一张社交卡片](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/edge-functions/vercel-og-nextjs&project-name=vercel-og-nextjs&repository-name=vercel-og-nextjs)
+{% endraw %}

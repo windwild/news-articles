@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Codex | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-codex"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve created an improved version of OpenAI Codex, our AI system that translates natural language to code, and we are releasing it through our API in private beta starting today."
 tags: ["Product"]
 ---
+{% raw %}
 
 August 10, 2021
 
@@ -84,3 +84,4 @@ We’re now making OpenAI Codex available in private beta via our API, and we ar
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2021](https://openai.com/news/?tags=2021)
+{% endraw %}

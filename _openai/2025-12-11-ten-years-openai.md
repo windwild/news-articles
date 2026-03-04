@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Ten years | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ten-years"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimisti..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 December 11, 2025
 
@@ -77,3 +75,4 @@ Our mission is to ensure that AGI benefits all of humanity. We still have a lot 
 我们的使命是确保通用人工智能（AGI）造福全人类。前方仍有大量工作亟待完成，但我为团队当前所处的发展轨迹深感自豪。人们如今已借助这项技术取得巨大成效，而我们深知，未来两三年内还将有更多突破接踵而至。
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

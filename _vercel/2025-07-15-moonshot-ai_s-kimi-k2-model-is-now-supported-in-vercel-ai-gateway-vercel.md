@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Moonshot AI's Kimi K2 model is now supported in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/moonshot-ai-kimi-k2-model-is-now-supported-in-vercel-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access Kimi K2 from Moonshot AI using Vercel's AI Gateway, with no Moonshot AI account required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 15, 2025
 
@@ -78,3 +76,4 @@ To deliver high performance and reliability to Kimi K2, AI Gateway leverages mul
 Learn more about [AI Gateway](https://vercel.com/docs/ai-gateway).
 
 进一步了解 [AI Gateway](https://vercel.com/docs/ai-gateway)。
+{% endraw %}

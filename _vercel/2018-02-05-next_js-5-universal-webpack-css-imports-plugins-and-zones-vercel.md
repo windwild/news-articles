@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next5"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js 5 focuses on greater extensibility, composability for large applications and performance"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 5, 2018
 
@@ -740,3 +738,4 @@ We want to take this opportunity to thank Deep Varma and the [Trulia](https://t
 As always, this release wouldn't have been possible without the many open-source contributors and [our wonderful community](https://front-git-removed-remaining-local-posts.vercel.vercel.app/chat).
 
 一如既往，若非众多开源贡献者及 [我们卓越的社区](https://front-git-removed-remaining-local-posts.vercel.vercel.app/chat)，本次发布将无从实现。
+{% endraw %}

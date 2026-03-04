@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Getting started with AI: Advice from the experts at Vercel Ship - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/getting-started-with-ai-advice-from-the-experts-at-vercel-ship"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Takeaways from the AI Enterprise Panel at Vercel Ship 2024."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 13, 2024
 
@@ -111,3 +109,4 @@ Vercel.com 着陆页
 ### Power your next AI breakthrough.
 
 ### 赋能您的下一次 AI 突破。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Vercel AI SDK 3.2 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-vercel-ai-sdk-3-2"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel AI SDK 3.2 enables agent and embeddings workflows while improving provider support and DX. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 18, 2024
 
@@ -749,3 +747,4 @@ export default function Chat() {\
 [**借助 Vercel 更快交付生产级 AI 应用**  
 与我们的团队联系，了解如何在贵组织内构建 AI 驱动的应用。  
 联系我们](https://vercel.com/contact/sales)
+{% endraw %}

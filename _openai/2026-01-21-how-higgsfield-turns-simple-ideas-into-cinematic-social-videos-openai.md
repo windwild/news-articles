@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Higgsfield turns simple ideas into cinematic social videos | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/higgsfield"
@@ -10,8 +9,7 @@ translated: true
 description: "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2."
 tags: ["API"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 21, 2026
 
@@ -162,3 +160,4 @@ That shift unlocked new formats. Higgsfield recently launched Cinema Studio, a h
 As OpenAI models continue to evolve, Higgsfield’s system expands with them. New capabilities are translated into workflows that feel obvious in hindsight, but weren’t feasible before. As models mature, the work of storytelling shifts away from managing tools and toward making decisions about tone, structure, and meaning.
 
 随着 OpenAI 模型持续演进，Higgsfield 的系统亦随之扩展。新增能力被转化为一系列工作流程——回过头看，这些流程显得理所当然，但在此前却根本无法实现。随着模型日趋成熟，叙事工作的重心正从工具操作转向对语调、结构与意义等关键要素的决策。
+{% endraw %}

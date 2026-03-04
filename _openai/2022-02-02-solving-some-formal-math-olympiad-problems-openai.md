@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Solving (some) formal math olympiad problems | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/formal-math"
@@ -10,6 +9,7 @@ translated: false
 description: "We built a neural theorem prover for Lean that learned to solve a variety of challenging high-school olympiad problems, including problems from the AMC12 and AIME competitions, as well as two pr..."
 tags: ["Research"]
 ---
+{% raw %}
 
 February 2, 2022
 
@@ -231,3 +231,4 @@ These problems are not standard math exercises, they are used to let the best hi
 
 2. B
 The artifacts accepted by the formal system are low-level (like assembly code) and hard for humans to produce. Tactics are search procedures that generate such artifacts from higher level directives to assist formalization.
+{% endraw %}

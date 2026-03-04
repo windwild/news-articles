@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "ChatGPT can now see, hear, and speak | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/chatgpt-can-now-see-hear-and-speak"
@@ -10,6 +9,7 @@ translated: false
 description: "We are beginning to roll out new voice and image capabilities in ChatGPT. They offer a new, more intuitive type of interface by allowing you to have a voice conversation or show ChatGPT what you’re ..."
 tags: ["Product"]
 ---
+{% raw %}
 
 September 25, 2023
 
@@ -111,3 +111,4 @@ Plus and Enterprise users will get to experience voice and images in the next tw
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

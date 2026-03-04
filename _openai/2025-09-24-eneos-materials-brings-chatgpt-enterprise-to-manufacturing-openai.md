@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "ENEOS Materials brings ChatGPT Enterprise to manufacturing | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/eneos-materials"
@@ -10,8 +9,7 @@ translated: true
 description: "By deploying ChatGPT Enterprise, ENEOS Materials transformed operations with faster research, safer plant design, and streamlined HR processes. Over 80% of employees report major workflow improvements..."
 tags: ["ChatGPT"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 2025年9月24日
 
@@ -175,3 +173,4 @@ Looking ahead, ENEOS Materials plans to extend AI beyond ChatGPT, weaving it acr
 [Talk with our team](https://openai.com/contact-sales/)
 
 [与我们的团队交流](https://openai.com/contact-sales/)
+{% endraw %}

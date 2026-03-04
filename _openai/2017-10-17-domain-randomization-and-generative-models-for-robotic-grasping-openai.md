@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Domain randomization and generative models for robotic grasping | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/domain-randomization-and-generative-models-for-robotic-grasping"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 October 17, 2017
 
@@ -31,3 +31,4 @@ We evaluate our model architecture and data generation pipeline in simulation an
 
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
+{% endraw %}

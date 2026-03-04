@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Advanced egress firewall filtering for Vercel Sandbox - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/advanced-egress-firewall-filtering-for-vercel-sandbox"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel sandboxes now allow you to restrict access to the internet to keep exfiltration risks to a minimum"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 11, 2026
 
@@ -163,3 +161,4 @@ await sandbox.updateNetworkPolicy('deny-all');
 Read the [documentation](https://vercel.com/docs/vercel-sandbox/concepts/firewall) to learn more about network egress firewall policies, available on all plans.
 
 请阅读[文档](https://vercel.com/docs/vercel-sandbox/concepts/firewall)，了解有关网络出口防火墙策略的更多信息——该功能在所有套餐中均可用。
+{% endraw %}

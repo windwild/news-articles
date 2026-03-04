@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Simplifying, stabilizing, and scaling continuous-time consistency models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve simplified, stabilized, and scaled continuous-time consistency models, achieving comparable sample quality to leading diffusion models, while using only two sampling steps."
 tags: ["Research"]
 ---
+{% raw %}
 
 October 23, 2024
 
@@ -118,3 +118,4 @@ We will continue to work toward developing better generative models with both im
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
+{% endraw %}

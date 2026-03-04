@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Best practices for deploying language models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/best-practices-for-deploying-language-models"
@@ -10,6 +9,7 @@ translated: false
 description: "Cohere, OpenAI, and AI21 Labs have developed a preliminary set of best practices applicable to any organization developing or deploying large language models."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 June 2, 2022
 
@@ -88,3 +88,4 @@ If you’re developing language models or are working to mitigate their risks, w
 
 - [Framework](https://openai.com/news/?tags=framework)
 - [2022](https://openai.com/news/?tags=2022)
+{% endraw %}

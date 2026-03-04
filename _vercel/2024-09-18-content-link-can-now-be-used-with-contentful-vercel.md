@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Content Link can now be used with Contentful  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/content-link-can-now-be-used-with-contentful"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 2024年9月18日
 
@@ -35,3 +33,4 @@ render_with_liquid: false
 [查阅文档](https://vercel.com/docs/integrations/cms/contentful#content-link) 即刻开始使用。
 
 [查阅文档](https://vercel.com/docs/integrations/cms/contentful#content-link) 即刻开始使用。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Neo Financial cut time spent on infrastructure admin by 50% - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/neo-financial"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Neo Financial leverages Vercel's frontend cloud to enhance their web development process, boost performance, and meet industry security standards—all while saving on resources. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 22, 2023
 
@@ -171,3 +169,4 @@ Vercel.com 官网落地页
 
 Download the whitepaper  
 下载白皮书
+{% endraw %}

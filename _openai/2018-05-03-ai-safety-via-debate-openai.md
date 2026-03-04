@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI safety via debate | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/debate"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re proposing an AI safety technique which trains agents to debate topics with one another, using a human to judge who wins."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 May 3, 2018
 
@@ -122,3 +122,4 @@ If debate or a similar approach works, it will make future AI systems safer by k
 
 - [OpenAI Five](https://openai.com/research/index/?tags=openai-five)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
+{% endraw %}

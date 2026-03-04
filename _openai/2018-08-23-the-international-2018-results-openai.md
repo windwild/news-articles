@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The International 2018: Results | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/the-international-2018-results"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI Five lost two games against top Dota 2 players at The International in Vancouver this week, maintaining a good chance of winning for the first 20–35 minutes of both games."
 tags: ["Research"]
 ---
+{% raw %}
 
 August 23, 2018
 
@@ -60,3 +60,4 @@ As we said in [Wednesday’s panel⁠(opens in a new window)](https://www.twitc
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
+{% endraw %}

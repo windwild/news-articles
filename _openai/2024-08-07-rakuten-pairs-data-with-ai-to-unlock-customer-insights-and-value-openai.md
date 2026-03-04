@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Rakuten Pairs Data with AI to Unlock Customer Insights and Value | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/rakuten"
@@ -10,6 +9,7 @@ translated: false
 description: "Rakuten Pairs Data with AI to Unlock Customer Insights and Value"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Rakuten pairs data with AI to unlock customer insights and value
@@ -60,3 +60,4 @@ Rakuten is guided by a passion to empower people and society—and in 2024, they
 [Talk with our team](https://openai.com/contact-sales/)
 
 Rakuten Pairs Data with AI to Unlock Customer Insights and Value \| OpenAI
+{% endraw %}

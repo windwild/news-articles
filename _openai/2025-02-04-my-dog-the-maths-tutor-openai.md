@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "My dog, the maths tutor | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/my-dog-the-math-tutor"
@@ -11,6 +10,7 @@ description: "ChatGPT and personal tutoring
 "
 tags: ["ChatGPT"]
 ---
+{% raw %}
 
 February 4, 2025
 
@@ -130,3 +130,4 @@ ChatGPTFeb 4, 2025](https://openai.com/index/fishing-for-first-timers/)
 ProductMay 30, 2024](https://openai.com/index/introducing-chatgpt-edu/)
 
 My dog, the maths tutor \| OpenAI
+{% endraw %}

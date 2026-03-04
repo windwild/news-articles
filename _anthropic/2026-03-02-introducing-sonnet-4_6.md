@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Sonnet 4.6"
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/claude-sonnet-4-6"
@@ -9,8 +8,7 @@ translated: true
 description: "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design. "
 tags: ["Product"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Product
 
@@ -308,3 +306,4 @@ Claude Sonnet 4.6 现已上线所有 [Claude 订阅方案](https://claude.com/pr
 If you’re a developer, you can get started quickly by using `claude-sonnet-4-6` via the [Claude API](https://platform.claude.com/docs/en/about-claude/models/overview).
 
 如果您是开发者，可通过 [Claude API](https://platform.claude.com/docs/en/about-claude/models/overview) 快速上手，使用模型标识符 `claude-sonnet-4-6`。
+{% endraw %}

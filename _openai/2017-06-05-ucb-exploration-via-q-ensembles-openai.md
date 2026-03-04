@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "UCB exploration via Q-ensembles | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ucb-exploration-via-q-ensembles"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 June 5, 2017
 
@@ -27,3 +27,4 @@ We show how an ensemble of Q\*-functions can be leveraged for more effective ex
 
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

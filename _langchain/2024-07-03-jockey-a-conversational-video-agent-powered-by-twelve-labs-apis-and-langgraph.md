@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Jockey: A Conversational Video Agent Powered by Twelve Labs APIs and LangGraph"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/jockey-twelvelabs-langgraph/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Guest blog post on how Jockey, a conversational video agent, uses LangGraph and Twelve Labs API for more intelligent video processing."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _This is a guest blog post authored by James Le and Travis Couture at Twelve Labs. You can also read this blog post on the_ [_Twelve Labs blog_](https://www.twelvelabs.io/blog/introducing-jockey?ref=blog.langchain.com) _._
 
@@ -155,3 +153,4 @@ For more substantial customizations, developers can directly modify Jockey's com
 Jockey represents a powerful fusion of LangGraph's flexible agent framework and Twelve Labs' cutting-edge video understanding APIs, opening up new possibilities for intelligent video processing and interaction. To get started, visit the [Jockey GitHub repository](https://github.com/twelvelabs-io/tl-jockey?ref=blog.langchain.com) and see [the LangGraph docs](https://langchain-ai.github.io/langgraph/?ref=blog.langchain.com#installation) to access source code and documentation. The [Twelve Labs APIs](https://api.twelvelabs.io/?ref=blog.langchain.com) can also help you unlock the full potential of video AI in your applications. You can deploy Jockey locally for development and testing, or leverage [LangGraph Cloud](https://langchain-ai.github.io/langgraph/cloud/?ref=blog.langchain.com#langgraph-cloud-beta) for scalable production deployments.
 
 Jockey 是 LangGraph 灵活的智能体框架与 Twelve Labs 前沿视频理解 API 的强大融合，为智能化视频处理与交互开辟了全新可能。如需快速上手，请访问 [Jockey GitHub 仓库](https://github.com/twelvelabs-io/tl-jockey?ref=blog.langchain.com)，并查阅 [LangGraph 官方文档](https://langchain-ai.github.io/langgraph/?ref=blog.langchain.com#installation)，获取源代码与详细说明。[Twelve Labs API](https://api.twelvelabs.io/?ref=blog.langchain.com) 亦可助您充分释放视频 AI 在您应用中的全部潜力。您既可将 Jockey 本地部署，用于开发与测试；亦可借助 [LangGraph Cloud](https://langchain-ai.github.io/langgraph/cloud/?ref=blog.langchain.com#langgraph-cloud-beta) 实现可扩展的生产级部署。
+{% endraw %}

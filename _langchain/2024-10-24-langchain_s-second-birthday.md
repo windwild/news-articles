@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangChain's Second Birthday"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langchain-second-birthday/"
@@ -10,8 +9,7 @@ translated: true
 description: "Reflections on how LangChain has evolved — including our products, ecosystem, and community — over the past two years, and where we're headed next."
 tags: ["Harrison Chase", "![What is an AI agent?", "**What is an AI agent?**"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Today marks two years since the `langchain` Python package was released into the wild. Two years is both a long and short amount of time. On one hand, it still feels very early in our collective journey to build applications with LLMs. Yet, so much has also changed in that time. With the rapid pace of change in the industry, we’ve mostly been heads-down building. But on the second anniversary of our first release, we want to take stock and reflect on how `langchain` has evolved and where we’re headed next.
 
@@ -195,3 +193,4 @@ We'd love to have you along for the journey as we build the future of LLM applic
 [Harrison Chase](https://blog.langchain.com/tag/harrison-chase/) 4 min read
 
 [Harrison Chase](https://blog.langchain.com/tag/harrison-chase/) 阅读时长：4 分钟
+{% endraw %}

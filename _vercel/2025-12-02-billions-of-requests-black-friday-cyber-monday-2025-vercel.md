@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Billions of requests: Black Friday-Cyber Monday 2025 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/bfcm-2025"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Every year, Black Friday and Cyber Monday reveal how people shop, browse, and discover products at global scale. For Vercel, the weekend is not a different operating mode. The platform behaves the sam..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 2, 2025
 
@@ -193,3 +191,4 @@ Fork the v0 app](https://v0.app/templates/vercel-blackfriday-map-hUI7hCyGNye)
 设计工程师兼 v0 用户 Abil Shrestha 重构了我们的黑色星期五—网络星期一活动网站，并将其发布为一个可直接 Fork 的模板，您今天即可试用。\\
 \\
 Fork 这个 v0 应用](https://v0.app/templates/vercel-blackfriday-map-hUI7hCyGNye)
+{% endraw %}

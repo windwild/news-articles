@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Gym Retro | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gym-retro"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing the full version of Gym Retro, a platform for reinforcement learning research on games. This brings our publicly-released game count from around 70 Atari games and 30 Sega games to ..."
 tags: ["Research"]
 ---
+{% raw %}
 
 May 25, 2018
 
@@ -51,3 +51,4 @@ If you are excited about conducting research on transfer learning and meta-learn
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
+{% endraw %}

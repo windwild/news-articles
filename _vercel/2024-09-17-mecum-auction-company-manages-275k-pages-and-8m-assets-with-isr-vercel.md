@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Mecum Auction Company manages 275K pages and 8M assets with ISR - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/managing-275-thousand-pages-and-8-million-assets-with-isr"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Content-heavy websites don't need to suffer from long build times. With Incremental Static Regeneration (ISR), Mecum Auction Company handles 8M digital assets and 275K pages, while improving performan..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 17, 2024
 
@@ -120,3 +118,4 @@ Vercel.com 官网着陆页
 ### The managed, global rendering layer for modern web applications
 
 ### 面向现代 Web 应用的托管式全球渲染层
+{% endraw %}

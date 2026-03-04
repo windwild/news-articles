@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI Integrations and playground in the Vercel Dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-integration-and-playground-in-the-vercel-dashboard"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 8, 2024
 
@@ -37,3 +35,4 @@ You can now incorporate AI models and services from industry-leading providers i
 [Check out the documentation](https://vercel.com/docs/integrations#ai-integrations) to get started.
 
 [查看文档](https://vercel.com/docs/integrations#ai-integrations) 开始使用。
+{% endraw %}

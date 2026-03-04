@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "View & query bot verification data in Vercel Observability - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/view-and-query-bot-verification-data-in-vercel-observability"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Analyze traffic to your Vercel projects by bot name, bot category, and bot verification status in Vercel Observability"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 30, 2025
 
@@ -46,3 +44,4 @@ All users can view bot verification badge while Observability Plus subscribers c
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Fnotebooks) or learn more about [Observability](https://vercel.com/docs/observability) and [Observability Plus](https://vercel.com/docs/observability/observability-plus).
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Fnotebooks)，或进一步了解 [可观测性（Observability）](https://vercel.com/docs/observability) 和 [可观测性 Plus（Observability Plus）](https://vercel.com/docs/observability/observability-plus)。
+{% endraw %}

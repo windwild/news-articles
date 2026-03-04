@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "\"Research Assistant\": Exploring UXs Besides Chat"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/exploring-uxs-besides-chat-with-research-assistant/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:26:03.324304972+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **TLDR: 我们很高兴地宣布一款全新的** [**LangChain 模板**](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant?ref=blog.langchain.com) **，专为辅助研究工作而设计，其设计深受** [**GPT Researcher**](https://github.com/assafelovic/gpt-researcher?ref=blog.langchain.com) **团队启发，并与之深度协作完成。我们对此尤为振奋，因为这是目前我们所见性能最优、运行最久、通用性最强、且非对话式（non-chat）的“认知架构”之一。**
 
@@ -185,3 +183,4 @@ While the GenAI space so far has been dominated by application with chat UXs, we
 GPT-Researcher is a perfect example of this, and we’re excited to have worked with them to bring this “research assistant” template to fruition. Play around with it [here](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant?ref=blog.langchain.com) and let us know your thoughts!  
 
 GPT-Researcher 正是这一理念的完美范例。我们非常荣幸能与 GPT-Researcher 团队合作，共同将这一“研究助手”模板成功落地。欢迎前往 [此处](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant?ref=blog.langchain.com) 亲自体验，并随时与我们分享您的想法！
+{% endraw %}

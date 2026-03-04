@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Learning to communicate | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/learning-to-communicate"
@@ -10,6 +9,7 @@ translated: false
 description: "In this post we’ll outline new OpenAI research in which agents develop their own language."
 tags: ["Research"]
 ---
+{% raw %}
 
 March 16, 2017
 
@@ -94,3 +94,4 @@ You can find out more information about the technical specifics of our research 
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
+{% endraw %}

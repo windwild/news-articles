@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sam Altman returns as CEO, OpenAI has a new initial board | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board"
@@ -10,6 +9,7 @@ translated: false
 description: "Mira Murati as CTO, Greg Brockman returns as President. Read messages from CEO Sam Altman and board chair Bret Taylor."
 tags: ["Company"]
 ---
+{% raw %}
 
 November 29, 2023
 
@@ -96,3 +96,4 @@ As previously stated, the OpenAI Board convened a committee consisting of Bret T
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

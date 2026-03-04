@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Bounce rate support in Web Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bounce-rate-support-in-web-analytics"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Web Analytics now displays the bounce rate on your Vercel dashboard. The bounce rate shows the percentage of users visiting a single page without navigating any further."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 15, 2025
 
@@ -33,3 +31,4 @@ When filtering for a route or path, the bounce rate adapts and shows how many us
 Learn more about [filtering in Web Analytics](https://vercel.com/docs/analytics/filtering).
 
 了解更多关于 [Web Analytics 中的筛选功能](https://vercel.com/docs/analytics/filtering)。
+{% endraw %}

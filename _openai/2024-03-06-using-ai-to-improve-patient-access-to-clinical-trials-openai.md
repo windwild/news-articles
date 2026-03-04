@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using AI to improve patient access to clinical trials | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/paradigm"
@@ -10,6 +9,7 @@ translated: false
 description: "Paradigm uses OpenAI’s API to improve patient access to clinical trials."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Paradigm
@@ -95,3 +95,4 @@ ChatGPTMar 18, 2024](https://openai.com/index/holiday-extras/)
 APIMar 18, 2024](https://openai.com/index/superhuman/)
 
 Using AI to improve patient access to clinical trials \| OpenAI
+{% endraw %}

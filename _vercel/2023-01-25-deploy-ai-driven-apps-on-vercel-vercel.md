@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deploy AI-driven apps on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/deploying-ai-applications"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Deploying AI-driven apps on Vercel is easier than ever before. Here's some templates and tooling to jump-start your AI application."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 25, 2023
 
@@ -354,3 +352,4 @@ Deploy this template
 Flask Alt Text Generator
 
 Flask 替代文本生成器
+{% endraw %}

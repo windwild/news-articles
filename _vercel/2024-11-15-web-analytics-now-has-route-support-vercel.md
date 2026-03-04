@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Web Analytics now has route support - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/web-analytics-now-has-route-support"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 15, 2024
 
@@ -27,3 +25,4 @@ Nov 15, 2024
 该功能面向所有 Web Analytics 用户开放。
 
 了解更多关于 [Web Analytics 中的筛选功能](https://vercel.com/docs/analytics/filtering)。
+{% endraw %}

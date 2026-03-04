@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Azure AI Provider for the Vercel AI SDK now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/azure-ai-provider-for-the-vercel-ai-sdk-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 12, 2024
 
@@ -70,3 +68,4 @@ Using the Azure provider with the Vercel AI SDK
 For more information, [please see the documentation](https://sdk.vercel.ai/providers/ai-sdk-providers/azure).
 
 如需更多信息，请参阅[文档](https://sdk.vercel.ai/providers/ai-sdk-providers/azure)。
+{% endraw %}

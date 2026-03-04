@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Mux shipped durable video workflows with their @mux/ai SDK - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-mux-shipped-durable-video-workflows-with-their-mux-ai-sdk"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Mux built durable AI video workflows into their @mux/ai SDK using Workflow DevKit, with automatic retries, state persistence, and zero infrastructure setup."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 12, 2026
 
@@ -295,3 +293,4 @@ We're excited to see what you build. Drop us a note with what you're working on,
 _This post was written by_ [_Dylan Jhaveri_](https://x.com/dylanjha) _and the team at_ [_Mux_](https://mux.com/) _, who build video infrastructure for developers. @mux/ai integrates with Workflow DevKit to make AI video workflows production-ready without extra infrastructure._
 
 本文由 [_Dylan Jhaveri_](https://x.com/dylanjha) 与 [_Mux_](https://mux.com/) 团队共同撰写。Mux 为开发者构建视频基础设施。@mux/ai 可与 Workflow DevKit 集成，无需额外基础设施，即可将 AI 视频工作流投入生产环境。
+{% endraw %}

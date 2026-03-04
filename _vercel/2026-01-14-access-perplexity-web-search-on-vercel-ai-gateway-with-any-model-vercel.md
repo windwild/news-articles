@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Access Perplexity Web Search on Vercel AI Gateway with any model - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/access-perplexity-web-search-on-vercel-ai-gateway-with-any-model"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can use Perplexity web search with any model and any provider on Vercel AI Gateway to access real-time results and up-to-date information."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 14, 2026
 
@@ -283,3 +281,4 @@ const result = await streamText({
 For more information, see the [AI Gateway Perplexity Web Search docs](https://vercel.com/docs/ai-gateway/web-search#using-perplexity-search).
 
 有关更多信息，请参阅 [AI Gateway Perplexity 网络搜索文档](https://vercel.com/docs/ai-gateway/web-search#using-perplexity-search)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "You can just ship agents - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/you-can-just-ship-agents"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel AI Cloud combines unified model routing and failover, elastic cost-efficient compute that only bills for active CPU time, isolated execution for untrusted code, and workflow durability that sur..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 23, 2025
 
@@ -239,3 +237,4 @@ Agents will become part of every product the way frontends did. The teams that b
 If you are ready to explore what an agent could do for your team, start with a [template](https://vercel.com/templates?type=ai), adapt it to your workflow, and deploy it on the same infrastructure that serves your customers every day. When you are ready to go deeper, the [marketplace](https://vercel.com/marketplace/category/agents), the [SDK](https://ai-sdk.dev/), and the [cloud](https://vercel.com/blog/the-ai-cloud-a-unified-platform-for-ai-workloads) will meet you where you are and scale with you as you grow.
 
 如果你已准备好探索智能体能为你的团队带来哪些价值，不妨从一个 [模板](https://vercel.com/templates?type=ai) 入手，按需适配你的工作流，并将其部署在每日服务你客户的同一套基础设施之上。当你希望进一步深入时，[智能体市场（Marketplace）](https://vercel.com/marketplace/category/agents)、[AI SDK](https://ai-sdk.dev/) 和 [AI Cloud](https://vercel.com/blog/the-ai-cloud-a-unified-platform-for-ai-workloads) 将在你当前所处的位置与你相遇，并随你的业务成长而持续扩展。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Transforming how you work with v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/transforming-how-you-work-with-v0"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "v0 lets all creators—not just developers—bring their ideas to life. Explore v0 use cases and prompt inspiration for designers, marketers, project managers, customer support, data analysis, and mor..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 10, 2025
 
@@ -255,3 +253,4 @@ Get started](https://v0.app/)
 准备好在日常工作中体验 v0 的强大能力了吗？\\
 \\
 立即开始](https://v0.app/)
+{% endraw %}

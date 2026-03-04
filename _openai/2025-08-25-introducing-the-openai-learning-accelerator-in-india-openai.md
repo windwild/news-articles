@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the OpenAI Learning Accelerator in India | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/learning-accelerator"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI announces the launch of OpenAI Learning Accelerator, an initiative that aims to bring advanced AI to India’s educators and millions of learners nationwide through accelerated AI research, tra..."
 ---
+{% raw %}
 
 August 25, 2025
 
@@ -61,3 +61,4 @@ Dr. Kamakoti Veezhinathan, Director IIT Madras, said: _“At IIT Madras, our goa
 Prof. T.G. Sitharam, Chairman, AICTE, said: _“AI is not just transforming technology, it’s redefining how we shape the future of our technical workforce. At AICTE, we are integrating AI across disciplines and focusing on hands-on, industry-relevant training for both students and faculty. OpenAI, a progressive leader in the field of Artificial Intelligence, is driving innovation through its state-of-the-art tools and high-end computing capabilities, making AI education more accessible than ever. Leveraging such advanced tools will enable us to accelerate innovation, enhance learning experiences, and build a future-ready technical ecosystem.”_
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Functions now scale 12x faster for high-volume requests - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-functions-now-scale-12x-faster-for-high-volume-requests"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 11, 2023
 
@@ -26,3 +24,4 @@ Vercel Functions 现在在付费计划下，针对高流量请求的扩展速度
 
 
 了解更多关于 Vercel Functions 的[自动并发扩展](https://vercel.com/docs/functions/serverless-functions/runtimes#automatic-concurrency-scaling)功能。
+{% endraw %}

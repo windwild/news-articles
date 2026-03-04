@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Challenges in evaluating AI systems \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/evaluating-ai-systems"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Policy
 
@@ -380,3 +378,4 @@ url = { [https://www.anthropic.com/index/evaluating-ai-systems](https://www.anth
 The FRVT reports shined a spotlight on these accuracy discrepancies, which put pressure on vendors to improve their algorithms and mitigate systemic biases.  
 
 FRVT 报告凸显了这些准确率差异，从而促使供应商改进其算法，并减轻系统性偏见。
+{% endraw %}

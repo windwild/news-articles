@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Protecting your app (and wallet) against malicious traffic - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/protecting-your-app-and-wallet-against-malicious-traffic"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to block traffic with the Firewall, set up soft and hard spend limits, apply code-level optimizations, and more."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 2, 2024
 
@@ -207,3 +205,4 @@ That’s why we also provide configurable Firewall rules, usage notifications, S
 Hopefully you now have a better understanding of how to keep your application protected on Vercel and prevent unwanted usage.  
 
 希望您现在对如何在 Vercel 上保护您的应用以及防止非预期调用有了更清晰的认识。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Bloom: an open source tool for automated behavioral evaluations"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/bloom"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -186,3 +184,4 @@ url={https://github.com/safety-research/bloom},
 Copy
 
 复制
+{% endraw %}

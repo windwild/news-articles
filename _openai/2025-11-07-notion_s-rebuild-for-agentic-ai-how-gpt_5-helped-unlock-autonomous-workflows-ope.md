@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/notion"
@@ -10,6 +9,7 @@ translated: false
 description: "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible pr..."
 tags: ["API"]
 ---
+{% raw %}
 
 November 7, 2025
 
@@ -88,3 +88,4 @@ Notion’s rebuild wasn’t just about launching Notion 3.0. It was about design
 ## Ready to get started?
 
 [Contact sales](https://openai.com/contact-sales/) [Start building(opens in a new window)](https://platform.openai.com/)
+{% endraw %}

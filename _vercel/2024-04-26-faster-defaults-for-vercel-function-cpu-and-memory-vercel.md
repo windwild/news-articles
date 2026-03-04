@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Faster defaults for Vercel Function CPU and memory - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-defaults-for-vercel-function-cpu-and-memory"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 26, 2024
 
@@ -27,3 +25,4 @@ Apr 26, 2024
 该变更将自动应用于所有付费计划客户（Pro 与 Enterprise），**无需任何操作**。
 
 请查阅我们的 [文档](https://vercel.com/docs/functions/configuring-functions/memory)，了解更多信息。
+{% endraw %}

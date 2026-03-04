@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Stargate advances with 4.5 GW partnership with Oracle  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/stargate-advances-with-partnership-with-oracle"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America’s reindustrializ..."
 ---
+{% raw %}
 
 July 22, 2025
 
@@ -39,3 +39,4 @@ Stargate is an ambitious undertaking designed to meet the historic opportunity i
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
+{% endraw %}

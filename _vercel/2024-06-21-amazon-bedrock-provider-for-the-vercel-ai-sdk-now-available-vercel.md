@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Amazon Bedrock Provider for the Vercel AI SDK now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/amazon-bedrock-provider-for-the-vercel-ai-sdk-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 21, 2024
 
@@ -52,3 +50,4 @@ For more information, [please see the documentation](https://sdk.vercel.ai/provi
 Thanks Jon Spaeth for contributing this feature!
 
 感谢 Jon Spaeth 为本功能做出的贡献！
+{% endraw %}

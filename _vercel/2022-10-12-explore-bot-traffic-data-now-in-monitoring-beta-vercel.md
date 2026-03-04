@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Explore bot traffic data, now in Monitoring Beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/explore-bot-traffic-data-now-in-monitoring-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 12, 2022
 
@@ -38,3 +36,4 @@ Three new example queries have been added to help you get started:
 
 [Check out the documentation](https://vercel.com/docs/concepts/dashboard-features/monitoring) to learn more.  
 [查看文档](https://vercel.com/docs/concepts/dashboard-features/monitoring) 了解更多信息。
+{% endraw %}

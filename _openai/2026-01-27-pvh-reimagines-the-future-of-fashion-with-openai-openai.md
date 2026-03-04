@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "PVH reimagines the future of fashion with OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/pvh-future-of-fashion"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 27, 2026
 
@@ -86,3 +84,4 @@ More than 1 million business customers around the world are directly using OpenA
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)  
 - [合作伙伴关系](https://openai.com/news/?tags=partnerships)
+{% endraw %}

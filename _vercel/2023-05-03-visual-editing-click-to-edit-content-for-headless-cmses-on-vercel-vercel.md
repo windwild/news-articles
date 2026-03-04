@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Visual Editing: Click-to-edit content for headless CMSes on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/visual-editing"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Visual Editing"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 3, 2023
 
@@ -113,3 +111,4 @@ Feb 27, 2023
 Kiana and Peter
 
 Kiana 和 Peter
+{% endraw %}

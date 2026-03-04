@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Advancing organizational transformation for business innovation | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/dai-nippon-printing"
@@ -10,6 +9,7 @@ translated: false
 description: "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 1..."
 tags: ["ChatGPT"]
 ---
+{% raw %}
 
 October 28, 2025
 
@@ -96,3 +96,4 @@ Under its brand statement, “Creating future standards,” DNP seeks to expand 
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

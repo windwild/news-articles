@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Vercel Firewall DDoS mitigation notifications - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-vercel-firewall-notifications"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 12, 2024
 
@@ -31,3 +29,4 @@ These alerts are available on Pro and Enterprise plans.
 Learn more about [Vercel Firewall](https://vercel.com/docs/security/vercel-firewall).
 
 了解更多关于 [Vercel 防火墙](https://vercel.com/docs/security/vercel-firewall) 的信息。
+{% endraw %}

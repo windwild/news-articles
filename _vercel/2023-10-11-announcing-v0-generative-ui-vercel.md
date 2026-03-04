@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Announcing v0: Generative UI - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/announcing-v0-generative-ui"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing v0"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 11, 2023
 
@@ -140,3 +138,4 @@ Feb 10, 2023
 Kiana and Steven
 
 基安娜（Kiana）和史蒂文（Steven）
+{% endraw %}

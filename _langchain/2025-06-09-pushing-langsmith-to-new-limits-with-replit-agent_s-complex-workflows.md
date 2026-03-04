@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Pushing LangSmith to new limits with Replit Agent's complex workflows"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-replit/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how Replit built their agents atop LangGraph and integrated LangSmith to pinpoint issues, improve the performance of their agents, and enable human-in-the-loop workflows."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [Replit](https://replit.com/?ref=blog.langchain.com) is at the forefront of AI innovation with its platform that simplifies writing, running, and collaborating on code for over 30+ million developers. They recently released Replit Agent, which immediately went viral due to the incredible applications people could easily create with this tool.
 
@@ -162,3 +160,4 @@ Replit 正借助 LangSmith 强大的可观测性能力，不断拓展 AI agent �
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长 4 分钟
+{% endraw %}

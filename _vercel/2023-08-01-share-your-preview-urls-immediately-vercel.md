@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Share your Preview URLs immediately - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/share-your-preview-urls-immediately"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 1, 2023
 
@@ -27,3 +25,4 @@ The [Preview URL](https://vercel.com/docs/concepts/deployments/preview-deploymen
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/preview-deployments#preview-urls) to learn more.
 
 [查阅文档](https://vercel.com/docs/concepts/deployments/preview-deployments#preview-urls) 了解更多信息。
+{% endraw %}

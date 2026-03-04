@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Text and code embeddings by contrastive pre-training | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 January 24, 2022
 
@@ -27,3 +27,4 @@ Text embeddings are useful features in many applications such as semantic search
 
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Language](https://openai.com/research/index/?tags=language)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Agent can now run AI investigations - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-agent-can-now-run-ai-investigations"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Agent Investigation intelligently conducts incident response investigations to alert, analyze, and suggest remediation steps"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 31, 2025
 
@@ -141,3 +139,4 @@ Anomaly alerts are available out-of-the-box for Observability Plus subscribers. 
 Learn more about [Alerts](https://vercel.com/docs/alerts) or enable it on the [Observability dashboard](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Falerts) today.
 
 了解更多关于 [告警（Alerts）](https://vercel.com/docs/alerts) 的信息，或立即前往 [Observability 控制台](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Falerts) 启用该功能。
+{% endraw %}

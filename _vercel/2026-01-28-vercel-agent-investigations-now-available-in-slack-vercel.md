@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Agent investigations now available in Slack - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-agent-investigations-now-available-in-slack"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "With our updated Slack integration, investigations now appear directly in Slack alert messages as a threaded response. This eliminates the need to click into the Vercel dashboard and gives you context..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 28, 2026
 
@@ -23,3 +21,4 @@ Jan 28, 2026
 此功能面向使用 Observability Plus 的团队提供。Observability Plus 订阅用户可免费享受 10 次调查服务，无需额外付费。
 
 了解更多关于 [Vercel Agent 调查功能](https://vercel.com/docs/agent/investigation) 的信息。
+{% endraw %}

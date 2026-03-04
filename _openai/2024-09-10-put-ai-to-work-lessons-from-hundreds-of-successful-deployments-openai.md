@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Put AI to Work: Lessons from Hundreds of Successful Deployments | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments"
@@ -10,6 +9,7 @@ translated: false
 description: "Put AI to Work: Lessons from Hundreds of Successful Deployments"
 tags: ["Webinar"]
 ---
+{% raw %}
 
 Recorded: September 10, 2024
 
@@ -23,3 +23,4 @@ Lessons from hundreds of successful deployments.
 00:0027:12
 
 Put AI to Work: Lessons from Hundreds of Successful Deployments \| OpenAI
+{% endraw %}

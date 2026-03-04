@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Configure retention periods for deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/configure-retention-periods-for-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 23, 2024
 
@@ -29,3 +27,4 @@ For example, canceled and errored deployments might be set to 30 days retention,
 Learn more in our [documentation](https://vercel.com/docs/security/deployment-retention).
 
 更多详情，请参阅我们的[文档](https://vercel.com/docs/security/deployment-retention)。
+{% endraw %}

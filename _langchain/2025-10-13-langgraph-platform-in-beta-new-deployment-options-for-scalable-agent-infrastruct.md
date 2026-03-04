@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangGraph Platform in beta: New deployment options for scalable agent infrastructure"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langgraph-platform-announce/"
@@ -10,8 +9,7 @@ translated: true
 description: "We've rebranded our service for deploying and scaling LangGraph apps as LangGraph Platform. Learn about the multiple deployment options and what LangGraph Platform entails."
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Note: As of October 2025, LangGraph Platform has been re-named to "LangSmith Deployment"._
 
@@ -228,3 +226,4 @@ If your deployment requires greater security or support needs, please [contact u
 [**利用少样本提示（few-shot prompting）提升工具调用性能**](https://blog.langchain.com/few-shot-prompting-to-improve-tool-calling-performance/)
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 8 分钟阅读
+{% endraw %}

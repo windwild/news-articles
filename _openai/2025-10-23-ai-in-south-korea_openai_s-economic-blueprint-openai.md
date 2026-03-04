@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI in South Korea—OpenAI’s Economic Blueprint | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/south-korea-economic-blueprint"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth."
 tags: ["Company"]
 ---
+{% raw %}
 
 October 23, 2025
 
@@ -74,3 +74,4 @@ Read the full report [here⁠(opens in a new window)](https://cdn.openai.com/glo
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

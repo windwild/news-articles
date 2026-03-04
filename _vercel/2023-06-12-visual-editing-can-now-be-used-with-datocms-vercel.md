@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Visual Editing can now be used with DatoCMS - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/visual-editing-can-now-be-used-with-datocms"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 12, 2023
 
@@ -23,3 +21,4 @@ Jun 12, 2023
 此项功能现已面向使用 [DatoCMS](https://www.datocms.com/) 作为其 CMS 的企业版客户开放。DatoCMS 成为继其他三家之后，第四家采用「内容源映射」（content source-mapping）技术的 CMS；该技术可在无需对网站代码做任何修改的前提下，实现从无头 CMS（headless CMS）出发的可视化编辑。
 
 [查阅相关文档](https://vercel.com/docs/workflow-collaboration/visual-editing#get-started) 了解更多信息，或 [联系销售团队获取访问权限](https://vercel.com/contact/sales)。
+{% endraw %}

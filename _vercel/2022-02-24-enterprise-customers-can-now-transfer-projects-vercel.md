@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enterprise customers can now transfer projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enterprise-customers-can-now-transfer-projects"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 24, 2022
 
@@ -29,3 +27,4 @@ This makes it easier for Enterprise teams to move projects between different acc
 Check out [the documentation](https://vercel.com/docs/concepts/projects/overview#transferring-a-project) as well.
 
 也请参阅[相关文档](https://vercel.com/docs/concepts/projects/overview#transferring-a-project)。
+{% endraw %}

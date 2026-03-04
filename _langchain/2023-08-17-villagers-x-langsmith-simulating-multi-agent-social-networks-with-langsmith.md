@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Villagers x LangSmith: Simulating multi-agent social networks with LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/villagers-x-langsmith-simulating-multi-agent-social-networks/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:15:19.300705074+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written in collaboration with Kevin Hu, Tae Hyoung Jo, John Kim, and Tejal Patwardhan from the Villagers team. Villagers came in second at a recent Anthropic hackathon. We really LOVED this project as it shows off complex prompt engineering with their multi-agent social network simulation that runs many agents in parallel. We were really excited to see how [LangSmith](https://www.langchain.com/langsmith?ref=blog.langchain.com) could help the team automate traces, quickly iterate on prompts, and efficiently debug for this complex use-case!_
 
@@ -42,3 +40,4 @@ One of the major technical hurdles we encountered was debugging and prompt engin
 With LangSmith, we were able to significantly speed up development time and feel more confident about the quality of our prompts. We found it to be the easiest-to-use LLMops tool for a product that has a high magnitude of agents running in parallel.
 
 借助 LangSmith，我们大幅缩短了开发周期，同时对提示词的质量也更有信心。对于需要并行运行海量智能体的产品而言，我们认为 LangSmith 是目前最易上手、最高效的 LLMops 工具。
+{% endraw %}

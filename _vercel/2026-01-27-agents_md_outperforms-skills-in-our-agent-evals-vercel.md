@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AGENTS.md outperforms skills in our agent evals - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A compressed 8KB docs index in AGENTS.md achieved 100% on Next.js 16 API evals. Skills maxed at 79%. Here's what we learned and how to set it up."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 27, 2026
 
@@ -386,3 +384,4 @@ The goal is to shift agents from pre-training-led reasoning to retrieval-led rea
 _Research and evals by_ [_Jude Gao_](https://x.com/gao_jude) _. CLI available at_ _`npx @next/codemod@canary agents-md`_
 
 _研究与评估由_ [_Jude Gao_](https://x.com/gao_jude) _完成。命令行工具可通过以下命令获取：_ _`npx @next/codemod@canary agents-md`_
+{% endraw %}

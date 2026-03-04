@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Powering virtual education for the classroom | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/khan-academy"
@@ -10,6 +9,7 @@ translated: false
 description: "Khan Academy explores the potential for GPT-4 in a limited pilot program."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Khan Academy
@@ -93,3 +93,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Powering virtual education for the classroom \| OpenAI
+{% endraw %}

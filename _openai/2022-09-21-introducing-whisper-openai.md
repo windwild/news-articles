@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Whisper | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/whisper"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve trained and are open-sourcing a neural net called Whisper that approaches human level robustness and accuracy on English speech recognition."
 tags: ["Research"]
 ---
+{% raw %}
 
 September 21, 2022
 
@@ -98,3 +98,4 @@ MilestoneFeb 2, 2022](https://openai.com/index/formal-math/)
 PublicationOct 29, 2021](https://openai.com/index/solving-math-word-problems/)
 
 Introducing Whisper \| OpenAI
+{% endraw %}

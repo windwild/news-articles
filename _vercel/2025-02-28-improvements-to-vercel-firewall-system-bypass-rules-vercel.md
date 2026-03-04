@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improvements to Vercel Firewall system bypass rules - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvements-to-vercel-firewall-system-bypass-rules"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Firewall now has additional controls over system bypass rules to improve how firewall rules are deployed "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 28, 2025
 
@@ -43,3 +41,4 @@ Improvements to the system bypass rules give customers additional control over h
 Learn more about the [Vercel Firewall](https://vercel.com/docs/security/vercel-firewall).
 
 了解更多关于 [Vercel 防火墙](https://vercel.com/docs/security/vercel-firewall) 的信息。
+{% endraw %}

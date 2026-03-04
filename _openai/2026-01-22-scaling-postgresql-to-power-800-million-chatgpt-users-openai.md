@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Scaling PostgreSQL to power 800 million ChatGPT users | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/scaling-postgresql"
@@ -10,8 +9,7 @@ translated: true
 description: "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation."
 tags: ["Engineering"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 22, 2026
 
@@ -218,3 +216,4 @@ Looking ahead, we’ll continue to explore additional approaches to further scal
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

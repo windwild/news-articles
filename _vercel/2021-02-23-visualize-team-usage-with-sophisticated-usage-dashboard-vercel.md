@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Visualize Team Usage With Sophisticated Usage Dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/sophisticated-usage-dashboard"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn more about how Vercel's latest feature will give access to usage information so your Team can optimize your builds."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 23, 2021
 
@@ -111,3 +109,4 @@ The Usage overview is enabled by default and is available for Pro and Enterprise
 We hope this will make it easier to visualize usage, gain insight from those visualizations, and optimize your builds based on that data.
 
 我们希望这一功能能让您更轻松地可视化用量数据、从可视化结果中获取深度洞察，并基于这些数据持续优化构建流程。
+{% endraw %}

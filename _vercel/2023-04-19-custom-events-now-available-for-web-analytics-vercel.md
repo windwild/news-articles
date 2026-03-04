@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Custom events now available for Web Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/custom-events-now-available-for-web-analytics"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 19, 2023
 
@@ -25,3 +23,4 @@ Vercel [Web Analytics](https://vercel.com/changelog/web-analytics-is-now-general
 如需开始追踪自定义事件，请将我们的 npm 包 `@vercel/analytics` 升级至最新版 `1.0.0`。
 
 [查阅我们的官方文档](https://vercel.com/docs/concepts/analytics/custom-events)，了解更多详细信息。
+{% endraw %}

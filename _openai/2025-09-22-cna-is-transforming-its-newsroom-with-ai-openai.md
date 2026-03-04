@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "CNA is transforming its newsroom with AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/cna-walter-fernandez"
@@ -10,6 +9,7 @@ translated: false
 description: "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journa..."
 tags: ["ChatGPT"]
 ---
+{% raw %}
 
 September 22, 2025
 
@@ -81,3 +81,4 @@ We have a vision to build a fully AI-enabled newsroom, in which we leverage AI e
 So my message is this: AI will be a foundational technology to achieve our public service mission. Newsrooms must realise that we are long past the “wait and see” phase. It’s now about carefully considered tech stack and process transformation. Now is the time to get your staff excited about the potential of AI in the newsroom. Transformation will be anchored around the notion that AI will not only help improve the work of journalists but also enable them to tackle new and more ambitious projects.
 
 Think big and dream even bigger about what an AI-enabled organisation can accomplish.
+{% endraw %}

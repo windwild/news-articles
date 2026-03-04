@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OPTIONS Allowlist - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/options-allowlist"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 21, 2024
 
@@ -33,3 +31,4 @@ The new OPTIONS Allowlist feature is available on all plans.
 Learn more about the [OPTIONS Allowlist](https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/options-allowlist).
 
 了解更多关于 [OPTIONS 白名单](https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/options-allowlist) 的信息。
+{% endraw %}

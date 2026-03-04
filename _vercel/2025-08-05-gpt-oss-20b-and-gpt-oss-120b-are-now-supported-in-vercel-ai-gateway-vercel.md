@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "gpt-oss-20b and gpt-oss-120b are now supported in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gpt-oss-20b-and-gpt-oss-120b-are-now-supported-in-vercel-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access gpt-oss by OpenAI, an open-weight reasoning model designed to push the open model frontier, using Vercel's AI Gateway with no other provider accounts required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 5, 2025
 
@@ -97,3 +95,4 @@ View the leaderboard](https://vercel.com/ai-gateway/leaderboards)
 AI Gateway 模型排行榜依据所有经由网关的流量所产生的总 Token 量，对各模型的历史使用频次进行排序。榜单定期更新。  
 \\  
 查看排行榜](https://vercel.com/ai-gateway/leaderboards)
+{% endraw %}

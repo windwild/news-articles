@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Chatbase scaled rapidly with Vercel's developer experience and AI SDK - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-chatbase-scaled-rapidly-with-vercels-developer-experience-and-ai-sdk"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Scaling rapidly in the AI market with Vercel, Next.js, and the AI SDK "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 9, 2024
 
@@ -95,3 +93,4 @@ Get started with the AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-s
 使用 AI SDK 构建 AI 驱动的应用程序。\\
 \\
 立即开始使用 AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-sdk)
+{% endraw %}

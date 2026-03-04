@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New deployments of vulnerable Next.js applications are now blocked by default - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-deployments-of-vulnerable-next-js-applications-are-now-blocked-by"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Any new deployment containing a version of Next.js that is vulnerable to CVE-2025-66478 will now automatically fail to deploy on Vercel."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 5, 2025
 
@@ -27,3 +25,4 @@ We strongly recommend upgrading to a patched version regardless of your hosting 
 This automatic protection can be disabled by setting the `DANGEROUSLY_DEPLOY_VULNERABLE_CVE_2025_66478=1` environment variable on your Vercel project. [Learn more](https://vercel.com/docs/environment-variables#creating-environment-variables)
 
 您可通过在 Vercel 项目中设置环境变量 `DANGEROUSLY_DEPLOY_VULNERABLE_CVE_2025_66478=1` 来禁用此项自动防护机制。[了解更多](https://vercel.com/docs/environment-variables#creating-environment-variables)
+{% endraw %}

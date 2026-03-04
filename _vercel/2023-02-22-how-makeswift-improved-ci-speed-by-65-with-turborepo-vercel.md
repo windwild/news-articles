@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Makeswift improved CI speed by 65% with Turborepo - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-makeswift-improved-ci-speed-by-65-with-turborepo"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "makeswift"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 22, 2023
 
@@ -49,3 +47,4 @@ They’re excited to start using [Vercel Edge Middleware](https://vercel.com/fea
 Would your team's platform benefit from faster iterations and seamless scaling? [Get in touch](https://vercel.com/contact/sales).  
 
 您的团队平台是否也能从更快的迭代速度与无缝的弹性扩展中获益？[立即联系](https://vercel.com/contact/sales)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "EMEA Youth & Wellbeing Grant | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/emea-youth-and-wellbeing-grant"
@@ -10,8 +9,7 @@ translated: true
 description: "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI."
 tags: ["Global Affairs"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 28, 2026
 
@@ -236,3 +234,4 @@ Independent research, pilot evaluations, datasets (where ethical), policy briefs
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

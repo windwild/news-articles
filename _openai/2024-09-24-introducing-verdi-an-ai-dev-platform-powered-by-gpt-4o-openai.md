@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Verdi, an AI dev platform powered by GPT-4o | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/mercado-libre"
@@ -10,6 +9,7 @@ translated: false
 description: "Mercado Libre introduces Verdi, an AI developer platform powered by GPT-4o"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Mercado Libre introduces Verdi, an AI developer platform powered by GPT‑4o
@@ -77,3 +77,4 @@ They also plan to expand Verdi’s capabilities further, integrating more advanc
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

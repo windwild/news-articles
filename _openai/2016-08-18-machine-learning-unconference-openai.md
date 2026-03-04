@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Machine Learning Unconference | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/machine-learning-unconference"
@@ -10,6 +9,7 @@ translated: false
 description: "The latest information about the Unconference is now available at the Unconference wiki, which will be periodically updated with more information for attendees."
 tags: ["Company"]
 ---
+{% raw %}
 
 August 18, 2016
 
@@ -89,3 +89,4 @@ You can discuss plans and logistics with other attendees in the [Gitter chat⁠
 - [Community](https://openai.com/news/?tags=community)
 - [Events](https://openai.com/news/?tags=events)
 - [2016](https://openai.com/news/?tags=2016)
+{% endraw %}

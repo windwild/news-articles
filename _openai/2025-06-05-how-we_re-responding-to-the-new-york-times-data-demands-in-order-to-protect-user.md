@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How we’re responding to The New York Times’ data demands in order to protect user privacy | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/response-to-nyt-data-demands"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI is fighting a court order at the demands of The New York Times and plaintiffs, which involves retention of consumer ChatGPT and API user data indefinitely. Learn how we’re working to uphold u..."
 tags: ["Security"]
 ---
+{% raw %}
 
 June 5, 2025
 
@@ -110,3 +110,4 @@ We strongly believe this is an overreach by the New York Times. We’re continui
 
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

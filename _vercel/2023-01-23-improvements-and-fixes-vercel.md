@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improvements and fixes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/january-2023"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 23, 2023
 
@@ -29,3 +27,4 @@ Jan 23, 2023
 - **文档搜索（Docs search）：** 优化了文档搜索体验——将 `CMD+K` 设为默认快捷键，提升了搜索结果的准确性和相关性，并新增基于路径的推荐功能。
 
 - **关于 `.vercelignore` 文件的变更：** 在“根目录（root directory）”中创建了 `.vercelignore` 文件，以修复一个 Bug：当已设置“根目录”时，从 Git 触发的部署无法正确识别 `.vercelignore` 文件。
+{% endraw %}

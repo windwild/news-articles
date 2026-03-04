@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel achieves TISAX AL2 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-achieves-tisax-al2"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel has achieved TISAX Assessment Level 2 security standard used in the automotive and manufacturing industries"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 29, 2025
 
@@ -31,3 +29,4 @@ Vercel 已通过可信信息安全评估交换（[TISAX](https://enx.com/en-US/T
   - **范围编号（Scope ID）：** `SYN3TM`
 
 [阅读我们的博客文章](https://vercel.com/blog/vercel-achieves-tisax-al2-compliance-to-serve-automotive-partners)，进一步了解 TISAX 认证以及 Vercel 在汽车领域合规性方面的实践。
+{% endraw %}

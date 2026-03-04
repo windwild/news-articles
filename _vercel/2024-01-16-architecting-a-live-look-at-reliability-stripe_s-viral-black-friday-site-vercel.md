@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Architecting a live look at reliability: Stripe's viral Black Friday site - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/architecting-reliability-stripes-black-friday-site"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel x Stripe social image"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 16, 2024
 
@@ -200,3 +198,4 @@ Dec 21, 2023
 Alice Alexandra Moore
 
 爱丽丝·亚历山德拉·摩尔
+{% endraw %}

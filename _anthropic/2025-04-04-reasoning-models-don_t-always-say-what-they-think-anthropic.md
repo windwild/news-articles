@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Reasoning models don't always say what they think \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/reasoning-models-dont-say-think"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Research from Anthropic on the faithfulness of AI models' Chain-of-Thought"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -179,3 +177,4 @@ Read [the full paper](https://assets.anthropic.com/m/71876fabef0f0ed4/original/r
 If you’re interested in pursuing work on Alignment Science, including on Chain-of-Thought faithfulness, we’d be interested to see your application. We're recruiting [Research Scientists and Research Engineers](https://job-boards.greenhouse.io/anthropic/jobs/4009165008).
 
 如果您有意投身对齐科学（Alignment Science）相关研究——包括思维链忠实性（Chain-of-Thought faithfulness）方向——我们非常期待收到您的申请。我们正在招聘[研究科学家（Research Scientists）与研究工程师（Research Engineers）](https://job-boards.greenhouse.io/anthropic/jobs/4009165008)。
+{% endraw %}

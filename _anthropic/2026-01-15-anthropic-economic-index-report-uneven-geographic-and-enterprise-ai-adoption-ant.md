@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Anthropic Economic Index report: Uneven geographic and enterprise AI adoption \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/anthropic-economic-index-september-2025-report"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "To study such patterns of early AI adoption, we extend the Anthropic Economic Index along two important dimensions, introducing a geographic analysis of Claude.ai conversations and a first-of-its-kind..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Economic Research
 
@@ -1041,3 +1039,4 @@ An alternative interpretation is presented by Gans 2025, _If AI and workers were
 Whether AI compliments or substitutes work is perhaps the most important question that we hope our data will help answer.  
 
 AI究竟与人类工作构成互补还是替代关系——这或许是本文数据最希望助力解答的核心问题。
+{% endraw %}

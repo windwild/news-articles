@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPTs are GPTs: An early look at the labor market impact potential of large language models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpts-are-gpts"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 March 17, 2023
 
@@ -56,3 +56,4 @@ PublicationDec 14, 2023](https://openai.com/index/practices-for-governing-agenti
 ReleaseSep 25, 2023](https://openai.com/index/gpt-4v-system-card/)
 
 GPTs are GPTs: An early look at the labor market impact potential of large language models \| OpenAI
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing canvas | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-canvas"
@@ -10,6 +9,7 @@ translated: false
 description: "Introducing canvas"
 tags: ["Product"]
 ---
+{% raw %}
 
 October 3, 2024
 
@@ -118,3 +118,4 @@ Canvas is in early beta, and we plan to rapidly improve its capabilities.
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

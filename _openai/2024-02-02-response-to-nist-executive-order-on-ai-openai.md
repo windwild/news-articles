@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Response to NIST Executive Order on AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/response-to-nist-executive-order-on-ai"
@@ -10,6 +9,7 @@ translated: false
 description: "The National Institute of Standards and Technology (NIST) request for information related to its assignments under sections 4.1, 4.5, and 11 of the Executive Order Concerning Artificial Intelligence"
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 Submitted: February 2, 2024
 
@@ -171,3 +171,4 @@ We use the term “expert” to refer to expertise informed by a range of domain
 
 
 Response to NIST Executive Order on AI \| OpenAI
+{% endraw %}

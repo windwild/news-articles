@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel for Bitbucket - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/bitbucket"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Push code to Bitbucket and automatically deploy with Vercel."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 27, 2019
 
@@ -111,3 +109,4 @@ Our mission at **Vercel** is to make the cloud accessible to everyone. The [Verc
 All of our work is heavily driven by feedback from our users. For feature requests, or to suggest ideas to make our platform and your experience better, please reach out to us [over chat](https://zeit.co/chat) or on [Twitter](https://twitter.com/vercel).
 
 我们的所有工作都高度依赖用户的反馈。如果您有任何功能需求，或希望就如何优化平台及提升您的使用体验提出建议，欢迎通过 [在线聊天](https://zeit.co/chat) 或 [Twitter](https://twitter.com/vercel) 与我们联系。
+{% endraw %}

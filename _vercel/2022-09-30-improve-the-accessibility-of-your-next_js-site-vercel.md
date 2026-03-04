@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improve the accessibility of your Next.js site - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/improving-the-accessibility-of-our-nextjs-site"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Let's make the Web. Accessible."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 30, 2022
 
@@ -693,3 +691,4 @@ Dynamic without limits. [#nextjsconf](https://x.com/hashtag/nextjsconf) [nextjs.
 [Read 2 replies](https://x.com/rauchg/status/1566083702836170754)
 
 阅读 2 条回复
+{% endraw %}

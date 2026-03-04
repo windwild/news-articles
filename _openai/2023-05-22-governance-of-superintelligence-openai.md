@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Governance of superintelligence | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/governance-of-superintelligence"
@@ -10,6 +9,7 @@ translated: false
 description: "Now is a good time to start thinking about the governance of superintelligence—future AI systems dramatically more capable than even AGI."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 May 22, 2023
 
@@ -62,3 +62,4 @@ Second, we believe it would be unintuitively risky and difficult to stop the cre
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Framework](https://openai.com/news/?tags=framework)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "India Country Brief: The Anthropic Economic Index"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/india-brief-economic-index"
@@ -8,8 +7,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Economic Research
 
@@ -246,3 +244,4 @@ Copy
 Sally Aldous, Jake Eaton, Ria Strasser Galvis, Hanah Ho, Maxim Massenkoff, Peter McCrory, Jared Mueller, Emily Pastewka, Sarah Pollack, Nitarshan Rajkumar, David Saunders, Alexandra Sanderford, Kim Withee.  
 
 萨莉·奥尔多斯（Sally Aldous）、杰克·伊顿（Jake Eaton）、里亚·斯特拉瑟·加尔维斯（Ria Strasser Galvis）、哈娜·何（Hanah Ho）、马克西姆·马森科夫（Maxim Massenkoff）、彼得·麦卡罗里（Peter McCrory）、贾里德·穆勒（Jared Mueller）、艾米丽·帕斯特瓦卡（Emily Pastewka）、莎拉·波拉克（Sarah Pollack）、尼塔尔尚·拉吉库马尔（Nitarshan Rajkumar）、大卫·桑德斯（David Saunders）、亚历山德拉·桑德福德（Alexandra Sanderford）、金·威西（Kim Withee）。
+{% endraw %}

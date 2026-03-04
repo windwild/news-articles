@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sharing the latest Model Spec | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/sharing-the-latest-model-spec"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve made updates to the Model Spec based on external feedback and our continued research in shaping desired model behavior."
 tags: ["Safety"]
 ---
+{% raw %}
 
 February 12, 2025
 
@@ -73,3 +73,4 @@ Our goal is to continuously enable new use cases safely, evolving our approach g
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

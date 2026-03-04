@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Upgrading Ruby v2.7 to v3.2 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/upgrading-ruby-v2-7-to-v3-2"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 22, 2023
 
@@ -35,3 +33,4 @@ Ruby v3.2 现已正式发布，成为基于 Ruby 的 [构建（Builds）](https:
 仅保证次要版本号（如 `3.2`）的兼容性，这意味着我们始终会在该次要版本范围内使用最新的补丁版本（patch version）。
 
 [查阅文档](https://vercel.com/docs/functions/serverless-functions/runtimes/ruby) 了解更多信息。
+{% endraw %}

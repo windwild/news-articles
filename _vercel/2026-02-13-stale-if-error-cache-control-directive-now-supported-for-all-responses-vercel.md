@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Stale-if-error cache-control directive now supported for all responses - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/stale-if-error-cache-control-header-is-now-supported"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Stale-if-error directive now supported with Cache-control header for all responses, which allows the cache serves a stale response when an error is encountered instead of returning a hard error to the..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 13, 2026
 
@@ -23,3 +21,4 @@ Vercel CDN 现在支持 `stale-if-error` 指令（配合 Cache-Control 响应头
 这使得应用程序在上游服务临时不可用时，仍能保持可用性，并以更优雅的方式响应用户请求。
 
 欲了解更多信息，请参阅 [`stale-if-error` 文档](https://vercel.com/docs/headers/cache-control-headers#stale-if-error)。
+{% endraw %}

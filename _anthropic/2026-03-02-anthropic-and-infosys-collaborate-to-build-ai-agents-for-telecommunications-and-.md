@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries"
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/anthropic-infosys"
@@ -9,8 +8,7 @@ translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 tags: ["Announcements"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Announcements
 
@@ -86,3 +84,4 @@ Visit our [Enterprise page](https://www.anthropic.com/enterprise) to learn more 
 Learn more about Anthropic’s expanded presence in India [here](https://www.anthropic.com/news/bengaluru-office-partnerships-across-india).
 
 了解更多关于 Anthropic 在印度业务拓展的信息，请点击[此处](https://www.anthropic.com/news/bengaluru-office-partnerships-across-india)。
+{% endraw %}

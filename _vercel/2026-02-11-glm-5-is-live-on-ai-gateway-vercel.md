@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GLM-5 is live on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/glm-5-is-live-on-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access Z.AI's latest model, GLM 5, via Vercel's AI Gateway with no other provider accounts required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 11, 2026
 
@@ -55,3 +53,4 @@ AI Gateway 提供统一的 API，用于调用模型、追踪用量与成本，�
 Learn more about [AI Gateway](https://vercel.com/ai-gateway), view the [AI Gateway model leaderboard](https://vercel.com/ai-gateway/leaderboards) or try it in our [model playground](https://vercel.com/ai-gateway/models/glm-5).
 
 了解更多关于 [AI Gateway](https://vercel.com/ai-gateway) 的信息，查看 [AI Gateway 模型排行榜](https://vercel.com/ai-gateway/leaderboards)，或在我们的 [模型游乐场](https://vercel.com/ai-gateway/models/glm-5) 中亲自体验。
+{% endraw %}

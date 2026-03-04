@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "UX for Agents, Part 1: Chat"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/ux-for-agents-part-1-chat-2/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _At Sequoia’s AI Ascent conference in March, I talked about three limitations for agents: planning, UX, and memory. Check out that talk_ [_here_](https://www.youtube.com/watch?v=pBBe1pk8hf4&ref=blog.langchain.com) _. In this post I will dive deeper into UX for agents. Thanks to Nuno Campos, LangChain founding engineer for many of the original thoughts and analogies here._
 
@@ -208,3 +206,4 @@ Benefits of chat:
 [**又一个工作流构建器？不！**](https://blog.langchain.com/not-another-workflow-builder/)
 
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 分钟阅读
+{% endraw %}

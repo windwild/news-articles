@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Activation Atlases | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-activation-atlases"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve created activation atlases (in collaboration with Google researchers), a new technique for visualizing what interactions between neurons can represent. As AI systems are deployed in increa..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 March 6, 2019
 
@@ -48,3 +48,4 @@ _Want to make neural networks not be a black box?_ [_Apply_ ⁠](https://openai.
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Language](https://openai.com/research/index/?tags=language)
+{% endraw %}

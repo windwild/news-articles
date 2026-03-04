@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Join LangChain at AWS re:Invent 2025"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/join-langchain-at-aws-re-invent-2025/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:17:21.230074484+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 If you're attending AWS re:Invent in Las Vegas this year and working on agent development, here's what we have planned:
 
@@ -130,3 +128,4 @@ Whether you're evaluating tools, debugging production issues, or exploring new p
 **Booth #524 \| December 1–5, 2025 \| Venetian Expo Center**
 
 **524 号展台 \| 2025 年 12 月 1 日–5 日 \| 拉斯维加斯威尼斯人会展中心（Venetian Expo Center）**
+{% endraw %}

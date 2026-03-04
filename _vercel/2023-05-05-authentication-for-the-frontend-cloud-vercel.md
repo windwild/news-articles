@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Authentication for the frontend cloud - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/authentication-for-the-frontend-cloud"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Clerk is reimagining authentication to embrace the architecture of framework-defined infrastructure."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 5, 2023
 
@@ -168,3 +166,4 @@ Talk with Us](https://vercel.com/contact/sales)
 我们非常荣幸邀请您加入 Vercel 前端云。欢迎随时就您团队的独特应用场景提出任何问题。\\
 \\
 立即联系我们](https://vercel.com/contact/sales)
+{% endraw %}

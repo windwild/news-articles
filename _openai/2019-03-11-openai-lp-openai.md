@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI LP | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-lp"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve created OpenAI LP, a new “capped-profit” company that allows us to rapidly increase our investments in compute and talent while including checks and balances to actualize our mission."
 tags: ["Company"]
 ---
+{% raw %}
 
 March 11, 2019
 
@@ -76,3 +76,4 @@ _We are traveling a hard and uncertain path, but we have designed our structure 
 
 1. A
 This list represents the board as of March 11, 2019 and does not reflect further board member updates.
+{% endraw %}

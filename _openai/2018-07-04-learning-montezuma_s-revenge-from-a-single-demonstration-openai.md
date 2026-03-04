@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Learning Montezuma’s Revenge from a single demonstration | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/learning-montezumas-revenge-from-a-single-demonstration"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve trained an agent to achieve a high score of 74,500 on Montezuma’s Revenge from a single human demonstration, better than any previously published result. Our algorithm is simple: the agent..."
 tags: ["Research"]
 ---
+{% raw %}
 
 July 4, 2018
 
@@ -81,3 +81,4 @@ Where most previous work on learning from demonstrations focused on _imitation_
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

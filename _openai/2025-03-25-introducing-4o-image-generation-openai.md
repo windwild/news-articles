@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing 4o Image Generation | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-4o-image-generation"
@@ -10,6 +9,7 @@ translated: false
 description: "At OpenAI, we have long believed image generation should be a primary capability of our language models. That’s why we’ve built our most advanced image generator yet into GPT‑4o. The result—im..."
 tags: ["Product"]
 ---
+{% raw %}
 
 March 25, 2025
 
@@ -488,3 +488,4 @@ Read more
 ![](images/introducing-4o-image-generation-openai/img_115.png)
 
 Play video
+{% endraw %}

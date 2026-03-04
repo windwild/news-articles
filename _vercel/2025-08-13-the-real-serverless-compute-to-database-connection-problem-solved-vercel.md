@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The real serverless compute to database connection problem, solved - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-real-serverless-compute-to-database-connection-problem-solved"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Serverless compute does not mean you need more database connections. The math is the same for serverful and serverless. The real difference is what happens when functions suspend. We solve this issue ..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 13, 2025
 
@@ -332,3 +330,4 @@ In traditional serverless compute, there is no known solution for this issue tha
 Modern serverless solutions such as [Fluid Compute](https://vercel.com/docs/fluid-compute) provide lifecycle hooks that allow connections to be released properly, preventing leaks with minimal additional cost and no impact on latency.
 
 现代无服务器解决方案（例如 [Fluid Compute](https://vercel.com/docs/fluid-compute)）提供了生命周期钩子（lifecycle hooks），可确保连接被正确释放，从而以极低的额外开销防止连接泄漏，且对延迟毫无影响。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Syncing data sources to vector stores"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/syncing-data-sources-to-vector-stores/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:47:26.327529717+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Most complex and knowledge-intensive LLM applications require runtime data retrieval for Retrieval Augmented Generation (RAG). A core component of the typical RAG stack is a vector store, which is used to power document retrieval.
 
@@ -312,3 +310,4 @@ As you move your apps from prototype to production, be able to re-indexing effic
 Try it out and let us know what you think!
 
 欢迎尝试，并告诉我们您的想法！
+{% endraw %}

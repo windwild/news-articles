@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Llama 4 is now available on Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/llama-4-is-now-available-on-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Llama 4 is now available on Vercel Marketplace via Groq to bring bring state-of-the-art AI capabilities like multimodal input to your Vercel projects. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 5, 2025
 
@@ -100,3 +98,4 @@ for await (const textPart of result.textStream) {
 For a full demo, check out the [official Groq chatbot template](https://vercel.com/templates/next.js/vercel-x-groq-chatbot) (which now uses Llama 4) or compare Llama 4 against other models side-by-side on our [AI SDK Playground](https://sdk.vercel.ai/playground). To learn more, visit [our AI documentation](https://vercel.com/docs/ai/groq).
 
 如需完整演示，请查看 [官方 Groq 聊天机器人模板](https://vercel.com/templates/next.js/vercel-x-groq-chatbot)（现已支持 Llama 4），或在我们的 [AI SDK Playground](https://sdk.vercel.ai/playground) 中将 Llama 4 与其他模型并排对比。欲了解更多信息，请访问 [我们的 AI 文档](https://vercel.com/docs/ai/groq)。
+{% endraw %}

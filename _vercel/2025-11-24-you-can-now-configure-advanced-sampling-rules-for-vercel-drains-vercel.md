@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "You can now configure advanced sampling rules for Vercel Drains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/you-can-now-configure-advanced-sampling-rules-for-vercel-drains"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now configure sampling rates by environment or path prefix when exporting data with Vercel Drains"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 24, 2025
 
@@ -33,3 +31,4 @@ Vercel Drains 面向 Pro 和 Enterprise 团队开放。高级采样规则可应�
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fdrains) or learn more about [Vercel Drains](https://www.vercel.com/docs/drains).
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fdrains)，或了解有关 [Vercel Drains](https://www.vercel.com/docs/drains) 的更多信息。
+{% endraw %}

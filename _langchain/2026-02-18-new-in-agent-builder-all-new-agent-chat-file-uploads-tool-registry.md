@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New in Agent Builder: all new agent chat, file uploads + tool registry"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Today, we&apos;re expanding what you can do with LangSmith Agent Builder. It&#x2019;s an big update built around a simple idea: working with an agent should feel like working with a teammate.We rebuil..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Today, we're expanding what you can do with [LangSmith Agent Builder](https://www.langchain.com/langsmith/agent-builder?ref=blog.langchain.com). It’s an big update built around a simple idea: working with an agent should feel like working with a teammate.
 
@@ -159,3 +157,4 @@ If you haven't tried Agent Builder yet, this is a great time to start. And if yo
 [Try Agent Builder free](https://smith.langchain.com/agents?skipOnboarding=true&ref=blog.langchain.com).
 
 [免费试用 Agent Builder](https://smith.langchain.com/agents?skipOnboarding=true&ref=blog.langchain.com)。
+{% endraw %}

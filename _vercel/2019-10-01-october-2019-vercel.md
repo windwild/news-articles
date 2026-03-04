@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "October 2019 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/changelog-october-2019"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's changelog for October 2019"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 1, 2019
 
@@ -34,3 +32,4 @@ Oct 1, 2019
 - 随着更优 CPU 的加入，构建性能得到提升
 
 - [部署摘要](https://zeit.co/integrations/deploy-summary) 现在会在截图中过滤掉 `pages/api`
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Protected Preview Deployments available on all plans - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/protected-preview-deployments-available-on-all-plans"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 19, 2022
 
@@ -55,3 +53,4 @@ Enterprise 用户还将获得审计日志（audit logs）功能，可追踪任�
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/deployment-protection) to learn more.
 
 [查看文档](https://vercel.com/docs/concepts/deployments/deployment-protection) 以了解更多信息。
+{% endraw %}

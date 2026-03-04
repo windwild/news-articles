@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improvements to deployment summaries - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvements-to-deployment-summaries"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 22, 2023
 
@@ -37,3 +35,4 @@ Deployment summaries help you understand how changes in your frontend applicatio
 [Read more in our documentation](https://vercel.com/docs/deployments/overview#deployment-summary) or learn more about [framework-defined infrastructure](https://vercel.com/blog/framework-defined-infrastructure).
 
 [详见我们的文档](https://vercel.com/docs/deployments/overview#deployment-summary)，或进一步了解 [框架定义的基础设施（framework-defined infrastructure）](https://vercel.com/blog/framework-defined-infrastructure)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Performance and usability improvements for Vercel Blob storage - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/performance-and-usability-improvements-for-vercel-blob-storage"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 27, 2024
 
@@ -29,3 +27,4 @@ Jun 27, 2024
 [Try it out](https://vercel.com/dashboard/stores) 或 [learn more about Vercel Blob](https://vercel.com/docs/storage/vercel-blob).
 
 [立即试用](https://vercel.com/dashboard/stores) 或 [深入了解 Vercel Blob](https://vercel.com/docs/storage/vercel-blob)。
+{% endraw %}

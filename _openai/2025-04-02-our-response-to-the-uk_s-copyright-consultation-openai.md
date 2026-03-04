@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Our response to the UK’s copyright consultation | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/response-to-uk-copyright-consultation"
@@ -10,6 +9,7 @@ translated: false
 description: "Recommendations for pro-innovation policies that can help make the UK the AI capital of Europe."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 April 2, 2025
 
@@ -48,3 +48,4 @@ We look forward to working with governments and creators everywhere to shape the
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
+{% endraw %}

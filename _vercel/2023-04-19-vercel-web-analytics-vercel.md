@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Web Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-web-analytics-is-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Get detailed, first-party page views, traffic analytics"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 19, 2023
 
@@ -184,3 +182,4 @@ Deploy this template
 HTML Starter
 
 HTML 启动模板
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Scaling the OpenAI Academy: A new hub for AI literacy and community learning | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/scaling-the-openai-academy"
@@ -10,6 +9,7 @@ translated: false
 description: "Online resource hub will support AI literacy and help people from all backgrounds access tools, best practices, and peer insights to use AI."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 March 25, 2025
 
@@ -45,3 +45,4 @@ We’ll also continue partnering with governments to advance policies that impro
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
+{% endraw %}

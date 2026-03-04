@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Stargate Community | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/stargate-community"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 20, 2026
 
@@ -101,3 +99,4 @@ Stargate是一项需深度协作的实体基础设施计划。我们高度依赖
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

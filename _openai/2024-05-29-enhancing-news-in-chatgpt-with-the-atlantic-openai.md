@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enhancing news in ChatGPT with The Atlantic  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic"
@@ -10,6 +9,7 @@ translated: false
 description: "The Atlantic is announcing a strategic content and product partnership with OpenAI, which positions The Atlantic as a premium news source within OpenAI. The Atlantic’s articles will be discoverable ..."
 tags: ["Company"]
 ---
+{% raw %}
 
 May 29, 2024
 
@@ -36,3 +36,4 @@ _The Atlantic_ is maximizing ambition as it continues to pair journalistic excel
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

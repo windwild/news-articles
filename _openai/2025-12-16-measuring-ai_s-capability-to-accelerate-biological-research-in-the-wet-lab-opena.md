@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Measuring AI’s capability to accelerate biological research in the wet lab | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/accelerating-biological-research-in-the-wet-lab"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both th..."
 tags: ["Research"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 December 16, 2025
 
@@ -356,3 +354,4 @@ As we work to accelerate scientific progress safely and responsibly, we also see
 
 - [2025](https://openai.com/news/?tags=2025)  
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

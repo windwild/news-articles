@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing shopping research in ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/chatgpt-shopping-research"
@@ -10,6 +9,7 @@ translated: false
 description: "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making"
 tags: ["Product"]
 ---
+{% raw %}
 
 November 24, 2025
 
@@ -123,3 +123,4 @@ Our goal is to help simplify finding the right products. ChatGPT will continue t
 
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
+{% endraw %}

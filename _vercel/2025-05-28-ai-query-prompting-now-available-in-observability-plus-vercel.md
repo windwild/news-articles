@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI query prompting now available in Observability Plus - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-query-prompting-now-available-in-observability-plus"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI query prompting is now available in Observability Plus, allowing users to write or edit log queries using natural language. Generate shareable, bookmarkable queries without writing syntax."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 28, 2025
 
@@ -57,3 +55,4 @@ This is available to all Observability Plus users at no additional cost.
 [View the dashboard](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability) or learn more about [Observability](https://vercel.com/docs/observability) and [Observability Plus](https://vercel.com/docs/observability#observability-plus).
 
 [查看仪表板](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability)，或进一步了解 [可观测性（Observability）](https://vercel.com/docs/observability) 和 [Observability Plus](https://vercel.com/docs/observability#observability-plus)。
+{% endraw %}

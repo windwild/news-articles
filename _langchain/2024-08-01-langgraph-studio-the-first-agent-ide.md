@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangGraph Studio: The first agent IDE"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langgraph-studio-the-first-agent-ide/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "LangGraph Studio provides a specialized agent IDE for visualizing, interacting with, and debugging complex agentic applications. See how to use it on your desktop today."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 LLMs have paved the way for the development of new types of _agentic_ applications — and as LLM applications evolve, so must the tooling needed to efficiently develop them. Today, we're announcing LangGraph Studio - the first IDE designed specifically for agent development - in open beta.
 
@@ -153,3 +151,4 @@ Building agentic applications differs from traditional software development. Whi
 **We'd also love your feedback - drop us a line at hello@langchain.dev or on** [**Twitter**](https://x.com/LangChainAI?ref=blog.langchain.com) **to share your thoughts.**
 
 **我们也非常期待您的反馈——欢迎发送邮件至 hello@langchain.dev，或在** [**Twitter（X）**](https://x.com/LangChainAI?ref=blog.langchain.com) **上联系我们，分享您的想法与建议。**
+{% endraw %}

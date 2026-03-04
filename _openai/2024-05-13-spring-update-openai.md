@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Spring Update | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/spring-update"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Introducing GPT-4o and making more capabilities available for free in ChatGPT."
 ---
+{% raw %}
 
 May 13, 2024
 
@@ -44,3 +44,4 @@ Your browser does not support the video tag.
 00:00
 
 Spring Update \| OpenAI
+{% endraw %}

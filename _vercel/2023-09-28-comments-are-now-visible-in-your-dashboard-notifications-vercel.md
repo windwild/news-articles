@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Comments are now visible in your dashboard notifications - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/comments-are-now-visible-in-your-dashboard-notifications"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 28, 2023
 
@@ -23,3 +21,4 @@ Sep 28, 2023
 新评论的 [Notifications（通知）](https://vercel.com/docs/workflow-collaboration/comments/managing-comments#notifications) 将显示在控制台中，且铃铛图标上会附带一个计数器。您可直接在该处快速处理评论，或按特定页面、分支或作者进行筛选。
 
 如需了解更多，请[查阅我们的文档](https://vercel.com/docs/workflow-collaboration/comments/managing-comments#notifications)。
+{% endraw %}

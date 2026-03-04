@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Auto-Eval of Question-Answering Tasks"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/auto-eval-of-question-answering-tasks/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 By [Lance Martin](https://twitter.com/RLanceMartin?ref=blog.langchain.com)
 
@@ -162,3 +160,4 @@ Feedback and contributions are welcome; for example, we would like to include ot
 [**LangGraph 平台进入 Beta 阶段：面向可扩展智能体基础设施的新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 分钟阅读
+{% endraw %}

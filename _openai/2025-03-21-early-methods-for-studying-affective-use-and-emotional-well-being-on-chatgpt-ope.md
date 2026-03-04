@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Early methods for studying affective use and emotional well-being on ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/affective-use-study"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "An OpenAI and MIT Media Lab Research collaboration."
 ---
+{% raw %}
 
 March 21, 2025
 
@@ -117,3 +117,4 @@ privacy of our users. The classifications for the study were run in an automated
 
 3. 3
 We define “heavy” users as the top 1,000 users of Advanced Voice Mode (AVM) on any given day in our study period, based on the number of messages sent.
+{% endraw %}

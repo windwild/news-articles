@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Framework-defined infrastructure - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/framework-defined-infrastructure"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Framework defined infrastructure means programmatic framework understanding for automatic infrastructure provisioning—an evolution from Infrastructure as Code (IaC)."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 7, 2023
 
@@ -409,3 +407,4 @@ Vercel.com 官网首页
 ### See for yourself
 
 ### 亲身体验
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Add 3D to your web projects with v0 and React Three Fiber - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/add-3d-to-your-web-projects-with-v0-and-react-three-fiber"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "How to build 3D web projects with React Three Fiber in v0"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 10, 2024
 
@@ -186,3 +184,4 @@ Get started](https://v0.dev/chat)
 立即使用 v0 开始构建，仅需用自然语言描述即可生成 3D 设计。\\
 \\
 立即开始](https://v0.dev/chat)
+{% endraw %}

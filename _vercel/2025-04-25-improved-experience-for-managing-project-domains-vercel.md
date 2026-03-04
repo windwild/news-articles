@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved experience for managing project domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-experience-for-managing-project-domains"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've significantly improved the Project Domains page to provide a faster, cleaner, and more intuitive management experience."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 25, 2025
 
@@ -65,3 +63,4 @@ DNS 配置与新增域名操作现已更加聚焦核心任务，且整体交互�
 To learn more about managing Domains on Vercel, [read the docs](https://vercel.com/docs/domains).
 
 如需进一步了解如何在 Vercel 上管理域名，请[查阅文档](https://vercel.com/docs/domains)。
+{% endraw %}

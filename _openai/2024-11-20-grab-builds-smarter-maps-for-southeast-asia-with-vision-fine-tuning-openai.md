@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Grab builds smarter maps for Southeast Asia with vision fine-tuning | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/grab"
@@ -10,6 +9,7 @@ translated: false
 description: " Building smarter maps with GPT-4o vision fine-tuning"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Grab builds smarter maps for Southeast Asia with vision fine-tuning
@@ -78,3 +78,4 @@ Grab is also building an advanced support chatbot to handle complex inquiries. B
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

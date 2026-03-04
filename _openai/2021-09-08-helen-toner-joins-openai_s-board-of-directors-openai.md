@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Helen Toner joins OpenAI’s board of directors | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/helen-toner-joins"
@@ -10,6 +9,7 @@ translated: false
 description: "Today, we’re excited to announce the appointment of Helen Toner to our board of directors."
 tags: ["Company"]
 ---
+{% raw %}
 
 September 8, 2021
 
@@ -40,3 +40,4 @@ Helen currently oversees CSET’s data-driven AI policy research, which provides
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2021](https://openai.com/news/?tags=2021)
+{% endraw %}

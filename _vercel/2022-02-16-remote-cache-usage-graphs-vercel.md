@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Remote Cache Usage graphs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/remote-cache-usage-graphs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 16, 2022
 
@@ -33,3 +31,4 @@ Monorepo 工具的远程缓存功能现已为您的团队提供使用情况图�
 像 [Turborepo](https://vercel.com/docs/concepts/git/monorepos#turborepo) 这样的 Monorepo 工具，现在可零配置地在 Vercel 上使用远程缓存功能。请参阅[相关文档](https://vercel.com/docs/concepts/limits/usage#artifacts)。
 
 像 [Turborepo](https://vercel.com/docs/concepts/git/monorepos#turborepo) 这样的 Monorepo 工具，现在可零配置地在 Vercel 上使用远程缓存功能。请参阅[相关文档](https://vercel.com/docs/concepts/limits/usage#artifacts)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sharing LangSmith Benchmarks"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/public-langsmith-benchmarks/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:24:50.145628060+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 The single biggest pain point we hear from developers taking their apps into production is around testing and evaluation. This difficulty is felt more acutely due to the constant onslaught of new models, new retrieval techniques, new agent types, and new cognitive architectures.
 
@@ -286,3 +284,4 @@ Check in on the [LangChain](https://github.com/langchain-ai/langchain-benchmarks
 You can also download the [langchain-benchmarks](https://langchain-ai.github.io/langchain-benchmarks/index.html?ref=blog.langchain.com) [package](https://langchain-ai.github.io/langchain-benchmarks/index.html?ref=blog.langchain.com) to try out **your** RAG application on this and other tasks.
 
 您还可以下载 [langchain-benchmarks](https://langchain-ai.github.io/langchain-benchmarks/index.html?ref=blog.langchain.com) [软件包](https://langchain-ai.github.io/langchain-benchmarks/index.html?ref=blog.langchain.com)，在本任务及其他任务上测试 **您自己的** RAG 应用。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Accenture and OpenAI accelerate enterprise AI success | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/accenture-partnership"
@@ -10,6 +9,7 @@ translated: false
 description: "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth."
 tags: ["Company"]
 ---
+{% raw %}
 
 December 1, 2025
 
@@ -48,3 +48,4 @@ It also builds on OpenAI’s work with many of the world’s largest and most es
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
+{% endraw %}

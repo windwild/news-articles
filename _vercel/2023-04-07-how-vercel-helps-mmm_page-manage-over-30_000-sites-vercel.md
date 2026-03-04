@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Vercel helps mmm.page manage over 30,000 sites - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-vercel-helps-mmm-page-manage-over-30-000-custom-domains"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "mmm.page "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 2023年4月7日
 
@@ -45,3 +43,4 @@ With Vercel, mmm.page is able to quickly spin up new features, meet the needs of
 Would your team's platform benefit from faster iterations and seamless scaling? [Get in touch](https://vercel.com/contact/sales).
 
 您的团队平台是否也能从更快的迭代速度和无缝扩展能力中获益？[联系我们](https://vercel.com/contact/sales)
+{% endraw %}

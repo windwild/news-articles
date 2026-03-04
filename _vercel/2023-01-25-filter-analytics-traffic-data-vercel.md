@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Filter Analytics traffic data - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-analytics-traffic-data"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 25, 2023
 
@@ -25,3 +23,4 @@ Jan 25, 2023
 筛选功能有助于回答以下问题：“访问过您**定价页面**的访客来自哪里？”、“**奥地利**用户最常浏览哪些内容？”以及“来自**GitHub** 的访客会查看哪些页面？”。
 
 [查阅我们的文档](https://vercel.com/docs/concepts/analytics/audiences/filtering) 以了解更多信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel acquires Turborepo to accelerate build speed and improve developer experience  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-acquires-turborepo"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel acquires Turborepo to accelerate build speed and improve developer experience"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 9, 2021
 
@@ -88,3 +86,4 @@ The [Turborepo CLI](https://turborepo.org/docs/getting-started) is available for
 To hear more about the future of Turborepo and build systems at Vercel, [join Jared and Vercel's Head of Developer Relations Lee Robinson on YouTube](https://youtu.be/YX5yoApjI3M) on Friday, December 10 at 1pm PT \| 9pm GMT.
 
 如想进一步了解 Turborepo 及 Vercel 构建系统的发展前景，请于 12 月 10 日（星期五）太平洋时间下午 1 点（GMT 晚上 9 点）[在 YouTube 上观看 Jared 与 Vercel 开发者关系主管 Lee Robinson 的联合分享](https://youtu.be/YX5yoApjI3M)。
+{% endraw %}

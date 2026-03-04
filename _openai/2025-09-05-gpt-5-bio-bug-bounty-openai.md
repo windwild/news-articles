@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-5 bio bug bounty | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/gpt-5-bio-bug-bounty"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI invites researchers to its Bio Bug Bounty. Test GPT-5’s safety with a universal jailbreak prompt and win up to $25,000."
 ---
+{% raw %}
 
 September 5, 2025
 
@@ -45,3 +45,4 @@ Apply now and help us make frontier AI safer.
 ## Apply to the OpenAI GPT‑5 bio bug bounty
 
 [Apply(opens in a new window)](https://openai.smapply.org/prog/gpt-5_bio_bug_bounty_program/)
+{% endraw %}

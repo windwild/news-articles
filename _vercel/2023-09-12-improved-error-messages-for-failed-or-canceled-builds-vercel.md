@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved error messages for failed or canceled builds - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-error-messages-for-failed-or-canceled-builds"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 12, 2023
 
@@ -39,3 +37,4 @@ The following build failures now have more helpful error messages:
 [Check out our documentation](https://vercel.com/docs/deployments/troubleshoot-a-build#build-logs-not-available) to learn more.
 
 [查阅我们的文档](https://vercel.com/docs/deployments/troubleshoot-a-build#build-logs-not-available) 了解更多信息。
+{% endraw %}

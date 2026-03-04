@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI SDK 3.4 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-3-4"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI SDK 3.4 introduces middleware, data stream protocol, and multi-step generations"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 20, 2024
 
@@ -745,3 +743,4 @@ AI SDK 3.4 是 Vercel 核心团队与众多社区贡献者通力协作的成果�
 [DBvc](https://github.com/DBvc), [nikhilsnayak,](https://github.com/nikhilsnayak) [codybrouwers,](https://github.com/codybrouwers) [jackwilson323,](https://github.com/jackwilson323) [axel-rock,](https://github.com/axel-rock) [waigel,](https://github.com/waigel) [blechatellier,](https://github.com/blechatellier) [danielgavrilov,](https://github.com/danielgavrilov) [shoopapa,](https://github.com/shoopapa) [dyeoman2,](https://github.com/dyeoman2) [nalaso,](https://github.com/nalaso) [yoshinorisano,](https://github.com/yoshinorisano) [narengogi,](https://github.com/narengogi) [minpeter,](https://github.com/minpeter) [shaper,](https://github.com/shaper) [ggallon,](https://github.com/ggallon) [siddharthsambharia-portkey,](https://github.com/siddharthsambharia-portkey) [OscarBarrett](https://github.com/OscarBarrett) , [seuha516,](https://github.com/seuha516) [Saran33,](https://github.com/Saran33) [ahnjaeshin,](https://github.com/ahnjaeshin) [thucpn,](https://github.com/thucpn) [kexiZeroing,](https://github.com/kexiZeroing) [huozhi,](https://github.com/huozhi) [AbhiShake1,](https://github.com/AbhiShake1) [mikkokut](https://github.com/mikkokut), [marcusschiesser](https://github.com/marcusschiesser).
 
 您的反馈与贡献对我们持续演进 AI SDK 至关重要。
+{% endraw %}

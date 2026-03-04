@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Open Vercel documentation pages in AI providers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/open-vercel-documentation-pages-in-ai-providers"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Copy Vercel documentation pages as markdown, or open them in AI providers, such as v0, Claude, or ChatGPT."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 18, 2025
 
@@ -45,3 +43,4 @@ This allows you to use documentation content as context when working with AI too
 The page content will be formatted and loaded into the selected AI provider.
 
 页面内容将被格式化，并自动加载至所选的 AI 提供商中。
+{% endraw %}

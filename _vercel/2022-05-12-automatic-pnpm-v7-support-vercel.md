@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Automatic pnpm v7 Support - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatic-pnpm-v7-support"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 12, 2022
 
@@ -29,3 +27,4 @@ To upgrade your project to pnpm v7, run `pnpm install -g pnpm@7` locally and the
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/build-step#install-command) as well.
 
 也请参阅[相关文档](https://vercel.com/docs/concepts/deployments/build-step#install-command)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Evaluating AI’s ability to perform scientific research tasks | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/frontierscience"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research."
 tags: ["Research"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 December 16, 2025
 
@@ -426,3 +424,4 @@ Looking ahead, we expect progress in scientific reasoning to come from both bett
 
 - [Reasonings & Policy](https://openai.com/news/?tags=reasoning-policy)  
 - [推理与策略](https://openai.com/news/?tags=reasoning-policy)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Preview your site's Firewall status and Web Analytics from the Project Overview - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/preview-firewall-status-and-web-analytics-from-project-overview"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel has added preview cards on the project overview page that display your site's web analytics and firewall status."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 24, 2025
 
@@ -33,3 +31,4 @@ Vercel Web Analytics 可帮助您深入了解网站访客行为与流量状况�
 Learn more about [Vercel Web Analytics](https://vercel.com/docs/analytics) and [Vercel Firewall](https://vercel.com/docs/security/vercel-firewall).
 
 了解更多关于 [Vercel Web Analytics](https://vercel.com/docs/analytics) 和 [Vercel Firewall](https://vercel.com/docs/security/vercel-firewall) 的信息。
+{% endraw %}

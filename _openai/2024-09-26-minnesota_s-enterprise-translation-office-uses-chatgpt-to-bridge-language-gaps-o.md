@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/state-of-minnesota"
@@ -10,6 +9,7 @@ translated: false
 description: "Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps
@@ -90,3 +90,4 @@ ChatGPTSep 19, 2024](https://openai.com/index/genmab/)
 APISep 17, 2024](https://openai.com/index/arco-education/)
 
 Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps \| OpenAI
+{% endraw %}

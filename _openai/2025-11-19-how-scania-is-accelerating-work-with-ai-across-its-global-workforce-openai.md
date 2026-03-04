@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Scania is accelerating work with AI across its global workforce | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/scania"
@@ -10,6 +9,7 @@ translated: false
 description: "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation."
 tags: ["ChatGPT"]
 ---
+{% raw %}
 
 November 19, 2025
 
@@ -85,3 +85,4 @@ As adoption grows, Scania’s workforce is learning together—and moving faster
 More than 1 million businesses around the world are achieving meaningful results with OpenAI.
 
 [Contact our team](https://openai.com/contact-sales/)
+{% endraw %}

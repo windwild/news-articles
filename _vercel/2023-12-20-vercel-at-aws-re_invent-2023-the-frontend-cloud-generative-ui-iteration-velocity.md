@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel at AWS re:Invent 2023: The Frontend Cloud, Generative UI, iteration velocity - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/aws-reinvent-2023-iteration-velocity"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel at AWS re:Invent 2023: The Frontend Cloud, Generative UI, iteration velocity with Malte Ubl"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 20, 2023
 
@@ -213,3 +211,4 @@ Sep 12, 2023
 Lindsey and Mark
 
 林赛与马克
+{% endraw %}

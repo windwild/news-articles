@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Node.js 10 is Now Available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/node-10"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We are enabling Node.js 10 support for new serverless Node.js functions and Next.js applications deployed with Vercel."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 25, 2019
 
@@ -130,3 +128,4 @@ Make sure to **update your existing deployments to Node.js 10** (as described ab
 Should you have any questions, please [let us know](mailto:support@vercel.com).
 
 如有任何疑问，请[随时联系我们](mailto:support@vercel.com)。
+{% endraw %}

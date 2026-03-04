@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Five | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-five"
@@ -10,6 +9,7 @@ translated: false
 description: "Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams at Dota 2."
 tags: ["Research"]
 ---
+{% raw %}
 
 June 25, 2018
 
@@ -363,3 +363,4 @@ Our underlying motivation reaches beyond Dota. Real-world AI deployments will ne
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
+{% endraw %}

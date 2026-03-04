@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How to build an engaging virtual product tour - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/designing-the-vercel-virtual-product-tour"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how and why we designed the Vercel virtual product tour to address some of the most prominent needs in our marketing funnel."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 2, 2023
 
@@ -358,3 +356,4 @@ Feb 10, 2023
 ![](images/how-to-build-an-engaging-virtual-product-tour-vercel/img_002.jpg)![](images/how-to-build-an-engaging-virtual-product-tour-vercel/img_003.jpg)
 
 Kiana 和 Steven
+{% endraw %}

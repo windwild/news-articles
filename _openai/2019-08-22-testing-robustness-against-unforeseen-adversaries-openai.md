@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Testing robustness against unforeseen adversaries | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/testing-robustness"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve developed a method to assess whether a neural network classifier can reliably defend against adversarial attacks not seen during training. Our method yields a new metric, UAR (Unforeseen Attac..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 August 22, 2019
 
@@ -140,3 +140,4 @@ PublicationJan 31, 2024](https://openai.com/index/building-an-early-warning-syst
 SafetyJan 16, 2024](https://openai.com/index/democratic-inputs-to-ai-grant-program-update/)
 
 Testing robustness against unforeseen adversaries \| OpenAI
+{% endraw %}

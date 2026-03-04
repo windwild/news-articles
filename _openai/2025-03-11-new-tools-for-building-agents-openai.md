@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New tools for building agents | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/new-tools-for-building-agents"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "We’re evolving our platform to help developers and enterprises build useful and reliable agents."
 ---
+{% raw %}
 
 March 11, 2025
 
@@ -273,3 +273,4 @@ Play video
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

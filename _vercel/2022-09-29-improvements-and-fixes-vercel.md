@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improvements and Fixes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/september-2022-papercuts"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 29, 2022
 
@@ -41,3 +39,4 @@ Sep 29, 2022
 - **Build environment updates:**`Node.js` updated to v16.16.0, `npm` updated to v8.11.0, `pnpm` updated to v7.12.2.
 
 - **构建环境更新：**`Node.js` 升级至 v16.16.0，`npm` 升级至 v8.11.0，`pnpm` 升级至 v7.12.2。
+{% endraw %}

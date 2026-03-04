@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Microscope | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/microscope"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re introducing OpenAI Microscope, a collection of visualizations of every significant layer and neuron of eight vision “model organisms” which are often studied in interpretability. Microsco..."
 tags: ["Research"]
 ---
+{% raw %}
 
 April 14, 2020
 
@@ -77,3 +77,4 @@ MilestoneMar 4, 2021](https://openai.com/index/multimodal-neurons/)
 MilestoneJan 5, 2021](https://openai.com/index/clip/)
 
 OpenAI Microscope \| OpenAI
+{% endraw %}

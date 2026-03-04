@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "VfL Wolfsburg turns ChatGPT into a club-wide capability | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/vfl-wolfsburg"
@@ -10,8 +9,7 @@ translated: true
 description: "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity."
 tags: ["ChatGPT"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 4, 2026
 
@@ -272,3 +270,4 @@ _“AI is not a future topic in football anymore—it’s something leaders need
 _“人工智能在足球领域已不再是‘未来议题’，而是领导者今天就必须严肃对待的现实课题，”_ 米斯克（**Meeske**）补充道，_“对我们而言，关注焦点从来不只是技术本身，而是构建一种能力——一种能够强化俱乐部跨部门协同运作的能力。”_
 
 ![VfL Wolfsburg women’s players celebrate a goal together on the pitch in the rain, wearing green kits.](images/vfl-wolfsburg-turns-chatgpt-into-a-club-wide-capability-openai/img_007.jpg)
+{% endraw %}

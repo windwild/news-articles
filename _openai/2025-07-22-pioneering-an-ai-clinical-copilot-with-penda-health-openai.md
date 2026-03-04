@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Pioneering an AI clinical copilot with Penda Health | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ai-clinical-copilot-penda-health"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare."
 ---
+{% raw %}
 
 July 22, 2025
 
@@ -193,3 +193,4 @@ We believe that AI Consult represents an early, promising archetype of a clinica
 As AI models advance, the primary challenge ahead is no longer model capability but real-world implementation. Closing the model-implementation gap will require coordinated effort across the health AI ecosystem, including rigorous evaluation and iterative deployment in clinical settings. We believe AI-based copilots are beginning to enter the Overton window for responsible adoption. As we continue to study and scale these systems, our hope is that AI can become a trusted part of the standard of care—as it is already becoming at Penda Health—to deliver better patient outcomes globally.
 
 - [2025](https://openai.com/research/index/?tags=2025)
+{% endraw %}

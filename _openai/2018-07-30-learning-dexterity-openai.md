@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Learning dexterity | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/learning-dexterity"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve trained a human-like robot hand to manipulate physical objects with unprecedented dexterity."
 tags: ["Research"]
 ---
+{% raw %}
 
 July 30, 2018
 
@@ -153,3 +153,4 @@ This project completes a full cycle of AI development that OpenAI has been pursu
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
+{% endraw %}

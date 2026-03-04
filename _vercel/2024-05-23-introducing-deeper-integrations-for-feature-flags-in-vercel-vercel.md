@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing deeper integrations for feature flags in Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/feature-flags"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing a platform-wide understanding of feature flags in Vercel, and an experimental Next.js design pattern for working with flags in code."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 23, 2024
 
@@ -204,3 +202,4 @@ Get started](https://vercel.com/docs/workflow-collaboration/feature-flags/using-
 即刻启用全新工作流：使用 Vercel 工具栏（Vercel Toolbar）读取并设置您应用的功能标志覆写（overrides）。\\
 \\
 立即开始](https://vercel.com/docs/workflow-collaboration/feature-flags/using-vercel-toolbar)
+{% endraw %}

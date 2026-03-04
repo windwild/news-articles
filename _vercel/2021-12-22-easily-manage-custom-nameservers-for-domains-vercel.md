@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Easily manage custom nameservers for domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/easily-manage-custom-nameservers-for-domains"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 22, 2021
 
@@ -27,3 +25,4 @@ You can now more easily add custom nameservers to your Vercel hosted domain, all
 Check out [the documentation](https://vercel.com/docs/concepts/projects/custom-domains#nameservers) as well.
 
 也欢迎查阅[相关文档](https://vercel.com/docs/concepts/projects/custom-domains#nameservers)。
+{% endraw %}

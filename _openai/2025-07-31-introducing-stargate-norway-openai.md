@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Stargate Norway | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-stargate-norway"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "We’re launching Stargate Norway—OpenAI’s first AI data center initiative in Europe under our OpenAI for Countries program. Stargate is OpenAI’s overarching infrastructure platform and is a cri..."
 ---
+{% raw %}
 
 July 31, 2025
 
@@ -43,3 +43,4 @@ Stargate Norway follows the launch of [Stargate UAE⁠](https://openai.com/index
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
+{% endraw %}

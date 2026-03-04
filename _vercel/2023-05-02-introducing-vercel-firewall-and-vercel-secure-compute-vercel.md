@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Vercel Firewall and Vercel Secure Compute - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-security"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Secure Compute and Vercel Firewall for enhanced protection of your applications"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 2, 2023
 
@@ -188,3 +186,4 @@ Feb 17, 2023
 Alli Pope
 
 Alli Pope
+{% endraw %}

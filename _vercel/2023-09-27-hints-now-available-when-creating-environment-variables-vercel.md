@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Hints now available when creating Environment Variables - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/hints-now-available-when-creating-environment-variables"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 27, 2023
 
@@ -80,3 +78,4 @@ When creating and editing Environment Variables on Vercel, you can now see hints
 Learn more about [Environment Variables](https://vercel.com/docs/projects/environment-variables).
 
 了解更多关于 [环境变量](https://vercel.com/docs/projects/environment-variables) 的信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Alignment Research"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/team/alignment"
@@ -8,8 +7,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [Back to Overview](https://www.anthropic.com/research)
 
@@ -144,3 +142,4 @@ Join the Research team
 
 [See open roles](https://www.anthropic.com/jobs)  
 [查看开放职位](https://www.anthropic.com/jobs)
+{% endraw %}

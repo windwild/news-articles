@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing GPT‑5 for developers | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-gpt-5-for-developers"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Introducing GPT-5 in our API platform—offering high reasoning performance, new controls for devs, and best-in-class results on real coding tasks., A realistic, high-touch program for coffee enthusia..."
 ---
+{% raw %}
 
 August 7, 2025
 
@@ -332,3 +332,4 @@ Check out the GPT‑5 [documentation⁠(opens in a new window)](https://platform
 | FActScore hallucination rate(no tools)\[lower is better\] | 2.8% | 3.5% | 7.3% | 23.5% | 38.7% | 6.7% | 10.9% | - |
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

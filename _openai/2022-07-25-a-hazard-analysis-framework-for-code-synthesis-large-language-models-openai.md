@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A hazard analysis framework for code synthesis large language models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 July 25, 2022
 
@@ -29,3 +29,4 @@ Codex, a large language model (LLM) trained on a variety of codebases, exceeds t
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
+{% endraw %}

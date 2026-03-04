@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Lockfile-aware deployment skipping for monorepos - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/lockfile-aware-deployment-skipping-for-monorepos"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now maps dependencies in your package manager’s lockfile to applications in your monorepo, skipping unaffected projects for monorepos."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 20, 2025
 
@@ -35,3 +33,4 @@ Previously, any change to the lockfile would redeploy all applications in the mo
 Learn more about [skipping unaffected projects in monorepos](https://vercel.com/docs/monorepos#skipping-unaffected-projects).
 
 了解更多关于[在单体仓库中跳过未受影响项目的机制](https://vercel.com/docs/monorepos#skipping-unaffected-projects)。
+{% endraw %}

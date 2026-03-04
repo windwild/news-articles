@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Run untrusted code with Vercel Sandbox, now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-sandbox-is-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI agents need secure, isolated environments that spin up instantly. Vercel Sandbox is now generally available with filesystem snapshots, container support, and production reliability."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 30, 2026
 
@@ -208,3 +206,4 @@ npx sandbox create --connect
 Explore the [documentation](https://vercel.com/docs/vercel-sandbox) to get started, and check out the [open-source SDK](https://github.com/vercel/sandbox).
 
 请查阅 [文档](https://vercel.com/docs/vercel-sandbox) 以快速上手，并查看 [开源 SDK](https://github.com/vercel/sandbox)。
+{% endraw %}

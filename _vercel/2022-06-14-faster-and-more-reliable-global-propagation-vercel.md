@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Faster and more reliable global propagation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-and-more-reliable-global-propagation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 14, 2022
 
@@ -34,3 +32,4 @@ Purges now **propagate globally in ~300ms,** regardless of the region the event 
 [Deploy now](https://vercel.com/templates) to try our improved infrastructure.
 
 [立即部署](https://vercel.com/templates)，体验我们升级后的基础设施。
+{% endraw %}

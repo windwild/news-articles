@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Open weights and AI for all | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/open-weights-and-ai-for-all"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "AI’s next frontier isn’t just about capability—it’s about who gets to use it. Our mission to put AI in the hands of as many people as possible is what drives us. Today’s release of our most ..."
 ---
+{% raw %}
 
 August 5, 2025
 
@@ -41,3 +41,4 @@ Open models also create new opportunities for governments and institutions with 
 The release continues a history of OpenAI releasing open source models, including [Whisper⁠](https://openai.com/research/whisper/), [GPT‑2⁠](https://openai.com/index/gpt-2-1-5b-release/?utm_source=chatgpt.com), and [CLIP⁠](https://openai.com/research/clip/). It will build the next generation of AI infrastructure on democratic rails—models rooted in openness, intellectual freedom, and broad access. Through OpenAI for Countries and our nonprofit, these models will bring us closer to a world where the benefits of AI reach more people, nations of all sizes participate in the AI economy, and innovation anywhere lifts communities everywhere.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

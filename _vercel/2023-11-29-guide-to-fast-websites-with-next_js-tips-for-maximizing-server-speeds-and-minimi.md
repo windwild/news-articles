@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Guide to fast websites with Next.js: Tips for maximizing server speeds and minimizing client burden - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/guide-to-fast-websites-with-next-js-tips-for-maximizing-server-speeds"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A collection of tips to make faster Next.js websites by maximizing work on the server and minimizing the burden on the client."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 29, 2023
 
@@ -1013,3 +1011,4 @@ Next.js 13 中的乐观更新（Optimistic Updates）
 
 
 [阅读 12 条回复](https://x.com/asidorenko_/status/1705586291788730412)
+{% endraw %}

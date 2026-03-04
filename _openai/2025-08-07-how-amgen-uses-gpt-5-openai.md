@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Amgen uses GPT-5 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-amgen"
@@ -10,6 +9,7 @@ translated: false
 description: "Learn how Amgen uses GPT-5."
 tags: ["API"]
 ---
+{% raw %}
 
 August 7, 2025
 
@@ -22,3 +22,4 @@ August 7, 2025
 
 
 How Amgen uses GPT-5 \| OpenAI
+{% endraw %}

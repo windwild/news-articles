@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using the AI SDK to fix edge-case errors in our code - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/using-the-ai-sdk-to-fix-edge-case-errors-in-our-code"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Leveraging the AI SDK to build with and solve problems with AI"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 15, 2024
 
@@ -73,3 +71,4 @@ Get started with the AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-s
 使用 AI SDK 构建 AI 驱动的应用程序。\\
 \\
 立即开始使用 AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-sdk)
+{% endraw %}

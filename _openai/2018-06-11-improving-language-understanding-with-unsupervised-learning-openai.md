@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improving language understanding with unsupervised learning | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/language-unsupervised"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve obtained state-of-the-art results on a suite of diverse language tasks with a scalable, task-agnostic system, which we’re also releasing. Our approach is a combination of two existing ideas:..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 June 11, 2018
 
@@ -115,3 +115,4 @@ We’re increasingly interested in understanding the [relationship between the 
 - [Compute Scaling](https://openai.com/research/index/?tags=compute-scaling)
 - [Language](https://openai.com/research/index/?tags=language)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

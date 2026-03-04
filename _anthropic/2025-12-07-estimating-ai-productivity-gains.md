@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Estimating AI productivity gains"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/estimating-productivity-gains"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic economic research on productivity gains"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Economic Research
 
@@ -607,3 +605,4 @@ Return ONLY a JSON object mapping each task_id to your estimated hours per week,
   ...
 }}"""
 ```
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Organizational update from OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/organizational-update"
@@ -10,6 +9,7 @@ translated: false
 description: "It’s been a year of dramatic change and growth at OpenAI."
 tags: ["Company"]
 ---
+{% raw %}
 
 December 29, 2020
 
@@ -44,3 +44,4 @@ Happy New Year from all of us at OpenAI!
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2020](https://openai.com/news/?tags=2020)
+{% endraw %}

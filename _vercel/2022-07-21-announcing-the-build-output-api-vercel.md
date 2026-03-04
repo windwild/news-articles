@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Announcing the Build Output API - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/build-output-api"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Build Output API enables any framework, including your own custom-built solution, to take advantage of Vercel’s infrastructure building blocks."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 21, 2022
 
@@ -205,3 +203,4 @@ Build Output API 使任意框架均可便捷利用 Vercel 提供的基础设施�
 If you want to create your own framework, check out the [Build Output API documentation](https://vercel.com/docs/build-output-api/v3) or learn more about `vercel build` and `vercel deploy --prebuilt`.
 
 如果您希望创建自己的框架，请查阅 [Build Output API 文档](https://vercel.com/docs/build-output-api/v3)，或进一步了解 `vercel build` 和 `vercel deploy --prebuilt`。
+{% endraw %}

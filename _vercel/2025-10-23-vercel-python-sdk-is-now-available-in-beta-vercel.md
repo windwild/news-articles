@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Python SDK is now available in beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-python-sdk-in-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now has a native Python library hosted on PyPI to simplify tasks such as executing code on Vercel Sandboxes, transferring objects to Vercel Blob, working with the Runtime Cache and retrieving p..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 23, 2025
 
@@ -154,3 +152,4 @@ def blog():
 Get started with `pip install vercel.`
 
 使用 `pip install vercel` 快速开始。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "DALL·E: Creating images from text | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/dall-e"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language."
 tags: ["Research"]
 ---
+{% raw %}
 
 January 5, 2021
 
@@ -928,3 +928,4 @@ PublicationJun 28, 2022](https://openai.com/index/dall-e-2-pre-training-mitigati
 PublicationApr 13, 2022](https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents/)
 
 DALL·E: Creating images from text \| OpenAI
+{% endraw %}

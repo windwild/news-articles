@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Next 3.0 Preview: Static Exports and Dynamic Imports - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next3-preview"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next 3.0 features Static Exports with one command and Dynamic Imports"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 15, 2017
 
@@ -252,3 +250,4 @@ Next.js 3.0 完全向后兼容，已准备好供实验性使用及预发布环�
 - Join the Vercel Community `#next` channel to ask any questions or get in touch with us!
 
 - 加入 Vercel 社区的 `#next` 频道，随时提问或与我们取得联系！
+{% endraw %}

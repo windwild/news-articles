@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Aardvark: OpenAI’s agentic security researcher | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-aardvark"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early..."
 tags: ["Security"]
 ---
+{% raw %}
 
 October 30, 2025
 
@@ -71,3 +71,4 @@ We’re inviting select partners to join the Aardvark private beta. Participants
 We’re looking to validate performance across a variety of environments. If your organization or open source project is interested in joining, you can [apply here⁠](https://www.openai.com/form/aardvark-beta-signup).
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

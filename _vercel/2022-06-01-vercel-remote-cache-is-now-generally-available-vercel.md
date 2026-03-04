@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Remote Cache is now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-remote-cache-is-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 1, 2022
 
@@ -29,3 +27,4 @@ Vercel 远程缓存可存储并分发构建产物，从而加速团队协作及�
 For more information and pricing check out the [documentation](https://vercel.com/docs/concepts/monorepos/remote-caching).
 
 如需了解更多信息及定价详情，请参阅[文档](https://vercel.com/docs/concepts/monorepos/remote-caching)。
+{% endraw %}

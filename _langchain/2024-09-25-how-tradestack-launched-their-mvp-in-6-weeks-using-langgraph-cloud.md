@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Tradestack launched their MVP in 6 weeks using LangGraph Cloud"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-tradestack/"
@@ -10,8 +9,7 @@ translated: true
 description: "See how Tradestack built and launched their MVP with LangGraph Cloud, adding reliability and improved performance to their agentic workflows."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Tradestack is a UK based startup with a mission to make the trades businesses more efficient. With a team of construction and real estate experts, they identified a key pain point: back-office tasks for trades businesses take a very long time. Their solution? An AI-powered assistant that could slash the time required for creating project quotes from hours to minutes.
 
@@ -191,3 +189,4 @@ You can learn more about [Tradestack](https://www.tradestack.uk/?ref=blog.langch
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

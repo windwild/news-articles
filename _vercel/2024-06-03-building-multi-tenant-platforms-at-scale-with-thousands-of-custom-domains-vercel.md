@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building multi-tenant platforms at scale with thousands of custom domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/mintlify-scaling-a-powerful-documentation-platform-with-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Mintlify built and scaled their multi-tenant docs platform with custom domains"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 3, 2024
 
@@ -120,3 +118,4 @@ Read the guide](https://vercel.com/guides/nextjs-multi-tenant-application)
 使用 Next.js App Router、Vercel Postgres 和 Vercel Domains API，构建一个支持多租户和自定义域名的全栈应用。  
 \\  
 阅读指南](https://vercel.com/guides/nextjs-multi-tenant-application)
+{% endraw %}

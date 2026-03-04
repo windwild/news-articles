@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Cleric’s AI SRE leveled up with continuous learning through LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-cleric/"
@@ -10,8 +9,7 @@ translated: true
 description: "Cleric is an AI SRE teammate that identifies issues using existing observability tools and infrastructure. See how they used LangSmith to investigate their production issues effectively."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Cleric is an AI agent designed to help engineering teams debug production issues, focusing on the complex, time consuming investigations that often drain engineering productivity.
 
@@ -197,3 +195,4 @@ Cleric 正系统性地构建这一未来：在持续拓展自主能力的同时�
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Nubank elevates customer experiences with OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/nubank"
@@ -10,6 +9,7 @@ translated: false
 description: "Nubank elevates customer experiences with OpenAI"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Nubank elevates customer experiences with OpenAI
@@ -69,3 +69,4 @@ This analysis is done in accordance with fraud prevention policies, regulatory r
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

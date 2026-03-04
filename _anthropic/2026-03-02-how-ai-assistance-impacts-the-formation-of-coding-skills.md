@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How AI assistance impacts the formation of coding skills"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/AI-assistance-coding-skills"
@@ -8,8 +7,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -236,3 +234,4 @@ We would like to thank Ethan Perez, Miranda Zhang, and Henry Sleight for making 
 1. Importantly, this setup is different from agentic coding products like Claude Code; we expect that the impacts of such programs on skill development are likely to be more pronounced than the results here.
 
 1. 重要的是，这种设置不同于 Claude Code 等具备自主代理能力的编程产品；我们预计，此类程序对技能发展的影响可能比本研究的结果更为显著。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improve your search engine ranking with Next.js on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-seo-playbook"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "SEO is a critical priority in Next.js on Vercel, letting you rank higher in search engine results and better optimize your content for users."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 23, 2023
 
@@ -343,3 +341,4 @@ Vercel.com 着陆页
 ### Dive deeper
 
 ### 深入了解
+{% endraw %}

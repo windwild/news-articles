@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Tuna - A Tool for Rapidly Generating Synthetic Fine-Tuning Datasets"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/introducing-tuna-a-tool-for-rapidly-generating-synthetic-fine-tuning-datasets/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:25:56.823786799+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written by_ [_Andrew Kean Gao_](https://twitter.com/itsandrewgao?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&ref=blog.langchain.com) _through LangChain's Student Hacker in Residence Program._
 
@@ -457,3 +455,4 @@ I love the open source LLMs community and all the models that people are fine-tu
 - 个人网站：[https://andrewgao.dev/](https://andrewgao.dev/?ref=blog.langchain.com)  
 - Research: [https://scholar.google.com/citations?user=BegSAxMAAAAJ&hl=en](https://scholar.google.com/citations?user=BegSAxMAAAAJ&hl=en&ref=blog.langchain.com)  
 - 学术成果：[https://scholar.google.com/citations?user=BegSAxMAAAAJ&hl=en](https://scholar.google.com/citations?user=BegSAxMAAAAJ&hl=en&ref=blog.langchain.com)
+{% endraw %}

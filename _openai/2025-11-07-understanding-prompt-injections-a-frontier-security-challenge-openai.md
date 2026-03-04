@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Understanding prompt injections: a frontier security challenge | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/prompt-injections"
@@ -10,6 +9,7 @@ translated: false
 description: "Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users."
 tags: ["Security"]
 ---
+{% raw %}
 
 November 7, 2025
 
@@ -102,3 +102,4 @@ As AI technology evolves, new risks and safeguards will emerge. Follow updates f
 Prompt injection remains a frontier, challenging research problem, and just like traditional scams on the web, we expect our work to be ongoing. While we have not yet seen significant adoption of this technique by attackers, we expect adversaries will spend significant time and resources to find ways to make AIs fall for these attacks. We are continuing to invest heavily in making our products safe and in research to advance the robustness of AI to this risk. We will share updates as we learn more, including ongoing progress in our security work in this area. For example, we’re building a report we will publish soon that shares more details on how we detect if your AI's communication with the internet would transmit information from your conversation.
 
 Our goal is to make these systems as reliable and safe as working with your most trustworthy and security-savvy colleague or friend. We will keep learning from real-world use, iterating safely, and publishing what we learn as the technology advances.
+{% endraw %}

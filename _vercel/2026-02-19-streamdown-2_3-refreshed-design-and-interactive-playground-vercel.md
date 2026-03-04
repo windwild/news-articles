@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Streamdown 2.3 — Refreshed design and interactive playground - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/streamdown-2-3"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Streamdown 2.3 focuses on design polish and developer experience. Tables, code blocks, and Mermaid diagrams have been redesigned."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 19, 2026
 
@@ -47,3 +45,4 @@ This release also resolves issues with nested HTML block parsing, custom tag han
 [Read the documentation](https://streamdown.ai/docs) for more information.
 
 [查阅文档](https://streamdown.ai/docs) 了解更多信息。
+{% endraw %}

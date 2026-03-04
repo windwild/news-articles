@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Firefox extension for Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/firefox-extension-for-vercel-toolbar"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Toolbar extension, which enables the toolbar in production and user preferences, is now available in Firefox."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 24, 2025
 
@@ -29,3 +27,4 @@ With this extension you can use the Vercel Toolbar on your production deployment
 Install the Firefox extension from the [Firefox Browser Add Ons page](https://addons.mozilla.org/en-US/firefox/addon/vercel/) to get started or visit our documentation to learn more about the [Vercel Toolbar](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) and [browser extensions](https://vercel.com/docs/workflow-collaboration/vercel-toolbar/browser-extension).
 
 请前往 [Firefox 浏览器附加组件页面](https://addons.mozilla.org/en-US/firefox/addon/vercel/) 安装 Firefox 扩展以立即开始使用；或查阅我们的文档，深入了解 [Vercel Toolbar](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) 和 [浏览器扩展](https://vercel.com/docs/workflow-collaboration/vercel-toolbar/browser-extension)。
+{% endraw %}

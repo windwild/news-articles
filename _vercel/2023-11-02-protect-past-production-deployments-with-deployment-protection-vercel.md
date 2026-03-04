@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Protect past Production Deployments with Deployment Protection - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/protect-past-production-deployments-with-deployment-protection"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 2, 2023
 
@@ -23,3 +21,4 @@ Nov 2, 2023
 有关如何[迁移到“标准防护”](https://vercel.com/docs/security/deployment-protection#migrating-to-standard-protection)的更多详情，请参阅我们的文档。
 
 部署防护功能**在所有套餐中均可用。**
+{% endraw %}

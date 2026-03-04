@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Qwen3-Next models are now supported in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/qwen3-next-models-are-now-supported-in-vercel-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access Qwen3 Next, two models from QwenLM, designed to be ultra-efficient, using Vercel's AI Gateway with no other provider accounts required."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 12, 2025
 
@@ -74,3 +72,4 @@ Includes built-in [observability](https://vercel.com/docs/ai-gateway/observabili
 Learn more about [AI Gateway](https://vercel.com/ai-gateway) and access the model [here](https://vercel.com/ai-gateway/models/qwen3-next-80b-a3b-thinking).
 
 了解更多关于 [AI 网关（AI Gateway）](https://vercel.com/ai-gateway) 的信息，并在此处访问该模型：[链接](https://vercel.com/ai-gateway/models/qwen3-next-80b-a3b-thinking)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "At Next.js Conf 2021, let’s make the Web. Faster. - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/at-next-js-conf-2021-lets-make-the-web-faster"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Join us for Next.js Conf on October 26, 2021. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 20, 2021
 
@@ -49,3 +47,4 @@ Please email `conf+sponsor@nextjs.org` to learn how you can sponsor Next.js Conf
 Claim your ticket at [nextjs.org/conf](https://nextjs.org/conf) and check back for more announcements and updates. We’ll see you soon!
 
 请前往 [nextjs.org/conf](https://nextjs.org/conf) 免费领取参会门票，并随时关注后续公告与更新。期待与您相见！
+{% endraw %}

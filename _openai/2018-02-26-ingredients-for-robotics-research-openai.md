@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Ingredients for robotics research | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ingredients-for-robotics-research"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environment..."
 tags: ["Research"]
 ---
+{% raw %}
 
 February 26, 2018
 
@@ -197,3 +197,4 @@ hosted with ❤ by [GitHub](https://github.com/)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
+{% endraw %}

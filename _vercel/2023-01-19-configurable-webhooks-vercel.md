@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Configurable webhooks  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/configurable-webhooks"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 19, 2023
 
@@ -21,3 +19,4 @@ Jan 19, 2023
 Pro 和 Enterprise 版本的客户现在无需创建集成即可使用 Webhook。Webhook 现已在仪表板中支持账户级配置。
 
 [查看文档](https://vercel.com/docs/integrations/webhooks-overview) 了解更多信息。
+{% endraw %}

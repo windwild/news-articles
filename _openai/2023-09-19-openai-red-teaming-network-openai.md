@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Red Teaming Network | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/red-teaming-network"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re announcing an open call for the OpenAI Red Teaming Network and invite domain experts interested in improving the safety of OpenAI’s models to join our efforts."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 September 19, 2023
 
@@ -143,3 +143,4 @@ We use the term “expert” to refer to expertise informed by a range of domain
 
 3. C
 We have also taken feedback on the risk profile of our systems in other forms, such as the [Bug Bounty Program⁠](https://openai.com/index/bug-bounty-program/) and the [ChatGPT Feedback Contest⁠](https://openai.com/index/chatgpt/).
+{% endraw %}

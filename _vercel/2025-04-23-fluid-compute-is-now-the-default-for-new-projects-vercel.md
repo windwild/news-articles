@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Fluid compute is now the default for new projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/fluid-compute-is-now-the-default-for-new-projects"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fluid compute is now enabled by default for all new projects on Vercel, bringing improvements in efficiency, scalability, and cost effectiveness."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 23, 2025
 
@@ -46,3 +44,4 @@ Fluid compute 在启动新实例前优先复用现有实例，可将高并发工
 for your existing projects, and learn more in our [blog](https://vercel.com/blog/introducing-fluid-compute) and [documentation](https://vercel.com/docs/functions/fluid-compute).
 
 为您的现有项目启用 Fluid，并在我们的 [博客文章](https://vercel.com/blog/introducing-fluid-compute) 和 [文档](https://vercel.com/docs/functions/fluid-compute) 中了解更多信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using Zig in our incremental Turborepo migration from Go to Rust - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-we-continued-porting-turborepo-to-rust"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "In this Turborepo migration update, we explore the innovative strategies, such as the \"Go Sandwich\" approach and leveraging Zig's cross-compilation, guiding our gradual shift from Go to Rust, aiming t..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 8, 2023
 
@@ -283,3 +281,4 @@ Deploy this template
 Turborepo & Next.js Starter
 
 Turborepo 与 Next.js 入门模板
+{% endraw %}

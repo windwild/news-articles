@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI Code Elements - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-code-elements"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A brand new set of components designed to help you build the next generation of IDEs, coding apps and background agents."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 21, 2026
 
@@ -249,3 +247,4 @@ npx ai-elements add attachments
 ```
 
 ![](images/ai-code-elements-vercel/img_025.jpg)![](images/ai-code-elements-vercel/img_026.jpg)
+{% endraw %}

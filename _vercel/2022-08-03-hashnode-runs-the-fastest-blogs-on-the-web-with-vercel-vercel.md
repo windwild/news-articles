@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Hashnode runs the fastest blogs on the web with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/hashnode-runs-faster-blogs-on-the-web-with-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Hashnode runs faster with Vercel"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 3, 2022
 
@@ -75,3 +73,4 @@ Get in Touch](https://vercel.com/contact/sales)
 联系专家，了解如何立即开始使用 Vercel。  
 \\  
 立即联系](https://vercel.com/contact/sales)
+{% endraw %}

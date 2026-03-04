@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangSmith Incident on May 1, 2025"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langsmith-incident-on-may-1-2025/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Engineering", "![Building Multi-Agent Apps", "deep agents"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Requests to the [US LangSmith API](https://api.smith.langchain.com/redoc?ref=blog.langchain.com) from both the [web application](https://smith.langchain.com/?ref=blog.langchain.com) and SDKs experienced an elevated error rate for 28 minutes on May 1, 2025 (starting at 14:35 UTC and ending at 15:03 UTC). During the incident window, approximately 55% of all API requests failed with a connection error. This impacted all endpoints accessible through the API, including endpoints for run ingestion and data fetching.
 
@@ -136,3 +134,4 @@ We take the reliability of our platform seriously, and we will invest in this ar
 [**Building Multi-Agent Applications with Deep Agents**](https://blog.langchain.com/building-multi-agent-applications-with-deep-agents/)
 
 [deep agents](https://blog.langchain.com/tag/deep-agents/) 5 分钟阅读
+{% endraw %}

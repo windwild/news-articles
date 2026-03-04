@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Serverless Functions can now run up to 5 minutes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/serverless-functions-can-now-run-up-to-5-minutes"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 20, 2023
 
@@ -33,3 +31,4 @@ Sep 20, 2023
 Hobby 和 Enterprise 计划用户的现有默认设置维持不变。
 
 [请参阅我们的文档](https://vercel.com/docs/functions/serverless-functions/runtimes)，了解更多信息。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "TypeScript Support"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/typescript-support/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 It's finally here... TypeScript support for LangChain.
 
@@ -169,3 +167,4 @@ We also pre-emptively thank the community for their feedback, contributions, and
 [**LangGraph Platform 进入 Beta 阶段：面向可扩展智能体基础设施的新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 分钟阅读
+{% endraw %}

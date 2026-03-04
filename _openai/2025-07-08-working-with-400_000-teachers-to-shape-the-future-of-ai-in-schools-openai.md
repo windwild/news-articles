@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Working with 400,000 teachers to shape the future of AI in schools | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/aft"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI partners with the American Federation of Teachers to launch a 5-year initiative equipping 400,000 K-12 educators to lead AI innovation in classrooms."
 ---
+{% raw %}
 
 July 8, 2025
 
@@ -60,3 +60,4 @@ OpenAI is also the proud co-sponsor of the upcoming AFT AI Symposium to be held 
 For more information about the National Academy for AI Instruction, please visit [www.aft.org⁠(opens in a new window)](https://www.aft.org/press-release/aft-launch-national-academy-ai-instruction-microsoft-openai-anthropic-and-united).
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

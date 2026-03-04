@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Morningstar Intelligence Engine puts personalized investment insights at analysts' fingertips"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/morningstar-intelligence-engine-puts-personalized-investment-insights-at-analysts-fingertips/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ## **Challenge**
 
@@ -131,3 +129,4 @@ Morningstar Intelligence Engine went from idea to production in under 60 days wi
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

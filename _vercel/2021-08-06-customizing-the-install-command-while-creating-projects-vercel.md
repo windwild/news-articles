@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Customizing the Install Command while creating Projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/customizing-the-install-command-while-creating-projects"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 6, 2021
 
@@ -33,3 +31,4 @@ This also comes in handy for passing custom options to the `yarn` or `npm ins
 Check out [the documentation](https://vercel.com/docs/build-step#install-command) as well.
 
 也请参阅 [相关文档](https://vercel.com/docs/build-step#install-command)。
+{% endraw %}

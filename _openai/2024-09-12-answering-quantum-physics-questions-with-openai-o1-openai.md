@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Answering quantum physics questions with OpenAI o1 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/o1-quantum-physics"
@@ -10,6 +9,7 @@ translated: false
 description: "Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions."
 tags: ["Story"]
 ---
+{% raw %}
 
 September 12, 2024
 
@@ -22,3 +22,4 @@ Say hello to OpenAI o1—a new series of AI models designed to spend more time t
 
 
 Answering quantum physics questions with OpenAI o1 \| OpenAI
+{% endraw %}

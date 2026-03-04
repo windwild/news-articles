@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Agents at work, a partnership with Salesforce and Slack - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/agents-at-work-a-partnership-with-salesforce-and-slack"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel and Salesforce are partnering to help teams build, ship, and scale AI agents across the Salesforce ecosystem, starting with Slack. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 15, 2025
 
@@ -151,3 +149,4 @@ Deploy the template](https://vercel.com/templates/nitro/slack-agent-template)
 立即基于 Bolt for JavaScript 与 Nitro 模板，创建您专属的 Slack 智能体。一键部署至 Vercel，几分钟内即可获得可投入生产的实时环境。  
 \\  
 部署该模板](https://vercel.com/templates/nitro/slack-agent-template)
+{% endraw %}

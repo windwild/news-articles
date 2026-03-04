@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Higher defaults and limits for Vercel Functions running Fluid compute - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/higher-defaults-and-limits-for-vercel-functions-running-fluid-compute"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Functions using Fluid compute now have longer execution times, more memory, and more CPU. The default execution time, for all projects on all plans, is now 300 seconds."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 25, 2025
 
@@ -41,3 +39,4 @@ Jun 25, 2025
 Learn more about [Vercel Function limits](https://vercel.com/docs/functions/limitations).
 
 了解更多关于 [Vercel 函数限制](https://vercel.com/docs/functions/limitations) 的信息。
+{% endraw %}

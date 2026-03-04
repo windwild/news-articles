@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Making Data Ingestion Production Ready: a LangChain-Powered Airbyte Destination"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 A big focus of ours over the past few months has been enabling teams to go from prototype to production.  
 过去几个月，我们的一大工作重心是助力团队将应用从原型阶段推进至生产环境。
@@ -196,3 +194,4 @@ We also think there’s more features (and integrations) to add to make data ing
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

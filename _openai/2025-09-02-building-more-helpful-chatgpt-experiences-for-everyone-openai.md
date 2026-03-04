@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building more helpful ChatGPT experiences for everyone | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT."
 tags: ["Safety"]
 ---
+{% raw %}
 
 September 2, 2025
 
@@ -80,3 +80,4 @@ These steps are only the beginning. We will continue learning and strengthening 
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)
+{% endraw %}

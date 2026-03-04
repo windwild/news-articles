@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Commenting on Preview Deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-commenting-on-preview-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Commenting in Vercel Preview Deployment"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 22, 2022
 
@@ -50,3 +48,4 @@ Get your whole team involved in the development process.
 [Enable the comments public beta](https://vercel.com/enable-comments) in your projects today to get started.
 
 今天就在您的项目中[启用评论功能公开测试版](https://vercel.com/enable-comments)，立即开始使用。
+{% endraw %}

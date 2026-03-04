@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Managing major traffic spikes during ticket drops with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/managing-major-traffic-spikes-during-ticket-drops-with-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Shotgun"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 31, 2023
 
@@ -94,3 +92,4 @@ Get in touch](https://vercel.com/contact)
 联系专家，探讨如何提升您自身网站的性能表现。\\  
 \\  
 立即联系](https://vercel.com/contact)
+{% endraw %}

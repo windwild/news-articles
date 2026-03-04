@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Forrester Total Economic Impact™ (TEI): Vercel can deliver a 264% return on investment (ROI) - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/forrester-total-economic-impact-vercel-ROI"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Forrester Total Economic Impact™: Vercel delivers a 264% ROI"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 4, 2024
 
@@ -125,3 +123,4 @@ Sep 12, 2023
 Lindsey and Mark
 
 林赛与马克
+{% endraw %}

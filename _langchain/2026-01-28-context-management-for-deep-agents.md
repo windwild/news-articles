@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Context Management for Deep Agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/context-management-for-deepagents/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "By Chester Curme and Mason DaughertyAs the addressable task length of AI agents continues to grow, effective context management becomes critical to prevent context rot and to manage LLMs&#x2019; finit..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _By Chester Curme and Mason Daugherty_
 
@@ -164,3 +162,4 @@ When evaluating your own context compression strategies, we’d emphasize:
 All features of the [Deep Agents](https://github.com/langchain-ai/deepagents?ref=blog.langchain.com) harness are open source. Try out the latest version and let us know what compression strategies work best for your use cases!
 
 [Deep Agents](https://github.com/langchain-ai/deepagents?ref=blog.langchain.com) 测试框架的所有功能均为开源。欢迎试用最新版本，并告诉我们哪些压缩策略最契合您的实际应用场景！
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Domains must now be managed at the team level - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/domains-must-now-be-managed-at-the-team-level"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel account domains are now deprecated and must be moved to a team in order to continue using them."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 4, 2025
 
@@ -27,3 +25,4 @@ Domains that are currently linked to accounts will continue to resolve, serve tr
 When viewing an account-level domain, you'll now be prompted to select a destination team to transfer your domain and all project domains, DNS records, and aliases will move to that team and continue to work after the move.
 
 当您查看一个账户级域名时，系统现在会提示您选择一个目标团队以完成域名迁移——迁移后，该域名及其所属的所有项目域名、DNS 记录和别名都将转移至该团队，并在迁移完成后继续正常运行。
+{% endraw %}

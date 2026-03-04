@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Safely inject credentials in HTTP headers with Vercel Sandbox - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/safely-inject-credentials-in-http-headers-with-vercel-sandbox"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Sandbox network policies now support HTTP header injection to prevent secrets exfiltration by untrusted code"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 23, 2026
 
@@ -184,3 +182,4 @@ await sandbox.updateNetworkPolicy('deny-all');
 Available to all Pro and Enterprise customers. Learn more in the [documentation](https://vercel.com/docs/vercel-sandbox/concepts/firewall#credentials-brokering).
 
 面向所有 Pro 和 Enterprise 用户开放。详情请参阅[文档](https://vercel.com/docs/vercel-sandbox/concepts/firewall#credentials-brokering)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Failed payments can now be retried - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/failed-payments-can-now-be-retried"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 12, 2021
 
@@ -29,3 +27,4 @@ Since that's quite a slow process, we instead added a button to the Billing page
 Changing the payment method will automatically issue a charge too, so this button is particularily helpful if you've fixed an issue with an existing payment method.
 
 更换付款方式也会自动触发一次扣款；因此，若您已修复现有付款方式的问题，此按钮将尤为有用。
+{% endraw %}

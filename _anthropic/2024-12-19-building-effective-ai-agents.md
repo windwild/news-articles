@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building Effective AI Agents"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/building-effective-agents"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Discover how Anthropic approaches the development of reliable AI agents. Learn about our research on agent capabilities, safety considerations, and technical framework for building trustworthy AI."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Over the past year, we've worked with dozens of teams building large language model (LLM) agents across industries. Consistently, the most successful implementations weren't using complex frameworks or specialized libraries. Instead, they were building with simple, composable patterns.
 
@@ -440,3 +438,4 @@ We've worked with dozens of teams building LLM agents across industries. Consist
 Product updates, how-tos, community spotlights, and more. Delivered monthly to your inbox.
 
 产品更新、实用教程、社区亮点等内容，每月推送至您的邮箱。
+{% endraw %}

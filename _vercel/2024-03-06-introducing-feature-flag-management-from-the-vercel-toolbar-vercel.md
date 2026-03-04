@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing feature flag management from the Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/toolbar-feature-flags"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Uplevel your flags workflow with the Vercel Toolbar"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 6, 2024
 
@@ -186,3 +184,4 @@ Get started](https://vercel.com/docs/workflow-collaboration/feature-flags/using-
 即刻启用全新工作流：使用 Vercel 工具栏读取并设置您应用程序的特性标志覆盖项。\\
 \\
 立即开始](https://vercel.com/docs/workflow-collaboration/feature-flags/using-vercel-toolbar)
+{% endraw %}

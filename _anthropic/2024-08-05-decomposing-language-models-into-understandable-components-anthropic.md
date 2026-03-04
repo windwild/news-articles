@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Decomposing Language Models Into Understandable Components \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/decomposing-language-models-into-understandable-components"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 InterpretabilityResearch
 
@@ -102,3 +100,4 @@ Our next challenge is to scale this approach up from the small model we demonstr
 To learn more about all of this, read our paper, [_Towards Monosemanticity: Decomposing Language Models With Dictionary Learning_](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
 
 如需深入了解全部内容，请阅读我们的论文：[_迈向单义性：利用字典学习分解语言模型_](https://transformer-circuits.pub/2023/monosemantic-features/index.html)。
+{% endraw %}

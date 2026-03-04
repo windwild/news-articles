@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Comments on Preview Deployments are now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/comments-on-preview-deployments-are-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 20, 2022
 
@@ -23,3 +21,4 @@ Vercel 预览部署（Preview Deployments）的评论功能现已全面开放，
 所有 Pro 和 Enterprise 团队均可默认免费使用预览部署的评论功能。
 
 [查看文档](https://vercel.com/docs/concepts/deployments/comments) 了解更多信息。
+{% endraw %}

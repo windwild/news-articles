@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Refined Logging on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/refined-logging"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The refined UI for Build and Serverless Function logs makes consuming logs a pleasure."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 11, 2020
 
@@ -73,3 +71,4 @@ For more complex needs, such as storing logs, we recommend installing a [Log Dra
 [Let us know what you think](https://zeit.co/contact) about this change.
 
 欢迎通过 [联系我们](https://zeit.co/contact) 告诉我们您对这一变更的看法。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Queues now in public beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-queues-now-in-public-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Customers can now use Vercel Queues in public beta, without any restrictions or needing to be allow listed"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 27, 2026
 
@@ -179,3 +177,4 @@ Functions invoked by Queues in push mode are charged at existing [Fluid compute 
 
 Get started with the [Queues documentation](https://vercel.com/docs/queues).  
 请通过查阅 [Queues 文档](https://vercel.com/docs/queues) 开始使用。
+{% endraw %}

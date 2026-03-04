@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Prism | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-prism"
@@ -10,8 +9,7 @@ translated: true
 description: "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
 tags: ["Product"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 27, 2026
 
@@ -168,3 +166,4 @@ We’re excited to learn from researchers using Prism today and to continue buil
 
 - [Science](https://openai.com/news/?tags=science)  
 - [科学](https://openai.com/news/?tags=science)
+{% endraw %}

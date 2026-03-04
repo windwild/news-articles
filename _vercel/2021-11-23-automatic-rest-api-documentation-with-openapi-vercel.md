@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Automatic REST API documentation with OpenAPI - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatic-rest-api-documentation-with-openapi"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 23, 2021
 
@@ -29,3 +27,4 @@ Developers can use our REST API to extend the Vercel platform and programmatical
 Check out [the improved documentation](https://vercel.com/docs/rest-api).
 
 请查阅[改进后的文档](https://vercel.com/docs/rest-api)。
+{% endraw %}

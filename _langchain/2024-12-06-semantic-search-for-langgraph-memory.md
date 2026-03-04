@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Semantic Search for LangGraph Memory"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/semantic-search-for-langgraph-memory/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["langgraph", "memory", "agents", "agent builder", "![Building Multi-Agent Apps", "deep agents", "![Reflection Agents", "**Reflection Agents**", "**Plan-and-Execute Agents**", "By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Following our [launch of long-term memory support](https://blog.langchain.com/launching-long-term-memory-support-in-langgraph/), we're adding semantic search to LangGraph's BaseStore. Available today in the open source `PostgresStore` and `InMemoryStore`'s, in LangGraph studio, as well as in production in all LangGraph Platform deployments.
 
@@ -382,3 +380,4 @@ And finally, for more conceptual information on AI memory, check out our [memory
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 5 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：5 分钟
+{% endraw %}

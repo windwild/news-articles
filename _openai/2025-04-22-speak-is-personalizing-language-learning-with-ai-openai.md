@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Speak is personalizing language learning with AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/speak-connor-zwick"
@@ -10,6 +9,7 @@ translated: false
 description: "A conversation with Connor Zwick, CEO & Co-founder of Speak."
 tags: ["API"]
 ---
+{% raw %}
 
 April 22, 2025
 
@@ -93,3 +93,4 @@ _Speak leverages OpenAI models to power its language learning curriculum across 
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Education](https://openai.com/stories/?tags=industry-education)
 - [Technology](https://openai.com/stories/?tags=industry-technology)
+{% endraw %}

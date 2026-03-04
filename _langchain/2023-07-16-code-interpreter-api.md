@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Code Interpreter API"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/code-interpreter-api/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:32:36.454287312+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Editor's Note: This is another installation of our guest blog posts highlighting interesting and novel use cases. This blog is written by [Shroominic](https://shroominic.com/?ref=blog.langchain.com) who built an open source implementation of the ChatGPT Code Interpreter.**
 
@@ -182,3 +180,4 @@ This is my first blog post ever so thanks for reading this and I hope you had fu
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
+{% endraw %}

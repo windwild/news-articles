@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A landmark multi-year global partnership with News Corp | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership"
@@ -11,6 +10,7 @@ description: "Companies Join Forces to Enrich OpenAI’s Generative AI Products 
 "
 tags: ["Company"]
 ---
+{% raw %}
 
 May 22, 2024
 
@@ -35,3 +35,4 @@ In addition to providing content, News Corp will share journalistic expertise to
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

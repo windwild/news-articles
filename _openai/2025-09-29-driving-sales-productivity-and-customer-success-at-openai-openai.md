@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Driving sales productivity and customer success at OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-gtm-assistant"
@@ -10,6 +9,7 @@ translated: false
 description: "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices."
 tags: ["API"]
 ---
+{% raw %}
 
 September 29, 2025
 
@@ -84,3 +84,4 @@ It shows what’s possible when great salespeople are supported by AI Assistants
 ## Ready to put ChatGPT to work in your business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

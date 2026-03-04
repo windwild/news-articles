@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved logs available as public beta for Enterprise Teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-logs-available-as-public-beta-for-enterprise-teams"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 11, 2022
 
@@ -31,3 +29,4 @@ The new UI consolidates and streamlines error handling and debugging. Enterprise
 Read the [documentation](https://www.vercel.com/docs/concepts/deployments/runtime-logs) to learn more.
 
 请查阅[相关文档](https://www.vercel.com/docs/concepts/deployments/runtime-logs)，了解更多信息。
+{% endraw %}

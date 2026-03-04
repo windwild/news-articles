@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Avalara turns pipe dreams into patent-pending with v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/How-avalara-turns-pipedreams-into-patent-pending-with-v0"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "For Chief Strategy and Product Officer Jayme Fishman, the path to modernizing Avalara starts with how it builds."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 2, 2026
 
@@ -101,3 +99,4 @@ _**关于 Avalara：**_
 
 _Avalara connects businesses to more than 1,400 systems to automate tax compliance around the world._  
 _Avalara 为全球企业连接逾 1,400 个系统，实现税务合规自动化。_
+{% endraw %}

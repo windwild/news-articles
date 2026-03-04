@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Route build traffic through Static IPs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/route-build-traffic-through-static-ips"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now choose whether build traffic, such as calls to external APIs or CMS data sources during the build process, routes through your Static IPs."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 4, 2025
 
@@ -35,3 +33,4 @@ This is available to all teams using Static IPs.
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fconnectivity&title=) or learn more [here](https://vercel.com/docs/connectivity/static-ips#routing-build-traffic).
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fconnectivity&title=)，或在此处[了解详情](https://vercel.com/docs/connectivity/static-ips#routing-build-traffic)。
+{% endraw %}

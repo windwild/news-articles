@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "An update on our mental health-related work | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/update-on-mental-health-related-work"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments."
 tags: ["Safety"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 27, 2026
 
@@ -96,3 +94,4 @@ More information about our safety work can be found here:
 
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)  
 - [用户安全与控制](https://openai.com/news/?tags=user-safety)
+{% endraw %}

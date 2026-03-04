@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New quick actions in Observability - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-quick-actions-in-observability"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Copy, filter, or exclude any value in Observability queries with new one-click actions, making it faster to analyze incoming traffic."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 9, 2025
 
@@ -41,3 +39,4 @@ Now available for Observability and Observability Plus customers.
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%3Fbuilder%3Dtrue%26by%3DprojectId&title=Open+Query+in+Observability) in Observability.
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%3Fbuilder%3Dtrue%26by%3DprojectId&title=Open+Query+in+Observability)可观测性功能。
+{% endraw %}

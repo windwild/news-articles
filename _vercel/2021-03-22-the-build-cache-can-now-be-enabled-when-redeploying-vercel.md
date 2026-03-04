@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The build cache can now be enabled when redeploying - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/the-build-cache-can-now-be-enabled-when-redeploying"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 22, 2021
 
@@ -23,3 +21,4 @@ Mar 22, 2021
 此次更新还对重新部署功能的用户界面进行了优化，更清晰地展示了哪些域名（Domains）将被应用到新的 Deployment 中。
 
 也欢迎查阅[相关文档](https://vercel.com/docs/build-step#caching)。
+{% endraw %}

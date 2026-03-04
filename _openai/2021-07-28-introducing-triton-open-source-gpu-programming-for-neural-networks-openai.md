@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Triton: Open-source GPU programming for neural networks | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/triton"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing Triton 1.0, an open-source Python-like programming language which enables researchers with no CUDA experience to write highly efficient GPU code—most of the time on par with what a..."
 tags: ["Research"]
 ---
+{% raw %}
 
 July 28, 2021
 
@@ -568,3 +568,4 @@ Lin, Y. & Grover, V. (2018). [Using CUDA Warp-Level Primitives⁠(opens in a ne
 
 8. 8
 Braun, M., Buchwald, S., Hack, S., Leißa, R., Mallon, C., & Zwinkau, A. (2013, March). [Simple and efficient construction of static single assignment form⁠(opens in a new window)](https://link.springer.com/chapter/10.1007/978-3-642-37051-9_6). In _International Conference on Compiler Construction_ (pp. 102-122). Springer, Berlin, Heidelberg.
+{% endraw %}

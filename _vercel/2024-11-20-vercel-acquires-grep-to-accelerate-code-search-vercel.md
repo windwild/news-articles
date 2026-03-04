@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel acquires Grep to accelerate code search - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-acquires-grep"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing the acquisition of Grep to further our mission of helping developers work and ship faster. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 20, 2024
 
@@ -55,3 +53,4 @@ Launch](https://grep.app/)
 亲身体验 Grep 为您的工作流带来的速度与简洁性——快速找到您所需的内容。\\
 \\
 立即启动](https://grep.app/)
+{% endraw %}

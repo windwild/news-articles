@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Get started faster with the new Project Creation Flow - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/get-started-faster-with-the-new-project-creation-flow"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 28, 2021
 
@@ -27,3 +25,4 @@ Jul 28, 2021
 这些改进让导入 Git 仓库或从模板全新开始变得更加轻松。立即点击控制台上的 [New Project（新建项目）](https://vercel.com/new) 按钮体验吧！
 
 如果您希望将我们的全新项目创建流程集成到您自己的应用程序或 Git 仓库中，也欢迎查阅 [相关文档](https://vercel.com/docs/more/deploy-button)。
+{% endraw %}

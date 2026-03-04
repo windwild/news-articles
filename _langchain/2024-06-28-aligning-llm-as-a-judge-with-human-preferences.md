@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Aligning LLM-as-a-Judge with Human Preferences"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/aligning-llm-as-a-judge-with-human-preferences/"
@@ -10,8 +9,7 @@ translated: true
 description: "Deep dive into self-improving evaluators in LangSmith, motivated by the rise of LLM-as-a-Judge evaluators plus research on few-shot learning and aligning human preferences."
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Key Links:**
 
@@ -237,3 +235,4 @@ As AI rapidly advances, self-improving evaluators will be crucial in bridging th
 [**LangGraph 平台进入公测阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 分钟阅读
+{% endraw %}

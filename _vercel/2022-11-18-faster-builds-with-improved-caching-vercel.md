@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Faster builds with improved caching - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-builds-with-improved-caching"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 18, 2022
 
@@ -23,3 +21,4 @@ Nov 18, 2022
 该优化主要惠及大型应用，构建速度**最高可提升 45 秒**。
 
 详情请参阅[文档](https://vercel.com/docs/concepts/deployments/troubleshoot-a-build#what-is-cached)。
+{% endraw %}

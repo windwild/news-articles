@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Testimony before the U.S. Senate | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/testimony-of-sam-altman-before-the-us-senate"
@@ -10,6 +9,7 @@ translated: false
 description: "The following is the written testimony of Sam Altman, Chief Executive Officer of OpenAI, before the U.S. Senate Committee on the Judiciary (Subcommittee on Privacy, Technology, & the Law)."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 Submitted: June 22, 2023
 
@@ -290,3 +290,4 @@ An exception is when the user enables the “browsing” feature on ChatGPT to h
 
 
 Testimony before the U.S. Senate \| OpenAI
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using dictionary learning features as classifiers \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/features-as-classifiers"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Interpretability
 
@@ -42,3 +40,4 @@ We tracked 11 observable behaviors across thousands of Claude.ai conversations t
 _At the link above, we report some developing work from the Anthropic interpretability team on developing feature-based classifiers, which might be of interest to researchers working actively in this space. We'd ask you to treat these results like those of a colleague sharing some thoughts or preliminary experiments for a few minutes at a lab meeting, rather than a mature paper._
 
 _在上述链接中，我们汇报了 Anthropic 可解释性团队关于构建基于特征的分类器的一些正在进行的研究工作，这些内容可能对活跃于该领域的研究人员有所启发。我们建议您将这些结果视作一位同事在实验室组会上用几分钟时间分享的一些初步想法或实验探索，而非一篇成熟的学术论文。_
+{% endraw %}

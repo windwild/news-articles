@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Protection against React Router and Remix vulnerabilities - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/protection-against-react-router-and-remix-vulnerabilities-cve-2025-43864"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Security researchers reviewing the Remix web framework have discovered two high-severity vulnerabilities in React Router. Vercel proactively deployed mitigation to the Vercel Firewall and Vercel custo..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 26, 2025
 
@@ -63,3 +61,4 @@ Both issues have been patched in React Router 7.5.2. We recommend updating to th
 If you are using additional layers of caching, including Cloudflare or other CDNs, we recommend purging those caches separately. Thank you to [zhero](https://x.com/zhero___) for disclosing the vulnerability.
 
 如果您使用了额外的缓存层（包括 Cloudflare 或其他 CDN），我们建议您单独清除这些缓存。感谢 [zhero](https://x.com/zhero___) 报告该漏洞。
+{% endraw %}

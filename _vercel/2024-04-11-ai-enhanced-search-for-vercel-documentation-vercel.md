@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI-enhanced search for Vercel documentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-enhanced-search-for-vercel-documentation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 11, 2024
 
@@ -41,3 +39,4 @@ You can now get AI-assisted answers to your questions directly from the Vercel d
 Start searching with `⌘K` (or `Ctrl+K` on Windows) menu on [vercel.com/docs](https://vercel.com/docs).
 
 请在 [vercel.com/docs](https://vercel.com/docs) 页面中，通过 `⌘K`（Windows 系统为 `Ctrl+K`）快捷键打开搜索菜单，立即开始搜索。
+{% endraw %}

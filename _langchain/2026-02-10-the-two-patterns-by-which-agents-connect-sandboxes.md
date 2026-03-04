@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The two patterns by which agents connect sandboxes"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/the-two-patterns-by-which-agents-connect-sandboxes/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Thank you to Nuno Campos from Witan Labs, Tomas Beran and Mikayel Harutyunyan from E2B, Jonathan Wall from Runloop, and Ben Guo from Zo Computer for their review and comments.TL;DR:More and more agent..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Thank you to Nuno Campos from Witan Labs, Tomas Beran and Mikayel Harutyunyan from E2B, Jonathan Wall from Runloop, and Ben Guo from Zo Computer for their review and comments._
 
@@ -300,3 +298,4 @@ Agents need to execute code in isolated environments for security. There are two
 deepagents supports both patterns with simple configuration. [Try it out](https://github.com/langchain-ai/deepagents?ref=blog.langchain.com) to see which pattern works best for your use case.
 
 `deepagents` 通过简洁的配置同时支持这两种模式。[立即试用](https://github.com/langchain-ai/deepagents?ref=blog.langchain.com)，探索哪一种模式更契合您的实际应用场景。
+{% endraw %}

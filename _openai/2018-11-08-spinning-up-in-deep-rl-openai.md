@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Spinning Up in Deep RL | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/spinning-up-in-deep-rl"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re releasing Spinning Up in Deep RL, an educational resource designed to let anyone learn to become a skilled practitioner in deep reinforcement learning. Spinning Up consists of crystal-clear ex..."
 tags: ["Research"]
 ---
+{% raw %}
 
 November 8, 2018
 
@@ -82,3 +82,4 @@ We’ve designed the code for Spinning Up with newcomers in mind, making it shor
 
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

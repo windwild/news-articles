@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New GPT-3 capabilities: Edit & insert | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-3-edit-insert"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve released new versions of GPT-3 and Codex which can edit or insert content into existing text, rather than just completing existing text."
 tags: ["Product"]
 ---
+{% raw %}
 
 March 15, 2022
 
@@ -1044,3 +1044,4 @@ Editing is available as a [specialized endpoint in the API⁠(opens in a new wi
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2022](https://openai.com/news/?tags=2022)
+{% endraw %}

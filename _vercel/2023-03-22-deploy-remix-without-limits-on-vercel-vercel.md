@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deploy Remix without limits on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now has advanced Remix support, including SSR streaming with Edge Functions and multi-runtime support."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 22, 2023
 
@@ -423,3 +421,4 @@ Deploy this template
 Remix Boilerplate
 
 Remix 项目脚手架
+{% endraw %}

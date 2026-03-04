@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing AI agents & services on the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-ai-agents-and-services-on-the-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Discover AI Agents & Services on the Vercel Marketplace. Integrate agentic tools, automate workflows, and build with unified billing and observability."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 23, 2025
 
@@ -58,3 +56,4 @@ This category introduces native support for agentic integrations with unified au
 - [**Descope**](https://vercel.com/marketplace/descope) **：** 面向用户、合作伙伴及 AI 智能体的无代码身份识别与认证工作流
 
 探索 [智能体市场（Agentic Marketplace）](https://vercel.com/marketplace/category/agents)，阅读我们的 [博客文章](https://vercel.com/blog/ai-agents-and-services-on-the-vercel-marketplace)，并查阅 [文档](https://vercel.com/docs/agent-integrations)。
+{% endraw %}

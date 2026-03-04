@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "We're All in This Together - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/we-are-all-in-this-together"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A showcase of projects from the Vercel developer community, built during the COVID-19 pandemic."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 25, 2020
 
@@ -73,3 +71,4 @@ A huge shoutout to the creators behind the incredible projects mentioned in this
 Special thanks to [Evil Rabbit](https://twitter.com/evilrabbit_), [Chris Leishman](https://twitter.com/cleishm), and [Basement](https://twitter.com/basementdot) for their contributions towards this blog post.
 
 特别感谢 [Evil Rabbit](https://twitter.com/evilrabbit_)、[Chris Leishman](https://twitter.com/cleishm) 和 [Basement](https://twitter.com/basementdot) 为本文撰写所作出的贡献。
+{% endraw %}

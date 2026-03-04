@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Flags as Code in Next.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/flags-as-code-in-next-js"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Flags SDK is a free open-source library that gives developers the tools they need to use feature flags in Next.js and SvelteKit applications."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 26, 2024
 
@@ -747,3 +745,4 @@ View the docs](https://flags-sdk.dev/)
 开始在服务端进行实验，获得更优的性能与更流畅的体验。\\
 \\
 查阅文档](https://flags-sdk.dev/)
+{% endraw %}

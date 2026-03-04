@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/retiring-gpt-4o-and-older-models"
@@ -10,8 +9,7 @@ translated: true
 description: "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In ..."
 tags: ["Product"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 2026年1月29日
 
@@ -52,3 +50,4 @@ Changes like this take time to adjust to, and we’ll always be clear about what
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

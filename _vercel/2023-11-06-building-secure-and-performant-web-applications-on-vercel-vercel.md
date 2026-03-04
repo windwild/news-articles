@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building secure and performant web applications on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-secure-and-performant-web-applications-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's Frontend Cloud offers support for deploying complex and dynamic web applications with managed infrastructure so you have control and flexibility without having to worry about configuration an..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 6, 2023
 
@@ -230,3 +228,4 @@ Meet with a web app expert and see how your business can build better applicatio
 
 Let's Talk  
 立即沟通](https://vercel.com/contact)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI o1 and new tools for developers | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/o1-and-new-tools-for-developers"
@@ -10,6 +9,7 @@ translated: false
 description: "Introducing OpenAI o1, Realtime API improvements, a new fine-tuning method and more for developers."
 tags: ["Product"]
 ---
+{% raw %}
 
 
 # OpenAI o1 and new tools for developers
@@ -248,3 +248,4 @@ Have questions? Connect with our team on the [OpenAI Developer Forum⁠(opens in
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Remote Cache SDK is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-remote-cache-sdk-is-now-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 19, 2022
 
@@ -33,3 +31,4 @@ In addition to [Turborepo](https://turborepo.org/), which ships with the Vercel
 Check out our [examples](https://github.com/vercel/remote-cache/tree/main/examples?rgh-link-date=2022-09-19T23%3A37%3A04Z) to get started.
 
 请查看我们的 [示例代码](https://github.com/vercel/remote-cache/tree/main/examples?rgh-link-date=2022-09-19T23%3A37%3A04Z)，快速上手。
+{% endraw %}

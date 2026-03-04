@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deployment Protection now supports protected rewrites - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deployment-protection-now-supports-protected-rewrites"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 11, 2024
 
@@ -31,3 +29,4 @@ Automatic access between protected rewrites is only applicable if you are alread
 Read more about [Deployment Protection](https://vercel.com/docs/security/deployment-protection) in our docs.
 
 请参阅文档中关于 [部署保护（Deployment Protection）](https://vercel.com/docs/security/deployment-protection) 的更多说明。
+{% endraw %}

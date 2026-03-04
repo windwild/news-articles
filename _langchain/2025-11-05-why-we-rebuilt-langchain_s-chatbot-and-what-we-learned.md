@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Why We Rebuilt LangChain’s Chatbot and What We Learned"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/rebuilding-chat-langchain/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T07:19:59.474883507+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _By Liam Bush_
 
@@ -702,3 +700,4 @@ Building agents that balance speed and depth is hard, and we're still learning. 
 Join the LangChain community on our [forum](https://forum.langchain.com/?ref=blog.langchain.com) or follow us on [Twitter](https://twitter.com/LangChainAI?ref=blog.langchain.com).
 
 欢迎加入 LangChain 社区——访问我们的 [论坛](https://forum.langchain.com/?ref=blog.langchain.com)，或在 [Twitter](https://twitter.com/LangChainAI?ref=blog.langchain.com) 上关注我们。
+{% endraw %}

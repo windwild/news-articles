@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Reducing health insurance costs and improving care | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/oscar"
@@ -10,6 +9,7 @@ translated: false
 description: "Oscar brings AI to health insurance, reducing costs and improving patient care."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Oscar
@@ -95,3 +95,4 @@ APIApr 2, 2024](https://openai.com/index/harvey/)
 APIMar 28, 2024](https://openai.com/index/zelma/)
 
 Reducing health insurance costs and improving care \| OpenAI
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Automatically skip unnecessary deployments in monorepos - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatically-skip-unnecessary-deployments-in-monorepos"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 22, 2024
 
@@ -35,3 +33,4 @@ This feature is powered by [Turborepo](https://turbo.build/repo/docs/core-concep
 Learn more about [skipping unaffected projects](https://vercel.com/docs/monorepos#skipping-unaffected-projects).
 
 了解更多关于 [跳过未受影响项目](https://vercel.com/docs/monorepos#skipping-unaffected-projects) 的信息。
+{% endraw %}

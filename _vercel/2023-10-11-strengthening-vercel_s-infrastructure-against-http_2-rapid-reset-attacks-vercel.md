@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Strengthening Vercel's Infrastructure against HTTP/2 Rapid Reset Attacks - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/strengthening-vercels-infrastructure-against-http-2-rapid-reset-attacks"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 11, 2023
 
@@ -39,3 +37,4 @@ Combining our existing system with new improvements, all applications on Vercel 
 We want to assure you that your web assets are protected against the HTTP/2 Rapid Reset Attack. We're committed to consistently improving our security measures in response to new threats to ensure safety and reliability for all users.
 
 我们谨向您保证：您的 Web 资产已受到针对 HTTP/2 快速重置攻击的有效保护。我们将持续响应新型安全威胁，不断优化安全机制，全力保障所有用户的安全性与可靠性。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Semi-supervised knowledge transfer for deep learning from private training data | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/semi-supervised-knowledge-transfer-for-deep-learning-from-private-training-data"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 October 18, 2016
 
@@ -30,3 +30,4 @@ To address this problem, we demonstrate a generally applicable approach to provi
 Compared with previous work, the approach imposes only weak assumptions on how teachers are trained: it applies to any model, including non-convex models like DNNs. We achieve state-of-the-art privacy/utility trade-offs on MNIST and SVHN thanks to an improved privacy analysis and semi-supervised learning.
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Testing Fine Tuned Open Source Models in LangSmith"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/testing-fine-tuned-open-source-models-in-langsmith/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:35:25.890508997+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note. This blog post was written by [_Ryan Brandt_](https://twitter.com/dexter_brandt?ref=blog.langchain.com), the CTO and Cofounder of [_ChatOpenSource_](https://blog.langchain.com/testing-fine-tuned-open-source-models-in-langsmith/www.chatopensource.com), a business specializing in enterprise AI chat that runs entirely within an orgs network, no third party needed. He covers how he uses LangSmith,_ _LangChain's platform for getting LLM applications to production. Sign up for access [_here_](https://smith.langchain.com/?ref=blog.langchain.com)._
 
@@ -274,3 +272,4 @@ You can see how we generated this using chatgpt [here](https://chat.openai.com/s
 We also run [**ChatOpenSource**](https://www.chatopensource.com/?ref=blog.langchain.com) **,** a fully data private and auditable chat replacement for ChatGPT for enterprises. Companies can easily configure documents and data so only the right team can ask about them, and no data ever leaves the company environment. [Book a quick call with us to learn more](https://calendly.com/chatopensource/30min?ref=blog.langchain.com)!
 
 我们还运营着 [**ChatOpenSource**](https://www.chatopensource.com/?ref=blog.langchain.com)，这是一款面向企业的、完全保障数据隐私且可审计的 ChatGPT 替代方案。企业可轻松配置文档与数据权限，确保仅授权团队成员可就相关内容提问，且所有数据均严格保留在企业内部环境，永不外泄。[立即预约一次简短咨询，深入了解详情](https://calendly.com/chatopensource/30min?ref=blog.langchain.com)！
+{% endraw %}

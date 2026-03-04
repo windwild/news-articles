@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Expanded Role-Based Access Control (RBAC) for Enterprise teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/expanded-role-based-access-control-rbac-for-enterprise-teams"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel’s Role-Based Access Control (RBAC) system now supports multiple roles per user and introduces extended permissions for finer-grained access control across Enterprise teams."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Oct 10, 2025
 
@@ -61,3 +59,4 @@ Extended permissions apply when paired with a compatible team role.
 Learn more in the [Role-Based Access Control documentation.](https://vercel.com/docs/rbac/access-roles/extended-permissions)
 
 更多详情，请参阅 [基于角色的访问控制（RBAC）文档](https://vercel.com/docs/rbac/access-roles/extended-permissions)。
+{% endraw %}

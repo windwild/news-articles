@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing OpenAI o3 and o4-mini | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-o3-and-o4-mini"
@@ -10,6 +9,7 @@ translated: false
 description: "Our smartest and most capable models to date with full tool access"
 tags: ["Release"]
 ---
+{% raw %}
 
 April 16, 2025
 
@@ -465,3 +465,4 @@ Play video
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Framework](https://openai.com/research/index/?tags=framework)
 - [2025](https://openai.com/research/index/?tags=2025)
+{% endraw %}

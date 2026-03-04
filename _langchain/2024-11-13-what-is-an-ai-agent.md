@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "What is an AI agent?"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/what-is-an-agent/"
@@ -10,8 +9,7 @@ translated: true
 description: "Introducing a new series of musings on AI agents, called \"In the Loop\"."
 tags: ["Harrison Chase", "Harrison's Hot Takes"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _“What is an agent?”_
 
@@ -194,3 +192,4 @@ To me, the more agentic your application is, the more critical it is to have new
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 min read
 
 [Harrison 的热点评论](https://blog.langchain.com/tag/in-the-loop/) 阅读时长：4 分钟
+{% endraw %}

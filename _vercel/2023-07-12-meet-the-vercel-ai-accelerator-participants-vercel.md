@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Meet the Vercel AI Accelerator Participants - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-accelerator-participants"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Meet the 40 startups and builders of the Vercel AI Accelerator."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 12, 2023
 
@@ -150,3 +148,4 @@ Deploy this template
 AI Photo Restorer
 
 AI 照片修复工具
+{% endraw %}

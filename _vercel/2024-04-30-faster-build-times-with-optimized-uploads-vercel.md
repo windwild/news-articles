@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Faster build times with optimized uploads - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-build-times-with-optimized-uploads"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 30, 2024
 
@@ -27,3 +25,4 @@ For customers with large builds (10,000 outputs or more), upload times have decr
 Learn more about builds in [our documentation](https://vercel.com/docs/deployments/builds).
 
 有关构建的更多信息，请参阅我们的[文档](https://vercel.com/docs/deployments/builds)。
+{% endraw %}

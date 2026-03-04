@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel security roundup: improved bot defenses, DoS mitigations, and insights - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-security-roundup-improved-bot-defenses-dos-mitigations-and-insights"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Since February, Vercel blocked over 148 billion attacks from 108 million IPs. This roundup highlights improvements to bot protection, DoS mitigation, and firewall tooling to help teams build securely ..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 23, 2025
 
@@ -207,3 +205,4 @@ We're also expanding our team to continue enhancing the security and availabilit
 Vercel 防火墙提供多层防护，抵御应用层攻击、DDoS 威胁及恶意机器人。访问我们的安全页面，立即预约演示或添加防火墙规则。  
 \\  
 了解更多](https://vercel.com/security)
+{% endraw %}

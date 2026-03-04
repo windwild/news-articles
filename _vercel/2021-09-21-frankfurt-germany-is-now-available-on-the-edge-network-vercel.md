@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Frankfurt (Germany) is now available on the Edge Network - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/frankfurt-germany-is-now-available-on-the-edge-network"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 21, 2021
 
@@ -23,3 +21,4 @@ Sep 21, 2021
 静态文件以及您的 Serverless Functions 的响应现在将自动在此区域缓存。此外，Pro 和 Enterprise 团队可在项目设置（Project Settings）的对应页面中，自主选择 Serverless Functions 的运行区域。
 
 也欢迎查阅[相关文档](https://vercel.com/docs/functions/regions)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Zep x LangChain: Diagnosing and Fixing Slow Chatbots"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/zep-x-langchain-slow-chatbots/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T09:26:40.386873146+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **_Editor’s Note: This blog post was written in collaboration with [Zep](https://www.getzep.com/?ref=blog.langchain.com), an early [LangSmith](https://www.langchain.com/langsmith?ref=blog.langchain.com) BETA user. We've fielded a lot of questions about the latency of LangChain applications - where it comes from, how to improve. This is a FANTASTIC walkthrough of how LangSmith allows you to easily diagnose the causes of latency in your app, and how different components of the LangChain ecosystem (in this case, Zep) can be used to improve it._**
 
@@ -238,3 +236,4 @@ All tests were run 5 times consecutively. All runs started with a new vector DB 
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
+{% endraw %}

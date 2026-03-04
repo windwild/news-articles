@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing AI Integrations on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-integrations"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI Integrations on Vercel"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 8, 2024
 
@@ -175,3 +173,4 @@ Get Started](https://vercel.com/docs/integrations/ai)
 探索、预览，并无缝将 AI 模型与数据库集成至您的 Vercel 项目中。\\
 \\
 立即开始](https://vercel.com/docs/integrations/ai)
+{% endraw %}

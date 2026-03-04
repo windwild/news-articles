@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Astro projects can now be deployed with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/astro-projects-can-now-be-deployed-with-zero-configuration"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 19, 2022
 
@@ -25,3 +23,4 @@ Vercel 现已支持自动优化您的 [Astro](https://astro.build/) 项目。在
 Deploy the [Astro template](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fastro&template=astro&id=67753070&b=main&from=templates) to get started.
 
 请部署 [Astro 模板](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fastro&template=astro&id=67753070&b=main&from=templates) 快速开始。
+{% endraw %}

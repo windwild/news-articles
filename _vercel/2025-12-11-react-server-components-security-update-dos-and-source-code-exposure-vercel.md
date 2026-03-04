@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "React Server Components security update: DoS and Source Code Exposure - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/react-server-components-security-update-dos-and-source-code-exposure"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Two additional vulnerabilities in React Server Components have been identified: CVE-2025-55184 and CVE-2025-55183"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 11, 2025
 
@@ -127,3 +125,4 @@ Thanks to [RyotaK](https://ryotak.net/) from GMO Flatt Security Inc. and [Andrew
 - [React security advisory (CVE-2025-55184)](https://www.cve.org/CVERecord?id=CVE-2025-55184)
 
 - [React 安全公告（CVE-2025-55184）](https://www.cve.org/CVERecord?id=CVE-2025-55184)
+{% endraw %}

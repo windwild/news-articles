@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Animator Lyndon Barrois creates new worlds with Sora | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/sora-lyndon-barrois"
@@ -10,6 +9,7 @@ translated: false
 description: "Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool."
 tags: ["Story"]
 ---
+{% raw %}
 
 December 9, 2024
 
@@ -24,3 +24,4 @@ December 9, 2024
 Lyndon Barrois, Artist
 
 Animator Lyndon Barrois creates new worlds with Sora \| OpenAI
+{% endraw %}

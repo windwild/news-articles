@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangGraph v0.2: Increased customization with new checkpointer libraries"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langgraph-v0-2/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "LangGraph v0.2 includes new checkpointer libraries for increased customization — including a SQLite checkpointer for local workflows and an optimized Postgres checkpointer to take your app to produ..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Today, we’re excited to announce the stable release of LangGraph v0.2, which introduces a new ecosystem of LangGraph checkpointer libraries. These simplify the creation and customization of checkpointers, which allows users to build more resilient LLM applications with smooth session memory, robust error recovery, and human-in-the-loop features.
 
@@ -202,3 +200,4 @@ We are incredibly grateful to our community and users for pushing us and buildin
 
 - [LangGraph webpage (with FAQs)](https://www.langchain.com/langgraph?ref=blog.langchain.com)  
 - [LangGraph 官网（含常见问题解答）](https://www.langchain.com/langgraph?ref=blog.langchain.com)
+{% endraw %}

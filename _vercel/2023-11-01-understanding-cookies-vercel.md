@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Understanding cookies - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/understanding-cookies"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how cookies function, how they are used by websites, and the importance of managing them for privacy and security."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 1, 2023
 
@@ -117,3 +115,4 @@ By clicking on a domain, you can view all the cookies set by that domain in a ta
 This interface provides real-time updates, allowing you to monitor cookies as they are created, modified, or deleted while interacting with the web application. This makes it easier to troubleshoot issues such as incorrect cookie settings, session persistence problems, or any unexpected behavior related to cookie-based authentication. You can even manipulate cookie values or attributes directly within the Developer Tools, enabling you to simulate different scenarios and conduct thorough cookie testing and debugging.
 
 该界面支持实时更新，让您能在与 Web 应用交互过程中，即时监控 Cookie 的创建、修改与删除行为。这有助于快速排查诸如 Cookie 配置错误、会话持久性异常，或基于 Cookie 的身份认证出现的任何意外行为等问题。您甚至可以直接在开发者工具中修改 Cookie 的值或属性，从而模拟不同场景，开展全面的 Cookie 测试与调试工作。
+{% endraw %}

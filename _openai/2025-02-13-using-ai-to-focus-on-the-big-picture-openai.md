@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using AI to focus on the big picture | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/fanatics-betting-gaming-andrea-ellis"
@@ -10,6 +9,7 @@ translated: false
 description: "A conversation with Andrea Ellis, Chief Financial Officer of Fanatics Betting and Gaming."
 tags: ["Story"]
 ---
+{% raw %}
 
 February 13, 2025
 
@@ -107,3 +107,4 @@ _Fanatics Betting and Gaming uses ChatGPT and multiple custom GPTs across its fi
 - [Technology](https://openai.com/stories/?tags=industry-technology)
 - [Retail](https://openai.com/stories/?tags=industry-retail)
 - [Services](https://openai.com/stories/?tags=industry-services)
+{% endraw %}

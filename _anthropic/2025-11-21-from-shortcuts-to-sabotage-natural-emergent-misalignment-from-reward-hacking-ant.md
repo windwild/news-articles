@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "From shortcuts to sabotage: natural emergent misalignment from reward hacking \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/emergent-misalignment-reward-hacking"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -156,3 +154,4 @@ Although we don’t think the misaligned models we trained in this way are actua
 Read [the full paper](https://assets.anthropic.com/m/74342f2c96095771/original/Natural-emergent-misalignment-from-reward-hacking-paper.pdf).
 
 请阅读[完整论文](https://assets.anthropic.com/m/74342f2c96095771/original/Natural-emergent-misalignment-from-reward-hacking-paper.pdf)。
+{% endraw %}

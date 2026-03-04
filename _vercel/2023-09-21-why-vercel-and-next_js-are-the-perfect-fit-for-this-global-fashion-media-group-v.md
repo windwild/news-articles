@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Why Vercel and Next.js are the perfect fit for this global fashion media group - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/why-vercel-and-next-js-are-the-perfect-fit-for-this-global-fashion-media"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "l'officiel"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 21, 2023
 
@@ -173,3 +171,4 @@ Get in Touch](https://vercel.com/contact/sales)
 联系专家，了解如何即刻开启 Vercel 之旅。\\
 \\
 立即联系](https://vercel.com/contact/sales)
+{% endraw %}

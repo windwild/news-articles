@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Agent skills explained: An FAQ - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/agent-skills-explained-an-faq"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A plainspoken Skills FAQ with a ready-to-use guide: what skill packages are, how agents load them, what skills-ai.dev is, how Skills compare to MCP, plus security and alternatives."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 26, 2026
 
@@ -458,3 +456,4 @@ They also make it easier to improve over time. You can ship a better workflow as
 - [npx skills](https://www.npmjs.com/package/skills): 面向开放智能体技能生态系统的命令行工具（CLI）
 
 - [npx skills](https://www.npmjs.com/package/skills)：开放智能体技能生态系统的命令行工具（CLI）
+{% endraw %}

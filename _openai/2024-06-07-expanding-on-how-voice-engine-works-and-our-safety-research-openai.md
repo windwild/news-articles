@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Expanding on how Voice Engine works and our safety research | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research"
@@ -10,6 +9,7 @@ translated: false
 description: "Exploring the technology behind our text-to-speech model."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 June 7, 2024
 
@@ -70,3 +70,4 @@ Consistent with our cautious approach to releasing Voice Engine, we will restric
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Framework](https://openai.com/news/?tags=framework)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Transforming customer support with AI: How Vercel decreased tickets by 31% - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/transforming-customer-support-with-ai-how-vercel-decreased-tickets"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "At Vercel, we integrated AI into our support workflow. Our AI agent reduced human-handled tickets by 31%, allowing us to maintain high support standards while serving a growing customer base."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 3, 2024
 
@@ -163,3 +161,4 @@ Apr 9, 2024
 Malte Ubl
 
 马尔特·乌布爾
+{% endraw %}

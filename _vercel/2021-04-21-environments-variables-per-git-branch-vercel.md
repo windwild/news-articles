@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Environments Variables per Git branch - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/environments-variables-per-git-branch"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 21, 2021
 
@@ -29,3 +27,4 @@ Apr 21, 2021
 此前我们引入了 _由系统提供（Provided by System）_ 这一选项，是因为某些框架（如 Next.js）需将系统变量（例如 `VERCEL_URL`）映射为带框架前缀的变量（例如 `NEXT_PUBLIC_VERCEL_URL`）。如今您无需再手动配置此类映射，因为 **系统会根据您所选的框架预设（Framework Preset）自动添加带前缀的变量**。
 
 请参阅 [相关文档](https://vercel.com/docs/environment-variables) 以了解更多信息。
+{% endraw %}

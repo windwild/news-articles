@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How ServiceNow uses LangSmith to get visibility into its customer success agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-servicenow/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **Authors:** _Ganesh Srinivasan (ServiceNow), Linda Ye (LangChain), and Jake Broekhuizen (LangChain)_
 
@@ -223,3 +221,4 @@ ServiceNow 借助 LangChain 平台，成功应对了智能体编排（agent orch
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 分钟阅读
 
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 分钟阅读
+{% endraw %}

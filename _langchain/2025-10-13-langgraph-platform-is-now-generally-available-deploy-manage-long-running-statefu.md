@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangGraph Platform is now Generally Available: Deploy & manage long-running, stateful Agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langgraph-platform-ga/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "LangGraph Platform, our infrastructure for deploying and managing agents at scale, is now generally available. Learn how to deploy"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Note: As of October 2025, LangGraph Platform has been re-named to "LangSmith Deployment"._
 
@@ -160,3 +158,4 @@ LangGraph Platform 是开发、部署和管理长期运行、有状态智能体�
 如需了解更多信息，请访问 [LangGraph Platform 官方网页](http://www.langchain.com/langgraph-platform?ref=blog.langchain.com)。我们热切期待看到您的智能体能跑得多远！  
 
 如需了解更多信息，请访问 [LangGraph Platform 官方网页](http://www.langchain.com/langgraph-platform?ref=blog.langchain.com)。我们热切期待看到您的智能体能跑得多远！
+{% endraw %}

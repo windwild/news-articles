@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A Holistic Approach to Undesired Content Detection in the Real World | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world"
@@ -10,6 +9,7 @@ translated: false
 description: "We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation."
 tags: ["Research"]
 ---
+{% raw %}
 
 June 20, 2024
 
@@ -24,3 +24,4 @@ We present a holistic approach to building a robust and useful natural language 
 
 - [Language](https://openai.com/research/index/?tags=language)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
+{% endraw %}

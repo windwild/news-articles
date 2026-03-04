@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Nuxt analytics available on Vercel Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/nuxt-analytics-available-on-vercel-analytics"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 26, 2021
 
@@ -45,3 +43,4 @@ Once deployed, your application will automatically report [Core Web Vitals](htt
 [Check out the documentation](https://vercel.com/docs/analytics?utm_source=vercel&utm_medium=changelog&utm_campaign=nuxtanalytics) as well.
 
 也欢迎查阅 [完整文档](https://vercel.com/docs/analytics?utm_source=vercel&utm_medium=changelog&utm_campaign=nuxtanalytics)。
+{% endraw %}

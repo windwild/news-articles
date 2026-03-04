@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved Speed Insights experience - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-speed-insights-experience"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 7, 2023
 
@@ -57,3 +55,4 @@ Speed Insights 在所有套餐中均可用：[https://vercel.com/docs/speed-insi
 Learn more about [upgrading to the new package](https://vercel.com/docs/speed-insights/migrating-from-legacy) and see how to take advantage of the new features.
 
 了解更多关于[升级至新版本包](https://vercel.com/docs/speed-insights/migrating-from-legacy)的信息，并查看如何充分利用新功能。
+{% endraw %}

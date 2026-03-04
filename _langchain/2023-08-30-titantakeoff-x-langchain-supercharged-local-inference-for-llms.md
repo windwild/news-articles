@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "TitanTakeoff x LangChain: Supercharged Local Inference for LLMs"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/titantakeoff-x-langchain-supercharged-local-inference-for-llms-2/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:48:07.225197117+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written in collaboration with the [TitanML](https://www.titanml.co/?ref=blog.langchain.com) team. The integration between their NLP development platform + LangChain makes inference LLMs super easy!_
 
@@ -108,3 +106,4 @@ TitanML 的 Takeoff 服务器与 LangChain 的集成，标志着语言模型驱�
 _Our_ [_documentation_](https://docs.titanml.co/docs/category/titan-takeoff?ref=blog.langchain.com) _and_ [_Discord community_](https://discord.com/invite/gn7FYXxd?ref=blog.langchain.com) _are here to support you._
 
 _我们的_[_文档_](https://docs.titanml.co/docs/category/titan-takeoff?ref=blog.langchain.com)_与_[_Discord 社区_](https://discord.com/invite/gn7FYXxd?ref=blog.langchain.com)_随时为您提供支持。_
+{% endraw %}

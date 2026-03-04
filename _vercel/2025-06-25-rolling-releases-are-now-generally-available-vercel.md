@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Rolling Releases are now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/rolling-releases-are-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Rolling Releases are now generally available, enabling incremental rollouts of new production deployments. Advance through defined rollout stages for safer deploys. Available now for Pro and Enterpris..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 25, 2025
 
@@ -49,3 +47,4 @@ Pro 和 Enterprise 团队可在单个项目中免费启用滚动发布功能；E
 Learn more about [Rolling Releases](https://vercel.com/docs/rolling-releases) or [enable it on your project](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment&title=Go+to+Rolling+Releases).
 
 了解更多关于 [滚动发布（Rolling Releases）](https://vercel.com/docs/rolling-releases) 的信息，或立即 [在您的项目中启用该功能](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment&title=Go+to+Rolling+Releases)。
+{% endraw %}

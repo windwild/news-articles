@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Delivering nuanced insights from customer feedback | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/yabble"
@@ -10,6 +9,7 @@ translated: false
 description: "Using GPT-3 to deliver fast, nuanced insights from customer feedback."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Yabble
@@ -83,3 +83,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Delivering nuanced insights from customer feedback \| OpenAI
+{% endraw %}

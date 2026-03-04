@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Add context when using Instant Rollback - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-instant-rollback-flow"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now share a description with the rest of your team when you perform an Instant Rollback. Share links to incident management tools or discussion channels so everyone has the context they need."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 11, 2025
 
@@ -29,3 +27,4 @@ This message is visible to your team in the project overview and can include lin
 Learn more about [Instant Rollback](https://vercel.com/docs/instant-rollback).
 
 了解更多关于[即时回滚（Instant Rollback）](https://vercel.com/docs/instant-rollback)的信息。
+{% endraw %}

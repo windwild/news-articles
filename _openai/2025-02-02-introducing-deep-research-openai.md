@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing deep research | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-deep-research"
@@ -12,6 +11,7 @@ description: "An agent that uses reasoning to synthesize large amounts of online
 "
 tags: ["Research"]
 ---
+{% raw %}
 
 February 2, 2025
 
@@ -569,3 +569,4 @@ Play video
 
 1. 1
 We found that the ground-truth answers for this dataset were widely leaked online and have blocked several websites or URLs accordingly to ensure a fair evaluation of the model.
+{% endraw %}

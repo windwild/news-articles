@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Learning a hierarchy | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/learning-a-hierarchy"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve developed a hierarchical reinforcement learning algorithm that learns high-level actions useful for solving a range of tasks, allowing fast solving of tasks requiring thousands of timesteps. O..."
 tags: ["Research"]
 ---
+{% raw %}
 
 October 26, 2017
 
@@ -59,3 +59,4 @@ We’re releasing the [code⁠(opens in a new window)](https://github.com/opena
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

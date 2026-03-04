@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Chat with your data using OpenAI, Pinecone, Airbyte and Langchain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/chat-with-your-data-using-openai-pinecone-airbyte-langchain/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:26:22.117925210+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **_Editor’s Note: This blog post was written in collaboration with_** [**_Airbyte_**](https://airbyte.com/?ref=blog.langchain.com) **_. Their_** [**_new vector database destination_**](https://docs.airbyte.com/integrations/destinations/langchain/?ref=blog.langchain.com) **_makes it really easy for data to retrieve relevant context for question answering use cases via LangChain. We're seeing more and more teams seek ways to integrate diverse data sources–and keep them up-to-date automatically–and this is a fantastic way to do it!_**
 
@@ -720,3 +718,4 @@ If you are interested in leveraging Airbyte to ship data to your LLM-based appli
 [![LangChain Expression Language](images/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain/img_022.jpg)](https://blog.langchain.com/langchain-expression-language/)
 
 [**LangChain 表达式语言（LangChain Expression Language）**](https://blog.langchain.com/langchain-expression-language/)
+{% endraw %}

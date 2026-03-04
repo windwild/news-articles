@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using the latest Next.js 12.3 features on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/using-the-latest-next-js-12-3-features-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel natively supports and extends Next.js 12.3, allowing teams to improve their workflow and iterate faster."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Sep 13, 2022
 
@@ -146,3 +144,4 @@ For more insights on the future of layouts and more in Next.js, you’re invited
 - And in the meantime, explore the power of Next.js 12.3 on Vercel, get started with our [Next.js template](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fnextjs&template=nextjs&id=67753070&b=main&from=templates).
 
 - 此外，您可立即在 Vercel 上体验 Next.js 12.3 的强大能力——从我们的 [Next.js 模板](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fnextjs&template=nextjs&id=67753070&b=main&from=templates) 开始您的项目。
+{% endraw %}

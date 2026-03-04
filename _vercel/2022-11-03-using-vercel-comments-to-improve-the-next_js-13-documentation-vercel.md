@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Using Vercel comments to improve the Next.js 13 documentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/using-vercel-comments-to-improve-the-next-js-13-documentation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Help us build the Next.js 13 documentation by commenting directly on the docs themselves."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 3, 2022
 
@@ -100,3 +98,4 @@ Using comments on the Next.js docs is just one example of this feature in action
 To get started use a [template](https://vercel.com/templates) or sign up for a [free Vercel account](https://vercel.com/signup).
 
 立即开始：使用一个 [模板](https://vercel.com/templates)，或注册一个 [免费的 Vercel 账户](https://vercel.com/signup)。
+{% endraw %}

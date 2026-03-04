@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel AI SDK 3.3 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-ai-sdk-3-3"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel AI SDK 3.3 introduces tracing, multi-modal attachments, JSON streaming to clients, and more."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 6, 2024
 
@@ -821,3 +819,4 @@ Special thanks for contributing merged pull requests:
 Your feedback and contributions are invaluable as we continue to evolve the SDK.
 
 您宝贵的反馈与贡献，对我们持续完善 SDK 至关重要。
+{% endraw %}

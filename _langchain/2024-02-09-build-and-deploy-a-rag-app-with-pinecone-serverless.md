@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Build and deploy a RAG app with Pinecone Serverless"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/pinecone-serverless/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 ## Key Links
 
@@ -182,3 +180,4 @@ We see demand for tools that bridge the gap between prototyping and production. 
 [**LangGraph Platform in beta: New deployment options for scalable agent infrastructure**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [**LangGraph 平台进入 Beta 测试阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
+{% endraw %}

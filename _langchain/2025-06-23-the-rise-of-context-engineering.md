@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The rise of \"context engineering\""
 source: "LangChain Blog"
 url: "https://blog.langchain.com/the-rise-of-context-engineering/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Header image from_ [_Dex Horthy on Twitter_](https://x.com/dexhorthy/status/1933283008863482067?ref=blog.langchain.com) _._
 
@@ -271,3 +269,4 @@ Context engineering isn't a new idea - agent builders have been doing it for the
 [**又一个工作流构建器？不。**](https://blog.langchain.com/not-another-workflow-builder/)
 
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 分钟阅读
+{% endraw %}

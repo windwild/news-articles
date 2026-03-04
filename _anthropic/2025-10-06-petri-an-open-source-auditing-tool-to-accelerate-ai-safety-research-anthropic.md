@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Petri: An open-source auditing tool to accelerate AI safety research \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/petri-open-source-auditing"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A new automated auditing tool for AI safety research"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Alignment
 
@@ -221,3 +219,4 @@ _\*Anthropic 研究员计划成员_
 > year={2025},
 > url={https://github.com/safety-research/petri},
 > }`
+{% endraw %}

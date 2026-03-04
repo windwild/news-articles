@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI DevDay is back and bigger than ever | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/announcing-devday-2025"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI DevDay returns on October 6, 2025 in San Francisco—bringing together 1,500+ developers to preview new tools, hear from OpenAI leaders, and shape the future of AI."
 ---
+{% raw %}
 
 July 23, 2025
 
@@ -37,3 +37,4 @@ For more information, visit [devday.openai.com⁠(opens in a new window)](http:/
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Events](https://openai.com/news/?tags=events)
+{% endraw %}

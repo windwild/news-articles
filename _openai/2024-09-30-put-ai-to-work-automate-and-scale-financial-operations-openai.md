@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Put AI to work: Automate and Scale Financial Operations | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations"
@@ -10,6 +9,7 @@ translated: false
 description: "Put AI to work: Automate and Scale Financial Operations"
 tags: ["Webinar"]
 ---
+{% raw %}
 
 Recorded: September 30, 2024
 
@@ -25,3 +25,4 @@ Automate and scale financial operations.
 00:0030:13
 
 Put AI to work: Automate and Scale Financial Operations \| OpenAI
+{% endraw %}

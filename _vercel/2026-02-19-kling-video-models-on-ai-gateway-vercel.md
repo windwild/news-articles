@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Kling video models on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/kling-video-models-on-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Generate AI videos with Kling models via the AI Gateway. Text-to-video with audio, image-to-video with first/last frame control, and motion transfer. 7 models including v3.0, v2.6, and turbo variants."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 19, 2026
 
@@ -321,3 +319,4 @@ const { videos } = await generateVideo({
 For more examples and detailed configuration options for Kling models, check out the [Video Generation Documentation](https://vercel.com/docs/ai-gateway/capabilities/video-generation). You can also find simple getting started scripts with the [Video Generation Quick Start](https://vercel.com/docs/ai-gateway/getting-started/video).
 
 如需了解 Kling 模型的更多示例及详细配置选项，请参阅[视频生成文档](https://vercel.com/docs/ai-gateway/capabilities/video-generation)。您还可以通过[视频生成快速入门](https://vercel.com/docs/ai-gateway/getting-started/video)获取简易的入门脚本。
+{% endraw %}

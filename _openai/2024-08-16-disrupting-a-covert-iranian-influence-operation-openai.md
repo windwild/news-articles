@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Disrupting a covert Iranian influence operation  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/disrupting-a-covert-iranian-influence-operation"
@@ -10,6 +9,7 @@ translated: false
 description: "We banned accounts linked to a covert Iranian influence operation using ChatGPT to generate website and social media content focused on multiple topics, including the U.S. presidential campaign. We ha..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 August 16, 2024
 
@@ -57,3 +57,4 @@ _Domains connected with this activity:_
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

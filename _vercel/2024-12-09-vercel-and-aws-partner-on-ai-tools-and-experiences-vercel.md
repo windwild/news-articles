@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel and AWS partner on AI tools and experiences - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-and-aws-partner-on-ai-tools-and-experiences"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel has been selected for a Strategic Collaboration Agreement (SCA) partnership with AWS—to deliver the next generation of AI-enabled developer tools"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 9, 2024
 
@@ -132,3 +130,4 @@ As an AWS Retail and Consumer Goods Partner, Vercel is providing customers with 
 Together, Vercel and AWS can create the optimal path for developers by combining Vercel's [framework-defined infrastructure](https://vercel.com/blog/framework-defined-infrastructure) with AWS's comprehensive cloud capabilities. This partnership gives developers access to essential tools for building the best experiences in AI, ecommerce, and more.
 
 Vercel 与 AWS 携手合作，将 Vercel 的[框架定义基础设施（Framework-Defined Infrastructure）](https://vercel.com/blog/framework-defined-infrastructure) 与 AWS 全面的云服务能力深度融合，共同为开发者打造最优开发路径。这一合作使开发者能够便捷获取构建 AI、电商及其他关键场景最佳用户体验所必需的核心工具。
+{% endraw %}

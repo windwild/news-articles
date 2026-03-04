@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Benchmarking Single Agent Performance"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/react-agent-benchmarking/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We explore how increasing the number of instructions and tools available to a single ReAct agent affects its performance, benchmarking models like claude-3.5-sonnet, gpt-4o, o1, and o3-mini across two..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Over the past year, there has been growing excitement in the AI community around LLM-backed agents. What remains relatively unanswered and unstudied, is the question of “which agentic architectures are best for which use cases”. Can I use a single agent with access to a lot of tools, or should I try setting up a multi-agent architecture with clearer domains of responsibility?
 
@@ -446,3 +444,4 @@ So far, we have also only explored tasks that require a single domain of knowled
 To benchmark this, we will continue to build up new domains of test cases in addition to calendar scheduling and customer support for our email assistant to handle.
 
 为对此开展基准测试，我们将持续扩充测试用例所覆盖的新领域，除日历调度（calendar scheduling）和客户支持（customer support）外，进一步拓展邮件助手（email assistant）所能处理的任务范围。
+{% endraw %}

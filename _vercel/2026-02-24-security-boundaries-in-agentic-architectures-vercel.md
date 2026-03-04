@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Security boundaries in agentic architectures - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/security-boundaries-in-agentic-architectures"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "A framework for drawing security boundaries in agentic architectures. Most agents run with zero isolation between the agent and the code it generates. Learn where to draw the boundaries, from secret i..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 24, 2026
 
@@ -258,3 +256,4 @@ This separation of agent compute from sandbox compute will become the standard a
 Safe secret injection is now [available on Vercel Sandbox](https://vercel.com/changelog/safely-inject-credentials-in-http-headers-with-vercel-sandbox), read more in the [documentation](https://vercel.com/docs/vercel-sandbox/concepts/firewall#credentials-brokering).
 
 安全的密钥注入功能现已在 [Vercel Sandbox](https://vercel.com/changelog/safely-inject-credentials-in-http-headers-with-vercel-sandbox) 中上线，更多详情请参阅 [官方文档](https://vercel.com/docs/vercel-sandbox/concepts/firewall#credentials-brokering)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI Gateway is now in Beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-gateway-is-now-in-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI Gateway is now in Beta, giving you a single endpoint to access a wide range of AI models across providers, with better uptime, faster responses, no lock-in."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 25, 2025
 
@@ -45,3 +43,4 @@ Now in [Beta](https://vercel.com/docs/release-phases#public-beta), developers ca
 - 更高的吞吐量与调用频率限制
 
 [Try AI Gateway](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fai&title=Try+AI+Gateway) 免费试用，或 [查看文档](https://vercel.com/docs/ai-gateway) 了解更多信息。
+{% endraw %}

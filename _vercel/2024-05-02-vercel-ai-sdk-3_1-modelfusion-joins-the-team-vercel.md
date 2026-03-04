@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel AI SDK 3.1: ModelFusion joins the team - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-ai-sdk-3-1-modelfusion-joins-the-team"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "ModelFusion joins Vercel "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 May 2, 2024
 
@@ -717,3 +715,4 @@ Get started](https://vercel.com/contact)
 联系我们的团队，深入了解如何为您的组织构建 AI 驱动的应用程序。\\
 \\
 立即开始](https://vercel.com/contact)
+{% endraw %}

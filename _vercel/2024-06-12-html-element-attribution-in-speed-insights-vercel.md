@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "HTML element attribution in Speed Insights - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/html-element-attribution-in-speed-insights"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 12, 2024
 
@@ -31,3 +29,4 @@ Speed Insights 现在会显示导致评分偏低的具体 HTML 元素，帮助�
 该功能面向所有使用 Speed Insights 的客户开放。
 
 [开始使用 Speed Insights](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fspeed-insights&title=Go+to+Speed+Insighs)
+{% endraw %}

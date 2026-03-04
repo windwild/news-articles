@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Rust runtime now in public beta for Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/rust-runtime-now-in-public-beta-for-vercel-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Rust runtime is now available in public beta for Vercel Functions. Now powered by Fluid compute."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 8, 2025
 
@@ -113,3 +111,4 @@ async fn handler(_req: Request) -> Result<Value, Error> {
 ```
 
 立即使用我们的入门模板将应用部署到 Vercel：[Rust Hello World](https://vercel.com/templates/template/rust-hello-world) 和 [Rust Axum](https://vercel.com/templates/template/rust-axum)，或在 [函数文档](https://vercel.com/docs/functions/runtimes/rust) 中了解更多信息。
+{% endraw %}

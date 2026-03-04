@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Your guide to headless commerce - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/your-guide-to-headless-commerce"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Curious about headless commerce? Learn all about going headless with a composable stack so you can boost developer velocity, conversions, and more."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 27, 2023
 
@@ -417,3 +415,4 @@ Nov 30, 2022
 Greta Workman
 
 格蕾塔·沃克曼
+{% endraw %}

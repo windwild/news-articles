@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Delivering contextual job matching for millions with OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/indeed"
@@ -10,6 +9,7 @@ translated: false
 description: "Indeed, whose mission is to help people get jobs, is the world’s #1 job site. Over 350 million unique visitors come to Indeed every month to connect with more than 3.5 million employers and over 32 ..."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Indeed uses OpenAI to deliver contextual job matching to millions of job seekers
@@ -66,3 +66,4 @@ And Invite to Apply is just one example of how Indeed is finding success with Op
 [Talk with our team](https://openai.com/contact-sales/)
 
 Delivering contextual job matching for millions with OpenAI \| OpenAI
+{% endraw %}

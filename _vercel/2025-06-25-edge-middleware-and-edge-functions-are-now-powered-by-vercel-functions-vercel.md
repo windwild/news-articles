@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Edge Middleware and Edge Functions are now powered by Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/edge-middleware-and-edge-functions-are-now-powered-by-vercel-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Edge runtime now runs on Vercel Functions, unifying pricing across all compute, and available before and after cache. Edge Middleware and Edge Functions are now deprecated."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 25, 2025
 
@@ -46,3 +44,4 @@ Vercel 路由中间件（Routing Middleware）现已向所有用户正式发布�
 Learn more about [Routing Middleware](https://vercel.com/docs/routing-middleware).
 
 了解更多关于 [Routing Middleware（路由中间件）](https://vercel.com/docs/routing-middleware) 的信息。
+{% endraw %}

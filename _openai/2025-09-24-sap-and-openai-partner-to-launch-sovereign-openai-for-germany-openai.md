@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’ | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/global-affairs/openai-for-germany"
@@ -10,6 +9,7 @@ translated: false
 description: "SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services."
 tags: ["Global Affairs"]
 ---
+{% raw %}
 
 September 24, 2025
 
@@ -39,3 +39,4 @@ OpenAI for Germany directly supports Germany’s national AI ambitions. The Germ
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

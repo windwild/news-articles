@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Strengthening the US AI supply chain through domestic manufacturing | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/strengthening-the-us-ai-supply-chain"
@@ -9,8 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 January 15, 2026
 
@@ -72,3 +70,4 @@ We will review proposals on a rolling basis and follow up with selected responde
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

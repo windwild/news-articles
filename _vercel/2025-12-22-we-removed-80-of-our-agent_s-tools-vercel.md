@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "We removed 80% of our agent’s tools - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/we-removed-80-percent-of-our-agents-tools"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We spent months building a sophisticated text-to-sql agent, but as it turns out, sometimes simpler is better. Giving it the ability to execute arbitrary bash commands outperformed everything we built...."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 22, 2025
 
@@ -353,3 +351,4 @@ Deploy the template](https://vercel.com/templates/nitro/slack-agent-template)
 借助 Bolt for JavaScript 与 Nitro 模板，快速启动您专属的 Slack 智能体开发。部署至 Vercel，几分钟内即可获得一个实时可用、面向生产的完整环境。\\
 \\
 立即部署该模板](https://vercel.com/templates/nitro/slack-agent-template)
+{% endraw %}

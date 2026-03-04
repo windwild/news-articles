@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "GPT-5.2 derives a new result in theoretical physics | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/new-result-theoretical-physics"
@@ -10,8 +9,7 @@ translated: true
 description: "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators."
 tags: ["Research"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 13, 2026
 
@@ -115,3 +113,4 @@ _“我已在思考这份预印本对我课题组研究计划若干方向的潜�
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

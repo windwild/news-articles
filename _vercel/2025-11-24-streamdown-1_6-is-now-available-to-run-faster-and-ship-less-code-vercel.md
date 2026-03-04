@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Streamdown 1.6 is now available to run faster and ship less code - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/streamdown-1-6-is-now-available-to-run-faster-and-ship-less-code"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Streamdown 1.6 is out, which features some incredible updates and amazing community contributions. Read more below."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 24, 2025
 
@@ -37,3 +35,4 @@ Vercel Streamdown 1.6 现已发布，性能、包体积及创作体验均迎来�
 Update to Vercel Streamdown 1.6 today with `npm i streamdown@latest` or read more about Streamdown [here](https://streamdown.ai/docs).
 
 今天即可通过 `npm i streamdown@latest` 升级至 Vercel Streamdown 1.6，或点击[此处](https://streamdown.ai/docs)了解 Streamdown 的更多信息。
+{% endraw %}

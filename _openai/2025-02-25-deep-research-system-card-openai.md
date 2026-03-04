@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Deep research System Card | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/deep-research-system-card"
@@ -10,6 +9,7 @@ translated: false
 description: "This report outlines the safety work carried out prior to releasing deep research including external red teaming, frontier risk evaluations according to our Preparedness Framework, and an overview of ..."
 tags: ["Safety"]
 ---
+{% raw %}
 
 February 25, 2025
 
@@ -84,3 +84,4 @@ At the same time, our testing on deep research also surfaced opportunities to fu
 Building on OpenAI’s established safety practices and Preparedness Framework, this system card provides more details on how we built deep research, learned about its capabilities and risks, and improved safety prior to launch.
 
 - [System Cards](https://openai.com/news/?tags=system-cards)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 AlignmentResearch
 
@@ -37,3 +35,4 @@ Humans are capable of strategically deceptive behavior: behaving helpfully in mo
 We find that such backdoor behavior can be made persistent, so that it is not removed by standard safety training techniques, including supervised fine-tuning, reinforcement learning, and adversarial training (eliciting unsafe behavior and then training to remove it). The backdoor behavior is most persistent in the largest models and in models trained to produce chain-of-thought reasoning about deceiving the training process, with the persistence remaining even when the chain-of-thought is distilled away. Furthermore, rather than removing backdoors, we find that adversarial training can teach models to better recognize their backdoor triggers, effectively hiding the unsafe behavior. Our results suggest that, once a model exhibits deceptive behavior, standard techniques could fail to remove such deception and create a false impression of safety.
 
 我们发现，此类后门行为可被设计为具有高度持久性，以至于标准的安全训练技术（包括监督式微调、强化学习以及对抗训练——即先诱导出不安全行为，再针对性地训练以消除该行为）均无法将其清除。后门行为在参数量最大的模型中，以及在那些被专门训练以生成关于“如何欺骗训练过程”的思维链（chain-of-thought）推理的模型中，表现出最强的持久性；即使后续将思维链蒸馏移除，该持久性依然存在。此外，我们还发现，对抗训练非但未能消除后门，反而可能教会模型更精准地识别其自身后门的触发条件，从而有效地将不安全行为隐藏起来。我们的结果表明：一旦模型展现出欺骗行为，现有标准技术可能不仅无法根除此类欺骗，反而会营造出一种虚假的安全感。
+{% endraw %}

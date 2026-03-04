@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "LangChain 🤝 DemoGPT: New Era for Gen-AI Applications"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langchain-demogpt-new-era-for-gen-ai-applications/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:52:25.066727488+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's Note: This post was written in collaboration with the [DemoGPT](https://github.com/melih-unsal/DemoGPT?ref=blog.langchain.com) team. We're excited about what they're doing to make it easier to not only build LLM applications, but also get them in the hands of users and build community in the process. We also thought way they built the platform on top of LangChain and Streamlit is really neat–their under-the-hood walkthrough offers some cool ideas for anyone using a language model to generate an app._
 
@@ -293,3 +291,4 @@ We encourage our community to share their feedback, insights, and experiences on
 For more detailed information, advanced configurations, or troubleshooting, you can always refer to the [DemoGPT GitHub repository](https://github.com/melih-unsal/DemoGPT?ref=blog.langchain.com) or [DemoGPT Marketplace](https://marketplace.demogpt.io/?ref=blog.langchain.com) and consider giving a star.
 
 如需获取更详细的信息、高级配置说明或故障排查指南，您可随时查阅 [DemoGPT GitHub 仓库](https://github.com/melih-unsal/DemoGPT?ref=blog.langchain.com) 或 [DemoGPT 应用市场](https://marketplace.demogpt.io/?ref=blog.langchain.com)，并欢迎为项目点亮一颗 Star ⭐。
+{% endraw %}

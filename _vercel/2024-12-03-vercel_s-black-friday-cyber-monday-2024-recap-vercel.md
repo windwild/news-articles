@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel's Black Friday-Cyber Monday 2024 recap - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/black-friday-cyber-monday-2024-recap"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "With 3B+ firewall blocks and 99.999+% uptime, top ecommerce brands like Under Armour, Fanatics, and ASICS trust Vercel’s Managed Infrastructure to handle the demand and ship with confidence."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 3, 2024
 
@@ -206,3 +204,4 @@ Jan 16, 2024
 Greta Workman
 
 格蕾塔·沃克曼
+{% endraw %}

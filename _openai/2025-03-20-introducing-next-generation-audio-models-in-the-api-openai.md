@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing next-generation audio models in the API | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-our-next-generation-audio-models"
@@ -10,6 +9,7 @@ translated: false
 description: "For the first time, developers can also instruct the text-to-speech model to speak in a specific way—for example, “talk like a sympathetic customer service agent”—unlocking a new level of cust..."
 tags: ["Release"]
 ---
+{% raw %}
 
 March 20, 2025
 
@@ -96,3 +96,4 @@ Looking ahead, we plan to continue to invest in improving the intelligence and a
 ![](images/introducing-next-generation-audio-models-in-the-api-openai/img_002.png)
 
 Play video
+{% endraw %}

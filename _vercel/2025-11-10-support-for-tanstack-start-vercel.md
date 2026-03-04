@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Support for TanStack Start - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-for-tanstack-start"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now detects and deploys TanStack Start, a full-stack framework powered by TanStack Router for React and Solid."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 10, 2025
 
@@ -79,3 +77,4 @@ TanStack Start apps on Vercel use [Fluid compute](https://vercel.com/fluid) with
 Visit the [TanStack Start on Vercel documentation](https://vercel.com/docs/frameworks/full-stack/tanstack-start) to learn more
 
 请访问 [Vercel 上的 TanStack Start 文档](https://vercel.com/docs/frameworks/full-stack/tanstack-start) 了解更多信息
+{% endraw %}

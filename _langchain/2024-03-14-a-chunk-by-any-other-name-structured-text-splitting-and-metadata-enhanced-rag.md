@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A Chunk by Any Other Name: Structured Text Splitting and Metadata-enhanced RAG"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/a-chunk-by-any-other-name/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["![Extraction Benchmarking", "**Extraction Benchmarking**", "**The Prompt Landscape**", "![Building Chat LangChain", "**Building Chat LangChain**"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 _Editor's note: this is a guest entry by [Martin Zirulnik](https://twitter.com/MartinZirulnik?ref=blog.langchain.com), who recently contributed the HTML Header Text Splitter to LangChain. For more of Martin's writing on generative AI, [visit his blog](https://mziru.com/?ref=blog.langchain.com#blog)._
 
@@ -1774,3 +1772,4 @@ the self-querying retriever API.
 [![Building Chat LangChain](images/a-chunk-by-any-other-name-structured-text-splitting-and-metadata-enhanced-rag/img_004.png)](https://blog.langchain.com/building-chat-langchain-2/)
 
 [**构建聊天版 LangChain**](https://blog.langchain.com/building-chat-langchain-2/)
+{% endraw %}

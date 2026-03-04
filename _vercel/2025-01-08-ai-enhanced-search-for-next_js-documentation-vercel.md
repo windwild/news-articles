@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI-enhanced search for Next.js documentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-enhanced-search-for-next-js-documentation"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI-powered Next.js docs search: Ask questions, review queries, copy code, and leave feedback."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 8, 2025
 
@@ -30,3 +28,4 @@ Jan 8, 2025
 
 
 请在 [nextjs.org/docs](https://nextjs.org/docs) 页面中，通过 `⌘K`（Windows 系统为 `Ctrl+K`）快捷键打开搜索菜单，立即开始搜索。
+{% endraw %}

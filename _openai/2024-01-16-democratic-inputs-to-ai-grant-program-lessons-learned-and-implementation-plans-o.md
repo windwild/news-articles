@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Democratic inputs to AI grant program: lessons learned and implementation plans | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/democratic-inputs-to-ai-grant-program-update"
@@ -10,6 +9,7 @@ translated: false
 description: "We funded 10 teams from around the world to design ideas and tools to collectively govern AI. We summarize the innovations, outline our learnings, and call for researchers and engineers to join us as ..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 January 16, 2024
 
@@ -155,3 +155,4 @@ We are recruiting exceptional research engineers from diverse technical backgrou
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

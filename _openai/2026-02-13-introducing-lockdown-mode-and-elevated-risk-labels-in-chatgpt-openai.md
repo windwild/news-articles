@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
@@ -10,8 +9,7 @@ translated: true
 description: "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration."
 tags: ["Safety"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 13, 2026
 
@@ -135,3 +133,4 @@ We will also continue to update which features carry this label over time to bes
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

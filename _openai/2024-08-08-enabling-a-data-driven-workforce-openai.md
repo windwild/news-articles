@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enabling a Data-Driven Workforce | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/business/enabling-a-data-driven-workforce-webinar"
@@ -10,6 +9,7 @@ translated: false
 description: "In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights."
 tags: ["Webinar"]
 ---
+{% raw %}
 
 Recorded: August 8, 2024
 
@@ -24,3 +24,4 @@ In this video, we share practical examples of how employees can use ChatGPT Ente
 00:0041:56
 
 Enabling a Data-Driven Workforce \| OpenAI
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Expanding economic opportunity with AI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/expanding-economic-opportunity-with-ai"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding economic opportunity and making AI skills more access..."
 tags: ["Company"]
 ---
+{% raw %}
 
 September 4, 2025
 
@@ -62,3 +62,4 @@ It’s all about being intentional about the kind of future we want to build. If
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Community](https://openai.com/news/?tags=community)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

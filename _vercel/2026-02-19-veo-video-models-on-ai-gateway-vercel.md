@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Veo video models on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/veo-video-models-on-ai-gateway"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Generate photorealistic AI videos with the Veo models via Vercel AI Gateway. Text-to-video and image-to-video with native audio generation. Up to 4K resolution with fast mode options."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 19, 2026
 
@@ -233,3 +231,4 @@ const { videos } = await generateVideo({
 For more examples and detailed configuration options for Veo models, check out the [Video Generation Documentation](https://vercel.com/docs/ai-gateway/capabilities/video-generation). You can also find simple getting started scripts with the [Video Generation Quick Start](https://vercel.com/docs/ai-gateway/getting-started/video).
 
 如需了解 Veo 模型的更多示例及详细配置选项，请查阅 [视频生成文档](https://vercel.com/docs/ai-gateway/capabilities/video-generation)。您还可以通过 [视频生成快速入门](https://vercel.com/docs/ai-gateway/getting-started/video) 获取简洁的入门脚本。
+{% endraw %}

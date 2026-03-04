@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Developer role now available for Pro teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/developer-role-now-available-for-pro-teams"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Teams on the Pro plan can now assign the Developer role to their members for more granular access control."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 26, 2026
 
@@ -23,3 +21,4 @@ Feb 26, 2026
 团队所有者（Owners）可在“团队成员设置”中，为任意现有席位分配开发者角色，或邀请新成员并直接为其指定该角色。
 
 了解更多关于[团队级角色](https://vercel.com/docs/rbac/access-roles/team-level-roles)的信息。
+{% endraw %}

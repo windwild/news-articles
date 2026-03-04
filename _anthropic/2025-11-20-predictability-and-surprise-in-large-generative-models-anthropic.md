@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Predictability and Surprise in Large Generative Models \\ Anthropic"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/predictability-and-surprise-in-large-generative-models"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Societal Impacts
 
@@ -45,3 +43,4 @@ Large-scale pre-training has recently emerged as a technique for creating capabl
 ### 政策备忘录
 
 [Predictability and Surprise Memo](https://www-cdn.anthropic.com/4ff80d7f8a98bf096cd543ec61ddc50de3ad8b16/Anthropic_PredictabilityAndSurprise.pdf)
+{% endraw %}

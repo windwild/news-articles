@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Canceling Ongoing Deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/canceling-ongoing-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Preventing ongoing deployments from building is now simply a matter of clicking a button."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 24, 2020
 
@@ -58,3 +56,4 @@ For teams that would like to increase the amount of deployments they can build a
 
 [Let us know what you think](https://zeit.co/contact) about this change.  
 [欢迎告诉我们您对这一变更的看法](https://zeit.co/contact)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI and Hearst Content Partnership  | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/hearst"
@@ -10,6 +9,7 @@ translated: false
 description: "Hearst’s iconic brands bring curated lifestyle and local news content to OpenAI’s products."
 tags: ["Company"]
 ---
+{% raw %}
 
 October 8, 2024
 
@@ -39,3 +39,4 @@ Hearst’s other businesses outside of magazines and newspapers are not included
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

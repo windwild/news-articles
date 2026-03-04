@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel: The anti-vendor-lock-in cloud - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-the-anti-vendor-lock-in-cloud"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Framework-defined infrastructure interprets your code and provisions what you need, keeping your application portable across any platform."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 10, 2025
 
@@ -157,3 +155,4 @@ When developers learn Next.js, Nuxt, or the AI SDK, they need to trust that inve
 We want you to stay with Vercel because you choose to, not because you have to. The best way to earn that choice is to build tools that work everywhere and a platform that makes those tools better.
 
 我们希望您留在 Vercel，是出于主动选择，而非别无他选。赢得这份选择的最佳方式，就是打造“随处可用”的工具，以及一个能让这些工具发挥更大价值的平台。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "OpenAI Scholars 2019: Meet our Scholars | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-scholars-2019-meet-our-scholars"
@@ -10,6 +9,7 @@ translated: false
 description: "Our class of eight scholars (out of 550 applicants) brings together collective expertise in literature, philosophy, cell biology, statistics, economics, quantum physics, and business innovation."
 tags: ["Company"]
 ---
+{% raw %}
 
 March 13, 2019
 
@@ -159,3 +159,4 @@ _Thanks to AWS for providing compute credits to the scholars. Additional thank y
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2019](https://openai.com/news/?tags=2019)
+{% endraw %}

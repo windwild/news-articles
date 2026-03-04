@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing OpenAI Dublin | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-openai-dublin"
@@ -10,6 +9,7 @@ translated: false
 description: "We‚Äôre growing our presence in Europe with an office in Dublin, Ireland."
 tags: ["Company"]
 ---
+{% raw %}
 
 September 13, 2023
 
@@ -42,3 +42,4 @@ _For media, please reach out to us with any questions at_ [_press@openai.com_ ‚Å
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

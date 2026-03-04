@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-vercel-marketplace"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Marketplace adds support for EdgeDB, Redis, and Supabase with unified billing and simpler installations."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 28, 2024
 
@@ -89,3 +87,4 @@ We'll be adding more integrations to the Marketplace based on your feedback. Our
 If you're a service provider interested in joining the Marketplace, feel free to reach out to us at integrations@vercel.com.
 
 如果您是希望入驻 Marketplace 的服务提供商，欢迎通过 integrations@vercel.com 与我们联系。
+{% endraw %}

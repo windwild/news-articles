@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Next.js 3.0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next3"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js 3.0 comes with vastly improved HMR, dynamic imports, static exports and better serverless support!"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 8, 2017
 
@@ -362,3 +360,4 @@ The focus will be on an even leaner core, faster bootup time and rendering, inte
 As always, we recommend you join our [Slack community](https://zeit.chat/) and [follow us on Twitter](https://twitter.com/zeithq).
 
 一如既往，我们诚挚邀请您加入我们的 [Slack 社区](https://zeit.chat/) 并在 [Twitter 上关注我们](https://twitter.com/zeithq)。
+{% endraw %}

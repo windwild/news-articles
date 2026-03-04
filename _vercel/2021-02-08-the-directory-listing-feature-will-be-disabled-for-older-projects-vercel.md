@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "The Directory Listing feature will be disabled for older projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/the-directory-listing-feature-will-be-disabled-for-older-projects"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 8, 2021
 
@@ -37,3 +35,4 @@ Because the Directory Listing feature allows for accessing the source code of a 
 Check out [the documentation](https://vercel.com/docs/edge-network/directory-listing) as well.
 
 也欢迎查阅 [相关文档](https://vercel.com/docs/edge-network/directory-listing)。
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "A research agenda for assessing the economic impacts of code generation models | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/economic-impacts-research"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 March 3, 2022
 
@@ -28,3 +28,4 @@ OpenAI is developing a research program to assess the economic impacts of code g
 - [Codex](https://openai.com/research/index/?tags=codex)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
+{% endraw %}

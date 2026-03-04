@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: " Vercel's Bot Protection stops malicious bots in a single click  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/one-click-bot-protection-now-in-public-beta"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Mitigate unwanted bot traffic by challenging requests from non-browser sources. Now available in public beta and free for all users on all plans."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 23, 2025
 
@@ -168,3 +166,4 @@ Learn more in the [changelog](https://vercel.com/changelog/bot-protection-is-now
 Edit: During the beta period, we renamed the Bot Filter managed ruleset to Bot Protection
 
 编辑说明：在公测（beta）期间，我们将原“Bot Filter”托管规则集（managed ruleset）更名为“Bot Protection”（机器人防护）。
+{% endraw %}

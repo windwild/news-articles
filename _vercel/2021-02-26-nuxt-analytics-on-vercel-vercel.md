@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Nuxt Analytics on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nuxt-analytics-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Starting today, Vercel Analytics is available for Nuxt projects – without any configuration."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 26, 2021
 
@@ -62,3 +60,4 @@ Next.js、Gatsby 和 Nuxt 的分析功能，是保障网站在初始上线测试
 
 Not yet on Vercel? [Import your Nuxt project today](https://vercel.com/import/git?utm_source=vercel&utm_medium=blog&utm_campaign=nuxtanalytics).  
 尚未使用 Vercel？[立即导入您的 Nuxt 项目](https://vercel.com/import/git?utm_source=vercel&utm_medium=blog&utm_campaign=nuxtanalytics)。
+{% endraw %}

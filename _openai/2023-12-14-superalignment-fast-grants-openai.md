@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Superalignment Fast Grants | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/superalignment-fast-grants"
@@ -10,6 +9,7 @@ translated: false
 description: "We’re launching $10M in grants to support technical research towards the alignment and safety of superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight,..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 December 14, 2023
 
@@ -62,3 +62,4 @@ For more on the research directions, FAQs, and other details, see our [Superalig
 
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2023](https://openai.com/news/?tags=2023)
+{% endraw %}

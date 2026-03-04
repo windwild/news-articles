@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing the Montréal, Canada region (yul1)  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-the-montreal-canada-vercel-region-yul1"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Montréal (yul1) is now part of Vercel’s global edge network, improving latency for users in Central Canada"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 20, 2026
 
@@ -37,3 +35,4 @@ Teams with Canadian data residency requirements can also use Montréal to keep e
 Learn more about [Vercel Regions](https://vercel.com/docs/regions) and [Montréal regional pricing](https://vercel.com/docs/pricing/regional-pricing/yul1)
 
 了解更多关于 [Vercel Regions（Vercel 区域）](https://vercel.com/docs/regions) 和 [蒙特利尔区域定价](https://vercel.com/docs/pricing/regional-pricing/yul1) 的信息。
+{% endraw %}

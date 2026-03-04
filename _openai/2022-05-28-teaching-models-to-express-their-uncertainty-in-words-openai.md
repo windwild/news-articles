@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Teaching models to express their uncertainty in words | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 May 28, 2022
 
@@ -28,3 +28,4 @@ We show that a GPT‑3 model can learn to express uncertainty about its own answ
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Language](https://openai.com/research/index/?tags=language)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+{% endraw %}

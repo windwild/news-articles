@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Introducing Streamdown: Open source Markdown for AI streaming - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-streamdown"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Streamdown is a new open source, drop-in Markdown renderer built for AI streaming. It powers the AI Elements Response component, but can also be used standalone."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 21, 2025
 
@@ -81,3 +79,4 @@ npm i streamdown
 [Read the docs](https://streamdown.ai/) and upgrade your AI-powered streaming.
 
 [阅读文档](https://streamdown.ai/)，升级你的 AI 驱动流式传输体验。
+{% endraw %}

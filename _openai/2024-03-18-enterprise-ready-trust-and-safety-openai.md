@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enterprise-ready trust and safety | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/salesforce"
@@ -10,6 +9,7 @@ translated: false
 description: "Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Salesforce
@@ -75,3 +75,4 @@ ChatGPTMar 18, 2024](https://openai.com/index/holiday-extras/)
 APIMar 18, 2024](https://openai.com/index/superhuman/)
 
 Enterprise-ready trust and safety \| OpenAI
+{% endraw %}

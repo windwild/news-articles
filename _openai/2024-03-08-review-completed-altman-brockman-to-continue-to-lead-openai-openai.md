@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Review completed & Altman, Brockman to continue to lead OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai"
@@ -10,6 +9,7 @@ translated: false
 description: "New board members named and enhancements to the governance structure introduced "
 tags: ["Company"]
 ---
+{% raw %}
 
 March 8, 2024
 
@@ -63,3 +63,4 @@ The Special Committee is pleased to conclude this review and looks forward to co
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

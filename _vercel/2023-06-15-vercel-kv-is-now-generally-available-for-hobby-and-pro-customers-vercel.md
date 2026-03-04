@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel KV is now generally available for Hobby and Pro customers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-kv-is-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing Vercel KV general availability for hobby and pro Vercel customers. Connect your Vercel projects to native storage solutions. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jun 15, 2023
 
@@ -47,3 +45,4 @@ If you're an Enterprise company interested in using Vercel KV, you can [contact 
 [Check out the documentation](https://vercel.com/docs/storage/vercel-kv) to learn more about Vercel KV.
 
 [查阅文档](https://vercel.com/docs/storage/vercel-kv)，深入了解 Vercel KV。
+{% endraw %}

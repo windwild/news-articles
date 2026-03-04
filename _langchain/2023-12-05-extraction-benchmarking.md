@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Extraction Benchmarking"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/extraction-benchmarking/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["**The Prompt Landscape**", "![Building Chat LangChain", "**Building Chat LangChain**"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Two weeks ago, we launched the [`langchain-benchmarks`](https://github.com/langchain-ai/langchain-benchmarks?ref=blog.langchain.com) package, along with a [Q&A dataset](https://blog.langchain.com/public-langsmith-benchmarks/) over the LangChain docs.  
 两周前，我们发布了 [`langchain-benchmarks`](https://github.com/langchain-ai/langchain-benchmarks?ref=blog.langchain.com) 软件包，并同步上线了基于 LangChain 文档的 [问答（Q&A）数据集](https://blog.langchain.com/public-langsmith-benchmarks/)。
@@ -525,3 +523,4 @@ For the full results for the above experiments, check out the [LangSmith test li
 [**Building Chat LangChain**](https://blog.langchain.com/building-chat-langchain-2/)
 
 [**构建 Chat LangChain**](https://blog.langchain.com/building-chat-langchain-2/)
+{% endraw %}

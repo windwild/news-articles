@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "[Week of 7/8] LangChain Release Notes"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/week-of-7-8-langchain-release-notes/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "See new use cases for building & deploying with LangGraph Cloud, revamped LangGraph docs, and more on self-improving evaluators in LangSmith. Plus, hear the latest agents trends — and learn more abo..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 We’re highlighting the most exciting ways to use different parts of the LangChain ecosystem – from the gamut of apps being built in LangGraph Cloud, to customer stories on how to test LLM apps reliably. Plus, stay ahead of the latest agentic trends and gear up for our upcoming hackathon.
 
@@ -179,3 +177,4 @@ Here’s some exciting projects and papers from community members, code and impl
 **How can you follow along with the Lang Latest? Check out the** [**LangChain blog**](https://blog.langchain.com/) **and** [**YouTube channel**](https://www.youtube.com/@LangChain?ref=blog.langchain.com) **for even more product and content updates. For any additional questions, email us at support@langchain.dev.**
 
 **如何及时获取 LangChain 最新动态？欢迎访问** [**LangChain 官方博客**](https://blog.langchain.com/) **以及** [**YouTube 频道**](https://www.youtube.com/@LangChain?ref=blog.langchain.com) **，获取更多产品更新与技术内容。如有其他问题，欢迎致信 support@langchain.dev 咨询。**
+{% endraw %}

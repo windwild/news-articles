@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Demant achieves global scalability and 30x faster response times with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/demant-achieves-global-scalability-and-30x-faster-response-times-with-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Global scalability and 30x faster response times with Vercel"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Mar 29, 2024
 
@@ -109,3 +107,4 @@ By partnering with Vercel, Demant has overcome scalability and performance chall
 With Vercel's support, the team continues to drive innovation in the field of hearing healthcare, fulfilling its mission to improve people's health and hearing around the globe.
 
 在 Vercel 的支持下，该团队持续推动听力健康领域的创新，践行其“改善全球民众健康与听力”的使命。
+{% endraw %}

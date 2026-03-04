@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Observability is now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-observability-is-now-generally-available"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Observability is now available to all Vercel customers, delivering insights to optimize infrastructure and application performance."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Dec 12, 2024
 
@@ -77,3 +75,4 @@ Observability Plus 的定价从每月 10 美元起，按需使用费用为每百
 了解更多关于 [Vercel 可观测性（Observability）](https://vercel.com/docs/observability) 的信息。
 
 了解更多关于 [Vercel 可观测性（Observability）](https://vercel.com/docs/observability) 的信息。
+{% endraw %}

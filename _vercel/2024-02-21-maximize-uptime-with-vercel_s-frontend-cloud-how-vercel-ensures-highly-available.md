@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Maximize Uptime with Vercel's Frontend Cloud: How Vercel ensures highly available, globally performant dynamic applications. Even during massive traffic spikes. - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/effortless-high-availability-for-dynamic-frontends"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's Frontend Cloud is designed with high availability at its core, to maintain uptime for dynamic applications."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 21, 2024
 
@@ -129,3 +127,4 @@ Vercel.com 官网落地页
 ### See for yourself
 
 ### 亲身体验
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Early experiments in accelerating science with GPT-5 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/accelerating-science-gpt-5"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate..."
 ---
+{% raw %}
 
 November 20, 2025
 
@@ -221,3 +221,4 @@ Taken together, these early studies show that GPT‑5 is beginning to help with 
 We also see a trajectory in which these systems improve with more time and compute. If GPT‑5 can meaningfully assist with some research questions in 20 minutes, we expect deeper results when models can spend hours or days reasoning about a problem. Combined with world-class scientists, this points toward the possibility of a step-change in scientific productivity over time.
 
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

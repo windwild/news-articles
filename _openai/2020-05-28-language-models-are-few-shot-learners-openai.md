@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Language models are few-shot learners | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/language-models-are-few-shot-learners"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 May 28, 2020
 
@@ -25,3 +25,4 @@ Recent work has demonstrated substantial gains on many NLP tasks and benchmarks 
 - [Language](https://openai.com/research/index/?tags=language)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Transformers](https://openai.com/research/index/?tags=transformers)
+{% endraw %}

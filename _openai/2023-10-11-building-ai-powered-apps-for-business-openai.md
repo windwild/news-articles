@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Building AI-powered apps for business | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/retool"
@@ -10,6 +9,7 @@ translated: false
 description: "Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps."
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Retool
@@ -77,3 +77,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Building AI-powered apps for business \| OpenAI
+{% endraw %}

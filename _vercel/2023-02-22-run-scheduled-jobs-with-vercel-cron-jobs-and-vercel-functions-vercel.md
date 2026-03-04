@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Run scheduled jobs with Vercel Cron Jobs and Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/run-scheduled-jobs-with-vercel-cron-jobs-and-vercel-functions"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 22, 2023
 
@@ -29,3 +27,4 @@ By using a specific syntax called a [cron expression](https://vercel.com/docs/c
 Vercel Cron Jobs are available in public beta. [Check out the documentation](https://vercel.com/docs/cron-jobs) to get started.
 
 Vercel Cron Jobs 当前处于公开测试（public beta）阶段。[请查阅文档](https://vercel.com/docs/cron-jobs) 开始使用。
+{% endraw %}

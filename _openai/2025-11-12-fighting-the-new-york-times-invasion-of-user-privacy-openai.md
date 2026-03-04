@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Fighting the New York Times’ invasion of user privacy | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/fighting-nyt-user-privacy-invasion"
@@ -10,6 +9,7 @@ translated: false
 description: "OpenAI is fighting the New York Times’ demand for 20 million private ChatGPT conversations and accelerating new security and privacy protections to protect your data."
 tags: ["Security"]
 ---
+{% raw %}
 
 November 12, 2025
 
@@ -103,3 +103,4 @@ The privacy and security protections must become more powerful as AI becomes mor
 
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2025](https://openai.com/news/?tags=2025)
+{% endraw %}

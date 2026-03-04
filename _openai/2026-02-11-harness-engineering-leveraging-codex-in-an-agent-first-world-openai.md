@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Harness engineering: leveraging Codex in an agent-first world | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/harness-engineering"
@@ -10,8 +9,7 @@ translated: true
 description: "By Ryan Lopopolo, Member of the Technical Staff"
 tags: ["Engineering"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 11, 2026
 
@@ -509,3 +507,4 @@ As agents like Codex take on larger portions of the software lifecycle, these qu
 - [Codex](https://openai.com/news/?tags=codex)  
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
+{% endraw %}

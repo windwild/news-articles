@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Global Retail Brands cut development time from months to 1 week with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-global-retail-brands-cut-development-time-from-months-to-1-week"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how GRB, one of Australia's fastest-growing retailers, improved site uptime, development time, and overall developer experience with Vercel."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 18, 2024
 
@@ -163,3 +161,4 @@ Break free from the monolith. Learn how the Vercel stack can accelerate your dig
 \\
 摆脱单体架构的束缚。了解 Vercel 技术栈如何加速您的数字化成功。\\
 \\
+{% endraw %}

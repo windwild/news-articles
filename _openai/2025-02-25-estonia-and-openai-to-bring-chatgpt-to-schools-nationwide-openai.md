@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Estonia and OpenAI to bring ChatGPT to schools nationwide | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/estonia-schools-and-chatgpt"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 description: "Estonia and OpenAI to bring ChatGPT to schools nationwide. OpenAI will work with the Estonian Government to provide students and teachers in the secondary school system with access to ChatGPT Edu."
 ---
+{% raw %}
 
 February 25, 2025
 
@@ -43,3 +43,4 @@ Leah Belsky, Vice President of Education, OpenAI, said, “Millions of students 
 ChatGPT Edu is a version of ChatGPT built for large-scale deployments across educational institutions. This offering includes OpenAI’s latest models, GDPR compliance, enterprise-level security and controls with cost-effective pricing, allowing for responsible rollout to every student, faculty and staff member, and researcher. With ChatGPT Edu, educational institutions around the world like ESCP, Harvard University, London Business School, Oxford, and The California State University System have taken steps to make AI as fundamental to their campus as using the internet. Estonia’s deployment of ChatGPT Edu is the first by a government to ensure that students across an entire nation—not just across distinct campuses—have access to this transformative technology.
 
 At OpenAI, we see AI as an innovation as fundamental as electricity, changing how we live, how we work, and how we engage with one another. Our mission is to ensure that as AI advances, it benefits everyone. We're building AI to help people solve hard problems because by helping with the hard problems, AI can benefit the most people possible—through more scientific discoveries, better healthcare, and of course, better education. We’re off to a strong start, creating freely available intelligence being used by more than 400 million people around the world, including 3 million developers. We believe AI will scale human ingenuity and drive unprecedented productivity, economic growth, and new freedoms that help people accomplish what we can't even imagine today.
+{% endraw %}

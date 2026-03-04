@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Vercel Analytics support for Interaction to Next Paint (Experimental) - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-analytics-support-for-interaction-to-next-paint-experimental"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 9, 2022
 
@@ -29,3 +27,4 @@ INP 用于衡量网站对页面上用户交互行为的响应速度——页面�
 [Try Vercel Analytics today](https://vercel.com/analytics) to start measuring your performance.
 
 [立即试用 Vercel Analytics](https://vercel.com/analytics)，开始监测您的网站性能。
+{% endraw %}

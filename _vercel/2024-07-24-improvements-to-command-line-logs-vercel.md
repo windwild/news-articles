@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improvements to command line logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvements-to-command-line-logs"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 24, 2024
 
@@ -59,3 +57,4 @@ pnpm add -g vercel
 ```
 
 使用 pnpm 包管理器全局安装 Vercel CLI。
+{% endraw %}

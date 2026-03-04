@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improving India’s critical care infrastructure | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/10bedicu"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # 10BedICU
@@ -53,3 +53,4 @@ Sapam Ranjan, Manipur’s Minister of Health and Family Welfare, agrees. “10Be
 [Talk with our team](https://openai.com/contact-sales/)
 
 Improving India’s critical care infrastructure \| OpenAI
+{% endraw %}

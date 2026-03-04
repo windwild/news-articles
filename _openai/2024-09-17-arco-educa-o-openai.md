@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Arco Educação | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/arco-education"
@@ -10,6 +9,7 @@ translated: false
 description: "Improving teaching and learning in Brazil"
 tags: ["Story"]
 ---
+{% raw %}
 
 
 # Arco Educação uses GPT‑4 to improve teaching and learning in Brazil
@@ -59,3 +59,4 @@ Arco Educação’s commitment to leveraging AI and technology for educational q
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
+{% endraw %}

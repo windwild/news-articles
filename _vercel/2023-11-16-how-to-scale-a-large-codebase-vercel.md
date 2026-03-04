@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How to scale a large codebase - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-to-scale-a-large-codebase"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Transition from monolithic to monorepo architectures with Vercel. Explore feature flags for safe releases, incremental builds for quick iterations, and skew protection for version consistency to ease ..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Nov 16, 2023
 
@@ -478,3 +476,4 @@ Vercel.com 着陆页
 ### Talk to a migration expert  
 
 ### 与迁移专家沟通
+{% endraw %}

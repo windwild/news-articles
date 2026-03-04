@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How to design an Agent for Production"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/how-to-design-an-agent-for-production/"
@@ -8,8 +7,7 @@ scraped_at: "2026-03-03T08:30:18.744112782+00:00"
 language: "en-zh"
 translated: true
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **_Editor's Note:_ _This post is written by [_Dexter Storey_](https://twitter.com/StoreyDexter?ref=blog.langchain.com)_ _, [_Sarim Malik_](https://twitter.com/sarimrmalik?ref=blog.langchain.com)_ _, and [_Ted Spare_](https://twitter.com/TedSpare?ref=blog.langchain.com)_ _from the [_Rubric Labs_](https://blog.langchain.com/how-to-design-an-agent-for-production/rubriclabs.com)_ _team._**
 
@@ -333,3 +331,4 @@ It’s clear that AI agents with scoped tools is a really powerful combination. 
 If you have feedback on this post, please reach out to us at _hello@rubriclab.com_
 
 若您对本文有任何反馈意见，欢迎通过 _hello@rubriclab.com_ 与我们联系。
+{% endraw %}

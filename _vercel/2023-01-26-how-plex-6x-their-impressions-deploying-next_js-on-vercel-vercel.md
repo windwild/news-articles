@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How Plex 6x their impressions deploying Next.js on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-plex-6x-their-impressions-deploying-next-js-on-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Plex customer story"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 26, 2023
 
@@ -139,3 +137,4 @@ Kiana and Steven
 ![](images/how-plex-6x-their-impressions-deploying-next_js-on-vercel-vercel/img_002.jpg)
 
 Kiana Lewis
+{% endraw %}

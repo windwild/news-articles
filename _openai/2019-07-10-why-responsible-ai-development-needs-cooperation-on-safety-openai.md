@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Why responsible AI development needs cooperation on safety | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/cooperation-on-safety"
@@ -10,6 +9,7 @@ translated: false
 description: "We’ve written a policy research paper identifying four strategies that can be used today to improve the likelihood of long-term industry cooperation on safety norms in AI: communicating risks and be..."
 tags: ["Safety & Alignment"]
 ---
+{% raw %}
 
 July 10, 2019
 
@@ -92,3 +92,4 @@ While we acknowledge that such challenges exist, we advocate for a more thorough
 
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
+{% endraw %}

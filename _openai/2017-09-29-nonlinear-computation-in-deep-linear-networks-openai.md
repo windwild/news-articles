@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Nonlinear computation in deep linear networks | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/nonlinear-computation-in-deep-linear-networks"
@@ -9,6 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
+{% raw %}
 
 September 29, 2017
 
@@ -102,3 +102,4 @@ We can use [evolution strategies (ES)⁠(opens in a new window)](https://blog.o
 Beyond MNIST, we think other interesting experiments could be extending this work to recurrent neural networks, or to exploit nonlinear computation to improve complex machine learning tasks like language modeling and translation. We’re excited to explore this capability with our fellow researchers.
 
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
+{% endraw %}

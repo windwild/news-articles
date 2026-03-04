@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Protectd: Evolving Vercel’s always-on denial-of-service mitigations - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/protectd-evolving-vercels-always-on-denial-of-service-mitigations"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Protectd is our new real-time security engine that blocks DDoS attacks faster than ever—built to detect, learn from, and stop threats before they reach your app. Now powering sub-second protection a..."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 7, 2025
 
@@ -222,3 +220,4 @@ Vercel 防火墙提供多层防护，抵御应用层攻击、DDoS 威胁及恶�
 
 [Learn more](https://vercel.com/security)  
 [了解更多](https://vercel.com/security)
+{% endraw %}

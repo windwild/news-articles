@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Tutorial: ChatGPT Over Your Data"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/tutorial-chatgpt-over-your-data/"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 **_Note: See the accompanying GitHub repo for this blogpost [here](https://github.com/hwchase17/chat-your-data?ref=blog.langchain.com)._**
 
@@ -346,3 +344,4 @@ We also have an example of deploying this app via Gradio! You can do so by runni
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
+{% endraw %}

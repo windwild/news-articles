@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Testing ads in ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/testing-ads-in-chatgpt"
@@ -10,8 +9,7 @@ translated: true
 description: "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
 tags: ["Company"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 February 9, 2026
 
@@ -130,3 +128,4 @@ What will always remain true: ChatGPT’s answers remain independent and unbiase
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)  
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
+{% endraw %}

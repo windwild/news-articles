@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Improved infrastructure pricing is now active for new customers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-infrastructure-pricing-is-now-active-for-new-customers"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Apr 25, 2024
 
@@ -35,3 +33,4 @@ Our previous combined metrics (bandwidth and functions) are now more granular, a
 These pricing improvements build on recent platform features to help automatically prevent runaway spend, including [hard spend limits](https://vercel.com/changelog/improved-hard-caps-for-spend-management), [recursion protection](https://vercel.com/changelog/automatic-recursion-protection-for-vercel-serverless-functions), [improved function defaults](https://vercel.com/changelog/serverless-functions-can-now-run-up-to-5-minutes), [Attack Challenge Mode](https://vercel.com/changelog/prevent-malicious-traffic-with-attack-challenge-mode-for-vercel-firewall), and more.
 
 此次定价优化，依托平台近期推出的多项功能，可帮助您自动防止费用失控，包括：[硬性支出上限](https://vercel.com/changelog/improved-hard-caps-for-spend-management)、[递归调用防护](https://vercel.com/changelog/automatic-recursion-protection-for-vercel-serverless-functions)、[优化的函数默认配置](https://vercel.com/changelog/serverless-functions-can-now-run-up-to-5-minutes)（无服务器函数最长运行时间提升至 5 分钟）、[攻击挑战模式](https://vercel.com/changelog/prevent-malicious-traffic-with-attack-challenge-mode-for-vercel-firewall)（用于 Vercel 防火墙，以拦截恶意流量），以及更多功能。
+{% endraw %}

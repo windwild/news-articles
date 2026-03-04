@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "New Credit Facility Enhances Financial Flexibility | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/new-credit-facility-enhances-financial-flexibility"
@@ -10,6 +9,7 @@ translated: false
 description: "In addition to securing $6.6 billion in new funding from leading investors, we have established a new $4 billion credit facility with leading banks, including JPMorgan Chase, Citi, Goldman Sachs, Morg..."
 tags: ["Company"]
 ---
+{% raw %}
 
 October 3, 2024
 
@@ -27,3 +27,4 @@ The support of our investors and financial partners enables us to continue inves
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
+{% endraw %}

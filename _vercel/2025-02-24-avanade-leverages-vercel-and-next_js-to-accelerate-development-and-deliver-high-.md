@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Avanade leverages Vercel and Next.js to accelerate development and deliver high-performance experiences - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/integrating-vercel-and-sitecore-for-2x-faster-development-times-and-111"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Avanade achieved 90+ Lighthouse Scores by moving away from monolith legacy systems to Sitecore XM Cloud and Vercel."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 24, 2025
 
@@ -166,3 +164,4 @@ Jan 12, 2023
 Guillermo Rauch
 
 Guillermo Rauch
+{% endraw %}

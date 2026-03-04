@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Fishing for first timers | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/fishing-for-first-timers"
@@ -11,6 +10,7 @@ description: "Using ChatGPT to catch halibut
 "
 tags: ["Story"]
 ---
+{% raw %}
 
 February 4, 2025
 
@@ -122,3 +122,4 @@ ChatGPTFeb 4, 2025](https://openai.com/index/ten-tiny-canvases/)
 APIDec 11, 2024](https://openai.com/index/zalando/)
 
 Fishing for first timers \| OpenAI
+{% endraw %}

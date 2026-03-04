@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Team update | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/team-update-january"
@@ -10,6 +9,7 @@ translated: false
 description: "The OpenAI team is now 45 people. Together, we’re pushing the frontier of AI capabilities—whether by validating novel ideas, creating new software systems, or deploying machine learning on robots."
 tags: ["Company"]
 ---
+{% raw %}
 
 January 30, 2017
 
@@ -50,3 +50,4 @@ The following former OpenAI [interns⁠](https://openai.com/index/team-plus-plu
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2017](https://openai.com/news/?tags=2017)
+{% endraw %}

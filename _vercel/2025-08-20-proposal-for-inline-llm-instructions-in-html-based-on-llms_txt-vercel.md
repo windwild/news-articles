@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Proposal for inline LLM instructions in HTML based on llms.txt - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "llms.txt is an emerging standard for making content such as docs available for direct consumption by AIs. We’re proposing a convention to include such content directly in HTML responses."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 20, 2025
 
@@ -187,3 +185,4 @@ There was no need to talk to an LLM provider like OpenAI or Anthropic. In fact, 
 `<script type="text/llms.txt">` doesn't need to be a formal standard. You can just start using it now.
 
 `<script type="text/llms.txt">` 并不需要成为一项正式标准——你完全可以即刻开始使用。
+{% endraw %}

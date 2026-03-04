@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How a global agency built a web innovation engine in two months  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-a-global-agency-built-a-web-innovation-engine-in-two-months"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Globacore"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Feb 22, 2023
 
@@ -87,3 +85,4 @@ While physical spaces have returned, Globacore has transformed into a hybrid age
 
 If you’re ready to speed up your team's development process and site performance, we’d love to chat. [Get in touch today](https://vercel.com/contact).  
 如果您已准备好加速团队开发流程并提升网站性能，我们非常期待与您交流。[立即联系我们](https://vercel.com/contact)
+{% endraw %}

@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Update regarding Vercel service disruption on August 7, 2024 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/update-regarding-vercel-service-disruption-on-august-7-2024"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Understanding the service disruption and Vercel's next steps"
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 9, 2024
 
@@ -103,3 +101,4 @@ While this event was a severe disruption, it has reinforced our commitment to re
 We apologize for the impact this event had on our customers and assure you that we are taking comprehensive steps to prevent similar issues in the future.
 
 我们为此次事件给客户带来的影响深表歉意，并向您保证，我们正在采取全面措施，以防止未来发生类似问题。
+{% endraw %}

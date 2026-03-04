@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "View advanced function metrics with Observability - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/view-advanced-function-metrics-with-observability"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Users in the limited beta of Observability can now view advanced insights for serverless Vercel Functions. Explore low level metrics about function execution."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 2024年10月30日
 
@@ -39,3 +37,4 @@ render_with_liquid: false
 Observability 目前处于 [有限公测阶段](https://vercel.com/docs/release-phases#limited-beta)，面向当前已启用 [监控（Monitoring）](https://vercel.com/docs/observability/monitoring#monitoring) 功能的用户开放；您可在 Vercel 项目中新增的 **Observability 标签页** 中访问该功能。
 
 Observability 目前处于 [有限公测阶段](https://vercel.com/docs/release-phases#limited-beta)，面向当前已启用 [监控（Monitoring）](https://vercel.com/docs/observability/monitoring#monitoring) 功能的用户开放；您可在 Vercel 项目中新增的 **Observability 标签页** 中访问该功能。
+{% endraw %}

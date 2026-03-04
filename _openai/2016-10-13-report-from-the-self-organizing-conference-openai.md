@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Report from the self-organizing conference | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/report-from-the-self-organizing-conference"
@@ -10,6 +9,7 @@ translated: false
 description: "Last week we hosted over a hundred and fifty AI practitioners in our offices for our first self-organizing conference on machine learning."
 tags: ["Company"]
 ---
+{% raw %}
 
 October 13, 2016
 
@@ -39,3 +39,4 @@ The self-organizing nature makes this sort of conference reasonably easy and aff
 - [Events](https://openai.com/news/?tags=events)
 - [Community](https://openai.com/news/?tags=community)
 - [2016](https://openai.com/news/?tags=2016)
+{% endraw %}

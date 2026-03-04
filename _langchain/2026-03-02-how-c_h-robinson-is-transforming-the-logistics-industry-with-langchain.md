@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "How C.H. Robinson is transforming the logistics industry with LangChain"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-chrobinson/"
@@ -10,8 +9,7 @@ translated: true
 description: "Global logistics provider saves 600+ hours a day with tech they built using LangGraph, LangGraph Studio, and LangSmith developer tools."
 tags: ["Case Studies"]
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 [C.H. Robinson](https://www.chrobinson.com/en-us/?ref=blog.langchain.com) is one of the world’s largest global logistics providers, managing 37 million shipments a year by ocean, air, rail and truck. It’s known for solving logistics challenges from the simple to the most complex. With the advent of GenAI, the company has created proprietary tech that represents an efficiency breakthrough for its industry and for supply chains around the world.
 
@@ -148,3 +146,4 @@ C.H. Robinson 在生成式 AI 领域的持续投入正在重塑物流行业的�
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
+{% endraw %}

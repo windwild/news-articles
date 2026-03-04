@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "FastHTML projects can now be deployed with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/fasthtml-htmx-python-vercel"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jul 29, 2024
 
@@ -29,3 +27,4 @@ FastHTML 是一款面向快速、可扩展 Web 应用的全新下一代 Web 框�
 Deploy the [FastHTML template](https://vercel.com/templates/python/fasthtml-python-boilerplate) or run `vercel init fasthtml` in your terminal to get started.
 
 请部署 [FastHTML 模板](https://vercel.com/templates/python/fasthtml-python-boilerplate)，或在终端中运行 `vercel init fasthtml` 快速开始。
+{% endraw %}

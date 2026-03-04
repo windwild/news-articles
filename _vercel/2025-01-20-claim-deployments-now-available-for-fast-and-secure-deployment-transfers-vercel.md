@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Claim Deployments now available for fast and secure deployment transfers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claim-deployments"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "With Claim Deployments, third-party platforms, including AI agents and visual builder applications, can now hand off deployment ownership."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 20, 2025
 
@@ -31,3 +29,4 @@ Jan 20, 2025
 - **用户确认所属团队：** 用户选择其 Vercel 团队并完成所有权转移。
 
 [查阅我们的文档](https://vercel.com/docs/deployments/claim-deployments) 了解更多信息。
+{% endraw %}

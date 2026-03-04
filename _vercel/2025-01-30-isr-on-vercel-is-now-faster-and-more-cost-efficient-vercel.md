@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "ISR on Vercel is now faster and more cost-efficient - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/isr-on-vercel-is-now-faster-and-more-cost-efficient"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've optimized how ISR cache updates are managed on Vercel, making them faster and more cost-efficient. "
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 30, 2025
 
@@ -217,3 +215,4 @@ Mar 7, 2023
 Malte Ubl
 
 Malte Ubl
+{% endraw %}

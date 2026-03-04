@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/mle-bench"
@@ -10,6 +9,7 @@ translated: false
 description: "We introduce MLE-bench, a benchmark for measuring how well AI agents perform at machine learning engineering."
 tags: ["Research"]
 ---
+{% raw %}
 
 October 10, 2024
 
@@ -27,3 +27,4 @@ We introduce MLE-bench, a benchmark for measuring how well AI agents perform at 
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
+{% endraw %}

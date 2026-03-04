@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "Enhancing security of backend connectivity with OpenID Connect (OIDC) - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/enhancing-security-of-backend-connectivity-with-openid-connect"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel OpenID Connect support helps you replace long-lived credentials with temporary tokens to reduce risk."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Aug 28, 2024
 
@@ -257,3 +255,4 @@ Vercel 的安全理念旨在“让 Web 默认即安全”。通过集成上述�
 [Get started with OIDC in your Vercel projects](https://vercel.com/docs/security/secure-backend-access/oidc#getting-started) today and take a significant step towards a more secure and efficient development environment.
 
 [立即在您的 Vercel 项目中启用 OIDC](https://vercel.com/docs/security/secure-backend-access/oidc#getting-started)，迈出通往更安全、更高效开发环境的关键一步。
+{% endraw %}

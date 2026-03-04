@@ -1,5 +1,4 @@
 ---
-render_with_liquid: false
 title: "AI Gateway support for Claude Code - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-gateway-support-for-claude-code"
@@ -9,8 +8,7 @@ language: "en-zh"
 translated: true
 description: "Use Vercel AI Gateway from Claude Code via the Anthropic-compatible endpoint, with a URL change and AI Gateway usage and cost tracking."
 ---
-render_with_liquid: false
-render_with_liquid: false
+{% raw %}
 
 Jan 5, 2026
 
@@ -51,3 +49,4 @@ claude
 See the [Claude Code documentation](https://vercel.com/docs/ai-gateway/claude-code) for details.
 
 详情请参阅 [Claude Code 文档](https://vercel.com/docs/ai-gateway/claude-code)。
+{% endraw %}
