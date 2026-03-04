@@ -1,6 +1,6 @@
 ---
-title: "New custom visualization in Vercel Observability - Vercel"
 render_with_liquid: false
+title: "New custom visualization in Vercel Observability - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-custom-visualization-in-vercel-observability"
 date: "2025-08-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now customize how you visualize Observability data with line charts, volume charts, table views, or a big number."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 4, 2025
 
 2025 年 8 月 4 日

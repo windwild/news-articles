@@ -1,6 +1,6 @@
 ---
-title: "Build smarter workflows with Notion and v0 - Vercel"
 render_with_liquid: false
+title: "Build smarter workflows with Notion and v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/build-smarter-workflows-with-notion-and-v0"
 date: "2025-12-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "v0 now connects to Notion via MCP. Build dashboards, tools, and prototypes from your existing docs and databases, and write generated content back to your workspace."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 15, 2025
 
 2025 年 12 月 15 日

@@ -1,6 +1,6 @@
 ---
-title: "Deploy xmcp servers with zero-configuration - Vercel"
 render_with_liquid: false
+title: "Deploy xmcp servers with zero-configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deploy-xmcp-servers-with-zero-configuration"
 date: "2025-08-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "xmcp, a framework for building and shipping MCP applications with TypeScript, can now be deployed to Vercel with zero-configuration."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 22, 2025
 
 2025 年 8 月 22 日

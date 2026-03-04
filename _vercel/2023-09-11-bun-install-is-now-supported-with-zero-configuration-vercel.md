@@ -1,6 +1,6 @@
 ---
-title: "Bun install is now supported with zero configuration - Vercel"
 render_with_liquid: false
+title: "Bun install is now supported with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bun-install-is-now-supported-with-zero-configuration"
 date: "2023-09-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 11, 2023
 
 2023 年 9 月 11 日

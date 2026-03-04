@@ -1,6 +1,6 @@
 ---
-title: "Vercel Firewall now supports localized challenge pages - Vercel"
 render_with_liquid: false
+title: "Vercel Firewall now supports localized challenge pages - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-firewall-now-supports-localized-challenge-pages"
 date: "2024-07-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 10, 2024
 
 2024 年 7 月 10 日

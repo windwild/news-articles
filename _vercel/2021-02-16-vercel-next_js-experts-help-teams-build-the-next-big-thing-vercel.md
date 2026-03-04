@@ -1,6 +1,6 @@
 ---
-title: "Vercel & Next.js Experts Help Teams Build the Next Big Thing - Vercel"
 render_with_liquid: false
+title: "Vercel & Next.js Experts Help Teams Build the Next Big Thing - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-and-next-js-experts-help-teams-build-the-next-big-thing"
 date: "2021-02-16"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn more about how to collaborate, build, and succeed with one of Vercel's Agency Experts, or become an Agency Expert today. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 16, 2021
 
 2021年2月16日

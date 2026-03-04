@@ -1,6 +1,6 @@
 ---
-title: "Split integration for low latency experimentation - Vercel"
 render_with_liquid: false
+title: "Split integration for low latency experimentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/split-integration-for-low-latency-experimentation"
 date: "2023-07-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 26, 2023
 
 2023年7月26日

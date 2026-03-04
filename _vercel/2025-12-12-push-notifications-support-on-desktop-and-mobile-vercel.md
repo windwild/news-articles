@@ -1,6 +1,6 @@
 ---
-title: "Push notifications support on desktop and mobile - Vercel"
 render_with_liquid: false
+title: "Push notifications support on desktop and mobile - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/push-notifications-support-on-desktop-and-mobile"
 date: "2025-12-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Push notifications are now available on the dashboard for desktop and mobile web. Receive important notifications immediately in your OS notification center."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 12, 2025
 
 2025 年 12 月 12 日

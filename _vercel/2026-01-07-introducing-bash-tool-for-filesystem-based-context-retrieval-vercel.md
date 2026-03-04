@@ -1,6 +1,6 @@
 ---
-title: "Introducing bash-tool for filesystem-based context retrieval - Vercel"
 render_with_liquid: false
+title: "Introducing bash-tool for filesystem-based context retrieval - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-bash-tool-for-filesystem-based-context-retrieval"
 date: "2026-01-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We've open-sourced bash-tool, which gives your agent a way to find the right context by running bash-like commands over files, then returning only the results of those tool calls to the model."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 7, 2026
 
 2026 年 1 月 7 日

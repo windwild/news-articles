@@ -1,6 +1,6 @@
 ---
-title: "Canceling Ongoing Deployments - Vercel"
 render_with_liquid: false
+title: "Canceling Ongoing Deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/canceling-ongoing-deployments"
 date: "2020-03-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Preventing ongoing deployments from building is now simply a matter of clicking a button."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 24, 2020
 
 2020 年 3 月 24 日

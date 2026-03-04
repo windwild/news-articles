@@ -1,6 +1,6 @@
 ---
-title: "Serverless servers: Efficient serverless Node.js with in-function concurrency - Vercel"
 render_with_liquid: false
+title: "Serverless servers: Efficient serverless Node.js with in-function concurrency - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/serverless-servers-node-js-with-in-function-concurrency"
 date: "2024-10-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Building a compute layer that is highly-optimized for interactive workloads, server-rendering, and APIs"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 3, 2024
 
 2024 年 10 月 3 日

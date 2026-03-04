@@ -1,6 +1,6 @@
 ---
-title: "Vercel: The anti-vendor-lock-in cloud - Vercel"
 render_with_liquid: false
+title: "Vercel: The anti-vendor-lock-in cloud - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-the-anti-vendor-lock-in-cloud"
 date: "2025-11-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Framework-defined infrastructure interprets your code and provisions what you need, keeping your application portable across any platform."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 10, 2025
 
 2025年11月10日

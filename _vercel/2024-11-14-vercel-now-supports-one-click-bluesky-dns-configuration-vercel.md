@@ -1,6 +1,6 @@
 ---
-title: "Vercel now supports one-click Bluesky DNS configuration - Vercel"
 render_with_liquid: false
+title: "Vercel now supports one-click Bluesky DNS configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-now-supports-one-click-bluesky-dns-configuration"
 date: "2024-11-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 14, 2024
 
 2024 年 11 月 14 日

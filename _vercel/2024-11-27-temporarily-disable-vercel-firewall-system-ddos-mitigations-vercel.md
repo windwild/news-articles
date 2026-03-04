@@ -1,6 +1,6 @@
 ---
-title: "Temporarily disable Vercel Firewall system DDoS mitigations - Vercel"
 render_with_liquid: false
+title: "Temporarily disable Vercel Firewall system DDoS mitigations - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/temporarily-disable-vercel-firewall-system-ddos-mitigations"
 date: "2024-11-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 27, 2024
 
 2024 年 11 月 27 日

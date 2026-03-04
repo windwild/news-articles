@@ -1,6 +1,6 @@
 ---
-title: "Python 3.13 and 3.14 are now available  - Vercel"
 render_with_liquid: false
+title: "Python 3.13 and 3.14 are now available  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/python-3-13-and-3-14-are-now-available"
 date: "2026-02-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Python versions 3.13 and 3.14 are now available for use in Vercel Builds and Vercel Functions.  Python 3.14 is the new default version for new projects and deployments."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 2, 2026
 
 2026年2月2日

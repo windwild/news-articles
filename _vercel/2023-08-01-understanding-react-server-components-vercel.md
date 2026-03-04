@@ -1,6 +1,6 @@
 ---
-title: "Understanding React Server Components - Vercel"
 render_with_liquid: false
+title: "Understanding React Server Components - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/understanding-react-server-components"
 date: "2023-08-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "React Server Components are changing the fundamental paradigms of React. Learn how Next.js handles the complexities and improves the performance of your applications."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 1, 2023
 
 2023 年 8 月 1 日

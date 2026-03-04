@@ -1,6 +1,6 @@
 ---
-title: "Correlate logs and traces with OpenTelemetry in Vercel Log Drains - Vercel"
 render_with_liquid: false
+title: "Correlate logs and traces with OpenTelemetry in Vercel Log Drains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/correlate-logs-and-traces-with-opentelemetry-in-vercel-log-drains"
 date: "2025-07-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Correlate Vercel Logs and Traces with OpenTelemetry (OTel) in Vercel Log Drains sent to Datadog and Dash0"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 4, 2025
 
 2025 年 7 月 4 日

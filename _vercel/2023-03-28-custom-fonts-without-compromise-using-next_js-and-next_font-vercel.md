@@ -1,6 +1,6 @@
 ---
-title: "Custom fonts without compromise using  Next.js and `next/font` - Vercel"
 render_with_liquid: false
+title: "Custom fonts without compromise using  Next.js and `next/font` - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-next-font"
 date: "2023-03-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "`next/font` automatically self-hosts your custom fonts, preventing layout shift and significantly reducing needed code."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 28, 2023
 
 2023 年 3 月 28 日

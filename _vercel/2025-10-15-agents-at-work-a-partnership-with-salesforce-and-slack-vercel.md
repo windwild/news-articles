@@ -1,6 +1,6 @@
 ---
-title: "Agents at work, a partnership with Salesforce and Slack - Vercel"
 render_with_liquid: false
+title: "Agents at work, a partnership with Salesforce and Slack - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/agents-at-work-a-partnership-with-salesforce-and-slack"
 date: "2025-10-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel and Salesforce are partnering to help teams build, ship, and scale AI agents across the Salesforce ecosystem, starting with Slack. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 15, 2025
 
 2025年10月15日

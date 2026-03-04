@@ -1,6 +1,6 @@
 ---
-title: "Protection bypass for automation now supports multiple secrets - Vercel"
 render_with_liquid: false
+title: "Protection bypass for automation now supports multiple secrets - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/protection-bypass-for-automation-multiple-secrets"
 date: "2026-01-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel projects now support multiple protection bypass secrets for automation. Rotate secrets, use different secrets for different workflows, and add notes to track each bypass. One bypass is automati..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 13, 2026
 
 2026年1月13日

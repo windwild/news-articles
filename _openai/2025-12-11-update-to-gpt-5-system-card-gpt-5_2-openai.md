@@ -1,6 +1,6 @@
 ---
-title: "Update to GPT-5 System Card: GPT-5.2 | OpenAI"
 render_with_liquid: false
+title: "Update to GPT-5 System Card: GPT-5.2 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-system-card-update-gpt-5-2"
 date: "2025-12-11"
@@ -10,8 +10,9 @@ translated: true
 description: "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System ..."
 tags: ["Publication"]
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 December 11, 2025
 
 2025年12月11日

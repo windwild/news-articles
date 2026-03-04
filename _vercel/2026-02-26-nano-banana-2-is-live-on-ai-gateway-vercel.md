@@ -1,6 +1,6 @@
 ---
-title: "Nano Banana 2 is live on AI Gateway - Vercel"
 render_with_liquid: false
+title: "Nano Banana 2 is live on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/nano-banana-2-is-live-on-ai-gateway"
 date: "2026-02-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access Google's newest model, Gemini 3.1 Flash Image Preview (Nano Banana 2) via Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 26, 2026
 
 2026 年 2 月 26 日

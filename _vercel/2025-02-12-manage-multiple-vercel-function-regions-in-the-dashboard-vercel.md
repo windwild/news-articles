@@ -1,6 +1,6 @@
 ---
-title: "Manage multiple Vercel Function regions in the dashboard - Vercel"
 render_with_liquid: false
+title: "Manage multiple Vercel Function regions in the dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/manage-multiple-vercel-function-regions-in-the-dashboard"
 date: "2025-02-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now select multiple regions for your Vercel Functions directly from the dashboard. This makes configuration easier by removing the need to define regions in vercel.json."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 12, 2025
 
 2025 年 2 月 12 日

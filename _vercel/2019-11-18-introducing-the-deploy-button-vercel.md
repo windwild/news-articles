@@ -1,6 +1,6 @@
 ---
-title: "Introducing the Deploy Button - Vercel"
 render_with_liquid: false
+title: "Introducing the Deploy Button - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/deploy-button"
 date: "2019-11-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Make your project deployable with the click of a button."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 18, 2019
 
 2019 年 11 月 18 日

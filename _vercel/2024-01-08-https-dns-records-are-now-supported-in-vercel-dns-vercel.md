@@ -1,6 +1,6 @@
 ---
-title: "HTTPS DNS records are now supported in Vercel DNS - Vercel"
 render_with_liquid: false
+title: "HTTPS DNS records are now supported in Vercel DNS - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/https-dns-records-are-now-supported-in-vercel-dns"
 date: "2024-01-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 8, 2024
 
 2024 年 1 月 8 日

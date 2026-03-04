@@ -1,6 +1,6 @@
 ---
-title: "Monitoring is in public beta for Enterprise Teams - Vercel"
 render_with_liquid: false
+title: "Monitoring is in public beta for Enterprise Teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/monitoring-is-in-public-beta-for-enterprise-teams"
 date: "2022-08-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 17, 2022
 
 2022 年 8 月 17 日

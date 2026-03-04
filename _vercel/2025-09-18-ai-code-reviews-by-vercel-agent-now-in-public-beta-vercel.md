@@ -1,6 +1,6 @@
 ---
-title: "AI code reviews by Vercel Agent now in Public Beta - Vercel"
 render_with_liquid: false
+title: "AI code reviews by Vercel Agent now in Public Beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-code-reviews-by-vercel-agent-now-in-beta"
 date: "2025-09-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Agent now provides high signal AI code reviews and fix suggestions to speed up your development process"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 18, 2025
 
 2025 年 9 月 18 日

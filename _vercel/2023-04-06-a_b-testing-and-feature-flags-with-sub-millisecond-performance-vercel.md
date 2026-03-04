@@ -1,6 +1,6 @@
 ---
-title: "A/B Testing and Feature Flags with sub-millisecond performance - Vercel"
 render_with_liquid: false
+title: "A/B Testing and Feature Flags with sub-millisecond performance - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-edge-config-is-now-generally-available"
 date: "2023-04-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A globally distributed data store for low latency experimentation."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 6, 2023
 
 2023 年 4 月 6 日

@@ -1,6 +1,6 @@
 ---
-title: "Runtime logs now show event sequences for Vercel requests - Vercel"
 render_with_liquid: false
+title: "Runtime logs now show event sequences for Vercel requests - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/runtime-logs-now-show-event-sequences-for-vercel-requests"
 date: "2024-12-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 4, 2024
 
 2024 年 12 月 4 日

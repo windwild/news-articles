@@ -1,6 +1,6 @@
 ---
-title: "VPC Peering now available as self-service for Vercel’s Secure Compute - Vercel"
 render_with_liquid: false
+title: "VPC Peering now available as self-service for Vercel’s Secure Compute - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vpc-peering-now-available-as-self-service-for-vercel-secure-compute"
 date: "2024-09-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 25, 2024
 
 2024 年 9 月 25 日

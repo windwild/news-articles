@@ -1,6 +1,6 @@
 ---
-title: "New firewall challenge metrics now available - Vercel"
 render_with_liquid: false
+title: "New firewall challenge metrics now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-firewall-challenge-metrics-now-available"
 date: "2025-06-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now monitor and query for challenge outcomes with two new metrics, available in the Firewall and Observability dashboards."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 3, 2025
 
 2025 年 6 月 3 日

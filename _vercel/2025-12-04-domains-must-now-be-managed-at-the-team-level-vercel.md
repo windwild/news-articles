@@ -1,6 +1,6 @@
 ---
-title: "Domains must now be managed at the team level - Vercel"
 render_with_liquid: false
+title: "Domains must now be managed at the team level - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/domains-must-now-be-managed-at-the-team-level"
 date: "2025-12-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel account domains are now deprecated and must be moved to a team in order to continue using them."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 4, 2025
 
 2025 年 12 月 4 日

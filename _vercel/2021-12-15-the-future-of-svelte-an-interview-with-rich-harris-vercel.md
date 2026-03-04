@@ -1,6 +1,6 @@
 ---
-title: "The future of Svelte, an interview with Rich Harris - Vercel"
 render_with_liquid: false
+title: "The future of Svelte, an interview with Rich Harris - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-future-of-svelte-an-interview-with-rich-harris"
 date: "2021-12-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "In this 45-minute interview, hear Rich Harris (the creator of Svelte) talk about its plans for the future. Other topics include funding open-source, SvelteKit 1.0, the Edge-first future, and more."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 15, 2021
 
 2021年12月15日

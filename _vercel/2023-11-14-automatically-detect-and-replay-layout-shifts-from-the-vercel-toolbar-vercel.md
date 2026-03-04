@@ -1,6 +1,6 @@
 ---
-title: "Automatically detect and replay layout shifts from the Vercel Toolbar - Vercel"
 render_with_liquid: false
+title: "Automatically detect and replay layout shifts from the Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatically-detect-and-replay-layout-shifts"
 date: "2023-11-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 14, 2023
 
 2023 年 11 月 14 日

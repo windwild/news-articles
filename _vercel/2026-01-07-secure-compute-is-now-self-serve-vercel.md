@@ -1,6 +1,6 @@
 ---
-title: "Secure Compute is now self-serve - Vercel"
 render_with_liquid: false
+title: "Secure Compute is now self-serve - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/secure-compute-is-now-self-serve"
 date: "2026-01-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Secure Compute Networks are self-serve for all Enterprise Teams. Customers can self serve creating, updating and deleting Secure Compute Networks from the Vercel Dashboard."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 7, 2026
 
 2026 年 1 月 7 日

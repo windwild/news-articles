@@ -1,6 +1,6 @@
 ---
-title: "AWS and Vercel: Accelerating innovation with serverless computing - Vercel"
 render_with_liquid: false
+title: "AWS and Vercel: Accelerating innovation with serverless computing - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/aws-and-vercel-accelerating-innovation-with-serverless-computing"
 date: "2022-12-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Helping teams take advantage of best-in-class AWS infrastructure with zero configuration."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 6, 2022
 
 2022 年 12 月 6 日

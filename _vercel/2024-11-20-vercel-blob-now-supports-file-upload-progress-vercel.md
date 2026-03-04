@@ -1,6 +1,6 @@
 ---
-title: "Vercel Blob now supports file upload progress - Vercel"
 render_with_liquid: false
+title: "Vercel Blob now supports file upload progress - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-blob-now-supports-file-upload-progress"
 date: "2024-11-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 20, 2024
 
 2024 年 11 月 20 日

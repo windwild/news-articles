@@ -1,6 +1,6 @@
 ---
-title: "MiniMax M2.1 now live on Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "MiniMax M2.1 now live on Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/minimax-m2-1-now-live-on-vercel-ai-gateway"
 date: "2025-12-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access the MiniMax M2.1 model on Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 22, 2025
 
 2025 年 12 月 22 日

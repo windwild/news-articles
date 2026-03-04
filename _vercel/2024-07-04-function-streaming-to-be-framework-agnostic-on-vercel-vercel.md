@@ -1,6 +1,6 @@
 ---
-title: "Function streaming to be framework-agnostic on Vercel - Vercel"
 render_with_liquid: false
+title: "Function streaming to be framework-agnostic on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-functions-streaming-to-be-framework-agnostic"
 date: "2024-07-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Function streaming now framework-agnostic on Vercel."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 4, 2024
 
 Jul 4, 2024

@@ -1,6 +1,6 @@
 ---
-title: "Bulk upload now available for Environment Variables - Vercel"
 render_with_liquid: false
+title: "Bulk upload now available for Environment Variables - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bulk-upload-now-available-for-environment-variables"
 date: "2022-11-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 17, 2022
 
 2022 年 11 月 17 日

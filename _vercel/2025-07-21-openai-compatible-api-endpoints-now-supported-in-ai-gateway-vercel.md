@@ -1,6 +1,6 @@
 ---
-title: "OpenAI-compatible API endpoints now supported in AI Gateway - Vercel"
 render_with_liquid: false
+title: "OpenAI-compatible API endpoints now supported in AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/openai-compatible-api-endpoints-now-supported-in-ai-gateway"
 date: "2025-07-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "OpenAI-compatible API endpoints now supported in AI Gateway giving you access to 100s of models with no code rewrites required"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 21, 2025
 
 2025 年 7 月 21 日

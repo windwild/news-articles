@@ -1,6 +1,6 @@
 ---
-title: "Enterprise customers can now export audit logs - Vercel"
 render_with_liquid: false
+title: "Enterprise customers can now export audit logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enterprise-customers-can-now-export-audit-logs"
 date: "2022-09-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 12, 2022
 
 2022年9月12日

@@ -1,6 +1,6 @@
 ---
-title: "Self-driving infrastructure - Vercel"
 render_with_liquid: false
+title: "Self-driving infrastructure - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/self-driving-infrastructure"
 date: "2025-11-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "At Vercel, we’re building self-driving infrastructure, a system that autonomously manages production operations, improves application code using real-world insights, and learns from the unpredictabl..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 21, 2025
 
 2025 年 11 月 21 日

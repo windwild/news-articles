@@ -1,6 +1,6 @@
 ---
-title: "Vercel Postgres is now generally available for Hobby and Pro users - Vercel"
 render_with_liquid: false
+title: "Vercel Postgres is now generally available for Hobby and Pro users - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-postgres-is-now-available-for-pro-users"
 date: "2023-10-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Changelog for (now deprecated) Vercel postgres, our serverless SQL database, general availability for hobby and pro users"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 13, 2023
 
 2023年10月13日

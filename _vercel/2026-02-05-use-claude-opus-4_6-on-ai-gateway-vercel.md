@@ -1,6 +1,6 @@
 ---
-title: "Use Claude Opus 4.6 on AI Gateway - Vercel"
 render_with_liquid: false
+title: "Use Claude Opus 4.6 on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claude-opus-4.6-on-ai-gateway"
 date: "2026-02-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access Anthropic's latest model, Claude Opus 4.6, via Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 5, 2026
 
 2026 年 2 月 5 日

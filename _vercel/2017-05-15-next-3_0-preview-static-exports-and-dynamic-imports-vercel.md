@@ -1,6 +1,6 @@
 ---
-title: "Next 3.0 Preview: Static Exports and Dynamic Imports - Vercel"
 render_with_liquid: false
+title: "Next 3.0 Preview: Static Exports and Dynamic Imports - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next3-preview"
 date: "2017-05-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Next 3.0 features Static Exports with one command and Dynamic Imports"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 15, 2017
 
 2017 年 5 月 15 日

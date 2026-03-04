@@ -1,6 +1,6 @@
 ---
-title: "Optimizing performance for over 6M monthly visitors at CruiseCritic  - Vercel"
 render_with_liquid: false
+title: "Optimizing performance for over 6M monthly visitors at CruiseCritic  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/a-better-developer-experience-makes-building-cruise-critic-more-efficient"
 date: "2023-02-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Major improvements to the developer experience means Cruise Critic builds software more efficiently. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 24, 2023
 
 2023年2月24日

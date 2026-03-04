@@ -1,6 +1,6 @@
 ---
-title: "Vercel BotID now  available for all frameworks - Vercel"
 render_with_liquid: false
+title: "Vercel BotID now  available for all frameworks - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/botid-now-available-for-all-frameworks"
 date: "2025-07-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Protect high-value endpoints like checkout, login, and AI APIs with Vercel BotID 1.4.3, now with universal JavaScript support. Use initBotId() in SvelteKit, Nuxt, and more to stop the more sophisticat..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 22, 2025
 
 2025 年 7 月 22 日

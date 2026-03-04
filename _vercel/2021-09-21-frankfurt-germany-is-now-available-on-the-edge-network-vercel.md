@@ -1,6 +1,6 @@
 ---
-title: "Frankfurt (Germany) is now available on the Edge Network - Vercel"
 render_with_liquid: false
+title: "Frankfurt (Germany) is now available on the Edge Network - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/frankfurt-germany-is-now-available-on-the-edge-network"
 date: "2021-09-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 21, 2021
 
 2021 年 9 月 21 日

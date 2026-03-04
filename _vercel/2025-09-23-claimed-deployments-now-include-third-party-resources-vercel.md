@@ -1,6 +1,6 @@
 ---
-title: "Claimed deployments now include third-party resources - Vercel"
 render_with_liquid: false
+title: "Claimed deployments now include third-party resources - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claimed-deployments-now-include-third-party-resources"
 date: "2025-09-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports transferring resources like databases between teams as part of the Claim Deployments flow. Developers building AI agents, no-code tools, and workflow apps can instantly deploy proj..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 23, 2025
 
 2025 年 9 月 23 日

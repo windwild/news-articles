@@ -1,6 +1,6 @@
 ---
-title: "Intelligent ignored builds using Turborepo - Vercel"
 render_with_liquid: false
+title: "Intelligent ignored builds using Turborepo - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/intelligent-ignored-builds-using-turborepo"
 date: "2022-08-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 26, 2022
 
 2022 年 8 月 26 日

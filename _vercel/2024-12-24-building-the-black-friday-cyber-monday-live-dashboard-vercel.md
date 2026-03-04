@@ -1,6 +1,6 @@
 ---
-title: "Building the Black Friday-Cyber Monday live dashboard - Vercel"
 render_with_liquid: false
+title: "Building the Black Friday-Cyber Monday live dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-the-black-friday-cyber-monday-live-dashboard"
 date: "2024-12-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "See how we built the data-heavy Black Friday-Cyber Monday dashboard to be cost-efficient, fast, and accurate. Building a data-heavy, real-time dashboard with a good user experience comes with challeng..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 24, 2024
 
 2024 年 12 月 24 日

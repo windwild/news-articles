@@ -1,6 +1,6 @@
 ---
-title: "How we built Agent Builder’s memory system"
 render_with_liquid: false
+title: "How we built Agent Builder’s memory system"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/how-we-built-agent-builders-memory-system/"
 date: "2026-02-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A key part of Agent Builder is its memory system. In this article we cover our rationale for prioritizing a memory system, technical details of how we built it, learnings from building the memory syst..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 We launched [LangSmith Agent Builder](https://smith.langchain.com/agents?skipOnboarding=true&ref=blog.langchain.com) last month as a no-code way to build agents. A key part of Agent Builder is its memory system. In this article we cover our rationale for prioritizing a memory system, technical details of how we built it, learnings from building the memory system, what the memory system enables, and discuss future work.
 
 我们于上月推出了 [LangSmith Agent Builder](https://smith.langchain.com/agents?skipOnboarding=true&ref=blog.langchain.com)，这是一款无需编写代码即可构建智能体（agent）的工具。Agent Builder 的核心组件之一便是其记忆系统（memory system）。本文将介绍我们为何优先构建记忆系统、该系统的具体技术实现、开发过程中的经验总结、记忆系统所赋能的功能，以及对未来工作的展望。

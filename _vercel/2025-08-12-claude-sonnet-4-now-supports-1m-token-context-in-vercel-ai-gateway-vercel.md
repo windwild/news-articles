@@ -1,6 +1,6 @@
 ---
-title: "Claude Sonnet 4 now supports 1M token context in Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "Claude Sonnet 4 now supports 1M token context in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claude-sonnet-4-now-supports-1m-token-context-in-vercel-ai-gateway"
 date: "2025-08-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now leverage Claude Sonnet 4's updated token context window with Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 12, 2025
 
 2025 年 8 月 12 日

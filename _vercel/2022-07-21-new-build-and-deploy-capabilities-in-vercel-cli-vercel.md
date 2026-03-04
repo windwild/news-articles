@@ -1,6 +1,6 @@
 ---
-title: "New build and deploy capabilities in Vercel CLI - Vercel"
 render_with_liquid: false
+title: "New build and deploy capabilities in Vercel CLI - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-build-and-deploy-capabilities-in-vercel-cli"
 date: "2022-07-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 21, 2022
 
 2022年7月21日

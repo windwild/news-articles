@@ -1,6 +1,6 @@
 ---
-title: "Configure retention periods for deployments - Vercel"
 render_with_liquid: false
+title: "Configure retention periods for deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/configure-retention-periods-for-deployments"
 date: "2024-08-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 23, 2024
 
 2024 年 8 月 23 日

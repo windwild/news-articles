@@ -1,6 +1,6 @@
 ---
-title: "Application-aware Observability now in limited beta - Vercel"
 render_with_liquid: false
+title: "Application-aware Observability now in limited beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/application-aware-observability-in-limited-beta"
 date: "2024-10-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 2, 2024
 
 2024 年 10 月 2 日

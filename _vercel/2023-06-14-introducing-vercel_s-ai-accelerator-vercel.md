@@ -1,6 +1,6 @@
 ---
-title: "Introducing Vercel's AI Accelerator - Vercel"
 render_with_liquid: false
+title: "Introducing Vercel's AI Accelerator - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-ai-accelerator"
 date: "2023-06-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A 6 week program with over $850k in credits from Vercel and top AI platforms."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 14, 2023
 
 2023年6月14日

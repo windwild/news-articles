@@ -1,6 +1,6 @@
 ---
-title: "How Elkjøp Transformed Retail with Next.js and Vercel - Vercel"
 render_with_liquid: false
+title: "How Elkjøp Transformed Retail with Next.js and Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/elkjops-digital-transformation-with-next-js-and-vercel"
 date: "2024-07-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "By adopting Next.js and Vercel, Elkjøp improved page loads, SEO, and overall user experience, driving over $1 Billion in digital revenue"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 24, 2024
 
 2024年7月24日

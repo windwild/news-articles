@@ -1,6 +1,6 @@
 ---
-title: "Introducing `vercel dev`: Serverless, on localhost - Vercel"
 render_with_liquid: false
+title: "Introducing `vercel dev`: Serverless, on localhost - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-dev"
 date: "2019-04-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "With Vercel CLI's new `vercel dev` command, you can locally work on Vercel applications easily, without having to deploy them."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 30, 2019
 
 2019 年 4 月 30 日

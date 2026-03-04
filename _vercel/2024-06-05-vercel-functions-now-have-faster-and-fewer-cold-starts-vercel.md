@@ -1,6 +1,6 @@
 ---
-title: "Vercel Functions now have faster and fewer cold starts - Vercel"
 render_with_liquid: false
+title: "Vercel Functions now have faster and fewer cold starts - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-functions-now-have-faster-and-fewer-cold-starts"
 date: "2024-06-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 5, 2024
 
 2024 年 6 月 5 日

@@ -1,6 +1,6 @@
 ---
-title: "Vercel Queues now in public beta - Vercel"
 render_with_liquid: false
+title: "Vercel Queues now in public beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-queues-now-in-public-beta"
 date: "2026-02-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Customers can now use Vercel Queues in public beta, without any restrictions or needing to be allow listed"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 27, 2026
 
 2026 年 2 月 27 日

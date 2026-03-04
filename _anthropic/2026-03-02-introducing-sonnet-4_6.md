@@ -1,6 +1,6 @@
 ---
-title: "Introducing Sonnet 4.6"
 render_with_liquid: false
+title: "Introducing Sonnet 4.6"
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/claude-sonnet-4-6"
 scraped_at: "2026-03-02T09:21:06.164945543+00:00"
@@ -9,8 +9,9 @@ translated: true
 description: "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design. "
 tags: ["Product"]
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Product
 
 产品

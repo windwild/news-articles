@@ -1,6 +1,6 @@
 ---
-title: "How to integrate AI into your business - Vercel"
 render_with_liquid: false
+title: "How to integrate AI into your business - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-to-integrate-ai-into-your-business"
 date: "2024-08-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn to build robust AI use cases, evaluate initiatives, and integrate AI into your team's workflow. Discover how Vercel's platform accelerates AI development and drives innovation."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 6, 2024
 
 2024 年 8 月 6 日

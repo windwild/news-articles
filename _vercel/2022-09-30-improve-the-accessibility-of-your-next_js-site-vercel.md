@@ -1,6 +1,6 @@
 ---
-title: "Improve the accessibility of your Next.js site - Vercel"
 render_with_liquid: false
+title: "Improve the accessibility of your Next.js site - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/improving-the-accessibility-of-our-nextjs-site"
 date: "2022-09-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Let's make the Web. Accessible."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 30, 2022
 
 2022 年 9 月 30 日

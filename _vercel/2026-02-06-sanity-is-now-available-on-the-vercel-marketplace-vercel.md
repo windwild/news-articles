@@ -1,6 +1,6 @@
 ---
-title: "Sanity is now available on the Vercel Marketplace - Vercel"
 render_with_liquid: false
+title: "Sanity is now available on the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sanity-vercel-marketplace"
 date: "2026-02-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Sanity is now available as a content management system integration on the Vercel Marketplace. Install and configure directly from your Vercel dashboard."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 6, 2026
 
 2026年2月6日

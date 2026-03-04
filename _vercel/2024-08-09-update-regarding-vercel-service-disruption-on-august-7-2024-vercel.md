@@ -1,6 +1,6 @@
 ---
-title: "Update regarding Vercel service disruption on August 7, 2024 - Vercel"
 render_with_liquid: false
+title: "Update regarding Vercel service disruption on August 7, 2024 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/update-regarding-vercel-service-disruption-on-august-7-2024"
 date: "2024-08-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Understanding the service disruption and Vercel's next steps"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 9, 2024
 
 2024 年 8 月 9 日

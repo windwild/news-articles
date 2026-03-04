@@ -1,6 +1,6 @@
 ---
-title: "Next.js: Server-side Rendering vs. Static Generation - Vercel"
 render_with_liquid: false
+title: "Next.js: Server-side Rendering vs. Static Generation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-server-side-rendering-vs-static-generation"
 date: "2020-07-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "How to use Static Generation, Incremental Static Generation, and Client-side Fetching with Next.js."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 9, 2020
 
 2020年7月9日

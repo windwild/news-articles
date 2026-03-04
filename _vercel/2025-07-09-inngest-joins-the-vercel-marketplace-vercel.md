@@ -1,6 +1,6 @@
 ---
-title: "Inngest joins the Vercel Marketplace - Vercel"
 render_with_liquid: false
+title: "Inngest joins the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/inngest-joins-the-vercel-marketplace"
 date: "2025-07-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Build background jobs and AI workflows with Inngest, now on the Vercel Marketplace. Native support for Next.js, preview environments, and branching."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 9, 2025
 
 2025年7月9日

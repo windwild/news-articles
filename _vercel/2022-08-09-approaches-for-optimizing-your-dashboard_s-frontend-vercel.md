@@ -1,6 +1,6 @@
 ---
-title: "Approaches for optimizing your dashboard's frontend - Vercel"
 render_with_liquid: false
+title: "Approaches for optimizing your dashboard's frontend - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-we-made-the-vercel-dashboard-twice-as-fast"
 date: "2022-08-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Let’s review the techniques and strategies we used to improve the Vercel Dashboard so you can make a data-driven impact on your application. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 9, 2022
 
 2022年8月9日

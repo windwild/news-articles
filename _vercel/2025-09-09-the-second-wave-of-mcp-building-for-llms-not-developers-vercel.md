@@ -1,6 +1,6 @@
 ---
-title: "The second wave of MCP: Building for LLMs, not developers - Vercel"
 render_with_liquid: false
+title: "The second wave of MCP: Building for LLMs, not developers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-second-wave-of-mcp-building-for-llms-not-developers"
 date: "2025-09-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The second wave of MCP, building for LLMs, not developers. Explore the evolution of MCP as it shifts from developer-focused tools to LLM-native integrations. Discover the future of AI connectivity."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 2025年9月9日
 
 2025年9月9日

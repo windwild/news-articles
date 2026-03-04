@@ -1,6 +1,6 @@
 ---
-title: "Statement from Dario Amodei on our discussions with the Department of War"
 render_with_liquid: false
+title: "Statement from Dario Amodei on our discussions with the Department of War"
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/statement-department-of-war"
 scraped_at: "2026-03-02T09:21:04.516724194+00:00"
@@ -9,8 +9,9 @@ translated: true
 description: "A statement from our CEO on national security uses of AI"
 tags: ["Announcements"]
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 # Statement from Dario Amodei on our discussions with the Department of War
 
 # 达里奥·阿莫代伊就我们与战争部会谈所发表的声明

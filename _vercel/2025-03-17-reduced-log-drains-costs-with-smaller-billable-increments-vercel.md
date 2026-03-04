@@ -1,6 +1,6 @@
 ---
-title: "Reduced Log Drains costs with smaller billable increments - Vercel"
 render_with_liquid: false
+title: "Reduced Log Drains costs with smaller billable increments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/reduced-log-drains-costs-with-smaller-billable-increments"
 date: "2025-03-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Additional transferred Log Drain data will be charged in smaller increments of $0.50 per 1GB instead of $10 per 20GB"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 17, 2025
 
 2025 年 3 月 17 日

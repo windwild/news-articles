@@ -1,6 +1,6 @@
 ---
-title: "Environment Variables can now be filtered - Vercel"
 render_with_liquid: false
+title: "Environment Variables can now be filtered - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/environment-variables-can-now-be-filtered"
 date: "2020-12-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 23, 2020
 
 2020年12月23日

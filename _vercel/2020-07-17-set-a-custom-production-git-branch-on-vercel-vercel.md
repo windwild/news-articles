@@ -1,6 +1,6 @@
 ---
-title: "Set a custom production Git branch on Vercel - Vercel"
 render_with_liquid: false
+title: "Set a custom production Git branch on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/custom-production-branch"
 date: "2020-07-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "As of today, you can customize the Production Branch of your Projects right in the Project Settings."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 17, 2020
 
 2020 年 7 月 17 日

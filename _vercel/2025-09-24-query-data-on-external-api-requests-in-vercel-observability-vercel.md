@@ -1,6 +1,6 @@
 ---
-title: "Query data on external API requests in Vercel Observability - Vercel"
 render_with_liquid: false
+title: "Query data on external API requests in Vercel Observability - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/query-data-on-external-api-requests-in-vercel-observability"
 date: "2025-09-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "It's now possible to run custom queries against all external API requests that where made from Vercel Functions"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 24, 2025
 
 2025 年 9 月 24 日

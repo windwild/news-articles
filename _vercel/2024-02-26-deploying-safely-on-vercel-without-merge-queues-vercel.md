@@ -1,6 +1,6 @@
 ---
-title: "Deploying safely on Vercel without merge queues - Vercel"
 render_with_liquid: false
+title: "Deploying safely on Vercel without merge queues - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/deploy-safely-on-vercel-without-merge-queues"
 date: "2024-02-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Deploy quickly and safely with Vercel without merge queues"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 26, 2024
 
 2024 年 2 月 26 日

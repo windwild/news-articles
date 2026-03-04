@@ -1,6 +1,6 @@
 ---
-title: "Sensitive environment variables are now available - Vercel"
 render_with_liquid: false
+title: "Sensitive environment variables are now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sensitive-environment-variables-are-now-available"
 date: "2024-02-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 1, 2024
 
 2024 年 2 月 1 日

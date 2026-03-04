@@ -1,6 +1,6 @@
 ---
-title: "Understanding CSRF attacks - Vercel"
 render_with_liquid: false
+title: "Understanding CSRF attacks - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/understanding-csrf-attacks"
 date: "2023-09-29"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Understand the mechanics and risks of Cross-Site Request Forgery (CSRF) attacks, and discover crucial development practices, like anti-CSRF tokens and appropriate use of HTTP methods, to fortify web a..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 29, 2023
 
 2023年9月29日

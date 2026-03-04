@@ -1,6 +1,6 @@
 ---
-title: "30-day runtime log retention, now available in Observability Plus - Vercel"
 render_with_liquid: false
+title: "30-day runtime log retention, now available in Observability Plus - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/30-day-runtime-log-retention-now-available-in-observability-plus"
 date: "2025-08-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Observability Plus subscribers now get 30 days of runtime log retention in the Logs page within the Vercel dashboard"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 26, 2025
 
 2025 年 8 月 26 日

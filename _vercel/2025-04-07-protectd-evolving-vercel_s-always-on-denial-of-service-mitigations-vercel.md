@@ -1,6 +1,6 @@
 ---
-title: "Protectd: Evolving Vercel’s always-on denial-of-service mitigations - Vercel"
 render_with_liquid: false
+title: "Protectd: Evolving Vercel’s always-on denial-of-service mitigations - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/protectd-evolving-vercels-always-on-denial-of-service-mitigations"
 date: "2025-04-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Protectd is our new real-time security engine that blocks DDoS attacks faster than ever—built to detect, learn from, and stop threats before they reach your app. Now powering sub-second protection a..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 7, 2025
 
 2025年4月7日

@@ -1,6 +1,6 @@
 ---
-title: " Vercel Sandbox increases concurrency and port limits - Vercel"
 render_with_liquid: false
+title: " Vercel Sandbox increases concurrency and port limits - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-sandbox-increases-concurrency-and-port-limits"
 date: "2025-08-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Run up to 2000 sandboxes at the same time. Sandbox also now supports listening on up to 4 different ports"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 18, 2025
 
 2025 年 8 月 18 日

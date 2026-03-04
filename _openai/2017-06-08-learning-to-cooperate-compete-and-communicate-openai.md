@@ -1,0 +1,86 @@
+---
+render_with_liquid: false
+title: "Learning to cooperate, compete, and communicate | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/learning-to-cooperate-compete-and-communicate"
+date: "2017-06-08"
+scraped_at: "2026-03-02T10:32:38.972389529+00:00"
+language: "en-US"
+translated: false
+description: "Multiagent environments where agents compete for resources are stepping stones on the path to AGI. Multiagent environments have two useful properties: first, there is a natural curriculum—the diffic..."
+tags: ["Research"]
+---
+
+June 8, 2017
+
+
+# Learning to cooperate, compete, and communicate
+
+[View code(opens in a new window)](https://github.com/openai/multiagent-particle-envs) [Read paper(opens in a new window)](https://arxiv.org/abs/1706.02275)
+
+![Learning To Cooperate Compete And Communicate](images/learning-to-cooperate-compete-and-communicate-openai/img_001.webp)
+
+
+
+Multiagent environments where agents compete for resources are stepping stones on the path to AGI. Multiagent environments have two useful properties: first, there is a natural curriculum—the difficulty of the environment is determined by the skill of your competitors (and if you’re competing against clones of yourself, the environment exactly matches your skill level). Second, a multiagent environment has no stable equilibrium: no matter how smart an agent is, there’s always pressure to get smarter. These environments have a very different feel from traditional environments, and it’ll take a lot more research before we become good at them.
+
+We’ve developed a new algorithm, [MADDPG⁠(opens in a new window)](https://arxiv.org/abs/1706.02275), for centralized learning and decentralized execution in multiagent environments, allowing agents to learn to collaborate and compete with each other.
+
+![Chase Gif Final](images/learning-to-cooperate-compete-and-communicate-openai/img_002.gif)
+
+MADDPG used to train four red agents to chase two green agents. The red agents have learned to team up with one another to chase a single green agent, gaining higher reward. The green agents, meanwhile, learned to split up, and while one is being chased the other tries to approach the water (blue circle) while avoiding the red agents.
+
+MADDPG extends a reinforcement learning algorithm called [DDPG⁠(opens in a new window)](https://arxiv.org/abs/1509.02971), taking inspiration from [actor-critic reinforcement learning⁠(opens in a new window)](http://webber.physik.uni-freiburg.de/~hon/vorlss02/Literatur/sutton/6/node7.html) techniques; other groups are [exploring⁠(opens in a new window)](https://arxiv.org/abs/1605.07736) [variations⁠(opens in a new window)](https://arxiv.org/abs/1605.06676) and [parallel implementations⁠(opens in a new window)](https://arxiv.org/abs/1705.08926) of these ideas.
+
+We treat each agent in our simulation as an “actor”, and each actor gets advice from a “critic” that helps the actor decide what actions to reinforce during training. Traditionally, the critic tries to predict the _value_ (i.e. the reward we expect to get in the future) of an action in a particular state, which is used by the agent— _the actor_—to update its policy. This is more stable than directly using the reward, which can vary considerably. To make it feasible to train multiple agents that can act in a globally-coordinated way, we enhance our critics so they can access the observations and actions of all the agents, as the following diagram shows.
+
+![Nipsdiagram 2](images/learning-to-cooperate-compete-and-communicate-openai/img_003.gif)
+
+Our agents don’t need to access the central critic at test time; they act based on their observations in combination with their predictions of other agents behaviors’. Since a centralized critic is learned independently for each agent, our approach can also be used to model arbitrary reward structures between agents, including adversarial cases where the rewards are opposing.
+
+![](images/learning-to-cooperate-compete-and-communicate-openai/img_004.gif)
+
+Simple Adv Maddpg Notag
+
+![](images/learning-to-cooperate-compete-and-communicate-openai/img_005.gif)
+
+Speaker Listener Maddpg Notag
+
+![](images/learning-to-cooperate-compete-and-communicate-openai/img_006.gif)
+
+Spread Maddpg Notag
+
+We tested our approach on a variety of tasks and it performed better than DDPG on all of them. In the above animations you can see, from left to right: two AI agents trying to go to a specific location and learning to split up to hide their intended location from the opposing agent; one agent communicating the name of a [landmark to another agent⁠(opens in a new window)](https://blog.openai.com/learning-to-communicate/); and three agents coordinating to travel to landmarks without bumping into each other.
+
+![](images/learning-to-cooperate-compete-and-communicate-openai/img_007.gif)
+
+World Comm Maddpg Comp320
+
+![](images/learning-to-cooperate-compete-and-communicate-openai/img_008.gif)
+
+World Comm Ddpg Comp320 1
+
+Red agents trained with MADDPG exhibit more complex behaviors than those trained with DDPG. In the above animation we see agents trained with our technique (left) and DDPG (right) attempting to chase green agents through green forests and around black obstacles. Our agents catch more agents and visibly coordinate more than those trained with DDPG.
+
+## Where traditional RL struggles
+
+Traditional decentralized RL approaches—DDPG, actor-critic learning, deep Q-learning, and so on—struggle to learn in multiagent environments, as at every time step each agent will be trying to learn to predict the actions of other agents while also taking its own actions. This is especially true in competitive situations. MADDPG employs a centralized critic to supply agents with information about their peers’ observations and potential actions, transforming an unpredictable environment into a predictable one.
+
+Using policy gradient methods presents further challenges: because these exhibit high variance learning the right policy is difficult to do when the reward is inconsistent. We also found that adding in a critic, while improving stability, still failed to solve several of our environments such as cooperative communication. It seems that considering the actions of others during training is important for learning collaborative strategies.
+
+## Initial research
+
+Before we developed MADDPG, when using decentralized techniques, we noticed that listener agents would often learn to ignore the speaker if it sent inconsistent messages about where to go to. The agent would then set all the weights associated with the speaker’s message to 0, effectively deafening itself. Once this happens, it’s hard for training to recover, since the speaker will never know if it says the right thing due to the absence of any feedback. To fix this, we looked at a technique outlined in [a recent hierarchical reinforcement project⁠(opens in a new window)](https://arxiv.org/abs/1703.01161), which lets us force the listener to incorporate the utterances of the speaker in its decision-making process. This fix didn’t work, because though it forces the listener to pay attention to the speaker, it doesn’t help the speaker figure out what to say that is relevant. Our centralized critic method helps deal with these challenges, by helping the speaker to learn which utterances might be relevant to the actions of other agents. For more of our results, you can watch the following video:
+
+![Learning To Cooperate Complete And Communicate Poster](images/learning-to-cooperate-compete-and-communicate-openai/img_009.jpg)
+
+00:00
+
+## Next steps
+
+Agent modeling has a [rich history⁠(opens in a new window)](https://link.springer.com/article/10.1007/s10458-005-2631-2) within artificial intelligence research and many of these scenarios have been studied before. Lots of [previous research⁠(opens in a new window)](http://ieeexplore.ieee.org/document/4445757/) considered games with only a small number of time steps with a small state space. Deep learning lets us deal with complex visual inputs and RL gives us tools to learn behaviors over long time periods. Now that we can use these capabilities to train multiple-agents at once without them needing to know the dynamics of the environment (how the environment changes at each time-step), we can tackle a wider range of problems involving communication and language while learning from environments’ high-dimensional information. If you’re interesting in exploring different approaches to evolving agents then consider [joining OpenAI⁠](https://openai.com/careers/).
+
+- [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
+- [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
+- [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
+- [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)

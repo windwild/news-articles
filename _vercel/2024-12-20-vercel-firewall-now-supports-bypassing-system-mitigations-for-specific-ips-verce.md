@@ -1,6 +1,6 @@
 ---
-title: "Vercel Firewall now supports bypassing system mitigations for specific IPs - Vercel"
 render_with_liquid: false
+title: "Vercel Firewall now supports bypassing system mitigations for specific IPs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-firewall-now-supports-bypassing-system-mitigations-for-specific-ips"
 date: "2024-12-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Customers on paid plans can now configure firewall rules to bypass system mitigations, including DDoS protection, for specific IPs and CIDR ranges."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 20, 2024
 
 2024 年 12 月 20 日

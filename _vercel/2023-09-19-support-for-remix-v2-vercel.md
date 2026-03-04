@@ -1,6 +1,6 @@
 ---
-title: "Support for Remix v2 - Vercel"
 render_with_liquid: false
+title: "Support for Remix v2 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-for-remix-v2"
 date: "2023-09-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 19, 2023
 
 2023 年 9 月 19 日

@@ -1,6 +1,6 @@
 ---
-title: "Using SvelteKit 1.0 on Vercel - Vercel"
 render_with_liquid: false
+title: "Using SvelteKit 1.0 on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/using-sveltekit-1-0-on-vercel"
 date: "2022-12-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Using SvelteKit 1.0 on Vercel"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 14, 2022
 
 2022 年 12 月 14 日

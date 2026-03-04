@@ -1,6 +1,6 @@
 ---
-title: "Tag-based cache invalidation now available for all responses - Vercel"
 render_with_liquid: false
+title: "Tag-based cache invalidation now available for all responses - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/tag-based-cache-invalidation-now-available-for-all-responses"
 date: "2026-01-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Cached responses can now assign a comma separated list of cache tags using the Vercel-Cache-Tag header. We recommend using the Vercel-Cache-Tag header for caching with external backends or for framewo..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 28, 2026
 
 2026 年 1 月 28 日

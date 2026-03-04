@@ -1,6 +1,6 @@
 ---
-title: "Optimizing secure build infrastructure with Secure Compute - Vercel"
 render_with_liquid: false
+title: "Optimizing secure build infrastructure with Secure Compute - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/optimizing-secure-builds-with-hive-and-secure-compute"
 date: "2024-12-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We built Hive, our general compute platform, after outgrowing off-the-shelf solutions.  See how it's now powering secure connections to private networks, cutting initialization from 90s to 5s and impr..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 18, 2024
 
 2024 年 12 月 18 日

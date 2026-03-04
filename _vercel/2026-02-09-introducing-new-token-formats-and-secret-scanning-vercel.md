@@ -1,6 +1,6 @@
 ---
-title: "Introducing new token formats and secret scanning - Vercel"
 render_with_liquid: false
+title: "Introducing new token formats and secret scanning - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-token-formats-and-secret-scanning"
 date: "2026-02-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel automatically detects and revokes exposed credentials. Learn about new token formats, new automated secret scanning, and partnership in GitHub's secret scanning program."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 9, 2026
 
 2026 年 2 月 9 日

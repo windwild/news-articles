@@ -1,6 +1,6 @@
 ---
-title: "Open SDK strategy - Vercel"
 render_with_liquid: false
+title: "Open SDK strategy - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/open-sdk-strategy"
 date: "2025-09-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel’s Open SDK strategy commits to building frameworks, SDKs, and tools in the open, under permissive licenses. Learn how we’re avoiding lock-in, ensuring portability, and investing in open sou..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 3, 2025
 
 2025 年 9 月 3 日

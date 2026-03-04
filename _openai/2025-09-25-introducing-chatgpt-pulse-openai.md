@@ -1,6 +1,6 @@
 ---
-title: "Introducing ChatGPT Pulse | OpenAI"
 render_with_liquid: false
+title: "Introducing ChatGPT Pulse | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-chatgpt-pulse"
 date: "2025-09-25"
@@ -9,8 +9,9 @@ language: "en-US"
 translated: true
 description: "Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 September 25, 2025
 
 2025年9月25日

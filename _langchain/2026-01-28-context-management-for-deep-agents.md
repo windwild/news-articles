@@ -1,6 +1,6 @@
 ---
-title: "Context Management for Deep Agents"
 render_with_liquid: false
+title: "Context Management for Deep Agents"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/context-management-for-deepagents/"
 date: "2026-01-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "By Chester Curme and Mason DaughertyAs the addressable task length of AI agents continues to grow, effective context management becomes critical to prevent context rot and to manage LLMs&#x2019; finit..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 _By Chester Curme and Mason Daugherty_
 
 _作者：切斯特·柯姆（Chester Curme）与梅森·道赫蒂（Mason Daugherty）_

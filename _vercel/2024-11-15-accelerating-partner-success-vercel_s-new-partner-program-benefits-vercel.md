@@ -1,6 +1,6 @@
 ---
-title: "Accelerating partner success: Vercel’s new Partner Program benefits - Vercel"
 render_with_liquid: false
+title: "Accelerating partner success: Vercel’s new Partner Program benefits - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-partner-program-updates"
 date: "2024-11-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "At Vercel, we see partnership and collaboration as keys to driving innovation and customer success. Vercel partners with consultants, agencies, global system integrators, tech partners, and cloud hype..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 15, 2024
 
 2024年11月15日

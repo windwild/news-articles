@@ -1,6 +1,6 @@
 ---
-title: "Node.js 16 LTS is now available - Vercel"
 render_with_liquid: false
+title: "Node.js 16 LTS is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-16-lts-is-now-available"
 date: "2022-05-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 9, 2022
 
 2022年5月9日

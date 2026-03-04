@@ -1,6 +1,6 @@
 ---
-title: "Legacy build image is being deprecated on September 1, 2025 - Vercel"
 render_with_liquid: false
+title: "Legacy build image is being deprecated on September 1, 2025 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/legacy-build-image-is-being-deprecated"
 date: "2025-04-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The legacy build image will be deprecated on September 1, 2025, alongside the deprecation of Node.js 18."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 10, 2025
 
 2025 年 4 月 10 日

@@ -1,6 +1,6 @@
 ---
-title: "Vercel has now achieved the ISO 27001:2013 certification  - Vercel"
 render_with_liquid: false
+title: "Vercel has now achieved the ISO 27001:2013 certification  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-has-now-achieved-the-iso-27001-2013-certification"
 date: "2023-09-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 12, 2023
 
 2023 年 9 月 12 日

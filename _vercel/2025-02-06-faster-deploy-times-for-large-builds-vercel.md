@@ -1,6 +1,6 @@
 ---
-title: "Faster deploy times for large builds - Vercel"
 render_with_liquid: false
+title: "Faster deploy times for large builds - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-deploy-times-for-large-builds"
 date: "2025-02-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Discover the upcoming update to Vercel Edge Functions with a new execution duration limit of 300 seconds, enhancing predictability and reliability in function management starting March 1st."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 6, 2025
 
 2025 年 2 月 6 日

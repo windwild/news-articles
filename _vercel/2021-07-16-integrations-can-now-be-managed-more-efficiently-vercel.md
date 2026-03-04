@@ -1,6 +1,6 @@
 ---
-title: "Integrations can now be managed more efficiently - Vercel"
 render_with_liquid: false
+title: "Integrations can now be managed more efficiently - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/integrations-can-now-be-managed-more-efficiently"
 date: "2021-07-16"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 16, 2021
 
 2021 年 7 月 16 日

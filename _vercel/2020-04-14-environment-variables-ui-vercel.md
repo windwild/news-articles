@@ -1,6 +1,6 @@
 ---
-title: "Environment Variables UI - Vercel"
 render_with_liquid: false
+title: "Environment Variables UI - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/environment-variables-ui"
 date: "2020-04-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Configure different Environment Variables for Production, Preview, and Development – right in the Dashboard."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 14, 2020
 
 Apr 14, 2020

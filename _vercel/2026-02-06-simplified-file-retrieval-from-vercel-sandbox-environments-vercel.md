@@ -1,6 +1,6 @@
 ---
-title: "Simplified file retrieval from Vercel Sandbox environments - Vercel"
 render_with_liquid: false
+title: "Simplified file retrieval from Vercel Sandbox environments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/simplified-file-retrieval-from-vercel-sandbox-environments"
 date: "2026-02-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Easier file downloads from the Vercel sandbox with new download and read methods added to the sandbox sdk"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 6, 2026
 
 2026 年 2 月 6 日

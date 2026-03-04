@@ -1,6 +1,6 @@
 ---
-title: "View & query bot verification data in Vercel Observability - Vercel"
 render_with_liquid: false
+title: "View & query bot verification data in Vercel Observability - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/view-and-query-bot-verification-data-in-vercel-observability"
 date: "2025-09-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Analyze traffic to your Vercel projects by bot name, bot category, and bot verification status in Vercel Observability"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 30, 2025
 
 2025年9月30日

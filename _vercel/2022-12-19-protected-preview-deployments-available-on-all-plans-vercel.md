@@ -1,6 +1,6 @@
 ---
-title: "Protected Preview Deployments available on all plans - Vercel"
 render_with_liquid: false
+title: "Protected Preview Deployments available on all plans - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/protected-preview-deployments-available-on-all-plans"
 date: "2022-12-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 19, 2022
 
 2022 年 12 月 19 日

@@ -1,6 +1,6 @@
 ---
-title: "AI Code Elements - Vercel"
 render_with_liquid: false
+title: "AI Code Elements - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-code-elements"
 date: "2026-01-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A brand new set of components designed to help you build the next generation of IDEs, coding apps and background agents."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 21, 2026
 
 2026 年 1 月 21 日

@@ -1,6 +1,6 @@
 ---
-title: "Microfrontends now generally available - Vercel"
 render_with_liquid: false
+title: "Microfrontends now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/microfrontends-now-generally-available"
 date: "2025-10-31"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Microfrontends now generally available, enabling you to split large applications into smaller units that render as one cohesive experience for users."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 31, 2025
 
 2025 年 10 月 31 日

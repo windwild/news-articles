@@ -1,6 +1,6 @@
 ---
-title: "Vercel Firewall now stops DDoS attacks up to 40x faster - Vercel"
 render_with_liquid: false
+title: "Vercel Firewall now stops DDoS attacks up to 40x faster - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-firewall-now-stops-ddos-attacks-up-to-40x-faster"
 date: "2024-12-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Vercel Firewall now stops volumetric DDoS attacks 40x faster and low-and-slow attacks 10x faster."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 10, 2024
 
 2024 年 12 月 10 日

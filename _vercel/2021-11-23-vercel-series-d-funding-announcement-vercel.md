@@ -1,6 +1,6 @@
 ---
-title: "Vercel: Series D funding announcement - Vercel"
 render_with_liquid: false
+title: "Vercel: Series D funding announcement - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-funding-series-d-and-valuation"
 date: "2021-11-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We've raised $150M Series D at a $2.5B valuation to accelerate our mission to make the Web. Faster."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 23, 2021
 
 2021 年 11 月 23 日

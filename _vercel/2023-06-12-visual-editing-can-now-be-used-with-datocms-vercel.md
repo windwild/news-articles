@@ -1,6 +1,6 @@
 ---
-title: "Visual Editing can now be used with DatoCMS - Vercel"
 render_with_liquid: false
+title: "Visual Editing can now be used with DatoCMS - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/visual-editing-can-now-be-used-with-datocms"
 date: "2023-06-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 12, 2023
 
 2023年6月12日

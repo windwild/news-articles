@@ -1,6 +1,6 @@
 ---
-title: "The three types of AI bot traffic and how to handle them - Vercel"
 render_with_liquid: false
+title: "The three types of AI bot traffic and how to handle them - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-three-types-of-ai-bot-traffic-and-how-to-handle-them"
 date: "2025-08-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Bots account for over 20% of all web traffic. A quarter of that is AI crawlers alone. But not all bots are bad. Some are key to how your site gets discovered. Learn how AI bots shape visibility and wh..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 13, 2025
 
 2025年8月13日

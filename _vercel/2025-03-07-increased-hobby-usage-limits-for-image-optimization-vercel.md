@@ -1,6 +1,6 @@
 ---
-title: "Increased Hobby usage limits for Image Optimization - Vercel"
 render_with_liquid: false
+title: "Increased Hobby usage limits for Image Optimization - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/increased-hobby-usage-limits-for-image-optimization"
 date: "2025-03-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Hobby teams on Vercel now have higher Image Optimization limits, with increased transformations, cache reads, and cache writes."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 7, 2025
 
 2025 年 3 月 7 日

@@ -1,6 +1,6 @@
 ---
-title: "Vercel Terraform Provider v1.9 - Vercel"
 render_with_liquid: false
+title: "Vercel Terraform Provider v1.9 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-terraform-provider-v1-9"
 date: "2024-04-29"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 29, 2024
 
 2024 年 4 月 29 日

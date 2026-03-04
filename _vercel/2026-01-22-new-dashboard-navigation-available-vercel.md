@@ -1,6 +1,6 @@
 ---
-title: "New dashboard navigation available - Vercel"
 render_with_liquid: false
+title: "New dashboard navigation available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-dashboard-navigation-available"
 date: "2026-01-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Users can now opt-in to the new navigation for the Vercel dashboard with a sidebar, projects as a filter, enhanced scope switchers, and a full mobile rework"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 22, 2026
 
 2026 年 1 月 22 日

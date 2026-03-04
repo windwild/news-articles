@@ -1,6 +1,6 @@
 ---
-title: "What's new in Svelte 5 - Vercel"
 render_with_liquid: false
+title: "What's new in Svelte 5 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/whats-new-in-svelte-5"
 date: "2024-10-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Svelte 5 brings runes for universal reactivity, snippets for reusable markup, and compiler improvements. Get started with Svelte 5 on Vercel today."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 23, 2024
 
 2024 年 10 月 23 日

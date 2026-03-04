@@ -1,6 +1,6 @@
 ---
-title: "Using Vercel comments to improve the Next.js 13 documentation - Vercel"
 render_with_liquid: false
+title: "Using Vercel comments to improve the Next.js 13 documentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/using-vercel-comments-to-improve-the-next-js-13-documentation"
 date: "2022-11-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Help us build the Next.js 13 documentation by commenting directly on the docs themselves."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 3, 2022
 
 2022 年 11 月 3 日

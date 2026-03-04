@@ -1,6 +1,6 @@
 ---
-title: "Introducing the Runtime Cache API - Vercel"
 render_with_liquid: false
+title: "Introducing the Runtime Cache API - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-the-runtime-cache-api"
 date: "2025-08-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel RuntimeCache API that's available in all runtimes, including build, edge, middleware, & serverless."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 13, 2025
 
 2025 年 8 月 13 日

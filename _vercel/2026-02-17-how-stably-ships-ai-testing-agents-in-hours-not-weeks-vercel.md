@@ -1,6 +1,6 @@
 ---
-title: "How Stably ships AI testing agents in hours, not weeks - Vercel"
 render_with_liquid: false
+title: "How Stably ships AI testing agents in hours, not weeks - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/How-Stably-ships-AI-testing-agents-in-hours-not-weeks"
 date: "2026-02-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "How Stably, a 6-person team, ships AI testing agents faster with Vercel, moving from weeks to hours. Their shift highlights how Vercel's platform eliminates infrastructure anxiety, boosting autonomous..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 17, 2026
 
 2026年2月17日

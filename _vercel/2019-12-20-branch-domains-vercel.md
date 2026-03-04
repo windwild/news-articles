@@ -1,6 +1,6 @@
 ---
-title: "Branch Domains - Vercel"
 render_with_liquid: false
+title: "Branch Domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/branch-domains"
 date: "2019-12-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Assign a Git Branch to your domain, so that every deployment created on it will automatically receive the domain."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 20, 2019
 
 2019 年 12 月 20 日

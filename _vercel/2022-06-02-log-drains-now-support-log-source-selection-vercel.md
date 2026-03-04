@@ -1,6 +1,6 @@
 ---
-title: "Log drains now support log source selection - Vercel"
 render_with_liquid: false
+title: "Log drains now support log source selection - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/log-drains-now-support-log-source-selection"
 date: "2022-06-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 2, 2022
 
 2022年6月2日

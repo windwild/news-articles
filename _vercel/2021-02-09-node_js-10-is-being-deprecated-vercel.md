@@ -1,6 +1,6 @@
 ---
-title: "Node.js 10 is being deprecated - Vercel"
 render_with_liquid: false
+title: "Node.js 10 is being deprecated - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-10-is-being-deprecated"
 date: "2021-02-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 9, 2021
 
 2021 年 2 月 9 日

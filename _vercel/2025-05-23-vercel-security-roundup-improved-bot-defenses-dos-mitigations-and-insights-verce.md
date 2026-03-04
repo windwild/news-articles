@@ -1,6 +1,6 @@
 ---
-title: "Vercel security roundup: improved bot defenses, DoS mitigations, and insights - Vercel"
 render_with_liquid: false
+title: "Vercel security roundup: improved bot defenses, DoS mitigations, and insights - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-security-roundup-improved-bot-defenses-dos-mitigations-and-insights"
 date: "2025-05-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Since February, Vercel blocked over 148 billion attacks from 108 million IPs. This roundup highlights improvements to bot protection, DoS mitigation, and firewall tooling to help teams build securely ..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 23, 2025
 
 2025 年 5 月 23 日

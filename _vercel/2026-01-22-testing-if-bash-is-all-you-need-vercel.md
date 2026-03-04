@@ -1,6 +1,6 @@
 ---
-title: "Testing if \"bash is all you need\" - Vercel"
 render_with_liquid: false
+title: "Testing if \"bash is all you need\" - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/testing-if-bash-is-all-you-need"
 date: "2026-01-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We tested bash vs SQL agents on structured data queries. SQL dominated, but combining both tools achieved 100% accuracy. Try the open-source eval harness."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 22, 2026
 
 2026 年 1 月 22 日

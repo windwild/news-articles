@@ -1,6 +1,6 @@
 ---
-title: "Introducing Trace Drains on the Vercel Marketplace - Vercel"
 render_with_liquid: false
+title: "Introducing Trace Drains on the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-trace-drains-on-the-vercel-marketplace"
 date: "2025-10-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Drains now power Marketplace integrations, letting developers stream logs, traces, and analytics from Vercel projects to tools like Braintrust for real-time observability and debugging."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 15, 2025
 
 2025年10月15日

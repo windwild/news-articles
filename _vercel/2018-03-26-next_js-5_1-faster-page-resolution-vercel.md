@@ -1,6 +1,6 @@
 ---
-title: "Next.js 5.1: Faster Page Resolution - Vercel"
 render_with_liquid: false
+title: "Next.js 5.1: Faster Page Resolution - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next5-1"
 date: "2018-03-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Next.js 5.1 features support for environment configuration, phases, source maps, and new Next.js plugins."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 26, 2018
 
 2018 年 3 月 26 日

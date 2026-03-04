@@ -1,6 +1,6 @@
 ---
-title: "Open your Vercel dashboard from the Vercel CLI - Vercel"
 render_with_liquid: false
+title: "Open your Vercel dashboard from the Vercel CLI - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/open-your-vercel-dashboard-from-the-vercel-cli"
 date: "2025-11-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Quickly access your Vercel project dashboard with the new vercel open CLI command. Open your project in the browser with a single command from your terminal."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 24, 2025
 
 2025 年 11 月 24 日

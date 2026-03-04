@@ -1,6 +1,6 @@
 ---
-title: "Web Analytics is now generally available - Vercel"
 render_with_liquid: false
+title: "Web Analytics is now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/web-analytics-is-now-generally-available"
 date: "2023-04-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 19, 2023
 
 2023年4月19日

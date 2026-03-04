@@ -1,6 +1,6 @@
 ---
-title: "Vercel Sandbox maximum duration extended to 5 hours - Vercel"
 render_with_liquid: false
+title: "Vercel Sandbox maximum duration extended to 5 hours - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-sandbox-maximum-duration-extended-to-5-hours"
 date: "2025-09-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Pro and Enterprise teams can now run Vercel Sandboxes for up to 5 hours (up from 45 minutes).  This extension unlocks new possibilities for workloads that require longer runtimes"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 10, 2025
 
 2025 年 9 月 10 日

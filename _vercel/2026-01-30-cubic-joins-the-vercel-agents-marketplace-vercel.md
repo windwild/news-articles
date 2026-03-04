@@ -1,6 +1,6 @@
 ---
-title: "cubic joins the Vercel Agents Marketplace - Vercel"
 render_with_liquid: false
+title: "cubic joins the Vercel Agents Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/cubic-joins-the-vercel-agents-marketplace"
 date: "2026-01-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Cubic joins the Vercel Agents Marketplace, offering teams an AI code reviewer with full codebase context, unified billing, and automated fixes."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 30, 2026
 
 2026 年 1 月 30 日

@@ -1,6 +1,6 @@
 ---
-title: "Building a viral application to visualize train routes - Vercel"
 render_with_liquid: false
+title: "Building a viral application to visualize train routes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-a-viral-application-to-visualize-train-routes"
 date: "2022-09-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "How Benjamin Td built a viral application called Chronotrains to visualize train routes across Europe."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 10, 2022
 
 2022 年 9 月 10 日

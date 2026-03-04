@@ -1,6 +1,6 @@
 ---
-title: "Instrument and trace applications with the OpenTelemetry collector - Vercel"
 render_with_liquid: false
+title: "Instrument and trace applications with the OpenTelemetry collector - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/instrument-and-trace-applications-with-the-opentelemetry-collector"
 date: "2024-01-31"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 31, 2024
 
 2024 年 1 月 31 日

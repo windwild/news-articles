@@ -1,6 +1,6 @@
 ---
-title: "Demant achieves global scalability and 30x faster response times with Vercel - Vercel"
 render_with_liquid: false
+title: "Demant achieves global scalability and 30x faster response times with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/demant-achieves-global-scalability-and-30x-faster-response-times-with-vercel"
 date: "2024-03-29"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Global scalability and 30x faster response times with Vercel"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 29, 2024
 
 2024年3月29日

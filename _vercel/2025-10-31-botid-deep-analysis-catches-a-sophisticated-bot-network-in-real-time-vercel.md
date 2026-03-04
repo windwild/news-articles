@@ -1,6 +1,6 @@
 ---
-title: "BotID Deep Analysis catches a sophisticated bot network in real-time - Vercel"
 render_with_liquid: false
+title: "BotID Deep Analysis catches a sophisticated bot network in real-time - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/botid-deep-analysis-catches-a-sophisticated-bot-network-in-real-time"
 date: "2025-10-31"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "BotID Deep Analysis is a sophisticated, invisible bot detection product. This article is about how BotID Deep Analysis adapted to a novel attack in real time, and successfully classified sessions that..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 31, 2025
 
 2025 年 10 月 31 日

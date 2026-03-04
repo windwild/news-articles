@@ -1,6 +1,6 @@
 ---
-title: "Apply code suggestions from Vercel Agent with one click - Vercel"
 render_with_liquid: false
+title: "Apply code suggestions from Vercel Agent with one click - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/apply-code-suggestions-from-vercel-agent-with-one-click"
 date: "2026-01-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now apply suggested code fixes from the Vercel Agent directly from the Vercel Dashboard with a single click."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 21, 2026
 
 2026 年 1 月 21 日

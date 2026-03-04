@@ -1,6 +1,6 @@
 ---
-title: "Vapi MCP server hosted on Vercel - Vercel"
 render_with_liquid: false
+title: "Vapi MCP server hosted on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vapi-mcp-server-on-vercel"
 date: "2025-05-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vapi has used Vercel's MCP Adapter to deploy and host their MCP server on Vercel, leveraging the benefits of Fluid Compute"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 21, 2025
 
 2025 年 5 月 21 日

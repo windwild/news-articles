@@ -1,6 +1,6 @@
 ---
-title: "Advancing science and math with GPT-5.2 | OpenAI"
 render_with_liquid: false
+title: "Advancing science and math with GPT-5.2 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/gpt-5-2-for-science-and-math"
 date: "2025-12-11"
@@ -10,8 +10,9 @@ translated: true
 description: "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into re..."
 tags: ["Publication"]
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 December 11, 2025
 
 2025年12月11日

@@ -1,6 +1,6 @@
 ---
-title: "Eval-driven development: Build better AI faster - Vercel"
 render_with_liquid: false
+title: "Eval-driven development: Build better AI faster - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/eval-driven-development-build-better-ai-faster"
 date: "2024-10-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how eval-driven development helps you build better AI faster. Discover a new testing paradigm for AI-native development and unlock continuous improvement."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 17, 2024
 
 2024 年 10 月 17 日

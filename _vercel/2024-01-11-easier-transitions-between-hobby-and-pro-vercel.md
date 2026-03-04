@@ -1,6 +1,6 @@
 ---
-title: "Easier transitions between hobby and pro - Vercel"
 render_with_liquid: false
+title: "Easier transitions between hobby and pro - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/2024-01-account-changes"
 date: "2024-01-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 11, 2024
 
 2024 年 1 月 11 日

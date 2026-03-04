@@ -1,6 +1,6 @@
 ---
-title: "Automatic pnpm v10 support - Vercel"
 render_with_liquid: false
+title: "Automatic pnpm v10 support - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatic-pnpm-v10-support"
 date: "2025-02-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "New projects will detect and use pnpm@10, based on the project lockfile. Old projects can opt-in to pnpm@10 using Corepack."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 28, 2025
 
 2025 年 2 月 28 日

@@ -1,6 +1,6 @@
 ---
-title: "How React 18 Improves Application Performance - Vercel"
 render_with_liquid: false
+title: "How React 18 Improves Application Performance - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-react-18-improves-application-performance"
 date: "2023-07-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how React 18's concurrent features like Transitions, Suspense, and React Server Components improve application performance."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 19, 2023
 
 2023年7月19日

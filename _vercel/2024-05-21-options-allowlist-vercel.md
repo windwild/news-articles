@@ -1,6 +1,6 @@
 ---
-title: "OPTIONS Allowlist - Vercel"
 render_with_liquid: false
+title: "OPTIONS Allowlist - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/options-allowlist"
 date: "2024-05-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 21, 2024
 
 2024 年 5 月 21 日

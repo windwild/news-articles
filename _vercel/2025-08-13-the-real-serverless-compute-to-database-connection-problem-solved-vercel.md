@@ -1,6 +1,6 @@
 ---
-title: "The real serverless compute to database connection problem, solved - Vercel"
 render_with_liquid: false
+title: "The real serverless compute to database connection problem, solved - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-real-serverless-compute-to-database-connection-problem-solved"
 date: "2025-08-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Serverless compute does not mean you need more database connections. The math is the same for serverful and serverless. The real difference is what happens when functions suspend. We solve this issue ..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 13, 2025
 
 2025 年 8 月 13 日

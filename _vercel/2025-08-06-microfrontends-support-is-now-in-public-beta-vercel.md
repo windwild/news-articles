@@ -1,6 +1,6 @@
 ---
-title: "Microfrontends support is now in Public Beta - Vercel"
 render_with_liquid: false
+title: "Microfrontends support is now in Public Beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/microfrontends-support-is-now-in-public-beta"
 date: "2025-08-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel's microfrontends support is now in public beta allowing users to split large applications to develop faster."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 6, 2025
 
 2025 年 8 月 6 日

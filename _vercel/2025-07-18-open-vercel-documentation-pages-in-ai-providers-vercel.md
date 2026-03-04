@@ -1,6 +1,6 @@
 ---
-title: "Open Vercel documentation pages in AI providers - Vercel"
 render_with_liquid: false
+title: "Open Vercel documentation pages in AI providers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/open-vercel-documentation-pages-in-ai-providers"
 date: "2025-07-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Copy Vercel documentation pages as markdown, or open them in AI providers, such as v0, Claude, or ChatGPT."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 18, 2025
 
 2025年7月18日

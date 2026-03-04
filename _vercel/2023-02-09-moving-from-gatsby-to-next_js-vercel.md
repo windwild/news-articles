@@ -1,6 +1,6 @@
 ---
-title: "Moving from Gatsby to Next.js - Vercel"
 render_with_liquid: false
+title: "Moving from Gatsby to Next.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/navigating-tradeoffs-in-large-scale-website-migrations"
 date: "2023-02-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Navigating large scale migrations"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 9, 2023
 
 2023 年 2 月 9 日

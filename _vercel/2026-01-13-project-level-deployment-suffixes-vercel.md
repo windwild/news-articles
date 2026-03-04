@@ -1,6 +1,6 @@
 ---
-title: "Project-level deployment suffixes - Vercel"
 render_with_liquid: false
+title: "Project-level deployment suffixes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/project-level-deployment-suffixes"
 date: "2026-01-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now set deployment suffixes on a per project level rather than only one for your entire team"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 13, 2026
 
 2026 年 1 月 13 日

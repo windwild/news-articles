@@ -1,6 +1,6 @@
 ---
-title: "Webhooks are now generally available - Vercel"
 render_with_liquid: false
+title: "Webhooks are now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/webhooks-are-now-generally-available"
 date: "2024-01-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 25, 2024
 
 2024 年 1 月 25 日

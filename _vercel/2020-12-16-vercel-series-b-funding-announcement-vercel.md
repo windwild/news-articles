@@ -1,6 +1,6 @@
 ---
-title: "Vercel: Series B funding announcement - Vercel"
 render_with_liquid: false
+title: "Vercel: Series B funding announcement - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/series-b-40m-to-build-the-next-web"
 date: "2020-12-16"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Today we announce $40M in new funding to help everyone build the next web."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 16, 2020
 
 2020 年 12 月 16 日

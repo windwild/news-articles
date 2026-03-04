@@ -1,6 +1,6 @@
 ---
-title: "Turning contracts into searchable data at OpenAI | OpenAI"
 render_with_liquid: false
+title: "Turning contracts into searchable data at OpenAI | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-contract-data-agent"
 date: "2025-09-29"
@@ -10,8 +10,9 @@ translated: true
 description: "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need."
 tags: ["API"]
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 September 29, 2025
 
 2025 年 9 月 29 日

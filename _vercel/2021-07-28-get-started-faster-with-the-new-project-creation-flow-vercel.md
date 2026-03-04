@@ -1,6 +1,6 @@
 ---
-title: "Get started faster with the new Project Creation Flow - Vercel"
 render_with_liquid: false
+title: "Get started faster with the new Project Creation Flow - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/get-started-faster-with-the-new-project-creation-flow"
 date: "2021-07-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 28, 2021
 
 2021 年 7 月 28 日

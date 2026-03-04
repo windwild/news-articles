@@ -1,6 +1,6 @@
 ---
-title: "Vercel Edge Functions can now be regional or global - Vercel"
 render_with_liquid: false
+title: "Vercel Edge Functions can now be regional or global - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/regional-edge-functions-are-now-available"
 date: "2022-10-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 19, 2022
 
 2022年10月19日

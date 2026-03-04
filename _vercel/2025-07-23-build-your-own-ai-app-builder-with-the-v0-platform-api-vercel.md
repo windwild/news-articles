@@ -1,6 +1,6 @@
 ---
-title: "Build your own AI app builder with the v0 Platform API - Vercel"
 render_with_liquid: false
+title: "Build your own AI app builder with the v0 Platform API - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/build-your-own-ai-app-builder-with-the-v0-platform-api"
 date: "2025-07-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how to build, extend, and automate AI-generated apps like BI tools and website builders with v0 Platform API"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 23, 2025
 
 2025 年 7 月 23 日

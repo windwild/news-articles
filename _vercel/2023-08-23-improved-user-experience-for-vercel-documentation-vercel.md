@@ -1,6 +1,6 @@
 ---
-title: "Improved user experience for Vercel documentation - Vercel"
 render_with_liquid: false
+title: "Improved user experience for Vercel documentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-user-experience-for-vercel-documentation"
 date: "2023-08-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 23, 2023
 
 2023年8月23日

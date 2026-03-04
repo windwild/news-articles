@@ -1,6 +1,6 @@
 ---
-title: "Node.js 18 is being deprecated on September 1, 2025 - Vercel"
 render_with_liquid: false
+title: "Node.js 18 is being deprecated on September 1, 2025 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-18-is-being-deprecated"
 date: "2025-01-16"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Following the Node.js 18 end of life on April 30, 2025, we are deprecating Node.js 18 for Builds and Functions on September 1, 2025."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 16, 2025
 
 2025 年 1 月 16 日

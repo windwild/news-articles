@@ -1,6 +1,6 @@
 ---
-title: "What is Edge Runtime | Edge Runtime"
 render_with_liquid: false
+title: "What is Edge Runtime | Edge Runtime"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-edge-runtime"
 date: "2022-06-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Edge Runtime is a toolkit for developing, testing, and defining the runtime Web APIs for Edge infrastructure."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Introduction
 
 简介

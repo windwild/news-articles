@@ -1,6 +1,6 @@
 ---
-title: "The Vercel AI Accelerator is back with $6m in credits - Vercel"
 render_with_liquid: false
+title: "The Vercel AI Accelerator is back with $6m in credits - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-vercel-ai-accelerator-is-back-with-6-million-in-credits"
 date: "2026-02-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A six-week program to help you scale your AI company offering over $6M in credits from Vercel, v0, AWS, and leading AI platforms"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 5, 2026
 
 2026年2月5日

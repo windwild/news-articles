@@ -1,6 +1,6 @@
 ---
-title: "Introducing AI Integrations on Vercel - Vercel"
 render_with_liquid: false
+title: "Introducing AI Integrations on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-integrations"
 date: "2024-02-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "AI Integrations on Vercel"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 8, 2024
 
 2024 年 2 月 8 日

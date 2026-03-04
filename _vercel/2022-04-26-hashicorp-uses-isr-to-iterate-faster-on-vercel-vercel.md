@@ -1,6 +1,6 @@
 ---
-title: "Hashicorp uses ISR to iterate faster on Vercel - Vercel"
 render_with_liquid: false
+title: "Hashicorp uses ISR to iterate faster on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-hashicorp-developers-iterate-faster-with-isr"
 date: "2022-04-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "HashiCorp used ISR and on-demand ISR in Next.js 12 to cut build times, update pages instantly, and scale docs across 8 products without full site rebuilds."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 26, 2022
 
 2022年4月26日

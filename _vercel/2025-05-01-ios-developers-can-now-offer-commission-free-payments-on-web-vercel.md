@@ -1,6 +1,6 @@
 ---
-title: "iOS developers can now offer commission-free payments on web - Vercel"
 render_with_liquid: false
+title: "iOS developers can now offer commission-free payments on web - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ios-developers-can-now-offer-commission-free-payments-on-web"
 date: "2025-05-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The open web wins: A U.S. court ended Apple’s 27% fee on external payments, letting developers link freely and offer better, direct checkout experiences."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 1, 2025
 
 2025年5月1日

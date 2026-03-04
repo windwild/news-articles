@@ -1,6 +1,6 @@
 ---
-title: "Improvements and Fixes - Vercel"
 render_with_liquid: false
+title: "Improvements and Fixes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/september-2022-papercuts"
 date: "2022-09-29"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 29, 2022
 
 2022 年 9 月 29 日

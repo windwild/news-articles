@@ -1,6 +1,6 @@
 ---
-title: "Next.js Conf 2022: Iterate, scale, and deliver a great UX - Vercel"
 render_with_liquid: false
+title: "Next.js Conf 2022: Iterate, scale, and deliver a great UX - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-conf-2022-iterate-scale-deliver"
 date: "2022-10-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how to iterate, scale, and deliver a great UX from the experts speaking at this year’s Next.js Conf. Register for the online event today."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 18, 2022
 
 2022年10月18日

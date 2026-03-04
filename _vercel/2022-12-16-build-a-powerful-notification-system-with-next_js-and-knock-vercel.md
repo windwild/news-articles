@@ -1,6 +1,6 @@
 ---
-title: "Build a powerful notification system with Next.js and Knock - Vercel"
 render_with_liquid: false
+title: "Build a powerful notification system with Next.js and Knock - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-a-powerful-notification-system-for-vercel-with-knock-app"
 date: "2022-12-16"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Notifications on Vercel"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 16, 2022
 
 2022 年 12 月 16 日

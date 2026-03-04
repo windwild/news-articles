@@ -1,6 +1,6 @@
 ---
-title: "Vercel Open Source Program: Summer cohort - Vercel"
 render_with_liquid: false
+title: "Vercel Open Source Program: Summer cohort - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/summer-2025-oss-program"
 date: "2025-07-31"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Announcing the summer 2025 cohort of Vercel's Open Source Program. Open source community frameworks, libraries, and tools we rely on every day to build the web,"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 31, 2025
 
 2025年7月31日

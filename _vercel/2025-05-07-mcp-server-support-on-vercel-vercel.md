@@ -1,6 +1,6 @@
 ---
-title: "MCP server support on Vercel - Vercel"
 render_with_liquid: false
+title: "MCP server support on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/mcp-server-support-on-vercel"
 date: "2025-05-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Run MCP servers on with Next.js or Node.js in your Vercel project with 1st class support for Anthropic's MCP SDK"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 7, 2025
 
 2025年5月7日

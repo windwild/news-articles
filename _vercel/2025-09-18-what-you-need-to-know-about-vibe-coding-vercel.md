@@ -1,6 +1,6 @@
 ---
-title: "What you need to know about vibe coding - Vercel"
 render_with_liquid: false
+title: "What you need to know about vibe coding - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/what-you-need-to-know-about-vibe-coding"
 date: "2025-09-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vibe coding is revolutionizing how we work. English is now the fastest growing programming language. Our state of vibe coding report outlines what you need to know. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 18, 2025
 
 2025 年 9 月 18 日

@@ -1,6 +1,6 @@
 ---
-title: "How Sensay went from zero to product in six weeks - Vercel"
 render_with_liquid: false
+title: "How Sensay went from zero to product in six weeks - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-sensay-went-from-zero-to-product-in-six-weeks"
 date: "2026-01-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Sensay went from zero to an MVP launch in six weeks for Web Summit. With Vercel preview deployments, feature flags, and rollbacks, the team shipped fast without a DevOps team."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 27, 2026
 
 2026 年 1 月 27 日

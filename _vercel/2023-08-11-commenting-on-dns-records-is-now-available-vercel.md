@@ -1,6 +1,6 @@
 ---
-title: "Commenting on DNS records is now available - Vercel"
 render_with_liquid: false
+title: "Commenting on DNS records is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/commenting-on-dns-records-is-now-available"
 date: "2023-08-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 11, 2023
 
 2023年8月11日

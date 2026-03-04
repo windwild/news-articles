@@ -1,6 +1,6 @@
 ---
-title: "Ten years | OpenAI"
 render_with_liquid: false
+title: "Ten years | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/ten-years"
 date: "2025-12-11"
@@ -9,8 +9,9 @@ language: "en-US"
 translated: true
 description: "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimisti..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 December 11, 2025
 
 2025年12月11日

@@ -1,6 +1,6 @@
 ---
-title: "Introducing AI Elements: Prebuilt, composable AI SDK components - Vercel"
 render_with_liquid: false
+title: "Introducing AI Elements: Prebuilt, composable AI SDK components - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-ai-elements"
 date: "2025-08-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Focus on your AI’s intelligence, not the UI scaffolding. AI Elements is now available as a new Vercel product to help frontend engineers build AI-driven interfaces in a fraction of the time."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 6, 2025
 
 2025 年 8 月 6 日

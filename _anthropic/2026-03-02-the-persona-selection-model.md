@@ -1,6 +1,6 @@
 ---
-title: "The persona selection model"
 render_with_liquid: false
+title: "The persona selection model"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/persona-selection-model"
 scraped_at: "2026-03-02T09:21:16.092814693+00:00"
@@ -8,8 +8,9 @@ language: "en-zh"
 translated: true
 description: "A theory of why AI models act like humans"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Alignment
 
 对齐

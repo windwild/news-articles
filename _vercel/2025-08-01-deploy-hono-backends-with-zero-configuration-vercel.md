@@ -1,6 +1,6 @@
 ---
-title: "Deploy Hono backends with zero configuration - Vercel"
 render_with_liquid: false
+title: "Deploy Hono backends with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deploy-hono-backends-with-zero-configuration"
 date: "2025-08-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel now detects and deploys Hono, a fast, lightweight web application framework built on web standards, with zero configuration."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 1, 2025
 
 2025年8月1日

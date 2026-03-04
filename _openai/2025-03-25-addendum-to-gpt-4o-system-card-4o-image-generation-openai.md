@@ -1,0 +1,28 @@
+---
+render_with_liquid: false
+title: "Addendum to GPT-4o System Card: 4o image generation | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/gpt-4o-image-generation-system-card-addendum"
+date: "2025-03-25"
+scraped_at: "2026-03-02T10:13:36.279006635+00:00"
+language: "en-US"
+translated: false
+description: "4o image generation is a new, significantly more capable image generation approach than our earlier DALL·E 3 series of models. It can create photorealistic output. It can take images as inputs and tr..."
+---
+
+March 25, 2025
+
+[Publication](https://openai.com/research/index/publication/) [Safety](https://openai.com/news/safety-alignment/)
+
+# Addendum to GPT‑4o System Card: 4o image generation
+
+[Read the System Card(opens in a new window)](https://cdn.openai.com/11998be9-5319-4302-bfbf-1167e093f1fb/Native_Image_Generation_System_Card.pdf)
+
+
+## Introduction
+
+4o image generation is a new, significantly more capable image generation approach than our earlier DALL·E 3 series of models. It can create photorealistic output. It can take images as inputs and transform them. It can follow detailed instructions, including reliably incorporating text into images. And because it is embedded natively, deep in the architecture of our omnimodal GPT‑4o model, 4o image generation can use everything it knows to apply these capabilities in subtle and expressive ways, creating images that are not only beautiful, but also useful.
+
+4o image generation benefits from our existing safety infrastructure, and from lessons we have learned deploying DALL·E and Sora. At the same time, these new capabilities also bring some new risks. This addendum to the GPT‑4o system card describes the marginal risks we’ve focused on, and the work we have done to address them.
+
+- [System Cards](https://openai.com/research/index/?tags=system-cards)

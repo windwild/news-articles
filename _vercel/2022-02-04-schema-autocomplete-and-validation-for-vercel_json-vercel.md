@@ -1,6 +1,6 @@
 ---
-title: "Schema autocomplete and validation for vercel.json - Vercel"
 render_with_liquid: false
+title: "Schema autocomplete and validation for vercel.json - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/schema-autocomplete-and-validation-for-vercel-json"
 date: "2022-02-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 4, 2022
 
 2022 年 2 月 4 日

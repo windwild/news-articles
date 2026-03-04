@@ -1,6 +1,6 @@
 ---
-title: "Meet the Vercel AI Accelerator Participants - Vercel"
 render_with_liquid: false
+title: "Meet the Vercel AI Accelerator Participants - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-accelerator-participants"
 date: "2023-07-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Meet the 40 startups and builders of the Vercel AI Accelerator."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 12, 2023
 
 2023年7月12日

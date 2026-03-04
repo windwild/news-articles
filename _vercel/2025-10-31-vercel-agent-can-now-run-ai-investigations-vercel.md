@@ -1,6 +1,6 @@
 ---
-title: "Vercel Agent can now run AI investigations - Vercel"
 render_with_liquid: false
+title: "Vercel Agent can now run AI investigations - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-agent-can-now-run-ai-investigations"
 date: "2025-10-31"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Agent Investigation intelligently conducts incident response investigations to alert, analyze, and suggest remediation steps"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 31, 2025
 
 2025 年 10 月 31 日

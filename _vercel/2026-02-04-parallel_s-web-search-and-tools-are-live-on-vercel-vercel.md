@@ -1,6 +1,6 @@
 ---
-title: "Parallel's Web Search and tools are live on Vercel - Vercel"
 render_with_liquid: false
+title: "Parallel's Web Search and tools are live on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/parallel-web-search-is-now-on-ai-gateway"
 date: "2026-02-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Parallel's Web Search and other tools are now available on Vercel AI Gateway, AI SDK, and Marketplace. Add web search to any model with domain filtering, date constraints, and agentic mode support."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 4, 2026
 
 2026 年 2 月 4 日

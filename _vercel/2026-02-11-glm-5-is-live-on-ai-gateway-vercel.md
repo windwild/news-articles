@@ -1,6 +1,6 @@
 ---
-title: "GLM-5 is live on AI Gateway - Vercel"
 render_with_liquid: false
+title: "GLM-5 is live on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/glm-5-is-live-on-ai-gateway"
 date: "2026-02-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access Z.AI's latest model, GLM 5, via Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 11, 2026
 
 2026 年 2 月 11 日

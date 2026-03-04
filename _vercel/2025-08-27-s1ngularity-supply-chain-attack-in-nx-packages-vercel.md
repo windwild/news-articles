@@ -1,6 +1,6 @@
 ---
-title: "s1ngularity: supply chain attack in Nx packages - Vercel"
 render_with_liquid: false
+title: "s1ngularity: supply chain attack in Nx packages - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/s1ngularity-supply-chain-attack-in-nx-packages"
 date: "2025-08-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A critical vulnerability was published in Nx and some of its supporting libraries. Vercel builds are safe from this vulnerability by default."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 27, 2025
 
 2025 年 8 月 27 日

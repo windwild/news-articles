@@ -1,6 +1,6 @@
 ---
-title: "Introducing the Vercel TypeScript SDK - Vercel"
 render_with_liquid: false
+title: "Introducing the Vercel TypeScript SDK - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-the-vercel-typescript-sdk"
 date: "2024-12-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A new type-safe SDK for working with the Vercel REST API."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 9, 2024
 
 2024 年 12 月 9 日

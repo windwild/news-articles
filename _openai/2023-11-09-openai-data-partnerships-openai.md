@@ -1,0 +1,54 @@
+---
+render_with_liquid: false
+title: "OpenAI Data Partnerships | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/data-partnerships"
+date: "2023-11-09"
+scraped_at: "2026-03-02T10:21:44.144414737+00:00"
+language: "en-US"
+translated: false
+description: "Working together to create open-source and private datasets for AI training."
+tags: ["Company"]
+---
+
+November 9, 2023
+
+
+# OpenAI Data Partnerships
+
+Working together to create open-source and private datasets for AI training.
+
+[Submit interest(opens in a new window)](https://openai.com/form/data-partnerships)
+
+![Data Partnerships](images/openai-data-partnerships-openai/img_001.png)
+
+
+
+We are introducing OpenAI Data Partnerships, where we’ll work together with organizations to produce public and private datasets for training AI models.
+
+Modern AI technology learns skills and aspects of our world—of people, our motivations, interactions, and the way we communicate—by making sense of the data on which it’s trained. To ultimately make AGI that is safe and beneficial to all of humanity, we’d like AI models to deeply understand all subject matters, industries, cultures, and languages, which requires as broad a training dataset as possible.
+
+Including your content can make AI models more helpful to you by increasing their understanding of your domain. We’re already working with many partners who are eager to represent data from their country or industry. For example, we recently partnered with the [Icelandic Government⁠](https://openai.com/index/government-of-iceland/) and [Miðeind ehf⁠(opens in a new window)](https://xn--mieind-qwa.is/) to improve GPT‑4’s ability to speak Icelandic by integrating their curated datasets. We also partnered with non-profit organization [Free Law Project⁠(opens in a new window)](https://free.law/), which aims to democratize access to legal understanding by including their large collection of legal documents in AI training. We know there may be many more who also want to contribute to the future of AI research while discovering the potential of their unique data.
+
+Data Partnerships are intended to enable more organizations to help steer the future of AI and benefit from models that are more useful to them, by including content they care about.
+
+## The kinds of data we’re seeking
+
+We’re interested in large-scale datasets that reflect human society and that are not already easily accessible online to the public today. We can work with any modality, including text, images, audio, or video. We’re particularly looking for data that expresses human intention (e.g., long-form writing or conversations rather than disconnected snippets), across any language, topic, and format.
+
+We can work with data in almost any form and can use our next-generation in-house AI technology to help you digitize and structure your data. For example, we have [world-class optical character recognition⁠(opens in a new window)](https://platform.openai.com/docs/guides/vision) (OCR) technology to digitize files like PDFs, and [automatic speech recognition⁠(opens in a new window)](https://platform.openai.com/docs/guides/speech-to-text) (ASR) to transcribe spoken words. If the data needs cleaning (e.g. has lots of auto-generated artifacts or transcription errors), we can work with your team to process it into the most useful form. We are not seeking datasets with sensitive or personal information, or information that belongs to a third party; we can work with you to remove this information if you need help.
+
+## Ways to partner with us
+
+We currently have two ways to partner, and may expand in the future:
+
+- **Open-Source Archive**: We’re seeking partners to help us create an open-source dataset for training language models. This dataset would be public for anyone to use in AI model training. We would also explore using it to safely train additional open-source models ourselves. We believe open-source plays an important role in the ecosystem.
+- **Private Datasets**: We are also preparing private datasets for training proprietary AI models, including our foundation models and fine-tuned and custom models. If you have data you wish to keep private, but you would like our AI models to have a better understanding of your domain (or you’d even just like to gauge the potential of your data to do so), this is the optimal way to partner. We’ll treat your data with the level of sensitivity and access controls that you prefer.
+
+Overall, we are seeking partners who want to help us teach AI to understand our world in order to be maximally helpful to everyone. Together, we can move towards AGI that benefits all of humanity.
+
+- [Submit interest](https://openai.com/form/data-partnerships/)
+
+- [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
+- [Partnerships](https://openai.com/news/?tags=partnerships)
+- [2023](https://openai.com/news/?tags=2023)

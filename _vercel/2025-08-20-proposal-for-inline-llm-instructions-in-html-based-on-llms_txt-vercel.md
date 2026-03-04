@@ -1,6 +1,6 @@
 ---
-title: "Proposal for inline LLM instructions in HTML based on llms.txt - Vercel"
 render_with_liquid: false
+title: "Proposal for inline LLM instructions in HTML based on llms.txt - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html"
 date: "2025-08-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "llms.txt is an emerging standard for making content such as docs available for direct consumption by AIs. We’re proposing a convention to include such content directly in HTML responses."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 20, 2025
 
 2025年8月20日

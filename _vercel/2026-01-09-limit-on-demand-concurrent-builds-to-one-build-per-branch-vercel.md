@@ -1,6 +1,6 @@
 ---
-title: "Limit on-demand concurrent builds to one build per branch - Vercel"
 render_with_liquid: false
+title: "Limit on-demand concurrent builds to one build per branch - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/limit-on-demand-concurrent-builds-to-one-build-per-branch"
 date: "2026-01-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Configure On-Demand Concurrent Builds to run one active build per branch. Deployments to the same branch are queued, and only the latest build runs."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 9, 2026
 
 2026 年 1 月 9 日

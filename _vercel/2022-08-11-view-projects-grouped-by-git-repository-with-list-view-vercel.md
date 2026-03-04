@@ -1,6 +1,6 @@
 ---
-title: "View projects grouped by Git repository with list view - Vercel"
 render_with_liquid: false
+title: "View projects grouped by Git repository with list view - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/view-projects-grouped-by-git-repository-with-list-view"
 date: "2022-08-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 11, 2022
 
 2022年8月11日

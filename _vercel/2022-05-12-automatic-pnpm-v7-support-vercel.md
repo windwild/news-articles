@@ -1,6 +1,6 @@
 ---
-title: "Automatic pnpm v7 Support - Vercel"
 render_with_liquid: false
+title: "Automatic pnpm v7 Support - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatic-pnpm-v7-support"
 date: "2022-05-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 12, 2022
 
 2022 年 5 月 12 日

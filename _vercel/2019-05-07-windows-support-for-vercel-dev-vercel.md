@@ -1,6 +1,6 @@
 ---
-title: "Windows Support for `vercel dev` - Vercel"
 render_with_liquid: false
+title: "Windows Support for `vercel dev` - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-dev-windows"
 date: "2019-05-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "As of today, you can use the `vercel dev` command of Vercel CLI on Windows."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 7, 2019
 
 2019 年 5 月 7 日

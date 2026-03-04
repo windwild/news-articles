@@ -1,6 +1,6 @@
 ---
-title: "OpenResponses API now supported on Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "OpenResponses API now supported on Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/openresponses-api-now-supported-on-vercel-ai-gateway"
 date: "2026-01-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Use the OpenResponses API on Vercel AI Gateway with no other API keys required and support for multiple providers."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 15, 2026
 
 2026 年 1 月 15 日

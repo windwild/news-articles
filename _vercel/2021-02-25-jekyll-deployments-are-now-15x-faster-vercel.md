@@ -1,6 +1,6 @@
 ---
-title: "Jekyll deployments are now 15x faster - Vercel"
 render_with_liquid: false
+title: "Jekyll deployments are now 15x faster - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/jekyll-deployments-are-now-15x-faster"
 date: "2021-02-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 25, 2021
 
 2021 年 2 月 25 日

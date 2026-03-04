@@ -1,6 +1,6 @@
 ---
-title: "10 Next.js tips you might not know - Vercel"
 render_with_liquid: false
+title: "10 Next.js tips you might not know - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/10-next-js-tips-you-might-not-know"
 date: "2021-01-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Discover 10 expert Next.js tips including redirects, rewrites, preview mode, API routes, and performance optimizations to boost your development workflow. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 26, 2021
 
 2021年1月26日

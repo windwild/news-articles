@@ -1,6 +1,6 @@
 ---
-title: "Understand Interaction to Next Paint (INP) with the Vercel Toolbar - Vercel"
 render_with_liquid: false
+title: "Understand Interaction to Next Paint (INP) with the Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/interaction-timing-tool"
 date: "2024-05-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 21, 2024
 
 2024 年 5 月 21 日

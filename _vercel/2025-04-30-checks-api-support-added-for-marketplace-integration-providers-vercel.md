@@ -1,6 +1,6 @@
 ---
-title: "Checks API support added for Marketplace integration providers - Vercel"
 render_with_liquid: false
+title: "Checks API support added for Marketplace integration providers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/checks-api-support-added-for-marketplace-integration-providers"
 date: "2025-04-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Marketplace now supports the Checks API, enabling providers to deliver automated post-deployment tests and surface results directly in the dashboard. Improve developer experience with seamless ..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 30, 2025
 
 2025年4月30日

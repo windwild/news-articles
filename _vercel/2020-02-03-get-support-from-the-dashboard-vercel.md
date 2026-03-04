@@ -1,6 +1,6 @@
 ---
-title: "Get support from the dashboard - Vercel"
 render_with_liquid: false
+title: "Get support from the dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/support-form"
 date: "2020-02-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Get in touch with Vercel Support easier than ever before, without having to leave your dashboard."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 3, 2020
 
 2020 年 2 月 3 日

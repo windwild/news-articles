@@ -1,6 +1,6 @@
 ---
-title: "Optionally disable deployment_status webhook events for GitHub Actions - Vercel"
 render_with_liquid: false
+title: "Optionally disable deployment_status webhook events for GitHub Actions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/optionally-disable-deployment_status-webhook-events-for-github-actions"
 date: "2025-05-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now disable webhook events that Vercel sends to GitHub Actions that create many notifications on GitHub pull requests."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 1, 2025
 
 2025年5月1日

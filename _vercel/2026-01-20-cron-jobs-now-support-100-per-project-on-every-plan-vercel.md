@@ -1,6 +1,6 @@
 ---
-title: "Cron jobs now support 100 per project on every plan - Vercel"
 render_with_liquid: false
+title: "Cron jobs now support 100 per project on every plan - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/cron-jobs-now-support-100-per-project-on-every-plan"
 date: "2026-01-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Cron jobs on Vercel no longer have per-team limits. Create up to 100 scheduled tasks per project, at any interval, on all plans."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 20, 2026
 
 2026 年 1 月 20 日

@@ -1,6 +1,6 @@
 ---
-title: "We removed 80% of our agent’s tools - Vercel"
 render_with_liquid: false
+title: "We removed 80% of our agent’s tools - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/we-removed-80-percent-of-our-agents-tools"
 date: "2025-12-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We spent months building a sophisticated text-to-sql agent, but as it turns out, sometimes simpler is better. Giving it the ability to execute arbitrary bash commands outperformed everything we built...."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 22, 2025
 
 2025 年 12 月 22 日

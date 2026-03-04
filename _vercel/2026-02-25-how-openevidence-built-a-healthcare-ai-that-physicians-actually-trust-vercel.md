@@ -1,6 +1,6 @@
 ---
-title: "How OpenEvidence built a healthcare AI that physicians actually trust - Vercel"
 render_with_liquid: false
+title: "How OpenEvidence built a healthcare AI that physicians actually trust - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-openevidence-built-a-healthcare-ai-that-physicians-can-trust"
 date: "2026-02-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "For Chief Strategy and Product Officer Jayme Fishman, the path to modernizing Avalara starts with how it builds."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 25, 2026
 
 2026年2月25日

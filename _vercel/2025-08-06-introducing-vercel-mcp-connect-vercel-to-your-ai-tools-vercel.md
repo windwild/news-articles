@@ -1,6 +1,6 @@
 ---
-title: "Introducing Vercel MCP: Connect Vercel to your AI tools - Vercel"
 render_with_liquid: false
+title: "Introducing Vercel MCP: Connect Vercel to your AI tools - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-vercel-mcp-connect-vercel-to-your-ai-tools"
 date: "2025-08-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel now has an official hosted MCP server (aka Vercel MCP), which you can use to connect your favorite AI tools, such as Claude or VS Code, directly to Vercel."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 6, 2025
 
 2025 年 8 月 6 日

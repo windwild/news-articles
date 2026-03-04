@@ -1,6 +1,6 @@
 ---
-title: "Project settings are now searchable - Vercel"
 render_with_liquid: false
+title: "Project settings are now searchable - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/project-settings-are-now-searchable"
 date: "2025-01-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Project settings in the Vercel Dashboard are now searchable, making it easier to find the setting you are looking for. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 24, 2025
 
 2025 年 1 月 24 日

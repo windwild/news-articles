@@ -1,6 +1,6 @@
 ---
-title: "Node.js v20 LTS is now generally available - Vercel"
 render_with_liquid: false
+title: "Node.js v20 LTS is now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-v20-lts-is-now-generally-available"
 date: "2024-03-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 25, 2024
 
 2024年3月25日

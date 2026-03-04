@@ -1,6 +1,6 @@
 ---
-title: "How Stripe built a game-changing app in a single flight with v0 - Vercel"
 render_with_liquid: false
+title: "How Stripe built a game-changing app in a single flight with v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-stripe-built-a-game-changing-app-in-a-single-flight-with-v0"
 date: "2026-01-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Stripe built a production GTM value calculator in a single flight using v0, boosting adoption 288% and cutting value analysis time by 80%."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 28, 2026
 
 2026年1月28日

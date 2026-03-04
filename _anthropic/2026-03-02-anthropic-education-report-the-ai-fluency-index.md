@@ -1,6 +1,6 @@
 ---
-title: "Anthropic Education Report: The AI Fluency Index"
 render_with_liquid: false
+title: "Anthropic Education Report: The AI Fluency Index"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/AI-fluency-index"
 scraped_at: "2026-03-02T09:21:16.646480348+00:00"
@@ -9,8 +9,9 @@ translated: true
 description: "Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills."
 tags: ["Announcements"]
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Announcements
 
 公告

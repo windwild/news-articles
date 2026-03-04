@@ -1,6 +1,6 @@
 ---
-title: "Cape Town (South Africa) is now available on the Edge Network - Vercel"
 render_with_liquid: false
+title: "Cape Town (South Africa) is now available on the Edge Network - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/cape-town-south-africa-is-now-available-on-the-edge-network"
 date: "2022-07-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 7, 2022
 
 2022 年 7 月 7 日

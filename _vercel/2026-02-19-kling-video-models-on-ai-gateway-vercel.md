@@ -1,6 +1,6 @@
 ---
-title: "Kling video models on AI Gateway - Vercel"
 render_with_liquid: false
+title: "Kling video models on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/kling-video-models-on-ai-gateway"
 date: "2026-02-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Generate AI videos with Kling models via the AI Gateway. Text-to-video with audio, image-to-video with first/last frame control, and motion transfer. 7 models including v3.0, v2.6, and turbo variants."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 19, 2026
 
 2026 年 2 月 19 日

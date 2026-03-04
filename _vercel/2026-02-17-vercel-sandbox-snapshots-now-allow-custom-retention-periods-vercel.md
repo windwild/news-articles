@@ -1,6 +1,6 @@
 ---
-title: "Vercel Sandbox snapshots now allow custom retention periods - Vercel"
 render_with_liquid: false
+title: "Vercel Sandbox snapshots now allow custom retention periods - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-sandbox-snapshots-now-allow-custom-retention-periods"
 date: "2026-02-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Snapshots created with Vercel Sandbox can now have a configurable expiration policy set instead of the default 30 days allowing users to keep snapshots indefinitely."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 17, 2026
 
 2026 年 2 月 17 日

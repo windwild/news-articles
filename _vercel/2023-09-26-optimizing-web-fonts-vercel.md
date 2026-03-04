@@ -1,6 +1,6 @@
 ---
-title: "Optimizing web fonts - Vercel"
 render_with_liquid: false
+title: "Optimizing web fonts - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/optimizing-web-fonts"
 date: "2023-09-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how to optimize web fonts using resource hints, font-face descriptors, and the next/font module."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 26, 2023
 
 2023 年 9 月 26 日

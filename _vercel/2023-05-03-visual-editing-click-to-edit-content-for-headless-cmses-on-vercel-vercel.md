@@ -1,6 +1,6 @@
 ---
-title: "Visual Editing: Click-to-edit content for headless CMSes on Vercel - Vercel"
 render_with_liquid: false
+title: "Visual Editing: Click-to-edit content for headless CMSes on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/visual-editing"
 date: "2023-05-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Visual Editing"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 3, 2023
 
 2023 年 5 月 3 日

@@ -1,6 +1,6 @@
 ---
-title: "Upstash joins the Vercel Marketplace - Vercel"
 render_with_liquid: false
+title: "Upstash joins the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/upstash-joins-the-vercel-marketplace"
 date: "2024-10-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Upstash has joined the Vercel Marketplace with three of its core products: KV, Vector, and QStash. These services offer integrated billing, automated account provisioning, and direct access to the Ups..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 22, 2024
 
 2024年10月22日

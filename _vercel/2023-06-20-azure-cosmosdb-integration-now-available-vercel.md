@@ -1,6 +1,6 @@
 ---
-title: "Azure CosmosDB integration now available - Vercel"
 render_with_liquid: false
+title: "Azure CosmosDB integration now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/azure-cosmosdb-integration-now-available"
 date: "2023-06-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 20, 2023
 
 2023 年 6 月 20 日

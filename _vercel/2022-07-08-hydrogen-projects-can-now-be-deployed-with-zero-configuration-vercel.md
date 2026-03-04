@@ -1,6 +1,6 @@
 ---
-title: "Hydrogen projects can now be deployed with zero configuration - Vercel"
 render_with_liquid: false
+title: "Hydrogen projects can now be deployed with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/hydrogen-projects-can-now-be-deployed-with-zero-configuration"
 date: "2022-07-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 8, 2022
 
 2022 年 7 月 8 日

@@ -1,6 +1,6 @@
 ---
-title: "New deployment promotion event - Vercel"
 render_with_liquid: false
+title: "New deployment promotion event - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-webhook-for-promotion-events"
 date: "2024-07-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 3, 2024
 
 2024 年 7 月 3 日

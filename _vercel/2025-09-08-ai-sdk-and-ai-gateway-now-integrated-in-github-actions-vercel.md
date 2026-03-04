@@ -1,6 +1,6 @@
 ---
-title: "AI SDK and AI Gateway now integrated in GitHub Actions - Vercel"
 render_with_liquid: false
+title: "AI SDK and AI Gateway now integrated in GitHub Actions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-sdk-and-ai-gateway-now-integrated-in-github-actions"
 date: "2025-09-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access the AI SDK and AI Gateway with the vercel/ai-action@v2 GitHub Action.  Use it to generate text or structured JSON directly in your workflows by configuring a prompt, model, and api-..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 8, 2025
 
 2025 年 9 月 8 日

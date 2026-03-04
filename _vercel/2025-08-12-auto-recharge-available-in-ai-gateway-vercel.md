@@ -1,6 +1,6 @@
 ---
-title: "Auto-recharge available in AI Gateway - Vercel"
 render_with_liquid: false
+title: "Auto-recharge available in AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/auto-recharge-available-in-ai-gateway"
 date: "2025-08-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel AI Gateway now supports automatic credit recharging (top-ups), optionally refilling your balance before it runs out to keep your apps running without interruption."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 12, 2025
 
 2025年8月12日

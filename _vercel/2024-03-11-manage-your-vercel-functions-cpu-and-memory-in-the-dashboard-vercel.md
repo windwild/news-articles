@@ -1,6 +1,6 @@
 ---
-title: "Manage your Vercel Functions CPU and memory in the dashboard - Vercel"
 render_with_liquid: false
+title: "Manage your Vercel Functions CPU and memory in the dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/manage-your-vercel-functions-cpu-and-memory-in-the-dashboard"
 date: "2024-03-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 11, 2024
 
 2024 年 3 月 11 日

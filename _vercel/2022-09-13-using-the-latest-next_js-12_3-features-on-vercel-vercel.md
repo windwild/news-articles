@@ -1,6 +1,6 @@
 ---
-title: "Using the latest Next.js 12.3 features on Vercel - Vercel"
 render_with_liquid: false
+title: "Using the latest Next.js 12.3 features on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/using-the-latest-next-js-12-3-features-on-vercel"
 date: "2022-09-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel natively supports and extends Next.js 12.3, allowing teams to improve their workflow and iterate faster."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 13, 2022
 
 2022 年 9 月 13 日

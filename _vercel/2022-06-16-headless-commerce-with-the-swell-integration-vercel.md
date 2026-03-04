@@ -1,6 +1,6 @@
 ---
-title: "Headless commerce with the Swell integration - Vercel"
 render_with_liquid: false
+title: "Headless commerce with the Swell integration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/headless-commerce-with-the-swell-integration"
 date: "2022-06-16"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 16, 2022
 
 2022年6月16日

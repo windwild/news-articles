@@ -1,6 +1,6 @@
 ---
-title: "Zero-configuration support for Nitro - Vercel"
 render_with_liquid: false
+title: "Zero-configuration support for Nitro - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/zero-configuration-support-for-nitro"
 date: "2025-07-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel now detects and deploys Nitro, a server toolkit for building webservers, with zero configuration."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 3, 2025
 
 2025年7月3日

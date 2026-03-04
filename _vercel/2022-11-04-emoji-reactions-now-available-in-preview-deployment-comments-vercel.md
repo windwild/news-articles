@@ -1,6 +1,6 @@
 ---
-title: "Emoji reactions now available in Preview Deployment comments  - Vercel"
 render_with_liquid: false
+title: "Emoji reactions now available in Preview Deployment comments  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/emoji-reactions-now-available-in-preview-deployment-comments"
 date: "2022-11-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 4, 2022
 
 2022 年 11 月 4 日

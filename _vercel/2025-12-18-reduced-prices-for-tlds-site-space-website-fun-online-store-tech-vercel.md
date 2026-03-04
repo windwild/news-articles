@@ -1,6 +1,6 @@
 ---
-title: "Reduced prices for TLDs .site, .space, .website, .fun, .online, .store, .tech - Vercel"
 render_with_liquid: false
+title: "Reduced prices for TLDs .site, .space, .website, .fun, .online, .store, .tech - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/reduced-prices-for-tlds-site-space-website-fun-online-store-tech"
 date: "2025-12-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Domains now offers reduced prices for the following TLDs: .site, .space, .website, .fun, .online, .store, .tech"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 18, 2025
 
 2025 年 12 月 18 日

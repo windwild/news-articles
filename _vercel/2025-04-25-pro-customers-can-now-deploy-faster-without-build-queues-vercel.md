@@ -1,6 +1,6 @@
 ---
-title: "Pro customers can now deploy faster without build queues - Vercel"
 render_with_liquid: false
+title: "Pro customers can now deploy faster without build queues - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/pro-customers-can-now-deploy-faster-with-on-demand-concurrency-builds"
 date: "2025-04-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "On-demand concurrent builds are now available for Pro and Enterprise teams with a new 5-minute slot size for greater flexibility."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 25, 2025
 
 2025 年 4 月 25 日

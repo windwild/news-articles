@@ -1,6 +1,6 @@
 ---
-title: "Sign in with Vercel now generally available - Vercel"
 render_with_liquid: false
+title: "Sign in with Vercel now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sign-in-with-vercel"
 date: "2025-11-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Sign in with Vercel is now generally available, enabling developers to add Vercel as a sign-in method to their apps and projects."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 26, 2025
 
 2025 年 11 月 26 日

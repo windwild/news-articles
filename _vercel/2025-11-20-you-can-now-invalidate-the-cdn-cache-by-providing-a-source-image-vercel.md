@@ -1,6 +1,6 @@
 ---
-title: "You can now invalidate the CDN cache by providing a source image - Vercel"
 render_with_liquid: false
+title: "You can now invalidate the CDN cache by providing a source image - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/you-can-now-invalidate-the-cdn-cache-by-providing-a-source-image"
 date: "2025-11-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now invalidate the CDN cache contents by providing a source image allowing you to revalidate image optimization content without increasing latency for your users"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 20, 2025
 
 2025 年 11 月 20 日

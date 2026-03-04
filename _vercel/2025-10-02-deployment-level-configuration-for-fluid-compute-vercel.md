@@ -1,6 +1,6 @@
 ---
-title: "Deployment-level configuration for Fluid compute - Vercel"
 render_with_liquid: false
+title: "Deployment-level configuration for Fluid compute - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deployment-level-configuration-for-fluid-compute"
 date: "2025-10-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now enable Fluid Compute on a per-deployment basis. By setting \"fluid\": true in your vercel.json"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 2, 2025
 
 2025 年 10 月 2 日

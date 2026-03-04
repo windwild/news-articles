@@ -1,6 +1,6 @@
 ---
-title: "New Slack Integration - Vercel"
 render_with_liquid: false
+title: "New Slack Integration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-slack-integration"
 date: "2021-08-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 11, 2021
 
 2021年8月11日

@@ -1,6 +1,6 @@
 ---
-title: "Next.js 6 and Nextjs.org - Vercel"
 render_with_liquid: false
+title: "Next.js 6 and Nextjs.org - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next6"
 date: "2018-05-16"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Next.js 6 features zero-configuration static exports, App Component, Babel 7 and more"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 16, 2018
 
 2018 年 5 月 16 日

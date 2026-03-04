@@ -1,6 +1,6 @@
 ---
-title: "Turbopack: High-performance bundler for React & TypeScript - Vercel"
 render_with_liquid: false
+title: "Turbopack: High-performance bundler for React & TypeScript - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/turbopack"
 date: "2022-10-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Introducing Turbopack, the Rust-based successor to Webpack. A high-performance bundler for React Server Components and TypeScript codebases."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 25, 2022
 
 2022 年 10 月 25 日

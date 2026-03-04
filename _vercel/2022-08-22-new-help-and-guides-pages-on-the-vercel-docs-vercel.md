@@ -1,6 +1,6 @@
 ---
-title: "New help and guides pages on the Vercel docs - Vercel"
 render_with_liquid: false
+title: "New help and guides pages on the Vercel docs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-help-and-guides-pages-on-the-vercel-docs"
 date: "2022-08-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 22, 2022
 
 2022 年 8 月 22 日

@@ -1,6 +1,6 @@
 ---
-title: "ISR on Vercel is now faster and more cost-efficient - Vercel"
 render_with_liquid: false
+title: "ISR on Vercel is now faster and more cost-efficient - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/isr-on-vercel-is-now-faster-and-more-cost-efficient"
 date: "2025-01-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We've optimized how ISR cache updates are managed on Vercel, making them faster and more cost-efficient. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 30, 2025
 
 2025 年 1 月 30 日

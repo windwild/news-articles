@@ -1,6 +1,6 @@
 ---
-title: "Projects can now be transferred without downtime - Vercel"
 render_with_liquid: false
+title: "Projects can now be transferred without downtime - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/projects-can-now-be-transferred-without-downtime"
 date: "2021-01-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 28, 2021
 
 2021 年 1 月 28 日

@@ -1,6 +1,6 @@
 ---
-title: "Improvements to Vercel Toolbar: Shrinking when inactive, removal of avatars, and more - Vercel"
 render_with_liquid: false
+title: "Improvements to Vercel Toolbar: Shrinking when inactive, removal of avatars, and more - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvements-to-vercel-toolbar"
 date: "2024-09-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 19, 2024
 
 2024 年 9 月 19 日

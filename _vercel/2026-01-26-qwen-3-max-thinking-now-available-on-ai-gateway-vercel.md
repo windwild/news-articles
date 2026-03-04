@@ -1,6 +1,6 @@
 ---
-title: "Qwen 3 Max Thinking now available on AI Gateway - Vercel"
 render_with_liquid: false
+title: "Qwen 3 Max Thinking now available on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/qwen-3-max-thinking-now-available-on-ai-gateway"
 date: "2026-01-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access Qwen 3 Max Thinking via Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 26, 2026
 
 2026 年 1 月 26 日

@@ -1,6 +1,6 @@
 ---
-title: "Observability added to AI Gateway alpha - Vercel"
 render_with_liquid: false
+title: "Observability added to AI Gateway alpha - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/observability-added-to-ai-gateway-alpha"
 date: "2025-06-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Observability now includes a dedicated AI section to surface metrics related to the AI Gateway."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 2025年6月9日
 
 2025年6月9日

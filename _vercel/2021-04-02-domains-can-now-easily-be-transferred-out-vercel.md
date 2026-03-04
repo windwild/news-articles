@@ -1,6 +1,6 @@
 ---
-title: "Domains can now easily be transferred out - Vercel"
 render_with_liquid: false
+title: "Domains can now easily be transferred out - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/domains-can-now-easily-be-transferred-out"
 date: "2021-04-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 2, 2021
 
 2021年4月2日

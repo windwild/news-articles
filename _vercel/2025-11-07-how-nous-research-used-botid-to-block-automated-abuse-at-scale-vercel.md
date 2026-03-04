@@ -1,6 +1,6 @@
 ---
-title: "How Nous Research used BotID to block automated abuse at scale - Vercel"
 render_with_liquid: false
+title: "How Nous Research used BotID to block automated abuse at scale - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-nous-research-used-botid-to-block-automated-abuse-at-scale"
 date: "2025-11-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel BotID Deep Analysis protected Nous Research by blocking advanced automated abuse from attacking their application"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 7, 2025
 
 2025 年 11 月 7 日

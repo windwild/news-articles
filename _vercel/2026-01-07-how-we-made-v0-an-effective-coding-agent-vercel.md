@@ -1,6 +1,6 @@
 ---
-title: "How we made v0 an effective coding agent  - Vercel"
 render_with_liquid: false
+title: "How we made v0 an effective coding agent  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-we-made-v0-an-effective-coding-agent"
 date: "2026-01-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "v0’s composite AI pipeline boosts reliability by fixing errors in real time. Learn how dynamic system prompts, LLM Suspense, and autofixers work together to deliver stable, working web app generatio..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 7, 2026
 
 2026年1月7日

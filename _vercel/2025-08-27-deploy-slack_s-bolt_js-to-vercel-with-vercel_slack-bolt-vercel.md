@@ -1,6 +1,6 @@
 ---
-title: "Deploy Slack's Bolt.js to Vercel with @vercel/slack-bolt - Vercel"
 render_with_liquid: false
+title: "Deploy Slack's Bolt.js to Vercel with @vercel/slack-bolt - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/build-slack-agents-with-vercel-slack-bolt"
 date: "2025-08-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Deploy your Slack agent to Vercel's AI Cloud using @vercel/slack-bolt to take advantage of AI Gateway, Fluid compute, and more."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 27, 2025
 
 2025 年 8 月 27 日

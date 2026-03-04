@@ -1,6 +1,6 @@
 ---
-title: "AI SDK 4.2 - Vercel"
 render_with_liquid: false
+title: "AI SDK 4.2 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-4-2"
 date: "2025-03-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "AI SDK 4.2 introduces MCP clients, reasoning, image generation with language models, message parts, sources, and more"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 21, 2025
 
 2025 年 3 月 21 日

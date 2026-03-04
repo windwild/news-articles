@@ -1,6 +1,6 @@
 ---
-title: "Rolling Releases are now generally available - Vercel"
 render_with_liquid: false
+title: "Rolling Releases are now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/rolling-releases-are-now-generally-available"
 date: "2025-06-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Rolling Releases are now generally available, enabling incremental rollouts of new production deployments. Advance through defined rollout stages for safer deploys. Available now for Pro and Enterpris..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 25, 2025
 
 2025年6月25日

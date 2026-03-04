@@ -1,6 +1,6 @@
 ---
-title: "Unified security actions dashboard - Vercel"
 render_with_liquid: false
+title: "Unified security actions dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/unified-security-actions-dashboard"
 date: "2025-12-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A new unified dashboard for Vercel’s platform, infrastructure, and agent systems, which continuously monitor for vulnerabilities and configuration issues that require attention."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 8, 2025
 
 2025 年 12 月 8 日

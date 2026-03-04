@@ -1,6 +1,6 @@
 ---
-title: "Restrict repository deployments to specific teams - Vercel"
 render_with_liquid: false
+title: "Restrict repository deployments to specific teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/restrict-repository-deployments-to-specific-teams"
 date: "2024-09-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 2, 2024
 
 2024 年 9 月 2 日

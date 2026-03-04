@@ -1,6 +1,6 @@
 ---
-title: "Changes to Vercel Image Optimization - Vercel"
 render_with_liquid: false
+title: "Changes to Vercel Image Optimization - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/changes-to-vercel-image-optimizations"
 date: "2023-01-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 18, 2023
 
 2023年1月18日

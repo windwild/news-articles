@@ -1,6 +1,6 @@
 ---
-title: "The rise of the AI crawler - Vercel"
 render_with_liquid: false
+title: "The rise of the AI crawler - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-rise-of-the-ai-crawler"
 date: "2024-12-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "New research reveals how ChatGPT, Claude, and other AI crawlers process web content, including JavaScript rendering, assets, and other behavior and patterns—with recommendations for site owners, dev..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 17, 2024
 
 2024 年 12 月 17 日

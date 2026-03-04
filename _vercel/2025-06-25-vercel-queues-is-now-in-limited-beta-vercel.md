@@ -1,6 +1,6 @@
 ---
-title: "Vercel Queues is now in Limited Beta - Vercel"
 render_with_liquid: false
+title: "Vercel Queues is now in Limited Beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-queues-is-now-in-limited-beta"
 date: "2025-06-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Queues is a message queue service for Vercel apps, now in Limited Beta. It enables background task processing using an append-only log for reliability, with support for pub/sub messaging, strea..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 25, 2025
 
 2025 年 6 月 25 日

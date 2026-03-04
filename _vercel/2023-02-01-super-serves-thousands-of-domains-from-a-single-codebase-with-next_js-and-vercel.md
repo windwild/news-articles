@@ -1,6 +1,6 @@
 ---
-title: "Super serves thousands of domains from a single codebase with Next.js and Vercel - Vercel"
 render_with_liquid: false
+title: "Super serves thousands of domains from a single codebase with Next.js and Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/super-serves-thousands-of-domains-on-one-project-with-next-js-and-vercel"
 date: "2023-02-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "How Super uses Next.js and Vercel to power thousands of Notion-based websites with custom domains from a single codebase."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 1, 2023
 
 2023 年 2 月 1 日

@@ -1,6 +1,6 @@
 ---
-title: "Improved analytics experience now available on the Vercel Firewall - Vercel"
 render_with_liquid: false
+title: "Improved analytics experience now available on the Vercel Firewall - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-analytics-experience-now-available-on-the-vercel-firewall"
 date: "2025-11-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "An updated Firewall analytics experience that provides an overview of DDoS attacks, top activity across system rules, custom rules, and IP blocks, and the ability to drill down into signals for easier..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 20, 2025
 
 2025 年 11 月 20 日

@@ -1,6 +1,6 @@
 ---
-title: "React Server Components with Next.js - Vercel"
 render_with_liquid: false
+title: "React Server Components with Next.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/everything-about-react-server-components"
 date: "2021-01-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn about React Server Components (experimental) and how they'll change how we build React applications, creating a better end-user experience."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 15, 2021
 
 2021 年 1 月 15 日

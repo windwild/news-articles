@@ -1,6 +1,6 @@
 ---
-title: "Talha Tariq joins Vercel as CTO of Security - Vercel"
 render_with_liquid: false
+title: "Talha Tariq joins Vercel as CTO of Security - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/talha-tariq-joins-vercel-as-cto-security"
 date: "2025-10-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Talha Tariq joins Vercel as CTO of Security, bringing expertise from HashiCorp and IBM to lead security innovation in the AI era."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 15, 2025
 
 2025年10月15日

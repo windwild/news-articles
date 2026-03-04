@@ -1,6 +1,6 @@
 ---
-title: "Curve fitting for charts: better visualizations for Vercel Analytics - Vercel"
 render_with_liquid: false
+title: "Curve fitting for charts: better visualizations for Vercel Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/curve-fitting-for-charts-better-visualizations-for-vercel-analytics"
 date: "2022-09-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "How we made your Vercel Analytics data more actionable to drive performance for your application."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 9, 2022
 
 2022 年 9 月 9 日

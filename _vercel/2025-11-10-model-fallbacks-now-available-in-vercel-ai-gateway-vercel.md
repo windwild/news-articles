@@ -1,6 +1,6 @@
 ---
-title: "Model fallbacks now available in Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "Model fallbacks now available in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/model-fallbacks-now-available-in-vercel-ai-gateway"
 date: "2025-11-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Model fallbacks now supported in Vercel AI Gateway in addition to provider routing, giving you failover options when models fail or are unavailable."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 10, 2025
 
 2025 年 11 月 10 日

@@ -1,6 +1,6 @@
 ---
-title: "Turbopack updates: Moving homes - Vercel"
 render_with_liquid: false
+title: "Turbopack updates: Moving homes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/turbopack-moving-homes"
 date: "2024-07-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "An update on our progress with Turbopack, details on where we’re headed, and a planned move of Turbopack to the Next.js repository."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 23, 2024
 
 2024 年 7 月 23 日

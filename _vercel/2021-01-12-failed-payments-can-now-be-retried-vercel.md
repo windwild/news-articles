@@ -1,6 +1,6 @@
 ---
-title: "Failed payments can now be retried - Vercel"
 render_with_liquid: false
+title: "Failed payments can now be retried - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/failed-payments-can-now-be-retried"
 date: "2021-01-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 12, 2021
 
 2021 年 1 月 12 日

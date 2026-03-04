@@ -1,6 +1,6 @@
 ---
-title: "Projects using pnpm can now be deployed with zero configuration - Vercel"
 render_with_liquid: false
+title: "Projects using pnpm can now be deployed with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/projects-using-pnpm-can-now-be-deployed-with-zero-configuration"
 date: "2022-03-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 22, 2022
 
 2022年3月22日

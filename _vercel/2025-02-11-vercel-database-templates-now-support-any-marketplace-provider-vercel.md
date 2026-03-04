@@ -1,6 +1,6 @@
 ---
-title: "Vercel database templates now support any marketplace provider - Vercel"
 render_with_liquid: false
+title: "Vercel database templates now support any marketplace provider - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-database-templates-now-support-any-marketplace-provider"
 date: "2025-02-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel database templates are provider agnostic and now support any Postgres or Redis provider in the Vercel Marketplace."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 11, 2025
 
 2025 年 2 月 11 日

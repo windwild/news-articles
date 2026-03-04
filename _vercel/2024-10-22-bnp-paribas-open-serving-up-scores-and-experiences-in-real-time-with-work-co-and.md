@@ -1,6 +1,6 @@
 ---
-title: "BNP Paribas Open: Serving up scores and experiences in real time with Work & Co and Vercel - Vercel"
 render_with_liquid: false
+title: "BNP Paribas Open: Serving up scores and experiences in real time with Work & Co and Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/bnp-paribas-open-serving-up-scores-and-experiences-in-real-time-with-work"
 date: "2024-10-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Work & Co partners with Vercel for BNP Paribas Open's digital transformation resulting in better performance and velocity. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 22, 2024
 
 2024年10月22日

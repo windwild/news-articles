@@ -1,6 +1,6 @@
 ---
-title: "Node.js Vercel Functions now support request cancellation - Vercel"
 render_with_liquid: false
+title: "Node.js Vercel Functions now support request cancellation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-vercel-functions-now-support-request-cancellation"
 date: "2025-04-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Functions using Node.js can now detect when a request cancellation and stop execution before completion."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 23, 2025
 
 2025 年 4 月 23 日

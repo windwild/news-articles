@@ -1,6 +1,6 @@
 ---
-title: "Improvements to Support Center - Vercel"
 render_with_liquid: false
+title: "Improvements to Support Center - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvements-to-support-center"
 date: "2024-07-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 19, 2024
 
 2024年7月19日

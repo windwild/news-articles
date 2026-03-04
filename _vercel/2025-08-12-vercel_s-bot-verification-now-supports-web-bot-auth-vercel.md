@@ -1,6 +1,6 @@
 ---
-title: "Vercel's bot verification now supports Web Bot Auth - Vercel"
 render_with_liquid: false
+title: "Vercel's bot verification now supports Web Bot Auth - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercels-bot-verification-now-supports-web-bot-auth"
 date: "2025-08-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel's bot verification system now supports Web Bot Auth, a proposal that leverages HTTP Message Signatures, enabling Vercel to verify traffic automation from dynamic and distributed sources."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 12, 2025
 
 2025 年 8 月 12 日

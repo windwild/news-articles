@@ -1,6 +1,6 @@
 ---
-title: "How Vercel adopted microfrontends - Vercel"
 render_with_liquid: false
+title: "How Vercel adopted microfrontends - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-vercel-adopted-microfrontends"
 date: "2024-10-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel cut build times and improved developer velocity while maintaining a smooth user experience with microfrontends."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 22, 2024
 
 2024 年 10 月 22 日

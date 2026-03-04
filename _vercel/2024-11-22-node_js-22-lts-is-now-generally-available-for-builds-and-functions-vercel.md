@@ -1,6 +1,6 @@
 ---
-title: "Node.js 22 LTS is now generally available for builds and functions - Vercel"
 render_with_liquid: false
+title: "Node.js 22 LTS is now generally available for builds and functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-22-lts-is-now-available"
 date: "2024-11-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Node.js version 22 is available as the runtime on Vercel for your builds and functions leveraging Node. Node 22 brings improved Stream performance, improved AbortSignal performance, improved Buffer pe..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 22, 2024
 
 2024 年 11 月 22 日

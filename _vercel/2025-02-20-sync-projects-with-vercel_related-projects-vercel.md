@@ -1,6 +1,6 @@
 ---
-title: "Sync projects with @vercel/related-projects - Vercel"
 render_with_liquid: false
+title: "Sync projects with @vercel/related-projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sync-projects-with-vercel-related-projects"
 date: "2025-02-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Related projects allows automatically linking preview deployments across multiple projects in monorepos."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 20, 2025
 
 2025 年 2 月 20 日

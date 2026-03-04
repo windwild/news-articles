@@ -1,6 +1,6 @@
 ---
-title: "Yarn 2+ dependency caching now supported - Vercel"
 render_with_liquid: false
+title: "Yarn 2+ dependency caching now supported - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/yarn-2-dependency-caching-now-supported"
 date: "2025-03-31"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel's build cache now supports Yarn 2+ dependencies. Previously, dependencies were only cached for npm, pnpm, and Yarn 1."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 31, 2025
 
 2025年3月31日

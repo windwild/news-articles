@@ -1,6 +1,6 @@
 ---
-title: "Improving INP with React 18 and Suspense - Vercel"
 render_with_liquid: false
+title: "Improving INP with React 18 and Suspense - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/improving-interaction-to-next-paint-with-react-18-and-suspense"
 date: "2022-08-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how to improve Interaction to Next Paint in React applications by using Suspense and selective hydration."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 9, 2022
 
 2022年8月9日

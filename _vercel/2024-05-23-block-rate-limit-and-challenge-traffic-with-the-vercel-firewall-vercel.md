@@ -1,6 +1,6 @@
 ---
-title: "Block, rate limit, and challenge traffic with the Vercel Firewall - Vercel"
 render_with_liquid: false
+title: "Block, rate limit, and challenge traffic with the Vercel Firewall - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/block-rate-limit-and-challenge-traffic-with-the-vercel-firewall"
 date: "2024-05-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 23, 2024
 
 2024年5月23日

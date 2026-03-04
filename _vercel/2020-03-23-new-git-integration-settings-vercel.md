@@ -1,6 +1,6 @@
 ---
-title: "New Git Integration Settings - Vercel"
 render_with_liquid: false
+title: "New Git Integration Settings - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/new-git-integration-settings"
 date: "2020-03-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: " Thanks to an overhauled UI, managing the Git connection of a project or an entire account is easier than ever."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 23, 2020
 
 2020年3月23日

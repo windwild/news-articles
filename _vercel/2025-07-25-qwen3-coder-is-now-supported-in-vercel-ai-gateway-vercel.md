@@ -1,6 +1,6 @@
 ---
-title: "Qwen3-Coder is now supported in Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "Qwen3-Coder is now supported in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/qwen3-coder-is-now-supported-in-vercel-ai-gateway"
 date: "2025-07-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access Qwen3 Coder, a model from QwenLM, an Alibaba Cloud company, designed to handle complex, multi-step coding workflows, using Vercel's AI Gateway with no other provider accounts requir..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 25, 2025
 
 2025 年 7 月 25 日

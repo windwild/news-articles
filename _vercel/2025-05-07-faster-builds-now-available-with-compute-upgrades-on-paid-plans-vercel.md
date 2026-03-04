@@ -1,6 +1,6 @@
 ---
-title: "Faster builds now available with compute upgrades on paid plans - Vercel"
 render_with_liquid: false
+title: "Faster builds now available with compute upgrades on paid plans - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-builds-now-available-with-compute-upgrades-on-paid-plans"
 date: "2025-05-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Enhanced Builds can now be enabled on demand per project for Pro and Enterprise teams. These builds offer double the compute. Customers already using Enhanced Builds are seeing, with no action require..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 7, 2025
 
 2025年5月7日

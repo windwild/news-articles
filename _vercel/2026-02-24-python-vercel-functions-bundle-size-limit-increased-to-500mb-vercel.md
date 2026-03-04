@@ -1,6 +1,6 @@
 ---
-title: "Python Vercel Functions bundle size limit increased to 500MB - Vercel"
 render_with_liquid: false
+title: "Python Vercel Functions bundle size limit increased to 500MB - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/python-vercel-functions-bundle-size-limit-increased-to-500mb"
 date: "2026-02-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The bundle size limit for Python Vercel Functions has increased from 250MB to 500MB, allowing larger dependencies and assets in a single deployment. Learn more in the docs or deploy FastAPI or Flask t..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 24, 2026
 
 2026 年 2 月 24 日

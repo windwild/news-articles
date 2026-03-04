@@ -1,6 +1,6 @@
 ---
-title: "Gemini 3 Flash is now available on the Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "Gemini 3 Flash is now available on the Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gemini-3-flash-is-now-available-on-the-vercel-ai-gateway"
 date: "2025-12-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access the Gemini 3 Flash model on Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 17, 2025
 
 2025 年 12 月 17 日

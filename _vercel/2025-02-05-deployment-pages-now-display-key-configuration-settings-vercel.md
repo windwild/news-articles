@@ -1,6 +1,6 @@
 ---
-title: "Deployment pages now display key configuration settings - Vercel"
 render_with_liquid: false
+title: "Deployment pages now display key configuration settings - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deployment-pages-now-display-key-configuration-settings"
 date: "2025-02-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Project and deployment pages in the Vercel dashboard now show the deployment's Fluid Compute, Function CPU, Deployment Protection, Skew Protection, and Secure Compute settings."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 5, 2025
 
 2025 年 2 月 5 日

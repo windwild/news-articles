@@ -1,6 +1,6 @@
 ---
-title: "Helly Hansen migrated to Vercel and drove 80% Black Friday growth  - Vercel"
 render_with_liquid: false
+title: "Helly Hansen migrated to Vercel and drove 80% Black Friday growth  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-helly-hansen-migrated-to-vercel-and-drove-80-black-friday-growth"
 date: "2025-09-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The 150-year-old Norwegian brand leveraged Next.js and Vercel to achieve 154% Black Friday growth and 30%+ conversion lift while competing against industry titans in a crowded space"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 15, 2025
 
 2025年9月15日

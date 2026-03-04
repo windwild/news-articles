@@ -1,6 +1,6 @@
 ---
-title: "Quickly navigate the Dashboard with shortcuts - Vercel"
 render_with_liquid: false
+title: "Quickly navigate the Dashboard with shortcuts - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/quickly-navigate-the-dashboard-with-shortcuts"
 date: "2021-09-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 9, 2021
 
 2021 年 9 月 9 日

@@ -1,6 +1,6 @@
 ---
-title: "Vercel Edge Functions - Vercel"
 render_with_liquid: false
+title: "Vercel Edge Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/edge-functions-generally-available"
 date: "2022-12-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Edge Functions are now generally available for fast, efficient compute."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 15, 2022
 
 2022 年 12 月 15 日

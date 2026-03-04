@@ -1,6 +1,6 @@
 ---
-title: "Bot activity and crawler insights now in Observability - Vercel"
 render_with_liquid: false
+title: "Bot activity and crawler insights now in Observability - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bot-activity-and-crawler-insights-now-in-observability"
 date: "2025-05-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Find out which ai crawlers or search engines are scraping your content. Act later on using Vercel Firewall if wanted"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 7, 2025
 
 2025年5月7日

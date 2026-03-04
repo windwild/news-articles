@@ -1,6 +1,6 @@
 ---
-title: "Hydrogen 2 projects can now be deployed with zero configuration - Vercel"
 render_with_liquid: false
+title: "Hydrogen 2 projects can now be deployed with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/hydrogen-2-remix-vercel"
 date: "2023-08-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports and automatically optimizes your Hydrogen 2 projects as of Vercel CLI v31.2.3.  "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 14, 2023
 
 2023年8月14日

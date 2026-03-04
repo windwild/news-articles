@@ -1,6 +1,6 @@
 ---
-title: "Migrate a large, open-source React application to Next.js and Vercel - Vercel"
 render_with_liquid: false
+title: "Migrate a large, open-source React application to Next.js and Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/migrating-a-large-open-source-react-application-to-next-js-and-vercel"
 date: "2022-12-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how we approached migrating the BBC's large, open-source React application to Next.js and Vercel to see both developer and user experience benefits."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 8, 2022
 
 2022 年 12 月 8 日

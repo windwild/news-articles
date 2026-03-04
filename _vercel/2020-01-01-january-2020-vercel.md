@@ -1,6 +1,6 @@
 ---
-title: "January 2020 - Vercel"
 render_with_liquid: false
+title: "January 2020 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/changelog-january-2020"
 date: "2020-01-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel's changelog for January 2020"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 1, 2020
 
 2020 年 1 月 1 日

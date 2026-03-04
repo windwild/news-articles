@@ -1,0 +1,163 @@
+---
+render_with_liquid: false
+title: "Lowe’s puts project expertise into every hand  | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/lowes"
+date: "2025-05-07"
+scraped_at: "2026-03-02T10:12:26.512966021+00:00"
+language: "en-US"
+translated: false
+description: "Lowe’s partnered with OpenAI to build Mylow and Mylow Companion, AI-powered tools that bring expert help to both customers and store associates—making complex home improvement projects easier to p..."
+tags: ["Story"]
+---
+
+
+# Lowe’s puts project expertise into every hand
+
+With OpenAI, Lowe’s brings their Mylow Companion app to all retail associates, applying the same AI foundation behind their customer-facing Mylow virtual advisor.
+
+[Try for free(opens in a new window)](https://chatgpt.com/team-sign-up?promo_campaign=team-1-month-free&utm_campaign=WEB-team-1-month-free&utm_internal_medium=referral&utm_internal_source=openai_business&openaicom-did=f14b05a5-8666-439f-9f79-1e4986a48fe8&openaicom_referred=true) [Contact sales](https://openai.com/contact-sales/)
+
+00:00
+
+
+
+Home improvement projects aren’t simple shopping trips. They're major investments, often involving thousands of dollars, multiple visits, and specialized expertise.
+
+“When you’re buying a t-shirt and it doesn’t fit, you just return it. No big deal,” says Seemantini Godbole, EVP, Chief Digital and Information Officer at Lowe’s. “But if you’re renovating a kitchen or redoing your floors, those are expensive decisions. You want to feel confident. And that requires expertise.”​
+
+Lowe’s Red Vest associates have long helped customers navigate that complexity.  But with stores up to 130,000 square feet and tens of thousands of SKUs in store, even seasoned team members can’t know everything. And online shoppers face similar challenges: traditional search tools only help if you already know what to look for.
+
+To meet those expectations, Lowe’s needed a partner with deep AI capabilities and a flexible platform. OpenAI’s models offered the reasoning, conversation quality, and performance at scale that Lowe’s needed to serve both its customers and associates.
+
+“We’ve been really intentional,” says Godbole. “We didn’t want to just update our systems. We wanted to rewire the entire business to support projects, not just products.”​
+
+![Images of Seemantini Godbole, EVP, Chief Digital and Information Officer at Lowe’s](images/lowe_s-puts-project-expertise-into-every-hand-openai/img_001.png)
+
+Seemantini Godbole
+
+## Meeting a new era of expectations
+
+Lowe’s had already been investing in AI for years. What changed in 2023 was customer behavior.
+
+“ChatGPT changed expectations,” says Joe Cano, SVP of Digital Commerce. “Customers now expect fast, expert answers 24/7. They want to describe their project in natural language and get help–not open ten tabs to figure out what mulch works in their zip code.”​
+
+At the same time, newer generations of associates–often younger, seasonal, or cross-trained across departments–needed support navigating complex product categories.
+
+“Not everyone on the floor has trade experience,” says Vinny Scalese, SVP of Store Operations. “But every time a customer sees someone in a red vest, they expect an answer. That’s a lot of pressure. We wanted to give every associate the confidence of a ten-year veteran.”
+
+## Scaling expertise with Mylow and Mylow Companion
+
+Working with OpenAI, Lowe’s embedded GPT‑4o into two experiences designed to support every step of a home improvement project:
+
+- **Mylow**: A conversational AI-powered advisor embedded on Lowes.com that helps customers ask open-ended questions and get step-by-step guidance, product recommendations, and links to how-to articles and videos.
+- **Mylow Companion**: A mobile app for in-store associates that offers fast, conversational answers about products, installation steps, availability, and compatibility–no matter the department.
+
+“What makes Mylow powerful is it understands intent,” says Cano. “Most people don’t come to our site with a product in mind. They come with a problem. ‘I want to hang shelves,’ or ‘I need paint that holds up to my three kids.’ The tool figures out what they mean, and helps them finish the job.”​
+
+Mylow has quickly become one of Lowe’s most helpful digital tools, supporting customers as they navigate projects, explore options, and make confident purchasing decisions. “It’s helping customers feel more sure about what they need,” adds Cano. “It’s not just answering questions–it’s guiding them to the right solutions.”​
+
+Mylow Companion has had a similar impact in stores. “We've always wanted to give superpowers to our associates so they can spend more time with our customers,” says Godbole. “This makes it so we can give our associates these super powers.”​
+
+Voice support was also essential. “Over 50 percent of interactions happen by voice,” adds Godbole. “Associates are moving. They’ve got one hand on a cart or carrying product. Typing in that environment isn’t natural, but talking is.”
+
+## Delivering expert guidance in every aisle
+
+In-store, Mylow Companion gives associates the confidence to answer questions on the spot–even in departments outside their usual roles. Associates use natural language to ask:
+
+- "For someone with kids, what’s the best paint for a high-traffic area?”
+- "How do I fix a leaky faucet?"
+- "Where’s the grass seed, and what kind do I need for bare spots?
+
+The app returns clear, specific answers in seconds. It also suggests what the Lowe’s team calls “attachments,” like primer, spackle, or topsoil, so customers don’t forget important components.
+
+“It’s not just about answering one question,” says Scalese. “It’s about understanding the project. If you’re patching drywall, you probably also need tape and sandpaper. The app suggests those automatically.”​
+
+It also helps fill experience gaps on the floor. “I’ve been in this business 35 years,” says Scalese. “Even I sometimes have to walk the whole store to find something. Before, if a customer needed to replace a hose bib and the plumbing expert wasn’t there, you’d have three people spending 30 minutes trying to help. Now, one associate can get it done in minutes.”​
+
+![Three images of Lowe's associates receiving training](images/lowe_s-puts-project-expertise-into-every-hand-openai/img_002.png)
+
+## Guiding customers through their projects online
+
+The same logic powers Mylow on Lowes.com. Instead of navigating categories or typing in keywords, customers describe what they’re trying to do. Mylow responds with a personalized plan, product suggestions, and how-to content.
+
+“Before Mylow, customers would open five tabs. One for YouTube, one for Google, one for Lowe’s,” says Cano. “Now they just ask Mylow one question, and they get everything they need.”​
+
+Whether it’s fixing a faucet, installing a backsplash, or building a raised garden bed, Mylow understands the customer’s intent and walks them through each step. It reduces friction and increases confidence.
+
+The result is a seamless handoff between channels. “We like to think of it as putting a red vest associate in your pocket,” Cano says. “It’s available 24/7, and it speaks your language.”​
+
+![Two images of Joe Cano, SVP of Digital Commerce at Lowe's](images/lowe_s-puts-project-expertise-into-every-hand-openai/img_003.png)
+
+Joe Cano
+
+## Building an AI operating model around the associate
+
+What made this work, according to Chandhu Nair, SVP of Data, AI, and Innovation at Lowe’s, was a tight link between tech and business.
+
+“This isn’t a tech initiative,” says Nair. “Every AI solution at Lowe’s has a business sponsor at the SVP level. If they’re not in, we don’t do it.”​
+
+Lowe’s structured its AI strategy around three pillars:
+
+- **How we shop**: customer experiences like Mylow
+- **How we sell**: tools like Mylow Companion for associates
+- **How we work**: internal solutions for finance, engineering, and merchandising
+
+“Every project ladders up to our strategic goals,” notes Nair.
+
+That alignment extended into day-to-day collaboration. “We locked our teams in the same room from day one,” says Scalese. “We walked stores together. Chandhu’s engineers didn’t just sit in a lab. They came into the aisles and watched associates work. And we told them exactly where the friction was.”​
+
+That feedback loop helped the tech teams build tools that felt intuitive and useful to associates. “You can’t design for store teams unless you’ve been on the floor,” adds Nair. “It’s not just about what the model can do. It’s about what the associate needs in the moment.”
+
+![Image of Chandhu Nair, SVP of Data, AI, and Innovation at Lowe’s,](images/lowe_s-puts-project-expertise-into-every-hand-openai/img_004.png)
+
+Chandhu Nair
+
+## A more confident, connected Lowe’s experience
+
+Leaders are seeing clear signals of customer and associate impact across both tools:
+
+- **100% rollout** of Mylow Companion across 1,700 stores
+- **Higher associate confidence**, especially among seasonal and newer hires
+- Mylow is helping customers **move from browsing to buying**, with stronger signs of purchase intent and fuller carts
+- Customers who engage with the tool tend to spend more time exploring and **show greater confidence** in their decisions
+
+“What if each associate asked just one question a day?” says Godbole. “That’s 300,000 questions. That’s how we measure success now–are we building the habit?”​
+
+## Extending project expertise to everyone
+
+Lowe’s is expanding its use of OpenAI to build natural voice interaction into Mylow Companion and adopt ChatGPT Enterprise for their Store Support Center (HQ) employees.
+
+“There’s so much opportunity, it’s almost overwhelming–in the best way,” says Godbole. “We’re going after every part of the business where expertise matters, and AI can help democratize it.”​
+
+For Lowe’s, the goal is simple: equip every associate and customer with the confidence to tackle whatever project comes next.
+
+“We’re in the business of fixing problems and fulfilling dreams,” says Godbole. “With the right tools, we can do that better than ever before.”
+
+## Interested in learning more about ChatGPT for business?
+
+[Talk with our team](https://openai.com/contact-sales/)
+
+## Related articles
+
+[View all](https://openai.com/news/api/)
+
+![Notion > cover image](images/lowe_s-puts-project-expertise-into-every-hand-openai/img_005.png)
+
+[Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows\\
+\\
+APINov 7, 2025](https://openai.com/index/notion/)
+
+![zendesk > cover image](images/lowe_s-puts-project-expertise-into-every-hand-openai/img_006.png)
+
+[Moving from intent-based bots to proactive AI agents\\
+\\
+APIMar 27, 2025](https://openai.com/index/zendesk/)
+
+![Hebbia > cover image](images/lowe_s-puts-project-expertise-into-every-hand-openai/img_007.png)
+
+[Automating 90% of finance and legal work with agents\\
+\\
+APIMar 25, 2025](https://openai.com/index/hebbia/)
+
+Lowe’s puts project expertise into every hand \| OpenAI

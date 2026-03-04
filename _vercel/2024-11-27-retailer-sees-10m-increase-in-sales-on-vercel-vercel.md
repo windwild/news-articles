@@ -1,6 +1,6 @@
 ---
-title: "Retailer sees $10M increase in sales on Vercel - Vercel"
 render_with_liquid: false
+title: "Retailer sees $10M increase in sales on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/retailer-sees-10m-increase-in-sales-on-vercel"
 date: "2024-11-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A global sportswear retailer had a record-breaking Black Friday-Cyber Monday last year, which increased sales by $10M: 33% increase in average orders per minute, 500ms reduction in Time to First Byte,..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 27, 2024
 
 2024年11月27日

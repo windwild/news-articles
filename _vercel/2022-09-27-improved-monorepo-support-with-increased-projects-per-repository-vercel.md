@@ -1,6 +1,6 @@
 ---
-title: "Improved monorepo support with increased Projects per repository - Vercel"
 render_with_liquid: false
+title: "Improved monorepo support with increased Projects per repository - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-monorepo-support-with-increased-projects-per-repository"
 date: "2022-09-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 27, 2022
 
 2022 年 9 月 27 日

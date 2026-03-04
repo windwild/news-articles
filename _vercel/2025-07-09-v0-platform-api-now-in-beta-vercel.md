@@ -1,6 +1,6 @@
 ---
-title: "v0 Platform API now in beta - Vercel"
 render_with_liquid: false
+title: "v0 Platform API now in beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/v0-platform-api-now-in-beta"
 date: "2025-07-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The v0 Platform API enables developers to programmatically generate, retrieve, and manage full stack web apps using RESTful endpoints and TypeScript SDK. Integrate v0 into your workflows, tools, or au..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 9, 2025
 
 2025年7月9日

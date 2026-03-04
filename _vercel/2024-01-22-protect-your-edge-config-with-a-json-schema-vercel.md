@@ -1,6 +1,6 @@
 ---
-title: "Protect your Edge Config with a JSON schema - Vercel"
 render_with_liquid: false
+title: "Protect your Edge Config with a JSON schema - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/protect-your-edge-config-with-a-json-schema"
 date: "2024-01-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 22, 2024
 
 2024 年 1 月 22 日

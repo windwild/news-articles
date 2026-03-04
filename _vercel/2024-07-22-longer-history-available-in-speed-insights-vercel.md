@@ -1,6 +1,6 @@
 ---
-title: "Longer history available in Speed Insights - Vercel"
 render_with_liquid: false
+title: "Longer history available in Speed Insights - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/longer-history-available-in-speed-insights"
 date: "2024-07-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 22, 2024
 
 2024年7月22日

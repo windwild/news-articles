@@ -1,6 +1,6 @@
 ---
-title: "Bun runtime now in Public Beta for Vercel Functions - Vercel"
 render_with_liquid: false
+title: "Bun runtime now in Public Beta for Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bun-runtime-now-in-public-beta-for-vercel-functions"
 date: "2025-10-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Bun runtime is now available in Public Beta for Vercel Functions. Benchmarks show Bun reduced average latency by 28% for CPU-bound Next.js rendering compared to Node.js."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 28, 2025
 
 2025 年 10 月 28 日

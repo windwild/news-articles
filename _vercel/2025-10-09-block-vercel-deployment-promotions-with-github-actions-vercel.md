@@ -1,6 +1,6 @@
 ---
-title: "Block Vercel deployment promotions with GitHub Actions - Vercel"
 render_with_liquid: false
+title: "Block Vercel deployment promotions with GitHub Actions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/block-vercel-deployment-promotions-with-github-actions"
 date: "2025-10-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now automatically block a deployment from releasing to production until selected GitHub Actions complete successfully."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 9, 2025
 
 2025年10月9日

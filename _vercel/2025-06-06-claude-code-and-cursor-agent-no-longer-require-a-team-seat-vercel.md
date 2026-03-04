@@ -1,6 +1,6 @@
 ---
-title: "Claude Code and Cursor Agent no longer require a team seat - Vercel"
 render_with_liquid: false
+title: "Claude Code and Cursor Agent no longer require a team seat - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claude-code-and-cursor-agent-no-longer-require-a-team-seat"
 date: "2025-06-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Claude Code and Cursor Agent can now trigger builds on Vercel without a team seat, as a part of our bot detection policies."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 6, 2025
 
 2025 年 6 月 6 日

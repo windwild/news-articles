@@ -1,6 +1,6 @@
 ---
-title: "Improved accuracy for Vercel Analytics charts - Vercel"
 render_with_liquid: false
+title: "Improved accuracy for Vercel Analytics charts - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-accuracy-for-vercel-analytics-charts"
 date: "2022-08-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 3, 2022
 
 2022年8月3日

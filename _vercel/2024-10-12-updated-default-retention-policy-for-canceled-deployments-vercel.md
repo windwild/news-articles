@@ -1,6 +1,6 @@
 ---
-title: "Updated default retention policy for canceled deployments - Vercel"
 render_with_liquid: false
+title: "Updated default retention policy for canceled deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/updated-default-retention-policy-for-canceled-deployments"
 date: "2024-10-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 12, 2024
 
 2024 年 10 月 12 日

@@ -1,6 +1,6 @@
 ---
-title: "Introducing: React Best Practices - Vercel"
 render_with_liquid: false
+title: "Introducing: React Best Practices - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-react-best-practices"
 date: "2026-01-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We've encapsulated 10+ years of React and Next.js optimization knowledge into react-best-practices, a structured repository optimized for AI agents and LLMs. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 14, 2026
 
 2026 年 1 月 14 日

@@ -1,6 +1,6 @@
 ---
-title: "Wan models on AI Gateway - Vercel"
 render_with_liquid: false
+title: "Wan models on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/wan-models-on-ai-gateway"
 date: "2026-02-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Generate stylized AI videos with Alibaba Wan models via the Vercel AI Gateway. Text-to-video, image-to-video, and unique style transfer (R2V) to transform existing footage into anime, watercolor, and ..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 19, 2026
 
 2026 年 2 月 19 日

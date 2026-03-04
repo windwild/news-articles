@@ -1,6 +1,6 @@
 ---
-title: "Vercel launches partner certification - Vercel"
 render_with_liquid: false
+title: "Vercel launches partner certification - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-launches-partner-certification"
 date: "2025-12-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel introduces the inaugural cohort of Vercel Certified Solution Partners. These industry-leading teams share our commitment to creating a faster, more accessible, and innovative web for our custom..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 10, 2025
 
 2025 年 12 月 10 日

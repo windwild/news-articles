@@ -1,6 +1,6 @@
 ---
-title: "Preventing the stampede: Request collapsing in the Vercel CDN  - Vercel"
 render_with_liquid: false
+title: "Preventing the stampede: Request collapsing in the Vercel CDN  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/cdn-request-collapsing"
 date: "2025-09-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Vercel CDN now supports request collapsing for ISR routes. For a given path, only one function invocation per region runs at once, no matter how many concurrent requests arrive."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 25, 2025
 
 2025 年 9 月 25 日

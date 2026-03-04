@@ -1,0 +1,81 @@
+---
+render_with_liquid: false
+title: "Using GPT-4 to deliver a new customer service standard | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/ada"
+date: "2024-09-05"
+scraped_at: "2026-03-02T10:17:42.179181287+00:00"
+language: "en-US"
+translated: false
+description: "Ada uses GPT-4 to deliver a new customer service standard"
+tags: ["Story"]
+---
+
+
+# Ada uses GPT‑4 to deliver a new customer service standard
+
+![Ada logo superimposed on an abstract painting with prominent blue and purple brushstrokes.](images/using-gpt-4-to-deliver-a-new-customer-service-standard-openai/img_001.png)
+
+
+
+Ada is fueling a [$100B shift⁠(opens in a new window)](https://www.forbes.com/sites/louiscolumbus/2018/04/30/sizing-the-market-value-of-artificial-intelligence/?subId3=xid:fr1605104619702abi&sh=8ba4d26ffe97) in customer service spend, and at the forefront of this transition is their AI-native customer service automation platform. Founded in 2016, [Ada⁠(opens in a new window)](https://www.ada.cx/?utm_source=partner&utm_medium=referral&utm_campaign=openai-casestudy-2024) is now valued at $1.2B with a total of $200M in funding; customers include Verizon, YETI, Canva, and Square.
+
+Ada isn’t new to AI—they’ve been an AI-native platform since inception. The first generation of the product was built using custom Natural Language Processing (NLP) models that were developed and trained in-house. But they noticed a gap between how many customer questions their platform could handle, and how many queries were truly being resolved in a satisfactory way.
+
+> “We got really excited by OpenAI and what was happening in the industry. In 2022, we decided to go all in and rebuild the product using the reasoning capabilities of LLMs.”
+
+Mike Gozzo, Chief Product and Technology Officer
+
+## Developing a new customer service metric: resolution rate
+
+The industry-standard metric for customer service, containment rate, measures the number of customer inquiries that are handled entirely by a chatbot and never reach a human agent. If you increase the containment rate, you’ll theoretically reduce operational expenses in customer service. But the team at Ada saw a problem with this metric.
+
+“Many solutions, including Ada, could easily deliver 80–100% containment rates, but if you actually opened up those conversation transcripts and read the experiences customers had, they were quite poor,” Gozzo said.
+
+By focusing their efforts on how well conversations were actually resolved, the team at Ada knew they could set a new standard in the customer service industry.
+
+Initially using GPT‑4, combined with their historical data, Ada built a new evaluation framework capable of assessing conversations for how well they were resolved automatically. Ada’s system rates each conversation by how well customers receive relevant, accurate, and safe replies—without human intervention. “In our testing, our system achieved 80–90% agreement with a human reading the conversation,” Gozzo said.
+
+![The image shows an email conversation between Alice Carson and Milo from CoolShop’s customer service. Alice is asking for an update on her order status, and Milo responds that the order has shipped with a tracking number, scheduled to arrive next Monday.](images/using-gpt-4-to-deliver-a-new-customer-service-standard-openai/img_002.png)
+
+## Battle-testing models and choosing OpenAI
+
+By understanding resolution rate, Ada had a north star for their product. In addition to using OpenAI’s API for evaluation, they decided to work with OpenAI to build the new generation of their AI Agent.
+
+Ada had used OpenAI’s models before, mostly to generate training data for their NLP models. When putting OpenAI’s API to the test for their new use cases, Ada noted several differentiators:
+
+- **Quality of inference:** Ada has built a synthetic test framework that simulates hundreds of thousands of end customers talking to their system, so they stress test models on scalability and quality. “We evaluate every major model on a regular basis, within a few weeks of them being released, and so far no one has bested OpenAI on our evaluation set,” Gozzo said.
+- **Latency:** To ensure the best performance for Ada’s voice use cases, low-latency models are key. “For real-time reasoning, we’ve seen a big leap in latency and overall quality with GPT‑4o,” Gozzo said.
+- **Fine-tuning:** Ada uses OpenAI’s fine-tuning API to provide a confidence score about the level of hallucinations in a given response, and uses that score in the rest of the toolchain to minimize the number of hallucinations in the system. “We're also excited about the possibility over time of using fine tuning to further improve our system's ability to reason, and the potential for the technique to allow for smaller, less expensive models to mimic the performance of frontier models,” Gozzo said.
+
+## Doubling resolution rates with OpenAI
+
+Today, Ada’s AI Agent uses a multi-agent configuration, with a central planning agent and a collection of subagents, all powered by OpenAI’s API. “Any time you communicate with a business that’s using Ada, your question is going to be fed through multiple turns of OpenAI's models, understanding it, reflecting on it, invoking tools, and bringing in knowledge until the answer is generated,” Gozzo explained.
+
+The previous version of Ada’s product had a 70% containment rate, but a 30% resolution rate. Of the customers Ada has brought to the new system, they have the similar containment results, but typically see a resolution rate of up to 60%, with the highest-performing customers north of 80%.
+
+“From one technology to the next, we’ve doubled the amount of conversations we can automatically resolve with a great experience,” Gozzo said. For Ada’s customers, this metric has a massive downstream impact on ROI, including full time equivalent (FTE) savings, customer satisfaction, retention, and new signups.
+
+![The image shows a chat interaction between a user and a “Fintech Bot.” The user states, “I accidentally paid a bill from the wrong account.” The bot responds with an apology and provides a link to learn more about making bill payments. ](images/using-gpt-4-to-deliver-a-new-customer-service-standard-openai/img_003.png)
+
+_Status:_ Not Resolved
+
+_Reason:_ The bot provided irrelevant links and did not address the customer's issue.
+
+![The image shows a chat conversation between a user and “Milo, AI Agent.” The user accidentally paid a bill from the wrong account. Milo helps the user sign in, asks for confirmation of the account, and offers to cancel the payment of $325.](images/using-gpt-4-to-deliver-a-new-customer-service-standard-openai/img_004.png)
+
+_Status:_ Resolved
+
+_Reason:_ The AI Agent took the appropriate actions to solve the customer inquiry.
+
+## 100% resolution is achievable with AI
+
+Ada is so confident in their ability to resolve customer queries, they’ve set their sights on a 100% resolution rate, which would have seemed like a fantasy just years ago. “Now, 100% resolution is a when, not an if,” Gozzo said.
+
+The market has shifted, too—Ada doesn’t encounter much skepticism when they talk about automated resolution. “Enterprises are increasingly savvier,” Gozzo said. “They’re really thinking about AI strategies, and championing bringing technology like this into their operations.” Customers can onboard, measure, and coach Ada’s LLM-based AI Agents just like a human agent. Ada’s goals for the next 12 months are to dramatically increase the transparency of their product and the control levers they offer customers.
+
+The sense of possibility is mutual. “One thing that stands out at OpenAI compared to other folks that we work with is a sheer sense of excitement and curiosity,” said Gozzo. “It feels like everybody on the team is really passionate about this. Beyond the business relationship, it’s about how we’re building something together, and that’s really refreshing.”
+
+## Interested in learning more about ChatGPT for business?
+
+[Talk with our team](https://openai.com/contact-sales/)

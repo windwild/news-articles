@@ -1,6 +1,6 @@
 ---
-title: "Redesigned search and filtering for runtime logs - Vercel"
 render_with_liquid: false
+title: "Redesigned search and filtering for runtime logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/redesigned-search-and-filtering-for-runtime-logs"
 date: "2026-02-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Logs search bar has been redesigned with visual filter pills, smarter suggestions from your log data, and instant query validation."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 18, 2026
 
 2026 年 2 月 18 日

@@ -1,6 +1,6 @@
 ---
-title: "Partnering with AARP to help keep older adults safe online | OpenAI"
 render_with_liquid: false
+title: "Partnering with AARP to help keep older adults safe online | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/aarp-partnership-older-adults-online-safety"
 date: "2025-09-26"
@@ -9,8 +9,9 @@ language: "en-US"
 translated: true
 description: "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 September 26, 2025
 
 2025年9月26日

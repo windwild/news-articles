@@ -1,6 +1,6 @@
 ---
-title: "Faster builds for everyone - Vercel"
 render_with_liquid: false
+title: "Faster builds for everyone - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-builds-for-everyone"
 date: "2022-05-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 12, 2022
 
 2022年5月12日

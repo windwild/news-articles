@@ -1,6 +1,6 @@
 ---
-title: "Usage notification settings is now generally available - Vercel"
 render_with_liquid: false
+title: "Usage notification settings is now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/usage-notification-settings-is-now-generally-available"
 date: "2023-04-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 17, 2023
 
 2023 年 4 月 17 日

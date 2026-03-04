@@ -1,0 +1,214 @@
+---
+render_with_liquid: false
+title: "Introducing ChatGPT agent: bridging research and action | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/introducing-chatgpt-agent"
+date: "2025-07-17"
+scraped_at: "2026-03-02T10:11:10.170695761+00:00"
+language: "en-US"
+translated: false
+description: "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance."
+tags: ["Product"]
+---
+
+July 17, 2025
+
+[Product](https://openai.com/news/product-releases/) [Release](https://openai.com/research/index/release/)
+
+# Introducing ChatGPT agent: bridging research and action
+
+ChatGPT now thinks and acts, proactively choosing from a toolbox of agentic skills to complete tasks for you using its own computer.
+
+[Try on ChatGPT(opens in a new window)](https://chatgpt.com/?openaicom-did=52182394-a7a0-4c57-900d-b1f3022bb507&openaicom_referred=true)
+
+
+
+ChatGPT can now do work for you using its own computer, handling complex tasks from start to finish.
+
+You can now ask ChatGPT to handle requests like “look at my calendar and brief me on upcoming client meetings based on recent news,” “plan and buy ingredients to make Japanese breakfast for four,” and “analyze three competitors and create a slide deck.” ChatGPT will intelligently navigate websites, filter results, prompt you to log in securely when needed, run code, conduct analysis, and even deliver editable slideshows and spreadsheets that summarize its findings.
+
+At the core of this new capability is a unified agentic system. It brings together three strengths of earlier breakthroughs: [Operator’s⁠](https://openai.com/index/introducing-operator/) ability to interact with websites, [deep research’s⁠](https://openai.com/index/introducing-deep-research/) skill in synthesizing information, and ChatGPT’s intelligence and conversational fluency.
+
+ChatGPT carries out these tasks using its own virtual computer, fluidly shifting between reasoning and action to handle complex workflows from start to finish, all based on your instructions.
+
+Most importantly, you’re always in control. ChatGPT requests permission before taking actions of consequence, and you can easily interrupt, take over the browser, or stop tasks at any point.
+
+Starting today, Pro, Plus, and Team users can activate ChatGPT’s new agentic capabilities directly through the tools dropdown from the composer by selecting ‘agent mode’ at any point in any conversation.
+
+While ChatGPT agent is already a powerful tool for handling complex tasks, today’s launch is just the beginning. We’ll continue to iteratively add significant improvements regularly, making it more capable and useful to more people over time.
+
+## A natural evolution of Operator and deep research
+
+Previously, Operator and deep research each brought unique strengths: Operator could scroll, click, and type on the web, while deep research excelled at analyzing and summarizing information. But they worked best in different situations: Operator couldn’t dive deep into analysis or write detailed reports, and deep research couldn’t interact with websites to refine results or access content requiring user authentication. In fact, we saw that many queries users attempted with Operator were actually better suited for deep research, so we brought the best of both together.
+
+By integrating these complementary strengths in ChatGPT and introducing additional tools, we’ve unlocked entirely new capabilities within one model. It can now actively engage websites—clicking, filtering, and gathering more precise, efficient results. You can also naturally transition from a simple conversation to requesting actions directly within the same chat.
+
+00:00
+
+00:00
+
+00:00
+
+00:00
+
+## An agent that works for you, with you
+
+We’ve equipped ChatGPT agent with a suite of tools: a visual browser that interacts with the web through a graphical-user interface, a text-based browser for simpler reasoning-based web queries, a terminal, and direct API access.The agent can also leverage [ChatGPT connectors⁠(opens in a new window)](https://help.openai.com/en/articles/11487775-connectors-in-chatgpt), which allows you to connect apps like Gmail and Github so ChatGPT can find information relevant to your prompts and use them in its responses. You can also log in on any website by taking over the browser, allowing it to go deeper and broader in both its research and task execution. Giving ChatGPT these different avenues for accessing and interacting with web information means it can choose the optimal path to most efficiently perform tasks. For instance, it can gather information about your calendar through an API, efficiently reason over large amounts of text using the text-based browser, while also having the ability to interact visually with websites designed primarily for humans.
+
+All this is done using its own virtual computer, which preserves the context necessary for the task, even when multiple tools are used—the model can choose to open a page using the text browser or visual browser, download a file from the web, manipulate it by running a command in the terminal, and then view the output back in the visual browser. The model adapts its approach to carry out tasks with speed, accuracy, and efficiency.
+
+ChatGPT agent is designed for iterative, collaborative workflows, far more interactive and flexible than previous models. As ChatGPT works, you can interrupt at any point to clarify your instructions, steer it toward desired outcomes, or change the task entirely. It will pick up where it left off, now with the new information, but without losing previous progress. Likewise, ChatGPT itself may proactively seek additional details from you when needed to ensure the task remains aligned with your goals. If a task takes longer than anticipated or feels stuck, you can pause it, ask it for a progress summary, or stop it entirely and receive partial results. If you have the ChatGPT app on your phone, it will send you a notification when it’s done with your task.
+
+## Broadening real-world utility
+
+These unified agentic capabilities significantly enhance ChatGPT’s usefulness in both everyday and professional contexts. At work, you can automate repetitive tasks, like converting screenshots or dashboards into presentations composed of editable vector elements, rearranging meetings, planning and booking offsites, and updating spreadsheets with new financial data while retaining the same formatting. In your personal life, you can use it to effortlessly plan and book travel itineraries, design and book entire dinner parties, or find specialists and schedule appointments.
+
+The model’s elevated capabilities are reflected in its state-of-the-art (SOTA) performance on evaluations measuring web browsing and real-world task completion capabilities.
+
+On [**Humanity’s Last Exam** ⁠(opens in a new window)](https://agi.safe.ai/)\*, an evaluation that measures AI’s performance across a broad range of subjects on expert-level questions, the model powering ChatGPT agent scores a new pass@1 SOTA at 41.6. Because the agent plans dynamically and chooses its own tools, it can tackle the same task in different ways across runs. When we scaled this with a simple parallel rollout strategy—running up to eight attempts at once and picking the one with the highest self-reported confidence—the agent’s HLE score increases to 44.4.
+
+Humanity’s Last Exam (Full Set)
+Expert-Level Questions Across Subjects
+
+OpenAI o3(no tools)ChatGPT agent (no tools)OpenAI o3(python + browsing)Deep research(python + browsing)ChatGPT agent(browser + computer +terminal)Accuracy (%), pass@120.3%23.0%24.9%26.6%41.6%
+
+**FrontierMath\*\*** is the hardest known math benchmark, featuring novel, unpublished problems that often take expert mathematicians hours or even days to solve. With tool use, like access to a terminal for code execution, ChatGPT agent reaches 27.4% accuracy, outperforming both previous models by a wide margin.
+
+FrontierMath, Tier 1-3
+Expert-Level Math
+
+OpenAI o3(python)OpenAI o4-mini(python)ChatGPT agent(browser + computer +terminal)Accuracy (%), pass@110.3%19.3%27.4%
+
+We also assessed the model using benchmarks modeled after complex real-world tasks. On an internal benchmark designed to evaluate model performance on **complex, economically valuable knowledge-work tasks**, ChatGPT agent's output is comparable to or better than that of humans in roughly half the cases across a range of task completion times, while significantly outperforming o3 and o4-mini. Model outputs are judged by experts against high-quality human baselines created by top performers in each field. These tasks, sourced from experts across diverse occupations and industries, mirror real-world professional work—such as preparing a competitive analysis of on-demand urgent care providers, building detailed amortization schedules, and identifying viable water wells for a new green hydrogen facility.
+
+Economically important tasks
+
+1 to 3 h4 to 6 h7 to 9 h10+ hEstimated time for a human to complete020406080100Model's win and tie rates versus humano4-mini wino4-mini tieo3 wino3 tieChatGPT agent winChatGPT agent tie
+
+On [**DSBench** ⁠(opens in a new window)](https://arxiv.org/abs/2409.07703) **,** designed to evaluate agents on realistic data science tasks spanning data analysis and modeling, ChatGPT agent notably surpasses human performance by a significant margin.
+
+DSBench: Data Analysis
+
+GPT-4oHumanOpenAI o3ChatGPT agentAccuracy (%), pass@134.1%64.1%87.9%89.9%
+
+DSBench: Data Modeling
+
+AutoGenwith GPT-4oHumanOpenAI o3ChatGPT agentRelative performance gain45.5%65.0%77.1%85.5%
+
+On **SpreadsheetBench**, which evaluates models on their ability to edit spreadsheets derived from real-world scenarios, ChatGPT agent outperforms existing models by a significant margin. When given the ability to edit spreadsheets directly, ChatGPT agent scores even higher with 45.5%, compared to Copilot in Excel’s 20.0%.
+
+SpreadsheetBench
+
+GPT-4o (Windows)Copilot in ExcelGPT-4o (OSX)OpenAI o3ChatGPT agentChatGPT agent with .xlsxaccessHumanAccuracy (%), pass@118.4%20.0%16.8%23.3%35.3%45.5%71.3%Windows, ExcelOSX, LibreOfficeHuman
+
+Methodology: The SpreadsheetBench authors used a Windows environment using Microsoft Excel to evaluate spreadsheets. We used an OSX environment and LibreOffice, which may result in small grading differences. For example, the authors found an Overall Hard restriction of 15.02% for GPT‑4o, and we obtained 13.38%. We used the complete 912-question benchmark.
+
+On an internal benchmark which measures a model's ability to take on first to third-year **investment banking analyst modeling tasks**—like putting together a three-statement financial model for a Fortune 500 company with proper formatting and citations, or building a leveraged buyout model for a take-private—the model powering ChatGPT agent significantly outperforms deep research and o3. Each task is graded on hundreds of criteria related to correctness and formula use.
+
+Investment Banking Modeling Tasks
+
+Deep researchOpenAI o3ChatGPT agentAccuracy (%)55.9%48.6%71.3%27.5%19.7%41.0%Mean AccuracyOracle@64\*\*\*
+
+We also evaluated ChatGPT agent on [**BrowseComp** ⁠](https://openai.com/index/browsecomp/), a benchmark we published earlier this year that measures browsing agents’ ability to locate hard-to-find information on the web. The model set a new SOTA with 68.9%, 17.4 percentage points higher than deep research.
+
+BrowseComp
+Agentic Browsing
+
+OpenAI o3Deep researchChatGPT agentAccuracy (%), pass@149.7%51.5%68.9%
+
+Finally, on [WebArena⁠(opens in a new window)](https://webarena.dev/), a benchmark designed to evaluate the performance of web-browsing agents in completing real-world web tasks, the model improves over o3‑powered CUA (the model powering Operator).
+
+WebArena
+Agentic Browser Use
+
+CUA 4oCUA o3ChatGPT agentHumanAccuracy (%), pass@158.1%62.9%65.4%78.2%
+
+## How to use
+
+You can activate ChatGPT’s new agentic capabilities directly through the tools dropdown from the composer by selecting ‘agent mode’ at any point in any conversation. Simply describe your desired task—whether it’s conducting deep research, creating a slideshow, or submitting expenses. As it performs your task, an on-screen narration provides visibility into exactly what ChatGPT is doing. You can interrupt and take control of the browser whenever needed, ensuring tasks remain aligned with your goals.
+
+ChatGPT agent can access your connectors, allowing it to integrate with your workflows and access relevant, actionable information. Once authenticated, these connectors allow ChatGPT to see information and do things like summarize your inbox for the day or find time slots you’re available for a meeting—to take action on these sites, however, you’ll still be prompted to log in by taking over the browser.
+
+Additionally, you can schedule completed tasks to recur automatically, such as generating a weekly metrics report every Monday morning.
+
+[**Financial analysis**Updates a financial model with projections, formulas, and a summary of assumptions.\\
+\\
+View the full task](https://chatgpt.com/share/e/68701e54-ddcc-8013-992d-5725205303d5?openaicom-did=52182394-a7a0-4c57-900d-b1f3022bb507&openaicom_referred=true)
+
+[**Planning a dinner party**Plans, shops for, and organizes a six-course dinner based on Romance of the Three Kingdoms.\\
+\\
+View the full task](https://chatgpt.com/share/e/68713763-633c-800c-9627-69099bf6fd68?openaicom-did=52182394-a7a0-4c57-900d-b1f3022bb507&openaicom_referred=true)
+
+[**Public transit benchmarking**Benchmarks seven global transit systems vs. Chicago, compiling data and a summary report.\\
+\\
+View the full task](https://chatgpt.com/share/e/686c1ed9-bcc8-800c-823d-d3cfaf466b3a?openaicom-did=52182394-a7a0-4c57-900d-b1f3022bb507&openaicom_referred=true)
+
+[**Client meeting prep**Prepares a report and slide deck on client calls and strategy changes using calendar data.\\
+\\
+View the full task](https://chatgpt.com/share/e/68712a09-62f8-800c-bff6-e4e611a68780?openaicom-did=52182394-a7a0-4c57-900d-b1f3022bb507&openaicom_referred=true)
+
+## Novel capabilities, novel risks
+
+This release marks the first time users can ask ChatGPT to take actions on the web. This introduces new risks, particularly because ChatGPT agent can work directly with your data, whether it’s information accessed through connectors or websites that you have logged it into via takeover mode. We’ve strengthened the robust controls from Operator’s research preview and added safeguards for challenges such as handling sensitive information on the live web, broader user reach, and (limited) terminal network access. While these mitigations significantly reduce risk, ChatGPT agent’s expanded tools and broader user reach mean its overall risk profile is higher.
+
+We’ve placed a particular emphasis on safeguarding ChatGPT agent against **adversarial manipulation through prompt injection**, which is a risk for agentic systems generally, and have prepared more extensive mitigations accordingly. Prompt injections are attempts by third parties to manipulate its behavior through malicious instructions that ChatGPT agent may encounter on the web while completing a task. For example, a malicious prompt hidden in a webpage, such as in invisible elements or metadata, could trick the agent into taking unintended actions, like sharing private data from a connector with the attacker, or taking a harmful action on a site the user has logged into. Because ChatGPT agent can take direct actions, successful attacks can have greater impact and pose higher risks.
+
+We’ve trained and tested the agent on identifying and resisting prompt injections, in addition to using monitoring to rapidly detect and respond to prompt injection attacks. Requiring explicit user confirmation before consequential actions further reduces the risk of harm from these attacks, and users can intervene in tasks as needed by taking over or pausing. Users should weigh these tradeoffs when deciding what information to provide to the agent, as well as take steps to minimize their exposure to these risks, such as disabling connectors when they aren’t needed for a task.
+
+We’ve also implemented mitigations around **model mistakes,** especially since the model can now perform tasks that impact the real world:
+
+- **Explicit user confirmation:** ChatGPT is trained to explicitly ask for your permission before taking actions with real-world consequences, like making a purchase.
+- **Active supervision (“Watch Mode”):** Certain critical tasks, like sending emails, require your active oversight.
+- **Proactive risk mitigation:** ChatGPT is trained to actively refuse high-risk tasks such as bank transfers.
+
+Finally, we’ve introduced additional controls to **limit the data** the model has access to:
+
+- **Privacy controls:** With a single click in ChatGPT’s settings, you can delete all browsing data and immediately log out of all active website sessions. Otherwise, cookies persist based on each visited website’s cookie policies, which can make repeat visits to sites more efficient.
+- **Secure browser takeover mode:** When you interact with the web using ChatGPT’s browser (“takeover mode”), your inputs remain private. ChatGPT does not collect or store any data you enter during these sessions, such as passwords, because the model doesn’t need it, and it’s safer if it never sees it.
+
+## Our strongest safety stack yet for biological risk
+
+With the model’s increased capabilities, we’ve made the decision to treat ChatGPT agent as High Biological and Chemical capabilities under our [Preparedness Framework⁠](https://openai.com/index/updating-our-preparedness-framework/), activating the associated safeguards. While we don’t have definitive evidence that the model could meaningfully help a novice create severe biological harm—our threshold for High capability—we are exercising caution and implementing the needed safeguards now. As a result, this model has our most comprehensive safety stack to date with enhanced safeguards for biology: comprehensive threat modeling, dual-use refusal training, always-on classifiers and reasoning monitors, and clear enforcement pipelines.
+
+In addition to our work to secure ChatGPT agent, we know that layered biosafety works best when safeguards extend beyond any one lab, so we collaborate across the ecosystem to strengthen defenses. From day one we’ve worked with outside biosecurity experts, safety institutes, and academic researchers to shape our threat model, assessments, and policies. Biology‑trained reviewers validated our evaluation data, and domain‑expert red teamers have stress‑tested safeguards in realistic scenarios. Earlier this month we convened a Biodefense workshop with experts from government, academia, national labs, and NGOs to accelerate collaboration and advance biodefense research powered by AI. We’ll keep partnering globally to stay ahead of emerging risks.
+
+Read more about our robust safety approach for the unified agentic model in the [system card⁠](https://openai.com/index/chatgpt-agent-system-card/). We are also launching a [bug bounty program⁠](https://openai.com/bio-bug-bounty/) so that we can find and remediate real-world risks.
+
+## Availability
+
+ChatGPT agent starts rolling out today to Pro, Plus, and Team; Pro will get access by the end of day, while Plus and Team users will get access over the next few days. Enterprise and Education users will get access in the coming weeks. Pro users have 400 messages per month, while other paid users get 40 messages monthly, with additional usage available via flexible credit-based options.
+
+We are still working on enabling access for the European Economic Area and Switzerland.
+
+The Operator research preview site will remain functional for a few more weeks, after which it will be sunset. Deep research is a part of ChatGPT agent’s capabilities. If you prefer the original deep research feature—which may take longer to run but provides more detailed, in-depth responses by default—you can still access it by selecting “deep research” from the dropdown in the message composer.
+
+## Limitations and looking ahead
+
+ChatGPT agent is still in its early stages. It’s capable of taking on a range of complex tasks, but it can still make mistakes.
+
+While we see significant potential in its ability to generate slideshows, this functionality is currently in beta. At the moment, outputs can sometimes feel rudimentary in its formatting and polish, particularly when starting without an existing document. We focused the model’s initial capabilities on generating artifacts that organize information in a flow and format suitable for presentations, with elements like text, charts, images, and shapes that are natively and easily editable after export, optimizing for structure and flexibility. Currently, there are also occasional discrepancies between the slides in the viewer and the exported powerpoint that we are working to reduce. Additionally, while you can currently upload an existing spreadsheet for ChatGPT to edit or use as a template, this capability isn't yet available for slideshows. We’re already training the next iteration of ChatGPT's slideshow creation to produce more polished, sophisticated outputs, with broader capabilities and improved formatting.
+
+Overall, we expect continued improvements to ChatGPT agent’s efficiency, depth, and versatility over time, including more seamless interactions as we continue to adjust the amount of oversight required from the user to make it more useful while ensuring it’s safe to use.
+
+## Appendix
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **SpreadsheetBench** |  |  |  |  |
+| **Model** | **Evaluation environment** | **Soft restriction (%): Cell-level** | **Soft restriction (%): Sheet-level** | **Soft restriction (%): Overall** |
+| GPT-4o | Windows, Excel | 15.03 | 23.65 | 18.35 |
+| Copilot in Excel | Windows, Excel | 23.33 | 15.00 | 20.00 |
+| GPT-4o | OSX, LibreOffice | 15.86 | 18.33 | 16.81 |
+| OpenAI o3 | OSX, LibreOffice | 22.40 | 24.60 | 23.25 |
+| ChatGPT agent | OSX, LibreOffice | 38.27 | 30.48 | **35.27** |
+| ChatGPT agent with .xlsx | OSX, LibreOffice | 50.56 | 37.51 | **45.54** |
+| Human |  | 75.56 | 65.00 | **71.33** |
+
+## Livestream replay
+
+![](images/introducing-chatgpt-agent-bridging-research-and-action-openai/img_001.png)
+
+Play video
+
+- [2025](https://openai.com/news/?tags=2025)
+- [ChatGPT](https://openai.com/news/?tags=chatgpt)

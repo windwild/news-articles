@@ -1,6 +1,6 @@
 ---
-title: "Lower pricing for Fast Data Transfer - Vercel"
 render_with_liquid: false
+title: "Lower pricing for Fast Data Transfer - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/lower-pricing-for-fast-data-transfer"
 date: "2025-04-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Lower the price of Fast Data Transfer (FDT) for Vercel regions in Asia Pacific, Latin America, and Africa by up to 50%. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 17, 2025
 
 2025 年 4 月 17 日

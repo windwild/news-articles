@@ -1,6 +1,6 @@
 ---
-title: "DNS Records UI - Vercel"
 render_with_liquid: false
+title: "DNS Records UI - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/dns-records-ui"
 date: "2020-06-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Configure custom DNS Records for your Domains and apply presets. Right in the Web UI."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 23, 2020
 
 Jun 23, 2020

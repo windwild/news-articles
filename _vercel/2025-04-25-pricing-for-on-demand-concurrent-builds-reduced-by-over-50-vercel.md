@@ -1,6 +1,6 @@
 ---
-title: "Pricing for on-demand concurrent builds reduced by over 50% - Vercel"
 render_with_liquid: false
+title: "Pricing for on-demand concurrent builds reduced by over 50% - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/pricing-for-on-demand-concurrent-builds-reduced-by-over-50-percent"
 date: "2025-04-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Pricing for on-demand concurrent builds has been reduced by more than 50%. Billable intervals have also been lowered from 10 minutes to 1 minute."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 25, 2025
 
 2025 年 4 月 25 日

@@ -1,6 +1,6 @@
 ---
-title: "How Notion powers rapid and performant experimentation - Vercel"
 render_with_liquid: false
+title: "How Notion powers rapid and performant experimentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-notion-powers-rapid-and-performant-experimentation"
 date: "2024-11-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Notion runs hundreds of experiments per year with Statsig and Next.js on Vercel. Learn how they maintain Core Web Vitals on marketing pages while testing new content with users."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 25, 2024
 
 2024 年 11 月 25 日

@@ -1,6 +1,6 @@
 ---
-title: "Flags SDK 3.0 - Vercel"
 render_with_liquid: false
+title: "Flags SDK 3.0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/flags-sdk-3-0"
 date: "2025-01-16"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Flags SDK has been updated to version 3.0 and open sourced. Check out the new standalone Flags SDK documentation with updated examples to learn more."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 16, 2025
 
 2025 年 1 月 16 日

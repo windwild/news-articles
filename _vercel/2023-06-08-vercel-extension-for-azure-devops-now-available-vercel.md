@@ -1,6 +1,6 @@
 ---
-title: "Vercel extension for Azure DevOps now available - Vercel"
 render_with_liquid: false
+title: "Vercel extension for Azure DevOps now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-extension-for-azure-devops-now-available"
 date: "2023-06-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 8, 2023
 
 2023 年 6 月 8 日

@@ -1,6 +1,6 @@
 ---
-title: "Protection against React Router and Remix vulnerabilities - Vercel"
 render_with_liquid: false
+title: "Protection against React Router and Remix vulnerabilities - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/protection-against-react-router-and-remix-vulnerabilities-cve-2025-43864"
 date: "2025-04-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Security researchers reviewing the Remix web framework have discovered two high-severity vulnerabilities in React Router. Vercel proactively deployed mitigation to the Vercel Firewall and Vercel custo..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 26, 2025
 
 2025年4月26日

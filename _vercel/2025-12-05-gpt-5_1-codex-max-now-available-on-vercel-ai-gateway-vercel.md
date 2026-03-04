@@ -1,6 +1,6 @@
 ---
-title: "GPT 5.1 Codex Max now available on Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "GPT 5.1 Codex Max now available on Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gpt-5-1-codex-max-now-available-on-vercel-ai-gateway"
 date: "2025-12-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access the GPT 5.1 Codex Max model with Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 5, 2025
 
 2025 年 12 月 5 日

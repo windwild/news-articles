@@ -1,6 +1,6 @@
 ---
-title: "Detailed Usage metrics for Personal Accounts - Vercel"
 render_with_liquid: false
+title: "Detailed Usage metrics for Personal Accounts - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/detailed-usage-metrics-for-personal-accounts"
 date: "2021-05-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 28, 2021
 
 2021年5月28日

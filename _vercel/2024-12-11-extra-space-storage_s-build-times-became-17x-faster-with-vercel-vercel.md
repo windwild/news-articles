@@ -1,6 +1,6 @@
 ---
-title: "Extra Space Storage's build times became 17x faster with Vercel - Vercel"
 render_with_liquid: false
+title: "Extra Space Storage's build times became 17x faster with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/extra-space-storages-build-times-became-17x-faster-with-vercel"
 date: "2024-12-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Extra Space Storage cut build times by 95% after migrating to Next.js on Vercel.   See how features like Incremental Static Regeneration and per-branch environments enable faster and more confident re..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 11, 2024
 
 2024 年 12 月 11 日

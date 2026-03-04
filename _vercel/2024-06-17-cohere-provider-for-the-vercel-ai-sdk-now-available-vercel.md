@@ -1,6 +1,6 @@
 ---
-title: "Cohere Provider for the Vercel AI SDK now available - Vercel"
 render_with_liquid: false
+title: "Cohere Provider for the Vercel AI SDK now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/cohere-provider-for-the-vercel-ai-sdk-now-available"
 date: "2024-06-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 17, 2024
 
 2024 年 6 月 17 日

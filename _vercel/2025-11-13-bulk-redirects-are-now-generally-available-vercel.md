@@ -1,6 +1,6 @@
 ---
-title: "Bulk redirects are now generally available - Vercel"
 render_with_liquid: false
+title: "Bulk redirects are now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bulk-redirects-are-now-generally-available"
 date: "2025-11-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Using bulk redirects, you can import millions of redirects via csv and other formats natively with Vercel."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 13, 2025
 
 2025 年 11 月 13 日

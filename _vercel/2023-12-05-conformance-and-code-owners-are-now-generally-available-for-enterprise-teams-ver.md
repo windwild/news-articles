@@ -1,6 +1,6 @@
 ---
-title: "Conformance and Code Owners are now generally available for Enterprise teams - Vercel"
 render_with_liquid: false
+title: "Conformance and Code Owners are now generally available for Enterprise teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/conformance-and-code-owners-are-now-generally-available-for-enterprise-teams"
 date: "2023-12-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 5, 2023
 
 2023 年 12 月 5 日

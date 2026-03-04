@@ -1,6 +1,6 @@
 ---
-title: "Export traces, web analytics events, and speed insights datapoints to any destination - Vercel"
 render_with_liquid: false
+title: "Export traces, web analytics events, and speed insights datapoints to any destination - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/export-more-data-with-vercel-drains"
 date: "2025-09-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now export logs, traces, web analytics events, and speed insights datapoints with Vercel Drains."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 2025年9月5日
 
 2025年9月5日

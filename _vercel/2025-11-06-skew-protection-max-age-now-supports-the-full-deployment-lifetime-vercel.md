@@ -1,6 +1,6 @@
 ---
-title: "Skew Protection max age now supports the full deployment lifetime - Vercel"
 render_with_liquid: false
+title: "Skew Protection max age now supports the full deployment lifetime - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/skew-protection-max-age-now-supports-the-full-deployment-lifetime"
 date: "2025-11-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now configure skew protection max age to any value less than or equal to your deployment retention. Previously this was limited to 12 hours for Pro and 7 days for Enterprise."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 6, 2025
 
 2025 年 11 月 6 日

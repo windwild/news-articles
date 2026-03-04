@@ -1,6 +1,6 @@
 ---
-title: "Edge Functions are now available in Public Beta - Vercel"
 render_with_liquid: false
+title: "Edge Functions are now available in Public Beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/edge-functions-are-now-available-in-public-beta"
 date: "2021-10-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 26, 2021
 
 2021 年 10 月 26 日

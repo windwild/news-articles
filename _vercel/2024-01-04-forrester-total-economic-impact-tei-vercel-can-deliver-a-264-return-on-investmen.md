@@ -1,6 +1,6 @@
 ---
-title: "Forrester Total Economic Impact™ (TEI): Vercel can deliver a 264% return on investment (ROI) - Vercel"
 render_with_liquid: false
+title: "Forrester Total Economic Impact™ (TEI): Vercel can deliver a 264% return on investment (ROI) - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/forrester-total-economic-impact-vercel-ROI"
 date: "2024-01-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Forrester Total Economic Impact™: Vercel delivers a 264% ROI"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 4, 2024
 
 2024 年及以后，提升开发者效能、提高转化率，并实现正向投资回报率（ROI）

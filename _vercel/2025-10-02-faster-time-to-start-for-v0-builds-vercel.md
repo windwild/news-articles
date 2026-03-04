@@ -1,6 +1,6 @@
 ---
-title: "Faster time-to-start for v0 builds - Vercel"
 render_with_liquid: false
+title: "Faster time-to-start for v0 builds - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-time-to-start-for-v0-builds"
 date: "2025-10-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Publishing v0 apps on Vercel got 1.1 seconds faster on average due to some optimizations on sending source files during deployment creation."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 2, 2025
 
 2025年10月2日

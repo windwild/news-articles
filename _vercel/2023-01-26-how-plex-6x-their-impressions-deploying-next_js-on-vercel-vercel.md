@@ -1,6 +1,6 @@
 ---
-title: "How Plex 6x their impressions deploying Next.js on Vercel - Vercel"
 render_with_liquid: false
+title: "How Plex 6x their impressions deploying Next.js on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-plex-6x-their-impressions-deploying-next-js-on-vercel"
 date: "2023-01-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Plex customer story"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 26, 2023
 
 2023 年 1 月 26 日

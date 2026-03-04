@@ -1,6 +1,6 @@
 ---
-title: "Constitutional Classifiers: Defending against universal jailbreaks"
 render_with_liquid: false
+title: "Constitutional Classifiers: Defending against universal jailbreaks"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/constitutional-classifiers"
 scraped_at: "2026-03-02T09:21:16.169543408+00:00"
@@ -8,8 +8,9 @@ language: "en-zh"
 translated: true
 description: "A paper from Anthropic describing a new way to guard LLMs against jailbreaking"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Alignment
 
 对齐

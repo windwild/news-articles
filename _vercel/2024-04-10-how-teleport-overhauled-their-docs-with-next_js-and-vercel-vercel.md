@@ -1,6 +1,6 @@
 ---
-title: "How Teleport overhauled their docs with Next.js and Vercel - Vercel"
 render_with_liquid: false
+title: "How Teleport overhauled their docs with Next.js and Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/creating-a-robust-platform-for-documentation-with-next-js-and-vercel"
 date: "2024-04-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how Teleport unlocked a new customer acquisition channel by overhauling and migrating their documentation to Next.js and Vercel. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 10, 2024
 
 2024年4月10日

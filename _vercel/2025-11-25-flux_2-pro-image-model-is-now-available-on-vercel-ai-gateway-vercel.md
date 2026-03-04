@@ -1,6 +1,6 @@
 ---
-title: "FLUX.2 Pro image model is now available on Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "FLUX.2 Pro image model is now available on Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/flux-2-pro-image-model-is-now-available-on-vercel-ai-gateway"
 date: "2025-11-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access the newest image model FLUX.2 Pro from Black Forest Labs in Vercel AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 25, 2025
 
 2025 年 11 月 25 日

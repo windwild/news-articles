@@ -1,6 +1,6 @@
 ---
-title: "Pre-generate SSL certs, now in the Domains dashboard - Vercel"
 render_with_liquid: false
+title: "Pre-generate SSL certs, now in the Domains dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/pre-generate-domain-ssl-certs-now-in-dashboard"
 date: "2025-06-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Domains Dashboard now enables zero-downtime migration by allowing SSL certificates to be pre-provisioned before migrating domains."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 5, 2025
 
 2025 年 6 月 5 日

@@ -1,6 +1,6 @@
 ---
-title: "AI Voice Elements - Vercel"
 render_with_liquid: false
+title: "AI Voice Elements - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-voice-elements"
 date: "2026-01-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Today we're releasing a brand new set of components for AI Elements designed to work with the Transcription and Speech functions of the AI SDK, helping you build voice agents."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 14, 2026
 
 2026 年 1 月 14 日

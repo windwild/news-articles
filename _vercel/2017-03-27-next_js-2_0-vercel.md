@@ -1,6 +1,6 @@
 ---
-title: "Next.js 2.0 - Vercel"
 render_with_liquid: false
+title: "Next.js 2.0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next2"
 date: "2017-03-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Next.js 2.0 comes packed with performance improvements and extensibility features"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 27, 2017
 
 2017年3月27日

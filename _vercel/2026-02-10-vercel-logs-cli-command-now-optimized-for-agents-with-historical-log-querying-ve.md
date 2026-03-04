@@ -1,6 +1,6 @@
 ---
-title: "vercel logs CLI command now optimized for agents with historical log querying - Vercel"
 render_with_liquid: false
+title: "vercel logs CLI command now optimized for agents with historical log querying - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-logs-cli-command-now-optimized-for-agents-with-historical-log"
 date: "2026-02-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The vercel logs CLI command has been improved to enable more powerful querying capabilities, and optimized for use by agents."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 10, 2026
 
 2026 年 2 月 10 日

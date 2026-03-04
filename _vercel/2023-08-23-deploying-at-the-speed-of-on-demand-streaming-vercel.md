@@ -1,6 +1,6 @@
 ---
-title: "Deploying at the speed of on-demand streaming - Vercel"
 render_with_liquid: false
+title: "Deploying at the speed of on-demand streaming - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/deploying-at-the-speed-of-on-demand-streaming"
 date: "2023-08-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Streamlined deployment process and superior developer experience for Joyn"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 23, 2023
 
 2023年8月23日

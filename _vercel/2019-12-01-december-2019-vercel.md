@@ -1,6 +1,6 @@
 ---
-title: "December 2019 - Vercel"
 render_with_liquid: false
+title: "December 2019 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/changelog-december-2019"
 date: "2019-12-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel's changelog for December 2019"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 1, 2019
 
 2019 年 12 月 1 日

@@ -1,6 +1,6 @@
 ---
-title: "xAI joins the Vercel Marketplace  - Vercel"
 render_with_liquid: false
+title: "xAI joins the Vercel Marketplace  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/xai-joins-the-vercel-marketplace"
 date: "2025-03-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "xAI joins the Vercel Marketplace to help users access Grok's large language models directly from their Vercel projects"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 20, 2025
 
 2025 年 3 月 20 日

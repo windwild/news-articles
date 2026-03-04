@@ -1,6 +1,6 @@
 ---
-title: "Vercel is now certified under the EU-US Data Privacy Framework (DPF) - Vercel"
 render_with_liquid: false
+title: "Vercel is now certified under the EU-US Data Privacy Framework (DPF) - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-is-now-certified-under-the-eu-us-data-privacy-framework-dpf"
 date: "2024-06-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 4, 2024
 
 2024 年 6 月 4 日

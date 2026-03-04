@@ -1,6 +1,6 @@
 ---
-title: "Hypertune joins the Vercel Marketplace - Vercel"
 render_with_liquid: false
+title: "Hypertune joins the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/hypertune-joins-the-vercel-marketplace"
 date: "2025-05-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Hypertune is now on the Vercel Marketplace—get native feature flags, A/B testing, and dynamic config with one-click setup and unified billing. Type-safe, edge-ready, and built for modern workflows t..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 19, 2025
 
 2025年5月19日

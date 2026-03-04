@@ -1,6 +1,6 @@
 ---
-title: "Celebrating 10 Years of React - Vercel"
 render_with_liquid: false
+title: "Celebrating 10 Years of React - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/10-years-of-react"
 date: "2023-05-29"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Congratulations to the React team for a decade of innovation."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 29, 2023
 
 2023 年 5 月 29 日

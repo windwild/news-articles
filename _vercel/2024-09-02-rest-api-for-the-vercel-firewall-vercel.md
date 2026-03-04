@@ -1,6 +1,6 @@
 ---
-title: "REST API for the Vercel Firewall - Vercel"
 render_with_liquid: false
+title: "REST API for the Vercel Firewall - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/rest-api-for-the-vercel-firewall"
 date: "2024-09-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 2, 2024
 
 2024 年 9 月 2 日

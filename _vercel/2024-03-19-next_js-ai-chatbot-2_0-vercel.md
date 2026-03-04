@@ -1,6 +1,6 @@
 ---
-title: "Next.js AI Chatbot 2.0 - Vercel"
 render_with_liquid: false
+title: "Next.js AI Chatbot 2.0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/next-js-ai-chatbot-2-0"
 date: "2024-03-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 19, 2024
 
 2024年3月19日

@@ -1,6 +1,6 @@
 ---
-title: "Improved experience for managing project domains - Vercel"
 render_with_liquid: false
+title: "Improved experience for managing project domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-experience-for-managing-project-domains"
 date: "2025-04-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We've significantly improved the Project Domains page to provide a faster, cleaner, and more intuitive management experience."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 25, 2025
 
 2025年4月25日

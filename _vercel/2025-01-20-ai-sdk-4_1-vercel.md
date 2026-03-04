@@ -1,6 +1,6 @@
 ---
-title: "AI SDK 4.1 - Vercel"
 render_with_liquid: false
+title: "AI SDK 4.1 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-4-1"
 date: "2025-01-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "AI SDK 4.1 introduces image generation, non-blocking data streaming, improved tool calling, and more"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 20, 2025
 
 2025 年 1 月 20 日

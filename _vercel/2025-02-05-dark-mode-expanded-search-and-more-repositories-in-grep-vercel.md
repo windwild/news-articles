@@ -1,6 +1,6 @@
 ---
-title: "Dark mode, expanded search, and more repositories in Grep - Vercel"
 render_with_liquid: false
+title: "Dark mode, expanded search, and more repositories in Grep - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/dark-mode-expanded-search-and-more-in-grep"
 date: "2025-02-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Grep—Vercel's tool for quick code search—has been rebuilt with Next.js and Partial Prerendering, improving performance, expanded search over 1,000,000 public git repositories, and dark mode."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 5, 2025
 
 2025 年 2 月 5 日

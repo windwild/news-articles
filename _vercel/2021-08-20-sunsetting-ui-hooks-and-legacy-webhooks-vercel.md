@@ -1,6 +1,6 @@
 ---
-title: "Sunsetting UI-Hooks and Legacy Webhooks - Vercel"
 render_with_liquid: false
+title: "Sunsetting UI-Hooks and Legacy Webhooks - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sunsetting-ui-hooks-and-legacy-webhooks"
 date: "2021-08-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 20, 2021
 
 2021 年 8 月 20 日

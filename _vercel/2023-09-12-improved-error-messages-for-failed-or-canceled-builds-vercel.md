@@ -1,6 +1,6 @@
 ---
-title: "Improved error messages for failed or canceled builds - Vercel"
 render_with_liquid: false
+title: "Improved error messages for failed or canceled builds - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-error-messages-for-failed-or-canceled-builds"
 date: "2023-09-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 12, 2023
 
 2023年9月12日

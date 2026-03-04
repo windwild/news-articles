@@ -1,6 +1,6 @@
 ---
-title: "In-function concurrency now in public beta - Vercel"
 render_with_liquid: false
+title: "In-function concurrency now in public beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/in-function-concurrency-now-in-public-beta"
 date: "2024-10-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "In-function concurrency is now in public beta, and allows a single function instance to handle multiple invocations concurrently, improving resource utilization by taking advantage of idle time in exi..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 3, 2024
 
 2024年10月3日

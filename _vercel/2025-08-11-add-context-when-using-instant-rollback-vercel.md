@@ -1,6 +1,6 @@
 ---
-title: "Add context when using Instant Rollback - Vercel"
 render_with_liquid: false
+title: "Add context when using Instant Rollback - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-instant-rollback-flow"
 date: "2025-08-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now share a description with the rest of your team when you perform an Instant Rollback. Share links to incident management tools or discussion channels so everyone has the context they need."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 11, 2025
 
 2025年8月11日

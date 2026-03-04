@@ -1,6 +1,6 @@
 ---
-title: "Announcing SvelteKit Auth: Bringing NextAuth.js to all frameworks - Vercel"
 render_with_liquid: false
+title: "Announcing SvelteKit Auth: Bringing NextAuth.js to all frameworks - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/announcing-sveltekit-auth"
 date: "2022-12-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "SvelteKit Auth is a simple, low configuration authentication library for SvelteKit applications, with support for many popular OAuth providers."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 14, 2022
 
 2022 年 12 月 14 日

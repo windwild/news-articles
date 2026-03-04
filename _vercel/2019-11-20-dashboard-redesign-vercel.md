@@ -1,6 +1,6 @@
 ---
-title: "Dashboard redesign - Vercel"
 render_with_liquid: false
+title: "Dashboard redesign - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/dashboard-redesign"
 date: "2019-11-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We're bringing the simplicity of our developer experience to our web dashboard. Creating new projects, importing existing code, managing domains, setting up redirects, inspecting deployments and funct..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 20, 2019
 
 2019 年 11 月 20 日

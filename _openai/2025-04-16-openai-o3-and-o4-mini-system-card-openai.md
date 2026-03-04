@@ -1,0 +1,34 @@
+---
+render_with_liquid: false
+title: "OpenAI o3 and o4-mini System Card | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/o3-o4-mini-system-card"
+date: "2025-04-16"
+scraped_at: "2026-03-02T10:13:32.266721155+00:00"
+language: "en-US"
+translated: false
+description: "OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web browsing, Python, image and file analysis, image generation, canvas, automations, file search, and mem..."
+tags: ["Publication"]
+---
+
+April 16, 2025
+
+[Publication](https://openai.com/research/index/publication/) [Safety](https://openai.com/news/safety-alignment/)
+
+# OpenAI o3 and o4-mini System Card
+
+[Read the System Card(opens in a new window)](https://deploymentsafety.openai.com/o3)
+
+
+OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web browsing, Python, image and file analysis, image generation, canvas, automations, file search, and memory. These models excel at solving complex math, coding, and scientific challenges while demonstrating strong visual perception and analysis. The models use tools in their chains of thought to augment their capabilities; for example, cropping or transforming images, searching the web, or using Python to analyze data during their thought process.
+
+The OpenAI o-series models are trained with large-scale reinforcement learning on chains of thought. These advanced reasoning capabilities provide new avenues for improving the safety and robustness of our models. In particular, our models can reason about our safety policies in context when responding to potentially unsafe prompts, through deliberative alignment.
+
+This is the first launch and system card to be released under Version 2 of our [Preparedness Framework⁠](https://openai.com/index/updating-our-preparedness-framework/). OpenAI’s Safety Advisory Group (SAG) reviewed the results of our Preparedness evaluations and determined that OpenAI o3 and o4-mini do not reach the High threshold in any of our three Tracked Categories: Biological and Chemical Capability, Cybersecurity, and AI Self-improvement. We describe these evaluations below, and provide an update on our work to mitigate risks in these areas.
+
+Read the addendum to o3 and o4-mini system card: Codex [here](https://openai.com/index/o3-o4-mini-codex-system-card-addendum/).
+
+Read the addendum to o3 and o4-mini system card: OpenAI o3 Operator [here](https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3/).
+
+- [2025](https://openai.com/research/index/?tags=2025)
+- [System Cards](https://openai.com/research/index/?tags=system-cards)

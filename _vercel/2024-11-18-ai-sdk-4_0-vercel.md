@@ -1,6 +1,6 @@
 ---
-title: "AI SDK 4.0 - Vercel"
 render_with_liquid: false
+title: "AI SDK 4.0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-4-0"
 date: "2024-11-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Introducing PDF support, computer use, and an xAI Grok provider"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 18, 2024
 
 2024 年 11 月 18 日

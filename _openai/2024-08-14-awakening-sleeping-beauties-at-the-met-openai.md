@@ -1,0 +1,27 @@
+---
+render_with_liquid: false
+title: "Awakening Sleeping Beauties at The Met | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/the-met-museum"
+date: "2024-08-14"
+scraped_at: "2026-03-02T10:18:06.968024734+00:00"
+language: "en-US"
+translated: false
+description: "AI can enrich lives through beauty and creativity, and its artistic potential shines in \"Sleeping Beauties: Reawakening Fashion,\" a collaborative exhibit from The Met's Costume Institute."
+tags: ["Story"]
+---
+
+[API](https://openai.com/stories/api/) [ChatGPT](https://openai.com/stories/chatgpt/)
+
+# Collaborating with The Met to Awaken “Sleeping Beauties” with AI
+
+
+At OpenAI, we believe AI can enrich our lives by making them more creative and beautiful. Our recent collaboration with the Metropolitan Museum of Art's Costume Institute for their exhibit "Sleeping Beauties: Reawakening Fashion" showcases this potential.
+
+Through this partnership, we created a custom chat experience to bring the world of Natalie Potter, a New York socialite from the early 20th century, to life. Visitors can explore her 1931 wedding dress and engage with an AI representation of Natalie to learn about her life, wedding, and era.
+
+To build the experience, we worked with the museum’s digital team to curate a dataset of letters, newspaper articles, and historical documents. Leveraging OpenAI’s most advanced language model with custom instructions based on these sources, we created a custom chat experience that responds authentically to Natalie’s character and time period. This collaborative effort with the museum’s historians and curators ensures the AI is both helpful and respectful of the historical content, while giving the museum-goers a more active role in the exhibit. The "Chat with Natalie" experience incorporates the same safety mechanisms as ChatGPT, ensuring safe and appropriate interactions for all.
+
+While there is still work to do to achieve a world where everyone can benefit from AI, collaborations like this push us towards that ideal. Examples like this highlight the potential for AI to drive human progress, and showcase how AI can be a tool to enhance how we think, create and experience the world around us.
+
+OpenAI

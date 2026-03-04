@@ -1,6 +1,6 @@
 ---
-title: "India Country Brief: The Anthropic Economic Index"
 render_with_liquid: false
+title: "India Country Brief: The Anthropic Economic Index"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/india-brief-economic-index"
 scraped_at: "2026-03-02T09:21:20.088792472+00:00"
@@ -8,8 +8,9 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Economic Research
 
 经济研究

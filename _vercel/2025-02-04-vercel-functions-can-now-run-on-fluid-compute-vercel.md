@@ -1,6 +1,6 @@
 ---
-title: "Vercel Functions can now run on Fluid compute - Vercel"
 render_with_liquid: false
+title: "Vercel Functions can now run on Fluid compute - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-functions-can-now-run-on-fluid-compute"
 date: "2025-02-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Functions can now run on Fluid compute, a next-generation execution model that improves efficiency and reduces costs. It brings scalable, cost-effective compute without infrastructure complexit..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 4, 2025
 
 2025 年 2 月 4 日

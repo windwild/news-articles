@@ -1,6 +1,6 @@
 ---
-title: "Improved experience for configuring ignored builds - Vercel"
 render_with_liquid: false
+title: "Improved experience for configuring ignored builds - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-experience-for-configuring-ignored-builds"
 date: "2023-07-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 5, 2023
 
 2023年7月5日

@@ -1,6 +1,6 @@
 ---
-title: "Demystifying INP: New tools and actionable insights - Vercel"
 render_with_liquid: false
+title: "Demystifying INP: New tools and actionable insights - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/demystifying-inp-new-tools-and-actionable-insights"
 date: "2024-06-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Deep dive into Interaction to Next Paint (INP) optimization: A technical guide exploring real-world strategies used to improve INP on nextjs.org. Learn how to tackle common challenges and enhance resp..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 12, 2024
 
 2024 年 6 月 12 日

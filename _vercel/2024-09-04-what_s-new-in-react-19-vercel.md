@@ -1,6 +1,6 @@
 ---
-title: "What’s new in React 19 - Vercel"
 render_with_liquid: false
+title: "What’s new in React 19 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/whats-new-in-react-19"
 date: "2024-09-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "React 19 is near. Here's what to expect and how you can get started deploying React 19 on Vercel."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 4, 2024
 
 2024 年 9 月 4 日

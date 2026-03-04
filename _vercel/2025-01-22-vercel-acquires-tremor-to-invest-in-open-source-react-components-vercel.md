@@ -1,6 +1,6 @@
 ---
-title: "Vercel acquires Tremor to invest in open source React components - Vercel"
 render_with_liquid: false
+title: "Vercel acquires Tremor to invest in open source React components - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-acquires-tremor"
 date: "2025-01-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Tremor, a library of React components to build charts and dashboards, joins Vercel. With this acquisition, all Tremor products—including Tremor Blocks—are now free and open source, bringing elegan..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 22, 2025
 
 2025 年 1 月 22 日

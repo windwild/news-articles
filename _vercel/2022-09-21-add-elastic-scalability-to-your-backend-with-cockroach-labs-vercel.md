@@ -1,6 +1,6 @@
 ---
-title: "Add elastic scalability to your backend with Cockroach Labs - Vercel"
 render_with_liquid: false
+title: "Add elastic scalability to your backend with Cockroach Labs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/add-elastic-scalability-to-your-backend-with-cockroach-labs"
 date: "2022-09-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 21, 2022
 
 2022 年 9 月 21 日

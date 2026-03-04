@@ -1,6 +1,6 @@
 ---
-title: "Flags SDK now supports OpenFeature - Vercel"
 render_with_liquid: false
+title: "Flags SDK now supports OpenFeature - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/flags-sdk-now-supports-openfeature"
 date: "2025-03-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The newly released @flags-sdk/openfeature Flags SDK adapter for OpenFeature allows using any Node.js OpenFeature provider with the Flags SDK. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 21, 2025
 
 2025 年 3 月 21 日

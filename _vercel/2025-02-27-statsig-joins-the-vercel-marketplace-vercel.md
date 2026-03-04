@@ -1,6 +1,6 @@
 ---
-title: "Statsig joins the Vercel Marketplace - Vercel"
 render_with_liquid: false
+title: "Statsig joins the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/statsig-joins-the-vercel-marketplace"
 date: "2025-02-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Statsig, the unified platform for experimentation, feature flags, and analytics, is now available as a first-party integration on Vercel. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 27, 2025
 
 2025 年 2 月 27 日

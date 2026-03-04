@@ -1,6 +1,6 @@
 ---
-title: "Slack Agent Skill simplifies building Slack agents with coding assistants - Vercel"
 render_with_liquid: false
+title: "Slack Agent Skill simplifies building Slack agents with coding assistants - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/slack-agent-skill-simplifies-building-slack-agents-with-coding-assistants"
 date: "2026-02-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Use the Slack Agent Skill in your favorite coding agent to simplify the otherwise complex task of building Slack integrated agents"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 24, 2026
 
 2026 年 2 月 24 日

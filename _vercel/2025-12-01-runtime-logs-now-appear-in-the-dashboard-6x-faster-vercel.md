@@ -1,6 +1,6 @@
 ---
-title: "Runtime logs now appear in the dashboard 6x faster - Vercel"
 render_with_liquid: false
+title: "Runtime logs now appear in the dashboard 6x faster - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/runtime-logs-now-appear-in-the-dashboard-6x-faster"
 date: "2025-12-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "End-to-end performance of Vercel's log pipeline is now six times faster due to engineering improvements"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 1, 2025
 
 2025 年 12 月 1 日

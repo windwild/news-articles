@@ -1,6 +1,6 @@
 ---
-title: "Vercel Terraform Provider now supports Vercel Firewall resources - Vercel"
 render_with_liquid: false
+title: "Vercel Terraform Provider now supports Vercel Firewall resources - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-terraform-provider-now-supports-vercel-firewall"
 date: "2024-10-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 4, 2024
 
 2024 年 10 月 4 日

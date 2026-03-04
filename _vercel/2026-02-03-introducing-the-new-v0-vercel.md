@@ -1,6 +1,6 @@
 ---
-title: "Introducing the new v0 - Vercel"
 render_with_liquid: false
+title: "Introducing the new v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-new-v0"
 date: "2026-02-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The new v0 brings production-ready AI coding to enterprises with git workflows, security, and real integrations. Ship faster with agents and teams."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 3, 2026
 
 2026年2月3日

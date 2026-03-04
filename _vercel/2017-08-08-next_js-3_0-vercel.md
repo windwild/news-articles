@@ -1,6 +1,6 @@
 ---
-title: "Next.js 3.0 - Vercel"
 render_with_liquid: false
+title: "Next.js 3.0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next3"
 date: "2017-08-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Next.js 3.0 comes with vastly improved HMR, dynamic imports, static exports and better serverless support!"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 8, 2017
 
 2017 年 8 月 8 日

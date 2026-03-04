@@ -1,6 +1,6 @@
 ---
-title: "Streamdown 1.6 is now available to run faster and ship less code - Vercel"
 render_with_liquid: false
+title: "Streamdown 1.6 is now available to run faster and ship less code - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/streamdown-1-6-is-now-available-to-run-faster-and-ship-less-code"
 date: "2025-11-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Streamdown 1.6 is out, which features some incredible updates and amazing community contributions. Read more below."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 24, 2025
 
 2025 年 11 月 24 日

@@ -1,6 +1,6 @@
 ---
-title: "Azure AI Provider for the Vercel AI SDK now available - Vercel"
 render_with_liquid: false
+title: "Azure AI Provider for the Vercel AI SDK now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/azure-ai-provider-for-the-vercel-ai-sdk-now-available"
 date: "2024-06-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 12, 2024
 
 2024 年 6 月 12 日

@@ -1,6 +1,6 @@
 ---
-title: "Filter Analytics traffic data - Vercel"
 render_with_liquid: false
+title: "Filter Analytics traffic data - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-analytics-traffic-data"
 date: "2023-01-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 25, 2023
 
 2023 年 1 月 25 日

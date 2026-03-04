@@ -1,6 +1,6 @@
 ---
-title: "Introducing Platform Elements - Vercel"
 render_with_liquid: false
+title: "Introducing Platform Elements - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-platform-elements"
 date: "2025-12-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A new library of production-ready shadcn/ui components and actions that you can drop into your app to help accelerate your platform development. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 5, 2025
 
 2025 年 12 月 5 日

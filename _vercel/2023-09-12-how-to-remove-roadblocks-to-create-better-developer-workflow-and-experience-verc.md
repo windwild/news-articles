@@ -1,6 +1,6 @@
 ---
-title: "How to remove roadblocks to create better developer workflow and experience - Vercel"
 render_with_liquid: false
+title: "How to remove roadblocks to create better developer workflow and experience - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/improving-developer-workflow"
 date: "2023-09-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The way your team builds software matters: Create a developer experience that promotes iteration"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 12, 2023
 
 2023 年 9 月 12 日

@@ -1,6 +1,6 @@
 ---
-title: "Python 3.9 is now available - Vercel"
 render_with_liquid: false
+title: "Python 3.9 is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/python-3-9-is-now-available"
 date: "2021-11-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 23, 2021
 
 2021 年 11 月 23 日

@@ -1,6 +1,6 @@
 ---
-title: "Vercel Functions: Faster, modern, and more scalable - Vercel"
 render_with_liquid: false
+title: "Vercel Functions: Faster, modern, and more scalable - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/evolving-vercel-functions"
 date: "2024-02-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Our first major iteration of Vercel Functions with increased concurrency, longer durations, faster cold starts, streaming, and more."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 14, 2024
 
 2024 年 2 月 14 日

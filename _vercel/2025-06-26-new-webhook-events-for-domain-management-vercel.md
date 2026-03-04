@@ -1,6 +1,6 @@
 ---
-title: "New webhook events for domain management - Vercel"
 render_with_liquid: false
+title: "New webhook events for domain management - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-webhook-events-for-domain-management"
 date: "2025-06-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now subscribe to webhook events for deeper visibility into domain operations on Vercel. These events make it easier to automate domain workflows, especially in multi-tenant platforms or when m..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 26, 2025
 
 2025 年 6 月 26 日

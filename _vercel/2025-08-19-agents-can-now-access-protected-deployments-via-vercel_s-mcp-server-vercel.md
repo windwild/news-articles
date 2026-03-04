@@ -1,6 +1,6 @@
 ---
-title: "Agents can now access protected deployments via Vercel’s MCP server - Vercel"
 render_with_liquid: false
+title: "Agents can now access protected deployments via Vercel’s MCP server - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/give-agents-access-to-protected-deployments-via-vercels-mcp-server"
 date: "2025-08-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel's MCP server now lets agents access deployments behind authentication, enabling them to act on your behalf."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 19, 2025
 
 2025 年 8 月 19 日

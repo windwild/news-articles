@@ -1,6 +1,6 @@
 ---
-title: "Introducing the Vercel AI SDK: npm i ai - Vercel"
 render_with_liquid: false
+title: "Introducing the Vercel AI SDK: npm i ai - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-vercel-ai-sdk"
 date: "2023-06-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "An interoperable, streaming-enabled, edge-ready software development kit for AI apps built with React and Svelte."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 15, 2023
 
 2023 年 6 月 15 日

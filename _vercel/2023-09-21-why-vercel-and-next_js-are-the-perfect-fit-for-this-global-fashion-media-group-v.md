@@ -1,6 +1,6 @@
 ---
-title: "Why Vercel and Next.js are the perfect fit for this global fashion media group - Vercel"
 render_with_liquid: false
+title: "Why Vercel and Next.js are the perfect fit for this global fashion media group - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/why-vercel-and-next-js-are-the-perfect-fit-for-this-global-fashion-media"
 date: "2023-09-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "l'officiel"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 21, 2023
 
 2023 年 9 月 21 日

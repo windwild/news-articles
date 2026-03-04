@@ -1,6 +1,6 @@
 ---
-title: "Preventing infrastructure abuse with Vercel Firewall - Vercel"
 render_with_liquid: false
+title: "Preventing infrastructure abuse with Vercel Firewall - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/preventing-infrastructure-abuse-with-vercel-firewall"
 date: "2024-09-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "DDoS resilience in the face of modern threats."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 24, 2024
 
 2024 年 9 月 24 日

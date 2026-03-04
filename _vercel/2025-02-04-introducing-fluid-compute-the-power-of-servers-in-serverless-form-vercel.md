@@ -1,6 +1,6 @@
 ---
-title: "Introducing Fluid compute: The power of servers, in serverless form - Vercel"
 render_with_liquid: false
+title: "Introducing Fluid compute: The power of servers, in serverless form - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-fluid-compute"
 date: "2025-02-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Fluid compute on Vercel combines serverless efficiency with server-like flexibility, reducing cold starts and cutting compute costs by up to 85%. Scale intelligently, minimize latency, and optimize pe..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 4, 2025
 
 2025 年 2 月 4 日

@@ -1,6 +1,6 @@
 ---
-title: "Behind the scenes of Vercel's infrastructure: Achieving optimal scalability and performance - Vercel"
 render_with_liquid: false
+title: "Behind the scenes of Vercel's infrastructure: Achieving optimal scalability and performance - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/behind-the-scenes-of-vercels-infrastructure"
 date: "2023-01-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel builds, deploys, and scales serverless applications with speed and global reliability"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 27, 2023
 
 2023 年 1 月 27 日

@@ -1,6 +1,6 @@
 ---
-title: "Environments Variables per Git branch - Vercel"
 render_with_liquid: false
+title: "Environments Variables per Git branch - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/environments-variables-per-git-branch"
 date: "2021-04-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 21, 2021
 
 2021 年 4 月 21 日

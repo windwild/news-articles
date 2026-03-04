@@ -1,6 +1,6 @@
 ---
-title: "Monitoring is now available to view traffic and performance data for improved observability  - Vercel"
 render_with_liquid: false
+title: "Monitoring is now available to view traffic and performance data for improved observability  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/monitoring-is-now-available-to-view-traffic-and-performance-data-for"
 date: "2023-03-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 6, 2023
 
 2023 年 3 月 6 日

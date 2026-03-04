@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT apps support on Vercel - Vercel"
 render_with_liquid: false
+title: "ChatGPT apps support on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/chatgpt-apps-support-on-vercel"
 date: "2025-10-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Use the Apps SDK, Next.js, and mcp-handler to build and deploy ChatGPT apps on Vercel, complete with custom UI and app-specific functionality."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 9, 2025
 
 2025 年 10 月 9 日

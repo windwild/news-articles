@@ -1,6 +1,6 @@
 ---
-title: "Shai-Hulud 2.0 Supply Chain Compromise  - Vercel"
 render_with_liquid: false
+title: "Shai-Hulud 2.0 Supply Chain Compromise  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/shai-hulud-2-0-supply-chain-compromise"
 date: "2025-11-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel updates that no Vercel-managed systems or internal build processes were impacted by the Shai-Halud 2.0 supply chain compromise "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 24, 2025
 
 2025 年 11 月 24 日

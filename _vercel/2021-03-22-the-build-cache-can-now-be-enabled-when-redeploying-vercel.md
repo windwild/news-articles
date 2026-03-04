@@ -1,6 +1,6 @@
 ---
-title: "The build cache can now be enabled when redeploying - Vercel"
 render_with_liquid: false
+title: "The build cache can now be enabled when redeploying - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/the-build-cache-can-now-be-enabled-when-redeploying"
 date: "2021-03-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 22, 2021
 
 2021 年 3 月 22 日

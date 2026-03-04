@@ -1,6 +1,6 @@
 ---
-title: "Filter for your own requests in Logs - Vercel"
 render_with_liquid: false
+title: "Filter for your own requests in Logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-for-your-own-requests-in-logs"
 date: "2025-01-29"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: " Filter browser-specific requests with the new \"My Logs\" filter in Vercel's Logs UI, simplifying debugging."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 29, 2025
 
 2025 年 1 月 29 日

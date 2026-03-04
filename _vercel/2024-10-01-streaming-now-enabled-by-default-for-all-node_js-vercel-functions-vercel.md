@@ -1,6 +1,6 @@
 ---
-title: "Streaming now enabled by default for all Node.js Vercel Functions - Vercel"
 render_with_liquid: false
+title: "Streaming now enabled by default for all Node.js Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/streaming-now-enabled-by-default-for-all-node-js-vercel-functions"
 date: "2024-10-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 1, 2024
 
 2024 年 10 月 1 日

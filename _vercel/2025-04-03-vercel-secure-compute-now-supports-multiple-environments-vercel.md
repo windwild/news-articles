@@ -1,6 +1,6 @@
 ---
-title: "Vercel Secure Compute now supports multiple environments - Vercel"
 render_with_liquid: false
+title: "Vercel Secure Compute now supports multiple environments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-secure-compute-now-supports-multiple-environments"
 date: "2025-04-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Users can now associate each project environment—Production, Preview, and custom—with a distinct Secure Compute network directly from the project settings"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 3, 2025
 
 2025 年 4 月 3 日

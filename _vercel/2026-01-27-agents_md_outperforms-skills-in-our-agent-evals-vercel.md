@@ -1,6 +1,6 @@
 ---
-title: "AGENTS.md outperforms skills in our agent evals - Vercel"
 render_with_liquid: false
+title: "AGENTS.md outperforms skills in our agent evals - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals"
 date: "2026-01-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A compressed 8KB docs index in AGENTS.md achieved 100% on Next.js 16 API evals. Skills maxed at 79%. Here's what we learned and how to set it up."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 27, 2026
 
 2026 年 1 月 27 日

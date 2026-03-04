@@ -1,6 +1,6 @@
 ---
-title: "Agent skills explained: An FAQ - Vercel"
 render_with_liquid: false
+title: "Agent skills explained: An FAQ - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/agent-skills-explained-an-faq"
 date: "2026-01-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A plainspoken Skills FAQ with a ready-to-use guide: what skill packages are, how agents load them, what skills-ai.dev is, how Skills compare to MCP, plus security and alternatives."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 26, 2026
 
 2026年1月26日

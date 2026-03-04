@@ -1,6 +1,6 @@
 ---
-title: "Improvements and fixes - Vercel"
 render_with_liquid: false
+title: "Improvements and fixes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/november-2022"
 date: "2022-11-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 14, 2022
 
 2022年11月14日

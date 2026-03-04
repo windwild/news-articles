@@ -1,6 +1,6 @@
 ---
-title: "Streamdown 2.3 — Refreshed design and interactive playground - Vercel"
 render_with_liquid: false
+title: "Streamdown 2.3 — Refreshed design and interactive playground - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/streamdown-2-3"
 date: "2026-02-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Streamdown 2.3 focuses on design polish and developer experience. Tables, code blocks, and Mermaid diagrams have been redesigned."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 19, 2026
 
 2026 年 2 月 19 日

@@ -1,6 +1,6 @@
 ---
-title: "On-demand Vercel Agent code reviews - Vercel"
 render_with_liquid: false
+title: "On-demand Vercel Agent code reviews - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/on-demand-vercel-agent-code-reviews"
 date: "2026-01-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now manually start an on-demand Vercel Agent code review by clicking the \"Review with Vercel\" button on the deployment tables provided by the Vercel GitHub App,"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 15, 2026
 
 2026 年 1 月 15 日

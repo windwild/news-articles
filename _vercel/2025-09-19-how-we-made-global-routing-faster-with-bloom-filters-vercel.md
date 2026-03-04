@@ -1,6 +1,6 @@
 ---
-title: "How we made global routing faster with Bloom filters - Vercel"
 render_with_liquid: false
+title: "How we made global routing faster with Bloom filters - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-we-made-global-routing-faster-with-bloom-filters"
 date: "2025-09-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We replaced slow JSON path lookups with Bloom filters in our global routing service, cutting memory usage by 15% and reducing 99th percentile lookup times from hundreds of milliseconds to under 1 ms. ..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 19, 2025
 
 2025 年 9 月 19 日

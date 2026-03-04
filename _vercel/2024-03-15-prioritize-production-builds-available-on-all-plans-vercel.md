@@ -1,6 +1,6 @@
 ---
-title: "Prioritize production builds available on all plans - Vercel"
 render_with_liquid: false
+title: "Prioritize production builds available on all plans - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/prioritize-production-deployments-to-build-before-queued-preview"
 date: "2024-03-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 15, 2024
 
 2024年3月15日

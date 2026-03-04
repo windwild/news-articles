@@ -1,6 +1,6 @@
 ---
-title: "Life of a Vercel request: Navigating the Edge Network - Vercel"
 render_with_liquid: false
+title: "Life of a Vercel request: Navigating the Edge Network - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/life-of-a-vercel-request-navigating-the-edge-network"
 date: "2024-11-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Unpacking the core usage metrics of Edge Requests and Fast Data Transfer. Learn how Vercel handles network routing and data transfer—while giving you full control over performance and costs."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 21, 2024
 
 2024 年 11 月 21 日

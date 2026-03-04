@@ -1,6 +1,6 @@
 ---
-title: "Replacing Google Optimize with the Vercel Edge Network - Vercel"
 render_with_liquid: false
+title: "Replacing Google Optimize with the Vercel Edge Network - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-edge-google-optimize"
 date: "2023-03-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Power your A/B testing and personalization strategy with better data and higher performance."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 30, 2023
 
 2023 年 3 月 30 日

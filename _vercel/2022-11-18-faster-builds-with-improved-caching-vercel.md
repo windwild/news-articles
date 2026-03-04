@@ -1,6 +1,6 @@
 ---
-title: "Faster builds with improved caching - Vercel"
 render_with_liquid: false
+title: "Faster builds with improved caching - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-builds-with-improved-caching"
 date: "2022-11-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 18, 2022
 
 2022 年 11 月 18 日

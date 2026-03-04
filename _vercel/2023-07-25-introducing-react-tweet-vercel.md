@@ -1,6 +1,6 @@
 ---
-title: "Introducing React Tweet - Vercel"
 render_with_liquid: false
+title: "Introducing React Tweet - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-react-tweet"
 date: "2023-07-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Embed tweets into your React application without sacrificing performance."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 25, 2023
 
 2023 年 7 月 25 日

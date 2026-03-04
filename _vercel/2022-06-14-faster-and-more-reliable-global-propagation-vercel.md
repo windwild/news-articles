@@ -1,6 +1,6 @@
 ---
-title: "Faster and more reliable global propagation - Vercel"
 render_with_liquid: false
+title: "Faster and more reliable global propagation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-and-more-reliable-global-propagation"
 date: "2022-06-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 14, 2022
 
 2022 年 6 月 14 日

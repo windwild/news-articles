@@ -1,6 +1,6 @@
 ---
-title: "Expiration dates now available for Access Tokens - Vercel"
 render_with_liquid: false
+title: "Expiration dates now available for Access Tokens - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/expiration-dates-now-available-for-access-tokens"
 date: "2022-07-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 20, 2022
 
 2022 年 7 月 20 日

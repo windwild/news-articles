@@ -1,6 +1,6 @@
 ---
-title: "Edge Config is now generally available  - Vercel"
 render_with_liquid: false
+title: "Edge Config is now generally available  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/edge-config-is-now-generally-available"
 date: "2023-04-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 6, 2023
 
 2023年4月6日

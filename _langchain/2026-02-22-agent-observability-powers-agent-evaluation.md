@@ -1,6 +1,6 @@
 ---
-title: "Agent Observability Powers Agent Evaluation"
 render_with_liquid: false
+title: "Agent Observability Powers Agent Evaluation"
 source: "LangChain Blog"
 url: "https://blog.langchain.com/agent-observability-powers-agent-evaluation/"
 date: "2026-02-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can't build reliable agents without understanding how they reason, and you can't validate improvements without systematic evaluation."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 **TL;DR**
 
 **简言之**

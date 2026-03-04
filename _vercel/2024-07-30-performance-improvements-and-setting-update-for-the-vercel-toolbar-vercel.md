@@ -1,6 +1,6 @@
 ---
-title: "Performance improvements and setting update for the Vercel Toolbar - Vercel"
 render_with_liquid: false
+title: "Performance improvements and setting update for the Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/performance-improvements-and-setting-update-for-the-vercel-toolbar"
 date: "2024-07-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 30, 2024
 
 2024 年 7 月 30 日

@@ -1,6 +1,6 @@
 ---
-title: "Connect Hasura APIs to your app, instantly - Vercel"
 render_with_liquid: false
+title: "Connect Hasura APIs to your app, instantly - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/connect-hasura-apis-to-your-app-instantly"
 date: "2022-07-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 11, 2022
 
 2022年7月11日

@@ -1,6 +1,6 @@
 ---
-title: "Project Vend: Phase two"
 render_with_liquid: false
+title: "Project Vend: Phase two"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/project-vend-2"
 scraped_at: "2026-03-02T09:21:07.487980835+00:00"
@@ -9,8 +9,9 @@ translated: true
 description: "How Claude turned around its failing vending machine business"
 tags: ["Policy"]
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Policy
 
 政策

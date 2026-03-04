@@ -1,6 +1,6 @@
 ---
-title: "Fluid compute is now the default for new projects - Vercel"
 render_with_liquid: false
+title: "Fluid compute is now the default for new projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/fluid-compute-is-now-the-default-for-new-projects"
 date: "2025-04-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Fluid compute is now enabled by default for all new projects on Vercel, bringing improvements in efficiency, scalability, and cost effectiveness."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 23, 2025
 
 2025 年 4 月 23 日

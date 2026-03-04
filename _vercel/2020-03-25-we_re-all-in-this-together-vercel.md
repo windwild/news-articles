@@ -1,6 +1,6 @@
 ---
-title: "We're All in This Together - Vercel"
 render_with_liquid: false
+title: "We're All in This Together - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/we-are-all-in-this-together"
 date: "2020-03-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A showcase of projects from the Vercel developer community, built during the COVID-19 pandemic."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 25, 2020
 
 2020年3月25日

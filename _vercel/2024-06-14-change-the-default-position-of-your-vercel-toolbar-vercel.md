@@ -1,6 +1,6 @@
 ---
-title: "Change the default position of your Vercel Toolbar - Vercel"
 render_with_liquid: false
+title: "Change the default position of your Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/reposition-the-vercel-toolbar"
 date: "2024-06-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 14, 2024
 
 2024 年 6 月 14 日

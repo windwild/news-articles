@@ -1,6 +1,6 @@
 ---
-title: "Vercel Blob is now generally available: Cost-efficient, durable storage - Vercel"
 render_with_liquid: false
+title: "Vercel Blob is now generally available: Cost-efficient, durable storage - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-blob-now-generally-available"
 date: "2025-05-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Blob is now generally available, providing durable object storage that's integrated with Vercel's application delivery network."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 21, 2025
 
 2025 年 5 月 21 日

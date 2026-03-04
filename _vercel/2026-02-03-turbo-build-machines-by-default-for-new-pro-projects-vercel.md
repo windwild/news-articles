@@ -1,6 +1,6 @@
 ---
-title: "Turbo build machines by default for new Pro projects - Vercel"
 render_with_liquid: false
+title: "Turbo build machines by default for new Pro projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/turbo-build-machines-by-default-for-new-pro-projects"
 date: "2026-02-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Turbo build machines are now the default for new Pro Vercel projects, delivering faster buil ds with 30 vCPUs/60GB memory—up to 3x faster for long builds."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 3, 2026
 
 2026 年 2 月 3 日

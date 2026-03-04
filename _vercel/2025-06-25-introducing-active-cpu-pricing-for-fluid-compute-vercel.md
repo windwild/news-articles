@@ -1,6 +1,6 @@
 ---
-title: "Introducing Active CPU pricing for Fluid compute - Vercel"
 render_with_liquid: false
+title: "Introducing Active CPU pricing for Fluid compute - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-active-cpu-pricing-for-fluid-compute"
 date: "2025-06-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Fluid compute now uses Active CPU pricing. Only pay CPU rates when your function is actively computing. Building on existing Fluid gains, this brings additional savings of up to 90% for workloads like..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 25, 2025
 
 2025 年 6 月 25 日

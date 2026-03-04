@@ -1,6 +1,6 @@
 ---
-title: "Nile and MotherDuck join the Vercel Marketplace - Vercel"
 render_with_liquid: false
+title: "Nile and MotherDuck join the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/nile-and-motherduck-join-the-vercel-marketplace"
 date: "2024-12-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can integrate Nile's database services or leverage MotherDuck's data analysis capabilities directly from the Vercel dashboard, complete with integrated billing and CLI provisioning."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 9, 2024
 
 2024 年 12 月 9 日

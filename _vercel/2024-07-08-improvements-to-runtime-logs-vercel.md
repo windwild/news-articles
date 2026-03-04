@@ -1,6 +1,6 @@
 ---
-title: "Improvements to Runtime Logs - Vercel"
 render_with_liquid: false
+title: "Improvements to Runtime Logs - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvements-to-runtime-logs"
 date: "2024-07-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 8, 2024
 
 2024年7月8日

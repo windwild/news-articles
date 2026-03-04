@@ -1,6 +1,6 @@
 ---
-title: "Find teams, projects, and pages in the Vercel dashboard with universal search - Vercel"
 render_with_liquid: false
+title: "Find teams, projects, and pages in the Vercel dashboard with universal search - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/dashboard-universal-search"
 date: "2025-06-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Vercel Dashboard now has a universal search for teams, projects, repos, deployments, pages, and settings."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 23, 2025
 
 2025年6月23日

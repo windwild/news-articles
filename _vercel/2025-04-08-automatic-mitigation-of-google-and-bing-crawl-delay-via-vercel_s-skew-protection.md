@@ -1,6 +1,6 @@
 ---
-title: "Automatic mitigation of Google and Bing crawl delay, via Vercel’s Skew Protection - Vercel"
 render_with_liquid: false
+title: "Automatic mitigation of Google and Bing crawl delay, via Vercel’s Skew Protection - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatic-mitigation-of-crawler-delay-via-skew-protection"
 date: "2025-04-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The maximum age for Skew Protection is now extended to 60 days for requests coming from web crawlers such as Googlebot or Bingbot."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 8, 2025
 
 2025 年 4 月 8 日

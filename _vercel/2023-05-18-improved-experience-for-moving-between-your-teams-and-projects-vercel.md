@@ -1,6 +1,6 @@
 ---
-title: "Improved experience for moving between your teams and projects - Vercel"
 render_with_liquid: false
+title: "Improved experience for moving between your teams and projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-experience-for-moving-between-your-teams-and-projects"
 date: "2023-05-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 18, 2023
 
 2023年5月18日

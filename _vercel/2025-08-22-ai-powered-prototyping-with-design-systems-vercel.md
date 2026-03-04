@@ -1,6 +1,6 @@
 ---
-title: "AI-powered prototyping with design systems - Vercel"
 render_with_liquid: false
+title: "AI-powered prototyping with design systems - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-powered-prototyping-with-design-systems"
 date: "2025-08-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Why AI-native design systems unlock true brand-ready, production-aligned prototyping for teams using v0"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 22, 2025
 
 2025年8月22日

@@ -1,6 +1,6 @@
 ---
-title: "From idea to acquisition: How Potion.so shipped 4,000+ sites on Vercel - Vercel"
 render_with_liquid: false
+title: "From idea to acquisition: How Potion.so shipped 4,000+ sites on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/from-idea-to-acqusition-how-potion-shipped-4k-sites-on-vercel"
 date: "2023-06-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The success of Potion's one-person team is a testament to the power of Vercel's Frontend Cloud toolkit. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 15, 2023
 
 2023年6月15日

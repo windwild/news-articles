@@ -1,6 +1,6 @@
 ---
-title: "GPT 5.2 Codex now available on Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "GPT 5.2 Codex now available on Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gpt-5-2-codex-now-available-on-vercel-ai-gateway"
 date: "2026-01-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access the GPT 5.2 Codex model on Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 14, 2026
 
 2026 年 1 月 14 日

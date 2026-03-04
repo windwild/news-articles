@@ -1,6 +1,6 @@
 ---
-title: "LongCat-Flash Chat model is now supported in Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "LongCat-Flash Chat model is now supported in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/longcat-flash-chat-model-is-now-supported-in-vercel-ai-gateway"
 date: "2025-09-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access LongCat-Flash Chat from Meituan using Vercel AI Gateway, with no Meituan account required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 11, 2025
 
 2025 年 9 月 11 日

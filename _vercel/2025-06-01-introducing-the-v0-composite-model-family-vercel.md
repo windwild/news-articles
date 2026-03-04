@@ -1,6 +1,6 @@
 ---
-title: "Introducing the v0 composite model family - Vercel"
 render_with_liquid: false
+title: "Introducing the v0 composite model family - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/v0-composite-model-family"
 date: "2025-06-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how v0's composite AI models combine RAG, frontier LLMs, and AutoFix to build accurate, up-to-date web app code with fewer errors and faster output."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 1, 2025
 
 2025年6月1日

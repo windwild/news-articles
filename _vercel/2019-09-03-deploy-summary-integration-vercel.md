@@ -1,6 +1,6 @@
 ---
-title: "Deploy Summary Integration - Vercel"
 render_with_liquid: false
+title: "Deploy Summary Integration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/deploy-summary"
 date: "2019-09-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Introducing Deploy Summary, a Vercel integration to enhance your Pull Requests or Merge Requests with screenshots and links to your changed pages."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 3, 2019
 
 2019 年 9 月 3 日

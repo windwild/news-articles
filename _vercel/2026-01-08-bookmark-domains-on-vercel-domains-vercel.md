@@ -1,6 +1,6 @@
 ---
-title: "Bookmark domains on Vercel Domains - Vercel"
 render_with_liquid: false
+title: "Bookmark domains on Vercel Domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bookmark-domains-on-vercel-domains"
 date: "2026-01-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now curate and save a list of domains within the Vercel Domains product for purchasing at a later date"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 8, 2026
 
 2026 年 1 月 8 日

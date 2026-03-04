@@ -1,6 +1,6 @@
 ---
-title: "Inspecting Serverless Functions - Vercel"
 render_with_liquid: false
+title: "Inspecting Serverless Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/functions-tab"
 date: "2019-11-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: " Get insight into your Serverless Functions with the new \"Functions\" dashboard tab."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 18, 2019
 
 2019 年 11 月 18 日

@@ -1,6 +1,6 @@
 ---
-title: "Improved team onboarding experience - Vercel"
 render_with_liquid: false
+title: "Improved team onboarding experience - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-team-onboarding-experience"
 date: "2024-04-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 24, 2024
 
 2024 年 4 月 24 日

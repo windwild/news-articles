@@ -1,6 +1,6 @@
 ---
-title: "Sonos migrated to Vercel to unlock new levels of efficiency and confidence for their developers. - Vercel"
 render_with_liquid: false
+title: "Sonos migrated to Vercel to unlock new levels of efficiency and confidence for their developers. - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-sonos-amplified-their-devex"
 date: "2023-08-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "By switching to Vercel, Sonos leveled up their headless Next.js stack, cutting build times by 75%."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 17, 2023
 
 2023年8月17日

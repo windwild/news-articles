@@ -1,6 +1,6 @@
 ---
-title: "ZEIT is now Vercel - Vercel"
 render_with_liquid: false
+title: "ZEIT is now Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/zeit-is-now-vercel"
 date: "2020-04-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Today, we have some very special news regarding the evolution of our company."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 21, 2020
 
 2020年4月21日

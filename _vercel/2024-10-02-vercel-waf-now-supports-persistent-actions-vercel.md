@@ -1,6 +1,6 @@
 ---
-title: "Vercel WAF now supports persistent actions - Vercel"
 render_with_liquid: false
+title: "Vercel WAF now supports persistent actions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-waf-now-supports-persistent-actions"
 date: "2024-10-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 2, 2024
 
 2024年10月2日

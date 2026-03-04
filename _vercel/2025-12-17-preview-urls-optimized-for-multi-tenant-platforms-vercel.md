@@ -1,6 +1,6 @@
 ---
-title: "Preview URLs optimized for multi-tenant platforms - Vercel"
 render_with_liquid: false
+title: "Preview URLs optimized for multi-tenant platforms - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/preview-urls-optimized-for-multi-tenant-platforms"
 date: "2025-12-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Multi-tenant applications can now generate unique preview URLs for each tenant and encode metadata and routing context directly into the URL"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 17, 2025
 
 2025 年 12 月 17 日

@@ -1,6 +1,6 @@
 ---
-title: "Vercel Microfrontends is now in Limited Beta - Vercel"
 render_with_liquid: false
+title: "Vercel Microfrontends is now in Limited Beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-microfrontends-is-now-in-limited-beta"
 date: "2025-06-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now manage multiple projects as a single application with Vercel Microfrontends. This improves velocity for large apps, supports independent teams, and enables incremental migration. Available..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 25, 2025
 
 2025 年 6 月 25 日

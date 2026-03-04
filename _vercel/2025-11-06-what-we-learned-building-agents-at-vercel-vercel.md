@@ -1,6 +1,6 @@
 ---
-title: "What we learned building agents at Vercel - Vercel"
 render_with_liquid: false
+title: "What we learned building agents at Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/what-we-learned-building-agents-at-vercel"
 date: "2025-11-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We're presenting a simple methodology for discovering successful agent projects that perform well with current generation AI"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 6, 2025
 
 2025 年 11 月 6 日

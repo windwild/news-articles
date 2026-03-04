@@ -1,6 +1,6 @@
 ---
-title: "Postmortem on Next.js Middleware bypass - Vercel"
 render_with_liquid: false
+title: "Postmortem on Next.js Middleware bypass - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/postmortem-on-next-js-middleware-bypass"
 date: "2025-03-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Last week, we published CVE-2025-29927 and patched a critical severity vulnerability in Next.js. Here’s our post-incident analysis and next steps."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 25, 2025
 
 2025年3月25日

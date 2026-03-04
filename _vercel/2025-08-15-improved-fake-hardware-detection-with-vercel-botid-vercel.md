@@ -1,6 +1,6 @@
 ---
-title: "Improved fake hardware detection with Vercel BotID - Vercel"
 render_with_liquid: false
+title: "Improved fake hardware detection with Vercel BotID - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/botid-deep-analysis-model-improved-for-fake-hardware-detection"
 date: "2025-08-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel BotID Deep Analysis now uses an updated detection model that expands fingerprinting coverage for bespoke headless browsers and simulated device hardware."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 15, 2025
 
 2025年8月15日

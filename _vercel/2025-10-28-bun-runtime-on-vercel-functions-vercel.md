@@ -1,6 +1,6 @@
 ---
-title: "Bun runtime on Vercel Functions - Vercel"
 render_with_liquid: false
+title: "Bun runtime on Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/bun-runtime-on-vercel-functions"
 date: "2025-10-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Functions now supports the Bun runtime, giving developers faster performance options and greater flexibility for optimizing JavaScript workloads."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 28, 2025
 
 2025 年 10 月 28 日

@@ -1,6 +1,6 @@
 ---
-title: "Improved support for pnpm, Corepack, and monorepos - Vercel"
 render_with_liquid: false
+title: "Improved support for pnpm, Corepack, and monorepos - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-support-for-pnpm-corepack-and-monorepos"
 date: "2024-10-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 30, 2024
 
 2024 年 10 月 30 日

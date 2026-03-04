@@ -1,6 +1,6 @@
 ---
-title: "Automatic build fix suggestions with Vercel Agent - Vercel"
 render_with_liquid: false
+title: "Automatic build fix suggestions with Vercel Agent - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatic-build-fix-suggestions-with-vercel-agent"
 date: "2026-02-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Get automatic code fix suggestions from Vercel Agent when builds fail—directly in GitHub Pull Request reviews or the Vercel Dashboard, based on your code and build logs."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 17, 2026
 
 2026 年 2 月 17 日

@@ -1,6 +1,6 @@
 ---
-title: "Trinity Mini model now available in Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "Trinity Mini model now available in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/trinity-mini-model-now-available-in-vercel-ai-gateway"
 date: "2025-12-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access the newest Arcee AI model Trinity Mini in Vercel AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 1, 2025
 
 2025 年 12 月 1 日

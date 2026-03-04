@@ -1,6 +1,6 @@
 ---
-title: "Cutting delivery times in half with v0 - Vercel"
 render_with_liquid: false
+title: "Cutting delivery times in half with v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/cutting-delivery-times-in-half-with-v0"
 date: "2025-08-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how Ready.net uses v0 to reduce ambiguity and accelerate feedback loops with limited resources"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 12, 2025
 
 2025年8月12日

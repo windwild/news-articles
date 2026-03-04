@@ -1,6 +1,6 @@
 ---
-title: "Easily access Vercel Brand Assets and Guidelines - Vercel"
 render_with_liquid: false
+title: "Easily access Vercel Brand Assets and Guidelines - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/easily-access-vercel-brand-assets-and-guidelines"
 date: "2022-09-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 28, 2022
 
 2022 年 9 月 28 日

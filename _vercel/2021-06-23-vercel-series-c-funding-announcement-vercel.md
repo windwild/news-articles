@@ -1,6 +1,6 @@
 ---
-title: "Vercel: Series C funding announcement - Vercel"
 render_with_liquid: false
+title: "Vercel: Series C funding announcement - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/series-c-102m-continue-building-the-next-web"
 date: "2021-06-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel has added an additional $102 million of investment at a valuation greater than $1BN."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 23, 2021
 
 2021 年 6 月 23 日

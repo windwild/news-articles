@@ -1,6 +1,6 @@
 ---
-title: "Enhanced security with new API scopes for integrations - Vercel"
 render_with_liquid: false
+title: "Enhanced security with new API scopes for integrations - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-security-with-new-api-scopes-for-integrations"
 date: "2022-06-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 6, 2022
 
 2022 年 6 月 6 日

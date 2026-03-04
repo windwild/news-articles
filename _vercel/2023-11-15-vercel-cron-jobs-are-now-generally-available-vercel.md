@@ -1,6 +1,6 @@
 ---
-title: "Vercel Cron Jobs are now generally available - Vercel"
 render_with_liquid: false
+title: "Vercel Cron Jobs are now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-cron-jobs-are-now-generally-available"
 date: "2023-11-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 15, 2023
 
 2023 年 11 月 15 日

@@ -1,6 +1,6 @@
 ---
-title: "AWS databases now available on the Vercel Marketplace - Vercel"
 render_with_liquid: false
+title: "AWS databases now available on the Vercel Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/aws-databases-now-available-on-the-vercel-marketplace"
 date: "2025-12-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "AWS Databases Now Available on the Vercel Marketplace with their AWS Aurora PostgreSQL, Amazon DynamoDB, and Aurora DSQL "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 17, 2025
 
 2025年12月17日

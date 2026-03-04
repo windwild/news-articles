@@ -1,6 +1,6 @@
 ---
-title: "Recraft image models now on AI Gateway - Vercel"
 render_with_liquid: false
+title: "Recraft image models now on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/recraft-image-models-now-on-ai-gateway"
 date: "2026-01-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access image models from Recraft in Vercel AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 19, 2026
 
 2026 年 1 月 19 日

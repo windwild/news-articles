@@ -1,6 +1,6 @@
 ---
-title: "At Next.js Conf 2021, let’s make the Web. Faster. - Vercel"
 render_with_liquid: false
+title: "At Next.js Conf 2021, let’s make the Web. Faster. - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/at-next-js-conf-2021-lets-make-the-web-faster"
 date: "2021-09-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Join us for Next.js Conf on October 26, 2021. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 20, 2021
 
 2021 年 9 月 20 日

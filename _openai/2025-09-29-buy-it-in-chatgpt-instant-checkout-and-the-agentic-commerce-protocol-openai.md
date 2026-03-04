@@ -1,6 +1,6 @@
 ---
-title: "Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol | OpenAI"
 render_with_liquid: false
+title: "Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/buy-it-in-chatgpt"
 date: "2025-09-29"
@@ -9,8 +9,9 @@ language: "en-US"
 translated: true
 description: "We’re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 September 29, 2025
 
 2025年9月29日

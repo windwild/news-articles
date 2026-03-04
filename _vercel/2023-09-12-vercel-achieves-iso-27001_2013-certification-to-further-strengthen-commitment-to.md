@@ -1,6 +1,6 @@
 ---
-title: "Vercel achieves ISO 27001:2013 certification to further strengthen commitment to security  - Vercel"
 render_with_liquid: false
+title: "Vercel achieves ISO 27001:2013 certification to further strengthen commitment to security  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-iso-27001-security"
 date: "2023-09-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel achieves the ISO 27001 certification"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 12, 2023
 
 2023年9月12日

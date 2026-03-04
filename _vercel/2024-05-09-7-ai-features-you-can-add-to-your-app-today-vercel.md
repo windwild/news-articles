@@ -1,6 +1,6 @@
 ---
-title: "7 AI features you can add to your app today - Vercel"
 render_with_liquid: false
+title: "7 AI features you can add to your app today - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/7-ai-features-you-can-add-to-your-app-today"
 date: "2024-05-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Discover how AI is transforming businesses with Vercel. Learn about easy LLM integration, 7 game-changing applications, and how to implement AI features to boost user experience and growth."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 9, 2024
 
 2024年5月9日

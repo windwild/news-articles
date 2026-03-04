@@ -1,6 +1,6 @@
 ---
-title: "Included Pro usage is now credit-based - Vercel"
 render_with_liquid: false
+title: "Included Pro usage is now credit-based - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/included-pro-usage-is-now-credit-based"
 date: "2025-09-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Pro plan now includes $20 in monthly usage credit instead of fixed allocations across metrics like data transfer, compute, caching, and more."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 9, 2025
 
 2025 年 9 月 9 日

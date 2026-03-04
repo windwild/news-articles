@@ -1,6 +1,6 @@
 ---
-title: "Instant Rollback public beta now available in the CLI - Vercel"
 render_with_liquid: false
+title: "Instant Rollback public beta now available in the CLI - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/instant-rollback-public-beta-cli"
 date: "2022-12-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 2, 2022
 
 2022 年 12 月 2 日

@@ -1,6 +1,6 @@
 ---
-title: "Improved support for Nuxt on Vercel - Vercel"
 render_with_liquid: false
+title: "Improved support for Nuxt on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nuxt-on-vercel"
 date: "2023-05-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Nuxt on Vercel now supports KV for Redis, Incremental Static Regeneration, and more."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 5, 2023
 
 2023 年 5 月 5 日

@@ -1,6 +1,6 @@
 ---
-title: "backendlessConf_ 2019 - Vercel"
 render_with_liquid: false
+title: "backendlessConf_ 2019 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/our-first-online-conference"
 date: "2019-12-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Catch all the highlights and important links from the first-ever backendlessConf_ representing the frontend and JAMstack."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 23, 2019
 
 2019年12月23日

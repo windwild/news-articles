@@ -1,6 +1,6 @@
 ---
-title: "Sign up or sign in with a One-Time Password (OTP) - Vercel"
 render_with_liquid: false
+title: "Sign up or sign in with a One-Time Password (OTP) - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sign-up-or-sign-in-with-a-one-time-password-otp"
 date: "2024-09-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 4, 2024
 
 2024年9月4日

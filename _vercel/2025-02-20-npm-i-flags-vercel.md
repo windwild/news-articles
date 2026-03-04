@@ -1,6 +1,6 @@
 ---
-title: "npm i flags - Vercel"
 render_with_liquid: false
+title: "npm i flags - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/npm-i-flags"
 date: "2025-02-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Flags SDK package has been renamed from @vercel/flags to flags, signaling our commitment to open source and great developer experiences."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 20, 2025
 
 2025 年 2 月 20 日

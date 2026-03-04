@@ -1,6 +1,6 @@
 ---
-title: "Vercel AI SDK 3.1: ModelFusion joins the team - Vercel"
 render_with_liquid: false
+title: "Vercel AI SDK 3.1: ModelFusion joins the team - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-ai-sdk-3-1-modelfusion-joins-the-team"
 date: "2024-05-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "ModelFusion joins Vercel "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 2, 2024
 
 2024 年 5 月 2 日

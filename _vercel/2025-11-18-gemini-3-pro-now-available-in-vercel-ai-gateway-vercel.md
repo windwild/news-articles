@@ -1,6 +1,6 @@
 ---
-title: "Gemini 3 Pro now available in Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "Gemini 3 Pro now available in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gemini-3-pro-now-available-in-vercel-ai-gateway"
 date: "2025-11-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access Google's latest model Gemini 3 Pro in Vercel AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 18, 2025
 
 2025 年 11 月 18 日

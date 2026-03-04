@@ -1,6 +1,6 @@
 ---
-title: "Vite projects can now be deployed with zero configuration - Vercel"
 render_with_liquid: false
+title: "Vite projects can now be deployed with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vite-projects-can-now-be-deployed-with-zero-configuration"
 date: "2021-07-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 13, 2021
 
 2021年7月13日

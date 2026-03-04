@@ -1,6 +1,6 @@
 ---
-title: "Update on Spain and LALIGA blocks of the internet - Vercel"
 render_with_liquid: false
+title: "Update on Spain and LALIGA blocks of the internet - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/update-on-spain-and-laliga-blocks-of-the-internet"
 date: "2025-04-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A Spanish court has empowered LALIGA to block entire IP addresses tied to unauthorized football streams—causing legitimate websites hosted on Vercel to become inaccessible in Spain."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 15, 2025
 
 2025年4月15日

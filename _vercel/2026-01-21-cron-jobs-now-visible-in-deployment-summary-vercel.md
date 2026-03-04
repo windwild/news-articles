@@ -1,6 +1,6 @@
 ---
-title: "Cron Jobs now visible in Deployment Summary - Vercel"
 render_with_liquid: false
+title: "Cron Jobs now visible in Deployment Summary - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/cron-jobs-now-visible-in-deployment-summary"
 date: "2026-01-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Cron Jobs are now visible as resources on Deployment pages. Create up to 100 scheduled tasks per project, at any interval, on all plans."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 21, 2026
 
 2026年1月21日

@@ -1,6 +1,6 @@
 ---
-title: "Introducing Vercel Blob - Vercel"
 render_with_liquid: false
+title: "Introducing Vercel Blob - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-blob"
 date: "2023-05-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 1, 2023
 
 2023年5月1日

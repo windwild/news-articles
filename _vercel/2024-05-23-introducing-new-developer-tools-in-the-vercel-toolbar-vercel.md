@@ -1,6 +1,6 @@
 ---
-title: "Introducing new developer tools in the Vercel Toolbar - Vercel"
 render_with_liquid: false
+title: "Introducing new developer tools in the Vercel Toolbar - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-new-developer-tools-in-the-vercel-toolbar"
 date: "2024-05-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Vercel Toolbar now includes even more developer tools to simplify collaboration, improve accessibility, and enhance your workflow."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 23, 2024
 
 2024 年 5 月 23 日

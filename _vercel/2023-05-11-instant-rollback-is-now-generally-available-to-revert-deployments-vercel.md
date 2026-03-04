@@ -1,6 +1,6 @@
 ---
-title: "Instant Rollback is now generally available to revert deployments - Vercel"
 render_with_liquid: false
+title: "Instant Rollback is now generally available to revert deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/instant-rollback-is-now-available-to-revert-deployments"
 date: "2023-05-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 11, 2023
 
 2023 年 5 月 11 日

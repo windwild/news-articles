@@ -1,6 +1,6 @@
 ---
-title: "Fast Data Transfer for rewrites between your team's projects is now free - Vercel"
 render_with_liquid: false
+title: "Fast Data Transfer for rewrites between your team's projects is now free - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/fast-data-transfer-for-rewrites-between-a-teams-projects-is-now-free"
 date: "2025-02-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "External rewrites between projects within the same team have been optimized internally, lowering the Fast Data Transfer they use and their associated costs."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 27, 2025
 
 2025 年 2 月 27 日

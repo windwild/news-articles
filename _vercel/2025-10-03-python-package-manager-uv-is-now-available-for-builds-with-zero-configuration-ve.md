@@ -1,6 +1,6 @@
 ---
-title: "Python package manager uv is now available for builds with zero configuration - Vercel"
 render_with_liquid: false
+title: "Python package manager uv is now available for builds with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/python-package-manager-uv-is-now-available-for-builds-with-zero"
 date: "2025-10-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel now uses uv, a fast Python package manager written in Rust, as the default package manager during the installation step for all Python builds."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 3, 2025
 
 2025 年 10 月 3 日

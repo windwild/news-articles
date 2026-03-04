@@ -1,6 +1,6 @@
 ---
-title: "How a global agency built a web innovation engine in two months  - Vercel"
 render_with_liquid: false
+title: "How a global agency built a web innovation engine in two months  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-a-global-agency-built-a-web-innovation-engine-in-two-months"
 date: "2023-02-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Globacore"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 22, 2023
 
 2023 年 2 月 22 日

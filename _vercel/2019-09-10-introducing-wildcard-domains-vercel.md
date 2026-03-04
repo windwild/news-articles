@@ -1,6 +1,6 @@
 ---
-title: "Introducing Wildcard Domains - Vercel"
 render_with_liquid: false
+title: "Introducing Wildcard Domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/wildcard-domains"
 date: "2019-09-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Wildcard Domains allow for pointing all imaginable sub domains to a project, without having to define those sub domains at all."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 10, 2019
 
 2019 年 9 月 10 日

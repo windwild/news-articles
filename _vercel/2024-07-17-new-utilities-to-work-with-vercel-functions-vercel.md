@@ -1,6 +1,6 @@
 ---
-title: "New utilities to work with Vercel Functions - Vercel"
 render_with_liquid: false
+title: "New utilities to work with Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-utilities-to-work-with-vercel-functions"
 date: "2024-07-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 17, 2024
 
 2024年7月17日

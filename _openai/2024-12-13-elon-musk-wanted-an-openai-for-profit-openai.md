@@ -1,6 +1,6 @@
 ---
-title: "Elon Musk wanted an OpenAI for-profit | OpenAI"
 render_with_liquid: false
+title: "Elon Musk wanted an OpenAI for-profit | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/elon-musk-wanted-an-openai-for-profit"
 date: "2024-12-13"
@@ -10,8 +10,9 @@ translated: true
 description: "Elon Musk’s latest legal filing against OpenAI marks his fourth attempt in less than a year to reframe his claims. However, his own words and actions speak for themselves—in 2017, Elon not only wa..."
 tags: ["Company"]
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 December 13, 2024
 
 2024年12月13日

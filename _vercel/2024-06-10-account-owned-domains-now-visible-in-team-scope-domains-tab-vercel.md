@@ -1,6 +1,6 @@
 ---
-title: "Account-owned domains now visible in team-scope domains tab - Vercel"
 render_with_liquid: false
+title: "Account-owned domains now visible in team-scope domains tab - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/account-owned-domains-now-visible-in-team-scope-domains-tab"
 date: "2024-06-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 10, 2024
 
 2024年6月10日

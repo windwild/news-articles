@@ -1,6 +1,6 @@
 ---
-title: "Astro projects can now be deployed with zero configuration - Vercel"
 render_with_liquid: false
+title: "Astro projects can now be deployed with zero configuration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/astro-projects-can-now-be-deployed-with-zero-configuration"
 date: "2022-05-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 19, 2022
 
 2022年5月19日

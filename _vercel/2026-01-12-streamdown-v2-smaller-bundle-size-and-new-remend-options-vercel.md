@@ -1,6 +1,6 @@
 ---
-title: "Streamdown v2: Smaller bundle size and new Remend options - Vercel"
 render_with_liquid: false
+title: "Streamdown v2: Smaller bundle size and new Remend options - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/streamdown-v2"
 date: "2026-01-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Streamdown v2 ships a smaller bundle with CDN-loaded assets and new Remend options for markdown streaming."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 12, 2026
 
 2026 年 1 月 12 日

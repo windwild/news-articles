@@ -1,6 +1,6 @@
 ---
-title: "Vercel Functions for Hobby can now run up to 60 seconds - Vercel"
 render_with_liquid: false
+title: "Vercel Functions for Hobby can now run up to 60 seconds - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-functions-for-hobby-can-now-run-up-to-60-seconds"
 date: "2024-05-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 9, 2024
 
 2024 年 5 月 9 日

@@ -1,6 +1,6 @@
 ---
-title: "Vercel achieves TISAX AL2 compliance to serve automotive partners - Vercel"
 render_with_liquid: false
+title: "Vercel achieves TISAX AL2 compliance to serve automotive partners - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-achieves-tisax-al2-compliance-to-serve-automotive-partners"
 date: "2025-10-29"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel has achieved TISAX Assessment Level 2 security standard to align with automotive and manufacturing industries"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 29, 2025
 
 2025 年 10 月 29 日

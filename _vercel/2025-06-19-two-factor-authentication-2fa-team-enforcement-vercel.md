@@ -1,6 +1,6 @@
 ---
-title: "Two-factor authentication (2FA) team enforcement - Vercel"
 render_with_liquid: false
+title: "Two-factor authentication (2FA) team enforcement - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/2fa-team-enforcement"
 date: "2025-06-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Team owners can now enforce two-factor authentication (2FA) for every member of their team via a toggle in Security & Privacy under team settings."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 19, 2025
 
 2025年6月19日

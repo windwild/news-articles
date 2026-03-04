@@ -1,6 +1,6 @@
 ---
-title: "Introducing Vercel KV - Vercel"
 render_with_liquid: false
+title: "Introducing Vercel KV - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-kv"
 date: "2023-05-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Announcing Redis storage on Vercel. Connect your projects to native storage solutions. Works with any frontend framework."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 1, 2023
 
 2023 年 5 月 1 日

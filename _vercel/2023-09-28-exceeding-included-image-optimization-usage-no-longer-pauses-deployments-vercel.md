@@ -1,6 +1,6 @@
 ---
-title: "Exceeding included Image Optimization usage no longer pauses deployments - Vercel"
 render_with_liquid: false
+title: "Exceeding included Image Optimization usage no longer pauses deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/exceeding-included-image-optimization-usage-no-longer-pauses-deployments"
 date: "2023-09-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 28, 2023
 
 2023 年 9 月 28 日

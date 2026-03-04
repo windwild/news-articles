@@ -1,6 +1,6 @@
 ---
-title: "Middleware now supports Node.js - Vercel"
 render_with_liquid: false
+title: "Middleware now supports Node.js - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/middleware-now-supports-node-js"
 date: "2025-02-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Next.js 15.2 introduces experimental Node.js Middleware, now available at Vercel—giving you full Node.js runtime support for your Middleware. Run authentication, logging, request handling, and more ..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 26, 2025
 
 2025 年 2 月 26 日

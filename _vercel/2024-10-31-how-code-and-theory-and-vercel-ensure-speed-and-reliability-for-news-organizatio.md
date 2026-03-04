@@ -1,6 +1,6 @@
 ---
-title: "How Code and Theory and Vercel ensure speed and reliability for news organizations and publishers - Vercel"
 render_with_liquid: false
+title: "How Code and Theory and Vercel ensure speed and reliability for news organizations and publishers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/break-the-news-not-the-site"
 date: "2024-10-31"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Code and Theory partners with Vercel to deliver breaking news with high performance and uptime. News organizations RealClearPolitics and Minnesota Star Tribune upgrade their digital infrastructure to ..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 31, 2024
 
 2024年10月31日

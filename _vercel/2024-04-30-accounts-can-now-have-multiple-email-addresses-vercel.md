@@ -1,6 +1,6 @@
 ---
-title: "Accounts can now have multiple email addresses - Vercel"
 render_with_liquid: false
+title: "Accounts can now have multiple email addresses - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/accounts-can-now-have-multiple-email-addresses"
 date: "2024-04-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 30, 2024
 
 2024年4月30日

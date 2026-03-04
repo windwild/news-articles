@@ -1,6 +1,6 @@
 ---
-title: "GPT 5.3 Codex is now on AI Gateway - Vercel"
 render_with_liquid: false
+title: "GPT 5.3 Codex is now on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gpt-5-3-codex-is-now-on-ai-gateway"
 date: "2026-02-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access OpenAI's newest model GPT 5.3 Codex via Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 24, 2026
 
 2026 年 2 月 24 日

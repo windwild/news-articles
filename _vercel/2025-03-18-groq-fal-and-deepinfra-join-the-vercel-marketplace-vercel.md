@@ -1,6 +1,6 @@
 ---
-title: "Groq, fal, and DeepInfra join the Vercel Marketplace  - Vercel"
 render_with_liquid: false
+title: "Groq, fal, and DeepInfra join the Vercel Marketplace  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/groq-fal-and-deepinfra-join-the-vercel-marketplace"
 date: "2025-03-18"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Groq, fal, and DeepInfra now have first-party AI integrations available on the Vercel Marketplace for all users. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 18, 2025
 
 2025年3月18日

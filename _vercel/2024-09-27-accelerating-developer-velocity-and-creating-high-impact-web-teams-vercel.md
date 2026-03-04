@@ -1,6 +1,6 @@
 ---
-title: "Accelerating developer velocity and creating high-impact web teams - Vercel"
 render_with_liquid: false
+title: "Accelerating developer velocity and creating high-impact web teams - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/accelerating-developer-velocity-and-creating-high-impact-web-teams"
 date: "2024-09-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Transforming team dynamics by shifting focus from infrastructure management to innovation and delivering value."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 27, 2024
 
 2024 年 9 月 27 日

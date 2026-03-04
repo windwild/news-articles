@@ -1,6 +1,6 @@
 ---
-title: "Osaka (Japan) is now available on the Edge Network - Vercel"
 render_with_liquid: false
+title: "Osaka (Japan) is now available on the Edge Network - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/osaka-japan-is-now-available-on-the-edge-network"
 date: "2022-07-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 13, 2022
 
 2022年7月13日

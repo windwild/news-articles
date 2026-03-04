@@ -1,6 +1,6 @@
 ---
-title: "MongoDB and Vercel: from idea to global fullstack app in seconds - Vercel"
 render_with_liquid: false
+title: "MongoDB and Vercel: from idea to global fullstack app in seconds - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/mongodb-and-vercel-from-idea-to-global-fullstack-app-in-seconds"
 date: "2022-06-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "At this year's MongoDB World, we announced the MongoDB and Vercel integration—and shared our vision for enabling developers to create at the moment of inspiration. Let’s explore how MongoDB and Ve..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 13, 2022
 
 2022年6月13日

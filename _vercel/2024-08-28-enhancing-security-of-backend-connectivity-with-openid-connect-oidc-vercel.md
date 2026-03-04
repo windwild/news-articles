@@ -1,6 +1,6 @@
 ---
-title: "Enhancing security of backend connectivity with OpenID Connect (OIDC) - Vercel"
 render_with_liquid: false
+title: "Enhancing security of backend connectivity with OpenID Connect (OIDC) - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/enhancing-security-of-backend-connectivity-with-openid-connect"
 date: "2024-08-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel OpenID Connect support helps you replace long-lived credentials with temporary tokens to reduce risk."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 28, 2024
 
 2024 年 8 月 28 日

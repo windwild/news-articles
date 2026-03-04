@@ -1,6 +1,6 @@
 ---
-title: "Understanding cookies - Vercel"
 render_with_liquid: false
+title: "Understanding cookies - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/understanding-cookies"
 date: "2023-11-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how cookies function, how they are used by websites, and the importance of managing them for privacy and security."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 1, 2023
 
 2023 年 11 月 1 日

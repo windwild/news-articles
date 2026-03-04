@@ -1,6 +1,6 @@
 ---
-title: "Improvements to Vercel Secure Compute builds provisioning time - Vercel"
 render_with_liquid: false
+title: "Improvements to Vercel Secure Compute builds provisioning time - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvements-to-vercel-secure-compute-builds-provisioning-time"
 date: "2024-11-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 8, 2024
 
 2024 年 11 月 8 日

@@ -1,6 +1,6 @@
 ---
-title: "Vercel Knowledge Base - Vercel"
 render_with_liquid: false
+title: "Vercel Knowledge Base - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-knowledge-base"
 date: "2025-12-16"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A database of tutorials, videos, and best practices for building on Vercel, written by engineers from across the company."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 16, 2025
 
 2025 年 12 月 16 日

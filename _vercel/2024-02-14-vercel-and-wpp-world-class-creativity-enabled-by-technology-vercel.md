@@ -1,6 +1,6 @@
 ---
-title: "Vercel and WPP: World-class creativity enabled by technology - Vercel"
 render_with_liquid: false
+title: "Vercel and WPP: World-class creativity enabled by technology - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-wpp-creativity-enabled-by-technology"
 date: "2024-02-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel and WPP: World-class creativity enabled by technology, with six trends driving the future of the web."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 14, 2024
 
 2024年2月14日

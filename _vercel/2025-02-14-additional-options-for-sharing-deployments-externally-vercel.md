@@ -1,6 +1,6 @@
 ---
-title: "Additional options for sharing deployments externally - Vercel"
 render_with_liquid: false
+title: "Additional options for sharing deployments externally - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/additional-options-for-sharing-deployments-externally"
 date: "2025-02-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now share any Vercel Preview Deployment, including those for specific commits, with external collaborators. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 14, 2025
 
 2025 年 2 月 14 日

@@ -1,6 +1,6 @@
 ---
-title: "Advanced Project Settings on Vercel - Vercel"
 render_with_liquid: false
+title: "Advanced Project Settings on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/advanced-project-settings"
 date: "2020-02-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Fully customize your project’s behaviour or hit the ground running using our new framework presets."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 6, 2020
 
 2020 年 2 月 6 日

@@ -1,6 +1,6 @@
 ---
-title: "Vercel Blob CLI is now available - Vercel"
 render_with_liquid: false
+title: "Vercel Blob CLI is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-blob-cli-is-now-available"
 date: "2025-06-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Vercel CLI now includes blob commands, allowing you to manage your Vercel Blob storage directly from the terminal. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 24, 2025
 
 2025年6月24日

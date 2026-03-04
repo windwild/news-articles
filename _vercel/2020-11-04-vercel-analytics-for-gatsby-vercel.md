@@ -1,6 +1,6 @@
 ---
-title: "Vercel Analytics for Gatsby - Vercel"
 render_with_liquid: false
+title: "Vercel Analytics for Gatsby - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/gatsby-analytics"
 date: "2020-11-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Starting today, Vercel Analytics is available for Gatsby projects – without any configuration."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 4, 2020
 
 2020 年 11 月 4 日

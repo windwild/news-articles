@@ -1,6 +1,6 @@
 ---
-title: "The no-nonsense guide to composable commerce - Vercel"
 render_with_liquid: false
+title: "The no-nonsense guide to composable commerce - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-no-nonsense-guide-to-composable-commerce"
 date: "2025-04-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Composable commerce projects frequently become overly complex, leading to missed objectives and unnecessary costs. At Vercel, we take a no-nonsense approach to composable commerce that's solely focuse..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 1, 2025
 
 2025 年 4 月 1 日

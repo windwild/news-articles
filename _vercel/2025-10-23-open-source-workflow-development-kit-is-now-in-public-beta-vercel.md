@@ -1,6 +1,6 @@
 ---
-title: "Open source Workflow Development Kit is now in public beta - Vercel"
 render_with_liquid: false
+title: "Open source Workflow Development Kit is now in public beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/open-source-workflow-dev-kit-is-now-in-public-beta"
 date: "2025-10-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Turn TypeScript functions into durable, reliable workflows with automatic retries, persistence, and observability built in."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 23, 2025
 
 2025 年 10 月 23 日

@@ -1,6 +1,6 @@
 ---
-title: "AI Integrations and playground in the Vercel Dashboard - Vercel"
 render_with_liquid: false
+title: "AI Integrations and playground in the Vercel Dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-integration-and-playground-in-the-vercel-dashboard"
 date: "2024-02-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 8, 2024
 
 2024 年 2 月 8 日

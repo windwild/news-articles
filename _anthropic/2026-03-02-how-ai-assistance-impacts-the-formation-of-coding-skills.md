@@ -1,6 +1,6 @@
 ---
-title: "How AI assistance impacts the formation of coding skills"
 render_with_liquid: false
+title: "How AI assistance impacts the formation of coding skills"
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/AI-assistance-coding-skills"
 scraped_at: "2026-03-02T09:21:18.652503412+00:00"
@@ -8,8 +8,9 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Alignment
 
 对齐

@@ -1,6 +1,6 @@
 ---
-title: "Automatic recursion protection for Vercel Functions - Vercel"
 render_with_liquid: false
+title: "Automatic recursion protection for Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatic-recursion-protection-for-vercel-serverless-functions"
 date: "2023-05-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel now has automatic recursion protection for Vercel Functions. This provides safety against your code inadvertently triggering itself repeatedly, incurring unintentional usage."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 11, 2023
 
 2023 年 5 月 11 日

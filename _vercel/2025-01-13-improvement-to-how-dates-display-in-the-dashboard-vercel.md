@@ -1,6 +1,6 @@
 ---
-title: "Improvement to how dates display in the dashboard - Vercel"
 render_with_liquid: false
+title: "Improvement to how dates display in the dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvement-to-how-dates-display-in-the-dashboard"
 date: "2025-01-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Dates across the dashboard now provide more precision. For the first three days will show a relative date, and after that, they switch to absolute dates and times."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 13, 2025
 
 2025年1月13日

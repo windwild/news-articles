@@ -1,6 +1,6 @@
 ---
-title: "Bulk upgrade deprecated Node.js versions - Vercel"
 render_with_liquid: false
+title: "Bulk upgrade deprecated Node.js versions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bulk-upgrade-deprecated-node-js-versions"
 date: "2025-08-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Upgrade all deprecated Node.js projects in one click from your Vercel Dashboard. Select all projects and switch their runtime to the latest version: Node.js 22."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 8, 2025
 
 2025 年 8 月 8 日

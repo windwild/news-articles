@@ -1,6 +1,6 @@
 ---
-title: "Gemini 3.1 Pro is live on AI Gateway - Vercel"
 render_with_liquid: false
+title: "Gemini 3.1 Pro is live on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gemini-3-1-pro-is-live-on-ai-gateway"
 date: "2026-02-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access Google's newest model, Gemini 3.1 Pro Preview via Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 19, 2026
 
 2026 年 2 月 19 日

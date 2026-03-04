@@ -1,6 +1,6 @@
 ---
-title: "Faster defaults for Vercel Function CPU and memory - Vercel"
 render_with_liquid: false
+title: "Faster defaults for Vercel Function CPU and memory - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-defaults-for-vercel-function-cpu-and-memory"
 date: "2024-04-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 26, 2024
 
 2024 年 4 月 26 日

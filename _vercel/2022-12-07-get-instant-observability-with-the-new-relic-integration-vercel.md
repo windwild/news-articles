@@ -1,6 +1,6 @@
 ---
-title: "Get instant observability with the New Relic integration - Vercel"
 render_with_liquid: false
+title: "Get instant observability with the New Relic integration - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/get-instant-observability-with-the-new-relic-integration"
 date: "2022-12-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 7, 2022
 
 2022 年 12 月 7 日

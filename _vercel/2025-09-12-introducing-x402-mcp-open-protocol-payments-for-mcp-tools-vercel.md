@@ -1,6 +1,6 @@
 ---
-title: "Introducing x402-mcp: Open protocol payments for MCP tools - Vercel"
 render_with_liquid: false
+title: "Introducing x402-mcp: Open protocol payments for MCP tools - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools"
 date: "2025-09-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We built x402-mcp to integrate x402 payments with Model Context Protocol (MCP) servers and the Vercel AI SDK."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 12, 2025
 
 2025 年 9 月 12 日

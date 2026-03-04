@@ -1,6 +1,6 @@
 ---
-title: "Vercel acquires Grep to accelerate code search - Vercel"
 render_with_liquid: false
+title: "Vercel acquires Grep to accelerate code search - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-acquires-grep"
 date: "2024-11-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Announcing the acquisition of Grep to further our mission of helping developers work and ship faster. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 20, 2024
 
 2024 年 11 月 20 日

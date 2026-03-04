@@ -1,6 +1,6 @@
 ---
-title: "Vercel collaborates with OpenAI for GPT-5 launch - Vercel"
 render_with_liquid: false
+title: "Vercel collaborates with OpenAI for GPT-5 launch - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-collaborates-with-openai-for-gpt-5-launch"
 date: "2025-08-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The GPT-5 family of models released today, are now available through AI Gateway and are in production on our own v0.dev applications. Thanks to OpenAI, Vercel has been testing these models for a few w..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 7, 2025
 
 2025 年 8 月 7 日

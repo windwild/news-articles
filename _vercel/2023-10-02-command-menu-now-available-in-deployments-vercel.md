@@ -1,6 +1,6 @@
 ---
-title: "Command Menu now available in Deployments - Vercel"
 render_with_liquid: false
+title: "Command Menu now available in Deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/command-menu-now-available-in-deployments"
 date: "2023-10-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now use ⌘K (or Ctrl+K on Windows) to open the Command Menu on any deployment where the Vercel Toolbar is enabled, including production and localhost. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 2, 2023
 
 2023 年 10 月 2 日

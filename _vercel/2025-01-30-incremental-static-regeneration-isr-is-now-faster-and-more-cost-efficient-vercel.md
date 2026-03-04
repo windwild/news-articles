@@ -1,6 +1,6 @@
 ---
-title: "Incremental Static Regeneration (ISR) is now faster and more cost-efficient - Vercel"
 render_with_liquid: false
+title: "Incremental Static Regeneration (ISR) is now faster and more cost-efficient - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/incremental-static-regeneration-is-now-faster-and-cheaper"
 date: "2025-01-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Incremental Static Regeneration (ISR) now faster and cheaper on Vercel. Writes to the ISR cache are now compressed by default, and the ISR cache location is now available in all regions and "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 30, 2025
 
 2025 年 1 月 30 日

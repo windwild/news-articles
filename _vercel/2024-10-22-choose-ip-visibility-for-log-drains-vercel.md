@@ -1,6 +1,6 @@
 ---
-title: "Choose IP visibility for Log Drains - Vercel"
 render_with_liquid: false
+title: "Choose IP visibility for Log Drains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/choose-ip-visibility-for-log-drains"
 date: "2024-10-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 22, 2024
 
 2024年10月22日

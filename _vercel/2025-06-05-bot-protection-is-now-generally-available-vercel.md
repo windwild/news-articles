@@ -1,6 +1,6 @@
 ---
-title: "Bot Protection is now generally available - Vercel"
 render_with_liquid: false
+title: "Bot Protection is now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bot-protection-is-now-generally-available"
 date: "2025-06-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel's Bot Protection managed ruleset allows users to mitigate unwanted bot activity on their projects in a single click"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 5, 2025
 
 2025年6月5日

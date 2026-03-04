@@ -1,6 +1,6 @@
 ---
-title: "Update regarding Vercel service disruption on October 20, 2025 - Vercel"
 render_with_liquid: false
+title: "Update regarding Vercel service disruption on October 20, 2025 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/update-regarding-vercel-service-disruption-on-october-20-2025"
 date: "2025-10-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Update regarding Vercel service disruption on October 20, 2025. Read the summary of impact, timeline, root cause, and steps we’re taking to improve reliability."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 21, 2025
 
 2025年10月21日

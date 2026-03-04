@@ -1,6 +1,6 @@
 ---
-title: "Fluid compute now supports ISR background and on-demand revalidation - Vercel"
 render_with_liquid: false
+title: "Fluid compute now supports ISR background and on-demand revalidation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/fluid-compute-now-supports-isr-background-and-on-demand-revalidation"
 date: "2025-05-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Fluid compute now supports both background and on-demand revalidations across all Vercel projects. This update brings the same performance and efficiency improvements to on-demand cache updates, with ..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 30, 2025
 
 2025 年 5 月 30 日

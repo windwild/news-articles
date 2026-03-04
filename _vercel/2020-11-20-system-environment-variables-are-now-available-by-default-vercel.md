@@ -1,6 +1,6 @@
 ---
-title: "System Environment Variables are now available by default - Vercel"
 render_with_liquid: false
+title: "System Environment Variables are now available by default - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/system-environment-variables-are-now-available-by-default"
 date: "2020-11-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 20, 2020
 
 2020 年 11 月 20 日

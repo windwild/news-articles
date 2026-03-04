@@ -1,6 +1,6 @@
 ---
-title: "Navigating Web3 dynamism: Ledger's solution to traffic spike stability with Vercel - Vercel"
 render_with_liquid: false
+title: "Navigating Web3 dynamism: Ledger's solution to traffic spike stability with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ledgers-solution-to-traffic-spike-stability-with-vercel"
 date: "2024-10-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Discover how Ledger, a leader in hardware wallets, transformed their online presence to handle unpredictable Web3 traffic spikes. Learn how Vercel and Next.js improved their performance, boosting rele..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 4, 2024
 
 2024年10月4日

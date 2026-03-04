@@ -1,6 +1,6 @@
 ---
-title: "Papercuts, small feature requests, and bug fixes - Vercel"
 render_with_liquid: false
+title: "Papercuts, small feature requests, and bug fixes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/papercuts-small-feature-requests-and-bug-fixes"
 date: "2021-12-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 23, 2021
 
 2021年12月23日

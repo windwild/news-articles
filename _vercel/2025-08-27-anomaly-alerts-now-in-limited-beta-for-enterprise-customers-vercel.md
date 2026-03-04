@@ -1,6 +1,6 @@
 ---
-title: "Anomaly alerts now in limited beta for Enterprise customers - Vercel"
 render_with_liquid: false
+title: "Anomaly alerts now in limited beta for Enterprise customers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/anomaly-alerts-now-in-limited-beta-for-enterprise-customers"
 date: "2025-08-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Enterprise customers with Observability Plus can now receive anomaly alerts through the limited beta"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 27, 2025
 
 2025 年 8 月 27 日

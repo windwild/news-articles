@@ -1,6 +1,6 @@
 ---
-title: "Skew Protection is now enabled by default for new projects - Vercel"
 render_with_liquid: false
+title: "Skew Protection is now enabled by default for new projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/skew-protection-is-now-enabled-by-default-for-new-projects"
 date: "2024-11-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 19, 2024
 
 2024 年 11 月 19 日

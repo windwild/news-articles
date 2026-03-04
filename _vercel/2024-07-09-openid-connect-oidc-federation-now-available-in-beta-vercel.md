@@ -1,6 +1,6 @@
 ---
-title: "OpenID Connect (OIDC) Federation now available in Beta - Vercel"
 render_with_liquid: false
+title: "OpenID Connect (OIDC) Federation now available in Beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/oidc-federation-now-available-in-beta"
 date: "2024-07-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 9, 2024
 
 2024 年 7 月 9 日

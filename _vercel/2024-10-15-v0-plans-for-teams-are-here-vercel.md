@@ -1,6 +1,6 @@
 ---
-title: "v0 plans for teams are here - Vercel"
 render_with_liquid: false
+title: "v0 plans for teams are here - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/v0-plans-for-teams"
 date: "2024-10-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Introducing v0 Team and Enterprise plans—designed for secure and efficient collaboration. Team can share Projects, chats, and resources with higher messaging limits. Enterprises can secure access wi..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 15, 2024
 
 2024年10月15日

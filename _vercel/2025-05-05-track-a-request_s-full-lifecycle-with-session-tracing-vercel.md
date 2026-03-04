@@ -1,6 +1,6 @@
 ---
-title: "Track a request's full lifecycle with session tracing - Vercel"
 render_with_liquid: false
+title: "Track a request's full lifecycle with session tracing - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/session-tracing-now-available"
 date: "2025-05-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel session tracing is now available on all plans, providing insight into steps Vercel's infrastructure took to serve a request alongside user code spans. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 5, 2025
 
 2025 年 5 月 5 日

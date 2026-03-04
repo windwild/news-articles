@@ -1,6 +1,6 @@
 ---
-title: "Investing in the Python ecosystem - Vercel"
 render_with_liquid: false
+title: "Investing in the Python ecosystem - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/investing-in-the-python-ecosystem"
 date: "2025-12-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel welcomes the Gel Data team and deepens support for the Python ecosystem through PSF sponsorships, community funding, and improved Python developer tools."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 2, 2025
 
 2025 年 12 月 2 日

@@ -1,6 +1,6 @@
 ---
-title: "Split Web Analytics data by any dimension - Vercel"
 render_with_liquid: false
+title: "Split Web Analytics data by any dimension - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/split-web-analytics-data-by-any-dimension"
 date: "2025-12-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Web Analytics now supports splitting data by eleven dimensions, such as path, route, county, device, and more."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 12, 2025
 
 2025年12月12日

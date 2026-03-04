@@ -1,6 +1,6 @@
 ---
-title: "Generate shareable snapshots of Observability charts - Vercel"
 render_with_liquid: false
+title: "Generate shareable snapshots of Observability charts - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/generate-shareable-snapshots-of-observability-charts"
 date: "2025-07-28"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: " Quickly share Observability charts with your team. Copy any chart with CMD+C to get a URL that previews the exact view, including filters and timeline data."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 28, 2025
 
 2025年7月28日

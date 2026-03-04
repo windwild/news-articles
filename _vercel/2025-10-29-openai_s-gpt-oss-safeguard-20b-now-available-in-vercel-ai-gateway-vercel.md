@@ -1,6 +1,6 @@
 ---
-title: "OpenAI's GPT-OSS-Safeguard-20B now available in Vercel AI Gateway - Vercel"
 render_with_liquid: false
+title: "OpenAI's GPT-OSS-Safeguard-20B now available in Vercel AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/openai-gpt-oss-safeguard-20b-now-available-in-vercel-ai-gateway"
 date: "2025-10-29"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can now access OpenAI's GPT-OSS-Safeguard-20B with Vercel's AI Gateway with no other provider accounts required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 29, 2025
 
 2025 年 10 月 29 日

@@ -1,6 +1,6 @@
 ---
-title: "Introducing Vercel for Platforms - Vercel"
 render_with_liquid: false
+title: "Introducing Vercel for Platforms - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-vercel-for-platforms"
 date: "2025-12-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We're launching Vercel for Platforms, a comprehensive solution for building multi-customer platforms."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 5, 2025
 
 2025 年 12 月 5 日

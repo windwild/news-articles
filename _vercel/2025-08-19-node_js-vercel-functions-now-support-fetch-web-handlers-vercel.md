@@ -1,6 +1,6 @@
 ---
-title: "Node.js Vercel Functions now support fetch web handlers - Vercel"
 render_with_liquid: false
+title: "Node.js Vercel Functions now support fetch web handlers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-vercel-functions-now-support-fetch-web-handlers"
 date: "2025-08-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Functions running on the Node.js runtime now support fetch web handlers to enhance interoperability across runtimes and frameworks."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 19, 2025
 
 2025 年 8 月 19 日

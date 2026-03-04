@@ -1,6 +1,6 @@
 ---
-title: "Vercel Ship 2024 recap - Vercel"
 render_with_liquid: false
+title: "Vercel Ship 2024 recap - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-ship-2024"
 date: "2024-05-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Ship 2024 highlighted the integrations, ecosystem, and teams building the web's best products. Read the recap to catch up on all our announcements."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 24, 2024
 
 2024年5月24日

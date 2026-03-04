@@ -1,6 +1,6 @@
 ---
-title: "How Indent delivers secure access with Next.js and Vercel - Vercel"
 render_with_liquid: false
+title: "How Indent delivers secure access with Next.js and Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-indent-delivers-secure-access-with-next.js-and-vercel"
 date: "2023-02-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Indent"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 17, 2023
 
 2023 年 2 月 17 日

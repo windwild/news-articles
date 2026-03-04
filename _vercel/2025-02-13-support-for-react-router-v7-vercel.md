@@ -1,6 +1,6 @@
 ---
-title: "Support for React Router v7 - Vercel"
 render_with_liquid: false
+title: "Support for React Router v7 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-for-react-router-v7"
 date: "2025-02-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports React Router v7 applications when used as a framework. This includes support for server-rendered React Router applications using Vercel's Fluid compute."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 13, 2025
 
 2025 年 2 月 13 日

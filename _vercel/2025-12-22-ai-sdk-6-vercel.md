@@ -1,6 +1,6 @@
 ---
-title: "AI SDK 6 - Vercel"
 render_with_liquid: false
+title: "AI SDK 6 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-6"
 date: "2025-12-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Introducing agents, tool execution approval, DevTools, full MCP support, reranking, image editing, and more."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 22, 2025
 
 2025 年 12 月 22 日

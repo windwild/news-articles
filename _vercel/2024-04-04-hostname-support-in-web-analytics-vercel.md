@@ -1,6 +1,6 @@
 ---
-title: "Hostname support in Web Analytics - Vercel"
 render_with_liquid: false
+title: "Hostname support in Web Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/hostname-support-in-web-analytics"
 date: "2024-04-04"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 4, 2024
 
 2024年4月4日

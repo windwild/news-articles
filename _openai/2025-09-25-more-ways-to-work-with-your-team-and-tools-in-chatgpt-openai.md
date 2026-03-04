@@ -1,6 +1,6 @@
 ---
-title: "More ways to work with your team and tools in ChatGPT | OpenAI"
 render_with_liquid: false
+title: "More ways to work with your team and tools in ChatGPT | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/more-ways-to-work-with-your-team"
 date: "2025-09-25"
@@ -9,8 +9,9 @@ language: "en-US"
 translated: true
 description: "ChatGPT business plans now support shared projects, smarter connectors, and enhanced compliance features to help teams work faster and more securely."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 September 25, 2025
 
 2025年9月25日

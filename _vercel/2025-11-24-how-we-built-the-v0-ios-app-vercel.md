@@ -1,6 +1,6 @@
 ---
-title: " How we built the v0 iOS app - Vercel"
 render_with_liquid: false
+title: " How we built the v0 iOS app - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-we-built-the-v0-ios-app"
 date: "2025-11-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The v0 engineering team breaks down the challenges and decisions behind building the v0 app for iOS."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 24, 2025
 
 2025 年 11 月 24 日

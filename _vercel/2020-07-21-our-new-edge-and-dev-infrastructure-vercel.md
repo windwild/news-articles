@@ -1,6 +1,6 @@
 ---
-title: "Our new Edge and Dev infrastructure - Vercel"
 render_with_liquid: false
+title: "Our new Edge and Dev infrastructure - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/new-edge-dev-infrastructure"
 date: "2020-07-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Introducing major end-to-end enhancements from a better development experience to serving pages even faster."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 21, 2020
 
 2020 年 7 月 21 日

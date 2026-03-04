@@ -1,6 +1,6 @@
 ---
-title: "Faster domain aliasing for large-scale multi-tenant applications - Vercel"
 render_with_liquid: false
+title: "Faster domain aliasing for large-scale multi-tenant applications - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-domain-aliasing-for-large-scale-multi-tenant-applications"
 date: "2025-03-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Bulk aliasing for multi-tenant applications now runs significantly faster, reducing total aliasing time by up to 95%."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 14, 2025
 
 2025年3月14日

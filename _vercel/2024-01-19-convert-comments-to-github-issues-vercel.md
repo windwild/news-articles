@@ -1,6 +1,6 @@
 ---
-title: "Convert comments to GitHub Issues - Vercel"
 render_with_liquid: false
+title: "Convert comments to GitHub Issues - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/convert-comments-to-github-issues"
 date: "2024-01-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 19, 2024
 
 2024 年 1 月 19 日

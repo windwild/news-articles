@@ -1,6 +1,6 @@
 ---
-title: "Faster deploys with improved function caching - Vercel"
 render_with_liquid: false
+title: "Faster deploys with improved function caching - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-deploys-with-improved-function-caching"
 date: "2026-01-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Functions are now cached more effectively during deployment, saving 400ms-5s per build. Python, Go, Ruby, Rust, and   standalone functions benefit most."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 23, 2026
 
 2026 年 1 月 23 日

@@ -1,6 +1,6 @@
 ---
-title: "AI-enhanced search for Next.js documentation - Vercel"
 render_with_liquid: false
+title: "AI-enhanced search for Next.js documentation - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-enhanced-search-for-next-js-documentation"
 date: "2025-01-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "AI-powered Next.js docs search: Ask questions, review queries, copy code, and leave feedback."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 8, 2025
 
 2025 年 1 月 8 日

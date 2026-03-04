@@ -1,6 +1,6 @@
 ---
-title: "Upgrading Ruby v2.7 to v3.2 - Vercel"
 render_with_liquid: false
+title: "Upgrading Ruby v2.7 to v3.2 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/upgrading-ruby-v2-7-to-v3-2"
 date: "2023-11-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 22, 2023
 
 2023 年 11 月 22 日

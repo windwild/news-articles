@@ -1,6 +1,6 @@
 ---
-title: "Introducing Vercel Drains: Complete observability data, anywhere - Vercel"
 render_with_liquid: false
+title: "Introducing Vercel Drains: Complete observability data, anywhere - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-vercel-drains"
 date: "2025-09-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Drains give you a single way to stream observability data out of Vercel and into the systems your team already rely on."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 15, 2025
 
 2025 年 9 月 15 日

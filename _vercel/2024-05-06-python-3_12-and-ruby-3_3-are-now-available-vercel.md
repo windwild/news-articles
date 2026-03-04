@@ -1,6 +1,6 @@
 ---
-title: "Python 3.12 and Ruby 3.3 are now available - Vercel"
 render_with_liquid: false
+title: "Python 3.12 and Ruby 3.3 are now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/python-3-12-and-ruby-3-3-are-now-available"
 date: "2024-05-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 6, 2024
 
 2024年5月6日

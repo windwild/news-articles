@@ -1,6 +1,6 @@
 ---
-title: "Algolia cuts build times in half with ISR using Next.js on Vercel - Vercel"
 render_with_liquid: false
+title: "Algolia cuts build times in half with ISR using Next.js on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/algolia-cuts-build-times-in-half-with-isr-using-next-js-on-vercel"
 date: "2023-08-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "How Algolia cuts build times in half with ISR using Next.js on Vercel"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 9, 2023
 
 2023 年 8 月 9 日

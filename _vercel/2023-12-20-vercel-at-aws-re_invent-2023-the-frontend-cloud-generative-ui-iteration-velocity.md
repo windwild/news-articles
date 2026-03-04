@@ -1,6 +1,6 @@
 ---
-title: "Vercel at AWS re:Invent 2023: The Frontend Cloud, Generative UI, iteration velocity - Vercel"
 render_with_liquid: false
+title: "Vercel at AWS re:Invent 2023: The Frontend Cloud, Generative UI, iteration velocity - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/aws-reinvent-2023-iteration-velocity"
 date: "2023-12-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel at AWS re:Invent 2023: The Frontend Cloud, Generative UI, iteration velocity with Malte Ubl"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 20, 2023
 
 Dec 20, 2023

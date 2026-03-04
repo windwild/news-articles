@@ -1,6 +1,6 @@
 ---
-title: "Observability for Edge Requests now includes more traffic parameters - Vercel"
 render_with_liquid: false
+title: "Observability for Edge Requests now includes more traffic parameters - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/observability-for-edge-requests-now-includes-more-traffic-parameters"
 date: "2025-02-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Unlock powerful insights with Edge Request Observability’s advanced breakdowns. Analyze traffic by User Agent, Client IP, JA4, and Referrer to spot outliers and enhance security."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 24, 2025
 
 2025 年 2 月 24 日

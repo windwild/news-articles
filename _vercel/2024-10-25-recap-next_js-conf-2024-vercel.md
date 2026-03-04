@@ -1,6 +1,6 @@
 ---
-title: "Recap: Next.js Conf 2024 - Vercel"
 render_with_liquid: false
+title: "Recap: Next.js Conf 2024 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/recap-next-js-conf-2024"
 date: "2024-10-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Next.js Conf 2024"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 25, 2024
 
 2024 年 10 月 25 日

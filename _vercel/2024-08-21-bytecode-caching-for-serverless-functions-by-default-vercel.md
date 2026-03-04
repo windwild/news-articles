@@ -1,6 +1,6 @@
 ---
-title: "Bytecode caching for Serverless Functions by default - Vercel"
 render_with_liquid: false
+title: "Bytecode caching for Serverless Functions by default - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bytecode-caching-for-serverless-functions-by-default"
 date: "2024-08-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 21, 2024
 
 2024 年 8 月 21 日

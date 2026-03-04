@@ -1,6 +1,6 @@
 ---
-title: "How to choose the best rendering strategy for your app - Vercel"
 render_with_liquid: false
+title: "How to choose the best rendering strategy for your app - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-to-choose-the-best-rendering-strategy-for-your-app"
 date: "2024-07-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Demystify Next.js rendering strategies: SSG, SSR, CSR, ISR, and PPR. Optimize your web apps for performance, SEO, and user experience. Learn when and how to use each approach with real-world examples ..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 23, 2024
 
 2024 年 7 月 23 日

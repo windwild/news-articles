@@ -1,6 +1,6 @@
 ---
-title: "Designing and building the Vercel Ship conference platform - Vercel"
 render_with_liquid: false
+title: "Designing and building the Vercel Ship conference platform - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/designing-and-building-the-vercel-ship-conference-platform"
 date: "2025-06-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Here's how we designed and built our Vercel Ship conference platform. We generated 15,000+ images and videos with tools like Flux, Veo 2, Runway, and Ideogram. Then, we moved to v0 for prototyping. Se..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 11, 2025
 
 2025年6月11日

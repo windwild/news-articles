@@ -1,6 +1,6 @@
 ---
-title: "Inspect your deployment source and build output files - Vercel"
 render_with_liquid: false
+title: "Inspect your deployment source and build output files - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/inspect-your-deployment-source-and-build-output-files"
 date: "2024-07-01"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 1, 2024
 
 2024年7月1日

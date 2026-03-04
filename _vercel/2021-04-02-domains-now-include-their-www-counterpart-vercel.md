@@ -1,6 +1,6 @@
 ---
-title: "Domains now include their `www` counterpart - Vercel"
 render_with_liquid: false
+title: "Domains now include their `www` counterpart - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/domains-now-include-their-www-counterpart"
 date: "2021-04-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 2, 2021
 
 2021年4月2日

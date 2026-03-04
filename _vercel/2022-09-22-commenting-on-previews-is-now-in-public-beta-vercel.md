@@ -1,6 +1,6 @@
 ---
-title: "Commenting on Previews is now in Public Beta - Vercel"
 render_with_liquid: false
+title: "Commenting on Previews is now in Public Beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/commenting-on-previews-is-now-in-public-beta"
 date: "2022-09-22"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "With comments, teams can give collaborative feedback directly on copy, components, interactions, and more right in your Preview Deployments."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 22, 2022
 
 2022 年 9 月 22 日

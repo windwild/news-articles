@@ -1,6 +1,6 @@
 ---
-title: "Manage Next.js Server Actions in the Vercel Firewall - Vercel"
 render_with_liquid: false
+title: "Manage Next.js Server Actions in the Vercel Firewall - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/manage-next-js-server-actions-in-the-vercel-firewall"
 date: "2025-10-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel Firewall and Observability Plus can now configure Custom Rules targeting specific server actions"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 24, 2025
 
 2025 年 10 月 24 日

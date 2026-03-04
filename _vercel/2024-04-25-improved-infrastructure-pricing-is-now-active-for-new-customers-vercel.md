@@ -1,6 +1,6 @@
 ---
-title: "Improved infrastructure pricing is now active for new customers - Vercel"
 render_with_liquid: false
+title: "Improved infrastructure pricing is now active for new customers - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-infrastructure-pricing-is-now-active-for-new-customers"
 date: "2024-04-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 25, 2024
 
 2024 年 4 月 25 日

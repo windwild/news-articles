@@ -1,6 +1,6 @@
 ---
-title: "waitUntil is now available for Vercel Functions - Vercel"
 render_with_liquid: false
+title: "waitUntil is now available for Vercel Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/waituntil-is-now-available-for-vercel-functions"
 date: "2024-05-10"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 10, 2024
 
 2024 年 5 月 10 日

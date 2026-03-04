@@ -1,6 +1,6 @@
 ---
-title: "Shai-Halud Supply Chain Campaign — Expanded Impact & Vercel Response - Vercel"
 render_with_liquid: false
+title: "Shai-Halud Supply Chain Campaign — Expanded Impact & Vercel Response - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/shai-halud-supply-chain-campaign-expanded-impact-and-vercel-response"
 date: "2025-09-16"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Ongoing Shai-Halud npm supply chain attacks affected popular packages. Vercel responded swiftly, secured builds, and notified impacted users."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 16, 2025
 
 2025 年 9 月 16 日

@@ -1,6 +1,6 @@
 ---
-title: "Run untrusted code with Vercel Sandbox, now generally available - Vercel"
 render_with_liquid: false
+title: "Run untrusted code with Vercel Sandbox, now generally available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-sandbox-is-now-generally-available"
 date: "2026-01-30"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "AI agents need secure, isolated environments that spin up instantly. Vercel Sandbox is now generally available with filesystem snapshots, container support, and production reliability."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 30, 2026
 
 2026 年 1 月 30 日

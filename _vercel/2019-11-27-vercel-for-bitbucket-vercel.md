@@ -1,6 +1,6 @@
 ---
-title: "Vercel for Bitbucket - Vercel"
 render_with_liquid: false
+title: "Vercel for Bitbucket - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/bitbucket"
 date: "2019-11-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Push code to Bitbucket and automatically deploy with Vercel."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 27, 2019
 
 2019 年 11 月 27 日

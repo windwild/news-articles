@@ -1,6 +1,6 @@
 ---
-title: "Advanced egress firewall filtering for Vercel Sandbox - Vercel"
 render_with_liquid: false
+title: "Advanced egress firewall filtering for Vercel Sandbox - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/advanced-egress-firewall-filtering-for-vercel-sandbox"
 date: "2026-02-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel sandboxes now allow you to restrict access to the internet to keep exfiltration risks to a minimum"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 11, 2026
 
 2026年2月11日

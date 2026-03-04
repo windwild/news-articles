@@ -1,6 +1,6 @@
 ---
-title: "How Vercel enables Wunderman Thompson to launch global brands - Vercel"
 render_with_liquid: false
+title: "How Vercel enables Wunderman Thompson to launch global brands - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-vercel-enables-wunderman-thompson-to-launch-global-brands"
 date: "2023-01-17"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Launching a global brand with Vercel and Wunderman Thompson, unlocking the potential of international brands through strategic, digital-led growth."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 17, 2023
 
 2023年1月17日

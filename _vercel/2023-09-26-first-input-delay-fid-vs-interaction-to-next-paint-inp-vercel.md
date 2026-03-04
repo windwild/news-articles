@@ -1,6 +1,6 @@
 ---
-title: "First Input Delay (FID) vs. Interaction to Next Paint (INP) - Vercel"
 render_with_liquid: false
+title: "First Input Delay (FID) vs. Interaction to Next Paint (INP) - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/first-input-delay-vs-interaction-to-next-paint"
 date: "2023-09-26"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn about the differences between FID and INP and how to optimize your website's INP score."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 26, 2023
 
 2023 年 9 月 26 日

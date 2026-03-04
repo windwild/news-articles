@@ -1,6 +1,6 @@
 ---
-title: "Up to 80% pricing reduction for Web Analytics - Vercel"
 render_with_liquid: false
+title: "Up to 80% pricing reduction for Web Analytics - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/up-to-80-pricing-reduction-for-web-analytics"
 date: "2025-05-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Hobby and Pro teams on Vercel now have higher usage limits on Web Analytics, including reduced costs and smaller billable increments"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 8, 2025
 
 2025 年 5 月 8 日

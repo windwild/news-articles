@@ -1,6 +1,6 @@
 ---
-title: "Tekla's ecommerce evolution: harnessing flexibility with Vercel and Medusa - Vercel"
 render_with_liquid: false
+title: "Tekla's ecommerce evolution: harnessing flexibility with Vercel and Medusa - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/teklas-ecommerce-evolution-harnessing-flexibility-with-vercel-and-medusa"
 date: "2023-10-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "How Tekla uses Vercel and Medusa to provide speed, top performance, and flexibility to global ecommerce brands."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 11, 2023
 
 2023 年 10 月 11 日

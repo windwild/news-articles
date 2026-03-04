@@ -1,6 +1,6 @@
 ---
-title: "Use AI Gateway with Clawdbot - Vercel"
 render_with_liquid: false
+title: "Use AI Gateway with Clawdbot - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/use-ai-gateway-with-clawdbot"
 date: "2026-01-24"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "You can use Vercel AI Gateway with Clawdbot and access hundreds of models with no additional API keys required."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 24, 2026
 
 2026 年 1 月 24 日

@@ -1,6 +1,6 @@
 ---
-title: "Observability Plus replacing legacy Monitoring - Vercel"
 render_with_liquid: false
+title: "Observability Plus replacing legacy Monitoring - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/observability-plus-replacing-legacy-monitoring"
 date: "2025-09-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Observability Plus will replace the legacy Monitoring subscription. Pro customers using Monitoring should migrate to Observability Plus to author custom queries on their Vercel data."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 19, 2025
 
 2025 年 9 月 19 日

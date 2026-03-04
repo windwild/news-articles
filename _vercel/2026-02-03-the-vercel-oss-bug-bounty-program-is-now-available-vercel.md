@@ -1,6 +1,6 @@
 ---
-title: "The Vercel OSS Bug Bounty program is now available - Vercel"
 render_with_liquid: false
+title: "The Vercel OSS Bug Bounty program is now available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-vercel-oss-bug-bounty-program-is-now-available"
 date: "2026-02-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel is opening its open source software bug bounty program to the public for researchers find vulnerabilities and make OSS safer"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 3, 2026
 
 2026年2月3日

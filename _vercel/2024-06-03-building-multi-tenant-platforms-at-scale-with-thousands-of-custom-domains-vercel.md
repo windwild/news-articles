@@ -1,6 +1,6 @@
 ---
-title: "Building multi-tenant platforms at scale with thousands of custom domains - Vercel"
 render_with_liquid: false
+title: "Building multi-tenant platforms at scale with thousands of custom domains - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/mintlify-scaling-a-powerful-documentation-platform-with-vercel"
 date: "2024-06-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how Mintlify built and scaled their multi-tenant docs platform with custom domains"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 3, 2024
 
 2024年6月3日

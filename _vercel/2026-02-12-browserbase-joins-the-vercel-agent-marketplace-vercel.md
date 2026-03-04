@@ -1,6 +1,6 @@
 ---
-title: "Browserbase joins the Vercel Agent Marketplace - Vercel"
 render_with_liquid: false
+title: "Browserbase joins the Vercel Agent Marketplace - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/browserbase-joins-the-vercel-agent-marketplace"
 date: "2026-02-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Browserbase is now available on the Vercel Marketplace, allowing teams to run browser automation for AI agents without managing infrastructure. "
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 12, 2026
 
 2026 年 2 月 12 日

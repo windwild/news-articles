@@ -1,6 +1,6 @@
 ---
-title: "Introducing GPT-5.2 | OpenAI"
 render_with_liquid: false
+title: "Introducing GPT-5.2 | OpenAI"
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-gpt-5-2"
 date: "2025-12-11"
@@ -10,8 +10,9 @@ translated: true
 description: "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to pow..."
 tags: ["Product"]
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 December 11, 2025
 
 2025年12月11日

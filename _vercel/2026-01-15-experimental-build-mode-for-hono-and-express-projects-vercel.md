@@ -1,6 +1,6 @@
 ---
-title: "Experimental build mode for Hono and Express projects - Vercel"
 render_with_liquid: false
+title: "Experimental build mode for Hono and Express projects - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/experimental-build-mode-hono-express"
 date: "2026-01-15"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Users can opt-in to an experimental build mode for backend frameworks like Hono or Express. The new behavior allows logs to be filtered by route, similar to Next.js and other frameworks. It also impro..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 15, 2026
 
 2026 年 1 月 15 日

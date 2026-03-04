@@ -1,6 +1,6 @@
 ---
-title: "v0-1.5-md & v0-1.5-lg now in beta on the Models API - Vercel"
 render_with_liquid: false
+title: "v0-1.5-md & v0-1.5-lg now in beta on the Models API - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/models-api-v0-1.5-beta"
 date: "2025-06-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Try v0-1.5-md and v0-1.5-lg in beta on the v0 Models API, now offering two new model sizes for more flexible performance and accuracy. Ideal for everything from quick responses to deep analysis."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 9, 2025
 
 2025 年 6 月 9 日

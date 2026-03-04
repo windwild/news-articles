@@ -1,6 +1,6 @@
 ---
-title: "Dependencies can now be installed with a custom command - Vercel"
 render_with_liquid: false
+title: "Dependencies can now be installed with a custom command - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/dependencies-can-now-be-installed-with-a-custom-command"
 date: "2020-11-11"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 11, 2020
 
 2020 年 11 月 11 日

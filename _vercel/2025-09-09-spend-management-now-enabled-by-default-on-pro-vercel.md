@@ -1,6 +1,6 @@
 ---
-title: "Spend Management now enabled by default on Pro - Vercel"
 render_with_liquid: false
+title: "Spend Management now enabled by default on Pro - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/spend-management-now-enabled-by-default-on-pro"
 date: "2025-09-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Pro teams can now add unlimited free Viewer seats so team members can more flexibly, and cost-efficiently collaborate."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 9, 2025
 
 2025 年 9 月 9 日

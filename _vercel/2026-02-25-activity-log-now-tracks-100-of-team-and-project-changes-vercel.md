@@ -1,6 +1,6 @@
 ---
-title: "Activity log now tracks 100% of team and project changes - Vercel"
 render_with_liquid: false
+title: "Activity log now tracks 100% of team and project changes - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/activity-log-now-tracks-100-of-team-and-project-changes"
 date: "2026-02-25"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "We've added 88 events to the activity log to ensure full coverage of changes to team or project settings"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 25, 2026
 
 2026 年 2 月 25 日

@@ -1,6 +1,6 @@
 ---
-title: "How Zapier scales product partnerships with v0 - Vercel"
 render_with_liquid: false
+title: "How Zapier scales product partnerships with v0 - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-zapier-scales-product-partnerships-with-v0"
 date: "2025-08-08"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The team behind Zapier’s embedded platform uses v0 to turn partner conversations into scalable integrations"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 8, 2025
 
 2025年8月8日

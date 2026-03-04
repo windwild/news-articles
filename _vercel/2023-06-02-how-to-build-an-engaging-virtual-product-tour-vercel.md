@@ -1,6 +1,6 @@
 ---
-title: "How to build an engaging virtual product tour - Vercel"
 render_with_liquid: false
+title: "How to build an engaging virtual product tour - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/designing-the-vercel-virtual-product-tour"
 date: "2023-06-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how and why we designed the Vercel virtual product tour to address some of the most prominent needs in our marketing funnel."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 2, 2023
 
 2023 年 6 月 2 日

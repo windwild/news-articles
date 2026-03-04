@@ -1,0 +1,31 @@
+---
+render_with_liquid: false
+title: "A hazard analysis framework for code synthesis large language models | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models"
+date: "2022-07-25"
+scraped_at: "2026-03-02T10:25:07.831056444+00:00"
+language: "en-US"
+translated: false
+tags: ["Safety & Alignment"]
+---
+
+July 25, 2022
+
+
+# A hazard analysis framework for code synthesis large language models
+
+[Read paper(opens in a new window)](https://arxiv.org/abs/2207.14157)
+
+![A Hazard Analysis Framework For Code Synthesis Large Language Models](images/a-hazard-analysis-framework-for-code-synthesis-large-language-models-openai/img_001.webp)
+
+
+
+## Abstract
+
+Codex, a large language model (LLM) trained on a variety of codebases, exceeds the previous state of the art in its capacity to synthesize and generate code. Although Codex provides a plethora of benefits, models that may generate code on such scale have significant limitations, alignment problems, the potential to be misused, and the possibility to increase the rate of progress in technical fields that may themselves have destabilizing impacts or have misuse potential. Yet such safety impacts are not yet known or remain to be explored. In this paper, we outline a hazard analysis framework constructed at OpenAI to uncover hazards or safety risks that the deployment of models like Codex may impose technically, socially, politically, and economically. The analysis is informed by a novel evaluation framework that determines the capacity of advanced code generation techniques against the complexity and expressivity of specification prompts, and their capability to understand and execute them relative to human ability.
+
+- [Codex](https://openai.com/research/index/?tags=codex)
+- [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
+- [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
+- [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)

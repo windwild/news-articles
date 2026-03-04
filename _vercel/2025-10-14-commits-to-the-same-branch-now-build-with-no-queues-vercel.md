@@ -1,6 +1,6 @@
 ---
-title: "Commits to the same branch now build with no queues - Vercel"
 render_with_liquid: false
+title: "Commits to the same branch now build with no queues - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/build-commits-to-the-same-branch-without-waiting"
 date: "2025-10-14"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Building and deploying applications within the same GitHub branch, such as main, is now faster when using concurrent builds."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Oct 14, 2025
 
 2025 年 10 月 14 日

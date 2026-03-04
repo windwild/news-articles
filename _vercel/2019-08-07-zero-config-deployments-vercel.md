@@ -1,6 +1,6 @@
 ---
-title: "Zero Config Deployments - Vercel"
 render_with_liquid: false
+title: "Zero Config Deployments - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/zero-config"
 date: "2019-08-07"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Deploy frontends and serverless functions without any configuration."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Aug 7, 2019
 
 2019年8月7日

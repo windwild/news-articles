@@ -1,6 +1,6 @@
 ---
-title: "Grok Imagine Video on AI Gateway - Vercel"
 render_with_liquid: false
+title: "Grok Imagine Video on AI Gateway - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/grok-imagine-video-on-ai-gateway"
 date: "2026-02-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Generate AI videos with xAI Grok Imagine via the AI SDK. Text-to-video, image-to-video, and video editing with natural audio and dialogue."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 19, 2026
 
 2026 年 2 月 19 日

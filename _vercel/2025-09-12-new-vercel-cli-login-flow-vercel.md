@@ -1,6 +1,6 @@
 ---
-title: "New Vercel CLI login flow - Vercel"
 render_with_liquid: false
+title: "New Vercel CLI login flow - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-vercel-cli-login-flow"
 date: "2025-09-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Simplified Vercel CLI login with OAuth 2.0 Device Flow. Sign in securely from any browser. Email and provider-based logins deprecated Feb 1. Upgrade now."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 12, 2025
 
 2025 年 9 月 12 日

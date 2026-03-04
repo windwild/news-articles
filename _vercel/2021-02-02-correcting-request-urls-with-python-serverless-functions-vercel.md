@@ -1,6 +1,6 @@
 ---
-title: "Correcting Request URLs with Python Serverless Functions - Vercel"
 render_with_liquid: false
+title: "Correcting Request URLs with Python Serverless Functions - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/correcting-request-urls-with-python-serverless-functions"
 date: "2021-02-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 2, 2021
 
 2021 年 2 月 2 日

@@ -1,6 +1,6 @@
 ---
-title: "Vercel and AWS partner on AI tools and experiences - Vercel"
 render_with_liquid: false
+title: "Vercel and AWS partner on AI tools and experiences - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-and-aws-partner-on-ai-tools-and-experiences"
 date: "2024-12-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel has been selected for a Strategic Collaboration Agreement (SCA) partnership with AWS—to deliver the next generation of AI-enabled developer tools"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 9, 2024
 
 2024 年 12 月 9 日

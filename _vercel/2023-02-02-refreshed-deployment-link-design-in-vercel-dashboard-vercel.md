@@ -1,6 +1,6 @@
 ---
-title: "Refreshed deployment link design in Vercel dashboard - Vercel"
 render_with_liquid: false
+title: "Refreshed deployment link design in Vercel dashboard - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/refreshed-deployment-link-design-in-vercel-dashboard"
 date: "2023-02-02"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 2, 2023
 
 2023 年 2 月 2 日

@@ -1,6 +1,6 @@
 ---
-title: "URLs are becoming consistent - Vercel"
 render_with_liquid: false
+title: "URLs are becoming consistent - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/urls-are-becoming-consistent"
 date: "2021-01-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 20, 2021
 
 2021 年 1 月 20 日

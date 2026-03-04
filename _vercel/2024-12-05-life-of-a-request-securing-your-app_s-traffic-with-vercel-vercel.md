@@ -1,6 +1,6 @@
 ---
-title: "Life of a request: Securing your app's traffic with Vercel - Vercel"
 render_with_liquid: false
+title: "Life of a request: Securing your app's traffic with Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/life-of-a-request-securing-your-apps-traffic-with-vercel"
 date: "2024-12-05"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The Vercel Firewall automatically prevents over 1B malicious requests every week, with 5x that amount coming in over Black Friday-Cyber Monday.  Learn how Vercel protects every request so you can focu..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 5, 2024
 
 2024 年 12 月 5 日

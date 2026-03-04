@@ -1,6 +1,6 @@
 ---
-title: "Workflow 4.1 Beta: Event-sourced architecture - Vercel"
 render_with_liquid: false
+title: "Workflow 4.1 Beta: Event-sourced architecture - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/workflow-event-sourcing"
 date: "2026-02-03"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Workflow 4.1 Beta now stores every state change as an event and reconstructs workflow state by replaying them, so failures can be recovered."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 3, 2026
 
 2026 年 2 月 3 日

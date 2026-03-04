@@ -1,6 +1,6 @@
 ---
-title: "Vercel + Sitecore: Partnering on a composable future - Vercel"
 render_with_liquid: false
+title: "Vercel + Sitecore: Partnering on a composable future - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-sitecore-partnership"
 date: "2023-01-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Sitecore and Vercel Partnership"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 12, 2023
 
 2023 年 1 月 12 日

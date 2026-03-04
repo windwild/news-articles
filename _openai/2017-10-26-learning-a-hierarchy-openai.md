@@ -1,0 +1,61 @@
+---
+render_with_liquid: false
+title: "Learning a hierarchy | OpenAI"
+source: "OpenAI Blog"
+url: "https://openai.com/index/learning-a-hierarchy"
+date: "2017-10-26"
+scraped_at: "2026-03-02T10:32:00.747997142+00:00"
+language: "en-US"
+translated: false
+description: "We’ve developed a hierarchical reinforcement learning algorithm that learns high-level actions useful for solving a range of tasks, allowing fast solving of tasks requiring thousands of timesteps. O..."
+tags: ["Research"]
+---
+
+October 26, 2017
+
+
+# Learning a hierarchy
+
+[Read paper(opens in a new window)](https://arxiv.org/abs/1710.09767) [(opens in a new window)](https://github.com/openai/mlsh)
+
+![Learning A Hierarchy](images/learning-a-hierarchy-openai/img_001.webp)
+
+
+
+We’ve developed a hierarchical reinforcement learning algorithm that learns high-level actions useful for solving a range of tasks, allowing fast solving of tasks requiring thousands of timesteps. Our algorithm, when applied to a set of navigation problems, discovers a set of high-level actions for walking and crawling in different directions, which enables the agent to master new navigation tasks quickly.
+
+![](images/learning-a-hierarchy-openai/img_002.jpg)
+
+00:00
+
+Humans solve complicated challenges by breaking them up into small, manageable components. Grilling pancakes consists of a series of high-level actions, such as measuring flour, whisking eggs, transferring the mixture to the pan, turning the stove on, and so on. Humans are able to learn new tasks rapidly by sequencing together these learned components, even though the task might take millions of low-level actions, i.e., individual muscle contractions.
+
+On the other hand, today’s reinforcement learning methods operate through brute force search over low-level actions, requiring an enormous number of attempts to solve a new task. These methods become very inefficient at solving tasks that take a large number of timesteps.
+
+Our solution is based on the idea of hierarchical reinforcement learning, where agents represent complicated behaviors as a short sequence of high-level actions. This lets our agents solve much harder tasks: while the solution might require 2000 low-level actions, the hierarchical policy turns this into a sequence of 10 high-level actions, and it’s much more efficient to search over the 10-step sequence than the 2000-step sequence.
+
+## Meta-learning shared hierarchies
+
+![Flow diagram of observations undergoing policy and converting to action](images/learning-a-hierarchy-openai/img_003.gif)
+
+Our algorithm, _meta-learning shared hierarchies_ (MLSH), learns a hierarchical policy where a master policy switches between a set of sub-policies. The master selects an action every every N timesteps, where we might take N=200. A sub-policy executed for N timesteps constitutes a high-level action, and for our navigation tasks, sub-policies correspond to walking or crawling in different directions.
+
+In most prior work, hierarchical policies have been explicitly hand-engineered. Instead, we aim to discover this hierarchical structure automatically through interaction with the environment. Taking a meta-learning perspective, we define a good hierarchy as one that quickly reaches high reward quickly when training on unseen tasks. Hence, the MLSH algorithm aims to learn sub-policies that enable fast learning on previously unseen tasks.
+
+We train on a distribution over tasks, sharing the sub-policies while learning a new master policy on each sampled task. By repeatedly training new master policies, this process automatically finds sub-policies that accommodate the master policy’s learning dynamics.
+
+## Experiments
+
+After running overnight, an MLSH agent trained to solve nine separate mazes discovered sub-policies corresponding to upwards, rightwards, and downwards movement, which it then used to navigate its way through the mazes.
+
+In our AntMaze environment, a Mujoco Ant robot is placed into a distribution of 9 different mazes and must navigate from the starting position to the goal. Our algorithm is successfully able to find a diverse set of sub-policies that can be sequenced together to solve the maze tasks, solely through interaction with the environment. This set of sub-policies can then be used to master a larger task than the ones they were trained on (see video at beginning at post).
+
+Training on separate maze environments leads to the automatic learning of sub-policies to solve the task.
+
+## Code
+
+We’re releasing the [code⁠(opens in a new window)](https://github.com/openai/mlsh) for training the MLSH agents, as well as the MuJoCo environments we built to evaluate these algorithms.
+
+- [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
+- [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
+- [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)

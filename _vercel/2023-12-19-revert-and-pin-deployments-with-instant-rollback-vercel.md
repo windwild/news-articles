@@ -1,6 +1,6 @@
 ---
-title: "Revert and pin deployments with Instant Rollback - Vercel"
 render_with_liquid: false
+title: "Revert and pin deployments with Instant Rollback - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/revert-and-pin-deployments-with-instant-rollback"
 date: "2023-12-19"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 19, 2023
 
 2023 年 12 月 19 日

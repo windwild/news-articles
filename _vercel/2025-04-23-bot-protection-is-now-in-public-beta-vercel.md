@@ -1,6 +1,6 @@
 ---
-title: "Bot Protection is now in public beta - Vercel"
 render_with_liquid: false
+title: "Bot Protection is now in public beta - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bot-protection-is-now-in-public-beta"
 date: "2025-04-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Vercel's Bot Protection managed ruleset allows users to mitigate unwanted bot activity on their projects in a single click"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Apr 23, 2025
 
 2025 年 4 月 23 日

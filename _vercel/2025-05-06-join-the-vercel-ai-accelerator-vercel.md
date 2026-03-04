@@ -1,6 +1,6 @@
 ---
-title: "Join the Vercel AI Accelerator - Vercel"
 render_with_liquid: false
+title: "Join the Vercel AI Accelerator - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/join-the-vercel-ai-accelerator"
 date: "2025-05-06"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "A six-week program to help you scale your AI company offering over $4M in credits from Vercel, v0, AWS, and leading AI platforms"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 6, 2025
 
 2025年5月6日

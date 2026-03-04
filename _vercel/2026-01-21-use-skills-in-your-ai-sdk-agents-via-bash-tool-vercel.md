@@ -1,6 +1,6 @@
 ---
-title: "Use skills in your AI SDK agents via bash-tool - Vercel"
 render_with_liquid: false
+title: "Use skills in your AI SDK agents via bash-tool - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/use-skills-in-your-ai-sdk-agents-via-bash-tool"
 date: "2026-01-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Skills support is now available in bash-tool, so your AI SDK agents can use the skills pattern with filesystem context, Bash execution, and sandboxed runtime access."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jan 21, 2026
 
 2026 年 1 月 21 日

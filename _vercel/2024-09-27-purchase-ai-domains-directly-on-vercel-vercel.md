@@ -1,6 +1,6 @@
 ---
-title: "Purchase .ai domains directly on Vercel - Vercel"
 render_with_liquid: false
+title: "Purchase .ai domains directly on Vercel - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-now-supports-ai-domains"
 date: "2024-09-27"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 27, 2024
 
 2024 年 9 月 27 日

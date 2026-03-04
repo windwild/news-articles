@@ -1,6 +1,6 @@
 ---
-title: "Enterprise teams can now ship faster without build queues - Vercel"
 render_with_liquid: false
+title: "Enterprise teams can now ship faster without build queues - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enterprise-teams-can-now-ship-faster-without-build-queues"
 date: "2025-01-31"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "For faster processing of critical builds and projects, Enterprise Builds no longer have queues by default"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 2025年1月31日
 
 2025年1月31日

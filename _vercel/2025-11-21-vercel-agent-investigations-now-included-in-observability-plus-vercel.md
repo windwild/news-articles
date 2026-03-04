@@ -1,6 +1,6 @@
 ---
-title: "Vercel Agent investigations now included in Observability Plus - Vercel"
 render_with_liquid: false
+title: "Vercel Agent investigations now included in Observability Plus - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-agent-investigations-now-included-in-observability-plus"
 date: "2025-11-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Observability Plus subscribers now get ten Vercel Agent investigations included in their monthly subscription at no additional cost."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Nov 21, 2025
 
 2025 年 11 月 21 日

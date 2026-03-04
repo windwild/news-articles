@@ -1,6 +1,6 @@
 ---
-title: "How Whop improved their Real Experience Score by 200% with the Next.js App Router - Vercel"
 render_with_liquid: false
+title: "How Whop improved their Real Experience Score by 200% with the Next.js App Router - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-whop-improved-their-real-experience-score-by-200-with-the-next-js-app"
 date: "2023-09-21"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Whop improved developer experience with Vercel and Next.js"
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Sep 21, 2023
 
 2023 年 9 月 21 日

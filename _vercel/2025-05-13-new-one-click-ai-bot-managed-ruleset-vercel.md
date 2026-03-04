@@ -1,6 +1,6 @@
 ---
-title: "New one-click AI bot managed ruleset - Vercel"
 render_with_liquid: false
+title: "New one-click AI bot managed ruleset - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-one-click-ai-bot-managed-ruleset"
 date: "2025-05-13"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: " Protect your content from unauthorized AI crawlers with Vercel's new AI bot managed ruleset, offering one-click protection against known AI bots while automatically updating to catch new crawlers wit..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 May 13, 2025
 
 2025年5月13日

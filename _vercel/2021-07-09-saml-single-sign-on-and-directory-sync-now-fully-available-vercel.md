@@ -1,6 +1,6 @@
 ---
-title: "SAML Single Sign-On and Directory Sync now fully available - Vercel"
 render_with_liquid: false
+title: "SAML Single Sign-On and Directory Sync now fully available - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/saml-single-sign-on-and-directory-sync-now-fully-available"
 date: "2021-07-09"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jul 9, 2021
 
 2021 年 7 月 9 日

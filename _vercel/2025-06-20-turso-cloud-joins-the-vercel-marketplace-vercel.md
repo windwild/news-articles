@@ -1,6 +1,6 @@
 ---
-title: "Turso Cloud joins the Vercel Marketplace  - Vercel"
 render_with_liquid: false
+title: "Turso Cloud joins the Vercel Marketplace  - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/turso-cloud-joins-the-vercel-marketplace"
 date: "2025-06-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Turso now offers a native integration on the Vercel Marketplace—deploy fast, edge-optimized SQLite databases with one-click setup and unified billing."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Jun 20, 2025
 
 2025年6月20日

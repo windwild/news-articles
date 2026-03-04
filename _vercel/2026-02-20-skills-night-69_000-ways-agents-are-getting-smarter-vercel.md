@@ -1,6 +1,6 @@
 ---
-title: "Skills Night: 69,000+ ways agents are getting smarter - Vercel"
 render_with_liquid: false
+title: "Skills Night: 69,000+ ways agents are getting smarter - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/skills-night-69000-ways-agents-are-getting-smarter"
 date: "2026-02-20"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Andrew Qu reflects on Skills Night SF: how a weekend project became 69,000 community-created skills, the security partnerships protecting them, and what eight partner demos revealed about agents, cont..."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Feb 20, 2026
 
 2026年2月20日

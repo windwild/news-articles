@@ -1,6 +1,6 @@
 ---
-title: "How to build zero-CLS A/B tests with Next.js and Vercel Edge Config - Vercel"
 render_with_liquid: false
+title: "How to build zero-CLS A/B tests with Next.js and Vercel Edge Config - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/zero-cls-experiments-nextjs-edge-config"
 date: "2023-03-23"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Create a powerful, statically-rendered experimentation engine at scale."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Mar 23, 2023
 
 2023 年 3 月 23 日

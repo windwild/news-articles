@@ -1,6 +1,6 @@
 ---
-title: "Building a viral application for your personal music festival - Vercel"
 render_with_liquid: false
+title: "Building a viral application for your personal music festival - Vercel"
 source: "Vercel Blog"
 url: "https://vercel.com/blog/from-idea-to-100-million-views-instafest-music-festival-application"
 date: "2022-12-12"
@@ -9,8 +9,9 @@ language: "en-zh"
 translated: true
 description: "Learn how Anshay Saboo, a Computer Science student at USC, used Next.js and Vercel to launch Instafest fast and scale to 500,000 new users per hour."
 ---
-
 render_with_liquid: false
+render_with_liquid: false
+
 Dec 12, 2022
 
 2022年12月12日
