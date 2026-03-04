@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The vercel api command makes an authenticated HTTP request to the Vercel API and prints the response."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 27, 2026
 
@@ -21,4 +21,4 @@ Jan 27, 2026
 使用 `vercel api ls` 列出所有可用 API；使用 `vercel api` 以交互方式构建请求；或使用 `vercel api [endpoint] [options]` 直接发送请求。
 
 请运行 `npx vercel@latest api --help` 开始使用。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The second wave of MCP, building for LLMs, not developers. Explore the evolution of MCP as it shifts from developer-focused tools to LLM-native integrations. Discover the future of AI connectivity."
 ---
-{% raw %}
+&#123;% raw %}
 
 2025年9月9日
 
@@ -286,4 +286,4 @@ MCP works best when tools reflect complete user goals. LLMs do not manage state 
 Give this approach a try. The [MCP handler](https://github.com/vercel/mcp-handler) makes it straightforward to expose your application logic as workflow based MCP tools. Get started with the [Next.js MCP template](https://vercel.com/templates/ai/model-context-protocol-mcp-with-vercel-functions) or [explore the documentation](https://vercel.com/docs/mcp).
 
 欢迎尝试这一方法。[MCP handler](https://github.com/vercel/mcp-handler) 可帮助您轻松将应用逻辑封装为基于工作流的 MCP 工具。您可通过 [Next.js MCP 模板](https://vercel.com/templates/ai/model-context-protocol-mcp-with-vercel-functions) 快速上手，或 [查阅文档](https://vercel.com/docs/mcp) 进一步了解。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI o3 and o4-mini represent a significant breakthrough in visual perception by reasoning with images in their chain of thought."
 tags: ["Release"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 16, 2025
 
@@ -271,4 +271,4 @@ We’re continually refining the models’ reasoning capabilities with images to
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [2025](https://openai.com/research/index/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

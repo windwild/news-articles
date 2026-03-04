@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 3, 2025
 
@@ -295,4 +295,4 @@ We’re just getting started.
 
 - [Community](https://openai.com/news/?tags=community)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

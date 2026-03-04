@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 16, 2022
 
@@ -28,4 +28,4 @@ While recent work on text-conditional 3D object generation has shown promising r
 - [Point-E](https://openai.com/research/index/?tags=point-e)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
-{% endraw %}
+&#123;% endraw %}

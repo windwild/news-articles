@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:07:04.090950171+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Several key use cases for LLMs involve returning data in a structured format. Extraction is one such use case - we recently highlighted this with [updated documentation](https://python.langchain.com/docs/use_cases/extraction/?ref=blog.langchain.com) and [a dedicated repo](https://github.com/langchain-ai/langchain-extract?ref=blog.langchain.com). Query analysis is another - we’ve also [updated our documentation](https://python.langchain.com/docs/use_cases/query_analysis/?ref=blog.langchain.com) around this recently. When returning information in a structured format the fields can be a myriad of types: string, boolean, integers. One of the hardest types to correctly handle is high-cardinality categorical values (or enums).
 
@@ -154,4 +154,4 @@ We benchmarked a variety of methods for doing query analysis with high cardinali
 There are other methods to benchmark. In particular, there are many methods to consider for finding the most similar categorical value (before or after the LLM call). The category used in this dataset is also not as high cardinality as the ones many enterprise systems have to deal with. This dataset had ~10k values, many real world ones have millions. It would be worthwhile to benchmark on higher cardinality data, and more of it.
 
 仍有其他方法值得纳入基准测试。尤其值得注意的是，针对“如何找出最相似的分类值”这一任务（无论发生在 LLM 调用前还是调用后），存在大量可选方案。此外，本数据集所用的分类字段基数（cardinality）远低于许多企业系统实际面临的水平：该数据集仅含约 **10,000 个取值**，而现实中诸多系统需处理**数百万量级**的取值。因此，未来非常有必要在**更高基数、更大规模**的数据上开展进一步基准测试。
-{% endraw %}
+&#123;% endraw %}

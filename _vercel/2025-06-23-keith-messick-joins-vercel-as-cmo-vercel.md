@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We’re welcoming Keith Messick as Chief Marketing Officer to support our growth, engage on more channels, and (as always) amplify the voice of the developer. Keith is a longtime enterprise CMO and co..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 23, 2025
 
@@ -55,4 +55,4 @@ The team is growing, with open roles for [Content Engineers](https://vercel.com/
 Please join me in welcoming Keith to Vercel.
 
 诚邀大家一同欢迎 Keith 加入 Vercel！
-{% endraw %}
+&#123;% endraw %}

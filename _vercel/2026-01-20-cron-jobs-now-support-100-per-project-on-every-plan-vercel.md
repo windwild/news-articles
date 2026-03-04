@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Cron jobs on Vercel no longer have per-team limits. Create up to 100 scheduled tasks per project, at any interval, on all plans."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 20, 2026
 
@@ -73,4 +73,4 @@ You can also deploy the [Vercel Cron Job template](https://vercel.com/templates/
 Once you deploy, Vercel automatically registers your cron jobs. Learn more in the [Cron Jobs documentation](https://vercel.com/docs/cron-jobs).
 
 部署后，Vercel 会自动注册您的定时任务（cron jobs）。更多详情，请参阅 [定时任务文档](https://vercel.com/docs/cron-jobs)。
-{% endraw %}
+&#123;% endraw %}

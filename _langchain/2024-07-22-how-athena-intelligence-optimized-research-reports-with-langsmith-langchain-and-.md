@@ -9,7 +9,7 @@ translated: true
 description: "See how an AI-powered employee for enterprise analytics used the LangSmith playground and debugging features to quickly identify LLM issues and to generate complex research reports."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Athena Intelligence is an AI-powered employee that is transforming enterprise analytics by automating time-consuming data tasks  and democratizing data analysis for data scientists and business users alike. Their natural language interface, Olympus, aims to connect all data sources and applications so that users can query complex datasets easily, much like asking a question to a colleague.
 
@@ -210,4 +210,4 @@ Athena Intelligence 成功依托 LangChain、LangGraph 与 LangSmith，构建起
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 分钟阅读
 
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 分钟阅读
-{% endraw %}
+&#123;% endraw %}

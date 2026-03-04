@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel enables streaming for serverless Node.js and Edge runtimes. HTTP streaming enables the server to incrementally send response data in smaller chunks to the client while generating the ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 28, 2023
 
@@ -100,4 +100,4 @@ As the first platform to support this capability on AWS Lambda, streaming on Ver
 
 Experience the benefits of Streaming on Vercel today with [Next.js Route Handlers](https://vercel.com/templates/next.js/app-directory), [React Server Components](https://vercel.com/templates/next.js/app-directory), [Remix Streaming SSR](https://vercel.com/templates/remix), or [SvelteKit](https://vercel.com/templates/svelte/sveltekit-edge-functions).  
 即刻体验 Vercel 流式响应带来的优势：使用 [Next.js 路由处理器（Route Handlers）](https://vercel.com/templates/next.js/app-directory)、[React 服务端组件（React Server Components）](https://vercel.com/templates/next.js/app-directory)、[Remix 流式服务端渲染（Streaming SSR）](https://vercel.com/templates/remix)，或 [SvelteKit](https://vercel.com/templates/svelte/sveltekit-edge-functions)。
-{% endraw %}
+&#123;% endraw %}

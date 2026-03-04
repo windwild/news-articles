@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 5, 2022
 
@@ -29,4 +29,4 @@ Previously, domains had to be removed from a project before being added to a new
 Check out [the documentation](https://vercel.com/docs/concepts/projects/overview#starting-a-transfer) as well.
 
 也欢迎查阅[相关文档](https://vercel.com/docs/concepts/projects/overview#starting-a-transfer)。
-{% endraw %}
+&#123;% endraw %}

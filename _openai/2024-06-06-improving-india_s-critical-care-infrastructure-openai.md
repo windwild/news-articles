@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # 10BedICU
@@ -53,4 +53,4 @@ Sapam Ranjan, Manipur’s Minister of Health and Family Welfare, agrees. “10Be
 [Talk with our team](https://openai.com/contact-sales/)
 
 Improving India’s critical care infrastructure \| OpenAI
-{% endraw %}
+&#123;% endraw %}

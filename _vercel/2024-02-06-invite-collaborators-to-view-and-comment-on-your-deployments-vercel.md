@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 6, 2024
 
@@ -25,4 +25,4 @@ The share menu will display who currently has access to a given deployment. User
 Visit the documentation to learn more about all options for [sharing deployments](https://vercel.com/docs/deployments/sharing-deployments).
 
 请查阅文档，了解有关[分享部署](https://vercel.com/docs/deployments/sharing-deployments)的所有选项详情。
-{% endraw %}
+&#123;% endraw %}

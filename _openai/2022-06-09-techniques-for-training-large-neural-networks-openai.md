@@ -9,7 +9,7 @@ translated: false
 description: "Large neural networks are at the core of many recent advances in AI, but training them is a difficult engineering and research challenge which requires orchestrating a cluster of GPUs to perform a sin..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 9, 2022
 
@@ -95,4 +95,4 @@ At OpenAI, we are training and improving large models from the underlying infras
 - [Compute Scaling](https://openai.com/research/index/?tags=compute-scaling)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

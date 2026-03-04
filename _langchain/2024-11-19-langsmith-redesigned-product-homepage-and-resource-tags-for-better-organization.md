@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "LangSmith's homepage is now organized into Observability, Evaluation, and Prompt Engineering. Learn why we organized the homepage like this. Plus, see our latest Resource Tags updates."
 ---
-{% raw %}
+&#123;% raw %}
 
 Today, we’re excited to release a redesigned LangSmith product homepage as well as improved support for resource organization within your workspaces. These updates reflect our ongoing insights into how engineering teams build, optimize, and iterate on their LLM applications. In this post, we will walk through our updated beliefs and how they guided our design.
 
@@ -134,4 +134,4 @@ To further enhance security and customization, we’ll soon introduce Attribute-
 Explore the new LangSmith homepage and features today at [smith.langchain.com](http://smith.langchain.com/?ref=blog.langchain.com) — and let us know what you think through the in-app feedback form.
 
 今天就前往 [smith.langchain.com](http://smith.langchain.com/?ref=blog.langchain.com) 探索全新的 LangSmith 首页与功能，并通过应用内反馈表单告诉我们您的想法！
-{% endraw %}
+&#123;% endraw %}

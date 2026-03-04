@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We're excited to announce a new LaunchDarkly integration to bring low latency, global feature flags to your favorite frontend framework."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 27, 2023
 
@@ -168,4 +168,4 @@ Vercel.com 着陆页
 ### LaunchDarkly integration
 
 ### LaunchDarkly 集成
-{% endraw %}
+&#123;% endraw %}

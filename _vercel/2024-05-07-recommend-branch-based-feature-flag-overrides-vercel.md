@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 7, 2024
 
@@ -33,4 +33,4 @@ As part of this change, we’ve improved the onboarding for setting up and integ
 Learn more about the [Vercel Toolbar](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) and [feature flags](https://vercel.com/docs/workflow-collaboration/feature-flags).
 
 了解更多关于 [Vercel 工具栏](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) 和 [功能开关](https://vercel.com/docs/workflow-collaboration/feature-flags) 的信息。
-{% endraw %}
+&#123;% endraw %}

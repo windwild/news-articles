@@ -7,7 +7,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 [Back to Overview](https://www.anthropic.com/research)
 
@@ -125,4 +125,4 @@ Date Category Title
 
 - [Feb 10, 2025 Societal Impacts The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)  
 - [2025年2月10日 社会影响 Anthropic经济指数](https://www.anthropic.com/news/the-anthropic-economic-index)
-{% endraw %}
+&#123;% endraw %}

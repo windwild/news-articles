@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 19, 2024
 
@@ -25,4 +25,4 @@ Sep 19, 2024
 如需快速切换工具栏显示/隐藏状态，您可在 macOS 上使用 `⌘ + .` 快捷键，或在 Windows 上使用 `Ctrl + .` 快捷键。您还可以将工具栏拖拽至页面任意一侧（左/右），它将在下次加载时记住并从该侧展开。
 
 有关 [Vercel Toolbar](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) 的更多信息，请参阅官方文档。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 11, 2022
 
@@ -29,4 +29,4 @@ The new UI consolidates and streamlines error handling and debugging. Enterprise
 Read the [documentation](https://www.vercel.com/docs/concepts/deployments/runtime-logs) to learn more.
 
 请查阅[相关文档](https://www.vercel.com/docs/concepts/deployments/runtime-logs)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

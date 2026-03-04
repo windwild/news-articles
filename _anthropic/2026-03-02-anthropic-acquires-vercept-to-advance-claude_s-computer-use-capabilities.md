@@ -8,7 +8,7 @@ translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 tags: ["Announcements"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Announcements
 
@@ -75,4 +75,4 @@ We look for teams whose technical ambitions match ours, whose work advances our 
 We’re also looking for individuals. If you're interested in joining Anthropic’s engineering team, visit our [careers page](https://www.anthropic.com/jobs).
 
 我们也诚邀优秀人才加入。若您有意加入 Anthropic 工程团队，请访问我们的 [招聘页面](https://www.anthropic.com/jobs)。
-{% endraw %}
+&#123;% endraw %}

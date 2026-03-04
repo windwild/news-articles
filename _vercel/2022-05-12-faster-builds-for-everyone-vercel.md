@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 12, 2022
 
@@ -39,4 +39,4 @@ We’ve made improvements to the Vercel infrastructure for customers across all 
 [Deploy a template](http://vercel.com/new) to get started.
 
 [部署一个模板](http://vercel.com/new) 快速开始。
-{% endraw %}
+&#123;% endraw %}

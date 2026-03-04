@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:32:25.470238983+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **_Editor’s Note: This blog post was written in collaboration LeptonAI Team, an early [LangSmith](https://www.langchain.com/langsmith?ref=blog.langchain.com) BETA user. Lots of folks are talking about how best to finetune an open-source model for their specific use case, and LeptonAI has actually done that. We're excited to share their journey and hope it can inform others._**
 
@@ -227,4 +227,4 @@ And for the tools mentioned above, both LangSmith and LeptonAI are still under c
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**使用 Genoss 统一 AI 接口，由 LangChain 提供支持**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
-{% endraw %}
+&#123;% endraw %}

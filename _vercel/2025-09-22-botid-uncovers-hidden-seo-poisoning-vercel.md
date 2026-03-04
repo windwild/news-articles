@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A financial institution's suspicious bot traffic turned out to be Google bots crawling SEO-poisoned URLs from years ago. Here's how BotID revealed the real problem."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 22, 2025
 
@@ -221,4 +221,4 @@ Get started](https://vercel.com/botid)
 在高级机器人抵达你最关键的路由之前，即刻识别并阻断它们。部署简易，难以绕过。  
 \\  
 立即开始](https://vercel.com/botid)
-{% endraw %}
+&#123;% endraw %}

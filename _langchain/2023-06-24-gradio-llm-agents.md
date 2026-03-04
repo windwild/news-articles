@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:46:45.108793382+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **Editor's note: this is a guest blog post from Freddy Boulton, a software engineer at Gradio. We're excited to share this post because it brings a large number of exciting new tools into the ecosystem. Agents are largely defined by the tools they have, so to be able to equip them with all these `gradio_tools` is very exciting to us!**
 
@@ -302,4 +302,4 @@ We're excited to see the tools you all build!
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
-{% endraw %}
+&#123;% endraw %}

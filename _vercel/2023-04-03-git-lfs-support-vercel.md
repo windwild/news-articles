@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 3, 2023
 
@@ -21,4 +21,4 @@ Vercel 现已支持 [Git LFS](https://vercel.com/docs/concepts/projects/overview
 Git LFS 对所有套餐均免费，并可在项目设置中随时启用或禁用。文件存储可能会额外消耗您所使用的 Git 托管服务商（如 GitHub、GitLab、Bitbucket 等）的带宽。
 
 [查阅我们的文档](https://vercel.com/docs/concepts/projects/overview#git-large-file-storage-lfs) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

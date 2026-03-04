@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The v0 Platform API enables developers to programmatically generate, retrieve, and manage full stack web apps using RESTful endpoints and TypeScript SDK. Integrate v0 into your workflows, tools, or au..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 9, 2025
 
@@ -48,4 +48,4 @@ v0 平台 API 专为集成至开发工作流、自动化脚本及第三方工具
 Check out our [TypeScript SDK](https://npmjs.com/v0-sdk) and [documentation](https://v0.dev/docs/v0-platform-api) to get started.  
 
 欢迎查阅我们的 [TypeScript SDK](https://npmjs.com/v0-sdk) 和 [文档](https://v0.dev/docs/v0-platform-api) 开始使用。
-{% endraw %}
+&#123;% endraw %}

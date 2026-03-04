@@ -9,7 +9,7 @@ translated: false
 description: "A stronger non-profit supported by the for-profit’s success."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 27, 2024
 
@@ -71,4 +71,4 @@ We’ve learned to think of the mission as a [continuous objective](https://open
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 29, 2022
 
@@ -39,4 +39,4 @@ Sep 29, 2022
 - **Build environment updates:**`Node.js` updated to v16.16.0, `npm` updated to v8.11.0, `pnpm` updated to v7.12.2.
 
 - **构建环境更新：**`Node.js` 升级至 v16.16.0，`npm` 升级至 v8.11.0，`pnpm` 升级至 v7.12.2。
-{% endraw %}
+&#123;% endraw %}

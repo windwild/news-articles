@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:28:07.666887288+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Authored by: [Aliyan Ishfaq](https://www.linkedin.com/in/aliyan-ishfaq/?ref=blog.langchain.com)
 
@@ -306,4 +306,4 @@ For an editing task, we see following results:
 ![](images/how-to-turn-claude-code-into-a-domain-specific-coding-agent/img_009.png)![](images/how-to-turn-claude-code-into-a-domain-specific-coding-agent/img_010.png)
 
 大多数实现方案在正确实现中断（interrupt）功能方面都存在困难。错误的实现方式要么简单地添加 `input()` 调用以获取终端输入，要么过度复杂化解决方案——例如额外创建独立节点，而非仅用几行恰当的中断逻辑来处理。此外，低质量的实现还依赖关键词匹配进行分类，而非基于大语言模型（LLM）的分类方法；几乎所有方案均未能识别出我们刻意引入的语法错误。
-{% endraw %}
+&#123;% endraw %}

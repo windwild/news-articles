@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Model Context Protocol (MCP) is a new spec that helps standardize the way large language models (LLMs) access data and systems, extending what they can do beyond their training data. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 25, 2025
 
@@ -350,4 +350,4 @@ For example, [we recently added an MCP server to Grep](https://vercel.com/blog/g
 _Thanks to MCP co-creator,_ [_David Soria Parra_](https://x.com/dsp_) _, for reviewing the post and providing feedback._
 
 感谢 MCP 联合创始人 [_David Soria Parra_](https://x.com/dsp_) 对本文的审阅与宝贵反馈。
-{% endraw %}
+&#123;% endraw %}

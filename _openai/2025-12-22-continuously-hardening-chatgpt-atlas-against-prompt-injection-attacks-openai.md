@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel expl..."
 tags: ["Security"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 22, 2025
 
@@ -241,4 +241,4 @@ We’ll be sharing more on this work soon.
 
 - [2025](https://openai.com/news/?tags=2025)  
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

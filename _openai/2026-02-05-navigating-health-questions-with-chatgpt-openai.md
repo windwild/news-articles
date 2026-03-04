@@ -9,7 +9,7 @@ translated: true
 description: "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 5, 2026
 
@@ -27,4 +27,4 @@ February 5, 2026
 00:0001:00
 
 00:0001:00
-{% endraw %}
+&#123;% endraw %}

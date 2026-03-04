@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "New Video Category on Vercel Marketplace Featuring Mux Integration that allows users to add video streaming and playback capabilities with minimal setup"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 16, 2025
 
@@ -36,4 +36,4 @@ The first integration in the **Video** category is [Mux](https://www.mux.com/blo
 Get started with [Mux on the Vercel Marketplace](https://vercel.com/marketplace/mux), available to customers on all plans.
 
 立即通过 [Vercel Marketplace 上的 Mux](https://vercel.com/marketplace/mux) 开始使用——所有订阅方案的客户均可使用。
-{% endraw %}
+&#123;% endraw %}

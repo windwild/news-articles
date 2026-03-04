@@ -9,7 +9,7 @@ translated: false
 description: "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 2, 2025
 
@@ -80,4 +80,4 @@ These steps are only the beginning. We will continue learning and strengthening 
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)
-{% endraw %}
+&#123;% endraw %}

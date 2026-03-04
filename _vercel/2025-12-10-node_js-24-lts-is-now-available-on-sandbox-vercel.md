@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Sandbox now supports running sandboxes with the Node.js 24 LTS runtime. This is supported in @vercel/sandbox versions 1.1.0 and later."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 10, 2025
 
@@ -50,4 +50,4 @@ main().catch(console.error);
 Read our [Sandbox documentation](https://vercel.com/docs/vercel-sandbox) to learn more.
 
 请阅读我们的 [Sandbox 文档](https://vercel.com/docs/vercel-sandbox) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

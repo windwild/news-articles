@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI Gateway, now generally available, ensures availability when a provider fails, avoiding low rate limits and providing consistent reliability for AI workloads."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 21, 2025
 
@@ -164,4 +164,4 @@ What models do you support?
 2. [↑](https://vercel.com/blog/ai-gateway-is-now-generally-available#trillions-of-requests) https://vercel.com/blog/gartner-mq-visionary-2025 - 115B weekly requests served by Vercel
 
 2. [↑](https://vercel.com/blog/ai-gateway-is-now-generally-available#trillions-of-requests) https://vercel.com/blog/gartner-mq-visionary-2025 — Vercel 每周处理请求量达 1150 亿次。
-{% endraw %}
+&#123;% endraw %}

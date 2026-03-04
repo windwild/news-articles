@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A collection of tips to make faster Next.js websites by maximizing work on the server and minimizing the burden on the client."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 29, 2023
 
@@ -1011,4 +1011,4 @@ Next.js 13 中的乐观更新（Optimistic Updates）
 
 
 [阅读 12 条回复](https://x.com/asidorenko_/status/1705586291788730412)
-{% endraw %}
+&#123;% endraw %}

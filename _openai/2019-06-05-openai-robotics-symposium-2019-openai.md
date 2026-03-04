@@ -9,7 +9,7 @@ translated: false
 description: "We hosted the first OpenAI Robotics Symposium on April 27, 2019."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 5, 2019
 
@@ -134,4 +134,4 @@ _Thanks to Loren Kwan, Diane Yoon, and Maddie Hall for co-organizing the event, 
 
 - [Events](https://openai.com/news/?tags=events)
 - [2019](https://openai.com/news/?tags=2019)
-{% endraw %}
+&#123;% endraw %}

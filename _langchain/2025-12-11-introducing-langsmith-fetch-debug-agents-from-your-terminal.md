@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:15:51.424595140+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Today, we're launching **LangSmith Fetch**, a CLI tool that brings the full power of LangSmith tracing directly into your terminal and IDE.
 
@@ -261,4 +261,4 @@ Whether you're a terminal-first developer, building with coding agents, or just 
 [Get started with LangSmith Fetch](https://github.com/langchain-ai/langsmith-fetch?ref=blog.langchain.com).
 
 [立即开始使用 LangSmith Fetch](https://github.com/langchain-ai/langsmith-fetch?ref=blog.langchain.com)。
-{% endraw %}
+&#123;% endraw %}

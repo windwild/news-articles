@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:14:32.225532809+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This post was written by the [Qdrant](https://qdrant.tech/?ref=blog.langchain.com) team and cross-posted from their blog. As more LLM applications move into production, speed, stability and costs are going to become even more important features of the LLM tech stack. And, as more LLM applications take advantage of RAG (and longterm memory), this becomes even more of a challenge. We're really excited about what Qdrant is doing to help with that–their async support is particularly helpful!_
 
@@ -116,4 +116,4 @@ _“我们全力聚焦于性能与可靠性。每一次发布，我们都让 Qdr
 - For best integration with LangChain, check the official [LangChain documentation](https://python.langchain.com/docs/integrations/vectorstores/qdrant?ref=blog.langchain.com) as well as [LangChain’s API specification for the Qdrant vector store](https://api.python.langchain.com/en/latest/vectorstores/langchain.vectorstores.qdrant.Qdrant.html?ref=blog.langchain.com).
 
 - 为实现与 LangChain 的最佳集成，请同时参考官方 [LangChain 文档](https://python.langchain.com/docs/integrations/vectorstores/qdrant?ref=blog.langchain.com)，以及 [LangChain 关于 Qdrant 向量数据库的 API 规范](https://api.python.langchain.com/en/latest/vectorstores/langchain.vectorstores.qdrant.Qdrant.html?ref=blog.langchain.com)。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "At OpenAI, we have long believed image generation should be a primary capability of our language models. That’s why we’ve built our most advanced image generator yet into GPT‑4o. The result—im..."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 25, 2025
 
@@ -488,4 +488,4 @@ Read more
 ![](images/introducing-4o-image-generation-openai/img_115.png)
 
 Play video
-{% endraw %}
+&#123;% endraw %}

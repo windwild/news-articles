@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 24, 2026
 
@@ -76,4 +76,4 @@ Over time, we plan to share what we learn with our customers and partners, and h
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)  
 - [企业文化与职业发展](https://openai.com/news/?tags=culture-careers)
-{% endraw %}
+&#123;% endraw %}

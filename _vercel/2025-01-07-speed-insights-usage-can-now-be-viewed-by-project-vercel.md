@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Speed Insights usage can now be viewed by Project"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 7, 2025
 
@@ -23,4 +23,4 @@ You can now view your Speed Insights traffic broken down by project in the [Usag
 Learn more about [Speed Insights](https://vercel.com/docs/speed-insights).
 
 了解更多关于 [Speed Insights](https://vercel.com/docs/speed-insights) 的信息。
-{% endraw %}
+&#123;% endraw %}

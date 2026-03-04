@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Generate AI videos with xAI Grok Imagine via the AI SDK. Text-to-video, image-to-video, and video editing with natural audio and dialogue."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 19, 2026
 
@@ -169,4 +169,4 @@ const { videos } = await generateVideo({
 For more examples and detailed configuration options for Grok Imagine Video, check out the [Video Generation Documentation](https://vercel.com/docs/ai-gateway/capabilities/video-generation). You can also find simple getting started scripts with the [Video Generation Quick Start](https://vercel.com/docs/ai-gateway/getting-started/video).
 
 有关 Grok Imagine Video 的更多示例及详细配置选项，请参阅[视频生成文档](https://vercel.com/docs/ai-gateway/capabilities/video-generation)。您还可以通过[视频生成快速入门](https://vercel.com/docs/ai-gateway/getting-started/video)获取简易的入门脚本。
-{% endraw %}
+&#123;% endraw %}

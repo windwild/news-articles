@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse."
 tags: ["Security"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 5, 2026
 
@@ -87,4 +87,4 @@ To further accelerate the use of our frontier models for defensive cybersecurity
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

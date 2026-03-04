@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 7, 2021
 
@@ -35,4 +35,4 @@ We introduce Codex, a GPT language model fine-tuned on publicly available code f
 - [Compute Scaling](https://openai.com/research/index/?tags=compute-scaling)
 - [Language](https://openai.com/research/index/?tags=language)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing the next generation of Vercel Analytics"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 25, 2022
 
@@ -90,4 +90,4 @@ Today, you can [enable](https://vercel.com/docs/concepts/analytics) these new in
 [Start using Vercel Analytics today.](https://vercel.com/analytics)
 
 [立即开始使用 Vercel Analytics。](https://vercel.com/analytics)
-{% endraw %}
+&#123;% endraw %}

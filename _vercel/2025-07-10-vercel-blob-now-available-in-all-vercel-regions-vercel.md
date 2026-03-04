@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Blob stores are now available in 19 Vercel Regions. Select regions closer to your Functions and users to optimize upload speed and comply with data-residency requirements."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 10, 2025
 
@@ -31,4 +31,4 @@ Selecting a region is available at creation time in the Vercel dashboard or when
 Learn more about [Vercel Blob](https://vercel.com/docs/storage/vercel-blob) in the documentation.
 
 请参阅文档，进一步了解 [Vercel Blob](https://vercel.com/docs/storage/vercel-blob)。
-{% endraw %}
+&#123;% endraw %}

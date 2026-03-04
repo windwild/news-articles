@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Braintrust joins the Vercel Marketplace with native support for the Vercel AI SDK and AI Gateway, enabling developers to monitor, evaluate, and improve AI application performance in real time."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 16, 2025
 
@@ -27,4 +27,4 @@ Oct 16, 2025
 - 跨多个大语言模型（LLM）开展基准测试与性能对比  
 
 [立即探索该模板](https://vercel.com/new/clone?demo-description=An+open-source+AI+chatbot+built+with+Next.js%2C+the+AI+SDK%2C+and+the+AI+Gateway+With+Braintrust.&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F5mz2JCK2z8hNLIiV0PkKux%2F4f4345c6d0a73e27d765a57c9cf1c44a%2Flight.png&demo-title=Vercel+AI+Gateway+With+Braintrust+Demo&demo-url=https%3A%2F%2Fai-sdk-gateway-demo.labs.vercel.dev%2F&from=templates&products=%5B%7B%22type%22%3A%22integration%22%2C%22protocol%22%3A%22traceDrain%22%2C%22productSlug%22%3A%22braintrust%22%2C%22integrationSlug%22%3A%22braintrust%22%7D%5D&projectname=Vercel+AI+Gateway+Demo&repository-name=vercel-ai-gateway-demo&repository-url=https%3A%2F%2Fgithub.com%2Fvercel-labs%2Fai-sdk-gateway-demo)，今日即可一键部署示例应用，享受便捷配置与统一账单管理。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 18, 2023
 
@@ -25,4 +25,4 @@ Vercel 现已为所有用户推出改进版项目与团队切换器：
 - 切换项目时不会丢失当前上下文。例如，当您正在查看“Web Analytics”（网页分析）页面时，可直接切换项目，同时保持在该视图中  
 
 - 支持键盘导航，操作更便捷
-{% endraw %}
+&#123;% endraw %}

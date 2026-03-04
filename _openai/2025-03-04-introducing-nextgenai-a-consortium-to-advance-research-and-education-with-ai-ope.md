@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI commits $50M in funding and tools to leading institutions."
 ---
-{% raw %}
+&#123;% raw %}
 
 March 4, 2025
 
@@ -84,4 +84,4 @@ The Ohio State University
 00:00
 
 University of Oxford
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Drains give you a single way to stream observability data out of Vercel and into the systems your team already rely on."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 15, 2025
 
@@ -118,4 +118,4 @@ You can set up Drains today from your Vercel dashboard → Team Settings → Dra
 [Read the full docs](https://vercel.com/docs/drains) for configuration details, supported formats, and schema references.
 
 [查阅完整文档](https://vercel.com/docs/drains)，了解详细配置方法、支持的数据格式及 Schema 参考。
-{% endraw %}
+&#123;% endraw %}

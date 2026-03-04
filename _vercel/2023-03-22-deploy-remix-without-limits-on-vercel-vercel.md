@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now has advanced Remix support, including SSR streaming with Edge Functions and multi-runtime support."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 22, 2023
 
@@ -421,4 +421,4 @@ Deploy this template
 Remix Boilerplate
 
 Remix 项目脚手架
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "A conversation with Minna Song, CEO & Co-founder of EliseAI."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 18, 2025
 
@@ -92,4 +92,4 @@ _EliseAI uses ChatGPT across its organization. The company also powers its platf
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Healthcare](https://openai.com/stories/?tags=healthcare)
 - [Services](https://openai.com/stories/?tags=industry-services)
-{% endraw %}
+&#123;% endraw %}

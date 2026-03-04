@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Skew Protection from Vercel, a mechanism to eliminate version skew"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 21, 2023
 
@@ -205,4 +205,4 @@ Vercel.com 着陆页
 ### See how teams ship faster with frontend cloud
 
 ### 了解团队如何借助前端云更快地交付产品
-{% endraw %}
+&#123;% endraw %}

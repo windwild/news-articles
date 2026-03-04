@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 ## Challenge
 
@@ -137,4 +137,4 @@ The next step was to connect to an LLM to produce a suggested response for suppo
 [**Monte Carlo：使用 LangGraph 和 LangSmith 构建数据与 AI 可观测性智能体**](https://blog.langchain.com/customers-monte-carlo/)
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

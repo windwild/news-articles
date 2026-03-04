@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 4, 2024
 
@@ -35,4 +35,4 @@ Apr 4, 2024
 有关筛选功能的更多详情，请参阅[我们的文档](https://vercel.com/docs/analytics/filtering#using-filters)。
 
 有关筛选功能的更多详情，请参阅[我们的文档](https://vercel.com/docs/analytics/filtering#using-filters)。
-{% endraw %}
+&#123;% endraw %}

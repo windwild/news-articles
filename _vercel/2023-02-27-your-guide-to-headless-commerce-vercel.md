@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Curious about headless commerce? Learn all about going headless with a composable stack so you can boost developer velocity, conversions, and more."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 27, 2023
 
@@ -415,4 +415,4 @@ Nov 30, 2022
 Greta Workman
 
 格蕾塔·沃克曼
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's changelog for October 2019"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 1, 2019
 
@@ -32,4 +32,4 @@ Oct 1, 2019
 - 随着更优 CPU 的加入，构建性能得到提升
 
 - [部署摘要](https://zeit.co/integrations/deploy-summary) 现在会在截图中过滤掉 `pages/api`
-{% endraw %}
+&#123;% endraw %}

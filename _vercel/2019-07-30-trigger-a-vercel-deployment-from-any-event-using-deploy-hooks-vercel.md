@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "With Deploy Hooks, you can create a deployment based on any event."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 30, 2019
 
@@ -134,4 +134,4 @@ In this post, we explored how Deploy Hooks can help you **automatically re-build
 How do you intend on using Deploy Hooks? Let us know via [Twitter](https://twitter.com/vercel) or [Chat](https://zeit.co/contact)!
 
 您计划如何使用部署钩子？欢迎通过 [Twitter](https://twitter.com/vercel) 或 [聊天支持](https://zeit.co/contact) 告诉我们！
-{% endraw %}
+&#123;% endraw %}

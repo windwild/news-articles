@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "CodeRabbit uses OpenAI models to revolutionize code reviews—boosting accuracy, accelerating PR merges, and helping developers ship faster with fewer bugs and higher ROI."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 22, 2025
 
@@ -79,4 +79,4 @@ CodeRabbit is continuing to scale adoption and expand its in-IDE support, making
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

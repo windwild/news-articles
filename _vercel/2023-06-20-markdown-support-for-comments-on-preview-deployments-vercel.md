@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 20, 2023
 
@@ -43,4 +43,4 @@ Jun 20, 2023
 [查看文档](https://vercel.com/docs/workflow-collaboration/comments/using-comments#use-markdown-in-a-comment) 以了解更多信息。
 
 [查看文档](https://vercel.com/docs/workflow-collaboration/comments/using-comments#use-markdown-in-a-comment) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

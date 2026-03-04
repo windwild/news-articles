@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 22, 2023
 
@@ -61,4 +61,4 @@ This package is available to users on all plans and is our first step in bringin
 [Check out the documentation](https://vercel.com/docs/workflow-collaboration/comments/in-production-and-localhost) to learn more.
 
 [查看文档](https://vercel.com/docs/workflow-collaboration/comments/in-production-and-localhost) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "We’re testing the ability for ChatGPT to remember things you discuss to make future chats more helpful. You’re in control of ChatGPT’s memory."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 13, 2024
 
@@ -100,4 +100,4 @@ Memory for GPTs will be available when we roll it out more broadly.
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

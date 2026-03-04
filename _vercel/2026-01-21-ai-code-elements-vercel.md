@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A brand new set of components designed to help you build the next generation of IDEs, coding apps and background agents."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 21, 2026
 
@@ -247,4 +247,4 @@ npx ai-elements add attachments
 ```
 
 ![](images/ai-code-elements-vercel/img_025.jpg)![](images/ai-code-elements-vercel/img_026.jpg)
-{% endraw %}
+&#123;% endraw %}

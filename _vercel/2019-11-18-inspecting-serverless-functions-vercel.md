@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: " Get insight into your Serverless Functions with the new \"Functions\" dashboard tab."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 18, 2019
 
@@ -73,4 +73,4 @@ This is just another one of several features we are planning to launch to suppor
 [Let us know what you think](mailto:support@vercel.com) about this change!  
 
 [欢迎就本次更新分享您的想法](mailto:support@vercel.com)！
-{% endraw %}
+&#123;% endraw %}

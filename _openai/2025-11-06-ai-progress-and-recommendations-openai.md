@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "AI is advancing fast. We have the chance to shape its progress—toward discovery, safety, and a better future for everyone."
 ---
-{% raw %}
+&#123;% raw %}
 
 November 6, 2025
 
@@ -70,4 +70,4 @@ Understanding how AI is concretely impacting the world makes it easier to steer 
 We believe that adults should be able to use AI on their own terms, within broad bounds defined by society. We expect access to advanced AI to be a foundational utility in the coming years—on par with electricity, clean water, or food. Ultimately, we think society should support making these tools widely available and that the north star should be helping empower people to achieve their goals.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Conformance and Code Owners are now available"
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 5, 2023
 
@@ -177,4 +177,4 @@ Contact Us](https://vercel.com/contact/sales)
 联系我们，深入了解如何优化您的前端工作流，并借助 Vercel 赋能团队，交付更卓越的 Web 体验。\\
 \\
 联系销售](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

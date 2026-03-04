@@ -10,7 +10,7 @@ description: "How the voices for ChatGPT were chosen
 We worked with industry-leading casting and directing professionals to narrow down over 400 submissions before selecting the 5 voices."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 19, 2024
 
@@ -80,4 +80,4 @@ Looking ahead, you can expect even more options as we plan to introduce addition
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

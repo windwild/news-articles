@@ -9,7 +9,7 @@ translated: false
 description: "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Updated: April 24, 2024
 
@@ -229,4 +229,4 @@ print(fib(10))
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 29, 2025
 
@@ -32,4 +32,4 @@ We recommend using these models to classify content against a provided policy, a
 The gpt-oss-safeguard models are fine-tunes of their gpt-oss counterparts, and were trained without any additional biological or cybersecurity data. As a result, we determined that the previous work [estimating worst case scenarios⁠](https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/) from gpt-oss release cross applies to these new models.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

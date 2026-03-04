@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Ship 2024 highlighted the integrations, ecosystem, and teams building the web's best products. Read the recap to catch up on all our announcements."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 24, 2024
 
@@ -234,4 +234,4 @@ Vercel.com 着陆页
 ### Helping teams ship 6x faster.
 
 ### 帮助团队将交付速度提升 6 倍。
-{% endraw %}
+&#123;% endraw %}

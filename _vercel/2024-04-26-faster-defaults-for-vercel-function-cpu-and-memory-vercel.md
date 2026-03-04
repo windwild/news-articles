@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 26, 2024
 
@@ -25,4 +25,4 @@ Apr 26, 2024
 该变更将自动应用于所有付费计划客户（Pro 与 Enterprise），**无需任何操作**。
 
 请查阅我们的 [文档](https://vercel.com/docs/functions/configuring-functions/memory)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

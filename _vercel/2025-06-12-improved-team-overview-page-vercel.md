@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel team overview now sorts by your activity, can be filtered by repository, and shows a window into your usage. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 12, 2025
 
@@ -35,4 +35,4 @@ We've improved the team overview in the Vercel dashboard:
 To learn more about the Vercel dashboard, visit the [documentation](https://vercel.com/docs/dashboard-features).
 
 如需了解更多关于 Vercel 控制台的信息，请访问[文档](https://vercel.com/docs/dashboard-features)。
-{% endraw %}
+&#123;% endraw %}

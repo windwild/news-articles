@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 12, 2023
 
@@ -25,4 +25,4 @@ Sep 12, 2023
 - **我们致力于持续合规：** 作为遵守 ISO/IEC 27001 标准的一部分，我们将持续接受定期监督审核。
 
 [了解更多关于 Vercel 安全性的信息](https://vercel.com/docs/security/overview)。
-{% endraw %}
+&#123;% endraw %}

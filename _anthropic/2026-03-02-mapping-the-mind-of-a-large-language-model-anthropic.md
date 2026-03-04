@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We have identified how millions of concepts are represented inside Claude Sonnet, one of our deployed large language models. This is the first ever detailed look inside a modern, production-grade larg..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Interpretability
 
@@ -186,4 +186,4 @@ _若您有兴趣加入我们，共同推进 AI 模型的可解释性研究与安
 [Mapping the Mind of a Large Language Model](https://cdn.sanity.io/files/4zrzovbb/website/e2ae0c997653dfd8a7cf23d06f5f06fd84ccfd58.pdf)
 
 [绘制大型语言模型的思维图谱](https://cdn.sanity.io/files/4zrzovbb/website/e2ae0c997653dfd8a7cf23d06f5f06fd84ccfd58.pdf)
-{% endraw %}
+&#123;% endraw %}

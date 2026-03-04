@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 7, 2020
 
@@ -27,4 +27,4 @@ We explore the application of transformer-based language models to automated the
 
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Language](https://openai.com/research/index/?tags=language)
-{% endraw %}
+&#123;% endraw %}

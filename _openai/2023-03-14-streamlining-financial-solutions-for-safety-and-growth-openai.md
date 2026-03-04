@@ -9,7 +9,7 @@ translated: false
 description: "Stripe leverages GPT-4 to streamline user experience and combat fraud."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Stripe
@@ -99,4 +99,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Streamlining financial solutions for safety and growth \| OpenAI
-{% endraw %}
+&#123;% endraw %}

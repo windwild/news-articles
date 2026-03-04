@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A high-performance ecommerce template, including support for BigCommerce, Medusa, Saleor, Shopify, and Swell."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 7, 2023
 
@@ -680,4 +680,4 @@ Providers are able to fork the Next.js Commerce repository add support for their
 To get started with your own ecommerce store, you can deploy your own version of Next.js Commerce 2.0 + Shopify by [visiting the template page](https://vercel.com/templates/next.js/nextjs-commerce) and using our one click to deploy button.
 
 如需快速搭建您自己的电商网站，只需[访问模板页面](https://vercel.com/templates/next.js/nextjs-commerce)，点击一键部署按钮，即可轻松部署 Next.js Commerce 2.0 + Shopify 版本。
-{% endraw %}
+&#123;% endraw %}

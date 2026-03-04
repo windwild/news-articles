@@ -9,7 +9,7 @@ translated: false
 description: "We’re releasing a new batch of seven unsolved problems which have come up in the course of our research at OpenAI."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 31, 2018
 
@@ -66,4 +66,4 @@ Want to work on problems like these professionally? [Apply⁠](https://openai.c
 
 - [Language](https://openai.com/research/index/?tags=language)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

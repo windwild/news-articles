@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now detects and deploys Fastify, a fast and low overhead web framework, with zero configuration."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 31, 2025
 
@@ -48,4 +48,4 @@ Vercel 上的后端默认使用 [Fluid compute（流式计算）](https://vercel
 [Deploy Fastify on Vercel](https://vercel.com/templates/backend/fastify-on-vercel) or visit the [Fastify on Vercel documentation](https://vercel.com/docs/frameworks/backend/fastify)
 
 [在 Vercel 上部署 Fastify](https://vercel.com/templates/backend/fastify-on-vercel)，或查阅 [Vercel 上的 Fastify 文档](https://vercel.com/docs/frameworks/backend/fastify)
-{% endraw %}
+&#123;% endraw %}

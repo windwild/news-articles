@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that e..."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 12, 2025
 
@@ -77,4 +77,4 @@ As part of this new agreement, BBVA will have a dedicated team working directly 
 This expanded alliance highlights how businesses like BBVA are moving beyond experimentation to embed AI at the core of their business and transform daily work, operations, and customer experiences. Today, more than one million business customers, including Deutsche Telekom, Virgin Atlantic, and Accenture, work with OpenAI, making it the fastest-growing business platform of all time.
 
 此次合作升级凸显出，以BBVA为代表的领先企业正从早期探索阶段迈向纵深发展阶段——将AI深度融入企业核心，系统性地重塑日常工作、运营流程与客户体验。截至目前，已有超百万家企业客户（包括德国电信Deutsche Telekom、维珍航空Virgin Atlantic及埃森哲Accenture等）正在使用OpenAI，使其成为有史以来增长最快的企业级平台。
-{% endraw %}
+&#123;% endraw %}

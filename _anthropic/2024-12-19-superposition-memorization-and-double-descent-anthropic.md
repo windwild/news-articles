@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 InterpretabilityResearch
 
@@ -65,4 +65,4 @@ In this note, we offer a very preliminary investigation of training the same toy
 
 - We observe double descent as the model transitions between these regimes.  
 - 当模型在这两种状态之间转换时，我们观察到了“双下降”（double descent）现象。
-{% endraw %}
+&#123;% endraw %}

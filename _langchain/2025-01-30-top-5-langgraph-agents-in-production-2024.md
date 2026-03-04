@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:41:18.456934418+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 2024 was the year that agents started to work in production. Not the wide-ranging, fully autonomous agents that people imagined with [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT?ref=blog.langchain.com). But more vertical, narrowly scoped, highly controllable agents with custom [cognitive architectures](https://blog.langchain.com/what-is-a-cognitive-architecture/). It's still not easy to build these agents — but it's entirely possible.
 
@@ -135,4 +135,4 @@ We've chatted with them a few times about Replit Agent:
 
 - [Breakout Agents](https://www.langchain.com/breakoutagents/replit?ref=blog.langchain.com)  
 - [专题智能体展示](https://www.langchain.com/breakoutagents/replit?ref=blog.langchain.com)
-{% endraw %}
+&#123;% endraw %}

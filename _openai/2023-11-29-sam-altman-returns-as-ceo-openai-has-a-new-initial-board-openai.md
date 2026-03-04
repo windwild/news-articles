@@ -9,7 +9,7 @@ translated: false
 description: "Mira Murati as CTO, Greg Brockman returns as President. Read messages from CEO Sam Altman and board chair Bret Taylor."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 29, 2023
 
@@ -96,4 +96,4 @@ As previously stated, the OpenAI Board convened a committee consisting of Bret T
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

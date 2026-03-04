@@ -9,7 +9,7 @@ translated: false
 description: "Pushing the frontier of cost-effective reasoning."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 31, 2025
 
@@ -109,4 +109,4 @@ One of the key techniques we used to teach OpenAI o3‑mini to respond safely is
 ## What's next
 
 The release of OpenAI o3‑mini marks another step in OpenAI’s mission to push the boundaries of cost-effective intelligence. By optimizing reasoning for STEM domains while keeping costs low, we’re making high-quality AI even more accessible. This model continues our track record of driving down the cost of intelligence—reducing per-token pricing by 95% since launching GPT‑4—while maintaining top-tier reasoning capabilities. As AI adoption expands, we remain committed to leading at the frontier, building models that balance intelligence, efficiency, and safety at scale.
-{% endraw %}
+&#123;% endraw %}

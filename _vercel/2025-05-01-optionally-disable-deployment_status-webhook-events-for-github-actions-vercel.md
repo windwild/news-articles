@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now disable webhook events that Vercel sends to GitHub Actions that create many notifications on GitHub pull requests."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 1, 2025
 
@@ -29,4 +29,4 @@ May 1, 2025
 [`deployment_status` 事件](https://docs.github.com/en/rest/deployments/deployments?apiVersion=2022-11-28)最常被用作 GitHub Actions 的触发器。我们建议您[迁移到 `repository_dispatch` 事件](https://vercel.com/docs/git/vercel-for-github#migrating-from-deployment_status)，以简化工作流，并利用更丰富的 Vercel 部署信息。
 
 [参阅文档了解更多信息](https://vercel.com/docs/git/vercel-for-github#silence-deployment-notifications-on-pull-requests)。
-{% endraw %}
+&#123;% endraw %}

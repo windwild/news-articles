@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Dubai (dxb1) is now part of Vercel’s global edge network, improving latency for users in the Middle East, Africa, and Central Asia."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 16, 2025
 
@@ -31,4 +31,4 @@ Teams can configure Dubai as an execution region for Vercel Functions, which sup
 Learn more about [Vercel Regions](https://vercel.com/docs/edge-network/regions) and [Dubai's regional pricing](https://vercel.com/docs/pricing/regional-pricing/dxb1).
 
 了解更多关于 [Vercel Regions（Vercel 区域）](https://vercel.com/docs/edge-network/regions) 和 [迪拜区域定价](https://vercel.com/docs/pricing/regional-pricing/dxb1) 的信息。
-{% endraw %}
+&#123;% endraw %}

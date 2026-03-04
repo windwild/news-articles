@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 27, 2026
 
@@ -84,4 +84,4 @@ More than 1 million business customers around the world are directly using OpenA
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)  
 - [合作伙伴关系](https://openai.com/news/?tags=partnerships)
-{% endraw %}
+&#123;% endraw %}

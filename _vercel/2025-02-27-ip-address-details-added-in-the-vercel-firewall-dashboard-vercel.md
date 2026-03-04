@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Firewall dashboard now displays enriched IP address data, including the AS name, AS number, and geolocation on hover."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 27, 2025
 
@@ -27,4 +27,4 @@ This information helps identify the origin of an attack, determine the owner of 
 Learn more about the [Vercel Firewall](https://vercel.com/docs/security/vercel-firewall).
 
 了解更多关于 [Vercel 防火墙](https://vercel.com/docs/security/vercel-firewall) 的信息。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 26, 2023
 
@@ -23,4 +23,4 @@ You can now filter your account's Domains based on renewal status. This makes it
 [Check out the documentation](https://vercel.com/docs/concepts/projects/domains/renew-a-domain) to learn more.
 
 [查看文档](https://vercel.com/docs/concepts/projects/domains/renew-a-domain) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

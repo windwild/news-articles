@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 3, 2022
 
@@ -28,4 +28,4 @@ OpenAI is developing a research program to assess the economic impacts of code g
 - [Codex](https://openai.com/research/index/?tags=codex)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
-{% endraw %}
+&#123;% endraw %}

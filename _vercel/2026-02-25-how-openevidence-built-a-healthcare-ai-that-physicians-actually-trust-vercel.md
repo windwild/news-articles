@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "For Chief Strategy and Product Officer Jayme Fishman, the path to modernizing Avalara starts with how it builds."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 25, 2026
 
@@ -161,4 +161,4 @@ Since launching, OpenEvidence has grown to serve over 40% of physicians in the U
 _**About OpenEvidence:**_ _OpenEvidence is the fastest-growing clinical decision support platform in the United States, and the most widely used medical search engine among U.S. clinicians. OpenEvidence is trusted by hundreds of thousands of verified healthcare professionals to make high-stakes clinical decisions at the point of care that are sourced, cited, and grounded in peer-reviewed medical literature. Founded with the mission to help doctors save lives and improve patient care, OpenEvidence is actively used daily, on average, by over 40% of physicians in the United States, spanning more than 10,000 hospitals and medical centers nationwide. Learn more at_ [_openevidence.com._](https://openevidence.com./)
 
 _**关于 OpenEvidence：**_ OpenEvidence 是美国增长最快的临床决策支持平台，也是美国临床医生使用最广泛的医学搜索引擎。数十万经认证的医疗专业人士信赖 OpenEvidence，在诊疗一线做出高风险临床决策——所有建议均源自、引用并扎根于同行评议的医学文献。OpenEvidence 创立使命是助力医生挽救生命、改善患者照护；目前，全美平均每天有逾40%的执业医师活跃使用该平台，覆盖全国超过10,000家医院及医疗中心。了解更多，请访问 [_openevidence.com_](https://openevidence.com./)。
-{% endraw %}
+&#123;% endraw %}

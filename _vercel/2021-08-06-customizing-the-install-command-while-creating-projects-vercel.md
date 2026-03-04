@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 6, 2021
 
@@ -31,4 +31,4 @@ This also comes in handy for passing custom options to the `yarn` or `npm ins
 Check out [the documentation](https://vercel.com/docs/build-step#install-command) as well.
 
 也请参阅 [相关文档](https://vercel.com/docs/build-step#install-command)。
-{% endraw %}
+&#123;% endraw %}

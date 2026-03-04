@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 26, 2024
 
@@ -52,4 +52,4 @@ vercel.json
 在配置文件中定义您的备用区域。
 
 在项目设置中，企业版团队可以启用此功能。如果您尚未使用企业版，请[联系我们](https://vercel.com/contact/sales)以升级并启用函数故障转移功能。
-{% endraw %}
+&#123;% endraw %}

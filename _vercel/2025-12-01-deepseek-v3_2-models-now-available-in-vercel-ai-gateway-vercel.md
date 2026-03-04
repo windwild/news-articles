@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access the newest DeepSeek V3.2 models, V3.2 and V3.2 Speciale in Vercel AI Gateway with no other provider accounts required."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 1, 2025
 
@@ -74,4 +74,4 @@ View the leaderboard](https://vercel.com/ai-gateway/leaderboards)
 AI Gateway 模型排行榜依据所有经由网关的流量所产生的总 Token 量，对各模型的历史使用频次进行排序。榜单定期更新。\\
 \\
 查看排行榜](https://vercel.com/ai-gateway/leaderboards)
-{% endraw %}
+&#123;% endraw %}

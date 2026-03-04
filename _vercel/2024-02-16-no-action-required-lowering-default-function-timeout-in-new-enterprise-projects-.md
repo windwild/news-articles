@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 16, 2024
 
@@ -19,4 +19,4 @@ Feb 16, 2024
 **现有企业客户项目默认超时时间将保持不变。**
 
 [请参阅我们的文档](https://vercel.com/docs/functions/configuring-functions/duration)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

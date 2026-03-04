@@ -9,7 +9,7 @@ translated: false
 description: "We've analyzed how ChatGPT responds to users based on their name, using AI research assistants to protect privacy."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 15, 2024
 
@@ -118,4 +118,4 @@ We welcome feedback and collaboration. If you have insights or wish to work with
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Language](https://openai.com/research/index/?tags=language)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Incremental Static Regeneration (ISR) now faster and cheaper on Vercel. Writes to the ISR cache are now compressed by default, and the ISR cache location is now available in all regions and "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 30, 2025
 
@@ -41,4 +41,4 @@ Redeploy your project to apply these updates or learn more about [ISR](https://v
 _Update: The rollout of this change completed on February 5th, 2025 around 8am PST._
 
 _更新：本次变更已于 2025 年 2 月 5 日上午 8 点（太平洋标准时间，PST）完成全量发布。_
-{% endraw %}
+&#123;% endraw %}

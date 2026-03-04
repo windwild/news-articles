@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing Vercel KV general availability for hobby and pro Vercel customers. Connect your Vercel projects to native storage solutions. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 15, 2023
 
@@ -45,4 +45,4 @@ If you're an Enterprise company interested in using Vercel KV, you can [contact 
 [Check out the documentation](https://vercel.com/docs/storage/vercel-kv) to learn more about Vercel KV.
 
 [查阅文档](https://vercel.com/docs/storage/vercel-kv)，深入了解 Vercel KV。
-{% endraw %}
+&#123;% endraw %}

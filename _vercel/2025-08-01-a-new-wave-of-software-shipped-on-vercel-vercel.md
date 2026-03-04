@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We're launching a new way to showcase standout products built and shipped on Vercel. Submit your project. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 1, 2025
 
@@ -57,4 +57,4 @@ Submit](https://vercel.com/)
 Submissions are now open. If you’ve shipped something you're proud of with Vercel, we want to see it. Submissions will open for short windows, usually 48 hours at a time. If selected, we’ll reach out.
 
 投稿现已开放。如果您已使用 Vercel 上线了令您引以为豪的项目，我们非常期待看到它。投稿窗口期较短，通常每次仅开放 48 小时。若您被选中，我们将主动与您联系。
-{% endraw %}
+&#123;% endraw %}

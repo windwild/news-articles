@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise,..."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 23, 2025
 
@@ -85,4 +85,4 @@ We’ll continue adding support for additional tools to make company knowledge r
 Learn more about [**ChatGPT Business** ⁠(opens in a new window)](https://chatgpt.com/business?openaicom-did=d24fa91f-4a35-4b83-a09a-c46e0c82ad0c&openaicom_referred=true) or [**contact our team** ⁠(opens in a new window)](https://chatgpt.com/contact-sales?openaicom-did=d24fa91f-4a35-4b83-a09a-c46e0c82ad0c&openaicom_referred=true) to start using ChatGPT with your company knowledge.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Functions using Fluid compute now have longer execution times, more memory, and more CPU. The default execution time, for all projects on all plans, is now 300 seconds."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 25, 2025
 
@@ -39,4 +39,4 @@ Jun 25, 2025
 Learn more about [Vercel Function limits](https://vercel.com/docs/functions/limitations).
 
 了解更多关于 [Vercel 函数限制](https://vercel.com/docs/functions/limitations) 的信息。
-{% endraw %}
+&#123;% endraw %}

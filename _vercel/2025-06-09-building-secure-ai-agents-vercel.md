@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to design secure AI agents that resist prompt injection attacks. Understand tool scoping, input validation, and output sanitization strategies to protect LLM-powered systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 9, 2025
 
@@ -173,4 +173,4 @@ Security is not about trusting the model. It is about minimizing damage when it 
 [Start building agents with the AI SDK](https://ai-sdk.dev/docs/foundations/agents). Build for the failure path first. Then ship.
 
 [立即使用 AI SDK 开始构建智能体（agents）](https://ai-sdk.dev/docs/foundations/agents)。请优先为失败路径（failure path）进行设计与开发，再正式发布。
-{% endraw %}
+&#123;% endraw %}

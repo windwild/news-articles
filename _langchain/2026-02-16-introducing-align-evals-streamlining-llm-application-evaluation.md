@@ -9,7 +9,7 @@ translated: true
 description: "Align Evals is a new feature in LangSmith that helps you calibrate your evaluators to better match human preferences."
 tags: ["agent builder"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Evaluations are a key technique for improving your application — whether you’re working on a single prompt or a complex agent. As you compare models, update logic, or iterate on your architecture, evaluations are a reliable way to score outputs and understand the impact of your changes.
 
@@ -161,4 +161,4 @@ Give it a try! Get started by [heading to our developer documentation](https://d
 [**LangSmith's Latest Feature: Grouped Monitoring Charts**](https://blog.langchain.com/grouped-monitoring-charts/)
 
 [**LangSmith 最新功能：分组监控图表**](https://blog.langchain.com/grouped-monitoring-charts/)
-{% endraw %}
+&#123;% endraw %}

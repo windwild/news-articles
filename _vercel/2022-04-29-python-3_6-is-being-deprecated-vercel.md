@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 29, 2022
 
@@ -21,4 +21,4 @@ Apr 29, 2022
 自 **2022 年 7 月 18 日起**，所有新部署中若指定 Python 3.6，将因不兼容而失败，并返回错误信息。已存在的部署不受影响。
 
 也可参阅 [相关文档](https://vercel.com/docs/runtimes#official-runtimes/python/python-version)。
-{% endraw %}
+&#123;% endraw %}

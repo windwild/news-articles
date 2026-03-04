@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 18, 2021
 
@@ -33,4 +33,4 @@ You can now select a temporary or permanent **status code** for [Domain Redirect
 我们建议使用状态码 307 或 308，以避免对非 GET 方法重定向时产生的歧义——当您的应用需要重定向公开 API 时，这一点尤为关键。
 
 也欢迎查阅[相关文档](https://vercel.com/docs/custom-domains#redirecting-domains)。
-{% endraw %}
+&#123;% endraw %}

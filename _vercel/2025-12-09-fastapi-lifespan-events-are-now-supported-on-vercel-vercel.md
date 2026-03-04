@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports lifespan events on FastAPI apps, allowing you to define startup and shutdown logic such as setting up and shutting down database connections or flushing external logs."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 9, 2025
 
@@ -59,4 +59,4 @@ app = FastAPI(lifespan=lifespan)
 Deploy FastAPI on Vercel or visit the [FastAPI on Vercel documentation](https://vercel.com/docs/frameworks/backend/fastapi).
 
 在 Vercel 上部署 FastAPI，或访问 [FastAPI on Vercel 文档](https://vercel.com/docs/frameworks/backend/fastapi)。
-{% endraw %}
+&#123;% endraw %}

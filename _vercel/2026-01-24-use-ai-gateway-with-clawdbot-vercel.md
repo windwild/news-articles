@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can use Vercel AI Gateway with Clawdbot and access hundreds of models with no additional API keys required."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 24, 2026
 
@@ -65,4 +65,4 @@ You can then choose from hundreds of available models. Your AI assistant is now 
 See the [AI Gateway docs](https://vercel.com/docs/ai-gateway/chat-platforms/clawd-bot) for more details on Clawdbot and more integrations.
 
 请参阅 [AI Gateway 文档](https://vercel.com/docs/ai-gateway/chat-platforms/clawd-bot)，了解有关 Clawdbot 及更多集成的详细信息。
-{% endraw %}
+&#123;% endraw %}

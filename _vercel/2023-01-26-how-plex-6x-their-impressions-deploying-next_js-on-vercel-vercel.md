@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Plex customer story"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 26, 2023
 
@@ -137,4 +137,4 @@ Kiana and Steven
 ![](images/how-plex-6x-their-impressions-deploying-next_js-on-vercel-vercel/img_002.jpg)
 
 Kiana Lewis
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Published: October 11, 2023
 
@@ -92,4 +92,4 @@ Foundation models are AI models that are developed using large amounts of comput
 The fields of artificial intelligence and machine learning are advancing rapidly, so these definitions will continue to evolve over time.
 
 OpenAI’s technology explained \| OpenAI
-{% endraw %}
+&#123;% endraw %}

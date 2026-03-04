@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 4, 2022
 
@@ -33,4 +33,4 @@ To access your Slack workspace custom emojis in a Preview Deployment, install th
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/comments) to learn more about comments in Preview Deployments.
 
 [查阅文档](https://vercel.com/docs/concepts/deployments/comments) 以了解更多关于预览部署中评论功能的信息。
-{% endraw %}
+&#123;% endraw %}

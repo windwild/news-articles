@@ -9,7 +9,7 @@ translated: true
 description: "Assaf Elovic, Head of R&D at Wix, walks through how to build an autonomous research assistant using LangGraph with a team of specialized agents."
 tags: ["langgraph", "![Reflection Agents", "**Reflection Agents**", "agents", "**Plan-and-Execute Agents**", "By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 **_Editor's Note: The following post is authored by Assaf Elovic, Head of R&D at_** [**_Wix_**](https://www.wix.com/?ref=blog.langchain.com) **_. In this blog, he walks through how to build an autonomous research assistant using LangGraph with a team of specialized agents._**
 
@@ -500,4 +500,4 @@ To keep track of this project’s ongoing progress and updates please join our 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 5 分钟阅读
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 5 min read
-{% endraw %}
+&#123;% endraw %}

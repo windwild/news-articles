@@ -9,7 +9,7 @@ translated: false
 description: "Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of diagnosing rare medical challenges."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 12, 2024
 
@@ -26,4 +26,4 @@ Say hello to OpenAI o1—a new series of AI models designed to spend more time t
 Catherine Brownstein, Geneticist
 
 Decoding genetics with OpenAI o1 \| OpenAI
-{% endraw %}
+&#123;% endraw %}

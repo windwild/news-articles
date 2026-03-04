@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "By adopting Next.js and Vercel, Elkjøp improved page loads, SEO, and overall user experience, driving over $1 Billion in digital revenue"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 24, 2024
 
@@ -157,4 +157,4 @@ Jan 19, 2024
 Malte and Alice
 
 Malte 与 Alice
-{% endraw %}
+&#123;% endraw %}

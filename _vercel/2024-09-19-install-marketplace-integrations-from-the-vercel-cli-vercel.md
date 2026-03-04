@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 19, 2024
 
@@ -45,4 +45,4 @@ Running the **`vc i`** command will:
 Check out the [documentation](https://vercel.com/docs/cli/install) to learn more.
 
 请查阅 [文档](https://vercel.com/docs/cli/install) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

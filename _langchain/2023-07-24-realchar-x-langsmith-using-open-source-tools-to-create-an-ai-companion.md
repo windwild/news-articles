@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:32:33.537655627+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **_Editor’s Note: This blog post was written in collaboration with RealChar, an early [LangSmith](https://www.langchain.com/langsmith?ref=blog.langchain.com) BETA user. They moved fast and created something really, really sophisticated and really, really fun to use–all with open source tools._**
 
@@ -92,4 +92,4 @@ LANGCHAIN_PROJECT=YOUR_LANGCHAIN_PROJECT
 
 
 [**借助 LangChain，通过 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
-{% endraw %}
+&#123;% endraw %}

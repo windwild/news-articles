@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 2, 2023
 
@@ -21,4 +21,4 @@ Nov 2, 2023
 有关如何[迁移到“标准防护”](https://vercel.com/docs/security/deployment-protection#migrating-to-standard-protection)的更多详情，请参阅我们的文档。
 
 部署防护功能**在所有套餐中均可用。**
-{% endraw %}
+&#123;% endraw %}

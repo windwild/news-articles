@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 6, 2017
 
@@ -28,4 +28,4 @@ Reinforcement learning (RL) makes it possible to train agents capable of achievi
 In this paper, we present a method for unsupervised third-person imitation learning. Here third-person refers to training an agent to correctly achieve a simple goal in a simple environment when it is provided a demonstration of a teacher achieving the same goal but from a different viewpoint; and unsupervised refers to the fact that the agent receives only these third-person demonstrations, and is not provided a correspondence between teacher states and student states. Our methods primary insight is that recent advances from domain confusion can be utilized to yield domain agnostic features which are crucial during the training process. To validate our approach, we report successful experiments on learning from third-person demonstrations in a pointmass domain, a reacher domain, and inverted pendulum.
 
 - [Robotics](https://openai.com/research/index/?tags=robotics)
-{% endraw %}
+&#123;% endraw %}

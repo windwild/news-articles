@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: " Protect your content from unauthorized AI crawlers with Vercel's new AI bot managed ruleset, offering one-click protection against known AI bots while automatically updating to catch new crawlers wit..."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 13, 2025
 
@@ -51,4 +51,4 @@ Customize](https://vercel.com/docs/vercel-firewall/vercel-waf/custom-rules)
 将一键式 AI Bot 过滤器与细粒度条件判断或速率限制相结合，实现高度定制化的防护策略。  
 \\  
 立即自定义](https://vercel.com/docs/vercel-firewall/vercel-waf/custom-rules)
-{% endraw %}
+&#123;% endraw %}

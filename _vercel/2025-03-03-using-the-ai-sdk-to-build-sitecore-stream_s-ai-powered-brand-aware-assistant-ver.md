@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Sitecore Stream from Sitecore, powered by the AI SDK, empowers marketers with real-time conversational AI. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 3, 2025
 
@@ -120,4 +120,4 @@ Get started with the AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-s
 使用 AI SDK 构建 AI 驱动的应用程序。\\
 \\
 立即开始使用 AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-sdk)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,6 @@ translated: false
 description: "We’re releasing Triton 1.0, an open-source Python-like programming language which enables researchers with no CUDA experience to write highly efficient GPU code—most of the time on par with what a..."
 tags: ["Research"]
 ---
-{% raw %}
 
 July 28, 2021
 
@@ -408,9 +407,9 @@ entry:
     setp.lt.s32     %p1, %r17, %r14;
     mul.wide.s32     %rd7, %r17, 4;
     add.s64     %rd2, %rd4, %rd7;
-    @%p1 ld.global.cg.v4.b32 {%r5,%r6,%r7,%r8}, [ %rd2 + 0];
+    @%p1 ld.global.cg.v4.b32 &#123;%r5,%r6,%r7,%r8}, [ %rd2 + 0];
     add.s64     %rd3, %rd5, %rd7;
-    @%p1 ld.global.cg.v4.b32 {%r9,%r10,%r11,%r12}, [ %rd3 + 0];
+    @%p1 ld.global.cg.v4.b32 &#123;%r9,%r10,%r11,%r12}, [ %rd3 + 0];
     @%p3 bra     LBB0_2;
     ld.param.u64     %rd6, [add_param_2];
     add.s64     %rd1, %rd6, %rd7;
@@ -418,7 +417,7 @@ entry:
     add.s32     %r2, %r6, %r10;
     add.s32     %r3, %r7, %r11;
     add.s32     %r4, %r8, %r12;
-    st.global.v4.u32     [%rd1], {%r1, %r2, %r3, %r4};
+    st.global.v4.u32     [%rd1], &#123;%r1, %r2, %r3, %r4};
 LBB0_2:
     ret;
 }
@@ -568,4 +567,3 @@ Lin, Y. & Grover, V. (2018). [Using CUDA Warp-Level Primitives⁠(opens in a ne
 
 8. 8
 Braun, M., Buchwald, S., Hack, S., Leißa, R., Mallon, C., & Zwinkau, A. (2013, March). [Simple and efficient construction of static single assignment form⁠(opens in a new window)](https://link.springer.com/chapter/10.1007/978-3-642-37051-9_6). In _International Conference on Compiler Construction_ (pp. 102-122). Springer, Berlin, Heidelberg.
-{% endraw %}

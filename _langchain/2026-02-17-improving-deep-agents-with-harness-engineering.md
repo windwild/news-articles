@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "TLDR: Our coding agent went from Top 30 to Top 5 on Terminal Bench 2.0. We only changed the harness. Here&#x2019;s our approach to harness engineering (teaser: self-verification & tracing help a lot)...."
 ---
-{% raw %}
+&#123;% raw %}
 
 TLDR: Our coding agent went from Top 30 to Top 5 on [Terminal Bench 2.0](https://www.tbench.ai/leaderboard/terminal-bench/2.0?ref=blog.langchain.com). We only changed the harness. Here’s our approach to harness engineering (teaser: self-verification & tracing help a lot).
 
@@ -260,4 +260,4 @@ Deep Agents 开源项目已发布：[Python 版本](https://github.com/langchain
 
 **To more hill climbing and open research.**  
 **迈向更高效的爬山式优化与开放研究。**
-{% endraw %}
+&#123;% endraw %}

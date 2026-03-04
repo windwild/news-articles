@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access the GPT 5.2 models on Vercel's AI Gateway with no other provider accounts required."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 11, 2025
 
@@ -115,4 +115,4 @@ View the leaderboard](https://vercel.com/ai-gateway/leaderboards)
 AI Gateway 模型排行榜依据所有经由 Gateway 流转的流量所产生的总 Token 量，对各模型的历史使用频次进行排序。榜单定期更新。\\
 \\
 查看排行榜](https://vercel.com/ai-gateway/leaderboards)
-{% endraw %}
+&#123;% endraw %}

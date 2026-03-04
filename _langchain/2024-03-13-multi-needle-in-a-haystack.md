@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:08:43.267701831+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 ## Key Links
 
@@ -254,4 +254,4 @@ We can draw a few general insights, but further testing is needed:
 - `Retrieval vs reasoning` \- Performance degrades when the LLM is asked to reason about the retrieved facts.
 
 - `检索 vs 推理`：当要求大语言模型对已检索出的事实进行推理时，其性能会下降。
-{% endraw %}
+&#123;% endraw %}

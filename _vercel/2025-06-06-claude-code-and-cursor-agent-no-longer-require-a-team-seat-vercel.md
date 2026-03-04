@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Claude Code and Cursor Agent can now trigger builds on Vercel without a team seat, as a part of our bot detection policies."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 6, 2025
 
@@ -21,4 +21,4 @@ We've updated our build logic to ensure Git commits authored by [Claude Code](ht
 If your agent encounters any issues building on Vercel, please contact us.
 
 若您使用的智能体在 Vercel 上构建时遇到任何问题，请随时联系我们。
-{% endraw %}
+&#123;% endraw %}

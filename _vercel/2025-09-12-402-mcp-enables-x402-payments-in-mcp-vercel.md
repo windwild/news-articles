@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing x402-mcp, a library that integrates with the AI SDK to bring x402 paywalls to Model Context Protocol (MCP) servers to let agents discover and call pay for MCP tools easily and securely."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 12, 2025
 
@@ -138,4 +138,4 @@ Deploy](https://vercel.com/templates/ai/x402-ai-starter)
 基于 Next.js、AI SDK、AI 网关、AI Components 及 Coinbase CDP 构建的 x402 全栈 AI 演示应用\\
 \\
 立即部署](https://vercel.com/templates/ai/x402-ai-starter)
-{% endraw %}
+&#123;% endraw %}

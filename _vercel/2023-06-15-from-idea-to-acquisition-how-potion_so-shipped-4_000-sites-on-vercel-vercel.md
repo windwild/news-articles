@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The success of Potion's one-person team is a testament to the power of Vercel's Frontend Cloud toolkit. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 15, 2023
 
@@ -184,4 +184,4 @@ Feb 1, 2023
 Alli and Steven
 
 阿莉和史蒂文
-{% endraw %}
+&#123;% endraw %}

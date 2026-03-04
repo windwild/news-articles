@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Create a powerful, statically-rendered experimentation engine at scale."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 23, 2023
 
@@ -822,4 +822,4 @@ Jan 13, 2023
 ![](images/how-to-build-zero-cls-a_b-tests-with-next_js-and-vercel-edge-config-vercel/img_007.jpg)
 
 格蕾丝·马德林格
-{% endraw %}
+&#123;% endraw %}

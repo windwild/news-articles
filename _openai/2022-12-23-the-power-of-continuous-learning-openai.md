@@ -9,7 +9,7 @@ translated: false
 description: "Lilian Weng works on Applied AI Research at OpenAI."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 23, 2022
 
@@ -111,4 +111,4 @@ CompanyDec 8, 2022](https://openai.com/index/discovering-the-minutiae-of-backend
 CompanyNov 30, 2021](https://openai.com/index/openai-residency/)
 
 The power of continuous learning \| OpenAI
-{% endraw %}
+&#123;% endraw %}

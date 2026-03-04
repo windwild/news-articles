@@ -9,7 +9,7 @@ translated: false
 description: "Dr. Ronnie Chatterji named OpenAI’s first Chief Economist"
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 22, 2024
 
@@ -39,4 +39,4 @@ Dr. Chatterji is currently the Mark Burgess & Lisa Benson-Burgess Distinguished 
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

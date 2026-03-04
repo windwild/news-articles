@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring pages, and custom Christmas stories."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 1, 2025
 
@@ -37,4 +37,4 @@ Happy Holidays from OpenAI!
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
-{% endraw %}
+&#123;% endraw %}

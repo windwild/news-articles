@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "New projects will detect and use pnpm@10, based on the project lockfile. Old projects can opt-in to pnpm@10 using Corepack."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 28, 2025
 
@@ -31,4 +31,4 @@ Check your [build logs](https://vercel.com/docs/deployments/logs) to see which v
 Visit the [package managers documentation](https://vercel.com/docs/deployments/builds/package-managers#supported-package-managers) to learn more.
 
 请访问 [包管理器文档](https://vercel.com/docs/deployments/builds/package-managers#supported-package-managers)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

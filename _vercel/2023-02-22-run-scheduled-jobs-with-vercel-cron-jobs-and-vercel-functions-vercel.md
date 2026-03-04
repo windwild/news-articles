@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 22, 2023
 
@@ -27,4 +27,4 @@ By using a specific syntax called a [cron expression](https://vercel.com/docs/c
 Vercel Cron Jobs are available in public beta. [Check out the documentation](https://vercel.com/docs/cron-jobs) to get started.
 
 Vercel Cron Jobs 当前处于公开测试（public beta）阶段。[请查阅文档](https://vercel.com/docs/cron-jobs) 开始使用。
-{% endraw %}
+&#123;% endraw %}

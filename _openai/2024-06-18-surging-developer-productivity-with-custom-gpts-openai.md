@@ -9,7 +9,7 @@ translated: false
 description: "Paf adopted ChatGPT Enterprise across its entire company, with engineers using custom GPTs on a daily basis to speed up routine development tasks. Paf also integrated ChatGPT Enterprise into the grit:..."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [ChatGPT](https://openai.com/stories/chatgpt/) [API](https://openai.com/stories/api/)
 
@@ -83,4 +83,4 @@ This AI-augmented approach will allow Paf to innovate with a velocity similar to
 [Talk with our team](https://openai.com/contact-sales/)
 
 Surging developer productivity with custom GPTs \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "The Washington Post is partnering with with OpenAI to integrate news into ChatGPT, providing users with summaries, quotes, and direct links to original reporting."
 ---
-{% raw %}
+&#123;% raw %}
 
 April 22, 2025
 
@@ -38,4 +38,4 @@ This partnership is the latest example of The Post’s commitment to expanding t
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
-{% endraw %}
+&#123;% endraw %}

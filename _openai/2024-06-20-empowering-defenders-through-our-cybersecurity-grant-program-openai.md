@@ -11,7 +11,7 @@ description: "Highlighting innovative research and AI integration in cybersecuri
 "
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 20, 2024
 
@@ -82,4 +82,4 @@ Submit your proposal [here⁠](https://openai.com/form/cybersecurity-grant-progr
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

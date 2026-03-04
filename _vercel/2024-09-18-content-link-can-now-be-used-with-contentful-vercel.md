@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 2024年9月18日
 
@@ -33,4 +33,4 @@ description: "The best way to deploy your Next.js site."
 [查阅文档](https://vercel.com/docs/integrations/cms/contentful#content-link) 即刻开始使用。
 
 [查阅文档](https://vercel.com/docs/integrations/cms/contentful#content-link) 即刻开始使用。
-{% endraw %}
+&#123;% endraw %}

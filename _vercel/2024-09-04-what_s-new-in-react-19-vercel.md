@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "React 19 is near. Here's what to expect and how you can get started deploying React 19 on Vercel."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 4, 2024
 
@@ -1414,4 +1414,4 @@ Deploy React 19 with Waku.\\
 使用 Waku 部署 React 19。\\
 \\
 ▲ 部署](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel-labs%2Freact-19-on-vercel%2Ftree%2Fmain%2Fwaku&repository-name=react-19-waku)
-{% endraw %}
+&#123;% endraw %}

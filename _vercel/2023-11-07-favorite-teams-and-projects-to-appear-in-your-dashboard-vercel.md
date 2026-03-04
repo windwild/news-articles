@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Now, favorited projects will also appear in your dashboard overview, and you can easily add and remove them from the context menu."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 7, 2023
 
@@ -23,4 +23,4 @@ We recently introduced an improved [project and team switcher](https://vercel.c
 Now, favorited projects will also appear in your dashboard overview, and you can easily add and remove them from the context menu.
 
 现在，已收藏的项目也将显示在您的仪表板概览中，您可通过右键上下文菜单轻松添加或移除它们。
-{% endraw %}
+&#123;% endraw %}

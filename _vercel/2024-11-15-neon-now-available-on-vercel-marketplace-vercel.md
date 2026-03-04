@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 15, 2024
 
@@ -25,4 +25,4 @@ Nov 15, 2024
 [Vercel Marketplace](https://vercel.com/marketplace) 面向所有订阅计划的客户开放。
 
 立即开始使用 [Vercel 上的 Neon](https://vercel.com/new/templates/next.js/postgres-starter)。
-{% endraw %}
+&#123;% endraw %}

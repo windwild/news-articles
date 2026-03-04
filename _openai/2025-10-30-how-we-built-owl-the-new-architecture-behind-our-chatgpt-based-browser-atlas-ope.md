@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 30, 2025
 
@@ -114,4 +114,4 @@ By rethinking how a browser holds Chromium, we’re creating space for new kinds
 ## Acknowledgements
 
 Special thanks to Darin Fisher and Marie Shin, who contributed to this post and to the entire OpenAI team that built Atlas.
-{% endraw %}
+&#123;% endraw %}

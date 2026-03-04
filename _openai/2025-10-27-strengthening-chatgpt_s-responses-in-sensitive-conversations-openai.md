@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 27, 2025
 
@@ -208,4 +208,4 @@ This work is deeply important to us, and we’re grateful to the many mental hea
 You can read more about this work in an [addendum⁠](https://openai.com/index/gpt-5-system-card-sensitive-conversations/) to the GPT‑5 system card.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

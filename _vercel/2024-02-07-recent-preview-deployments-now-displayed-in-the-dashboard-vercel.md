@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 7, 2024
 
@@ -21,4 +21,4 @@ Feb 7, 2024
 每个近期预览条目均包含指向 Vercel 上该部署页面的链接；当可用时，还包含指向代码托管平台（如 GitHub、GitLab 等）上对应 Pull Request 或源代码的链接。
 
 了解更多，请参阅 [仪表板概览](https://vercel.com/docs/dashboard-features) 文档。
-{% endraw %}
+&#123;% endraw %}

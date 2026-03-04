@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 9, 2024
 
@@ -27,4 +27,4 @@ Starting today, all new deployments will be able to increase the maximum duratio
 [Check out our documentation](https://vercel.com/docs/functions/configuring-functions/duration) to learn more.
 
 [查阅我们的文档](https://vercel.com/docs/functions/configuring-functions/duration) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

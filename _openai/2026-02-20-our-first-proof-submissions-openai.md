@@ -9,7 +9,7 @@ translated: true
 description: "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 20, 2026
 
@@ -66,4 +66,4 @@ We look forward to deeper engagement with the community on how to evaluate resea
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

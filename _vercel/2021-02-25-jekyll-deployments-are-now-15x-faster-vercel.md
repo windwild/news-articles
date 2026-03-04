@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 25, 2021
 
@@ -25,4 +25,4 @@ Starting today, Jekyll dependencies from `bundle install` will be cached and use
 You can verify that the build cache was used by viewing your Deployment's build logs.
 
 您可通过查看部署（Deployment）的构建日志，确认构建缓存是否已被成功使用。
-{% endraw %}
+&#123;% endraw %}

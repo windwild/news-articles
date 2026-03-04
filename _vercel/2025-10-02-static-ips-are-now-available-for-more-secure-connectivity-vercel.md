@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Teams on Pro and Enterprise can now access Static IPs to connect to services that require IP allowlisting. Static IPs give your projects consistent outbound IPs without needing the full networking sta..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 2, 2025
 
@@ -23,4 +23,4 @@ Pro 和 Enterprise 团队现在可以使用静态 IP（Static IPs）安全地连
 此举是我们推动[更多企业级功能实现自助化](https://vercel.com/blog/new-pro-pricing-plan)战略的一部分。
 
 请查阅 [文档](https://vercel.com/docs/connectivity/static-ips)，或[立即在此启用静态 IP](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fconnectivity&title=Go+to+Connectivity+Settings)。
-{% endraw %}
+&#123;% endraw %}

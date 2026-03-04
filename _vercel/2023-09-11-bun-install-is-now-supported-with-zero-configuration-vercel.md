@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 11, 2023
 
@@ -33,4 +33,4 @@ This change impacts the build phase but not runtime. Therefore, Serverless Funct
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/build-step#install-command) to learn more.
 
 [查阅文档](https://vercel.com/docs/concepts/deployments/build-step#install-command) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

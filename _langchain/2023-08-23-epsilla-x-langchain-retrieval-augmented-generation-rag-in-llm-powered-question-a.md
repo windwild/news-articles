@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:51:31.096104139+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This post was written in collaboration with the [Epsilla](https://www.epsilla.com/?ref=blog.langchain.com) team. As more apps rely on Retrieval Augmented Generation (RAG) for building personalized applications on top of proprietary data, vector databases are becoming even more important. We're really excited about what Epsilla is doing here to help builders quickly and accurately fetch the most relevant documents and data points._
 
@@ -173,4 +173,4 @@ Epsilla 与 LangChain 的集成标志着问答系统领域的一次重大飞跃�
 For those eager to dive deeper, LangChain's source code and implementation details with Epsilla are available on [Google Colab](https://colab.research.google.com/drive/1asFJD_pNQbSQnbbjq-a7Q9SMzrpX-g-2?usp=sharing&ref=blog.langchain.com).
 
 如需深入了解，LangChain 的源代码及与 Epsilla 的集成实现细节可在 [Google Colab](https://colab.research.google.com/drive/1asFJD_pNQbSQnbbjq-a7Q9SMzrpX-g-2?usp=sharing&ref=blog.langchain.com) 上获取。
-{% endraw %}
+&#123;% endraw %}

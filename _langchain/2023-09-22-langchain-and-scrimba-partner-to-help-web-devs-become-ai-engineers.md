@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:42:41.204678289+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 We’re excited to announce that we are partnering with Scrimba, a code-learning platform with over a million users. Through their [interactive video format known as scrims](https://scrimba.com/scrim/czvKPPsw?ref=blog.langchain.com), they enable developers to grow their skills in a more fun and immersive way than regular video courses.
 
@@ -113,4 +113,4 @@ According to Scrimba’s CEO, Per Harald Borgen, AI Engineering represents a luc
 
 - Course waitlist: [https://langchain.scrimba.com/](https://langchain.scrimba.com/?ref=blog.langchain.com)  
 - 课程预约登记页：[https://langchain.scrimba.com/](https://langchain.scrimba.com/?ref=blog.langchain.com)
-{% endraw %}
+&#123;% endraw %}

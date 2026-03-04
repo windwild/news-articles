@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now add tag(s) to cached responses from serverless functions using `addCacheTag()` and later invalidate the cache associated with these tag(s) using `invalidateByTag()`."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 12, 2025
 
@@ -31,4 +31,4 @@ Dec 12, 2025
 **所有套餐及所有框架均支持此功能。**
 
 了解更多关于[缓存失效（缓存清除）](https://vercel.com/docs/edge-cache/purge#understanding-cache-purging)的信息。
-{% endraw %}
+&#123;% endraw %}

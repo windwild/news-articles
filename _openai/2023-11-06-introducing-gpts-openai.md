@@ -9,7 +9,7 @@ translated: false
 description: "You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 6, 2023
 
@@ -77,4 +77,4 @@ _Learn more about_ [_OpenAI DevDay announcements for new models and developer pr
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

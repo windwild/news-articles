@@ -9,7 +9,7 @@ translated: false
 description: "We are standardizing OpenAI’s deep learning framework on PyTorch."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 30, 2020
 
@@ -32,4 +32,4 @@ Going forward we’ll primarily use PyTorch as our deep learning framework but s
 
 - [Framework](https://openai.com/news/?tags=framework)
 - [2020](https://openai.com/news/?tags=2020)
-{% endraw %}
+&#123;% endraw %}

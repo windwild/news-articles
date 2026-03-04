@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Ship 2025 added new building blocks for an AI era: Fast, flexible, and secure by default. Lower costs with Fluid's Active CPU pricing, Rolling Releases for safer deployments, invisible CAPTCHA ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 26, 2025
 
@@ -399,4 +399,4 @@ Contact Us](https://vercel.com/contact/sales)
 无论您正启动迁移项目、需要性能优化支持，还是希望为您的应用与工作流集成 AI 能力，我们都愿与您携手合作。\\
 \\
 联系我们](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

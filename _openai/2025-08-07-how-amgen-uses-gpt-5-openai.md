@@ -9,7 +9,7 @@ translated: false
 description: "Learn how Amgen uses GPT-5."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 7, 2025
 
@@ -22,4 +22,4 @@ August 7, 2025
 
 
 How Amgen uses GPT-5 \| OpenAI
-{% endraw %}
+&#123;% endraw %}

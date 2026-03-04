@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Use Prompt Canvas in LangSmith to collaborate with an AI agent to build and optimize your prompts."
 ---
-{% raw %}
+&#123;% raw %}
 
 What it means to “build” applications is changing. When building AI applications, you are not just writing code - you’re also writing prompts. Tooling has evolved over the years to make software engineering more accessible - like code editors, code collaboration tools, pen testing, and more. We believe that tooling will emerge that makes **prompt engineering** just as accessible.
 
@@ -104,4 +104,4 @@ Whether you’re building a prompt from scratch or modifying an existing prompt,
 See our [walkthrough video](https://youtu.be/nXrx-_9Yucc?ref=blog.langchain.com) on the Prompt Canvas for more information. And try it out inside the LangSmith Playground!
 
 请观看我们的 [Prompt Canvas 操作演示视频](https://youtu.be/nXrx-_9Yucc?ref=blog.langchain.com) 了解更多信息。并立即在 LangSmith Playground 中亲自体验！
-{% endraw %}
+&#123;% endraw %}

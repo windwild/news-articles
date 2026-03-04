@@ -9,7 +9,7 @@ translated: false
 description: "A conversation with Andrea Ellis, Chief Financial Officer of Fanatics Betting and Gaming."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 13, 2025
 
@@ -107,4 +107,4 @@ _Fanatics Betting and Gaming uses ChatGPT and multiple custom GPTs across its fi
 - [Technology](https://openai.com/stories/?tags=industry-technology)
 - [Retail](https://openai.com/stories/?tags=industry-retail)
 - [Services](https://openai.com/stories/?tags=industry-services)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to optimize web fonts using resource hints, font-face descriptors, and the next/font module."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 26, 2023
 
@@ -174,4 +174,4 @@ Lastly, the module preloads fonts when a **`subset`** has been defined. This imp
 By using this module, you can use web fonts worry-free. Your users will likely experience minimal or no layout shift, and no additional developer effort is required.
 
 通过使用该模块，您可无忧无虑地使用网页字体。您的用户几乎不会遇到布局偏移（layout shift），且开发者无需额外投入精力。
-{% endraw %}
+&#123;% endraw %}

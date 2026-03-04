@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:45:29.524137913+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **Editor's note: We're excited to share this blogpost as it covers several of the advanced retrieval strategies we introduced in the past month, specifically a lot of the ones that rely on changing the ingestion step. A lot of these advanced retrieval strategies can be summarized as changing how indexing of documents is done to retain some concept of hierarchy. Neo4j is an exciting database to use for these tasks since it can represent these hierarchies as part of the graph. This also allows you to switch between indexing strategies pretty easily.**
 
@@ -309,4 +309,4 @@ In today’s RAG applications, the ability to retrieve accurate and contextual i
 Test it out and let us know how it goes!
 
 欢迎亲自尝试，并告诉我们您的使用体验！
-{% endraw %}
+&#123;% endraw %}

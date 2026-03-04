@@ -9,7 +9,7 @@ translated: false
 description: "We’ve found that adding adaptive noise to the parameters of reinforcement learning algorithms frequently boosts performance. This exploration method is simple to implement and very rarely decreases ..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 27, 2017
 
@@ -74,4 +74,4 @@ When we first conducted this research, we found that the perturbations we applie
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
-{% endraw %}
+&#123;% endraw %}

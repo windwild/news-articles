@@ -9,7 +9,7 @@ translated: false
 description: "An Update for the UK AI Safety Summit"
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Published: October 26, 2023
 
@@ -103,4 +103,4 @@ The vast majority of our training data comes from publicly available information
 We also have implemented measures to enable creators, rightsholders, and website operators to express their preferences regarding AI training with respect to the content that they own or control. For example, OpenAI has implemented an easy means for website operators to exclude their content from being accessed by OpenAI’s “GPTBot” web crawler, relying on the robots.txt web standard. Similarly, OpenAI has documented the user-agent-string (“ChatGPT‑user”) used by ChatGPT and ChatGPT plugins to access websites, so that site operators can block access for those purposes, as well. We provide instructions online for how to disallow either bot from accessing  sites. We also provide a [self-service form⁠(opens in a new window)](https://share.hsforms.com/1_OuT5tfFSpic89PqN6r1CQ4sk30) for image creators to opt their content out from training of our future DALL-E image generation models.
 
 OpenAI
-{% endraw %}
+&#123;% endraw %}

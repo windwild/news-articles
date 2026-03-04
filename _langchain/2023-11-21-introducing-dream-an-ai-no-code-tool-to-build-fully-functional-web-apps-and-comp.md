@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:25:41.822131689+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 I’m Calix, and I’m currently a sophomore at USC Iovine & Young Academy. For my hacker residency at LangChain, I continued working on my project, Dream.
 
@@ -146,4 +146,4 @@ Huge shout out to LangChain and my mentor Jacob Lee for the support over the las
 
 It’s been extremely helpful to have technical guidance on a lot of the problems that I tackled, and it helped me accelerate my engineering time by a lot.  
 针对我所攻克的诸多技术难题，获得专业指导极为宝贵；这极大缩短了我的工程实现周期。
-{% endraw %}
+&#123;% endraw %}

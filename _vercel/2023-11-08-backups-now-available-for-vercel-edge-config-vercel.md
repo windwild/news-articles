@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 8, 2023
 
@@ -21,4 +21,4 @@ Nov 8, 2023
 [所有订阅计划的客户](https://vercel.com/docs/storage/edge-config/edge-config-limits) 均可使用备份功能。其中，Hobby 计划用户享有 7 天的备份保留期，Pro 计划用户为 90 天，Enterprise 计划用户则长达 365 天。
 
 [请查阅相关文档](https://vercel.com/docs/storage/edge-config/edge-config-dashboard#restoring-edge-config-backups)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

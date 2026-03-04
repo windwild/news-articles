@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 4, 2023
 
@@ -26,4 +26,4 @@ Data Cache 是一个全球分布式、临时性的缓存系统，既可在无服
 目前，该功能仅支持 [Next.js App Router](https://nextjs.org/docs/getting-started/installation)，且面向 [所有付费计划](https://vercel.com/docs/infrastructure/data-cache/limits-and-pricing) 的用户开放。
 
 [查阅我们的官方文档](https://vercel.com/docs/infrastructure/data-cache) 和 [使用限制说明](https://vercel.com/docs/infrastructure/data-cache/limits-and-pricing)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

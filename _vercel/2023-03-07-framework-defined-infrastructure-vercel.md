@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Framework defined infrastructure means programmatic framework understanding for automatic infrastructure provisioning—an evolution from Infrastructure as Code (IaC)."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 7, 2023
 
@@ -407,4 +407,4 @@ Vercel.com 官网首页
 ### See for yourself
 
 ### 亲身体验
-{% endraw %}
+&#123;% endraw %}

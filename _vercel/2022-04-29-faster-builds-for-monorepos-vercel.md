@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 29, 2022
 
@@ -21,4 +21,4 @@ Apr 29, 2022
 Vercel 现在会在构建过程中自动递归缓存 `node_modules`。所有新建及现有的单体仓库项目，均默认启用环境变量 `ENABLE_ROOT_PATH_BUILD_CACHE=1`。对于大型单体仓库，此举可将构建时间缩短数分钟。
 
 也请参阅[相关文档](https://vercel.com/docs/concepts/git/monorepos#step-4:-set-environment-variables)。
-{% endraw %}
+&#123;% endraw %}

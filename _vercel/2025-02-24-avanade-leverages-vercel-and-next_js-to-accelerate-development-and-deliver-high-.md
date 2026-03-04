@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Avanade achieved 90+ Lighthouse Scores by moving away from monolith legacy systems to Sitecore XM Cloud and Vercel."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 24, 2025
 
@@ -164,4 +164,4 @@ Jan 12, 2023
 Guillermo Rauch
 
 Guillermo Rauch
-{% endraw %}
+&#123;% endraw %}

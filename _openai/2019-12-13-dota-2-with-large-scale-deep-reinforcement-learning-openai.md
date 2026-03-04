@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 13, 2019
 
@@ -29,4 +29,4 @@ On April 13th, 2019, OpenAI Five became the first AI system to defeat the world 
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
-{% endraw %}
+&#123;% endraw %}

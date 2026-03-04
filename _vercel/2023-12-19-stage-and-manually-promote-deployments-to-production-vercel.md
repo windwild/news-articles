@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 19, 2023
 
@@ -39,4 +39,4 @@ Dec 19, 2023
 [Learn more](https://vercel.com/docs/deployments/managing-deployments#manually-promoting-to-production) in our documentation.
 
 [了解更多](https://vercel.com/docs/deployments/managing-deployments#manually-promoting-to-production) 请参阅我们的文档。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Application delivery through the lens of a web request with Vercel’s framework-defined infrastructure."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 13, 2024
 
@@ -205,4 +205,4 @@ Deploy now](https://vercel.com/new)
 立即使用 Vercel，基于您的框架代码，一键完成应用的全球部署与弹性伸缩。\\
 \\
 立即部署](https://vercel.com/new)
-{% endraw %}
+&#123;% endraw %}

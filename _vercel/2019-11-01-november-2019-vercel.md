@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's changelog for November 2019"
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 1, 2019
 
@@ -41,4 +41,4 @@ Nov 1, 2019
 - Refined domain notification emails with clear instructions on how to properly configure your domain
 
 - 优化了域名通知邮件，其中包含清晰明了的说明，指导您如何正确配置域名
-{% endraw %}
+&#123;% endraw %}

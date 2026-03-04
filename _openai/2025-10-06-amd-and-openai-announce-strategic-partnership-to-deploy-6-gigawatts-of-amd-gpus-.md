@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelera..."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 6, 2025
 
@@ -42,4 +42,4 @@ As part of the agreement, to further align strategic interests, AMD has issued O
 Through this partnership, AMD and OpenAI are building the infrastructure to meet the world’s growing AI demands, by combining world-class innovation and execution to accelerate the future of high-performance and AI computing.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

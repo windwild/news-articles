@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 11, 2022
 
@@ -23,4 +23,4 @@ You can now easily connect your [Hasura](https://hasura.io/blog/announcing-verce
 [Try out the integration](https://vercel.com/integrations/hasura) and connect your APIs.
 
 [立即试用该集成](https://vercel.com/integrations/hasura) 并连接您的 API。
-{% endraw %}
+&#123;% endraw %}

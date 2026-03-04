@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "At Vercel, we’re building self-driving infrastructure, a system that autonomously manages production operations, improves application code using real-world insights, and learns from the unpredictabl..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 21, 2025
 
@@ -176,4 +176,4 @@ Join us this Thursday, December 11th, at 11am PT to learn more about self-drivin
 
 [Register Now](https://vercel.com/go/self-driving-infra-aws-webinar)  
 [立即报名](https://vercel.com/go/self-driving-infra-aws-webinar)
-{% endraw %}
+&#123;% endraw %}

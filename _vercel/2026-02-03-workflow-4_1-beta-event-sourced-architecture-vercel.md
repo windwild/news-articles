@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Workflow 4.1 Beta now stores every state change as an event and reconstructs workflow state by replaying them, so failures can be recovered."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 3, 2026
 
@@ -81,4 +81,4 @@ For a deeper look at the event model, including state machine diagrams for run, 
 Learn more about [Workflow](https://useworkflow.dev/) or [get started](https://useworkflow.dev/docs/getting-started) with your first workflow.
 
 了解更多关于 [Workflow](https://useworkflow.dev/) 的信息，或立即 [开始使用](https://useworkflow.dev/docs/getting-started) 您的第一个工作流。
-{% endraw %}
+&#123;% endraw %}

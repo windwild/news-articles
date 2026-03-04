@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 9, 2022
 
@@ -53,4 +53,4 @@ The exact version used today is [16.14.0](https://github.com/nodejs/node/blob/ma
 Check out [the documentation](https://vercel.com/docs/runtimes#official-runtimes/node-js/node-js-version) as well.
 
 也请参阅 [相关文档](https://vercel.com/docs/runtimes#official-runtimes/node-js/node-js-version)。
-{% endraw %}
+&#123;% endraw %}

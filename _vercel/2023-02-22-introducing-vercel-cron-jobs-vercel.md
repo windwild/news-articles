@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Automate repetitive tasks using Vercel Cron Jobs and Vercel Functions. Available today in beta."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 22, 2023
 
@@ -206,4 +206,4 @@ Get started with Vercel Cron Jobs by [deploying your first template](https://ver
 - [How to control the concurrency of cron jobs?](https://vercel.com/docs/cron-jobs/manage-cron-jobs#controlling-cron-job-concurrency)
 
 - 如何控制定时任务的并发数？(https://vercel.com/docs/cron-jobs/manage-cron-jobs#controlling-cron-job-concurrency)
-{% endraw %}
+&#123;% endraw %}

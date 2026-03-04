@@ -9,7 +9,7 @@ translated: false
 description: "Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 13, 2025
 
@@ -108,4 +108,4 @@ Patrick Mans, Head of Data Science & AI Engineering, Philips
 More than 1 million businesses around the world are achieving meaningful results with OpenAI.
 
 [Contact our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "With Vercel CLI's new `vercel dev` command, you can locally work on Vercel applications easily, without having to deploy them."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 30, 2019
 
@@ -165,4 +165,4 @@ Furthermore, we also set up a [FAQ page](https://vercel.com/docs/platform/freque
 And as always, you are invited to [join our community](https://github.com/vercel/vercel/discussions) and drop the team a note.
 
 一如既往，诚邀您[加入我们的社区](https://github.com/vercel/vercel/discussions)，随时向团队留言交流。
-{% endraw %}
+&#123;% endraw %}

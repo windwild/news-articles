@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement."
 ---
-{% raw %}
+&#123;% raw %}
 
 July 17, 2025
 
@@ -27,4 +27,4 @@ The Board of Directors thanks the members of the independent OpenAI Nonprofit Co
 We appreciate the expertise that informed the Commission’s report, and are grateful to the community leaders and frontline practitioners who generously shared their perspectives throughout the process. Their contributions provide valuable input into how OpenAI’s nonprofit can best fulfill its mission of ensuring Artificial General Intelligence benefits all of humanity.
 
 As we carry this mission forward, we remain committed to listening, learning, and building in partnership with those on the front lines of change, as part of the Board’s commitment to a nonprofit that is well-resourced, mission-led, and responsive to the needs of the communities it aims to serve.
-{% endraw %}
+&#123;% endraw %}

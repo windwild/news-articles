@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 9, 2023
 
@@ -41,4 +41,4 @@ New Relic 集成现已包含以下功能：
 [Install the integration](https://vercel.com/integrations/newrelic) today or [learn more about](https://vercel.com/docs/integrations/otel-overview/quickstart) how to use OpenTelemetry on Vercel.
 
 [立即安装该集成](https://vercel.com/integrations/newrelic)，或[进一步了解](https://vercel.com/docs/integrations/otel-overview/quickstart)如何在 Vercel 上使用 OpenTelemetry。
-{% endraw %}
+&#123;% endraw %}

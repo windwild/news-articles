@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Today we're releasing a brand new set of components for AI Elements designed to work with the Transcription and Speech functions of the AI SDK, helping you build voice agents."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 14, 2026
 
@@ -95,4 +95,4 @@ npx ai-elements@latest add voice-selector
 ```
 
 ![](images/ai-voice-elements-vercel/img_007.jpg)![](images/ai-voice-elements-vercel/img_008.jpg)
-{% endraw %}
+&#123;% endraw %}

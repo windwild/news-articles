@@ -9,7 +9,7 @@ translated: true
 description: "See our latest improvements to our core tool interfaces that make it turn any code into a tool, handle diverse inputs, enrich tool outputs, and handle tool errors effectively."
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 “[Tools](https://python.langchain.com/v0.2/docs/concepts/?ref=blog.langchain.com#tools)”（“工具”）在大语言模型（LLM）语境中，是指专为被模型调用而设计的实用程序。它们具有明确定义的结构（schema），可作为输入提供给模型，并生成可反馈回模型的输出。当您希望模型控制代码的某一部分，或调用外部 API 时，就必须使用工具——因此，工具是构建 LLM 应用不可或缺的基础组件。
 
@@ -303,4 +303,4 @@ If you haven’t already, check out our docs to learn more about LangChain for [
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

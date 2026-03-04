@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 2, 2022
 
@@ -49,4 +49,4 @@ Choose to send logs from the following sources:
 For information on log sources and how to add them to your integration, [check out the documentation](https://vercel.com/docs/log-drains#log-sources).
 
 有关日志源的详细说明以及如何将其添加到您的集成中，请参阅[官方文档](https://vercel.com/docs/log-drains#log-sources)。
-{% endraw %}
+&#123;% endraw %}

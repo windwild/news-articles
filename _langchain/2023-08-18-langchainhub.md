@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 We are excited to announce the launch of the [LangChainHub](https://github.com/hwchase17/langchain-hub?ref=blog.langchain.com), a place where you can find and submit commonly used prompts, chains, agents, and more!
 
@@ -177,4 +177,4 @@ We are looking forward to the community's contributions and feedback as we conti
 [**LangGraph Platform 正式进入测试阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [作者：LangChain](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

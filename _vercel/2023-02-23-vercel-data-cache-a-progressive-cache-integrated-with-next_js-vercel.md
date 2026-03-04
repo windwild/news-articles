@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Cache only part of your page as static data, while fully dynamically rendering the rest of your application, including accessing real-time and personalized data."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 23, 2023
 
@@ -652,4 +652,4 @@ Twitter 帖子
 ### Next.js 13.2
 
 ![Vercel's avatar](images/vercel-data-cache-a-progressive-cache-integrated-with-next_js-vercel/img_001.jpg)Vercel@vercel
-{% endraw %}
+&#123;% endraw %}

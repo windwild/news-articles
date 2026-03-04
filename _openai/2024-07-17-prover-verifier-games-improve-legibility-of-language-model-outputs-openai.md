@@ -9,7 +9,7 @@ translated: false
 description: "Discover how prover-verifier games improve the legibility of language model outputs, making AI solutions clearer, easier to verify, and more trustworthy for both humans and machines."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 17, 2024
 
@@ -98,4 +98,4 @@ While this work only experimented on one dataset and still requires ground truth
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

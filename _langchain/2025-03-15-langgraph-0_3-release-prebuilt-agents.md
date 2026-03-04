@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:37:35.229838324+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 By Nuno Campos and Vadym Barda
 
@@ -74,4 +74,4 @@ We have seen this work well with LangChain integrations. We have over 700 integr
 We hope the same will happen with LangGraph prebuilt agents.
 
 我们也期待 LangGraph 的预置智能体生态能迎来同样的蓬勃发展。
-{% endraw %}
+&#123;% endraw %}

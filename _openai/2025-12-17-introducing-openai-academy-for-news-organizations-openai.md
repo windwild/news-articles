@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy..."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 17, 2025
 
@@ -85,4 +85,4 @@ In the year ahead, we plan to work with additional news organizations and indust
 - [2025](https://openai.com/news/?tags=2025)
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

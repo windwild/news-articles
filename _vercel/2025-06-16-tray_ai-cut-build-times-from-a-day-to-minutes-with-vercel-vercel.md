@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Tray.ai cut build times from a full day to just two minutes after migrating to Vercel. By consolidating infrastructure and updating their tech stack, they now deliver over a million monthly page views..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 16, 2025
 
@@ -138,4 +138,4 @@ Contact Sales](https://vercel.com/contact/sales)
 开始构建更简洁、更专业的企业级技术栈。\\  
 \\  
 联系销售](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 1, 2023
 
@@ -25,4 +25,4 @@ The [Preview URL](https://vercel.com/docs/concepts/deployments/preview-deploymen
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/preview-deployments#preview-urls) to learn more.
 
 [查阅文档](https://vercel.com/docs/concepts/deployments/preview-deployments#preview-urls) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 19, 2022
 
@@ -27,4 +27,4 @@ By default, Edge Functions run in every Vercel [region](https://vercel.com/docs/
 Check out the [documentation](https://vercel.com/docs/concepts/edge-network/regions) to learn more.
 
 请查阅 [文档](https://vercel.com/docs/concepts/edge-network/regions) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

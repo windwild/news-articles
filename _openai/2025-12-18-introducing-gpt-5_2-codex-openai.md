@@ -9,7 +9,7 @@ translated: true
 description: "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 18, 2025
 
@@ -202,4 +202,4 @@ By rolling GPT‑5.2‑Codex out gradually, pairing deployment with safeguards, 
 
 - [Codex](https://openai.com/news/?tags=codex)  
 - [Codex](https://openai.com/news/?tags=codex)
-{% endraw %}
+&#123;% endraw %}

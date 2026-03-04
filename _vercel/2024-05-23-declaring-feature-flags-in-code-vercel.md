@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 23, 2024
 
@@ -93,4 +93,4 @@ export const showSummerSale = flag<boolean>({
 [Check out our documentation](https://vercel.com/docs/workflow-collaboration/feature-flags/flags-pattern-nextjs) to learn more.
 
 请参阅我们的[文档](https://vercel.com/docs/workflow-collaboration/feature-flags/flags-pattern-nextjs)以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

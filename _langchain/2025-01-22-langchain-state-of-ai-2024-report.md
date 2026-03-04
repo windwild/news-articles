@@ -9,7 +9,7 @@ translated: true
 description: "Dive into LangSmith product usage patterns that show how the AI ecosystem and the way people are building LLM apps is evolving."
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Another year of building with LLMs is coming to an end — and 2024 didn’t disappoint. With nearly 30k users signing up for [LangSmith](http://langchain.com/langsmith?ref=blog.langchain.com) every month, we’re lucky to have front row seats to what’s happening in the industry.
 
@@ -264,4 +264,4 @@ In 2024, developers leaned into complexity with multi-step agents, sharpened eff
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 8 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：8 分钟
-{% endraw %}
+&#123;% endraw %}

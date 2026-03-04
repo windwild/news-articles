@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Create and manage feature flags in the Vercel Dashboard with targeting rules, user segments, and environment controls. Works seamlessly with the Flags SDK for Next.js and Svelte."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 11, 2026
 
@@ -116,4 +116,4 @@ Vercel Flags 目前处于 Beta 测试阶段，面向所有订阅计划的团队�
 [Learn more about Vercel Flags](https://vercel.com/docs/flags/vercel-flags) to get started with feature flag management.
 
 [了解更多关于 Vercel Flags 的信息](https://vercel.com/docs/flags/vercel-flags)，立即开始使用功能标志管理。
-{% endraw %}
+&#123;% endraw %}

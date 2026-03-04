@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before."
 ---
-{% raw %}
+&#123;% raw %}
 
 July 24, 2025
 
@@ -72,4 +72,4 @@ As digital threats grow more sophisticated and scale in volume, Outtake is exten
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

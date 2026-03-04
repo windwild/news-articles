@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Hebbia’s deep research automates 90% of finance and legal work, powered by OpenAI"
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Hebbia’s deep research automates 90% of finance and legal work, powered by OpenAI
@@ -93,4 +93,4 @@ George Sivulka, CEO at Hebbia
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

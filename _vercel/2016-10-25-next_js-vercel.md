@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We're very proud to open-source Next.js, a small framework for server-rendered universal JavaScript webapps."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 25, 2016
 
@@ -555,4 +555,4 @@ We look forward to, in the coming weeks, discussing and featuring other great ap
 If you're interested in contributing, please check out our issues and explore and debate 🚲 [future directions](https://github.com/zeit/next.js/blob/1.2.3/README.md#future-directions).
 
 如果您有兴趣参与贡献，请查阅我们的 Issues，并探索与讨论 🚲 [未来发展方向](https://github.com/zeit/next.js/blob/1.2.3/README.md#future-directions)。
-{% endraw %}
+&#123;% endraw %}

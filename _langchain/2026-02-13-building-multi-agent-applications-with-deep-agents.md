@@ -9,7 +9,7 @@ translated: true
 description: "Breaking down complex tasks across specialized agents is one of the most effective approaches to building capable AI systems. In this post, we'll show you how to build multi-agent systems with Deep Ag..."
 tags: ["deep agents", "agents", "Engineering", "agent builder", "langgraph", "![Reflection Agents", "**Reflection Agents**", "**Plan-and-Execute Agents**", "By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 By Sydney Runkle and Vivek Trivedy
 
@@ -466,4 +466,4 @@ Start with subagents for context management, add skills for progressive disclosu
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 5 分钟阅读
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 5 min read
-{% endraw %}
+&#123;% endraw %}

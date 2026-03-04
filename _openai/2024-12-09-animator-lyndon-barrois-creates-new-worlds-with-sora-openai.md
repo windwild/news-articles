@@ -9,7 +9,7 @@ translated: false
 description: "Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 9, 2024
 
@@ -24,4 +24,4 @@ December 9, 2024
 Lyndon Barrois, Artist
 
 Animator Lyndon Barrois creates new worlds with Sora \| OpenAI
-{% endraw %}
+&#123;% endraw %}

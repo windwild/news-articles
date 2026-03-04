@@ -9,7 +9,7 @@ translated: false
 description: "We will also collaborate on new AI experiences for FT readers."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 29, 2024
 
@@ -41,4 +41,4 @@ We have always embraced new technologies and disruption, and we’ll continue to
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

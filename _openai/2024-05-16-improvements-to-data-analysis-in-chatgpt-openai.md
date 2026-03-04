@@ -10,7 +10,7 @@ description: "Improvements to data analysis in ChatGPT
 Interact with tables and charts and add files directly from Google Drive and Microsoft OneDrive."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 16, 2024
 
@@ -73,4 +73,4 @@ As with any feature in ChatGPT, trust and data privacy are at the core of OpenAI
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

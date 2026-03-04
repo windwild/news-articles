@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Here's how we designed and built our Vercel Ship conference platform. We generated 15,000+ images and videos with tools like Flux, Veo 2, Runway, and Ideogram. Then, we moved to v0 for prototyping. Se..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 11, 2025
 
@@ -305,4 +305,4 @@ Sign up
 
 _Special thanks to Matias Gonzalez Fernandez and the rest of_ [_basement.studio_](https://basement.studio/) _for partnering with us to create the Vercel Ship site._  
 _特别感谢 Matias Gonzalez Fernandez 及_ [_basement.studio_](https://basement.studio/) _全体成员，携手我们共同打造 Vercel Ship 官网。_
-{% endraw %}
+&#123;% endraw %}

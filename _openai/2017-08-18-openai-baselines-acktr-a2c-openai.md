@@ -9,7 +9,7 @@ translated: false
 description: "We’re releasing two new OpenAI Baselines implementations: ACKTR and A2C. A2C is a synchronous, deterministic variant of Asynchronous Advantage Actor Critic (A3C) which we’ve found gives equal perf..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 18, 2017
 
@@ -80,4 +80,4 @@ We have included code in Baselines for training feedforward convnets and LSTMs o
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
-{% endraw %}
+&#123;% endraw %}

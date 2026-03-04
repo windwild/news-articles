@@ -9,7 +9,7 @@ translated: false
 description: "Wider availability made possible by safety progress."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 18, 2021
 
@@ -56,4 +56,4 @@ We also work with researchers who are looking to use the API for research or bui
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2021](https://openai.com/news/?tags=2021)
-{% endraw %}
+&#123;% endraw %}

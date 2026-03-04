@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 > One pattern I noticed is that great AI researchers are willing to manually inspect lots of data. And more than that, they build infrastructure that allows them to manually inspect data quickly. Though not glamorous, manually examining data gives valuable intuitions about the problem.  
 >   
@@ -181,4 +181,4 @@ LangSmith 目前处于私测阶段 —— [立即注册体验](https://smith.lan
 [**LangGraph Platform in beta: New deployment options for scalable agent infrastructure**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [**LangGraph 平台进入 Beta 测试阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Commerce-UI helps designer ecommerce brands deliver a world-class experience to their online users."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 28, 2023
 
@@ -147,4 +147,4 @@ Talk with Us](https://vercel.com/contact/sales)
 我们的专家团队可深入分析您团队的具体使用场景，并为您量身定制最优解决方案。\\
 \\
 立即联系我们](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

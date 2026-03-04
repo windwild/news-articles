@@ -9,7 +9,7 @@ translated: false
 description: "We’re launching a new initiative to enhance the accessibility of our tools for nonprofit organizations, including discounted rates for ChatGPT Team and Enterprise."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 30, 2024
 
@@ -59,4 +59,4 @@ The [GLIDE Unconditional Legal Clinic⁠(opens in a new window)](https://www.gli
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

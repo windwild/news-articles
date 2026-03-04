@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 InterpretabilityResearch
 
@@ -33,4 +33,4 @@ We tracked 11 observable behaviors across thousands of Claude.ai conversations t
 This note offers some opinionated thoughts on why interpretability research may have qualitative aspects be more central than we're used to in other fields. It also aims to describe some heuristics for research taste in qualitative work.
 
 本文提出了一些带有鲜明个人观点的看法，探讨为何可解释性研究中的定性维度，可能比我们在其他领域所习惯的更为核心；同时，也尝试归纳若干适用于定性研究的“研究品位”启发式原则。
-{% endraw %}
+&#123;% endraw %}

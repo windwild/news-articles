@@ -9,7 +9,7 @@ translated: false
 description: "Accelerating the development of life-saving treatments."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [ChatGPT](https://openai.com/stories/chatgpt/) [API](https://openai.com/stories/api/)
 
@@ -125,4 +125,4 @@ API](https://openai.com/index/harvey/)
 API](https://openai.com/index/zendesk/)
 
 Moderna \| OpenAI
-{% endraw %}
+&#123;% endraw %}

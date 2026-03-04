@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn why streaming is critical for performance and how the Next.js App Router integrates with React Suspense to easily enable streaming UI."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 31, 2024
 
@@ -115,4 +115,4 @@ Jun 22, 2023
 ![](images/how-streaming-helps-build-faster-web-applications-vercel/img_001.jpg)
 
 莉迪亚·哈利
-{% endraw %}
+&#123;% endraw %}

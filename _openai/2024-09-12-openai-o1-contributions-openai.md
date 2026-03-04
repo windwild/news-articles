@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI o1 Contributions"
 ---
-{% raw %}
+&#123;% raw %}
 
 # OpenAI o1 Contributions
 
@@ -82,4 +82,4 @@ We are grateful to our expert adversarial testers and red teamers who helped tes
 \*Contributors listed in alphabetized order
 
 OpenAI o1 Contributions \| OpenAI
-{% endraw %}
+&#123;% endraw %}

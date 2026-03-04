@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Remote Cache is now free for all plans.  Never do the same work twice in your Turborepo or Nx repository with a shared store of build outputs and logs for your team."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 20, 2024
 
@@ -33,4 +33,4 @@ Fees accrued for usage prior to the change must be paid. Going forward, users wi
 Learn more about [Vercel Remote Cache](https://vercel.com/docs/monorepos/remote-caching).
 
 了解更多关于 [Vercel 远程缓存](https://vercel.com/docs/monorepos/remote-caching) 的信息。
-{% endraw %}
+&#123;% endraw %}

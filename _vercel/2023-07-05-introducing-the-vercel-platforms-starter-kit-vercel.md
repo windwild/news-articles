@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A fullstack template for building multi-tenant applications with custom domains using Next.js App Router, Vercel Postgres, and the Vercel Domains API."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 5, 2023
 
@@ -297,4 +297,4 @@ Twitter 帖子
 ### 全新 Vercel Platforms 入门套件正式发布！使用 Next.js App Router、Vercel Postgres 和 Vercel Domains API，快速构建支持自定义域名的多租户应用。
 
 ![Vercel's avatar](images/introducing-the-vercel-platforms-starter-kit-vercel/img_010.jpg)Vercel@vercel
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 10, 2024
 
@@ -64,4 +64,4 @@ ChatGPT Team costs $25/month per user when billed annually, or $30/month per use
 
 1. 1
 Dell’Acqua, F., McFowland III, E., Mollick, E., Lifshitz-Assaf, H., Kellogg, K. C., Rajendran, S., Krayer, L., Candelon, F., & Lakhani, K. R. (2023). [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality⁠(opens in a new window)](https://www.hbs.edu/faculty/Pages/item.aspx?num=64700). Harvard Business School Working Paper, No. 24-013.
-{% endraw %}
+&#123;% endraw %}

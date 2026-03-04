@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Node.js runtime in Vercel Sandbox now defaults to Node.js 24 for newer features and performance improvements."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 14, 2026
 
@@ -38,4 +38,4 @@ main().catch(console.error);
 ```
 
 阅读 [Sandbox 文档](https://vercel.com/docs/vercel-sandbox) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

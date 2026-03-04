@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "As of today, you can customize the Production Branch of your Projects right in the Project Settings."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 17, 2020
 
@@ -91,4 +91,4 @@ Furthermore, if you don't want to use `main`, you can now select any branch you 
 Check out the [documentation](https://vercel.com/docs/v2/git-integrations#production-branch) for more details and [let us know](https://twitter.com/vercel) what you think about this change.
 
 请查阅[文档](https://vercel.com/docs/v2/git-integrations#production-branch)了解更多信息，并通过[Twitter](https://twitter.com/vercel)告诉我们您对这一变更的看法。
-{% endraw %}
+&#123;% endraw %}

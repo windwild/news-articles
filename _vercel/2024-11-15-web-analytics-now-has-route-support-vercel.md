@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 15, 2024
 
@@ -25,4 +25,4 @@ Nov 15, 2024
 该功能面向所有 Web Analytics 用户开放。
 
 了解更多关于 [Web Analytics 中的筛选功能](https://vercel.com/docs/analytics/filtering)。
-{% endraw %}
+&#123;% endraw %}

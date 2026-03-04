@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Technically newsletter founder Justin Gage explains how Vercel makes building web applications as easy as possible, powered by the frontend cloud."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 10, 2023
 
@@ -268,4 +268,4 @@ May 5, 2023
 ![](images/what-does-vercel-do-vercel/img_011.jpg)
 
 Colin Sidoti
-{% endraw %}
+&#123;% endraw %}

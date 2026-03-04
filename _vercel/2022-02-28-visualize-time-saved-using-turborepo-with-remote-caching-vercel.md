@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 28, 2022
 
@@ -25,4 +25,4 @@ When using monorepo build tools like Turborepo, Vercel automatically caches buil
 [Check out the documentation](https://vercel.com/docs/concepts/limits/usage#time-saved) to get started with Remote Caching.
 
 [查看文档](https://vercel.com/docs/concepts/limits/usage#time-saved)，开始使用远程缓存。
-{% endraw %}
+&#123;% endraw %}

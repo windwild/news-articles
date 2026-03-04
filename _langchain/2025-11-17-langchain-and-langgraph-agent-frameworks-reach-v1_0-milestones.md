@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:18:54.256545577+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _By Sydney Runkle and the LangChain OSS team_
 
@@ -409,4 +409,4 @@ We hope you love these 1.0 releases. We are incredibly grateful for the communit
 
 While this is a major milestone, we are still at the beginning of a major change in software. We want to hear from you: [post on the LangChain Forum](https://forum.langchain.com/t/launch-week-is-here-oss-1-0s-insights-agent-and-no-code-agent-builder/1890?ref=blog.langchain.com) and tell us what you think of our 1.0 release and what you're building.  
 尽管这是一次重要里程碑，但软件领域这场深刻变革才刚刚拉开序幕。我们热切期待您的声音：欢迎前往 [LangChain 论坛发帖](https://forum.langchain.com/t/launch-week-is-here-oss-1-0s-insights-agent-and-no-code-agent-builder/1890?ref=blog.langchain.com)，分享您对本次 1.0 版本的看法，以及您正在构建的项目。
-{% endraw %}
+&#123;% endraw %}

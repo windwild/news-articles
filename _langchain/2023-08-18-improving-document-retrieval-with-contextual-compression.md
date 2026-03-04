@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 _Note: This post assumes some familiarity with LangChain and is moderately technical._
 
@@ -181,4 +181,4 @@ contextual_retriever.get_relevant_documents("insert query here")
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

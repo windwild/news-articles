@@ -9,7 +9,7 @@ translated: false
 description: "We are introducing a new and improved content moderation tool. The Moderation endpoint improves upon our previous content filter, and is available for free today to OpenAI API developers."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 10, 2022
 
@@ -52,4 +52,4 @@ Get started with the Moderation endpoint by checking out [the documentation⁠(
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2022](https://openai.com/news/?tags=2022)
-{% endraw %}
+&#123;% endraw %}

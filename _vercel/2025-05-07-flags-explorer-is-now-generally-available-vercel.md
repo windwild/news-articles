@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "View and override feature flags in your browser with Flags Explorer – now generally available for all customers"
 ---
-{% raw %}
+&#123;% raw %}
 
 May 7, 2025
 
@@ -35,4 +35,4 @@ Additionally, The [Flags SDK](https://flags-sdk.dev/) automatically respects ove
 [Learn more about Flags Explorer](https://vercel.com/docs/feature-flags/flags-explorer).
 
 [了解更多关于 Flags Explorer 的信息](https://vercel.com/docs/feature-flags/flags-explorer)。
-{% endraw %}
+&#123;% endraw %}

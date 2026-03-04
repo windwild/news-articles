@@ -9,7 +9,7 @@ translated: true
 description: "LangSmith Agent Builder is now generally available—enabling anyone to build agents for complex daily tasks, without writing code."
 tags: ["agents", "agent builder", "![Building Multi-Agent Apps", "deep agents", "langgraph", "![Reflection Agents", "**Reflection Agents**", "**Plan-and-Execute Agents**", "By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 An agent should feel like your chief of staff: you share what you need, it figures out how to get it done, and it improves with feedback. That’s the idea behind Agent Builder.
 
@@ -159,4 +159,4 @@ Agent Builder 现已面向所有 LangSmith 计划开放。[立即免费试用](h
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 5 min read
 
 [由 LangChain 发布](https://blog.langchain.com/tag/by-langchain/) 阅读时长：5 分钟
-{% endraw %}
+&#123;% endraw %}

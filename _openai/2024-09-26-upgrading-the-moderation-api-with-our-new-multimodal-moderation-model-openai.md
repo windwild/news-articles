@@ -9,7 +9,7 @@ translated: false
 description: "We’re introducing a new model built on GPT-4o that is more accurate at detecting harmful text and images, enabling developers to build more robust moderation systems."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 26, 2024
 
@@ -72,4 +72,4 @@ AI content moderation systems help enforce platform policies and ease the worklo
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 3, 2022
 
@@ -23,4 +23,4 @@ Feb 3, 2022
 [Try out the integration](https://vercel.com/integrations/railway) and connect your database.
 
 [试用该集成](https://vercel.com/integrations/railway)，并连接您的数据库。
-{% endraw %}
+&#123;% endraw %}

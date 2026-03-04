@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A global sportswear retailer had a record-breaking Black Friday-Cyber Monday last year, which increased sales by $10M: 33% increase in average orders per minute, 500ms reduction in Time to First Byte,..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 27, 2024
 
@@ -151,4 +151,4 @@ Vercel.com 着陆页
 
 ### Composable commerce on Vercel  
 ### 基于 Vercel 的可组合式电商（Composable Commerce）
-{% endraw %}
+&#123;% endraw %}

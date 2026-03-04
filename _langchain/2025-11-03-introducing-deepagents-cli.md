@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:20:41.168140493+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _By_ [_Vivek Trivedy_](https://www.linkedin.com/in/vivek-trivedy-433509134/?ref=blog.langchain.com)
 
@@ -321,4 +321,4 @@ Join the community and contribute:
 - **文档**: [docs.langchain.com/oss/python/deepagents](https://docs.langchain.com/oss/python/deepagents/overview?ref=blog.langchain.com)
 - **YouTube:** [https://youtu.be/IrnacLa9PJc](https://youtu.be/IrnacLa9PJc?ref=blog.langchain.com)
 - **YouTube**: [https://youtu.be/IrnacLa9PJc](https://youtu.be/IrnacLa9PJc?ref=blog.langchain.com)
-{% endraw %}
+&#123;% endraw %}

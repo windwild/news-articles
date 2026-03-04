@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The legacy build image will be deprecated on September 1, 2025, alongside the deprecation of Node.js 18."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 10, 2025
 
@@ -101,4 +101,4 @@ package.json
 This date coincides with the [previously announced deprecation of Node.js 18](https://vercel.com/changelog/node-js-18-is-being-deprecated) on the Vercel platform. Learn more about [differences between build images](https://vercel.com/docs/builds/build-image/build-image).
 
 此日期与 Vercel 平台此前宣布的 [Node.js 18 弃用计划](https://vercel.com/changelog/node-js-18-is-being-deprecated) 相吻合。了解更多关于 [构建镜像差异](https://vercel.com/docs/builds/build-image/build-image) 的信息。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 6, 2023
 
@@ -84,4 +84,4 @@ export default function FeedbackPage() {
 自定义事件跟踪功能仅面向 Pro 和 Enterprise 用户开放。
 
 [查看文档](https://vercel.com/docs/analytics/custom-events) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

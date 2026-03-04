@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Stripe built a production GTM value calculator in a single flight using v0, boosting adoption 288% and cutting value analysis time by 80%."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 28, 2026
 
@@ -152,4 +152,4 @@ For teams with insights locked in spreadsheets or business cases requiring too m
 
 Sometimes all it takes is a single flight.  
 有时，仅需一次飞行而已。
-{% endraw %}
+&#123;% endraw %}

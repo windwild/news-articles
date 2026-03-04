@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 24, 2024
 
@@ -57,4 +57,4 @@ pnpm add -g vercel
 ```
 
 使用 pnpm 包管理器全局安装 Vercel CLI。
-{% endraw %}
+&#123;% endraw %}

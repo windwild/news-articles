@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Get in touch with Vercel Support easier than ever before, without having to leave your dashboard."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 3, 2020
 
@@ -47,4 +47,4 @@ By using the [Support Form](https://zeit.co/support/request), you can reach the 
 The Support Form was inspired by feedback from people like yourself. For feature requests, or to suggest ideas to make our platform and your experience better, please reach out to us [via email](mailto:support@vercel.com) or on [Twitter](https://twitter.com/vercel).
 
 该支持表单的设计灵感源自像您这样的用户所提出的宝贵反馈。如需提交功能请求，或就如何改进我们的平台及您的使用体验提出建议，欢迎通过[电子邮件](mailto:support@vercel.com)或在[Twitter](https://twitter.com/vercel) 上联系我们。
-{% endraw %}
+&#123;% endraw %}

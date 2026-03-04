@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 20, 2023
 
@@ -31,4 +31,4 @@ This feature is available to customers on all plans.
 [Install the integration](https://vercel.com/integrations/azurecosmosdb) or [deploy a template](https://vercel.com/templates/next.js/azure-cosmosdb-nextjs-starter) with Azure CosmosDB.
 
 [安装此集成](https://vercel.com/integrations/azurecosmosdb)，或使用 Azure Cosmos DB [部署模板](https://vercel.com/templates/next.js/azure-cosmosdb-nextjs-starter)。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "We’re forming a new industry body to promote the safe and responsible development of frontier AI systems: advancing AI safety research, identifying best practices and standards, and facilitating inf..."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 26, 2023
 
@@ -82,4 +82,4 @@ The Forum will also seek to build on the valuable work of existing industry, civ
 
 - [Framework](https://openai.com/news/?tags=framework)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

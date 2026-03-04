@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:38:20.829462243+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's note: This is a guest blog post from our friends at_ [_Build.inc_](https://build.inc/?ref=blog.langchain.com) _. They built one of the more complex multi-agent workflows we've seen — with over 25 sub-agents. Check out the screenshot of their graph for an idea of the complexity. They also share practical lessons learned from building agents that we think will be helpful for other agent builders._
 
@@ -167,4 +167,4 @@ We're building a world where tangible work output takes minutes rather than week
 Through the speed and flexibility of LangGraph, Build is leading the category of autonomous CRE development services and pushing the boundaries of what agents can do.
 
 依托 LangGraph 所赋予的卓越速度与灵活性，Build 正引领自主式商业地产开发服务这一全新品类，并不断拓展智能体能力的边界。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: true
 description: "See how Vodafone, a leading telecom company serving 340M+ customers, used LangChain and LangGraph for its performance metrics monitoring and information retrieval chatbots."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Vodafone is a leading European and African telecommunications company, serving over 340 million customers. Its services span mobile and fixed networks and services, IoT, and enterprise solutions, with a strong emphasis on innovation. In the AI and data space, Vodafone is solving complex challenges related to real-time performance analysis, infrastructure management, and operational efficiency for its network of data centers in Europe.
 
@@ -224,4 +224,4 @@ Looking ahead, Vodafone plans to extend its GenAI pipeline to additional data la
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 分钟阅读
 
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 分钟阅读
-{% endraw %}
+&#123;% endraw %}

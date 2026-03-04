@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 20, 2024
 
@@ -29,4 +29,4 @@ After selecting "Open Graph" from the toolbar menu, you can see how your images 
 Learn more about the [Vercel Toolbar](https://vercel.com/docs/workflow-collaboration/vercel-toolbar).
 
 了解更多关于 [Vercel Toolbar](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) 的信息。
-{% endraw %}
+&#123;% endraw %}

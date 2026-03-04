@@ -9,7 +9,7 @@ translated: false
 description: "Advancing red teaming with people and AI "
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 21, 2024
 
@@ -82,4 +82,4 @@ While red teaming aims to expand perspectives in service of risk discovery, veri
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
-{% endraw %}
+&#123;% endraw %}

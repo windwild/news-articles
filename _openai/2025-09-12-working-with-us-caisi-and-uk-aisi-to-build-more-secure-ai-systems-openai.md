@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 12, 2025
 
@@ -89,4 +89,4 @@ The technical expertise in AI and national security that CAISI and UK AISI broug
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

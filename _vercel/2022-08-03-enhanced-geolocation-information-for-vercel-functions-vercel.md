@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 3, 2022
 
@@ -41,4 +41,4 @@ X-Vercel-IP-Timezone: Japan
 该请求头现已对所有计划（包括新部署和已存在的）Vercel Functions 自动启用——无需修改代码或配置。
 
 也可参阅 [相关文档](http://vercel.com/docs/edge-network/headers#request-headers)。
-{% endraw %}
+&#123;% endraw %}

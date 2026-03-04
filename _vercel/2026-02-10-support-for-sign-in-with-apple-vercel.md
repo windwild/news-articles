@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports Sign in with Apple, enabling faster access for users with Apple accounts and devices"
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 10, 2026
 
@@ -29,4 +29,4 @@ If your Apple account uses an Apple email (@icloud.com, @mac.com, @me.com, etc.)
 If the emails don't match, you can manually connect your Apple account from your [account settings](https://vercel.com/account/settings/authentication) once logged in.
 
 如果邮箱不匹配，您可在登录后，通过 [账户设置](https://vercel.com/account/settings/authentication) 手动关联您的 Apple 账户。
-{% endraw %}
+&#123;% endraw %}

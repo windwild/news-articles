@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:50:18.042675582+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This post was written in collaboration with the [Ragas](https://github.com/explodinggradients/ragas?ref=blog.langchain.com) team. One of the things we think and talk about a lot at LangChain is how the industry will evolve to identify new monitoring and evaluation metrics that evolve beyond traditional ML ops metrics. Ragas is an exciting new framework that helps developers evaluate QA pipelines in new ways. This post shows how LangSmith and Ragas can be a powerful combination for teams that want to build reliable LLM apps._
 
@@ -448,4 +448,4 @@ Ragas 通过弥补传统评估指标的局限性，并充分利用大语言模�
 By using Ragas and LangSmith, you can ensure your QA systems are robust and ready for real-world applications, making the development process more efficient and reliable.
 
 借助 Ragas 与 LangSmith 的协同能力，您可确保所构建的 QA 系统具备强健性与实用性，真正满足真实场景需求，同时大幅提升开发流程的效率与可靠性。
-{% endraw %}
+&#123;% endraw %}

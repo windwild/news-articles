@@ -9,7 +9,7 @@ translated: false
 description: "Why infrastructure is destiny and how the US can seize it."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 7, 2025
 
@@ -61,4 +61,4 @@ You can read our full submission to the Department of Energy [here⁠(opens in a
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now view live model performance metrics for latency and throughput on Vercel AI Gateway on the website and via REST API."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 26, 2026
 
@@ -132,4 +132,4 @@ curl ai-gateway.vercel.sh/v1/models/zai/glm-4.7/endpoints
 If you want to query the full list of models, you can also use the model metrics endpoint in conjunction with [https://ai-gateway.vercel.sh/v1/models](https://ai-gateway.vercel.sh/v1/models).
 
 如果您希望查询模型的完整列表，您还可以将模型指标（model metrics）端点与 [https://ai-gateway.vercel.sh/v1/models](https://ai-gateway.vercel.sh/v1/models) 结合使用。
-{% endraw %}
+&#123;% endraw %}

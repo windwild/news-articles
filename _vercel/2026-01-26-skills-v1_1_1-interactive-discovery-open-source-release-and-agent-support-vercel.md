@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Skills v1.1.1 introduces interactive skill discovery with npx skills find, full open source release on GitHub, and enhanced support for 27 coding agents with automated workflows."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 26, 2026
 
@@ -55,4 +55,4 @@ npx skills add vercel-labs/agent-skills
 ```text
 npx skills add vercel-labs/agent-skills
 ```
-{% endraw %}
+&#123;% endraw %}

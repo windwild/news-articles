@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A key part of Agent Builder is its memory system. In this article we cover our rationale for prioritizing a memory system, technical details of how we built it, learnings from building the memory syst..."
 ---
-{% raw %}
+&#123;% raw %}
 
 We launched [LangSmith Agent Builder](https://smith.langchain.com/agents?skipOnboarding=true&ref=blog.langchain.com) last month as a no-code way to build agents. A key part of Agent Builder is its memory system. In this article we cover our rationale for prioritizing a memory system, technical details of how we built it, learnings from building the memory system, what the memory system enables, and discuss future work.
 
@@ -389,4 +389,4 @@ If building agents that have memory sounds interesting, please try out [LangSmit
 
 If you want to help us build this memory system, [we are hiring](https://www.langchain.com/careers?ref=blog.langchain.com).  
 如果您希望参与共建这一记忆系统，[我们正在招聘](https://www.langchain.com/careers?ref=blog.langchain.com)。
-{% endraw %}
+&#123;% endraw %}

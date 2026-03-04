@@ -9,7 +9,7 @@ translated: true
 description: "See how Exa used LangGraph and LangSmith to build a multi-agent web research system to process research queries"
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [Exa](https://exa.ai/?ref=blog.langchain.com)，以其高质量的搜索 API 著称，近日推出了迄今为止最具雄心的产品：一个深度研究智能体（deep research agent），能够自主浏览网络，直至找到用户所需的结构化信息。
 
@@ -213,4 +213,4 @@ _To learn more about building multi-agent systems with LangGraph, visit our docu
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

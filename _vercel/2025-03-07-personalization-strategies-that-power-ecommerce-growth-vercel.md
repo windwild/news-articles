@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to implement high-performance personalization with Next.js and Vercel. Discover best practices, avoid common pitfalls, and deliver fast, scalable, and revenue-driving ecommerce experiences w..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 7, 2025
 
@@ -344,4 +344,4 @@ Talk to the experts
 
 7. [↑](https://vercel.com/blog/personalization-strategies-that-power-ecommerce-growth#deloitte-footnote) Personalization Growth: It's a value exchange between brands and customers, [Deloitte](https://www.deloittedigital.com/us/en/insights/research/personalizing-growth.html)  
 7. [↑](https://vercel.com/blog/personalization-strategies-that-power-ecommerce-growth#deloitte-footnote) 个性化增长：品牌与客户之间的价值交换，[德勤数字](https://www.deloittedigital.com/us/en/insights/research/personalizing-growth.html)
-{% endraw %}
+&#123;% endraw %}

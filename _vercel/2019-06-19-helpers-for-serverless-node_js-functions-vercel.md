@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing six default methods to the request and response payloads in your Node.js Serverless Functions."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 19, 2019
 
@@ -297,4 +297,4 @@ We also recommend checking out:
 Should you encounter any problems with the current helpers, please [let us know](https://vercel.com/feedback) or join the [Vercel Community](https://community.vercel.com/) to find answers to your questions.
 
 如果您在使用当前辅助方法时遇到任何问题，请[向我们反馈](https://vercel.com/feedback)，或加入 [Vercel 社区](https://community.vercel.com/) 寻求帮助与解答。
-{% endraw %}
+&#123;% endraw %}

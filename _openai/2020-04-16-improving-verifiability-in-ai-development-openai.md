@@ -9,7 +9,7 @@ translated: false
 description: "We’ve contributed to a multi-stakeholder report by 58 co-authors at 30 organizations, including the Centre for the Future of Intelligence, Mila, Schwartz Reisman Institute for Technology and So..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 16, 2020
 
@@ -89,4 +89,4 @@ PublicationDec 14, 2023](https://openai.com/index/practices-for-governing-agenti
 ConclusionAug 1, 2023](https://openai.com/index/confidence-building-measures-for-artificial-intelligence/)
 
 Improving verifiability in AI development \| OpenAI
-{% endraw %}
+&#123;% endraw %}

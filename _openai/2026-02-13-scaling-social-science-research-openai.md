@@ -9,7 +9,7 @@ translated: true
 description: "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 13, 2026
 
@@ -58,4 +58,4 @@ GABRIEL 现已作为一款 [开源 Python 库⁠(在新窗口中打开)](https:/
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

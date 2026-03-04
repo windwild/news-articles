@@ -9,7 +9,7 @@ translated: true
 description: "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system hel..."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 27, 2026
 
@@ -132,4 +132,4 @@ Today, Furusato Choice primarily uses AI to improve the experience of searching 
 Tateyama envisions Furusato Choice becoming a platform that connects users and municipalities through genuine goodwill, rather than focusing only on economic benefit. To support that vision, the company aims to refine the quality of AI-driven recommendations and personalize the end-to-end user experience, ultimately creating a concierge-style service that is closely attuned to each individual user.
 
 竹山（Tateyama）构想中的 Furusato Choice，是一个以真诚善意为纽带连接用户与地方政府的平台，而非仅聚焦于经济收益。为支撑这一愿景，公司致力于持续提升 AI 推荐的质量，并实现端到端用户旅程的深度个性化，最终打造一种高度契合每位个体用户的礼宾式（concierge-style）服务。
-{% endraw %}
+&#123;% endraw %}

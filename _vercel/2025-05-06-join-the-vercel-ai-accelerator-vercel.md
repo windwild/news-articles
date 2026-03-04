@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A six-week program to help you scale your AI company offering over $4M in credits from Vercel, v0, AWS, and leading AI platforms"
 ---
-{% raw %}
+&#123;% raw %}
 
 May 6, 2025
 
@@ -252,4 +252,4 @@ AI is revolutionizing the world around us, and at Vercel, we want to give develo
 [Apply](https://vercel.com/ai-accelerator) to the Vercel AI Accelerator and join a cohort of innovators building what’s next. Applications close May 17th.
 
 [立即申请](https://vercel.com/ai-accelerator)，加入 Vercel AI 加速器计划，与一群正在塑造未来的创新者同行。申请截止日期为 5 月 17 日。
-{% endraw %}
+&#123;% endraw %}

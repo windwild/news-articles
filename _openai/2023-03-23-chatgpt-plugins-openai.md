@@ -9,7 +9,7 @@ translated: false
 description: "We’ve implemented initial support for plugins in ChatGPT. Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information,..."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 23, 2023
 
@@ -175,4 +175,4 @@ We’re working to develop plugins and bring them to a broader audience. We have
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

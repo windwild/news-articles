@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficial AI for humanity."
 ---
-{% raw %}
+&#123;% raw %}
 
 September 11, 2025
 
@@ -34,4 +34,4 @@ We look forward to listening, learning, and building this new chapter together: 
 _See also_ [_A joint statement from Microsoft and OpenAI_](https://openai.com/index/joint-statement-from-openai-and-microsoft/).
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

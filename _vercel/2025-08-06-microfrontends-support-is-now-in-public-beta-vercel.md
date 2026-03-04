@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's microfrontends support is now in public beta allowing users to split large applications to develop faster."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 6, 2025
 
@@ -82,4 +82,4 @@ To get started with microfrontends, clone [one of our examples](https://vercel.c
 Learn more about microfrontends in [our docs](https://vercel.com/docs/microfrontends), or [contact Vercel](https://vercel.com/contact/sales) or your account team directly for more information.
 
 请在[我们的文档](https://vercel.com/docs/microfrontends)中了解有关微前端的更多信息，或直接[联系 Vercel](https://vercel.com/contact/sales) 或您的客户成功团队获取更多详情。
-{% endraw %}
+&#123;% endraw %}

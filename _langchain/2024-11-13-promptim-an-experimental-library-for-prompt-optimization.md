@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:48:45.130491519+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 [Promptim](https://github.com/hinthornw/promptimizer?ref=blog.langchain.com) is an experimental **prompt** **optimization** library to help you systematically improve your AI systems.
 
@@ -138,4 +138,4 @@ As the foundation models stabilize, we are getting more and more excited about p
 You can [try out Promptim](https://github.com/hinthornw/promptimizer?ref=blog.langchain.com) today: `pip install promptim`. Check out [this YouTube video](https://youtu.be/18ltU1hJ7Dw?ref=blog.langchain.com) for a walkthrough, and drop us a line on [GitHub](https://github.com/langchain-ai/langchain/discussions?ref=blog.langchain.com) or [Twitter](https://x.com/LangChainAI?ref=blog.langchain.com) with any feedback.
 
 您可立即 [试用 Promptim](https://github.com/hinthornw/promptimizer?ref=blog.langchain.com)：运行 `pip install promptim` 即可安装。欢迎观看 [此 YouTube 教程视频](https://youtu.be/18ltU1hJ7Dw?ref=blog.langchain.com)，也欢迎通过 [GitHub 讨论区](https://github.com/langchain-ai/langchain/discussions?ref=blog.langchain.com) 或 [Twitter（X）](https://x.com/LangChainAI?ref=blog.langchain.com) 向我们反馈任何意见或建议。
-{% endraw %}
+&#123;% endraw %}

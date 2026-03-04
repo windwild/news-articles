@@ -8,7 +8,7 @@ translated: true
 description: "We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising u..."
 tags: ["Announcements"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Announcements
 
@@ -132,4 +132,4 @@ Our experience of using the internet has made it easy to assume that advertising
 We think Claude should work the same way.
 
 我们认为，Claude 也理应如此运作。
-{% endraw %}
+&#123;% endraw %}

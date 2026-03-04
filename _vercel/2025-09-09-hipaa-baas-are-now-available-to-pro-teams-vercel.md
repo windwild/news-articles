@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Pro teams can now access and sign a Business Associate Agreement (BAA) to enable HIPAA-compliant workloads on Vercel. The BAA is self-serve and available from the team billing dashboard."
 ---
-{% raw %}
+&#123;% raw %}
 
 2025年9月9日
 
@@ -77,4 +77,4 @@ Read more](https://vercel.com/blog/new-pro-pricing-plan)
 即刻启用全新 Pro 计划开始构建应用。现提供灵活的额度机制、免费的查看者席位，以及企业级功能。  
 \\  
 了解更多](https://vercel.com/blog/new-pro-pricing-plan)
-{% endraw %}
+&#123;% endraw %}

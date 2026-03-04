@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing createKvSessionStorage function within @vercel/remix which allows remix session storage with Vercel KV database0"
 ---
-{% raw %}
+&#123;% raw %}
 
 May 22, 2023
 
@@ -31,4 +31,4 @@ Upgrade to `@vercel/remix` v1.16.0 to get started.
 [Check out the documentation](https://vercel.com/docs/storage/vercel-kv) to learn more about storage with Vercel KV.
 
 [查阅文档](https://vercel.com/docs/storage/vercel-kv)，深入了解 Vercel KV 的存储功能。
-{% endraw %}
+&#123;% endraw %}

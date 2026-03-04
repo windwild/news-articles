@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 10, 2022
 
@@ -35,4 +35,4 @@ With your feedback, we've shipped dozens of bug fixes and small feature requests
 - **项目设置优化：** 现在可在项目的常规设置中直接执行 [项目转移（Transferring）](https://vercel.com/docs/concepts/projects/overview#transferring-a-project) 或 [项目删除（Deleting）](https://vercel.com/docs/concepts/projects/overview#deleting-a-project) 操作。
 
 [联系我们](https://vercel.com/contact) 告知我们其他可进一步提升您 Vercel 使用体验的机会。
-{% endraw %}
+&#123;% endraw %}

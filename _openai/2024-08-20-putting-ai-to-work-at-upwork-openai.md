@@ -9,7 +9,7 @@ translated: false
 description: "Upwork puts AI to work, uniting team members, operations and product development"
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [ChatGPT](https://openai.com/stories/chatgpt/) [API](https://openai.com/stories/api/)
 
@@ -74,4 +74,4 @@ Jaffe believes the potential with AI is unlimited. “We see tremendous possibil
 [Talk with our team](https://openai.com/contact-sales/)
 
 Putting AI to work at Upwork \| OpenAI
-{% endraw %}
+&#123;% endraw %}

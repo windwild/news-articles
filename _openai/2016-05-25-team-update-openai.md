@@ -9,7 +9,7 @@ translated: false
 description: "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)"
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 25, 2016
 
@@ -38,4 +38,4 @@ We’d like to welcome the latest set of team members to OpenAI (and we’re sti
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2016](https://openai.com/news/?tags=2016)
-{% endraw %}
+&#123;% endraw %}

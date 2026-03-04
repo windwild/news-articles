@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Today, we’re thrilled to announce a collaboration between LangChain and Microsoft.
 
@@ -152,4 +152,4 @@ We’re at the starting line of a fantastic collaboration that will benefit our 
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长 4 分钟
-{% endraw %}
+&#123;% endraw %}

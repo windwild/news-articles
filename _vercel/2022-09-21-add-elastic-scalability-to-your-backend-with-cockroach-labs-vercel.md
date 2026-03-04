@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 21, 2022
 
@@ -19,4 +19,4 @@ Sep 21, 2022
 在不到一分钟的时间内，将 CockroachDB Serverless 与 Vercel Serverless 函数相结合，借助全新的 Cockroach Labs 集成（当前处于 Beta 测试阶段），更快地构建应用，并弹性扩展整个后端。
 
 立即试用该 [集成](https://vercel.com/integrations/cockroachdb)。
-{% endraw %}
+&#123;% endraw %}

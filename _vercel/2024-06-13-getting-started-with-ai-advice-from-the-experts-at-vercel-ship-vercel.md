@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Takeaways from the AI Enterprise Panel at Vercel Ship 2024."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 13, 2024
 
@@ -109,4 +109,4 @@ Vercel.com 着陆页
 ### Power your next AI breakthrough.
 
 ### 赋能您的下一次 AI 突破。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Advancing cost-efficient reasoning"
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 12, 2024
 
@@ -109,4 +109,4 @@ Due to its specialization on STEM reasoning capabilities, o1‑mini’s factual 
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback..."
 ---
-{% raw %}
+&#123;% raw %}
 
 September 25, 2025
 
@@ -149,4 +149,4 @@ As we expand to more apps and richer actions, ChatGPT will evolve from something
 - [2025](https://openai.com/news/?tags=2025)
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

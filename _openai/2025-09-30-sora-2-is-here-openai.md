@@ -9,7 +9,7 @@ translated: false
 description: "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora ..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 30, 2025
 
@@ -197,4 +197,4 @@ Published September 30, MMXXV
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Sora](https://openai.com/news/?tags=sora)
-{% endraw %}
+&#123;% endraw %}

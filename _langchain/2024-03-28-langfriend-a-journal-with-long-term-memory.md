@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:04:48.532366790+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **One of the concepts we are most interested in at LangChain is memory. Whenever we are interested in a concept, we like to build an example app showing off that concept. For memory, we decided to build a journaling app! We're hosting a version of it that anyone can try out. We're also starting to work with a few alpha users on a developer facing API. If you are interested in this, please sign up below.**
 
@@ -180,4 +180,4 @@ Inspired by academic work and innovative companies in the field, LangFriend demo
 We're excited to invite the community to explore LangFriend, provide feedback, and join us in pushing the boundaries of what's possible with memory in LLM applications, unlocking the full potential of generative AI for more powerful, personalized, and meaningful user experiences.  
 
 我们诚挚邀请社区成员试用 LangFriend、提出宝贵反馈，并与我们携手拓展记忆在 LLM 应用中的可能性边界，充分释放生成式人工智能的潜能，打造更强大、更个性化、更有意义的用户体验。
-{% endraw %}
+&#123;% endraw %}

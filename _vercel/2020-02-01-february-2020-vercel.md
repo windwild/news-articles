@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's changelog for February 2020"
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 1, 2020
 
@@ -77,4 +77,4 @@ Feb 1, 2020
 - The "Platform Version" field was removed from the account and team settings.
 
 - “平台版本（Platform Version）”字段已从账户及团队设置中移除。
-{% endraw %}
+&#123;% endraw %}

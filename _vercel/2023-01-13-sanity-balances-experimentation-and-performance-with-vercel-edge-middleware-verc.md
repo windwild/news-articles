@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Setting the standard for A/B testing and performance with Vercel Edge Middleware."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 13, 2023
 
@@ -65,4 +65,4 @@ For Sanity, it’s not only about how Vercel impacts their developer experience,
 _Looking to drive experiments and personalization impacting site performance?_ [_Get in touch_](https://vercel.com/contact/sales) _._
 
 _希望借助实验与个性化策略切实提升网站性能？_ [_联系我们_](https://vercel.com/contact/sales) _。_
-{% endraw %}
+&#123;% endraw %}

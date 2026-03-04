@@ -9,7 +9,7 @@ translated: false
 description: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed models."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 3, 2022
 
@@ -144,4 +144,4 @@ More aligned models also have more practical advantages such as reducing the nee
 
 9. I
 Beyond research, we have found that other safety-motivated interventions sometimes have unexpected benefits to customers. For example, rate limits intended to curb spam or misleading content also help customers to control expenses.
-{% endraw %}
+&#123;% endraw %}

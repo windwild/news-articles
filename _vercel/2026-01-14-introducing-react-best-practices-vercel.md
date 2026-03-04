@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've encapsulated 10+ years of React and Next.js optimization knowledge into react-best-practices, a structured repository optimized for AI agents and LLMs. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 14, 2026
 
@@ -232,4 +232,4 @@ npx skills add vercel-labs/agent-skills
 Check out the [`react-best-practices`](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices) repository.
 
 请查看 [`react-best-practices`](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices) 仓库。
-{% endraw %}
+&#123;% endraw %}

@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:15:59.668920343+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 By Vivek Trivedy and Eugene Yurtsev
 
@@ -249,4 +249,4 @@ By running DeepAgents CLI on Terminal Bench 2 we’ve established DeepAgents as 
 
 - [Terminal Bench 2.0](https://www.tbench.ai/?ref=blog.langchain.com)
 - [Terminal Bench 2.0](https://www.tbench.ai/?ref=blog.langchain.com)
-{% endraw %}
+&#123;% endraw %}

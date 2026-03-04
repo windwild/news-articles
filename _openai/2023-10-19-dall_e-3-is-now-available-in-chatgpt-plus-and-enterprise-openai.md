@@ -9,7 +9,7 @@ translated: false
 description: "We developed a safety mitigation stack to ready DALL·E 3 for wider release and are sharing updates on our provenance research."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 19, 2023
 
@@ -160,4 +160,4 @@ DALL·E 3 is designed to decline requests that ask for an image in the style of 
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

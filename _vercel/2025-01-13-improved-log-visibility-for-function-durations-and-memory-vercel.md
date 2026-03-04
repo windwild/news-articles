@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Logs now indicate function durations against their maximums for each request using a Vercel Function."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 13, 2025
 
@@ -27,4 +27,4 @@ Logs also include quick links to configure function maximum duration, CPU & memo
 View [your project's logs](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Flogs&title=Go+to+Logs).
 
 查看[您项目的日志](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Flogs&title=Go+to+Logs)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 3, 2022
 
@@ -27,4 +27,4 @@ Individual Core Web Vital data points are now displayed as a scatter plot with a
 [Check out the documentation](https://vercel.com/docs/concepts/analytics) to learn more.
 
 [查看文档](https://vercel.com/docs/concepts/analytics) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

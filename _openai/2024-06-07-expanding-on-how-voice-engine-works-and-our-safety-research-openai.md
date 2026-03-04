@@ -9,7 +9,7 @@ translated: false
 description: "Exploring the technology behind our text-to-speech model."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 7, 2024
 
@@ -70,4 +70,4 @@ Consistent with our cautious approach to releasing Voice Engine, we will restric
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Framework](https://openai.com/news/?tags=framework)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

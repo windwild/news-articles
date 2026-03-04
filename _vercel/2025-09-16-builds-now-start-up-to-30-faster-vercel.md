@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel builds now initialize faster due optimized cache downloads. We use a worker pool to download the build cache, reducing initialization times by 30%"
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 16, 2025
 
@@ -29,4 +29,4 @@ This is enabled automatically for all new builds and adds to the [build initiali
 Learn more about [builds on Vercel](https://vercel.com/docs/deployments/builds).
 
 了解更多关于 [Vercel 上的构建流程](https://vercel.com/docs/deployments/builds)。
-{% endraw %}
+&#123;% endraw %}

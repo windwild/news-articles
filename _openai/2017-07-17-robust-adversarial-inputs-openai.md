@@ -9,7 +9,7 @@ translated: false
 description: "We’ve created images that reliably fool neural network classifiers when viewed from varied scales and perspectives. This challenges a claim from last week that self-driving cars would be hard to tri..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 17, 2017
 
@@ -49,4 +49,4 @@ A transformation-invariant adversarial example. Note that it is visibly more per
 Our transformations are sampled randomly at test time, demonstrating that our example is invariant to the whole distribution of transformations.
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
-{% endraw %}
+&#123;% endraw %}

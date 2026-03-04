@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:34:52.198069030+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Last week, we kicked off a [week long competition](https://blog.langchain.com/chat-your-data-challenge/) to create a chatbot over your own data. The goal was to inspire (1) lots of document loaders for loading various types of data, (2) lots of end-to-end examples.
 
@@ -267,4 +267,4 @@ Reminder, if you like any particular one, make sure to star it! Winner's will be
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain 支持的 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
-{% endraw %}
+&#123;% endraw %}

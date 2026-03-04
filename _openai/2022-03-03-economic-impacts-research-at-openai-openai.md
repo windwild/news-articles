@@ -9,7 +9,7 @@ translated: false
 description: "Call for expressions of interest to study the economic impacts of large language models."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 3, 2022
 
@@ -77,4 +77,4 @@ Brand, Jennie E. “The far-reaching impact of job loss and unemployment.” _A
 
 4. 4
 Van de Werfhorst, Herman G., and Wiemer Salverda. “Consequences of economic inequality: Introduction to a special issue.” _Research in Social Stratification and Mobility_ 30.4 (2012): 377-387.
-{% endraw %}
+&#123;% endraw %}

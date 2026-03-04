@@ -9,7 +9,7 @@ translated: true
 description: "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt i..."
 tags: ["Publication"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 18, 2025
 
@@ -48,4 +48,4 @@ GPT‑5.2‑Codex 已依据我们的“就绪性框架”（Preparedness Framewo
 
 - [2025](https://openai.com/research/index/?tags=2025)
 - [系统卡](https://openai.com/research/index/?tags=system-cards)
-{% endraw %}
+&#123;% endraw %}

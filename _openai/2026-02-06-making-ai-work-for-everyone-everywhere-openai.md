@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 6, 2026
 
@@ -90,4 +90,4 @@ As we explore localized, sovereign AI through OpenAI for Countries, we are commi
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

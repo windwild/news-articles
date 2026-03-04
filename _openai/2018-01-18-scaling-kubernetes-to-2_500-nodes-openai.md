@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 18, 2018
 
@@ -151,4 +151,4 @@ Our Kubernetes clusters have been incident-free for about 3 months now, and weâ€
 
 - [Compute Scaling](https://openai.com/research/index/?tags=compute-scaling)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
-{% endraw %}
+&#123;% endraw %}

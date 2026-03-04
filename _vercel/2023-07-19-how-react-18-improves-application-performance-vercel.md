@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how React 18's concurrent features like Transitions, Suspense, and React Server Components improve application performance."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 19, 2023
 
@@ -987,4 +987,4 @@ Deploy this template
 Next.js App Router Playground
 
 Next.js App Router 交互式体验 playground
-{% endraw %}
+&#123;% endraw %}

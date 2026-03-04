@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "At Vercel, we see partnership and collaboration as keys to driving innovation and customer success. Vercel partners with consultants, agencies, global system integrators, tech partners, and cloud hype..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 15, 2024
 
@@ -101,4 +101,4 @@ Solution partners have been instrumental in helping customers achieve ambitious 
 专为解决方案合作伙伴（Solution Partners）与技术合作伙伴（Technology Partners）打造的合作伙伴计划。让我们通力协作，共同构建未来。  
 \\  
 立即联系我们](https://vercel.com/partners)
-{% endraw %}
+&#123;% endraw %}

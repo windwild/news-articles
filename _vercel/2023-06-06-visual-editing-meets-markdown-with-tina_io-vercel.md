@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "TinaCMS adopts Visual Editing"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 6, 2023
 
@@ -114,4 +114,4 @@ We’re excited to bring Visual Editing to Markdown-based content and we’re en
 
 For more information, please see the [documentation](https://github.com/tinacms/tinacms/blob/main/packages/%40tinacms/vercel-previews/README.md?utm_source=vercel_guest_post&utm_medium=partner_blog) or contact [info@tina.io](mailto:info@tina.io).  
 如需了解更多信息，请查阅[文档](https://github.com/tinacms/tinacms/blob/main/packages/%40tinacms/vercel-previews/README.md?utm_source=vercel_guest_post&utm_medium=partner_blog)，或联系 [info@tina.io](mailto:info@tina.io)。
-{% endraw %}
+&#123;% endraw %}

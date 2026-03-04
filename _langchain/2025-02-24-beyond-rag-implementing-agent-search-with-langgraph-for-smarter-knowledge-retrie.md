@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:39:41.341080070+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's note: this is a guest post from our friends at_ [_Onyx_](https://www.onyx.app/?ref=blog.langchain.com) _. As LangGraph has matured, we've seen more and more companies (_ [_Klarna_](https://blog.langchain.com/customers-klarna/) _,_ [_Replit_](https://blog.langchain.com/customers-replit/) _,_ [_AppFolio_](https://blog.langchain.com/customers-appfolio/) _,_ [_etc_](https://blog.langchain.com/tag/case-studies/) _) start to use it as their agent framework of choice. We thought this was a great blog describing in detail how that evaluation is done. You can read_ [_a version of this post on their blog_](https://www.onyx.app/blog/agent-search-with-langgraph?ref=blog.langchain.com) _as well._
 
@@ -431,4 +431,4 @@ We invite you to check out agent-search on [**GitHub**](https://github.com/onyx
 - [**预约产品演示**](https://cal.com/yuhongsun/onyx-demo?ref=blog.langchain.com)；  
 - 免费 [**试用云端版本**](https://cloud.onyx.app/auth/signup?ref=blog.langchain.com)；  
 - 加入 [**Slack**](https://join.slack.com/t/onyx-dot-app/shared_invite/zt-2twesxdr6-5iQitKZQpgq~hYIZ~dv3KA?ref=blog.langchain.com) 或 [**Discord #agent-search 频道**](https://discord.gg/jDnRGhWhg4?ref=blog.langchain.com)，就企业级 AI 搜索（Enterprise AI Search）以及智能体（Agents）等话题展开更广泛的交流与探讨！
-{% endraw %}
+&#123;% endraw %}

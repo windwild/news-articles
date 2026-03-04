@@ -9,7 +9,7 @@ translated: true
 description: "LangSmith's Role Based Access Control (RBAC) helps enterprises manage resource access with custom roles and API keys."
 tags: ["agent builder"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Access management can be a pain for large engineering teams as they build LLM applications. To avoid playing a game of whodunit or over/under-provisioning permissions, you need to systematically determine who can access your resources and to what capacity.
 
@@ -147,4 +147,4 @@ Old `ls__` API keys have been migrated to service keys. Note that we will be rem
 [**LangSmith's Latest Feature: Grouped Monitoring Charts**](https://blog.langchain.com/grouped-monitoring-charts/)
 
 [**LangSmith 最新功能：分组监控图表**](https://blog.langchain.com/grouped-monitoring-charts/)
-{% endraw %}
+&#123;% endraw %}

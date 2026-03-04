@@ -9,7 +9,7 @@ translated: false
 description: "We use GPT-4 to automatically write explanations for the behavior of neurons in large language models and to score those explanations. We release a dataset of these (imperfect) explanations and scores..."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 9, 2023
 
@@ -170,4 +170,4 @@ Eventually we want to interpret our largest models as a way to detect alignment 
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Language](https://openai.com/research/index/?tags=language)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

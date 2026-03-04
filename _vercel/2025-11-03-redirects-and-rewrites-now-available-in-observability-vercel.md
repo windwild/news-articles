@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Improved observability of redirects and rewrites are now generally available under the Observability tab on Vercel's Dashboard.  Redirect and rewrite request logs are now drainable to any configured D..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 3, 2025
 
@@ -81,4 +81,4 @@ Pro 与 Enterprise 套餐用户可升级至 [Observability Plus](https://vercel.
 [View external rewrites](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fobservability%2Frewrites&title=View+external+rewrites) or learn more about [Observability](https://vercel.com/docs/observability).
 
 [查看外部重写](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fobservability%2Frewrites&title=View+external+rewrites)，或进一步了解 [可观测性（Observability）](https://vercel.com/docs/observability)。
-{% endraw %}
+&#123;% endraw %}

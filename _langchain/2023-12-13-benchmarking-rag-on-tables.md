@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:19:38.091687516+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 ## Key links
 
@@ -143,4 +143,4 @@ For this use case, we found that chunking along page boundaries is a reasonable 
 We also found that tricks such as ensembling can prioritize table-derived text chunks to improve performance.
 
 此外，我们还发现，诸如集成（ensembling）等技巧可优先提升源自表格的文本分块的权重，从而改善整体性能。
-{% endraw %}
+&#123;% endraw %}

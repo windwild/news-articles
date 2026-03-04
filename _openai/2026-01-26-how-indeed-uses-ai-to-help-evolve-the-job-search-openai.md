@@ -9,7 +9,7 @@ translated: true
 description: "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 26, 2026
 
@@ -220,4 +220,4 @@ More than 1 million businesses around the world are achieving meaningful results
 [Contact our team](https://openai.com/contact-sales/)  
 
 [联系我们的团队](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

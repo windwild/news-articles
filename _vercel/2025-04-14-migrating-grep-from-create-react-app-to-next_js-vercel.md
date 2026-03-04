@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We migrated grep​.app from Create React App to Next.js. We break down how we combined single-page app speed with React Server Component efficiency. 70% faster First Contentful Paint, 73% quicker net..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 14, 2025
 
@@ -53,7 +53,7 @@ export default function RootLayout({ children }) {
 
 3    <>
 
-4      <script dangerouslySetInnerHTML={{ __html: "..repositioning logic.." }} />
+4      <script dangerouslySetInnerHTML=&#123;{ __html: "..repositioning logic.." }} />
 
 5      <SearchBar />
 
@@ -756,4 +756,4 @@ The move to Next.js wasn’t just about performance—it was about setting Grep 
 [Try Grep](http://grep.app/) for yourself.
 
 [立即体验 Grep](http://grep.app/)
-{% endraw %}
+&#123;% endraw %}

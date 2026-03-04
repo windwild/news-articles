@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now subscribe to webhook events for deeper visibility into domain operations on Vercel. These events make it easier to automate domain workflows, especially in multi-tenant platforms or when m..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 26, 2025
 
@@ -31,4 +31,4 @@ Jun 26, 2025
 这些事件对多租户平台尤为有价值——此类平台通常为每位用户或客户动态分配域名。同时，它们也帮助团队将监控与告警能力嵌入关键的域名及证书运维流程中。
 
 有关如何订阅的详细说明，请参阅 [Webhook 文档](https://vercel.com/docs/webhooks/webhooks-api)。
-{% endraw %}
+&#123;% endraw %}

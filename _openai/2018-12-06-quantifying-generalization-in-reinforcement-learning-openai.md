@@ -9,7 +9,7 @@ translated: false
 description: "We’re releasing CoinRun, a training environment which provides a metric for an agent’s ability to transfer its experience to novel situations and has already helped clarify a longstanding puzzle..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 6, 2018
 
@@ -106,4 +106,4 @@ If you are interested in this line of research, consider [working at OpenAI⁠
 
 1. A
 Even [impressive⁠(opens in a new window)](https://deepmind.com/blog/capture-the-flag/) RL policies are often trained without supervised learning techniques such as dropout and batch normalization. In the CoinRun generalization regime, however, we find that these methods do have a positive impact and that our previous RL policies were overfitting to particular MDPs.
-{% endraw %}
+&#123;% endraw %}

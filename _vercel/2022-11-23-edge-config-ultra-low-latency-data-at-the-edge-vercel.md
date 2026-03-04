@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing a new data store built for near-instant reads at the edge"
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 23, 2022
 
@@ -133,4 +133,4 @@ Example A/B test using Edge Config
 As of April 2023 Edge Config is generally available—you can get started with our new [Statsig](https://vercel.com/integrations/statsig) and [HappyKit](https://vercel.com/integrations/happykit) integrations, [Edge Config SDK](https://github.com/vercel/edge-config), or by using [one of our examples](https://vercel.com/templates?type=edge-config).
 
 截至 2023 年 4 月，Edge Config 已正式发布（Generally Available）——您可通过我们全新的 [Statsig](https://vercel.com/integrations/statsig) 和 [HappyKit](https://vercel.com/integrations/happykit) 集成、[Edge Config SDK](https://github.com/vercel/edge-config)，或参考 [我们的任一示例](https://vercel.com/templates?type=edge-config) 快速上手。
-{% endraw %}
+&#123;% endraw %}

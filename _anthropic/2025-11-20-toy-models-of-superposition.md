@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 InterpretabilityResearch
 
@@ -44,4 +44,4 @@ We tracked 11 observable behaviors across thousands of Claude.ai conversations t
 In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse input features — to investigate how and when models represent more features than they have dimensions. We call this phenomenon superposition. When features are sparse, superposition allows compression beyond what a linear model would do, at the cost of "interference" that requires nonlinear filtering.
 
 本文采用简化模型——即在具有稀疏输入特征的合成数据上训练的小型 ReLU 网络——来探究模型在何种条件下、以何种方式表征的特征数量超过其自身维度。我们将这一现象称为“超叠加”（superposition）。当输入特征稀疏时，超叠加能够实现线性模型所无法达到的更高程度压缩，但代价是会产生“干扰”（interference），而该干扰需借助非线性滤波机制予以消除。
-{% endraw %}
+&#123;% endraw %}

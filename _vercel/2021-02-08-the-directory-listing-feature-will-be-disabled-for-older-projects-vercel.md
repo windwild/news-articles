@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 8, 2021
 
@@ -35,4 +35,4 @@ Because the Directory Listing feature allows for accessing the source code of a 
 Check out [the documentation](https://vercel.com/docs/edge-network/directory-listing) as well.
 
 也欢迎查阅 [相关文档](https://vercel.com/docs/edge-network/directory-listing)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Coxwave's journey to cutting deployment times by 85% and building AI-native products faster with Vercel"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 13, 2025
 
@@ -156,4 +156,4 @@ Talk to an expert to learn how you can make your website faster and more reliabl
 
 Contact Sales](https://vercel.com/contact/sales)  
 联系销售](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

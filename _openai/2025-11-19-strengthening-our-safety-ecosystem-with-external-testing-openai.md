@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 November 19, 2025
 
@@ -88,4 +88,4 @@ The following are illustrative excerpts from our agreements with third parties c
 Without granting any right or license, the Disclosing Party agrees that the foregoing shall not apply with respect to (a) any information after 2 years following the disclosure thereof, except for any information that is a trade secret, which shall remain subject to the confidentiality obligations of this Agreement for as long as it is a trade secret, (b) any information included in a Researcher’s noncommercial research or academic publication to the extent such information is either (i) approved in writing by OpenAI prior to publication or (ii) resulting from the version of OpenAI Technology that has been made generally available to the public by OpenAI (and not, for the avoidance of doubt, any information, results, or output from version of the OpenAI Technology that were not made generally available to the public); or (c) any information that the Receiving Party can document (i) is or becomes (through no improper action or inaction by the Receiving Party or any affiliate, agent, consultant or employee of the Receiving Party) generally available to the public, (ii) was in its possession or known by it without restriction prior to receipt from the Disclosing Party, (iii) was rightfully disclosed to it by a third party without restriction, or (iv) was independently developed without use of any Proprietary Information of the Disclosing Party by officers, directors, employees, consultants, representatives, advisors or affiliates of the Receiving Party who have had no access to any such Proprietary Information. The Receiving Party may make disclosures required by law or court order provided the Receiving Party uses diligent reasonable efforts to limit disclosure and to obtain confidential treatment or a protective order and allows the Disclosing Party to participate in the proceeding.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

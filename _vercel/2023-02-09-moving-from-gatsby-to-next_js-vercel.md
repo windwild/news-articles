@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Navigating large scale migrations"
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 9, 2023
 
@@ -212,4 +212,4 @@ Customer case study
 Alli Pope
 
 Alli Pope
-{% endraw %}
+&#123;% endraw %}

@@ -10,7 +10,7 @@ description: "Deliberative alignment: reasoning enables safer language models
 Introducing our new alignment strategy for o1 models, which are directly taught safety specifications and how to reason over them."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 20, 2024
 
@@ -118,4 +118,4 @@ Deliberative alignment represents the latest advancement in our efforts, and we 
 
 - [Alignment](https://openai.com/research/index/?tags=alignment)
 - [2024](https://openai.com/research/index/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

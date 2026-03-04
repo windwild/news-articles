@@ -9,7 +9,7 @@ translated: false
 description: "GPT-4o system card external testers acknowledgements"
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # GPT‑4o System Card External Testers Acknowledgements
@@ -31,4 +31,4 @@ METR, Apollo Research, Virtue AI
 Choice Mpanza, David Adelani, Edward Bayes, Igneciah Pocia Thete, Imaan Khadir, Israel A. Azime, Jesujoba Oluwadara Alabi, Jonas Kgomo, Naome A. Etori, Shamsuddeen Hassan Muhammad
 
 GPT-4o System Card External Testers Acknowledgements \| OpenAI
-{% endraw %}
+&#123;% endraw %}

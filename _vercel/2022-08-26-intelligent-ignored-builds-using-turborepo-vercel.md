@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 26, 2022
 
@@ -33,4 +33,4 @@ Try it now by setting `npx turbo-ignore` as the [Ignored Build Step](https://ver
 [Check out the documentation](https://vercel.com/docs/concepts/monorepos/turborepo#step-4:-setup-the-ignored-build-step) to learn more.
 
 [查阅相关文档](https://vercel.com/docs/concepts/monorepos/turborepo#step-4:-setup-the-ignored-build-step) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

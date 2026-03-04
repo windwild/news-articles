@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Clerk is reimagining authentication to embrace the architecture of framework-defined infrastructure."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 5, 2023
 
@@ -166,4 +166,4 @@ Talk with Us](https://vercel.com/contact/sales)
 我们非常荣幸邀请您加入 Vercel 前端云。欢迎随时就您团队的独特应用场景提出任何问题。\\
 \\
 立即联系我们](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

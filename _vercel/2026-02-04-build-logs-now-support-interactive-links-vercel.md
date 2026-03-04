@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Click URLs directly in build logs to navigate to internal and external resources instantly. No more manual copying and pasting required."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 4, 2026
 
@@ -23,4 +23,4 @@ URLs in build logs are now interactive. Navigate directly to internal and extern
 这消除了您在排查构建问题或查阅文档链接时可能遇到的额外操作步骤。
 
 了解更多关于如何访问 [构建日志](https://vercel.com/docs/deployments/logs) 的信息。
-{% endraw %}
+&#123;% endraw %}

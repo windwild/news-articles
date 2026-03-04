@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Solara6 is partnering with us to help ecommerce brands ship faster and deploy with confidence. Through this partnership, ecommerce teams working with Solara6 can expect improved SEO, site speed, and r..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 25, 2025
 
@@ -49,4 +49,4 @@ With customer expectations constantly evolving, modern ecommerce needs infrastru
 Learn more about [Solara6](https://vercel.com/partners/solution-partners/solara6).
 
 了解更多关于 [Solara6](https://vercel.com/partners/solution-partners/solara6) 的信息。
-{% endraw %}
+&#123;% endraw %}

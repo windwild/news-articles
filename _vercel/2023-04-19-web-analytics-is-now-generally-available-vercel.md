@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 19, 2023
 
@@ -25,4 +25,4 @@ Web Analytics 现在还新增了[自定义事件](https://vercel.com/docs/concep
 Web Analytics 在所有订阅方案中均可用：Hobby 方案每月提供 2,500 次事件配额；Pro 方案每月提供 25,000 次事件配额；Enterprise 方案则支持按需定制配额。此外，Pro 用户还可额外加购 [Web Analytics Plus](https://vercel.com/docs/concepts/analytics/limits-and-pricing)，每月仅需 50 美元，即可获得 50 万次事件配额。
 
 [查看文档](https://vercel.com/docs/concepts/analytics) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

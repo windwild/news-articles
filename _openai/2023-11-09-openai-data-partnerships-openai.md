@@ -9,7 +9,7 @@ translated: false
 description: "Working together to create open-source and private datasets for AI training."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 9, 2023
 
@@ -52,4 +52,4 @@ Overall, we are seeking partners who want to help us teach AI to understand our 
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

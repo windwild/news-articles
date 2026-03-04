@@ -9,7 +9,7 @@ translated: false
 description: "The OpenAI Five Benchmark match is now over!"
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 18, 2018
 
@@ -67,4 +67,4 @@ If you’d like to attend the match in person in San Francisco, please [request
 
 - [Events](https://openai.com/news/?tags=events)
 - [2018](https://openai.com/news/?tags=2018)
-{% endraw %}
+&#123;% endraw %}

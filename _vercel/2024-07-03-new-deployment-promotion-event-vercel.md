@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 3, 2024
 
@@ -23,4 +23,4 @@ Jul 3, 2024
 - 部署通过 CLI、API 或控制台被[显式晋升](https://vercel.com/docs/deployments/managing-deployments#staging-and-promoting-a-production-deployment)。
 
 [了解更多关于晋升的信息](https://vercel.com/docs/deployments/managing-deployments#managing-promotion)，或查看[完整的事件列表](https://vercel.com/docs/observability/webhooks-overview/webhooks-api)。
-{% endraw %}
+&#123;% endraw %}

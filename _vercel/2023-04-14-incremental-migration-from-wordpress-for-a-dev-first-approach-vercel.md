@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Gearbox"
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 14, 2023
 
@@ -109,4 +109,4 @@ Get in touch](https://vercel.com/contact)
 联系 Next.js 专家，共同重构您团队的开发工作流。\\
 \\
 立即联络](https://vercel.com/contact)
-{% endraw %}
+&#123;% endraw %}

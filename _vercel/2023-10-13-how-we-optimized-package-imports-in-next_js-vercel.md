@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How solving barrel files led to faster cold boots and build times."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 13, 2023
 
@@ -164,9 +164,9 @@ export { default as module2 } from './module2';
 export { default as module3 } from './module3';
 ```
 
-We can configure a compiler transform of `my-lib/{{member}}`, which tells Next.js to change the user's import `import { module2 } from 'my-lib'` into `import module2 from 'my-lib/module2'`. This means we can skip the barrel file and directly import from the target, preventing loading unnecessary modules.
+We can configure a compiler transform of `my-lib/&#123;{member}}`, which tells Next.js to change the user's import `import { module2 } from 'my-lib'` into `import module2 from 'my-lib/module2'`. This means we can skip the barrel file and directly import from the target, preventing loading unnecessary modules.
 
-我们可以为 `my-lib/{{member}}` 配置一个编译器转换规则，该规则指示 Next.js 将用户代码中的导入语句 `import { module2 } from 'my-lib'` 改写为 `import module2 from 'my-lib/module2'`。这意味着我们可以跳过“barrel 文件”（即聚合导出的入口文件），直接从目标模块导入，从而避免加载不必要的模块。
+我们可以为 `my-lib/&#123;{member}}` 配置一个编译器转换规则，该规则指示 Next.js 将用户代码中的导入语句 `import { module2 } from 'my-lib'` 改写为 `import module2 from 'my-lib/module2'`。这意味着我们可以跳过“barrel 文件”（即聚合导出的入口文件），直接从目标模块导入，从而避免加载不必要的模块。
 
 This change makes both the build time _and_ runtime fast:
 
@@ -381,4 +381,4 @@ Deploy this template
 
 Next.js App Router Playground  
 Next.js App Router 交互式体验环境
-{% endraw %}
+&#123;% endraw %}

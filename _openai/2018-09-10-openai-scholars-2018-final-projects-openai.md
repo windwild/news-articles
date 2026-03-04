@@ -9,7 +9,7 @@ translated: false
 description: "Our first cohort of OpenAI Scholars has now completed the program."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 10, 2018
 
@@ -222,4 +222,4 @@ We can’t wait to see how our Scholars continue to contribute to the ML communi
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2018](https://openai.com/news/?tags=2018)
-{% endraw %}
+&#123;% endraw %}

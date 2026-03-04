@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing type-safe chat, agentic loop control, new specification, tool enhancements,  speech generation, and more."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 31, 2025
 
@@ -1970,4 +1970,4 @@ AI SDK v5 是一件杰作。迁移后，类型安全性更高、控制力与灵�
 [Read more on X](https://x.com/franmoretti_/status/1942919268313534638)
 
 [在 X 上阅读更多](https://x.com/franmoretti_/status/1942919268313534638)
-{% endraw %}
+&#123;% endraw %}

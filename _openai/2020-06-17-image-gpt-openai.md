@@ -9,7 +9,7 @@ translated: false
 description: "We find that, just as a large transformer model trained on language can generate coherent text, the same exact model trained on pixel sequences can generate coherent image completions and samples. ..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 17, 2020
 
@@ -562,4 +562,4 @@ A generative model which learns features in a purely unsupervised fashion.
 
 60. 60
     Sutton, R. (2019). “ [The Bitter Lesson⁠(opens in a new window)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).”
-{% endraw %}
+&#123;% endraw %}

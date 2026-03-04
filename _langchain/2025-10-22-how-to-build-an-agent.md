@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to build an agent -- from choosing realistic task examples, to building the MVP to testing quality and safety, to deploying in production."
 ---
-{% raw %}
+&#123;% raw %}
 
 ![](images/how-to-build-an-agent/img_001.png)
 
@@ -291,4 +291,4 @@ Whether you're automating email triage or orchestrating complex workflows, these
 So start small, stay user-focused, and keep refining.
 
 因此，请从小处着手，始终以用户为中心，并持续优化精进。
-{% endraw %}
+&#123;% endraw %}

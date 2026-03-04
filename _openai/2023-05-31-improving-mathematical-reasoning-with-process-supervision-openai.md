@@ -9,7 +9,7 @@ translated: false
 description: "We've trained a model to achieve a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct ..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 31, 2023
 
@@ -233,4 +233,4 @@ Hendrycks D., Burns C., Kadavath S., Arora A., Basart S., Tang E., Song D. and S
 
 3. 3
 Ouyang L., Wu J., Jiang X., Almedia D., Wainwright C.L., Mishkin P., Zhang C., Agarwal S., Slama K., Ray A., Schulman J., Hilton J., Kelton F., Miller L., Simens M., Askell A., Welinder P., Christiano P., Leike J. and Lowe R., 2022. Training language models to follow instructions with human feedback. arXiv preprint arXiv:2203.02155.
-{% endraw %}
+&#123;% endraw %}

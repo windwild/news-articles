@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own."
 ---
-{% raw %}
+&#123;% raw %}
 
 July 15, 2025
 
@@ -59,4 +59,4 @@ We’ve also launched a new initiative to improve how we assess political bias a
 Bias evaluation is complex and requires nuance; we don’t expect to get everything right in a vacuum. We welcome feedback and will share more soon about our approach, which we hope will be helpful to others working on this challenge across the AI ecosystem.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

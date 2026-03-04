@@ -9,7 +9,7 @@ translated: false
 description: "Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Retool
@@ -77,4 +77,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Building AI-powered apps for business \| OpenAI
-{% endraw %}
+&#123;% endraw %}

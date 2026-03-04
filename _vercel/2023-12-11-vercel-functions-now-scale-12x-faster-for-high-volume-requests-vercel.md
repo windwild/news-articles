@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 11, 2023
 
@@ -24,4 +24,4 @@ Vercel Functions 现在在付费计划下，针对高流量请求的扩展速度
 
 
 了解更多关于 Vercel Functions 的[自动并发扩展](https://vercel.com/docs/functions/serverless-functions/runtimes#automatic-concurrency-scaling)功能。
-{% endraw %}
+&#123;% endraw %}

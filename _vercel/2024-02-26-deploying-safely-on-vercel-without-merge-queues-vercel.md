@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Deploy quickly and safely with Vercel without merge queues"
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 26, 2024
 
@@ -147,4 +147,4 @@ With this approach, developers don't need to worry about multiple syncs to `HEAD
 By using Vercel, you can remove slowdowns merging code in your repository and improve the time from pull request to landing that change in production. Additionally, it enables you to run additional checks after a deployment completes before users visit that deployment without having to create a complex workflow—helping you iterate faster while maintaining production quality.
 
 借助 Vercel，您可以消除代码仓库中合并流程的瓶颈，显著缩短从发起 Pull Request 到变更正式上线生产环境所需的时间。此外，Vercel 还支持在部署完成、用户访问该部署前，自动运行额外的校验步骤——您无需构建复杂的工作流，即可在保持生产质量的同时加速迭代。
-{% endraw %}
+&#123;% endraw %}

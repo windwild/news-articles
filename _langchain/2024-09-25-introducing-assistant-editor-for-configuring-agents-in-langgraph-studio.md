@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:52:05.950309220+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 We're excited to announce the launch of the [Assistant Editor](https://langchain-ai.github.io/langgraph/cloud/how-tos/assistant_versioning/?ref=blog.langchain.com), a powerful new feature in [LangGraph Studio](https://blog.langchain.com/langgraph-studio-the-first-agent-ide/) that makes it easier than ever to [configure and customize](https://langchain-ai.github.io/langgraph/cloud/concepts/api/?ref=blog.langchain.com#assistants) your LLM-powered agents. This visual editing tool empowers both developers and non-technical users to fine-tune agent behavior without diving into code.
 
@@ -117,4 +117,4 @@ Join our [community Slack](https://www.notion.so/link-to-slack?ref=blog.langchai
 Start visually configuring your agents today with the new Assistant Editor in LangGraph Studio!  
 
 即刻体验 LangGraph Studio 全新推出的助手编辑器，以可视化方式配置您的智能体！
-{% endraw %}
+&#123;% endraw %}

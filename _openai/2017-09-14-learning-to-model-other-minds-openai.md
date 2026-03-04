@@ -9,7 +9,7 @@ translated: false
 description: "We’re releasing an algorithm which accounts for the fact that other agents are learning too, and discovers self-interested yet collaborative strategies like tit-for-tat in the iterated prisoner’s ..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 14, 2017
 
@@ -61,4 +61,4 @@ LOLA works best when using large batch-sizes and full roll-outs for variance red
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
-{% endraw %}
+&#123;% endraw %}

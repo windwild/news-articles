@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel CLI now includes blob commands, allowing you to manage your Vercel Blob storage directly from the terminal. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 24, 2025
 
@@ -19,4 +19,4 @@ Jun 24, 2025
 Vercel CLI（版本 43.3.0）现已内置 Blob 命令，使您能够直接在终端中管理 Vercel Blob 存储空间及其中的文件。
 
 了解更多关于 [Vercel Blob CLI](https://vercel.com/docs/cli/blob) 和 [Vercel Blob](https://vercel.com/docs/vercel-blob) 的信息。
-{% endraw %}
+&#123;% endraw %}

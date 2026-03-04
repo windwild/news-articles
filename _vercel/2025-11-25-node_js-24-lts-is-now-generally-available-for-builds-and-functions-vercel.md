@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports Node.js 24 for builds and functions, featuring a V8 13.6 upgrade, the global URLPattern API, Undici v7 for faster fetch(), and npm v11 for modern package compatibility."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 25, 2025
 
@@ -31,4 +31,4 @@ Node.js 24 的主要更新亮点如下：
 当前使用的具体版本为 [24.11.0](https://github.com/nodejs/node/releases/tag/v24.11.0)，系统将自动更新补丁版本；仅保证主版本号（即 `24.x`）保持稳定。
 
 欲了解更多信息，请参阅我们的 [Node.js 运行时文档](https://vercel.com/docs/functions/runtimes/node-js)。
-{% endraw %}
+&#123;% endraw %}

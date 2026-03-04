@@ -9,7 +9,7 @@ translated: false
 description: "To support the safety of highly-capable AI systems, we are developing our approach to catastrophic risk preparedness, including building a Preparedness team and launching a challenge. "
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 26, 2023
 
@@ -82,4 +82,4 @@ While grading the challenge, we noticed similarities in topics that entrants ide
 
 1. 1
 To avoid information hazards, we have kept descriptions of projects intentionally vague, and will not be publishing full proposals. Additionally, some participants did not wish for their names to be shared.
-{% endraw %}
+&#123;% endraw %}

@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:27:15.408331237+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 TLDR: 我们引入了一种[全新的消息内容视图](https://docs.langchain.com/oss/python/langchain/messages?ref=blog.langchain.com#content)，该视图对推理过程、引用标注、服务端工具调用及其他现代大语言模型（LLM）功能在不同厂商之间进行了标准化。这使得开发者能够更轻松地构建与推理服务提供商无关的应用，同时充分利用各厂商的最新功能。该特性完全向后兼容，因为新内容可基于现有消息内容**惰性计算**（lazy computation）得出。
 
@@ -211,4 +211,4 @@ By providing consistent interfaces across providers, you can:
 **Questions or feedback?** Please comment on the dedicated [Github issue](https://github.com/langchain-ai/langchain/issues/32794?ref=blog.langchain.com) for the release. We’d appreciate any thoughts you have to share!
 
 **有任何问题或反馈？** 欢迎在本次发布的专属 [GitHub Issue](https://github.com/langchain-ai/langchain/issues/32794?ref=blog.langchain.com) 下留言。我们非常期待听到您的宝贵意见！
-{% endraw %}
+&#123;% endraw %}

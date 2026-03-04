@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 16, 2026
 
@@ -99,4 +99,4 @@ To compare plans and see what’s included, visit [chatgpt.com/pricing⁠(opens 
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

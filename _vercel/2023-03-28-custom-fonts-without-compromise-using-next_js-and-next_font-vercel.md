@@ -8,8 +8,8 @@ language: "en-zh"
 translated: true
 description: "`next/font` automatically self-hosts your custom fonts, preventing layout shift and significantly reducing needed code."
 ---
-{% raw %}
-{% raw %}
+&#123;% raw %}
+&#123;% raw %}
 
 Mar 28, 2023
 
@@ -74,7 +74,7 @@ components/head.tsx
 ```jsx
 1<script
 
-dangerouslySetInnerHTML={{
+dangerouslySetInnerHTML=&#123;{
 
 3    __html: `
 
@@ -347,5 +347,5 @@ Vercel.com 着陆页
 ### Docs for \`next/font\`
 
 ### \`next/font\` 文档
-{% endraw %}
-{% endraw %}
+&#123;% endraw %}
+&#123;% endraw %}

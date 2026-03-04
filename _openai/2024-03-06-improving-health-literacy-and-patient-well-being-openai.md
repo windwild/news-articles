@@ -9,7 +9,7 @@ translated: false
 description: "Lifespan uses GPT-4 to radically improve health literacy and patient outcomes."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Lifespan
@@ -89,4 +89,4 @@ ChatGPTMar 18, 2024](https://openai.com/index/holiday-extras/)
 APIMar 18, 2024](https://openai.com/index/superhuman/)
 
 Improving health literacy and patient well-being \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "This blog dives into technical details for why agent deployment is difficult, and how we built a platform to solve those challenges (LangGraph Platform)."
 ---
-{% raw %}
+&#123;% raw %}
 
 _Note: As of October 2025, LangGraph Platform has been re-named to "LangSmith Deployment"._
 
@@ -201,4 +201,4 @@ By using LangGraph Platform, you gain access to a robust, scalable deployment so
 To get started, read about our deployment options [here](https://langchain-ai.github.io/langgraph/concepts/deployment_options/?ref=blog.langchain.dev#related). You can also check out [our announcement](https://blog.langchain.com/langgraph-platform-ga/) LangGraph Platform's general availability to learn more.
 
 如需快速上手，请阅读我们的[部署选项说明](https://langchain-ai.github.io/langgraph/concepts/deployment_options/?ref=blog.langchain.dev#related)。您还可查阅[官方公告](https://blog.langchain.com/langgraph-platform-ga/)，了解 LangGraph Platform 正式发布的更多信息。
-{% endraw %}
+&#123;% endraw %}

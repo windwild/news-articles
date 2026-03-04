@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 3, 2025
 
@@ -32,4 +32,4 @@ Piotr Niedźwiedź, founder and CEO of Neptune, said, “This is an exciting ste
 We look forward to building the next chapter of training tools together.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Parallel is now available on the Vercel Marketplace with a native integration for Vercel projects. Developers can add Parallel’s web tools and AI agents to their apps in minutes, including Search, E..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 4, 2026
 
@@ -87,4 +87,4 @@ Execute your first API call in minutes
 Install Parallel from the [Marketplace](https://vercel.com/marketplace/parallel) or deploy the [Next.js template](https://vercel.com/templates/template/next-js-parallel-starter) to see Parallel's web research APIs integrated with Vercel in action.
 
 从 [Marketplace](https://vercel.com/marketplace/parallel) 安装 Parallel，或部署 [Next.js 模板](https://vercel.com/templates/template/next-js-parallel-starter)，即可亲眼见证 Parallel 的网络研究 API 与 Vercel 的实际集成效果。
-{% endraw %}
+&#123;% endraw %}

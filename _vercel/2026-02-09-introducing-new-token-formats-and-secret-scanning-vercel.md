@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel automatically detects and revokes exposed credentials. Learn about new token formats, new automated secret scanning, and partnership in GitHub's secret scanning program."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 9, 2026
 
@@ -57,4 +57,4 @@ We recommend reviewing your [tokens](https://vercel.com/account/settings/tokens)
 [Learn more](https://vercel.com/docs/accounts) about account security.
 
 [了解更多](https://vercel.com/docs/accounts) 关于账户安全的信息。
-{% endraw %}
+&#123;% endraw %}

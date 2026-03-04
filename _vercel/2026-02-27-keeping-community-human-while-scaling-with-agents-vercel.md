@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel scales community support with AI agents. We automated logistics to reclaim human focus, empowering our team to solve complex problems"
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 27, 2026
 
@@ -151,4 +151,4 @@ Community is about people, and we want our people to have the time and energy to
 If you want to build something similar, we built c0 with the [Chat SDK](https://github.com/vercel/chat), a unified TypeScript SDK for building agents across Slack, Teams, Discord, and more. The Guardian uses [Vercel Workflows](https://vercel.com/docs/workflow) for durable execution. Come share what you build [in the community](https://community.vercel.com/). We're always happy to talk through what we've learned.
 
 如果您也希望构建类似的产品，我们使用 [Chat SDK](https://github.com/vercel/chat)（一款面向 Slack、Teams、Discord 等多平台的统一 TypeScript SDK）开发了 c0；The Guardian 则采用 [Vercel Workflows](https://vercel.com/docs/workflow) 实现持久化执行。欢迎到 [社区](https://community.vercel.com/) 分享您的成果——我们非常乐意与您交流彼此的经验与心得。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 1, 2022
 
@@ -30,4 +30,4 @@ We currently have zero-configuration Analytics support for Next.js, Nuxt, and Ga
 [Check out the documentation](https://vercel.com/docs/concepts/analytics/api) as well.  
 
 也请参阅相关[文档](https://vercel.com/docs/concepts/analytics/api)。
-{% endraw %}
+&#123;% endraw %}

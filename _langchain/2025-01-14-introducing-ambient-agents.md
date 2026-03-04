@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:44:36.029264314+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Most AI apps today follow a familiar chat pattern ( ["chat" UX](https://blog.langchain.com/ux-for-agents-part-1-chat-2/)). Though easy to implement, they create unnecessary interaction overhead, limit the ability of us humans to scale ourselves, and fail to use the full potential of LLMs.
 
@@ -200,4 +200,4 @@ OSS Email Assistant
 
 - [YouTube Walkthrough](https://youtu.be/1A79eYjiBvo?ref=blog.langchain.com)  
 - [YouTube 演示视频](https://youtu.be/1A79eYjiBvo?ref=blog.langchain.com)
-{% endraw %}
+&#123;% endraw %}

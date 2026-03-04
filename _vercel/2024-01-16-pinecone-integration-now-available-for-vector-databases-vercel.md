@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 16, 2024
 
@@ -27,4 +27,4 @@ This integration is available for users on all plans.
 
 [Check out the integration](https://vercel.com/integrations/pinecone) to get started.  
 [立即查看该集成](https://vercel.com/integrations/pinecone)，开始使用。
-{% endraw %}
+&#123;% endraw %}

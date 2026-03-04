@@ -9,7 +9,7 @@ translated: false
 description: "Axel Springer is the first publishing house globally to partner with us on a deeper integration of journalism in AI technologies."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 13, 2023
 
@@ -68,4 +68,4 @@ CompanyMar 8, 2024](https://openai.com/index/openai-announces-new-members-to-boa
 CompanyMar 8, 2024](https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai/)
 
 Partnership with Axel Springer to deepen beneficial use of AI in journalism \| OpenAI
-{% endraw %}
+&#123;% endraw %}

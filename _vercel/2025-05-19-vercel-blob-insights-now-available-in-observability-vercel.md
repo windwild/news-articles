@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Observability dashboard now includes a dedicated tab for Vercel Blob, which provides visibility into how Blob stores are used across your applications."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 19, 2025
 
@@ -31,4 +31,4 @@ This allows you to understand usage patterns, identify inefficiencies, and optim
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fobservability%2Fblob&title=Go+to+Blob+Observability) or [learn more about Vercel Blob](https://vercel.com/docs/storage/vercel-blob).
 
 [立即体验](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fobservability%2Fblob&title=Go+to+Blob+Observability) 或 [深入了解 Vercel Blob](https://vercel.com/docs/storage/vercel-blob)。
-{% endraw %}
+&#123;% endraw %}

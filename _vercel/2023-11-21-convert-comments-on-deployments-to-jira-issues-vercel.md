@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 21, 2023
 
@@ -23,4 +23,4 @@ Nov 21, 2023
 [Jira](https://vercel.com/integrations/jira) 是 Vercel 不断扩展的“评论集成”生态中的一员；该生态目前已包含[Slack](https://vercel.com/docs/workflow-collaboration/comments/integrations#use-the-vercel-slack-app) 和 [Linear](https://vercel.com/docs/workflow-collaboration/comments/integrations#use-the-vercel-comments-linear-integration) 等集成工具，面向 Pro 与 Enterprise 计划用户开放，同时 Hobby 计划用户（若其 Git 仓库为公开仓库）亦可使用。
 
 [查看相关文档](https://vercel.com/docs/workflow-collaboration/comments/integrations#using-the-vercel-comments-jira-integration)，了解更多详情。
-{% endraw %}
+&#123;% endraw %}

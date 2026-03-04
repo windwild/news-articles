@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 16, 2021
 
@@ -19,4 +19,4 @@ Dec 16, 2021
 为了帮助您更清晰地了解账户的资源使用情况，用量概览（Usage Overview）现已支持按使用量最高的前 4 个项目对数据进行分组展示，此外仍保留按数量（count）或比率（ratio）对图表进行分组的功能。
 
 请参阅[相关文档](https://vercel.com/docs/concepts/limits/usage)。
-{% endraw %}
+&#123;% endraw %}

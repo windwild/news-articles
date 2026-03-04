@@ -9,7 +9,7 @@ translated: false
 description: "A new $5+ million partnership aims to explore ways the development of artificial intelligence (AI) can support a thriving, innovative local news field, and ensure local news organizations shape the fu..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 18, 2023
 
@@ -82,4 +82,4 @@ CompanyMar 8, 2024](https://openai.com/index/openai-announces-new-members-to-boa
 CompanyMar 8, 2024](https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai/)
 
 Partnership with American Journalism Project to support local news \| OpenAI
-{% endraw %}
+&#123;% endraw %}

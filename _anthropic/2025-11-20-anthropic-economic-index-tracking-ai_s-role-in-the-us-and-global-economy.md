@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "New research from Anthropic exploring geographic patterns of AI use"
 ---
-{% raw %}
+&#123;% raw %}
 
 Economic Research
 
@@ -288,4 +288,4 @@ As with our past reports, we're releasing a comprehensive dataset for this relea
 If you’re interested in working at Anthropic to help build the systems powering this research, we encourage you to apply for our [Research Engineer](https://job-boards.greenhouse.io/anthropic/jobs/4816634008) role.
 
 如果您有兴趣加入 Anthropic，参与构建支撑本项研究的系统，我们诚挚邀请您申请我们的 [研究工程师（Research Engineer）](https://job-boards.greenhouse.io/anthropic/jobs/4816634008) 职位。
-{% endraw %}
+&#123;% endraw %}

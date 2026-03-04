@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Use interactive code sandboxes to build the Next.js Conf registration prism game."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 21, 2022
 
@@ -218,7 +218,7 @@ import { Reflect } from './Reflect'
 
 export default function App() {
   return (
-    <Canvas orthographic camera={{ zoom: 100 }}>
+    <Canvas orthographic camera=&#123;{ zoom: 100 }}>
       <color attach="background" args={['#000']} />
       <Scene />
     </Canvas>
@@ -726,7 +726,7 @@ export default function App() {
   const texture = useLoader(LUTCubeLoader, 'https://uploads.codesandbox.io/uploads/user/b3e56831-8b98-4fee-b941-0e27f39883ab/DwlG-F-6800-STD.cube')
 
   return (
-    <Canvas orthographic gl={{ antialias: false }} camera={{ position: [0, 0, 100], zoom: 70 }}>
+    <Canvas orthographic gl=&#123;{ antialias: false }} camera=&#123;{ position: [0, 0, 100], zoom: 70 }}>
       <color attach="background" args={['black']} />
       <Scene />
       <EffectComposer disableNormalPass>
@@ -741,7 +741,7 @@ export default function App() {
   const texture = useLoader(LUTCubeLoader, 'https://uploads.codesandbox.io/uploads/user/b3e56831-8b98-4fee-b941-0e27f39883ab/DwlG-F-6800-STD.cube')
 
   return (
-    <Canvas orthographic gl={{ antialias: false }} camera={{ position: [0, 0, 100], zoom: 70 }}>
+    <Canvas orthographic gl=&#123;{ antialias: false }} camera=&#123;{ position: [0, 0, 100], zoom: 70 }}>
       <color attach="background" args={['black']} />
       <Scene />
       <EffectComposer disableNormalPass>
@@ -1084,4 +1084,4 @@ function App() {
 ¹ _We'd like to give a thanks to outside contributors to our mood board, including artists like Davo Galavotti._
 
 ¹ _我们衷心感谢为情绪板（mood board）提供支持的外部贡献者，包括艺术家 Davo Galavotti 等。_
-{% endraw %}
+&#123;% endraw %}

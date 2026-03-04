@@ -9,7 +9,7 @@ translated: false
 description: "Viable uses GPT-4 to analyze qualitative data at a revolutionary scale with unparalleled accuracy."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Viable
@@ -91,4 +91,4 @@ ChatGPTMar 18, 2024](https://openai.com/index/holiday-extras/)
 APIMar 18, 2024](https://openai.com/index/superhuman/)
 
 Accurately analyzing large scale qualitative data \| OpenAI
-{% endraw %}
+&#123;% endraw %}

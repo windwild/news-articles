@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 InterpretabilityResearch
 
@@ -56,4 +56,4 @@ To make this concrete, we'll consider a few potential ways neurons might represe
 Following Thorpe, this note will focus on examples where neurons have binary activations. This significantly simplifies the space of possibilities, but it's still a rich enough space to have interesting questions.
 
 遵循 Thorpe 的设定，本文将聚焦于神经元具有二值激活（binary activations）的情形。这一简化显著缩小了可能性空间，但其仍足够丰富，足以引出诸多有趣的问题。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Introducing GPT-4.1 in the API—a new family of models with across-the-board improvements, including major gains in coding, instruction following, and long-context understanding. We’re also releasi..."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 14, 2025
 
@@ -307,4 +307,4 @@ Play video
 
 - [2025](https://openai.com/news/?tags=2025)
 - [API Platform](https://openai.com/news/?tags=api-platform)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK."
 ---
-{% raw %}
+&#123;% raw %}
 
 July 21, 2025
 
@@ -46,4 +46,4 @@ OpenAI technology also underpins multiple tools in ‘Humphrey’, Whitehall’s
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
-{% endraw %}
+&#123;% endraw %}

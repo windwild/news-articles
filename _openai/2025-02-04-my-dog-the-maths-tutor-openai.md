@@ -10,7 +10,7 @@ description: "ChatGPT and personal tutoring
 "
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 4, 2025
 
@@ -130,4 +130,4 @@ ChatGPTFeb 4, 2025](https://openai.com/index/fishing-for-first-timers/)
 ProductMay 30, 2024](https://openai.com/index/introducing-chatgpt-edu/)
 
 My dog, the maths tutor \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Using bulk redirects, you can import millions of redirects via csv and other formats natively with Vercel."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 13, 2025
 
@@ -43,4 +43,4 @@ vercel.json
 - **额外容量：** 起价为每月 50 美元，每增加 25,000 条重定向规则
 
 [开始使用批量重定向](https://vercel.com/docs/redirects/bulk-redirects/getting-started)
-{% endraw %}
+&#123;% endraw %}

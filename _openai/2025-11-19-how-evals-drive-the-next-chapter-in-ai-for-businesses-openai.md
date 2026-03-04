@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Learn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage."
 ---
-{% raw %}
+&#123;% raw %}
 
 November 19, 2025
 
@@ -80,4 +80,4 @@ As more best practices and frameworks emerge, we will be sharing them. In the me
 Don’t hope for “great.” Specify it, measure it, and improve toward it.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

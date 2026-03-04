@@ -9,7 +9,7 @@ translated: false
 description: "By combining commercial experience and deep LLM expertise with OpenAI’s models, Rox makes every seller a top 1% seller. "
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Rox goes “all in” on OpenAI
@@ -99,4 +99,4 @@ With OpenAI, Rox will continue to enable human-led sales functions that maximize
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

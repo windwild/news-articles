@@ -9,7 +9,7 @@ translated: false
 description: "We’ve applied reinforcement learning from human feedback to train language models that are better at summarization."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 4, 2020
 
@@ -346,4 +346,4 @@ _If you are interested in working on these research questions,_ [_we’re hirin
 
 23. 23
     Christiano, P., Shlegeris, B., & Amodei, D. (2018). ” [Supervising strong learners by amplifying weak experts⁠(opens in a new window)](https://arxiv.org/abs/1810.08575).” arXiv preprint.
-{% endraw %}
+&#123;% endraw %}

@@ -10,7 +10,7 @@ description: "An update on our safety & security practices
 "
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 16, 2024
 
@@ -61,4 +61,4 @@ Ensuring the safety and security of our models involves the work of many teams a
 
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

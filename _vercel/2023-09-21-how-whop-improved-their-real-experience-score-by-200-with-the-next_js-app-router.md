@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Whop improved developer experience with Vercel and Next.js"
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 21, 2023
 
@@ -184,4 +184,4 @@ Vercel.com 着陆页
 Download the whitepaper
 
 下载白皮书
-{% endraw %}
+&#123;% endraw %}

@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:51:10.916610029+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This post was written in collaboration with the [Tavrn](https://tavrn.art/?ref=producthunt) team. They were able to build a new personal assistant app, [Noah](https://www.producthunt.com/posts/noah?ref=blog.langchain.com), that's highly personalized and highly context-aware using LangChain (with some interesting retrieval tactics) and LangSmith (for fine-tuning chains and prompts)._
 
@@ -88,4 +88,4 @@ Finally, Noah provides the answer, with the appropriate sources cited.
 To get started with Noah and boost your productivity, access [https://tavrn.art/noah](https://tavrn.art/noah?ref=blog.langchain.com).
 
 如需立即体验 Noah，提升您的工作效率，请访问：[https://tavrn.art/noah](https://tavrn.art/noah?ref=blog.langchain.com)。
-{% endraw %}
+&#123;% endraw %}

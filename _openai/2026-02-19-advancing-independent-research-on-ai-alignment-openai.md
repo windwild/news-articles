@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 19, 2026
 
@@ -82,4 +82,4 @@ While we continue advancing our frontier alignment and safety research at OpenAI
 This grant is one step toward that goal. We look forward to continuing to collaborate with the broader research community as the field advances.  
 
 此项资助正是迈向这一目标的重要一步。随着该领域持续演进，我们期待继续与更广泛的研究界通力协作。
-{% endraw %}
+&#123;% endraw %}

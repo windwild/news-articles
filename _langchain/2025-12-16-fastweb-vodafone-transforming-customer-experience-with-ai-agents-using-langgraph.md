@@ -9,7 +9,7 @@ translated: true
 description: "See how Fastweb + Vodafone revolutionized customer service and call center operations with their agents, Super TOBi and Super Agent."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Fastweb + Vodafone, part of the Swisscom Group, is one of Europe's leading telecommunications providers serving millions of customers across Italy. Recognizing that traditional customer service approaches could be improved to meet their growing demands, Fastweb + Vodafone embarked on an AI transformation to revolutionize how it delivers customer support.
 
@@ -297,4 +297,4 @@ With their foundation built on LangGraph's flexible architecture and LangSmith's
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：6 分钟
-{% endraw %}
+&#123;% endraw %}

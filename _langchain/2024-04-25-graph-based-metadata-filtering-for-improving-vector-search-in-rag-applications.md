@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Partner Post"]
 ---
-{% raw %}
+&#123;% raw %}
 
 ### Optimizing vector retrieval with advanced graph-based metadata techniques using LangChain and Neo4j
 
@@ -643,4 +643,4 @@ agent_executor.invoke(
 [Partner Post](https://blog.langchain.com/tag/partner-post/) 7 min read
 
 [合作伙伴文章](https://blog.langchain.com/tag/partner-post/) 7 分钟阅读
-{% endraw %}
+&#123;% endraw %}

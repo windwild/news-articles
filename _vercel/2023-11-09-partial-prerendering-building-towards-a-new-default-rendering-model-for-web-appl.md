@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "PPR combines ultra-quick static delivery with fully dynamic capabilities and we believe it has the potential to become the default rendering model for web applications, bringing together the best of s..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 9, 2023
 
@@ -222,4 +222,4 @@ Partial Prerendering is a major step in web application delivery.
 We’re excited to see what the community builds on it, and we will continue to iterate on the best developer experience and best user experience for modern websites and web applications.
 
 我们非常期待社区基于它构建出的各种创新应用，同时将持续优化开发体验与终端用户体验，为现代网站和 Web 应用提供更佳支持。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing an expansion of our partnership with WPP, a first-of-its-kind agency collaboration that now brings v0 and AI SDK directly to WPP's global network of creative teams and their clients."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 24, 2025
 
@@ -119,4 +119,4 @@ Learn more](http://www.vercel.com/partners/wpp)
 全球领先品牌信赖WPP，依托Vercel前端云（Frontend Cloud）打造并交付令人愉悦且高效转化的数字体验。\\
 \\
 了解详情](http://www.vercel.com/partners/wpp)
-{% endraw %}
+&#123;% endraw %}

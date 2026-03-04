@@ -9,7 +9,7 @@ translated: true
 description: "Klarna's AI assistant is revolutionizing the personal shopping experience, including customer service and productivity. See how they used LangGraph and LangSmith to achieve 80% faster customer resolut..."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [Klarna](https://www.klarna.com/?ref=blog.langchain.com) has reshaped global commerce with its consumer-centric, AI-powered payment and shopping solutions. With over 85 million active users and 2.5 million daily transactions on its platform, Klarna is a fintech leader that simplifies shopping while empowering consumers with smarter, more flexible financial solutions.
 
@@ -158,4 +158,4 @@ Built with LangGraph and refined with LangSmith, Klarna’s AI assistant has emp
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

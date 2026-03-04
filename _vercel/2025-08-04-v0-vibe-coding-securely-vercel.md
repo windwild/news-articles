@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vibe coding makes it possible for anyone to ship a viral app. But every line of AI-generated code is a potential vulnerability. Security cannot be an afterthought, it must be the foundation. Turn idea..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 4, 2025
 
@@ -284,4 +284,4 @@ From idea to secure deployment in minutes. No security expertise required.
 几分钟内，即可从灵感到安全上线。无需任何安全专业知识。
 
 Get started with v0](https://v0.dev/)
-{% endraw %}
+&#123;% endraw %}

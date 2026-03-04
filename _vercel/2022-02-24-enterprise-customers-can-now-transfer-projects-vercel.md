@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 24, 2022
 
@@ -27,4 +27,4 @@ This makes it easier for Enterprise teams to move projects between different acc
 Check out [the documentation](https://vercel.com/docs/concepts/projects/overview#transferring-a-project) as well.
 
 也请参阅[相关文档](https://vercel.com/docs/concepts/projects/overview#transferring-a-project)。
-{% endraw %}
+&#123;% endraw %}

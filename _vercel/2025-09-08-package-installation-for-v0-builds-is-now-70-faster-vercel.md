@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "NPM packages installation got faster for v0 builds. It went from 5 seconds to 1.5 seconds on average, which is a 70% reduction."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 8, 2025
 
@@ -25,4 +25,4 @@ This is in addition to a recent improvement to [time-to-start for v0 builds](htt
 Deploy today on [v0.app](https://v0.app/).
 
 立即在 [v0.app](https://v0.app/) 上部署！
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 4, 2022
 
@@ -23,4 +23,4 @@ Feb 4, 2022
 在文件顶部将 `$schema` 键设为 `https://openapi.vercel.sh/vercel.json`。该模式文件是自动生成的，其生成方式与我们的 [自动 REST API 文档](https://vercel.com/changelog/automatic-rest-api-documentation-with-openapi) 类似。
 
 同时也请查阅 [相关文档](https://vercel.com/docs/cli#project-configuration)。
-{% endraw %}
+&#123;% endraw %}

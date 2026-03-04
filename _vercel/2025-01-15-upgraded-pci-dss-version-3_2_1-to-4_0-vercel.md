@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel has successfully transitioned from Payment Card Industry Data Security Standard (PCI DSS) version 3.2.1 to 4.0, completing the SAQ-D Attestation of Compliance for service providers."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 15, 2025
 
@@ -25,4 +25,4 @@ A copy of our PCI DSS compliance documentation can be obtained through our [Trus
 Learn how we support ecommerce customers who require [PCI compliance for payment processing](https://vercel.com/blog/pci-compliance-for-ecommerce-teams).
 
 了解我们如何支持需要满足[支付处理 PCI 合规性要求](https://vercel.com/blog/pci-compliance-for-ecommerce-teams)的电商客户。
-{% endraw %}
+&#123;% endraw %}

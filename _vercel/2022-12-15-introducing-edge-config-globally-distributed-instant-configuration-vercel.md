@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Edge Config is a distributed data store optimized for near-instant reads. By pushing data to every region, before any requests are made, you're able to read that data from a Vercel Function or Edge Mi..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 15, 2022
 
@@ -111,4 +111,4 @@ Edge Config 现已正式发布（GA）。请查阅[文档](https://www.vercel.co
 We’re excited to hear what you think, and how you’re using Edge Config. Give us feedback in the [Vercel Community](https://community.vercel.com/).
 
 我们非常期待听到您的想法，以及您如何使用 Edge Config。欢迎在 [Vercel 社区](https://community.vercel.com/) 中向我们提供反馈。
-{% endraw %}
+&#123;% endraw %}

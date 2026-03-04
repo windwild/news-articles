@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 1, 2025
 
@@ -109,4 +109,4 @@ The grants are funded and administered by OpenAI Group PBC. This program is sepa
 Email [mentalhealthresearchgrants@openai.com⁠](https://openai.com/index/ai-mental-health-research-grants/mentalhealthresearchgrants@openai.com). Note that we will not be providing status updates for individual applications that are not selected.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 23, 2024
 
@@ -27,4 +27,4 @@ For example, canceled and errored deployments might be set to 30 days retention,
 Learn more in our [documentation](https://vercel.com/docs/security/deployment-retention).
 
 更多详情，请参阅我们的[文档](https://vercel.com/docs/security/deployment-retention)。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "In this video, we share how the o1 reasoning models can help in domains like coding, strategy, and research."
 tags: ["Webinar"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Recorded: October 17, 2024
 
@@ -25,4 +25,4 @@ In this video, we share how the o1 reasoning models can help in domains like cod
 00:0022:33
 
 Solving complex problems with OpenAI o1 models \| OpenAI
-{% endraw %}
+&#123;% endraw %}

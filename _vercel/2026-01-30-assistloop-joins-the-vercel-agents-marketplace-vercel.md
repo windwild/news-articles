@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "AssistLoop is now available in the Vercel Marketplace, making it easy to add AI-powered customer support to Next.js apps deployed on Vercel."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 30, 2026
 
@@ -67,4 +67,4 @@ AssistLoop 自动将 NEXT\_PUBLIC\_ASSISTLOOP\_AGENT\_ID 注入您的项目环�
 ### 快速开始
 
 从 Marketplace 部署 [AssistLoop Next.js](https://vercel.com/templates/ai/next-js-assist-loop-template) 模板，立即体验其实际效果。
-{% endraw %}
+&#123;% endraw %}

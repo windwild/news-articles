@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Sandbox is now GA, providing isolated Linux VMs for safely executing untrusted code. Run AI agent output, user uploads, and third-party code without exposing production systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 30, 2026
 
@@ -71,4 +71,4 @@ npx sandbox create --connect
 Explore the [documentation](https://vercel.com/docs/vercel-sandbox) to get started, and check out the [open-source SDK and CLI](https://www.npmjs.com/package/sandbox).
 
 请查阅 [文档](https://vercel.com/docs/vercel-sandbox) 开始上手，并查看 [开源的 SDK 和 CLI](https://www.npmjs.com/package/sandbox)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 3, 2023
 
@@ -30,4 +30,4 @@ DALL·E 3 is an artificial intelligence system that takes a text prompt as an in
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
-{% endraw %}
+&#123;% endraw %}

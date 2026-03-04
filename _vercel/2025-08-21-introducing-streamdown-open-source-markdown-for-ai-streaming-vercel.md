@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Streamdown is a new open source, drop-in Markdown renderer built for AI streaming. It powers the AI Elements Response component, but can also be used standalone."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 21, 2025
 
@@ -79,4 +79,4 @@ npm i streamdown
 [Read the docs](https://streamdown.ai/) and upgrade your AI-powered streaming.
 
 [阅读文档](https://streamdown.ai/)，升级你的 AI 驱动流式传输体验。
-{% endraw %}
+&#123;% endraw %}

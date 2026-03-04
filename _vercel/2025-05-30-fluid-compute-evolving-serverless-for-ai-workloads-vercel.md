@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fluid, our newly announced compute model, eliminates wasted compute by maximizing resource efficiency. Instead of launching a new function for every request, it intelligently reuses available capacity..."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 30, 2025
 
@@ -163,4 +163,4 @@ Get started](https://vercel.com/templates/ai)
 借助 Fluid Compute 优化您的 AI 应用，充分释放计算潜力。\\
 \\
 立即开始](https://vercel.com/templates/ai)
-{% endraw %}
+&#123;% endraw %}

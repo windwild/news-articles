@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI appoints Scott Schools as Chief Compliance Officer"
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 22, 2024
 
@@ -35,4 +35,4 @@ With decades of legal experience spanning both the public and private sectors, S
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

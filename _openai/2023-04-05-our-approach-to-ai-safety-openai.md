@@ -9,7 +9,7 @@ translated: false
 description: "Ensuring that AI systems are built, deployed, and used safely is critical to our mission."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 5, 2023
 
@@ -87,4 +87,4 @@ Addressing safety issues also requires extensive debate, experimentation, and en
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Framework](https://openai.com/news/?tags=framework)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

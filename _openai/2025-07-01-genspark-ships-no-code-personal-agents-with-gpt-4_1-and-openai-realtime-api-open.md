@@ -9,7 +9,7 @@ translated: false
 description: "Learn how Genspark built a $36M ARR AI product in 45 days—with no-code agents powered by GPT-4.1 and OpenAI Realtime API."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 1, 2025
 
@@ -78,4 +78,4 @@ Next, Genspark is expanding into new categories where autonomous agents can driv
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

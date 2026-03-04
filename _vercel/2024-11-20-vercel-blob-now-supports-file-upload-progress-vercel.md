@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 20, 2024
 
@@ -103,4 +103,4 @@ export function Uploader() {
 [Try it out](https://vercel.com/dashboard/stores) or [learn more about Vercel Blob](https://vercel.com/docs/storage/vercel-blob).
 
 [立即试用](https://vercel.com/dashboard/stores)，或[了解有关 Vercel Blob 的更多信息](https://vercel.com/docs/storage/vercel-blob)。
-{% endraw %}
+&#123;% endraw %}

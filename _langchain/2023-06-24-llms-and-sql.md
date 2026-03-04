@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:45:36.548643837+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 [Francisco Ingham](https://twitter.com/fpingham?ref=blog.langchain.com) 和 [Jon Luo](https://twitter.com/JonZluo?ref=blog.langchain.com) 是推动 SQL 集成变革的两位社区核心成员。我们非常荣幸能与他们共同撰写这篇博客，全面分享他们在实践中积累的各类技巧与经验。更令人振奋的是，我们还将与他们联合举办一场时长一小时的线上研讨会，深入探讨这些实践经验，并现场解答其他相关问题。本次研讨会定于 3 月 22 日举行——请通过下方链接报名参加：
 
@@ -427,4 +427,4 @@ If you want to help implementing any of these or have other best practices that 
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口端点**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
-{% endraw %}
+&#123;% endraw %}

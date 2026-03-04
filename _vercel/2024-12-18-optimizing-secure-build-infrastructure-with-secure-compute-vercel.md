@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We built Hive, our general compute platform, after outgrowing off-the-shelf solutions.  See how it's now powering secure connections to private networks, cutting initialization from 90s to 5s and impr..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 18, 2024
 
@@ -133,4 +133,4 @@ Contact us](https://vercel.com/contact/sales/security)
 欢迎联系我们，探讨 Secure Compute 方案，并了解 Vercel Enterprise 如何提升您安全工作流的执行效率。\\
 \\
 立即联系](https://vercel.com/contact/sales/security)
-{% endraw %}
+&#123;% endraw %}

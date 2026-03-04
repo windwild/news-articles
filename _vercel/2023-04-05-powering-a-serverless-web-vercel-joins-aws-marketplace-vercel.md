@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Powering a serverless Web: Vercel joins the AWS Marketplace"
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 5, 2023
 
@@ -127,4 +127,4 @@ Feb 9, 2023
 Kelsey Dillon
 
 凯尔西·迪伦
-{% endraw %}
+&#123;% endraw %}

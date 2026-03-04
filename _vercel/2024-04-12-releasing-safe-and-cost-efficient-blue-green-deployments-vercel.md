@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel's platform primitives enable safe and scalable blue-green deployments that mitigate the risks of rolling out new software versions."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 12, 2024
 
@@ -174,4 +174,4 @@ See how Vercel's Skew Protection feature enables production-ready blue-green dep
 
 [Get Started Now](https://vercel.com/templates/next.js/blue-green-deployments-vercel)  
 [立即开始](https://vercel.com/templates/next.js/blue-green-deployments-vercel)
-{% endraw %}
+&#123;% endraw %}

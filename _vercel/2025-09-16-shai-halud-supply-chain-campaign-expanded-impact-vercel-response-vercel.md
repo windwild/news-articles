@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Ongoing Shai-Halud npm supply chain attacks affected popular packages. Vercel responded swiftly, secured builds, and notified impacted users."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 16, 2025
 
@@ -151,4 +151,4 @@ Sep 16, 2025
 - [Nx Advisory: s1ngularity attack](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
 
 - [Nx 安全通告：s1ngularity 攻击](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel solves serverless cold starts with scale to one, Fluid compute, predictive scaling, and caching to keep functions warm and fast."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 18, 2025
 
@@ -273,4 +273,4 @@ Get started](https://vercel.com/fluid)
 告别冷启动焦虑，确保每一次首屏体验都快速流畅。\\
 \\
 立即开始](https://vercel.com/fluid)
-{% endraw %}
+&#123;% endraw %}

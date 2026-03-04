@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 18, 2022
 
@@ -41,4 +41,4 @@ This integration can be installed from the [Integration Marketplace](https://ve
 This Checkly Integration is built using our new [Checks API](https://vercel.com/docs/concepts/deployments/checks#building-your-own-checks) which allows you to insert validation and status checks after a deployment is built but before it is released to production.
 
 本 Checkly 集成基于我们全新的 [Checks API](https://vercel.com/docs/concepts/deployments/checks#building-your-own-checks) 构建，该 API 允许您在部署构建完成后、但尚未发布至生产环境前，插入验证逻辑与状态检查。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 25, 2021
 
@@ -47,4 +47,4 @@ These changes will be applied on **August 20th, 2021**, which is the same date 
 Check out [the updated documentation](https://vercel.com/docs/integrations#upgrading-your-integration) to learn more about upgrading your Integration.
 
 请查阅 [更新后的文档](https://vercel.com/docs/integrations#upgrading-your-integration)，了解如何升级您的集成。
-{% endraw %}
+&#123;% endraw %}

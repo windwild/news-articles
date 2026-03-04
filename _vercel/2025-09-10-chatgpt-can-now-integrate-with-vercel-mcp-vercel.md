@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Use Vercel MCP with ChatGPT to explore projects, view logs, share access to protected deployments, and more."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 10, 2025
 
@@ -83,4 +83,4 @@ Get started](https://vercel.com/docs/mcp/vercel-mcp#setup)
 阅读文档，深入了解该服务器\\
 \\
 立即开始](https://vercel.com/docs/mcp/vercel-mcp#setup)
-{% endraw %}
+&#123;% endraw %}

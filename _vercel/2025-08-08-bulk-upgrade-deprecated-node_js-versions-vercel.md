@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Upgrade all deprecated Node.js projects in one click from your Vercel Dashboard. Select all projects and switch their runtime to the latest version: Node.js 22."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 8, 2025
 
@@ -21,4 +21,4 @@ Aug 8, 2025
 此操作会更新项目设置中的 [Node.js 版本](https://vercel.com/docs/functions/runtimes/node-js/node-js-versions#setting-the-node.js-version-in-project-settings)。如果您的项目还在 `package.json` 中指定了 Node.js 版本，则需手动更新该配置。已有的部署不受影响。
 
 [立即查看并升级使用已弃用 Node.js 版本的项目。](https://vercel.com/d?to=%2F%5Bteam%5D%23upgrade-deprecated-nodejs-versions&title=Upgrade+Deprecated+Node.js+Versions)
-{% endraw %}
+&#123;% endraw %}

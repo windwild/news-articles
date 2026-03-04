@@ -9,7 +9,7 @@ translated: false
 description: "Canva is a visual communication platform, enjoyed by more than 175 million people monthly to make presentations, videos, documents, websites, social media graphics and more. A majority of the world’..."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Canva
@@ -69,4 +69,4 @@ Back in 2018, Canva began imagining Magic Studio as something that only technolo
 [Talk with our team](https://openai.com/contact-sales/)
 
 Canva's AI-powered Magic Studio Used 5 Billion Times and Counting \| OpenAI
-{% endraw %}
+&#123;% endraw %}

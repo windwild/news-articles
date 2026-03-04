@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Ozone, the AI-infused, web-based video editor, accelerated their development process by 5x after switching to Vercel and Next.js. See how."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 20, 2024
 
@@ -117,4 +117,4 @@ Talk to an expert to learn how you can get started with Vercel today.
 
 Get in Touch  
 立即联系](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

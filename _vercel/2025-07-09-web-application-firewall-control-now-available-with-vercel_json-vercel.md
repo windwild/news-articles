@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now configure firewall mitigation rules through your vercel.json project configuration file. This is in addition to the existing dashboard and API support."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 9, 2025
 
@@ -77,4 +77,4 @@ The following example shows how to deny a request that is prefixed by a specific
 ```
 
 了解更多关于 [Vercel 的 Web 应用防火墙（WAF）](https://vercel.com/docs/vercel-firewall/vercel-waf) 以及如何在 `vercel.json` 中 [配置 WAF 规则](https://vercel.com/docs/vercel-firewall/vercel-waf/custom-rules#configuration-in-vercel.json)。
-{% endraw %}
+&#123;% endraw %}

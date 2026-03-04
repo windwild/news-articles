@@ -9,7 +9,7 @@ translated: false
 description: "Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 9, 2024
 
@@ -50,4 +50,4 @@ ProductDec 9, 2024](https://openai.com/index/sora-is-here/)
 [Start now(opens in a new window)](https://sora.com/library)
 
 Minne Atairu & Sora \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Developers can now integrate ChatGPT and Whisper models into their apps and products through our API."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Updated: April 24, 2024
 
@@ -143,4 +143,4 @@ We believe that AI can provide incredible opportunities and economic empowerment
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

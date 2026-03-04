@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "React Wrap Balancer tidies up bad typography and matches line lengths on the fly."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 19, 2023
 
@@ -178,4 +178,4 @@ function Title() {
 如果您希望 _进一步_ 提升性能，还可以将整个应用包裹在一个导入的 `<Provider>` 组件中；该组件会巧妙地在所有 `<Balancer>` 组件之间共享换行逻辑。
 
 如需了解更多，请访问 [项目 GitHub 仓库](https://github.com/shuding/react-wrap-balancer?utm_source=vercel_site&utm_medium=blog&utm_campaign=blog_react_wrap_balancer) 和 [React Wrap Balancer 演示页面](https://react-wrap-balancer.vercel.app/?utm_source=vercel_site&utm_medium=blog&utm_campaign=blog_react_wrap_balancer)。
-{% endraw %}
+&#123;% endraw %}

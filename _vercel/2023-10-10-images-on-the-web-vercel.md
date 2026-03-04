@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn about the differences between the image formats JPEG, PNG, WebP, and AVIF with regards to compression techniques, resolution capabilities, pixel density, and effects on user experience for optim..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 10, 2023
 
@@ -401,4 +401,4 @@ If you omit the `sizes` prop, Next.js assumes your image has a fixed dimension a
 Choosing the right image format can significantly impact user experience. Factoring in attributes like pixel density, bit depth, and chroma subsampling, along with privacy concerns related to metadata, ensures that images are not just visually appealing but also efficient and secure.
 
 选择合适的图像格式可显著影响用户体验。综合考虑像素密度、位深度、色度子采样等属性，以及与元数据相关的隐私问题，能够确保图像不仅视觉效果出色，而且高效、安全。
-{% endraw %}
+&#123;% endraw %}

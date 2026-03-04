@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "When enabled, Vercel will only create deployments for commits that have been verified by GitHub. For all other commits, the deployment will be automatically canceled."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 24, 2025
 
@@ -27,4 +27,4 @@ Enable it for GitHub-connected projects in your [project settings](https://verce
 Learn more about commit signing and verification on [GitHub](https://docs.github.com/en/authentication/managing-commit-signature-verification) or read more about the setting in our [docs](https://vercel.com/docs/project-configuration/git-settings#verified-commits).
 
 如需了解有关提交签名与验证的更多信息，请参阅 [GitHub 官方文档](https://docs.github.com/en/authentication/managing-commit-signature-verification)，或查阅我们的 [文档](https://vercel.com/docs/project-configuration/git-settings#verified-commits) 以深入了解该配置项。
-{% endraw %}
+&#123;% endraw %}

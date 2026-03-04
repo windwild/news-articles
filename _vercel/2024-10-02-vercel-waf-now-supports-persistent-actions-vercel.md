@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 2, 2024
 
@@ -31,4 +31,4 @@ You can apply persistence to existing rules for actions like deny, challenge, an
 Learn more about [persistent actions](https://vercel.com/docs/security/vercel-waf/custom-rules#persistent-actions).
 
 了解更多关于[持久化操作](https://vercel.com/docs/security/vercel-waf/custom-rules#persistent-actions)的信息。
-{% endraw %}
+&#123;% endraw %}

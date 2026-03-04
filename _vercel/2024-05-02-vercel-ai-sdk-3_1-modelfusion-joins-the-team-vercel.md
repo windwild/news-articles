@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "ModelFusion joins Vercel "
 ---
-{% raw %}
+&#123;% raw %}
 
 May 2, 2024
 
@@ -715,4 +715,4 @@ Get started](https://vercel.com/contact)
 联系我们的团队，深入了解如何为您的组织构建 AI 驱动的应用程序。\\
 \\
 立即开始](https://vercel.com/contact)
-{% endraw %}
+&#123;% endraw %}

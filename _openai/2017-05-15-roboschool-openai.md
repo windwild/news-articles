@@ -9,7 +9,7 @@ translated: false
 description: "We are releasing Roboschool: open-source software for robot simulation, integrated with OpenAI Gym."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 15, 2017
 
@@ -113,4 +113,4 @@ PublicationJun 9, 2022](https://openai.com/index/techniques-for-training-large-n
 ReleaseJul 28, 2021](https://openai.com/index/triton/)
 
 Roboschool \| OpenAI
-{% endraw %}
+&#123;% endraw %}

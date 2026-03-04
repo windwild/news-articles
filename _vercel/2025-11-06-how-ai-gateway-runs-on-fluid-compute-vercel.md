@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The AI Gateway is a simple application deployed on Vercel, but it achieves scale, efficiency, and resilience by running on Fluid compute and leveraging Vercel’s global infrastructure."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 6, 2025
 
@@ -265,4 +265,4 @@ Active CPU Pricing matches the actual work pattern. During those seconds of wait
 By using Fluid’s concurrency model and Vercel’s distributed network, AI Gateway demonstrates what modern infrastructure looks like when serverless evolves beyond simple functions. It's still instant and elastic, but now intelligent, efficient, and self-optimizing. The same architecture that powers AI Gateway is available to every developer building the next generation of AI-powered applications on Vercel.
 
 通过结合 Fluid 的并发模型与 Vercel 的分布式网络，AI Gateway 展现了无服务器架构在超越简单函数之后的现代基础设施形态：它依然具备即时响应与弹性伸缩能力，同时更进一步实现了智能化、高效率与自优化。驱动 AI Gateway 的同一套架构，现已向所有在 Vercel 上构建下一代 AI 应用的开发者开放。
-{% endraw %}
+&#123;% endraw %}

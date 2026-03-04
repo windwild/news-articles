@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Two-Factor Authentication (2FA) is now available. You can now secure your personal account using Two-Factor Authentication (2FA) with Time-based One-Time Passwords (TOTP)"
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 3, 2025
 
@@ -51,4 +51,4 @@ Users can now secure their accounts using Two-Factor Authentication (2FA) with T
 Visit your [account settings](https://vercel.com/account/settings/authentication) to enable 2FA today, or check out our [documentation](https://vercel.com/docs/two-factor-authentication) to learn more.
 
 请立即访问您的[账户设置](https://vercel.com/account/settings/authentication)以启用双重身份验证（2FA），或查阅我们的[文档](https://vercel.com/docs/two-factor-authentication)了解更多信息。
-{% endraw %}
+&#123;% endraw %}

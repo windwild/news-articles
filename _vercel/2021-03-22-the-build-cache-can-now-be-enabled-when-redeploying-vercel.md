@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 22, 2021
 
@@ -21,4 +21,4 @@ Mar 22, 2021
 此次更新还对重新部署功能的用户界面进行了优化，更清晰地展示了哪些域名（Domains）将被应用到新的 Deployment 中。
 
 也欢迎查阅[相关文档](https://vercel.com/docs/build-step#caching)。
-{% endraw %}
+&#123;% endraw %}

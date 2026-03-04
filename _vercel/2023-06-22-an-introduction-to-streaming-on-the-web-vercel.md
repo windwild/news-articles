@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how web streams work, their advantages, streaming on Vercel, and tools built around web streams."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 22, 2023
 
@@ -798,4 +798,4 @@ Jul 28, 2022
 Lydia Hallie
 
 Lydia Hallie
-{% endraw %}
+&#123;% endraw %}

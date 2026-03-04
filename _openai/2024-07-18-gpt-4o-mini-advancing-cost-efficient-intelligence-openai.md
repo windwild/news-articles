@@ -9,7 +9,7 @@ translated: false
 description: "Introducing the most cost-efficient small model in the market"
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 18, 2024
 
@@ -110,4 +110,4 @@ We envision a future where models become seamlessly integrated in every app and 
 - [Language](https://openai.com/research/index/?tags=language)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
-{% endraw %}
+&#123;% endraw %}

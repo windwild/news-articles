@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 26, 2021
 
@@ -23,4 +23,4 @@ Oct 26, 2021
 要开始使用 Edge Functions，请在 [Next.js 12+](https://nextjs.org/12) 项目的 `pages/` 目录下，或任意 Vercel 项目的根目录中，创建一个 `_middleware.js` 文件。中间件（Middleware）支持边缘端身份验证（Edge authentication）、机器人防护（bot protection）、功能开关（feature flags）、A/B 测试、服务端分析（server-side analytics）、日志记录（logging）等众多功能。
 
 请参阅[官方文档](https://vercel.com/docs/concepts/functions/edge-functions)，了解 Edge Functions 的部署方法；并查看[示例代码](https://vercel.com/features/edge-functions#examples)。
-{% endraw %}
+&#123;% endraw %}

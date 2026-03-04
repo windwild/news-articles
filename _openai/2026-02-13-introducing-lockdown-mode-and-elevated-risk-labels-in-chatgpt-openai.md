@@ -9,7 +9,7 @@ translated: true
 description: "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 13, 2026
 
@@ -133,4 +133,4 @@ We will also continue to update which features carry this label over time to bes
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

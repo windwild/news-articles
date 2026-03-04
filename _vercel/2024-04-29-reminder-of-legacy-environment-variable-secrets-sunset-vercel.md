@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 29, 2024
 
@@ -97,4 +97,4 @@ vercel secrets ls
 View the secrets added to your Vercel teams.
 
 查看已添加到您的 Vercel 团队中的密钥。
-{% endraw %}
+&#123;% endraw %}

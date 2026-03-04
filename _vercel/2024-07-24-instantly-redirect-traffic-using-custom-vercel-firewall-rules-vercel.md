@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 24, 2024
 
@@ -31,4 +31,4 @@ Firewall redirects execute before Edge Network configuration redirects (e.g. [ve
 Custom rules are available for free on all plans.
 
 所有套餐均免费提供自定义规则功能。
-{% endraw %}
+&#123;% endraw %}

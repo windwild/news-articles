@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now extend the duration of a running Vercel Sandbox using the new extendTimeout method. This lets you keep long-running sandboxes alive beyond their initial timeout. It is useful for workflows..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 21, 2025
 
@@ -65,4 +65,4 @@ Pro 和 Enterprise 套餐支持最长 5 小时的运行时长，Hobby 套餐则�
 [Get started with Sandbox now](https://vercel.com/docs/vercel-sandbox#getting-started) and [learn more in the docs](https://vercel.com/docs/vercel-sandbox/pricing).
 
 [立即开始使用 Sandbox](https://vercel.com/docs/vercel-sandbox#getting-started)，并在[文档中了解更多信息](https://vercel.com/docs/vercel-sandbox/pricing)。
-{% endraw %}
+&#123;% endraw %}

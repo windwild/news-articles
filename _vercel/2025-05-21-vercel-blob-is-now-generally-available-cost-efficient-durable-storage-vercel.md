@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Blob is now generally available, providing durable object storage that's integrated with Vercel's application delivery network."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 21, 2025
 
@@ -279,4 +279,4 @@ It connects directly to your frontend apps and workflows, making it ideal for us
 Blob simplifies storage without sacrificing performance or cost.
 
 Blob 在不牺牲性能与成本效益的前提下，极大简化了存储管理。
-{% endraw %}
+&#123;% endraw %}

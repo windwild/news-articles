@@ -9,7 +9,7 @@ translated: false
 description: "RL-Teacher is an open-source implementation of our interface to train AIs via occasional human feedback rather than hand-crafted reward functions. The underlying technique was developed as a step towa..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 3, 2017
 
@@ -44,4 +44,4 @@ Humans can give feedback via a simple web interface (shown above), which can be 
 
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

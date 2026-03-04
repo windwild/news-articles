@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access the GPT 5.1 Codex Max model with Vercel's AI Gateway with no other provider accounts required."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 5, 2025
 
@@ -69,4 +69,4 @@ AI Gateway 模型排行榜根据通过该网关的所有流量所产生的总 To
 
 [View the leaderboard](https://vercel.com/ai-gateway/leaderboards)  
 [查看排行榜](https://vercel.com/ai-gateway/leaderboards)
-{% endraw %}
+&#123;% endraw %}

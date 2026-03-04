@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Following the Node.js 18 end of life on April 30, 2025, we are deprecating Node.js 18 for Builds and Functions on September 1, 2025."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 16, 2025
 
@@ -51,4 +51,4 @@ vercel project ls --update-required
 View projects that require updating.
 
 查看需要更新的项目。
-{% endraw %}
+&#123;% endraw %}

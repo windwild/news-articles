@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel uses Let's Encrypt to provision free SSL certificates for all users, automatically."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 16, 2019
 
@@ -173,4 +173,4 @@ Our roadmap is informed by our incredible community of users. We look forward to
 For any feedback, suggestions, or just to say hi, please reach out to us on [Twitter](https://twitter.com/vercel) or [Chat](https://github.com/vercel/vercel/discussions).
 
 如您有任何反馈、建议，或只是想打个招呼，请通过 [Twitter](https://twitter.com/vercel) 或 [Chat](https://github.com/vercel/vercel/discussions) 与我们联系。
-{% endraw %}
+&#123;% endraw %}

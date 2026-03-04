@@ -9,7 +9,7 @@ translated: false
 description: "Digital Green uses OpenAI to increase farmer income."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Digital Green
@@ -89,4 +89,4 @@ APIJan 4, 2024](https://openai.com/index/whoop/)
 APIDec 14, 2023](https://openai.com/index/summer-health/)
 
 Building agricultural database for farmers \| OpenAI
-{% endraw %}
+&#123;% endraw %}

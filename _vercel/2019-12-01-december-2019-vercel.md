@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's changelog for December 2019"
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 1, 2019
 
@@ -65,4 +65,4 @@ Dec 1, 2019
 
 - Interested partners on [/partners](https://vercel.com/partners) are now able to out via the [partnership@vercel.com](mailto:partnership@vercel.com) email address.  
 - 对合作感兴趣的伙伴，可通过 [/partners](https://vercel.com/partners) 页面联系，并发送邮件至 [partnership@vercel.com](mailto:partnership@vercel.com)。
-{% endraw %}
+&#123;% endraw %}

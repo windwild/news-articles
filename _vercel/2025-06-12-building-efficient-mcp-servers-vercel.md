@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "MCP is becoming the standard for building AI model integrations. See how you can use Vercel's open-source MCP adapter to quickly build your own MCP server, like the teams at Zapier, Composio, and Sola..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 12, 2025
 
@@ -159,4 +159,4 @@ Deploy now](https://vercel.com/templates/next.js/model-context-protocol-mcp-with
 立即开始在 Vercel 上构建您的首个 MCP 服务器。\\
 \\
 立即部署](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js)
-{% endraw %}
+&#123;% endraw %}

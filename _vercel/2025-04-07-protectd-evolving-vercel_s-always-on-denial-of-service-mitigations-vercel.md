@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Protectd is our new real-time security engine that blocks DDoS attacks faster than ever—built to detect, learn from, and stop threats before they reach your app. Now powering sub-second protection a..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 7, 2025
 
@@ -220,4 +220,4 @@ Vercel 防火墙提供多层防护，抵御应用层攻击、DDoS 威胁及恶�
 
 [Learn more](https://vercel.com/security)  
 [了解更多](https://vercel.com/security)
-{% endraw %}
+&#123;% endraw %}

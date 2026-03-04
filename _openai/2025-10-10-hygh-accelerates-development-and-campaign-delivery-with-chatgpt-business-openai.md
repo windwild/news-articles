@@ -9,7 +9,7 @@ translated: false
 description: "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 10, 2025
 
@@ -83,4 +83,4 @@ HYGH set out to build the backbone for the “Internet of Public Screens.” Wit
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

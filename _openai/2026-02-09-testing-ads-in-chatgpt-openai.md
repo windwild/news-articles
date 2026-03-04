@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 9, 2026
 
@@ -128,4 +128,4 @@ What will always remain true: ChatGPT’s answers remain independent and unbiase
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)  
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
-{% endraw %}
+&#123;% endraw %}

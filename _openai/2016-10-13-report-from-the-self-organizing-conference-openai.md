@@ -9,7 +9,7 @@ translated: false
 description: "Last week we hosted over a hundred and fifty AI practitioners in our offices for our first self-organizing conference on machine learning."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 13, 2016
 
@@ -39,4 +39,4 @@ The self-organizing nature makes this sort of conference reasonably easy and aff
 - [Events](https://openai.com/news/?tags=events)
 - [Community](https://openai.com/news/?tags=community)
 - [2016](https://openai.com/news/?tags=2016)
-{% endraw %}
+&#123;% endraw %}

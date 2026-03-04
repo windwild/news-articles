@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 12, 2017
 
@@ -39,4 +39,4 @@ We introduce a method for learning the dynamics of complex nonlinear systems bas
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 
 - [生成模型](https://openai.com/research/index/?tags=generative-models)
-{% endraw %}
+&#123;% endraw %}

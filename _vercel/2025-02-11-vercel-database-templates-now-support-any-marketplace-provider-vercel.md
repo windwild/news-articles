@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel database templates are provider agnostic and now support any Postgres or Redis provider in the Vercel Marketplace."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 11, 2025
 
@@ -23,4 +23,4 @@ Feb 11, 2025
 - PostgreSQL：[Next.js](https://vercel.com/new/templates/next.js/postgres-starter)，[Nuxt.js](https://vercel.com/new/templates/nuxt/postgres-nuxt)，[SvelteKit](https://vercel.com/new/templates/svelte/postgres-sveltekit)，[Kysely](https://vercel.com/new/templates/next.js/postgres-kysely)，[Drizzle](https://vercel.com/new/templates/next.js/postgres-drizzle)
 
 请查阅文档，[了解如何部署您自己的应用](https://vercel.com/docs/deployments/deploy-button)。
-{% endraw %}
+&#123;% endraw %}

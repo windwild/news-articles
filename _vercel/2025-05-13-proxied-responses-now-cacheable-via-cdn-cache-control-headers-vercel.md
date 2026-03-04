@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's CDN now supports CDN-Cache-Control headers for external backends, giving you simple, powerful caching control without any configuration changes."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 13, 2025
 
@@ -39,4 +39,4 @@ No configuration changes or redeployments required. Return the header (or set it
 Learn more about [CDN-Cache-Control headers](https://vercel.com/docs/rewrites#caching-external-rewrites).
 
 了解更多关于 [CDN-Cache-Control 响应头](https://vercel.com/docs/rewrites#caching-external-rewrites) 的信息。
-{% endraw %}
+&#123;% endraw %}

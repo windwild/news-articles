@@ -9,7 +9,7 @@ translated: false
 description: "We’ve developed Random Network Distillation (RND), a prediction-based method for encouraging reinforcement learning agents to explore their environments through curiosity, which for the first time ..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 31, 2018
 
@@ -133,4 +133,4 @@ If you are interested in working on overcoming these challenges then [apply⁠]
 
 1. A
 There is an anonymous [ICLR submission⁠(opens in a new window)](https://openreview.net/forum?id=HyxGB2AcY7) concurrent with our own work which exceeds human performance, though not to the same extent.
-{% endraw %}
+&#123;% endraw %}

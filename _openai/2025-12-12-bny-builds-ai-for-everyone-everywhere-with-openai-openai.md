@@ -9,7 +9,7 @@ translated: false
 description: "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 12, 2025
 
@@ -125,4 +125,4 @@ The combination of in-house accountability and external partnership continues to
 See how OpenAI can help your organization scale AI securely and responsibly.
 
 [Contact sales](https://openai.com/contact-sales/?utm_medium=content&utm_source=solutions&utm_campaign=WEB-industries_financial_services)
-{% endraw %}
+&#123;% endraw %}

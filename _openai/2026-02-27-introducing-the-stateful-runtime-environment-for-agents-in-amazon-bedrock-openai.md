@@ -9,7 +9,7 @@ translated: true
 description: "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 27, 2026
 
@@ -92,4 +92,4 @@ Amazon Bedrock 中的 Stateful Runtime 即将上线。如希望了解其如何�
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

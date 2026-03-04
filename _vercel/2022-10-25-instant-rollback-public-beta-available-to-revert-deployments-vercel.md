@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 25, 2022
 
@@ -25,4 +25,4 @@ With Instant Rollback you can quickly revert to a previous production deployment
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/instant-rollback) to learn more.
 
 [查看文档](https://vercel.com/docs/concepts/deployments/instant-rollback) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

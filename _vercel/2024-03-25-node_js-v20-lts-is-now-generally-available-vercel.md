@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 25, 2024
 
@@ -31,4 +31,4 @@ Vercel 当前实际使用的具体版本为 [20.11.1](https://github.com/nodejs/
 [Read the documentation](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/node-js) for more.
 
 [查阅文档](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/node-js) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 20, 2022
 
@@ -25,4 +25,4 @@ You can now set an expiration date on all newly created Access Tokens. Setting a
 Check out [the documentation](https://vercel.com/docs/rest-api#introduction%2Fapi-basics%2Fauthentication%2Fcreating-an-access-token) to learn more.
 
 请查阅 [相关文档](https://vercel.com/docs/rest-api#introduction%2Fapi-basics%2Fauthentication%2Fcreating-an-access-token)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

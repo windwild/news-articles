@@ -9,7 +9,7 @@ translated: false
 description: "Put AI to Work: Lessons from Hundreds of Successful Deployments"
 tags: ["Webinar"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Recorded: September 10, 2024
 
@@ -23,4 +23,4 @@ Lessons from hundreds of successful deployments.
 00:0027:12
 
 Put AI to Work: Lessons from Hundreds of Successful Deployments \| OpenAI
-{% endraw %}
+&#123;% endraw %}

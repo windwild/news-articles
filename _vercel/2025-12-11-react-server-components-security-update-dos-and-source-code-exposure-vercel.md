@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Two additional vulnerabilities in React Server Components have been identified: CVE-2025-55184 and CVE-2025-55183"
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 11, 2025
 
@@ -125,4 +125,4 @@ Thanks to [RyotaK](https://ryotak.net/) from GMO Flatt Security Inc. and [Andrew
 - [React security advisory (CVE-2025-55184)](https://www.cve.org/CVERecord?id=CVE-2025-55184)
 
 - [React 安全公告（CVE-2025-55184）](https://www.cve.org/CVERecord?id=CVE-2025-55184)
-{% endraw %}
+&#123;% endraw %}

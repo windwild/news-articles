@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 8, 2023
 
@@ -27,4 +27,4 @@ Dec 8, 2023
 您可在 Vercel 文档网站或控制台（使用 `Shift+D` 打开）中，通过 macOS 上按 `⌘+K` 或 Windows/Linux 上按 `Ctrl+K` 调出该菜单。
 
 [查阅相关文档](https://vercel.com/docs/dashboard-features/command-menu#searching-documentation) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

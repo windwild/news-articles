@@ -9,7 +9,7 @@ translated: true
 description: "In this third installment in our \"In The Loop\" series, learn why you should tailor your cognitive architecture to be application-specific, alongside running better infrastructure for your agentic apps..."
 tags: ["Harrison Chase", "Harrison's Hot Takes"]
 ---
-{% raw %}
+&#123;% raw %}
 
 When OpenAI Assistants API came out, it was a bold step towards the future of agents. It moved OpenAI from a company producing LLM APIs to a company producing Agent APIs.
 
@@ -191,4 +191,4 @@ In conclusion, focus on what makes your beer taste better: cognitive architectur
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 min read
 
 [Harrison 的热点评论](https://blog.langchain.com/tag/in-the-loop/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

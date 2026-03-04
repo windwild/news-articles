@@ -9,7 +9,7 @@ translated: false
 description: "We’re collaborating with WAN-IFRA, the World Association of News Publishers, to launch a global accelerator program that will assist over 100 news publishers to explore and integrate AI in their new..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 29, 2024
 
@@ -38,4 +38,4 @@ More details about the program, the curriculum, the timeline, eligibility and th
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

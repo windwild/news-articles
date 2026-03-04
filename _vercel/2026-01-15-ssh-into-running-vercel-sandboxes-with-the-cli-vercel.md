@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "SSH into running Sandboxes using the Vercel Sandbox CLI. Open secure, interactive shell sessions, with timeouts automatically extended in 5-minute increments for up to 5 hours."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 15, 2026
 
@@ -29,4 +29,4 @@ sandbox ssh <sandbox-id>
 注意：在您保持连接期间，Sandbox 的超时时间将自动以 5 分钟为单位延长，以避免意外断连，最长可延至 [5 小时](https://vercel.com/docs/vercel-sandbox/pricing#maximum-runtime-duration)。
 
 更多详情，请参阅 [Sandbox CLI 文档](https://vercel.com/docs/vercel-sandbox/cli-reference#sandbox-ssh)。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Early users have created over 3 million images to date and helped us improve our safety processes. We’re excited to begin adding up to 1,000 new users from our waitlist each week. "
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 18, 2022
 
@@ -41,4 +41,4 @@ In the meantime, you can get a preview of these creations on our Instagram accou
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2022](https://openai.com/news/?tags=2022)
-{% endraw %}
+&#123;% endraw %}

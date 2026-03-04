@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Watch 28 talented AI startups show off impressive demos in 3 minutes each as part of our AI Accelerator Demo Day."
 ---
-{% raw %}
+&#123;% raw %}
 
 2023年8月23日
 
@@ -213,4 +213,4 @@ Vercel 模板
 ### 由 Vercel 构建的全功能、可高度定制的 Next.js AI 聊天机器人
 
 聊天机器人
-{% endraw %}
+&#123;% endraw %}

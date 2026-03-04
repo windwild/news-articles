@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 26, 2021
 
@@ -27,4 +27,4 @@ Aug 26, 2021
 推荐的 Teams 将显示在您个人账户设置中的一个**全新 Teams 页面**上（该页面同时也汇总展示了您当前已加入的所有 Teams），以及仪表板左上方的作用域选择器（scope selector）中。
 
 也可参阅[相关文档](https://vercel.com/docs/platform/users-and-teams#suggested-teams)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 19, 2023
 
@@ -35,4 +35,4 @@ While existing Deployments with Serverless Functions will not be affected, Verce
 [Check out the documentation](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/node-js) as well.
 
 [请参阅相关文档](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/node-js)。
-{% endraw %}
+&#123;% endraw %}

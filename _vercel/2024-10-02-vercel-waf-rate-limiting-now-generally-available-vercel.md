@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 2, 2024
 
@@ -35,4 +35,4 @@ Rate limiting with a fixed-window algorithm is available today for Pro customers
 Add rate limiting [using a template](https://vercel.com/templates/vercel-firewall/rate-limit-api-requests-firewall-rule) or read the [rate limiting documentation](https://vercel.com/docs/security/vercel-waf/rate-limiting) to learn more.
 
 您可通过 [模板](https://vercel.com/templates/vercel-firewall/rate-limit-api-requests-firewall-rule) 快速添加速率限制规则，或查阅 [速率限制文档](https://vercel.com/docs/security/vercel-waf/rate-limiting) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

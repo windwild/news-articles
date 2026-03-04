@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 10, 2020
 
@@ -25,4 +25,4 @@ Nov 10, 2020
 自即日起，您可直接在控制台中切换任意域名的自动续期设置：进入您的个人账户或团队的“Domains（域名）”标签页，点击您关心的域名，然后在页面右上角切换该选项即可。
 
 您也可查阅[相关文档](https://vercel.com/docs/custom-domains#renewing-domains)了解详情。
-{% endraw %}
+&#123;% endraw %}

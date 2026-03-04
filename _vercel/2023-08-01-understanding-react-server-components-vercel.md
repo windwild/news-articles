@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "React Server Components are changing the fundamental paradigms of React. Learn how Next.js handles the complexities and improves the performance of your applications."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 1, 2023
 
@@ -374,4 +374,4 @@ Vercel.com 官网首页
 ### Incrementally adopt the App Router
 
 ### 渐进式采用 App Router
-{% endraw %}
+&#123;% endraw %}

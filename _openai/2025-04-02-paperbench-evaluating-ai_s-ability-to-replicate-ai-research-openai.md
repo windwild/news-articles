@@ -9,7 +9,7 @@ translated: false
 description: "We introduce PaperBench, a benchmark evaluating the ability of AI agents to replicate state-of-the-art AI research."
 tags: ["Publication"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 2, 2025
 
@@ -26,4 +26,4 @@ We introduce PaperBench, a benchmark evaluating the ability of AI agents to repl
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [2025](https://openai.com/research/index/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

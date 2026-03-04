@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 20, 2024
 
@@ -41,4 +41,4 @@ vercel.json file with three regions configured
 Redeploy your project for the changes to take effect. Learn more about [configuring regions](https://vercel.com/docs/functions/configuring-functions/region#project-configuration).
 
 请重新部署您的项目，使更改生效。了解更多关于[配置区域](https://vercel.com/docs/functions/configuring-functions/region#project-configuration)的信息。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Today, OpenAI is sharing the EU Economic Blueprint—a set of proposals to help Europe seize the promise of artificial intelligence, drive sustainable economic growth across the region, and ensure tha..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 7, 2025
 
@@ -57,4 +57,4 @@ We look forward to working with Europe towards this goal.
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "We’ve created a robotics system, trained entirely in simulation and deployed on a physical robot, which can learn a new task after seeing it done once."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 16, 2017
 
@@ -65,4 +65,4 @@ If you’d like to help us build this robot, [join us⁠](https://openai.com/ca
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

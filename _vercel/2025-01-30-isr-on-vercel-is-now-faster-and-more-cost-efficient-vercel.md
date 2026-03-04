@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've optimized how ISR cache updates are managed on Vercel, making them faster and more cost-efficient. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 30, 2025
 
@@ -215,4 +215,4 @@ Mar 7, 2023
 Malte Ubl
 
 Malte Ubl
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Monitoring now has better firewall support, offering insights into your firewall rules. Filter blocked requests by actions and custom firewall rules and more fields are now displayed"
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 7, 2025
 
@@ -46,4 +46,4 @@ These metrics are available for all [Observability Plus](https://vercel.com/docs
 Monitoring recently became [part of Observability Plus](https://vercel.com/changelog/monitoring-pricing-reduced-up-to-87).
 
 监控功能近期已[成为 Observability Plus 的一部分](https://vercel.com/changelog/monitoring-pricing-reduced-up-to-87)。
-{% endraw %}
+&#123;% endraw %}

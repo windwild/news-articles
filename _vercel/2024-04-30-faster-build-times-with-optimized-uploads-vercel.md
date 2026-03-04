@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 30, 2024
 
@@ -25,4 +25,4 @@ For customers with large builds (10,000 outputs or more), upload times have decr
 Learn more about builds in [our documentation](https://vercel.com/docs/deployments/builds).
 
 有关构建的更多信息，请参阅我们的[文档](https://vercel.com/docs/deployments/builds)。
-{% endraw %}
+&#123;% endraw %}

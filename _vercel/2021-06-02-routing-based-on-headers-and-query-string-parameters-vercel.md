@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 2, 2021
 
@@ -47,4 +47,4 @@ Combined with features like SSG, ISR, or cached SSR, it can be used in cases lik
 Check out the [documentation](https://vercel.com/docs/configuration#project/redirects) and [Next.js announcement](https://nextjs.org/blog/next-10-2#routing-based-on-headers-and-query-string-parameters) to learn more.
 
 请查阅 [官方文档](https://vercel.com/docs/configuration#project/redirects) 和 [Next.js 公告](https://nextjs.org/blog/next-10-2#routing-based-on-headers-and-query-string-parameters) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Build video generation into your apps with AI Gateway. Create product videos, dynamic content, and marketing assets at scale."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 19, 2026
 
@@ -565,4 +565,4 @@ Check out the changelogs for these video models for more detailed examples and p
 - [Veo](https://vercel.com/changelog/veo-video-models-on-ai-gateway)
 
 - [Kling](https://vercel.com/changelog/kling-video-models-on-ai-gateway)
-{% endraw %}
+&#123;% endraw %}

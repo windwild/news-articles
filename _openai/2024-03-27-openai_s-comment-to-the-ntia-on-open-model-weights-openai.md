@@ -11,7 +11,7 @@ description: "OpenAI’s comment to the NTIA on open model weights
 This comment was submitted by OpenAI in response to NTIA’s March 2024 Request for Information on Dual-Use Foundation Models with Widely Availabl..."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Published: March 27, 2024
 
@@ -69,4 +69,4 @@ While we believe that assessing the risks of the most capable models is importan
 Ever since OpenAI faced the choice of how to release GPT‑2 in 2019 – opting to release only a small version of the model at first — new findings and events have continuously changed the landscape of considerations around open release of foundation model weights, sometimes every few months. We expect this trend to continue. Any government policy approach should be flexible and adaptable to future changes.
 
 OpenAI’s comment to the NTIA on open model weights \| OpenAI
-{% endraw %}
+&#123;% endraw %}

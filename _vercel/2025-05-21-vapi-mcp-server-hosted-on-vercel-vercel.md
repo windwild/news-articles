@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vapi has used Vercel's MCP Adapter to deploy and host their MCP server on Vercel, leveraging the benefits of Fluid Compute"
 ---
-{% raw %}
+&#123;% raw %}
 
 May 21, 2025
 
@@ -65,4 +65,4 @@ Vapi 已全面采用 Vercel 作为其 MCP 服务器基础设施的核心平台�
 Check out [Vapi's MCP server](https://mcp.vapi.ai/), their [blog post](https://vapi.ai/blog/vapi-s-mcp-server-is-live-on-vercel), and get started deploying MCP servers with our [Next.js MCP template](https://github.com/vercel-labs/mcp-for-next.js/) today.
 
 欢迎访问 [Vapi 的 MCP 服务器](https://mcp.vapi.ai/)，阅读其[技术博客文章](https://vapi.ai/blog/vapi-s-mcp-server-is-live-on-vercel)，并立即使用我们的 [Next.js MCP 模板](https://github.com/vercel-labs/mcp-for-next.js/) 开始部署您自己的 MCP 服务器！
-{% endraw %}
+&#123;% endraw %}

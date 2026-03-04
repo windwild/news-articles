@@ -9,7 +9,7 @@ translated: false
 description: "Klarna is using AI to revolutionize personal shopping, customer service, and employee productivity."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [ChatGPT](https://openai.com/stories/chatgpt/) [API](https://openai.com/stories/api/)
 
@@ -93,4 +93,4 @@ APIApr 1, 2024](https://openai.com/index/oscar/)
 APIMar 28, 2024](https://openai.com/index/zelma/)
 
 Klarna's AI assistant does the work of 700 full-time agents \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 Alignment
 
@@ -137,4 +137,4 @@ There’s even more we could do in the future to improve our system. Several res
 For more details about the Constitutional Classifiers++ method, see the [full paper.](https://arxiv.org/abs/2601.04603)
 
 如需了解 Constitutional Classifiers++ 方法的更多细节，请参阅[完整论文](https://arxiv.org/abs/2601.04603)。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: true
 description: "Learn what pairwise evaluation is, why you might need it for LLM app development, and see an example of how to use it in LangSmith by LangChain."
 tags: ["agent builder"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Evaluating model outputs is one of the most important challenges in LLM application development. But human preference for many tasks (e.g., chat or writing) is difficult to encode in a set of rules. Instead, pairwise evaluation of multiple candidate LLM answers can be a more effective way to teach LLMs human preference.
 
@@ -195,4 +195,4 @@ In this blog post, we showed how we were able to test on an ambiguous task of ev
 [**LangSmith's Latest Feature: Grouped Monitoring Charts**](https://blog.langchain.com/grouped-monitoring-charts/)
 
 [**LangSmith 最新功能：分组监控图表**](https://blog.langchain.com/grouped-monitoring-charts/)
-{% endraw %}
+&#123;% endraw %}

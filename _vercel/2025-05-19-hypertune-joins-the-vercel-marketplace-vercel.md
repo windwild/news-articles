@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Hypertune is now on the Vercel Marketplace—get native feature flags, A/B testing, and dynamic config with one-click setup and unified billing. Type-safe, edge-ready, and built for modern workflows t..."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 19, 2025
 
@@ -32,4 +32,4 @@ Hypertune 集成提供以下功能：
 Deploy the [Hypertune template](https://vercel.com/templates/Next.js/flags-sdk-hypertune-nextjs) built for Vercel Marketplace today.
 
 今天即刻部署为 Vercel 商店构建的 [Hypertune 模板](https://vercel.com/templates/Next.js/flags-sdk-hypertune-nextjs)。
-{% endraw %}
+&#123;% endraw %}

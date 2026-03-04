@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 2, 2023
 
@@ -35,4 +35,4 @@ Trusted IP for Deployment Protection is only available for customers on the Ente
 [Check out the documentation](https://vercel.com/docs/security/deployment-protection/methods-to-protect-deployments/trusted-ips) to learn more.
 
 [查阅文档](https://vercel.com/docs/security/deployment-protection/methods-to-protect-deployments/trusted-ips) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

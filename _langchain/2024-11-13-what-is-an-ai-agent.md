@@ -9,7 +9,7 @@ translated: true
 description: "Introducing a new series of musings on AI agents, called \"In the Loop\"."
 tags: ["Harrison Chase", "Harrison's Hot Takes"]
 ---
-{% raw %}
+&#123;% raw %}
 
 _“What is an agent?”_
 
@@ -192,4 +192,4 @@ To me, the more agentic your application is, the more critical it is to have new
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 min read
 
 [Harrison 的热点评论](https://blog.langchain.com/tag/in-the-loop/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

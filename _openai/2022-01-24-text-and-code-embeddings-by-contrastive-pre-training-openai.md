@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 24, 2022
 
@@ -27,4 +27,4 @@ Text embeddings are useful features in many applications such as semantic search
 
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Language](https://openai.com/research/index/?tags=language)
-{% endraw %}
+&#123;% endraw %}

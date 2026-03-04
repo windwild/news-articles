@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel customers can treat Black Friday like just another day, ready to scale to billions of requests."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 15, 2025
 
@@ -217,4 +217,4 @@ Make Black Friday just another fast, reliable day on your platform. Our team can
 [Talk to sales](https://vercel.fyi/DHnY84q) to build a tailored readiness plan, or join our [Black Friday Cyber Monday readiness webinar](https://vercel.fyi/QNt4TbT) for a full walkthrough, best practices checklist, and a free site readiness assessment tool.
 
 [联系销售团队](https://vercel.fyi/DHnY84q)，为您量身定制备战方案；或参加我们的 [黑色星期五与网络星期一备战线上研讨会](https://vercel.fyi/QNt4TbT)，获取完整操作指南、最佳实践核对清单，以及免费的网站就绪度评估工具。
-{% endraw %}
+&#123;% endraw %}

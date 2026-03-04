@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vibe coding is revolutionizing how we work. English is now the fastest growing programming language. Our state of vibe coding report outlines what you need to know. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 18, 2025
 
@@ -117,4 +117,4 @@ Businesses can either adopt vibe coding and create leaner teams that can build f
 Either way, the shift is underway. Make sure you're ready for it by checking out our [full State of Vibe Coding report.](https://v0.app/vibecoding)
 
 无论选择哪条路径，这场变革已然开启。请查阅我们的[《“氛围编程”现状全景报告》全文](https://v0.app/vibecoding)，确保您已做好准备。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fluid compute now gracefully handles Node.js uncaught exceptions and unhandled rejections to provide better isolation between requests."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 12, 2025
 
@@ -19,4 +19,4 @@ Fluid Compute 现在能够优雅地处理 Node.js 中的[未捕获异常](https:
 此举可防止同一 Fluid 实例上运行的[并发请求](https://vercel.com/docs/functions/fluid-compute#optimized-concurrency)因未处理的错误而被意外终止，从而提供与传统 Serverless 调用同等的隔离性。
 
 请为您的现有项目[启用 Fluid](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Ffunctions%23fluid-compute&title=Go+to+Function+Settings)，并参阅我们的[博客文章](https://vercel.com/blog/introducing-fluid-compute)和[文档](https://vercel.com/docs/functions/fluid-compute)以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

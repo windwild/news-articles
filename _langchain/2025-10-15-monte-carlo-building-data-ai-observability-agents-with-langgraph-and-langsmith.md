@@ -9,7 +9,7 @@ translated: true
 description: "See how Monte Carlo built its AI Troubleshooting Agent on LangGraph and debugged with LangSmith to help data teams resolve issues faster"
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 ![](images/monte-carlo-building-data-ai-observability-agents-with-langgraph-and-langsmith/img_001.png)  
 蒙特卡洛（Monte Carlo）[故障排查智能体（Troubleshooting Agent）](https://www.montecarlodata.com/platform/observability-agents?ref=blog.langchain.com) 架构的高层概览
@@ -151,4 +151,4 @@ Looking ahead, Monte Carlo plans to expand their agent's capabilities while main
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：6 分钟
-{% endraw %}
+&#123;% endraw %}

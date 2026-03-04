@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:32:28.027701083+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Today we’re announcing LangChain’s integration with MongoDB Atlas, adding support for one of the most popular developer data platforms in the world. This is an integration so anticipated that a few developers added the integration before we were ready to announce it :)
 
@@ -123,4 +123,4 @@ A big thank you and shout out to @P-E-B who kicked off the Python implementation
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain 支持的 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
-{% endraw %}
+&#123;% endraw %}

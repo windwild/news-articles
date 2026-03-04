@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now detects and deploys Nitro, a server toolkit for building webservers, with zero configuration."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 3, 2025
 
@@ -27,4 +27,4 @@ Nitro 为 Nuxt.js、TanStack Start 和 SolidStart 等框架提供底层支持。
 [Deploy Nitro on Vercel](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/nitro) or [visit Nitro's Vercel documentation](https://nitro.build/deploy/providers/vercel).
 
 [在 Vercel 上部署 Nitro](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/nitro) 或 [访问 Nitro 的 Vercel 文档](https://nitro.build/deploy/providers/vercel)。
-{% endraw %}
+&#123;% endraw %}

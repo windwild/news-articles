@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel ..."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 5, 2025
 
@@ -66,4 +66,4 @@ OpenAI for Greece is the latest deployment of our [OpenAI for Countries](https:/
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

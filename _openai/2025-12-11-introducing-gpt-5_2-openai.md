@@ -9,7 +9,7 @@ translated: true
 description: "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to pow..."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 11, 2025
 
@@ -738,4 +738,4 @@ _所有模型均在我们的 API 中以当前可用的最高推理强度运行�
 _\\* 对于 SWE-Lancer，我们排除了 40/237 道未能在我们的基础设施上成功运行的问题。_
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

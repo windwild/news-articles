@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 19, 2023
 
@@ -55,4 +55,4 @@ When the same commit appears in multiple branches, Vercel will prompt you to cho
 [Learn more](https://vercel.com/docs/deployments/git#creating-a-deployment-from-a-git-reference) in our documentation.
 
 [了解更多](https://vercel.com/docs/deployments/git#creating-a-deployment-from-a-git-reference)（英文文档）
-{% endraw %}
+&#123;% endraw %}

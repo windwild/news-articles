@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Push notifications are now available on the dashboard for desktop and mobile web. Receive important notifications immediately in your OS notification center."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 12, 2025
 
@@ -49,4 +49,4 @@ To allow mobile notifications on your phone:
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fnotifications%3Futm_source%3Dchangelog%26utm_medium%3Dweb&title=Go+to+Notification+Settings) or learn more about [notifications](https://vercel.com/docs/notifications).
 
 [立即尝试](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fnotifications%3Futm_source%3Dchangelog%26utm_medium%3Dweb&title=Go+to+Notification+Settings)，或深入了解 [通知功能](https://vercel.com/docs/notifications)。
-{% endraw %}
+&#123;% endraw %}

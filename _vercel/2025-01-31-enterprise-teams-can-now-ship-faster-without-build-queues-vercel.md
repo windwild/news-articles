@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "For faster processing of critical builds and projects, Enterprise Builds no longer have queues by default"
 ---
-{% raw %}
+&#123;% raw %}
 
 2025年1月31日
 
@@ -23,4 +23,4 @@ description: "For faster processing of critical builds and projects, Enterprise 
 按需并发构建的计费方式为：根据构建实际所需占用的“10分钟构建时段”（10-minute build slots）数量进行计费，具体说明详见[用量与限制](https://vercel.com/docs/deployments/managing-builds#usage-and-limits)。
 
 [查阅文档](https://vercel.com/docs/deployments/managing-builds)，深入了解按需并发构建。
-{% endraw %}
+&#123;% endraw %}

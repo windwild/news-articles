@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Meter's updated tech stack with Vercel"
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 26, 2024
 
@@ -100,4 +100,4 @@ Connect with a Next.js expert and learn about Vercel's best-in-class tooling for
 
 Contact us](https://vercel.com/contact)  
 联系我们](https://vercel.com/contact)
-{% endraw %}
+&#123;% endraw %}

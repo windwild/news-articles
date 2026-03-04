@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 22, 2024
 
@@ -34,4 +34,4 @@ You can also turn on recording to keep track of issues that turn up as you move 
 
 See the [Accessibility Audit documentation](https://vercel.com/docs/workflow-collaboration/accessibility-audit-tool) to learn more.  
 请参阅 [无障碍审计工具文档](https://vercel.com/docs/workflow-collaboration/accessibility-audit-tool)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

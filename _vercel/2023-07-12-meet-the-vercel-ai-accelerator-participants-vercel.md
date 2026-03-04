@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Meet the 40 startups and builders of the Vercel AI Accelerator."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 12, 2023
 
@@ -148,4 +148,4 @@ Deploy this template
 AI Photo Restorer
 
 AI 照片修复工具
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 11, 2023
 
@@ -29,4 +29,4 @@ Instant Rollback is now generally available for all Vercel users. Hobby users ca
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/instant-rollback) to learn more.
 
 [查看文档](https://vercel.com/docs/concepts/deployments/instant-rollback) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

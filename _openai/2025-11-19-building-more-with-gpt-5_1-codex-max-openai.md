@@ -9,7 +9,7 @@ translated: false
 description: "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 19, 2025
 
@@ -121,4 +121,4 @@ GPT‑5.1‑Codex‑Max shows how far models have come in sustaining long-horizo
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Codex](https://openai.com/news/?tags=codex)
-{% endraw %}
+&#123;% endraw %}

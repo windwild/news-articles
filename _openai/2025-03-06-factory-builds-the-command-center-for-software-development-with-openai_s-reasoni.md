@@ -9,7 +9,7 @@ translated: false
 description: "Accelerating engineering cycles 20% with OpenAI."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Factory builds the Command Center for software development with OpenAI’s reasoning models
@@ -107,4 +107,4 @@ APIFeb 27, 2025](https://openai.com/index/endex/)
 APIFeb 13, 2025](https://openai.com/index/rogo/)
 
 Factory builds the Command Center for software development with OpenAI’s reasoning models \| OpenAI
-{% endraw %}
+&#123;% endraw %}

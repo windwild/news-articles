@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Get automatic code fix suggestions from Vercel Agent when builds fail—directly in GitHub Pull Request reviews or the Vercel Dashboard, based on your code and build logs."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 17, 2026
 
@@ -25,4 +25,4 @@ Feb 17, 2026
 ![Vercel Agent - Build fix suggestions on the Vercel Dashboard](images/automatic-build-fix-suggestions-with-vercel-agent-vercel/img_003.jpg)![Vercel Agent - Build fix suggestions on the Vercel Dashboard](images/automatic-build-fix-suggestions-with-vercel-agent-vercel/img_004.jpg)Vercel Agent — Vercel 控制台中的构建修复建议
 
 立即前往 [Agent 控制台](https://vercel.com/~/agent) 开始使用 Vercel Agent 进行代码评审，或查阅 [文档](https://vercel.com/docs/agent) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

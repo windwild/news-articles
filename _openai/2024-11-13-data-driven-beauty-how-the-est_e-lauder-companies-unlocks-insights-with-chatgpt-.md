@@ -9,7 +9,7 @@ translated: false
 description: "Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT"
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT
@@ -95,4 +95,4 @@ ELC plans to apply top GPTs across its portfolio of brands, empowering more team
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

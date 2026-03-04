@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Discover how Ledger, a leader in hardware wallets, transformed their online presence to handle unpredictable Web3 traffic spikes. Learn how Vercel and Next.js improved their performance, boosting rele..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 4, 2024
 
@@ -163,4 +163,4 @@ Vercel.com 官网落地页
 
 ### Watch the KidSuper interview  
 ### 观看 KidSuper 专访
-{% endraw %}
+&#123;% endraw %}

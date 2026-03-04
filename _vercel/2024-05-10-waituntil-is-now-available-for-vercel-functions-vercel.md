@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 10, 2024
 
@@ -35,4 +35,4 @@ The package is supported in Next.js (including Server Actions), Vercel CLI, and 
 Learn more in the [documentation](https://vercel.com/docs/functions/functions-api-reference#waituntil).
 
 更多详情请参阅 [文档](https://vercel.com/docs/functions/functions-api-reference#waituntil)。
-{% endraw %}
+&#123;% endraw %}

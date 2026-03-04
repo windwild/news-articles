@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel welcomes Jeanne DeWitt Grosser as Chief Operating Officer. Jeanne helped take Stripe from $100M to billions, pioneered usage-based go-to-market strategies, and scaled influential developer plat..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 13, 2025
 
@@ -99,4 +99,4 @@ From [v0](https://v0.dev/), the [AI SDK](https://ai-sdk.dev/), to [Next.js](http
 Jeanne’s leadership will strengthen our foundation, ensuring anyone—from solo creators to the world’s largest enterprises— [can just ship things](https://x.com/rauchg/status/1852834539464462799).  
 
 珍妮的领导将夯实我们的根基，确保无论是个体创作者，还是全球最大的企业，都能“直接交付成果”——[can just ship things](https://x.com/rauchg/status/1852834539464462799)。
-{% endraw %}
+&#123;% endraw %}

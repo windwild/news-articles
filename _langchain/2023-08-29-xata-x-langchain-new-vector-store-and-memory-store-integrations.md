@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:48:49.105200218+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This post was written in collaboration with the [Xata](https://xata.io/?ref=blog.langchain.com) team. We're excited about their new integrations and really enjoyed their deepdive on implementation a Q&A chat bot with them._
 
@@ -323,4 +323,4 @@ As part of the launch week, Xata is also organizing a content hackathon, where y
 If you have any questions or ideas or if you need help implementing Xata with LangChain, join us on [Discord](https://xata.io/discord?ref=blog.langchain.com) or reach out on [Twitter](https://twitter.com/xata?ref=blog.langchain.com).
 
 如果您有任何疑问、创意，或需要帮助将 Xata 与 LangChain 集成，请加入我们的 [Discord](https://xata.io/discord?ref=blog.langchain.com) 社区，或在 [Twitter](https://twitter.com/xata?ref=blog.langchain.com) 上联系我们。
-{% endraw %}
+&#123;% endraw %}

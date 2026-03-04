@@ -9,7 +9,7 @@ translated: true
 description: "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 23, 2026
 
@@ -961,4 +961,4 @@ We will continue to invest in original, privately authored benchmarks and ask fo
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

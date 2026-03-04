@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)"
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 10, 2024
 
@@ -41,4 +41,4 @@ Kevin was most recently President, Product and Business at Planet Labs. He was p
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

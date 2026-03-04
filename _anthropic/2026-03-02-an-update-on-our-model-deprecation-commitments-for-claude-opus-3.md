@@ -7,7 +7,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 Alignment
 
@@ -102,4 +102,4 @@ These steps remain exploratory. We're still developing frameworks for when and h
 Our initial commitments framed these measures as operating at multiple levels: as components of safety risk mitigation, as preparation for futures where models are more closely intertwined with users' lives, and as precautionary steps given our uncertainty about model welfare. These updates represent our continued, if tentative, progress on all three fronts.
 
 我们最初的承诺即已明确：此类举措将在多个层面发挥作用——既作为安全风险缓解的重要组成部分，亦为未来模型与用户生活更深度交融所做的前瞻性准备，更是鉴于我们对模型福祉仍存不确定性而采取的审慎之举。本次更新，正体现了我们在上述三大方向上持续（尽管仍属初步）的进展。
-{% endraw %}
+&#123;% endraw %}

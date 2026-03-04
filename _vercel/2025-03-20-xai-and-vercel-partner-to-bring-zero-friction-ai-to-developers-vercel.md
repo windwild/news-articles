@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel partners with xAI to bring Grok models directly to your Vercel projects through the Vercel Marketplace—and soon v0—with no additional signup required. xAI adds a new free tier through Verce..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 20, 2025
 
@@ -156,4 +156,4 @@ Vercel 提供了您开始使用 AI 所需的一切。
 
 Start building  
 立即开始构建](https://vercel.com/ai)
-{% endraw %}
+&#123;% endraw %}

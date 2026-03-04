@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI and Future, the global platform for specialist media, have today announced a strategic partnership to bring content from Future’s 200 plus media brands to OpenAI’s users."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 4, 2024
 
@@ -36,4 +36,4 @@ This content partnership builds on Future’s existing deployment of OpenAI’s 
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

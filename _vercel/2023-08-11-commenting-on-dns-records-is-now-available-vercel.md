@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 11, 2023
 
@@ -29,4 +29,4 @@ New records created by an Email Preset will include a comment explaining why a r
 [Check out our documentation](https://vercel.com/docs/concepts/projects/domains/managing-dns-records) to learn more about DNS records.
 
 [查看我们的文档](https://vercel.com/docs/concepts/projects/domains/managing-dns-records)，深入了解 DNS 记录。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: true
 description: "LangSmith now supports OpenTelemetry for distributed tracing and observability."
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 LangSmith now supports ingesting traces in OpenTelemetry format, an open standard for distributed tracing and observability. [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/?ref=blog.langchain.com) allows developers to instrument and export telemetry data  across a wide range of programming languages, frameworks, and monitoring tools for broad interoperability.
 
@@ -486,4 +486,4 @@ For more information, see the LangSmith documentation for the [Vercel AI SDK int
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 8 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：8 分钟
-{% endraw %}
+&#123;% endraw %}

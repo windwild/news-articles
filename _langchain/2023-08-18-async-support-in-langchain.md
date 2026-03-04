@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 We’re excited to roll out initial asynchronous support in LangChain by leveraging the [asyncio](https://docs.python.org/3/library/asyncio.html?ref=blog.langchain.com) library. Asyncio uses uses coroutines and an event loop to perform non-blocking I/O operations; these coroutines are able to “pause” (`await`) while waiting on their ultimate result and let other routines run in the meantime. To learn more about asyncio and how it compares to multithreading and multiprocessing, check out this [awesome tutorial](https://realpython.com/async-io-python/?ref=blog.langchain.com).
 
@@ -137,4 +137,4 @@ As a starting point, we’ve implemented async support for:
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写｜阅读时长 4 分钟]
-{% endraw %}
+&#123;% endraw %}

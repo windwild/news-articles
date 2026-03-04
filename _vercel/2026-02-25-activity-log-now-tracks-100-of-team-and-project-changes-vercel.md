@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've added 88 events to the activity log to ensure full coverage of changes to team or project settings"
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 25, 2026
 
@@ -25,4 +25,4 @@ Previously, some settings changes went untracked. With 88 new events added, acti
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Factivity) or learn more about the [activity log](https://vercel.com/docs/activity-log).
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Factivity)，或进一步了解 [活动日志](https://vercel.com/docs/activity-log)。
-{% endraw %}
+&#123;% endraw %}

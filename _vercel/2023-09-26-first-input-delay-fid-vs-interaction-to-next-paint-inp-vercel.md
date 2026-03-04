@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn about the differences between FID and INP and how to optimize your website's INP score."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 26, 2023
 
@@ -198,4 +198,4 @@ Optimizing for INP will not only result in more responsive and seamless interact
 
 If you're using Next.js, using React 18's concurrent features can also help improve your INP score. [Learn more in this blog post](https://vercel.com/blog/how-react-18-improves-application-performance).  
 若您正在使用 Next.js，启用 React 18 的并发特性（concurrent features）也有助于提升您的 INP 分数。[了解更多，请参阅这篇博客文章](https://vercel.com/blog/how-react-18-improves-application-performance)。
-{% endraw %}
+&#123;% endraw %}

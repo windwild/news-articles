@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "xmcp, a framework for building and shipping MCP applications with TypeScript, can now be deployed to Vercel with zero-configuration."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 22, 2025
 
@@ -128,4 +128,4 @@ export default async function greet({ name }: InferSchema<typeof schema>) {
 Learn more about [deploying xmcp to Vercel](https://vercel.com/docs/frameworks/backend/xmcp) in the documentation.
 
 请在文档中了解有关 [将 xmcp 部署到 Vercel](https://vercel.com/docs/frameworks/backend/xmcp) 的更多信息。
-{% endraw %}
+&#123;% endraw %}

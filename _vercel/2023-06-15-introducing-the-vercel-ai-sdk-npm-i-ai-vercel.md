@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "An interoperable, streaming-enabled, edge-ready software development kit for AI apps built with React and Svelte."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 15, 2023
 
@@ -405,4 +405,4 @@ Jun 22, 2023
 Lydia Hallie
 
 莉迪亚·哈利
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 12, 2024
 
@@ -29,4 +29,4 @@ These alerts are available on Pro and Enterprise plans.
 Learn more about [Vercel Firewall](https://vercel.com/docs/security/vercel-firewall).
 
 了解更多关于 [Vercel 防火墙](https://vercel.com/docs/security/vercel-firewall) 的信息。
-{% endraw %}
+&#123;% endraw %}

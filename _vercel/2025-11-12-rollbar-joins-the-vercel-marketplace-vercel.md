@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Connect Rollbar to your Vercel projects to track errors, monitor releases, and resolve issues faster. Get real-time observability for Next.js, React, and serverless apps."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 12, 2025
 
@@ -28,4 +28,4 @@ Nov 12, 2025
 - 确保 Rollbar 与 Vercel 中的环境配置及源映射（source maps）保持同步，从而生成清晰、易读的堆栈跟踪（stack traces）
 
 请从 [Vercel Marketplace](https://vercel.com/marketplace/category/observability) 安装 Rollbar。
-{% endraw %}
+&#123;% endraw %}

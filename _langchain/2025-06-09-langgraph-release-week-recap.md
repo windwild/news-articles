@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "See what we released for LangGraph.js and Python over the past few weeks to speed up development workflows and gain more control at every level of your graph."
 ---
-{% raw %}
+&#123;% raw %}
 
 Over the past few weeks, we rolled out new features for both LangGraph.js and LangGraph Python, improving both low level workflows and prebuilt agents.
 
@@ -113,4 +113,4 @@ Finally, we've made a bunch of changes to improve the day-to-day developer exper
 Follow [@LangChainAI](https://x.com/langchainai?ref=blog.langchain.com), [@SydneyRunkle](https://x.com/sydneyrunkle?ref=blog.langchain.com) (Python), and [@\_\_dqbd](https://x.com/__dqbd?ref=blog.langchain.com) (JS) to stay up to date on what’s next. 👀
 
 请关注 [@LangChainAI](https://x.com/langchainai?ref=blog.langchain.com)、[@SydneyRunkle](https://x.com/sydneyrunkle?ref=blog.langchain.com)（Python 方向）和 [@\_\_dqbd](https://x.com/__dqbd?ref=blog.langchain.com)（JS 方向），及时获取后续动态。👀
-{% endraw %}
+&#123;% endraw %}

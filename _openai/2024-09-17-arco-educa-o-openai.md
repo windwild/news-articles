@@ -9,7 +9,7 @@ translated: false
 description: "Improving teaching and learning in Brazil"
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Arco Educação uses GPT‑4 to improve teaching and learning in Brazil
@@ -59,4 +59,4 @@ Arco Educação’s commitment to leveraging AI and technology for educational q
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 12, 2022
 
@@ -36,4 +36,4 @@ Three new example queries have been added to help you get started:
 
 [Check out the documentation](https://vercel.com/docs/concepts/dashboard-features/monitoring) to learn more.  
 [查看文档](https://vercel.com/docs/concepts/dashboard-features/monitoring) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

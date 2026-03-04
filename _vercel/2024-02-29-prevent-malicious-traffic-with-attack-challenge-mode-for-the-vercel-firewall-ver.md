@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 29, 2024
 
@@ -35,4 +35,4 @@ Spikes in high volumes of traffic sometimes indicate malicious activity on your 
 Learn how to [enable Attack Challenge Mode](https://vercel.com/docs/security/attack-challenge-mode) and protect your site.
 
 了解如何[启用攻击挑战模式](https://vercel.com/docs/security/attack-challenge-mode)，以保护您的网站。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 24, 2023
 
@@ -35,4 +35,4 @@ You now have more flexible access and improved limits for environment variables 
 [Check out the documentation](https://vercel.com/docs/concepts/projects/environment-variables) to learn more.
 
 [查阅文档](https://vercel.com/docs/concepts/projects/environment-variables) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

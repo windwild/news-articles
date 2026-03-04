@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 27, 2023
 
@@ -23,4 +23,4 @@ Enterprise customers can now submit support cases using the Vercel Support Cente
 Check out the documentation on [Support Center](https://vercel.com/docs/concepts/dashboard-features/support-center) to learn more.
 
 请查阅 [支持中心](https://vercel.com/docs/concepts/dashboard-features/support-center) 文档以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

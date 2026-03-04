@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 14, 2023
 
@@ -31,4 +31,4 @@ You can also increase your [build concurrency limits](https://vercel.com/docs/co
 Read more in [our documentation](https://vercel.com/docs/deployments/concurrent-builds#prioritize-production-builds).
 
 详情请参阅[我们的文档](https://vercel.com/docs/deployments/concurrent-builds#prioritize-production-builds)。
-{% endraw %}
+&#123;% endraw %}

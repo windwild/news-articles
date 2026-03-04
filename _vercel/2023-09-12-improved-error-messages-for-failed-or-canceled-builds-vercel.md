@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 12, 2023
 
@@ -37,4 +37,4 @@ The following build failures now have more helpful error messages:
 [Check out our documentation](https://vercel.com/docs/deployments/troubleshoot-a-build#build-logs-not-available) to learn more.
 
 [查阅我们的文档](https://vercel.com/docs/deployments/troubleshoot-a-build#build-logs-not-available) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

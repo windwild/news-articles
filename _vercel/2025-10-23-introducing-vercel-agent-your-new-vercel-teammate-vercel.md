@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Agent provides AI-powered code reviews and production investigations, delivering accurate, context-aware insights to help you ship reliable software."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 23, 2025
 
@@ -97,4 +97,4 @@ Try Vercel Agent](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fvercel-agent)
 亲身体验与真正“与你并肩交付”的 AI 协作是什么感觉。\\
 \\
 立即试用 Vercel Agent](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fvercel-agent)
-{% endraw %}
+&#123;% endraw %}

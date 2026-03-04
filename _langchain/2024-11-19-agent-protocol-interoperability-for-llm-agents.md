@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:47:24.498254634+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 # LangGraph is a multi-agent framework.
 
@@ -129,4 +129,4 @@ Doing so will allow you to deploy to LangGraph Platform, and allows you to get a
 See our guide [here](https://langchain-ai.github.io/langgraph/how-tos/autogen-langgraph-platform/?ref=blog.langchain.com) for how to do this integration.
 
 请参阅我们的指南[此处](https://langchain-ai.github.io/langgraph/how-tos/autogen-langgraph-platform/?ref=blog.langchain.com)，了解如何完成此项集成。
-{% endraw %}
+&#123;% endraw %}

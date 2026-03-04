@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 25, 2022
 
@@ -29,4 +29,4 @@ Measure page views and understand your audience breakdown, including referrers a
 Check out the [documentation](https://vercel.com/docs/concepts/analytics/audiences) to get started.
 
 请查阅 [文档](https://vercel.com/docs/concepts/analytics/audiences) 开始使用。
-{% endraw %}
+&#123;% endraw %}

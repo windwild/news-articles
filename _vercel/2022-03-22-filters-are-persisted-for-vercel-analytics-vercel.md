@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 22, 2022
 
@@ -23,4 +23,4 @@ You can now share and bookmark a specific filter state of Vercel Analytics, whic
 Check out the [documentation](https://vercel.com/docs/concepts/analytics) as well.
 
 也请查阅[文档](https://vercel.com/docs/concepts/analytics)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 4, 2023
 
@@ -23,4 +23,4 @@ You can now redeploy or promote all deployments to production from the Vercel da
 [Read the documentation](https://vercel.com/docs/concepts/deployments/managing-deployments#redeploy-a-project) to learn more.
 
 [阅读文档](https://vercel.com/docs/concepts/deployments/managing-deployments#redeploy-a-project) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

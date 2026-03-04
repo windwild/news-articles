@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Chatbot is a free, open-source template, powered by Next.js and the AI SDK, that helps you build chatbot applications."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 9, 2025
 
@@ -43,4 +43,4 @@ Chatbot 立足于坚实的基础能力——消息持久化、用户认证、多
 只需单击一次，即可完成聊天机器人的部署。\\
 \\
 部署](https://vercel.com/templates/next.js/chatbot)
-{% endraw %}
+&#123;% endraw %}

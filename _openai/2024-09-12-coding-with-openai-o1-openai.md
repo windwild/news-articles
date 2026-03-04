@@ -9,7 +9,7 @@ translated: false
 description: "Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 12, 2024
 
@@ -24,4 +24,4 @@ September 12, 2024
 Scott Wu, CEO and Co-Founder of Cognition
 
 Coding with OpenAI o1 \| OpenAI
-{% endraw %}
+&#123;% endraw %}

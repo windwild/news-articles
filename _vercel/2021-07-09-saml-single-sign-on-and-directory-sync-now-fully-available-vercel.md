@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 9, 2021
 
@@ -23,4 +23,4 @@ Jul 9, 2021
 此外，配套的目录同步（Directory Sync）功能，可让企业团队自动从目录服务提供商（支持 Okta、Google、Azure 以及通用 SCIM 提供商）同步用户，自动将其添加或移出团队，并按需为其创建 Vercel 个人账户。
 
 [联系销售](https://vercel.com/contact/sales) 升级至企业版计划，或 [查阅相关文档](https://vercel.com/docs/platform/users-and-teams#saml-single-sign-on)。
-{% endraw %}
+&#123;% endraw %}

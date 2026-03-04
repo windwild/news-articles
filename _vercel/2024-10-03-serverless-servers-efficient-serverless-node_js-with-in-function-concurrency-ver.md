@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Building a compute layer that is highly-optimized for interactive workloads, server-rendering, and APIs"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 3, 2024
 
@@ -239,4 +239,4 @@ Google Cloud Run 是全托管式容器并发能力的先行者，其公开预览
 \\  
 立即启用  
 [**立即启用**](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Ffunctions%23in-function-concurrency&title=Go+to+Function+Settings)
-{% endraw %}
+&#123;% endraw %}

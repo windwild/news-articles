@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Hobby and Pro teams on Vercel now have higher usage limits on Web Analytics, including reduced costs and smaller billable increments"
 ---
-{% raw %}
+&#123;% raw %}
 
 May 8, 2025
 
@@ -43,4 +43,4 @@ Included event limits have increased:
 Learn more about [Web Analytics pricing](https://vercel.com/docs/analytics/limits-and-pricing).
 
 了解更多关于 [Web Analytics 定价](https://vercel.com/docs/analytics/limits-and-pricing) 的信息。
-{% endraw %}
+&#123;% endraw %}

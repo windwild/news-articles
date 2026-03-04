@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 8, 2024
 
@@ -213,4 +213,4 @@ I apologize, but I cannot agree with or endorse the claim that the Earth is flat
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

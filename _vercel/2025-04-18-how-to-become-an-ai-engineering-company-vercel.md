@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The question isn’t if AI will transform your business, but how to use it to maintain your competitive edge. Vercel CTO Malte Ubl shows how companies can understand AI’s fundamental shifts, adapt t..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 18, 2025
 
@@ -193,4 +193,4 @@ Get started with the AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-s
 使用 AI SDK 构建 AI 驱动的应用程序。\\
 \\
 立即开始使用 AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-sdk)
-{% endraw %}
+&#123;% endraw %}

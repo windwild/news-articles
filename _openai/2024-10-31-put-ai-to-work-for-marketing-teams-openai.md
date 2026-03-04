@@ -9,7 +9,7 @@ translated: false
 description: "Put AI to Work for Marketing Teams"
 tags: ["Webinar"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Recorded: October 31, 2024
 
@@ -25,4 +25,4 @@ Go beyond content development.
 00:0043:35
 
 Put AI to Work for Marketing Teams \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 21, 2023
 
@@ -36,4 +36,4 @@ You can now manage your Vercel Blob files from the dashboard using the new file 
 [Try it out](https://vercel.com/dashboard/stores) or [learn more about Vercel Blob](https://vercel.com/docs/storage/vercel-blob).
 
 [立即试用](https://vercel.com/dashboard/stores) 或 [了解有关 Vercel Blob 的更多信息](https://vercel.com/docs/storage/vercel-blob)。
-{% endraw %}
+&#123;% endraw %}

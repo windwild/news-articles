@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Hear more about the product launches, keynote themes, and exciting news from our first-ever conference."
 ---
-{% raw %}
+&#123;% raw %}
 
 That's a wrap on Interrupt 2025! This year, 800 folks from across the globe gathered in San Francisco for LangChain's first industry conference to hear stories of teams building agents – and we’re still riding the high! Cisco, Uber, Replit, LinkedIn, Blackrock, JPMorgan, Harvey, and more shared lessons on architectures, evals, observability, and prompting strategies – both their challenges and their wins.
 
@@ -101,4 +101,4 @@ We’re so excited to be building alongside you all, and aim to make this an ann
 ![](images/recap-of-interrupt-2025-the-ai-agent-conference-by-langchain/img_005.jpg)  
 线下相聚，方知 LangChain 社区之魅力无可替代！  
 Nothing beats the LangChain community in-person!
-{% endraw %}
+&#123;% endraw %}

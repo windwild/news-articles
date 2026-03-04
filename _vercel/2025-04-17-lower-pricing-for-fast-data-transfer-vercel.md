@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Lower the price of Fast Data Transfer (FDT) for Vercel regions in Asia Pacific, Latin America, and Africa by up to 50%. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 17, 2025
 
@@ -61,4 +61,4 @@ The new FDT regional pricing is rolling out for all Pro and Enterprise plans:
 Learn more about [Fast Data Transfer](https://vercel.com/docs/edge-network/manage-usage#fast-data-transfer) or review your FDT usage on the [Usage page](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fusage).
 
 了解更多关于 [快速数据传输（Fast Data Transfer）](https://vercel.com/docs/edge-network/manage-usage#fast-data-transfer) 的信息，或前往 [用量页面（Usage page）](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fusage) 查看您的 FDT 使用情况。
-{% endraw %}
+&#123;% endraw %}

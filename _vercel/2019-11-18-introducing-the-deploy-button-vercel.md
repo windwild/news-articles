@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Make your project deployable with the click of a button."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 18, 2019
 
@@ -69,4 +69,4 @@ With this release, we hope to empower open source maintainers and enable faster 
 [Let us know what you think](mailto:support@vercel.com) about this change!
 
 [欢迎就这一变更告诉我们您的想法](mailto:support@vercel.com)！
-{% endraw %}
+&#123;% endraw %}

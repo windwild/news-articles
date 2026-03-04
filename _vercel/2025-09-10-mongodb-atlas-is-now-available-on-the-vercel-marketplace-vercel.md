@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "MongoDB Atlas is now available on the Vercel Marketplace, enabling developers to provision, manage, and scale fully managed MongoDB databases directly from the Vercel dashboard."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 10, 2025
 
@@ -120,4 +120,4 @@ The `MONGODB_URI` environment variable gets configured automatically when you pr
 [MongoDB Atlas](https://vercel.com/marketplace/mongodbatlas) 在 Vercel 应用市场中提供，所有套餐的客户均可使用。
 
 在 Vercel 上部署 [MongoDB Atlas 论坛模板](https://vercel.com/templates/next.js/mongodb-atlas-forum)。
-{% endraw %}
+&#123;% endraw %}

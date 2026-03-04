@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 15, 2017
 
@@ -27,4 +27,4 @@ By capturing statistical patterns in large corpora, machine learning has enabled
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
-{% endraw %}
+&#123;% endraw %}

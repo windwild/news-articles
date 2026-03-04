@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 17, 2022
 
@@ -23,4 +23,4 @@ You can now more easily add Environment Variables to your projects using bulk up
 Check out the [documentation](https://vercel.com/docs/concepts/projects/shared-environment-variables#creating-shared-environment-variables) to learn more.
 
 请查阅[相关文档](https://vercel.com/docs/concepts/projects/shared-environment-variables#creating-shared-environment-variables)以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

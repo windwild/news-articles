@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:47:26.327529717+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Most complex and knowledge-intensive LLM applications require runtime data retrieval for Retrieval Augmented Generation (RAG). A core component of the typical RAG stack is a vector store, which is used to power document retrieval.
 
@@ -310,4 +310,4 @@ As you move your apps from prototype to production, be able to re-indexing effic
 Try it out and let us know what you think!
 
 欢迎尝试，并告诉我们您的想法！
-{% endraw %}
+&#123;% endraw %}

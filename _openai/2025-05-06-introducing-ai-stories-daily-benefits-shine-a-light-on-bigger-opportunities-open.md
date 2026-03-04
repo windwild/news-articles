@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Sam Altman has written that we are entering the Intelligence Age, a time when AI will help people become dramatically more capable. The biggest problems of today—across science, medicine, education,..."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 6, 2025
 
@@ -51,4 +51,4 @@ There is a growing gap between those who use AI and understand its benefits and 
 To that end, we’re going to start sharing these stories more often.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

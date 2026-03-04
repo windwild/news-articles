@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 25, 2023
 
@@ -21,4 +21,4 @@ Apr 25, 2023
 借助这一增强版摘要，您可以追踪前端应用代码的变更如何具体影响构建输出——包括运行时环境（runtimes）、部署区域（regions）、路径（paths）等——即 Vercel 在其全球边缘网络（Global Edge Network）上部署您的应用时所使用或创建的各类资源。
 
 [在我们的文档中了解更多信息](https://vercel.com/docs/deployments/overview#deployment-summary)，或进一步了解 [框架定义的基础架构（Framework-Defined Infrastructure）](https://vercel.com/blog/framework-defined-infrastructure)。
-{% endraw %}
+&#123;% endraw %}

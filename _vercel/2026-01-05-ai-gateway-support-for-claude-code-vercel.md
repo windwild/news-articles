@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Use Vercel AI Gateway from Claude Code via the Anthropic-compatible endpoint, with a URL change and AI Gateway usage and cost tracking."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 5, 2026
 
@@ -49,4 +49,4 @@ claude
 See the [Claude Code documentation](https://vercel.com/docs/ai-gateway/claude-code) for details.
 
 详情请参阅 [Claude Code 文档](https://vercel.com/docs/ai-gateway/claude-code)。
-{% endraw %}
+&#123;% endraw %}

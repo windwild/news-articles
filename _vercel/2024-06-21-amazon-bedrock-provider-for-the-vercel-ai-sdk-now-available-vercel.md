@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 21, 2024
 
@@ -50,4 +50,4 @@ For more information, [please see the documentation](https://sdk.vercel.ai/provi
 Thanks Jon Spaeth for contributing this feature!
 
 感谢 Jon Spaeth 为本功能做出的贡献！
-{% endraw %}
+&#123;% endraw %}

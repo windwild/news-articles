@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 11, 2022
 
@@ -27,4 +27,4 @@ List view improves the experience for teams using monorepos or a large number of
 Check out the [documentation](https://vercel.com/docs/dashboard-features/overview) to learn more.
 
 请查阅[文档](https://vercel.com/docs/dashboard-features/overview)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

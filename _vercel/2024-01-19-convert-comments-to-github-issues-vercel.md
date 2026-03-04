@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 19, 2024
 
@@ -25,4 +25,4 @@ Jan 19, 2024
 GitHub Issues 是我们不断扩展的「评论集成」系列之一；该系列还包括 [Slack](https://vercel.com/docs/workflow-collaboration/comments/integrations#use-the-vercel-slack-app)、[Linear](https://vercel.com/integrations/linear) 和 [Jira](https://vercel.com/integrations/jira)，现已面向所有 Vercel 用户开放。
 
 [查阅文档](https://vercel.com/docs/workflow-collaboration/comments/integrations#adding-comments-to-your-issue-tracker) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

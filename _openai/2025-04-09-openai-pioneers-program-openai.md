@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Advancing model performance and real world evaluation in applied domains."
 ---
-{% raw %}
+&#123;% raw %}
 
 April 9, 2025
 
@@ -41,4 +41,4 @@ Our team will guide companies through the fine-tuning process. Companies can the
 The first cohort will focus on startups who will help lay the foundations of the OpenAI Pioneers Program. We’re selecting a handful of startups for this initial cohort, each working on high-value, applied use cases where AI can drive real-world impact.
 
 _If you are a company that is interested in participating in the OpenAI Pioneers Program, please fill out the form below. We look forward to hearing from you._
-{% endraw %}
+&#123;% endraw %}

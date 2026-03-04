@@ -9,7 +9,7 @@ translated: false
 description: "Neuro uses ChatGPT Business to scale nationwide with fewer than seventy employees. From drafting contracts to uncovering insights in customer data, the team saves time, cuts costs, and turns ideas int..."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 12, 2025
 
@@ -70,4 +70,4 @@ As Neuro grows, Chen sees ChatGPT as a natural extension of the way they’ve al
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

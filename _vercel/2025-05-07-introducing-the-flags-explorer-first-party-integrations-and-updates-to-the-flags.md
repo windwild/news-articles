@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing first-party integrations, the Flags Explorer, and improvements to the Flags SDK to improve feature flag workflow on Vercel."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 7, 2025
 
@@ -164,4 +164,4 @@ Get started](https://vercel.com/docs/feature-flags)
 \\
 立即开始](https://vercel.com/docs/feature-flags)
 ```
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 3, 2023
 
@@ -19,4 +19,4 @@ Jan 3, 2023
 Vercel 现在可自动优化您的 [VitePress](https://vitepress.vuejs.org/) 项目。在导入新项目时，Vercel 将自动识别 VitePress，并为其配置最优性能所需的各项设置——包括为 JavaScript 和 CSS 资源自动添加 `immutable` HTTP 缓存响应头。
 
 立即部署 [VitePress 模板](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fvitepress&template=vitepress&id=67753070&b=main&from=templates) 开始体验。
-{% endraw %}
+&#123;% endraw %}

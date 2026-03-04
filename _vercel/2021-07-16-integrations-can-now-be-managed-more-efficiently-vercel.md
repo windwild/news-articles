@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 16, 2021
 
@@ -25,4 +25,4 @@ Jul 16, 2021
 如仪表板底部所示，“旧版集成（Legacy Integrations）”将于 8 月 20 日正式下线。在此日期之前，集成开发者仍可[升级](https://vercel.com/docs/integrations#upgrading-your-integration/legacy-integrations)其集成。
 
 请查阅我们[更新后的文档](https://vercel.com/docs/integrations)，了解如何创建您自己的集成。
-{% endraw %}
+&#123;% endraw %}

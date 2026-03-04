@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "With comments, teams can give collaborative feedback directly on copy, components, interactions, and more right in your Preview Deployments."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 22, 2022
 
@@ -31,4 +31,4 @@ PR owners, comment creators, and participants in comment threads can review and 
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/comments) to learn more or [opt-in](https://vercel.com/enable-comments) to start using comments now.
 
 [查阅文档](https://vercel.com/docs/concepts/deployments/comments) 了解详情，或立即 [开启评论功能](https://vercel.com/enable-comments) 开始使用。
-{% endraw %}
+&#123;% endraw %}

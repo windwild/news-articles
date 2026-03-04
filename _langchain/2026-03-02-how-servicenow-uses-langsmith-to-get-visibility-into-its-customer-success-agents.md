@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 **Authors:** _Ganesh Srinivasan (ServiceNow), Linda Ye (LangChain), and Jake Broekhuizen (LangChain)_
 
@@ -221,4 +221,4 @@ ServiceNow 借助 LangChain 平台，成功应对了智能体编排（agent orch
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 分钟阅读
 
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 分钟阅读
-{% endraw %}
+&#123;% endraw %}

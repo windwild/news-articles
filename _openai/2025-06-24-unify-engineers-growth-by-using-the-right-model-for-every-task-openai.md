@@ -9,7 +9,7 @@ translated: false
 description: "Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams ..."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 24, 2025
 
@@ -68,4 +68,4 @@ Today, that system powers 30% of Unify’s own pipeline and supports hundreds of
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

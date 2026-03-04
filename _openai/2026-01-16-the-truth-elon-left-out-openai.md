@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "The truth left out from Elon Musk’s recent court filing."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 16, 2026
 
@@ -320,4 +320,4 @@ While there’s a long way to go, we’ve made much more progress than Elon thou
 We’re grateful for the many users and partners who work with us to collectively advance our mission of ensuring AGI benefits all of humanity.  
 
 我们衷心感谢众多用户与合作伙伴，正是大家携手并肩、通力协作，共同推进我们的使命：确保通用人工智能（AGI）惠及全人类。
-{% endraw %}
+&#123;% endraw %}

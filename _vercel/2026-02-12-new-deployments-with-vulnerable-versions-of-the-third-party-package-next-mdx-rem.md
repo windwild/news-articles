@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Any new deployment containing a version of next-mdx-remote that is vulnerable to CVE-2026-0969 will now automatically fail to deploy on Vercel."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 12, 2026
 
@@ -19,4 +19,4 @@ Feb 12, 2026
 无论您使用哪家托管服务商，我们都强烈建议升级至已修复该漏洞的版本。
 
 您可通过在 Vercel 项目中设置环境变量 `DANGEROUSLY_DEPLOY_VULNERABLE_CVE_2026_0969=1` 来禁用此项自动防护机制。[了解更多](https://vercel.com/docs/environment-variables#creating-environment-variables)
-{% endraw %}
+&#123;% endraw %}

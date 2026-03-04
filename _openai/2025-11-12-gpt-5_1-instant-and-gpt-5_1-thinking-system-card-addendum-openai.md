@@ -9,7 +9,7 @@ translated: false
 description: "This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance."
 tags: ["Publication"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 12, 2025
 
@@ -30,4 +30,4 @@ In this card we also refer to GPT‑5.1 Instant as gpt-5.1-instant, and GPT‑5.
 
 - [2025](https://openai.com/research/index/?tags=2025)
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
-{% endraw %}
+&#123;% endraw %}

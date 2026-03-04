@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 23, 2020
 
@@ -25,4 +25,4 @@ Previously, Environment Variables defined in the Project Settings used to be sha
 In order to make it easy for you to still only view the Environment Variables you're interested in, we just added a new search field and a select field on the right that lets you filter the Environment Variables down to a specific Environment.
 
 为方便您仍能快速定位并仅查看所关注的环境变量，我们新增了一个搜索框，以及右侧的一个下拉选择框，支持您按特定环境对环境变量进行筛选。
-{% endraw %}
+&#123;% endraw %}

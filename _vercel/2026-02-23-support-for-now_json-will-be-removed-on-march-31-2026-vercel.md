@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Support for the deprecated \"now.json\" configuration file will be removed on March 31, 2026. Move to \"vercel.json\" instead. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 23, 2026
 
@@ -29,4 +29,4 @@ For more advanced use cases, try [vercel.ts](https://vercel.com/changelog/vercel
 Learn more about configuring projects with `vercel.json` in the [documentation](https://vercel.com/docs/project-configuration#file-based-configuration).
 
 有关如何使用 `vercel.json` 配置项目的更多信息，请参阅[文档](https://vercel.com/docs/project-configuration#file-based-configuration)。
-{% endraw %}
+&#123;% endraw %}

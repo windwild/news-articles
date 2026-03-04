@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "See how a group of leading developers use GPT-5 for the first time."
 ---
-{% raw %}
+&#123;% raw %}
 
 August 7, 2025
 
@@ -21,4 +21,4 @@ August 7, 2025
 
 
 First look at GPT-5 \| OpenAI
-{% endraw %}
+&#123;% endraw %}

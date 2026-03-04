@@ -9,7 +9,7 @@ translated: false
 description: "As part of our DALL·E 2 research preview, more than 3,000 artists from more than 118 countries have incorporated DALL·E into their creative workflows. The artists in our early access group have help..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 14, 2022
 
@@ -152,4 +152,4 @@ Chad Nelson has been using DALL·E to create highly detailed creatures—and he�
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [Community](https://openai.com/news/?tags=community)
 - [2022](https://openai.com/news/?tags=2022)
-{% endraw %}
+&#123;% endraw %}

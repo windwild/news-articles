@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 22, 2021
 
@@ -25,4 +25,4 @@ You can now more easily add custom nameservers to your Vercel hosted domain, all
 Check out [the documentation](https://vercel.com/docs/concepts/projects/custom-domains#nameservers) as well.
 
 也欢迎查阅[相关文档](https://vercel.com/docs/concepts/projects/custom-domains#nameservers)。
-{% endraw %}
+&#123;% endraw %}

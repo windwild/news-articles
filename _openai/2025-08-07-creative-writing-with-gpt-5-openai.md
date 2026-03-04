@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Learn how GPT-5 assists with creative writing."
 ---
-{% raw %}
+&#123;% raw %}
 
 August 7, 2025
 
@@ -23,4 +23,4 @@ August 7, 2025
 
 
 Creative writing with GPT-5 \| OpenAI
-{% endraw %}
+&#123;% endraw %}

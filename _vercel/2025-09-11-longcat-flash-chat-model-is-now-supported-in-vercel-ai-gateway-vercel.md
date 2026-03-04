@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access LongCat-Flash Chat from Meituan using Vercel AI Gateway, with no Meituan account required."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 11, 2025
 
@@ -49,4 +49,4 @@ Includes built-in [observability](https://vercel.com/docs/ai-gateway/observabili
 Learn more about [AI Gateway](https://vercel.com/ai-gateway) and access the model [here](https://vercel.com/ai-gateway/models/longcat-flash-chat).
 
 了解更多关于 [AI Gateway](https://vercel.com/ai-gateway) 的信息，并在此处访问该模型：[链接](https://vercel.com/ai-gateway/models/longcat-flash-chat)。
-{% endraw %}
+&#123;% endraw %}

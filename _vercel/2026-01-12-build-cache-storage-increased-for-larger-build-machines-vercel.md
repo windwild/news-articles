@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Projects using larger build machines now get higher build cache storage limits, at no additional charge."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 12, 2026
 
@@ -22,4 +22,4 @@ Jan 12, 2026
 此次限制提升无需额外付费。
 
 了解更多关于 [Vercel 构建缓存](https://vercel.com/docs/deployments/troubleshoot-a-build#understanding-build-cache) 的信息。
-{% endraw %}
+&#123;% endraw %}

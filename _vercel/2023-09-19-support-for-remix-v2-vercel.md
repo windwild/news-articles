@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 19, 2023
 
@@ -39,4 +39,4 @@ Vercel 现已支持 [Remix v2](https://remix.run/blog/remix-v2)。您可在 Verc
 [Deploy our Remix template](https://vercel.com/templates/remix/remix-boilerplate) to get started.
 
 [立即部署我们的 Remix 模板](https://vercel.com/templates/remix/remix-boilerplate)，快速开始使用。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["![Extraction Benchmarking", "**Extraction Benchmarking**", "![Building Chat LangChain", "**Building Chat LangChain**"]
 ---
-{% raw %}
+&#123;% raw %}
 
 ### Context
 
@@ -332,4 +332,4 @@ This will open a playground for workshopping and debugging prompts with a broad 
 [![Building Chat LangChain](images/the-prompt-landscape/img_013.png)](https://blog.langchain.com/building-chat-langchain-2/)
 
 [**构建 Chat LangChain**](https://blog.langchain.com/building-chat-langchain-2/)
-{% endraw %}
+&#123;% endraw %}

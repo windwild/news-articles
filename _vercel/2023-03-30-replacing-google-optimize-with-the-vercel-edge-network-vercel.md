@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Power your A/B testing and personalization strategy with better data and higher performance."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 30, 2023
 
@@ -408,4 +408,4 @@ Jan 13, 2023
 
 Grace Madlinger  
 格蕾丝·马德林格
-{% endraw %}
+&#123;% endraw %}

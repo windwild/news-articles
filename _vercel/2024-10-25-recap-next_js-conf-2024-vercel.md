@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js Conf 2024"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 25, 2024
 
@@ -183,4 +183,4 @@ We use fairly old Windows machines, and honestly, this change for
 [Read 33 replies](https://x.com/timneutkens/status/1849432262380499445)
 
 [查看 33 条回复](https://x.com/timneutkens/status/1849432262380499445)
-{% endraw %}
+&#123;% endraw %}

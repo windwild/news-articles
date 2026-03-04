@@ -9,7 +9,7 @@ translated: false
 description: "Fine-Tuning GPT-4o Webinar"
 tags: ["Webinar"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Recorded: August 26, 2024
 
@@ -20,4 +20,4 @@ Recorded: August 26, 2024
 00:0049:33
 
 Fine-Tuning GPT-4o Webinar \| OpenAI
-{% endraw %}
+&#123;% endraw %}

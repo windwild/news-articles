@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:11:36.812536775+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **Editor's Note:** [**Andrew Nguonly**](https://medium.com/@andrewnguonly?ref=blog.langchain.com) **has been building one of the more impressive projects we've seen recently - an LLM co-pilot for browsing the web, powered by local LLMs. There are a lot of small architectural decisions made that contain a ton of nuance, and so we're super excited to post this blog by him going over one of them in detail.**
 
@@ -357,4 +357,4 @@ In the long term, however, there is a bigger opportunity to consider. A Chrome e
 
 4. [Let’s Normalize Online, In-Memory RAG! (Part 3)](https://medium.com/@andrewnguonly/lets-normalize-online-in-memory-rag-88e8169e9806?ref=blog.langchain.com)  
 4. [让我们标准化在线、内存驻留型 RAG！（第三部分）](https://medium.com/@andrewnguonly/lets-normalize-online-in-memory-rag-88e8169e9806?ref=blog.langchain.com)
-{% endraw %}
+&#123;% endraw %}

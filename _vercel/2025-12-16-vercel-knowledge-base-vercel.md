@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A database of tutorials, videos, and best practices for building on Vercel, written by engineers from across the company."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 16, 2025
 
@@ -48,4 +48,4 @@ You can use the Knowledge Base to find and explore guides for specific use cases
 - **Filters**: search guides by Vercel product or feature
 
 - **筛选器**：按 Vercel 产品或功能筛选指南
-{% endraw %}
+&#123;% endraw %}

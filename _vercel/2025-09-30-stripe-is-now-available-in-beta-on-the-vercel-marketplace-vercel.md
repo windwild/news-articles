@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "stripe claimable sandbox available on vercel marketplace and v0. You can test your flow fully in test mode and go claim it when ready to go live"
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 30, 2025
 
@@ -31,4 +31,4 @@ Sep 30, 2025
 - **开发者上手入门**：为团队成员即时提供开箱即用的 Stripe 沙盒环境。
 
 立即通过此 [示例项目](https://vercel.com/templates/next.js/simple-online-store-with-stripe) 开始实践，使用 Vercel 与 Stripe 快速构建您的首个简易在线商店。
-{% endraw %}
+&#123;% endraw %}

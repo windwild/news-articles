@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Data on how software developers are using Claude"
 ---
-{% raw %}
+&#123;% raw %}
 
 Societal ImpactsEconomic Research
 
@@ -258,4 +258,4 @@ A significant increase in Feedback Loops (+18.3%) drives this and, notably, offs
 
 In other words, AI-assisted coding currently requires a lot of human reviewing and iteration relative to non-coding tasks, even when Claude does the bulk of the work.  
 换言之，即便 Claude 承担了大部分编码工作，当前 AI 辅助编程仍比非编程任务更依赖人工审阅与反复迭代。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 2, 2023
 
@@ -43,4 +43,4 @@ To configure existing deployments with Deployment Protection, you can use this [
 [Check out the documentation](https://vercel.com/docs/security/deployment-protection) to learn more.
 
 [查阅文档](https://vercel.com/docs/security/deployment-protection)了解更多信息。
-{% endraw %}
+&#123;% endraw %}

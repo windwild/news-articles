@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing v0 Team and Enterprise plans—designed for secure and efficient collaboration. Team can share Projects, chats, and resources with higher messaging limits. Enterprises can secure access wi..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 15, 2024
 
@@ -100,4 +100,4 @@ To get started with v0 Enterprise, contact our team for a demo.
 
 Book a demo](https://vercel.com/contact/sales/v0-enterprise)  
 预约演示](https://vercel.com/contact/sales/v0-enterprise)
-{% endraw %}
+&#123;% endraw %}

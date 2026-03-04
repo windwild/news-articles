@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "v0’s composite AI pipeline boosts reliability by fixing errors in real time. Learn how dynamic system prompts, LLM Suspense, and autofixers work together to deliver stable, working web app generatio..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 7, 2026
 
@@ -167,4 +167,4 @@ Combining the dynamic system prompt, LLM Suspense, and autofixers gives us a pip
 Each part of the pipeline addresses a specific failure mode, and together they significantly increase the likelihood that users see a rendered website in v0 on the first attempt.
 
 流程中的每个环节都专门应对某一类典型失败模式；协同工作时，它们显著提升了用户在 v0 中首次尝试即成功渲染出网站的概率。
-{% endraw %}
+&#123;% endraw %}

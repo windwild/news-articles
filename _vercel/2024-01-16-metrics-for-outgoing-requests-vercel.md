@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 16, 2024
 
@@ -33,4 +33,4 @@ This release also includes various of quality-of-life improvements in the Logs U
 Request metrics are **free while in beta** and only available to Pro and Enterprise customers.
 
 请求指标在公测（beta）期间**免费提供**，但仅面向 Pro 和 Enterprise 计划用户开放。
-{% endraw %}
+&#123;% endraw %}

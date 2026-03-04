@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "By switching to Vercel, Sonos leveled up their headless Next.js stack, cutting build times by 75%."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 17, 2023
 
@@ -235,4 +235,4 @@ Vercel.com 官网首页
 ### Learn more about Vercel Preview Deployments
 
 ### 了解更多关于 Vercel 预览部署的信息
-{% endraw %}
+&#123;% endraw %}

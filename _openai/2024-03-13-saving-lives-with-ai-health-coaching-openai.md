@@ -9,7 +9,7 @@ translated: false
 description: "Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Healthify
@@ -111,4 +111,4 @@ ChatGPTMar 18, 2024](https://openai.com/index/holiday-extras/)
 APIMar 18, 2024](https://openai.com/index/superhuman/)
 
 Saving lives with AI health coaching \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 23, 2024
 
@@ -31,4 +31,4 @@ In addition to [new custom rules](https://vercel.com/docs/security/vercel-waf/cu
 [Contact sales](https://vercel.com/contact/sales) to see a demo and learn more.
 
 [联系销售](https://vercel.com/contact/sales) 获取演示并了解更多信息。
-{% endraw %}
+&#123;% endraw %}

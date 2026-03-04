@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report."
 ---
-{% raw %}
+&#123;% raw %}
 
 July 18, 2025
 
@@ -37,4 +37,4 @@ This new initiative builds on OpenAI’s existing efforts and mission to ensure 
 We believe many of the answers to how our tools can best help communities lie within the communities themselves. We are proud to build with them, and we are just getting started. We look forward to sharing more soon.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

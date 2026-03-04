@@ -9,7 +9,7 @@ translated: true
 description: "See how MUFG Bank used LangChain to streamline corporate sales research, cutting data analysis time from hours to minutes and boosting efficiency 10x."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 MUFG Bank is Japan’s largest bank and one of the world's leading financial institutions. They provide capital market solutions to major corporate clients and promote economic growth around the world.
 
@@ -190,4 +190,4 @@ By leveraging LangChain, MUFG continues to advance AI-driven sales intelligence,
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

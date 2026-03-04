@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Enterprise customers with Observability Plus can now receive anomaly alerts for errors through the limited beta"
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 22, 2025
 
@@ -35,4 +35,4 @@ Error anomaly detection, joining anomaly alerts for unusual app metric usage, is
 If you have feedback or questions, drop them in the [Vercel Community thread](https://community.vercel.com/t/anomaly-alerts-now-in-limited-beta/23023).
 
 如您有任何反馈或疑问，欢迎在 [Vercel 社区讨论帖](https://community.vercel.com/t/anomaly-alerts-now-in-limited-beta/23023) 中留言。
-{% endraw %}
+&#123;% endraw %}

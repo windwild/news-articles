@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now manually start an on-demand Vercel Agent code review by clicking the \"Review with Vercel\" button on the deployment tables provided by the Vercel GitHub App,"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 15, 2026
 
@@ -33,4 +33,4 @@ If you want more control, enable automatic code reviews in [Team Settings → Ag
 Get started by installing the [Vercel GitHub App](https://github.com/apps/vercel) or read the [documentation](https://vercel.com/docs/agent).
 
 请先安装 [Vercel GitHub App](https://github.com/apps/vercel)，或查阅 [文档](https://vercel.com/docs/agent) 开始使用。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "As of today, you can use the `vercel dev` command of Vercel CLI on Windows."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 7, 2019
 
@@ -81,4 +81,4 @@ Our team is working hard to ensure [Vercel CLI](http://zeit.co/download) works o
 Should you experience any bugs, please do not hesitate to contact [our support team](http://zeit.co/support).
 
 如您遇到任何 Bug，请随时联系我们的[技术支持团队](http://zeit.co/support)。
-{% endraw %}
+&#123;% endraw %}

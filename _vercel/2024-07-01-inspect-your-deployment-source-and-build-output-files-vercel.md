@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 1, 2024
 
@@ -19,4 +19,4 @@ Jul 1, 2024
 The UI for inspecting your deployment source and build output files is improved. Use the deployment Source tab to see what goes into a deployment and what gets created from the build process.
 
 用于检查部署源文件和构建输出文件的用户界面已优化升级。请使用“Deployment Source（部署源）”标签页，查看参与部署的文件以及构建流程所生成的产物。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now filter your runtime logs to identify fatal function errors, such as Node.js crashes, in the Vercel Logs UI. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 10, 2025
 
@@ -27,4 +27,4 @@ When a log entry corresponds to a fatal error, the right-hand panel will display
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Flogs) or learn more about [runtime logs](https://vercel.com/docs/runtime-logs)
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Flogs)，或深入了解 [运行时日志](https://vercel.com/docs/runtime-logs)
-{% endraw %}
+&#123;% endraw %}

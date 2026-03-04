@@ -9,7 +9,7 @@ translated: true
 description: "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 29, 2025
 
@@ -190,4 +190,4 @@ What began as a response to scale has become a blueprint for how people and AI c
 [Talk with our team](https://openai.com/contact-sales/)
 
 [与我们的团队联系](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Be My Eyes uses GPT-4 to transform visual accessibility."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Be My Eyes
@@ -87,4 +87,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Transforming visual accessibility \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 7, 2021
 
@@ -53,4 +53,4 @@ Check out the new categories of Integrations:
 [Check out our updated documentation](https://vercel.com/docs/integrations) to learn how to create your own Integration.
 
 [查看我们更新后的文档](https://vercel.com/docs/integrations)，了解如何创建您自己的 Integration。
-{% endraw %}
+&#123;% endraw %}

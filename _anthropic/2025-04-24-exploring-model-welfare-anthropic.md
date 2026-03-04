@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing a new research program at Anthropic on model welfare"
 ---
-{% raw %}
+&#123;% raw %}
 
 Alignment
 
@@ -57,4 +57,4 @@ For now, we remain deeply uncertain about many of the questions that are relevan
 We look forward to sharing more about this research soon.
 
 我们期待尽快向公众分享这项研究的更多进展。
-{% endraw %}
+&#123;% endraw %}

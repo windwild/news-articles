@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A new unified dashboard for Vercel’s platform, infrastructure, and agent systems, which continuously monitor for vulnerabilities and configuration issues that require attention."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 8, 2025
 
@@ -41,4 +41,4 @@ The unified dashboard helps teams act quickly during critical moments, consolida
 Explore the dashboard to [view any required updates](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Ffixes&title=View+Security+Actions+Dashboard).
 
 探索该仪表板以[查看任何必需的更新](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Ffixes&title=View+Security+Actions+Dashboard)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js 4: React 16 and styled-jsx 2"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 9, 2017
 
@@ -296,4 +296,4 @@ Moving forward, we plan on continuing to deliver frequent releases that improve 
 Come Join Us!
 
 欢迎加入我们！
-{% endraw %}
+&#123;% endraw %}

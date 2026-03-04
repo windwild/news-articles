@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:51:53.545198855+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Today, we’re excited to announce the release of LangChain v0.3 for both Python and JavaScript ecosystems.
 
@@ -97,4 +97,4 @@ We are expecting to improve LangChain’s multi-modal capabilities during the 0.
 We’d love to hear from you on GitHub on all things LangChain v0.3. And if you’re new to LangChain, follow our quickstart guide ( [Python](https://python.langchain.com/docs/tutorials/llm_chain/?ref=blog.langchain.com) [,](https://python.langchain.com/docs/tutorials/llm_chain/?ref=blog.langchain.com) [JavaScript](https://js.langchain.com/docs/tutorials/llm_chain/?ref=blog.langchain.com)) to get started.
 
 我们非常期待您在 GitHub 上就 LangChain v0.3 的所有方面提出反馈与建议。若您是 LangChain 新用户，欢迎参考我们的快速入门指南（[Python](https://python.langchain.com/docs/tutorials/llm_chain/?ref=blog.langchain.com)、[JavaScript](https://js.langchain.com/docs/tutorials/llm_chain/?ref=blog.langchain.com)）开始您的首次体验。
-{% endraw %}
+&#123;% endraw %}

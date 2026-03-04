@@ -9,7 +9,7 @@ translated: false
 description: "We’ve developed the Sparse Transformer, a deep neural network which sets new records at predicting what comes next in a sequence—whether text, images, or sound. It uses an algorithmic improvement ..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 23, 2019
 
@@ -164,4 +164,4 @@ If you are interested in advancing AI capabilities and helping further our missi
 - [Transformers](https://openai.com/research/index/?tags=transformers)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

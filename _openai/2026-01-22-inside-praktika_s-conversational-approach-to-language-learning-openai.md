@@ -9,7 +9,7 @@ translated: true
 description: "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency"
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 22, 2026
 
@@ -126,4 +126,4 @@ Today, Praktika supports millions of learners across nine languages, with more o
 “We’re not just teaching languages,” says Turaev. “We’re building AI that helps people feel confident using them in the real world.”
 
 “我们不只是在教授语言，”图拉耶夫（Turaev）表示，“我们正在打造一种 AI，帮助人们在真实世界中自信自如地使用这些语言。”
-{% endraw %}
+&#123;% endraw %}

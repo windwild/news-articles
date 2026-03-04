@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 6, 2023
 
@@ -68,4 +68,4 @@ PublicationJan 31, 2024](https://openai.com/index/building-an-early-warning-syst
 SafetyJan 16, 2024](https://openai.com/index/democratic-inputs-to-ai-grant-program-update/)
 
 Frontier AI regulation: Managing emerging risks to public safety \| OpenAI
-{% endraw %}
+&#123;% endraw %}

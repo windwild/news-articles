@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Watch webpack founder Tobias Koppers talk about the vision for Turbopack at React Day Berlin."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 11, 2023
 
@@ -107,4 +107,4 @@ Turbopack 的 Alpha 版本专为优化 `next dev` 的开发者体验而打造。
 未来，我们将通过插件架构支持其他框架，让全球各地的开发者都能畅享 Turboverse 带来的高效体验。此外，“提升开发者洞察力”也已列入 Turbo 的路线图：例如，提供构建过程的统计摘要、通过 lint 工具指出构建优化机会，以及借助分析器提供更深入的构建洞察。  
 
 如果您想进一步了解我们的未来规划，[请访问 Turbopack 路线图](https://turbo.build/pack/docs/roadmap?utm_source=vercel_site&utm_medium=blog&utm_campaign=turbo_pack_vision)。我们非常期待持续拓展 Turboverse 的边界，助力 Web 构建速度再上新台阶。
-{% endraw %}
+&#123;% endraw %}

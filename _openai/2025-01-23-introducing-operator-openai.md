@@ -9,7 +9,7 @@ translated: false
 description: "A research preview of an agent that can use its own browser to perform tasks for you. Available to Pro users in the U.S."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 23, 2025
 
@@ -109,4 +109,4 @@ Operator is currently in an early research preview, and while it’s already cap
 ![](images/introducing-operator-openai/img_002.png)
 
 Play video
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn why agent infrastructure is essential to handling stateful, long-running tasks — and how LangGraph Platform provides the runtime support needed to build and scale reliable agents."
 ---
-{% raw %}
+&#123;% raw %}
 
 Over the past year, we’ve seen the rise of agentic applications, from workflow copilots to codegen assistants to deep researchers. These agentic apps often combine tool use, memory, and reasoning to complete complex, multi-step tasks — moving beyond retrieval and chat to action-taking.
 
@@ -170,4 +170,4 @@ Agentic apps are here to stay. But like every shift in software — whether from
 [Get started with LangGraph Platform](https://www.langchain.com/langgraph-platform?ref=blog.langchain.com) to learn more.
 
 [立即开始使用 LangGraph 平台](https://www.langchain.com/langgraph-platform?ref=blog.langchain.com)，深入了解更多信息。
-{% endraw %}
+&#123;% endraw %}

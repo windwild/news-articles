@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "v0 users are now able to add Supabase, Upstash, and Neon integrations from the Vercel Marketplace in their v0 generations. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 14, 2025
 
@@ -21,4 +21,4 @@ Mar 14, 2025
 您可直接从项目侧边栏或 v0 的聊天界面中安装这些集成。添加后，系统将自动跳转至 Vercel Marketplace 页面，您可在该页面配置环境变量——这些变量同时对 Vercel 和 v0 生效。
 
 [ 浏览一个示例生成过程 ](http://v0.dev/chat?utm_medium=email&utm_source=inflection&utm_campaign=v0integrations20250310&q=I%27d%20like%20to%20add%20a%20database%20provider%20to%20my%20app.%20What%20are%20my%20options%3F)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 22, 2024
 
@@ -33,4 +33,4 @@ This feature is powered by [Turborepo](https://turbo.build/repo/docs/core-concep
 Learn more about [skipping unaffected projects](https://vercel.com/docs/monorepos#skipping-unaffected-projects).
 
 了解更多关于 [跳过未受影响项目](https://vercel.com/docs/monorepos#skipping-unaffected-projects) 的信息。
-{% endraw %}
+&#123;% endraw %}

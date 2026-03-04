@@ -9,7 +9,7 @@ translated: false
 description: "A conversation with Fiona Tan, Chief Technology Officer of Wayfair."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 13, 2025
 
@@ -98,4 +98,4 @@ _Wayfair uses ChatGPT across its organization in departments like legal, researc
 - [Enterprise](https://openai.com/stories/?tags=enterprise)
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Retail](https://openai.com/stories/?tags=industry-retail)
-{% endraw %}
+&#123;% endraw %}

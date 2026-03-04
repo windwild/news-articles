@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's Frontend Cloud is designed with high availability at its core, to maintain uptime for dynamic applications."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 21, 2024
 
@@ -127,4 +127,4 @@ Vercel.com 官网落地页
 ### See for yourself
 
 ### 亲身体验
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 9, 2024
 
@@ -41,4 +41,4 @@ const s3client = new s3.S3Client({
 ```
 
 有关 OpenID Connect 联合身份认证的更多信息，请参阅[文档](https://vercel.com/docs/security/secure-backend-access/oidc)。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "The largest deployment of ChatGPT to date will expand the use of AI in education and help the United States build an AI-ready workforce."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 4, 2025
 
@@ -43,4 +43,4 @@ Just two years after its launch, ChatGPT supports over 300 million weekly active
 Leah Belsky, VP and General Manager of Education at OpenAI
 
 OpenAI’s mission to ensure that AGI benefits all of humanity includes using AI to democratize knowledge and empower people to solve hard problems worldwide. ChatGPT Edu, [launched in May 2024](https://openai.com/index/introducing-chatgpt-edu/), was built to support this transformation, providing universities with campus-wide access to OpenAI’s latest models, enterprise-level security, and cost-effective pricing. As AI continues to shape the future, ensuring students and educators worldwide can engage with AI will remain a critical priority. CSU’s system-wide adoption sets a precedent for how institutions can integrate AI at scale, offering a powerful model for the future.
-{% endraw %}
+&#123;% endraw %}

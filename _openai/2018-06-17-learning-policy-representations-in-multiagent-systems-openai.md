@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 17, 2018
 
@@ -27,4 +27,4 @@ Modeling agent behavior is central to understanding the emergence of complex phe
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
-{% endraw %}
+&#123;% endraw %}

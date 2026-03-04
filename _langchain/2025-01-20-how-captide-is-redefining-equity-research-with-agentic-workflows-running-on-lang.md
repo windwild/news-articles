@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [Captide’s platform](https://www.captide.co/?ref=blog.langchain.com) transforms how investment research teams work with financial data. By automating the extraction of insights and metrics from regulatory filings and investor relations documents, analysts can create customized datasets and analyses with extreme efficiency. At the heart of this innovation is their commitment to NLP workflows and its strategic integration of LangGraph and LangSmith, hosted on [LangGraph Platform](https://langchain-ai.github.io/langgraph/concepts/langgraph_platform/?ref=blog.langchain.com).
 
@@ -208,4 +208,4 @@ Captide 不仅正在变革金融分析师的工作方式，更在为整个行业
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

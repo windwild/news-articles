@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Geist Pixel is a bitmap-inspired typeface built on the same foundations as Geist and Geist Mono, reinterpreted through a strict pixel grid. It’s precise, intentional, and unapologetically digital."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 6, 2026
 
@@ -245,4 +245,4 @@ And we're not stopping here. Geist Serif is already in progress. Same system thi
 None of this would have been possible without an incredible group of people behind the scenes. Huge thanks to [Andrés Briganti](https://x.com/ambriganti) for the obsessive level of craft and care poured into the design of the font itself, and to [Guido Ferreyra](https://x.com/guidoferreyra) for his support refining and tuning the font along the way; to [Luis Gutierrez Rico](https://x.com/luisgurico) for bringing Geist Pixel to life through motion and subtle magic; to [Christopher Kindl](https://x.com/kindlaar) for helping us put together the landing page and obsessing over those small details that make everything feel just right; to [Marijana Pavlinić](https://x.com/marijanapav) for constantly pushing us with bold, unexpected, and wildly creative ideas; and to [Zahra Jabini](https://x.com/ZeeJab) for the coordination, technical support, and for making sure all the pieces actually came together. This was a true team effort, and I'm incredibly grateful to have built this with all of you.
 
 若无幕后一群非凡人士的鼎力支持，这一切都不可能实现。衷心感谢 [Andrés Briganti](https://x.com/ambriganti)，他以近乎偏执的专注与匠心倾注于字体本身的创作；感谢 [Guido Ferreyra](https://x.com/guidoferreyra) 在字体打磨与调优过程中给予的持续支持；感谢 [Luis Gutierrez Rico](https://x.com/luisgurico)，以精妙的动效与细腻的“魔法”赋予 Geist Pixel 生命；感谢 [Christopher Kindl](https://x.com/kindlaar)，协助我们打造落地页，并执着于那些让整体体验恰到好处的细微之处；感谢 [Marijana Pavlinić](https://x.com/marijanapav)，始终以大胆、出人意料且极具爆发力的创意不断推动我们前行；也感谢 [Zahra Jabini](https://x.com/ZeeJab)，在项目统筹、技术支援以及确保所有环节真正协同落地等方面所付出的关键努力。这是一次真正的团队协作，能与各位共同完成这项工作，我深感荣幸与感激。
-{% endraw %}
+&#123;% endraw %}

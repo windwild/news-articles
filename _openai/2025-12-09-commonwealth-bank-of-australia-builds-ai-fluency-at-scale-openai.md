@@ -9,7 +9,7 @@ translated: true
 description: "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 9, 2025
 
@@ -64,4 +64,4 @@ More than 1 million businesses around the world are achieving meaningful results
 [Contact our team](https://openai.com/contact-sales/)
 
 [联系我们的团队](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

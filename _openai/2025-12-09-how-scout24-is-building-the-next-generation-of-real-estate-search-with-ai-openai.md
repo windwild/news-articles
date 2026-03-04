@@ -9,7 +9,7 @@ translated: true
 description: "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 9, 2025
 
@@ -120,4 +120,4 @@ More than 1 million businesses around the world are achieving meaningful results
 [Contact our team](https://openai.com/contact-sales/)  
 
 [联系我们的团队](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

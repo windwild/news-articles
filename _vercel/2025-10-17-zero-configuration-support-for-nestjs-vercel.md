@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now detects and deploys NestJS, a framework for building efficient, scalable Node.js server-side applications, with zero configuration."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 17, 2025
 
@@ -84,4 +84,4 @@ A "Hello World" NestJS app on Vercel
 在 Vercel 上运行的后端默认使用 [Fluid compute](https://vercel.com/fluid) 及其 [Active CPU pricing](https://vercel.com/blog/introducing-active-cpu-pricing-for-fluid-compute) 模式。这意味着您的 NestJS 应用将根据流量自动扩缩容，您只需为实际使用的资源付费。
 
 [在 Vercel 上部署 NestJS](https://vercel.com/templates/backend/nestjs-on-vercel) 或访问 [NestJS on Vercel 文档](https://vercel.com/docs/frameworks/backend/nestjs)
-{% endraw %}
+&#123;% endraw %}

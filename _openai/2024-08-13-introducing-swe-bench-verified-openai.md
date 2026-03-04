@@ -9,7 +9,7 @@ translated: false
 description: "We’re releasing a human-validated subset of SWE-bench that more reliably evaluates AI models’ ability to solve real-world software issues."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 13, 2024
 
@@ -316,4 +316,4 @@ SWE-bench Verified is available for download [here⁠(opens in a new window)](ht
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
-{% endraw %}
+&#123;% endraw %}

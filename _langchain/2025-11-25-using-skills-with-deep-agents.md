@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:17:32.014974418+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 tl;dr: Anthropic 最近提出了 [agent skills（智能体技能）](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills?ref=blog.langchain.com) 的概念。所谓“技能”，本质上就是包含一个 [SKILL.md](http://skill.md/?ref=blog.langchain.com) 文件及任何相关文件（例如文档或脚本）的文件夹；智能体可动态发现并加载这些技能，从而在特定任务上表现更优。**我们已在 [deepagents-CLI](https://github.com/langchain-ai/deepagents/tree/master/libs/deepagents-cli?ref=blog.langchain.com) 中添加了对技能的支持**。
 
@@ -82,4 +82,4 @@ These skills are default loaded into the deepagent CLI at startup, and you can s
 When you give deepagents requests related to any of the skills, it will automatically read the relevant [`SKILL.md`](http://skill.md/?ref=blog.langchain.com) file execute the skill. For a complete overview of skills, see our video here and see the [README](https://github.com/langchain-ai/deepagents/tree/master/libs/deepagents-cli?ref=blog.langchain.com#skills).
 
 当你向 deepagents 发出与任一技能相关的请求时，它将自动读取相应的 [`SKILL.md`](http://skill.md/?ref=blog.langchain.com) 文件并执行该技能。如需全面了解所有技能，请观看我们的视频，并参阅 [README](https://github.com/langchain-ai/deepagents/tree/master/libs/deepagents-cli?ref=blog.langchain.com#skills)。
-{% endraw %}
+&#123;% endraw %}

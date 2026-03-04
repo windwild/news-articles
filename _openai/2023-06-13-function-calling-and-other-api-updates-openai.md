@@ -9,7 +9,7 @@ translated: false
 description: "We’re announcing updates including more steerable API models, function calling capabilities, longer context, and lower prices."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 13, 2023
 
@@ -242,4 +242,4 @@ Developer feedback is a cornerstone of our platform’s evolution and we will co
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

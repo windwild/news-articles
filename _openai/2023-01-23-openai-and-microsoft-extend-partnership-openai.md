@@ -9,7 +9,7 @@ translated: false
 description: "We’re happy to announce that OpenAI and Microsoft are extending our partnership."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 23, 2023
 
@@ -60,4 +60,4 @@ CompanyMar 8, 2024](https://openai.com/index/openai-announces-new-members-to-boa
 CompanyMar 8, 2024](https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai/)
 
 OpenAI and Microsoft extend partnership \| OpenAI
-{% endraw %}
+&#123;% endraw %}

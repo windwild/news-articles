@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "BotID Deep Analysis is a sophisticated, invisible bot detection product. This article is about how BotID Deep Analysis adapted to a novel attack in real time, and successfully classified sessions that..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 31, 2025
 
@@ -121,4 +121,4 @@ Get started](https://vercel.com/docs/botid/get-started)
 在高级机器人抵达您最关键的业务路径（如登录页、结算页、AI 智能体及 API 接口）之前，即刻识别并拦截它们。部署简易，难以绕过。\\
 \\
 立即开始](https://vercel.com/docs/botid/get-started)
-{% endraw %}
+&#123;% endraw %}

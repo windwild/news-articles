@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Build, scale, and orchestrate AI backends on Vercel. Deploy Python or Node frameworks with zero config and optimized compute for agents and workflows."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 23, 2025
 
@@ -183,4 +183,4 @@ Every backend deployed on Vercel runs on the same orchestration, compute, and st
 From real-time APIs to long-running background agents, you can build, test, and deploy every part of your application on Vercel.
 
 无论是实时 API 还是长期运行的后台智能体（background agents），您均可在 Vercel 上完成应用各部分的构建、测试与部署。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 **_This is a bit of a longer post. It's a deep dive on question-answering over tabular data. We discuss (and use) CSV data in this post, but a lot of the same ideas apply to SQL data. It covers:_**
 
@@ -532,4 +532,4 @@ We've open-sourced everything - the app we used to gather feedback, the dataset,
 [**LangGraph 平台进入 Beta 测试阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 分钟阅读
-{% endraw %}
+&#123;% endraw %}

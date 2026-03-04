@@ -9,7 +9,7 @@ translated: false
 description: "Filmmaking duo Vallée Duhamel explains how Sora helps build new worlds."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 9, 2024
 
@@ -24,4 +24,4 @@ December 9, 2024
 Vallée Duhamel, Artists
 
 Vallée Duhamel & Sora \| OpenAI
-{% endraw %}
+&#123;% endraw %}

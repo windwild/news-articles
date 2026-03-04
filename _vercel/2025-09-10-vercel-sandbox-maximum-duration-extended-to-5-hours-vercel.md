@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Pro and Enterprise teams can now run Vercel Sandboxes for up to 5 hours (up from 45 minutes).  This extension unlocks new possibilities for workloads that require longer runtimes"
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 10, 2025
 
@@ -29,4 +29,4 @@ const sandbox = await Sandbox.create({
 ```
 
 [立即开始使用 Sandbox](https://vercel.com/docs/vercel-sandbox#getting-started)，并在 [文档](https://vercel.com/docs/vercel-sandbox) 中了解更多信息。
-{% endraw %}
+&#123;% endraw %}

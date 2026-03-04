@@ -9,7 +9,7 @@ translated: false
 description: "We’ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually. This may explain CLIP’s accuracy in classifying surprising visual rend..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 4, 2021
 
@@ -896,4 +896,4 @@ Note that the released CLIP models are intended strictly for research purposes. 
 
 22. 22
     Crawford, K. & Paglen, T. (2019). [Excavating AI: the politics of images in machine learning training sets⁠(opens in a new window)](https://excavating.ai/). _Excavating AI_.
-{% endraw %}
+&#123;% endraw %}

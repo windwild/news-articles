@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn about how we're further improving startup performance for large applications."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 3, 2024
 
@@ -90,4 +90,4 @@ You can opt-in by adding the following Environment Variable in your project's se
 [Learn more about Vercel Functions](https://vercel.com/docs/functions) or get started [building your first application](https://vercel.com/templates).
 
 [深入了解 Vercel Functions](https://vercel.com/docs/functions)，或立即开始 [构建您的首个应用](https://vercel.com/templates)。
-{% endraw %}
+&#123;% endraw %}

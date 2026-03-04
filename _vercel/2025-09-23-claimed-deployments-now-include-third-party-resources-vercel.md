@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports transferring resources like databases between teams as part of the Claim Deployments flow. Developers building AI agents, no-code tools, and workflow apps can instantly deploy proj..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 23, 2025
 
@@ -37,4 +37,4 @@ AI 平台、编程工具和工作流应用现在可在 Vercel 上创建项目，
 欢迎体验我们的 [认领部署实时演示](https://claim-deployments-demo-with-resource.vercel.app/)，并查阅相关[文档](https://vercel.com/docs/deployments/claim-deployments) 以了解详情。
 
 欢迎体验我们的 [认领部署实时演示](https://claim-deployments-demo-with-resource.vercel.app/)，并查阅相关[文档](https://vercel.com/docs/deployments/claim-deployments) 以了解详情。
-{% endraw %}
+&#123;% endraw %}

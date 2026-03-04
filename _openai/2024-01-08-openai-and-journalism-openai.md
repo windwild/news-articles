@@ -9,7 +9,7 @@ translated: false
 description: "We support journalism, partner with news organizations, and believe The New York Times lawsuit is without merit."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 8, 2024
 
@@ -78,4 +78,4 @@ We look forward to continued collaboration with news organizations, helping elev
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

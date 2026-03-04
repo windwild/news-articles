@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Teams using microfrontends can now visit all routes from any domain in the microfrontends group, enabling teams to test their full site experience without broken links or missing pages."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 21, 2025
 
@@ -45,4 +45,4 @@ This feature is enabled by default for all new microfrontends, and will be rolli
 [Learn more](https://vercel.com/docs/microfrontends/path-routing#microfrontends-domain-routing) or [get started with microfrontends](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fmicrofrontends) today.
 
 [了解详情](https://vercel.com/docs/microfrontends/path-routing#microfrontends-domain-routing)，或立即 [开始使用微前端](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fmicrofrontends)。
-{% endraw %}
+&#123;% endraw %}

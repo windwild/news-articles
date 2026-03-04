@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 28, 2023
 
@@ -29,4 +29,4 @@ Based on your feedback, rather than pausing a deployment when exceeding the incl
 [Check out our documentation](https://vercel.com/docs/image-optimization/limits-and-pricing) to learn more.  
 
 [查阅我们的文档](https://vercel.com/docs/image-optimization/limits-and-pricing)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

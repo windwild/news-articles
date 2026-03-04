@@ -9,7 +9,7 @@ translated: true
 description: "See how Captide is using LangGraph Platform and LangSmith for their investment research and equity modeling agents."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [Captide](https://www.captide.ai/?ref=blog.langchain.com) is reshaping how financial institutions build with AI, offering a full-stack platform that makes it easy to deploy multi-agent systems, embed intelligence across financial workflows, and extract insights from millions of corporate filings—without the overhead of building and managing complex RAG infrastructure.
 
@@ -166,4 +166,4 @@ Captide 将具身智能（agentic AI）的全部潜力，直接交付至金融�
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

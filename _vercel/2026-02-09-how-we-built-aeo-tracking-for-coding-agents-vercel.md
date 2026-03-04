@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how we built an AI Engine Optimization system to track coding agents using Vercel Sandbox, AI Gateway, and Workflows for isolated execution."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 9, 2026
 
@@ -678,4 +678,4 @@ export async function probeTopicWorkflow(topicId: string) {
 - **Scaling agent coverage.** Adding more agents as the ecosystem grows and expanding the types of prompts we test (not just "recommend a tool" but full project scaffolding, debugging, etc.).
 
 - **扩大智能体覆盖范围。** 随着生态系统的持续演进，我们将接入更多智能体；同时拓展所测试提示词的类型——不仅限于“推荐一个工具”，还将涵盖完整的项目脚手架搭建、代码调试等复杂场景。
-{% endraw %}
+&#123;% endraw %}

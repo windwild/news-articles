@@ -9,7 +9,7 @@ translated: false
 description: "We have partnered with international news organizations Le Monde and Prisa Media to bring French and Spanish news content to ChatGPT."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 13, 2024
 
@@ -48,4 +48,4 @@ Our partnerships with Le Monde and Prisa Media, as well as Axel Springer, help e
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

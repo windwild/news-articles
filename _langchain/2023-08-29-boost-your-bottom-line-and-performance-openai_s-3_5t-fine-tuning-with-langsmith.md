@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:48:29.382023062+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This post was written in collaboration with_ Author _Ryan Brandt from_ _the [ChatOpenSource.com](http://chatopensource.com/?ref=blog.langchain.com) team. It's a detailed look at how fine-tuning can meaningfully improve model performance. And how [LangSmith](https://www.langchain.com/langsmith?ref=blog.langchain.com) \+ LangChain can help you experiment with different models and measure and compare results._
 
@@ -194,4 +194,4 @@ Fine-tuning is not just an option but a strategic necessity for organizations se
 At [ChatOpenSource.com](http://chatopensource.com/?ref=blog.langchain.com) we’re the go-to experts in fine-tuning both OpenAI and open-source models like **`llaama-2`**. Don’t let the AI revolution leave your organization in the dust. We’re experts in customizing high-performance, open-source AI models to fit your data—all at a fraction of the cost of building an in-house ML team. Stay ahead of the curve with [www.ChatOpenSource.com](http://www.chatopensource.com/?ref=blog.langchain.com).
 
 在 [ChatOpenSource.com](http://chatopensource.com/?ref=blog.langchain.com) ，我们是微调 OpenAI 模型及开源模型（如 **`llama-2`**）的首选专家。切莫让 AI 革命将您的组织甩在身后。我们专精于根据您的数据，定制高性能开源 AI 模型——成本仅为自建机器学习团队的零头。立即访问 [www.ChatOpenSource.com](http://www.chatopensource.com/?ref=blog.langchain.com)，抢占技术先机！
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how we approached migrating the BBC's large, open-source React application to Next.js and Vercel to see both developer and user experience benefits."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 8, 2022
 
@@ -449,4 +449,4 @@ This freedom allows you to focus on your product and customers instead of applic
 We hope this has given you and your team an idea of how how to approach such a conversion of your own custom React setup. And BBC, if you’re interested in seeing this through, please [reach out and let us know](https://vercel.com/contact/sales).
 
 我们希望本文能为您及您的团队提供一套切实可行的思路，助您顺利完成自有 React 技术栈的现代化迁移。BBC 各位同仁，若您有意推进此项工作，请随时[联系我们](https://vercel.com/contact/sales)。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 29, 2025
 
@@ -154,4 +154,4 @@ The contract data Agent is a blueprint for how AI can responsibly transform regu
 [Talk with our team](https://openai.com/contact-sales/)
 
 [与我们的团队交流](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

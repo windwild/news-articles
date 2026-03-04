@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 21, 2024
 
@@ -31,4 +31,4 @@ The new OPTIONS Allowlist feature is available on all plans.
 Learn more about the [OPTIONS Allowlist](https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/options-allowlist).
 
 了解更多关于 [OPTIONS 白名单](https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/options-allowlist) 的信息。
-{% endraw %}
+&#123;% endraw %}

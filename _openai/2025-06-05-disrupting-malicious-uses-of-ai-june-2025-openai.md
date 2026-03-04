@@ -9,7 +9,7 @@ translated: false
 description: "In our June 2025 update, we outline how we’re disrupting malicious uses of AI—through safety tools that detect and counter abuse, support democratic values, and promote responsible AI deployment f..."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 5, 2025
 
@@ -33,4 +33,4 @@ It also includes _using_ AI to develop groundbreaking new tools for those who de
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
-{% endraw %}
+&#123;% endraw %}

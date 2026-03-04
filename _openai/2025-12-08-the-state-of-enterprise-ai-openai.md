@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 8, 2025
 
@@ -91,4 +91,4 @@ We encourage executives, operators, and builders to read the report and engage w
 If you’d like to explore the full findings or learn how to bring AI into your organization responsibly, [we’d love to connect⁠](https://openai.com/contact-sales/?utm_medium=content&utm_source=website&utm_campaign=CNT-The_State_of_Enterprise_AI_Report&utm_internal_medium=cta&utm_internal_source=enterprise).
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

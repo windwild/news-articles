@@ -9,7 +9,7 @@ translated: false
 description: "Get enterprise-grade security & privacy and the most powerful version of ChatGPT yet."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 28, 2023
 
@@ -94,4 +94,4 @@ We’re onboarding as many enterprises as we can over the next few weeks. [Learn
 
 1. A
 The 80% statistic refers to the percentage of Fortune 500 companies with registered ChatGPT accounts, as determined by accounts associated with corporate email domains.
-{% endraw %}
+&#123;% endraw %}

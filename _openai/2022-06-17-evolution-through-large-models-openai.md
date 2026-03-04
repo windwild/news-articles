@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 17, 2022
 
@@ -32,4 +32,4 @@ This paper pursues the insight that large language models (LLMs) trained to gene
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
-{% endraw %}
+&#123;% endraw %}

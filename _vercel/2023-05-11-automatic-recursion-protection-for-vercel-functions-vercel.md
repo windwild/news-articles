@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now has automatic recursion protection for Vercel Functions. This provides safety against your code inadvertently triggering itself repeatedly, incurring unintentional usage."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 11, 2023
 
@@ -31,4 +31,4 @@ Recursion protection is available free on all plans. It does not require any cod
 We’re continuing to invest in platform improvements to help developers [understand and monitor usage](https://vercel.com/changelog/usage-notification-settings-is-now-generally-available) and avoid unintended usage on the Vercel platform.
 
 我们正持续投入平台优化，助力开发者更好地[理解与监控资源用量](https://vercel.com/changelog/usage-notification-settings-is-now-generally-available)，从而避免在 Vercel 平台上产生非预期的资源消耗。
-{% endraw %}
+&#123;% endraw %}

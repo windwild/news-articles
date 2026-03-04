@@ -9,7 +9,7 @@ translated: false
 description: "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 8, 2025
 
@@ -92,4 +92,4 @@ Second, start with outcomes, not technology. Too many organizations lead with th
 Finally, balance ambition with governance. As CFOs, our role is to manage risk—but also to unlock opportunity. We’ve built clear policies around data privacy, model usage, and access control so our people can innovate confidently. Get those foundations right, and you’ll see the value multiply.
 
 _Virgin Atlantic uses ChatGPT Enterprise and Codex across its operations, and leverages OpenAI’s realtime voice API for its voice-powered digital travel concierge._
-{% endraw %}
+&#123;% endraw %}

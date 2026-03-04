@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Today we’re excited to announce and showcase an open source chatbot specifically geared toward answering questions about LangChain’s documentation.
 
@@ -368,4 +368,4 @@ If you like this and want a more advanced version of this for your codebase, you
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

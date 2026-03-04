@@ -9,7 +9,7 @@ translated: false
 description: "Publishers representing hundreds of newsrooms and content brands are using OpenAI partnerships and grant programs to adopt AI tools and strengthen the news ecosystem, while ChatGPT users gain access t..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 15, 2025
 
@@ -79,4 +79,4 @@ We are excited to continue working closely with publishers, editors, journalists
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Over 300 applications are delivering GPT-3–powered search, conversation, text completion, and other advanced AI features through our API."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 25, 2021
 
@@ -113,4 +113,4 @@ _If you are interested in joining our Applied AI team, who focus on bringing Ope
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2021](https://openai.com/news/?tags=2021)
-{% endraw %}
+&#123;% endraw %}

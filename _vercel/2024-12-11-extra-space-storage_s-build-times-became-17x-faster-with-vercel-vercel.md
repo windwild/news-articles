@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Extra Space Storage cut build times by 95% after migrating to Next.js on Vercel.   See how features like Incremental Static Regeneration and per-branch environments enable faster and more confident re..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 11, 2024
 
@@ -157,4 +157,4 @@ Nov 21, 2023
 Alice Alexandra Moore
 
 爱丽丝·亚历山德拉·摩尔
-{% endraw %}
+&#123;% endraw %}

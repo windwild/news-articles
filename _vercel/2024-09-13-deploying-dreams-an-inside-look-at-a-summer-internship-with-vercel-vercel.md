@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "What's an internship like at Vercel? Hear firsthand from one of Vercel's summer interns what the process was like, what they worked on, and what they learned."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 13, 2024
 
@@ -259,4 +259,4 @@ My advice? Build up your experience bank. The process of taking an idea from _ze
 Spend time investing in yourself. Build that idea you’ve been sitting on. You never know where it’ll take you.
 
 花时间投资自己。把你一直搁置在脑海中的那个点子付诸实践吧。你永远无法预知它将带你走向何方。
-{% endraw %}
+&#123;% endraw %}

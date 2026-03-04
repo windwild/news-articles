@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Functions now supports the Bun runtime, giving developers faster performance options and greater flexibility for optimizing JavaScript workloads."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 28, 2025
 
@@ -236,4 +236,4 @@ Deploy with Bun](https://vercel.com/changelog/bun-runtime-now-in-public-beta-for
 仅需一次配置更改，即可在 Node.js 与 Bun 之间自由切换。当前处于公开测试阶段（Public Beta）。\\
 \\
 使用 Bun 部署](https://vercel.com/changelog/bun-runtime-now-in-public-beta-for-vercel-functions)
-{% endraw %}
+&#123;% endraw %}

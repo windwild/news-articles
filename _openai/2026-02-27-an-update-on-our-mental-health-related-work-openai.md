@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 27, 2026
 
@@ -94,4 +94,4 @@ More information about our safety work can be found here:
 
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)  
 - [用户安全与控制](https://openai.com/news/?tags=user-safety)
-{% endraw %}
+&#123;% endraw %}

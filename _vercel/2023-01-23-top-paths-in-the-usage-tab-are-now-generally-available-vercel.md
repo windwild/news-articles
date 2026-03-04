@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 23, 2023
 
@@ -23,4 +23,4 @@ Jan 23, 2023
 我们正持续提升 Vercel 上项目的可观测性（observability），此次更新进一步增强了对资源使用情况的可见性。这延续了此前 [监控功能（Monitoring）](https://vercel.com/docs/concepts/dashboard-features/monitoring) 和 [改进的日志功能（Improved Logs）](https://vercel.com/changelog/improved-logs-available-as-public-beta-for-enterprise-teams) 的发布——这两项功能目前已面向 Enterprise 团队正式开放。
 
 请查阅我们的[文档](https://vercel.com/docs/concepts/limits/usage#top-paths)，了解更多详情。
-{% endraw %}
+&#123;% endraw %}

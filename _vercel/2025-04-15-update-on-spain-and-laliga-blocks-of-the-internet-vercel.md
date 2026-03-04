@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A Spanish court has empowered LALIGA to block entire IP addresses tied to unauthorized football streams—causing legitimate websites hosted on Vercel to become inaccessible in Spain."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 15, 2025
 
@@ -94,4 +94,4 @@ We remain committed to providing fast, secure infrastructure for modern web appl
 We’re exploring mitigation strategies to restore access for Spanish users and continue to advocate for an open and permissionless web. If you are impacted by this, please don’t hesitate to [join the open discussion](https://community.vercel.com/t/ip-address-block-in-spain/8795), contact support, or reach out to your CSM.
 
 我们正在探索缓解措施，以恢复西班牙用户对服务的访问，并持续倡导一个开放、无需许可的 Web。若您因此受到影响，请随时[加入公开讨论](https://community.vercel.com/t/ip-address-block-in-spain/8795)，联系技术支持，或联系您的客户成功经理（CSM）。
-{% endraw %}
+&#123;% endraw %}

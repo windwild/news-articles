@@ -9,7 +9,7 @@ translated: false
 description: "Adversarial examples are inputs to machine learning models that an attacker has intentionally designed to cause the model to make a mistake; they’re like optical illusions for machines. In this post..."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 24, 2017
 
@@ -101,4 +101,4 @@ Adversarial examples show that many modern machine learning algorithms can be br
 To learn more about machine learning security, follow Ian and Nicolas’s machine learning security blog [cleverhans.io⁠(opens in a new window)](http://cleverhans.io/).
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
-{% endraw %}
+&#123;% endraw %}

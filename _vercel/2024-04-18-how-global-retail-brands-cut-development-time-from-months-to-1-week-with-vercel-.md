@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how GRB, one of Australia's fastest-growing retailers, improved site uptime, development time, and overall developer experience with Vercel."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 18, 2024
 
@@ -161,4 +161,4 @@ Break free from the monolith. Learn how the Vercel stack can accelerate your dig
 \\
 摆脱单体架构的束缚。了解 Vercel 技术栈如何加速您的数字化成功。\\
 \\
-{% endraw %}
+&#123;% endraw %}

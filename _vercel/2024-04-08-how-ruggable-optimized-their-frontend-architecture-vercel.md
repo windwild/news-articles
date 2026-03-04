@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Ruggable improved organic search traffic by 300% by migrating their ecommerce storefront from a Shopify monolith to a headless solution on Next.js and Vercel."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 8, 2024
 
@@ -173,4 +173,4 @@ If you need expert guidance on your exact codebase, our experts can help you pla
 
 [Contact Us](https://vercel.com/solutions/composable-commerce/migration)  
 [联系我们](https://vercel.com/solutions/composable-commerce/migration)
-{% endraw %}
+&#123;% endraw %}

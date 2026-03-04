@@ -9,7 +9,7 @@ translated: true
 description: "Learn how Dun & Bradstreet, a leading financial data analytics company, empowers global clients with business data — from credit risk to ownership structures — to make better decisions using thei..."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [Dun & Bradstreet (D&B)](https://www.dnb.com/?ref=blog.langchain.com)，作为全球商业决策数据与分析领域的领军企业，通过提供值得信赖、精心筛选的数据与分析能力，助力企业解决关键业务难题，从而推动明智决策并提升业务成效。D&B 服务遍及全球 200 多个国家/地区的逾 24 万家客户，其“数据云”（Data Cloud）为各类解决方案提供动力，助力企业增加营收、降低成本、管控风险，并实现业务转型。
 
@@ -154,4 +154,4 @@ The Dun & Bradstreet team is also excited about its ongoing collaboration with L
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长 4 分钟
-{% endraw %}
+&#123;% endraw %}

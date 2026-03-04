@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 4, 2021
 
@@ -66,4 +66,4 @@ The exact version used is 14.15.4 ( [changelog](https://github.com/nodejs/node/b
 Check out [the documentation](https://vercel.com/docs/runtimes#official-runtimes/node-js/node-js-version) as well.
 
 也请参阅 [相关文档](https://vercel.com/docs/runtimes#official-runtimes/node-js/node-js-version)。
-{% endraw %}
+&#123;% endraw %}

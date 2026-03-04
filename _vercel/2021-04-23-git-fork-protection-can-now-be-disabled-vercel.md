@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 23, 2021
 
@@ -33,4 +33,4 @@ If you're certain your Environment Variables do not contain sensitive informatio
 Check out [the documentation](https://vercel.com/docs/platform/projects#git-fork-protection) as well.
 
 也欢迎查阅 [相关文档](https://vercel.com/docs/platform/projects#git-fork-protection)。
-{% endraw %}
+&#123;% endraw %}

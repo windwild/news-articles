@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Protect high-value endpoints like checkout, login, and AI APIs with Vercel BotID 1.4.3, now with universal JavaScript support. Use initBotId() in SvelteKit, Nuxt, and more to stop the more sophisticat..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 22, 2025
 
@@ -69,4 +69,4 @@ We recommend using `initBotId()` in `instrumentation-client.ts` for better perfo
 Check out the [updated documentation](https://vercel.com/docs/botid) for setup instructions across all supported frameworks.
 
 请查阅 [最新文档](https://vercel.com/docs/botid)，了解所有受支持框架的配置说明。
-{% endraw %}
+&#123;% endraw %}

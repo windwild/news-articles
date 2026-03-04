@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "CORE"
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 18, 2023
 
@@ -71,4 +71,4 @@ Contact Sales](https://vercel.com/contact/sales)
 开启构建更简洁、企业级的技术栈之旅。\\
 \\
 联系销售团队](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

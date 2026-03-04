@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 4, 2024
 
@@ -25,4 +25,4 @@ Dec 4, 2024
 以上功能自今日起面向所有套餐开放使用。
 
 进一步了解 [Vercel 如何处理请求](https://vercel.com/blog/life-of-a-vercel-request-what-happens-when-a-user-presses-enter)。
-{% endraw %}
+&#123;% endraw %}

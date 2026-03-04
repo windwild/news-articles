@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:02:37.826014947+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Azure Container Apps dynamic sessions provide a secure, low-latency, reliable Python REPL API. With the new dynamic sessions LangChain integration, you can safely give your LangChain chains and agents the ability to write and execute Python code.
 
@@ -185,4 +185,4 @@ Code executing tools are indispensable for data analysis and software engineerin
 Head to the [LangChain docs](https://python.langchain.com/v0.2/docs/integrations/tools/azure_dynamic_sessions/?ref=blog.langchain.com) to get started!
 
 请前往 [LangChain 官方文档](https://python.langchain.com/v0.2/docs/integrations/tools/azure_dynamic_sessions/?ref=blog.langchain.com) 开始使用！
-{% endraw %}
+&#123;% endraw %}

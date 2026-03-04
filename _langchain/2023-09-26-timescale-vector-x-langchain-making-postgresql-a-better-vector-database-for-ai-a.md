@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:41:11.182688689+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This post was written in collaboration with the Timescale Vector team. Their integration with LangChain supports PostgreSQL as your vector database for faster similarity search, time-based context retrieval for RAG, and self-querying capabilities. And they're [offering a free 90 day trial!](https://console.cloud.timescale.com/signup?utm_campaign=vectorlaunch&utm_source=langchain&utm_medium=referral)_
 
@@ -756,4 +756,4 @@ Now that you’ve learned how Timescale Vector can help you power AI application
 Timescale is giving LangChain users an extended 90-day trial of Timescale Vector. This makes it easy to test and develop your applications with Timescale Vector, as you won’t be charged for any cloud PostgreSQL databases you spin up during your trial period. [Try Timescale Vector for free today](https://console.cloud.timescale.com/signup?utm_campaign=vectorlaunch&utm_source=langchain&utm_medium=referral).
 
 Timescale 正为 LangChain 用户提供长达 90 天的 Timescale Vector 免费试用期。在此试用期内，您创建的任意云 PostgreSQL 数据库均不产生费用，让您能够轻松开展 Timescale Vector 的测试与应用开发工作。[立即免费试用 Timescale Vector](https://console.cloud.timescale.com/signup?utm_campaign=vectorlaunch&utm_source=langchain&utm_medium=referral)。
-{% endraw %}
+&#123;% endraw %}

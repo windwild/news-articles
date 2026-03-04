@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavio..."
 ---
-{% raw %}
+&#123;% raw %}
 
 November 13, 2025
 
@@ -89,4 +89,4 @@ Note that our findings here are no guarantee that this approach will extend to m
 - [2025](https://openai.com/news/?tags=2025)
 - [Ethics & Safety](https://openai.com/news/?tags=ethics-safety)
 - [Transformers](https://openai.com/news/?tags=transformers)
-{% endraw %}
+&#123;% endraw %}

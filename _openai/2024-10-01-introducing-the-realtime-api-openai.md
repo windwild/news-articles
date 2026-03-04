@@ -9,7 +9,7 @@ translated: false
 description: "Developers can now build fast speech-to-speech experiences into their applications"
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 1, 2024
 
@@ -97,4 +97,4 @@ We're looking forward to seeing how developers leverage these new capabilities t
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

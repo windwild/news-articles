@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO of Applications, Fidji Simo, following the acquisition of Statsig."
 ---
-{% raw %}
+&#123;% raw %}
 
 September 2, 2025
 
@@ -46,4 +46,4 @@ Once the acquisition is finalized, Statsig employees will become OpenAI employee
 _The closing of the acquisition is subject to customary closing conditions, including receipt of regulatory approval._
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

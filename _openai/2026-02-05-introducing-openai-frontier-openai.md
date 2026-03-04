@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 5, 2026
 
@@ -235,4 +235,4 @@ Frontier is available today to a limited set of customers, with broader availabi
 Frontier 当前已面向少量客户开放，未来数月内将逐步扩大可用范围。如您希望探讨与我们合作的可能性，请联系您的 OpenAI 团队。
 
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

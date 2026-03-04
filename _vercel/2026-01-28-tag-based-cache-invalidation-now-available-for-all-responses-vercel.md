@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Cached responses can now assign a comma separated list of cache tags using the Vercel-Cache-Tag header. We recommend using the Vercel-Cache-Tag header for caching with external backends or for framewo..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 28, 2026
 
@@ -31,4 +31,4 @@ Vercel 的 CDN 现已支持基于标签的缓存失效（tag-based cache invalid
 Vercel 的 CDN 会读取 `Vercel-Cache-Tag` 头，并在将响应发送至客户端前将其移除。若您通过 [重写（rewrites）](https://vercel.com/docs/rewrites) 将父 [项目](https://vercel.com/docs/projects) 的请求转发至子项目，且这两个项目同属于一个 [团队（team）](https://vercel.com/docs/accounts)，则父项目中缓存的响应也将自动包含子项目所指定的对应缓存标签。
 
 该功能自今日起已在所有套餐中免费提供，不收取额外费用。欲了解详情，请参阅 [缓存失效文档](https://vercel.com/docs/cdn-cache/purge)。
-{% endraw %}
+&#123;% endraw %}

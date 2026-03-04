@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We partnered with Biome to push their noFloatingPromises lint rule to the limit, uncovering edge cases and showing how we solve hard problems together."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 4, 2025
 
@@ -641,4 +641,4 @@ Our engineers care deeply about improving the developer experience, building fas
 If that sounds like you, we’d love to work together. [Explore open roles at Vercel](https://vercel.com/careers).
 
 如果你也认同这样的理念，我们诚挚期待与你共事。[浏览 Vercel 当前开放职位](https://vercel.com/careers)。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to..."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 16, 2025
 
@@ -312,4 +312,4 @@ The new [ChatGPT Images⁠(opens in a new window)](http://chatgpt.com/images?ope
 We believe we’re still at the beginning of what image generation can enable. Today’s update is a meaningful step forward with more to come, from finer-grained edits to richer, more detailed outputs across languages.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

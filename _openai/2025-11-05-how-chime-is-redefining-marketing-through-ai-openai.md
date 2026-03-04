@@ -9,7 +9,7 @@ translated: false
 description: "Vineet Mehra, Chief Marketing Officer at Chime, shares how AI is reshaping marketing into an agent-driven discipline. He explains why CMOs who champion AI literacy and thoughtful adoption will lead in..."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 5, 2025
 
@@ -83,4 +83,4 @@ _OpenAI supports 1 million business customers around the world—the fastest-gro
 More than 1 million businesses around the world are achieving meaningful results with OpenAI.
 
 [Contact our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

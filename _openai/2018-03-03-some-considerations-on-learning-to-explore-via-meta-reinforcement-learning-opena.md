@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 3, 2018
 
@@ -26,4 +26,4 @@ March 3, 2018
 We consider the problem of exploration in meta reinforcement learning. Two new meta reinforcement learning algorithms are suggested: E-MAML and E-RL². Results are presented on a novel environment we call "Krazy World" and a set of maze environments. We show E-MAML and E-RL² deliver better performance on tasks where exploration is important.
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

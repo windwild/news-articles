@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 23, 2024
 
@@ -39,4 +39,4 @@ You can now see requests automatically protected by the Firewall, as well as man
 [Learn more](https://vercel.com/docs/security/vercel-waf) about the WAF and available configuration options. [Contact us](https://vercel.com/contact/sales) if you want to try our private beta for rate limiting.
 
 [了解更多](https://vercel.com/docs/security/vercel-waf) 关于 WAF 及其可用配置选项的信息。如需试用限流功能的私有 Beta 版本，请[联系我们](https://vercel.com/contact/sales)。
-{% endraw %}
+&#123;% endraw %}

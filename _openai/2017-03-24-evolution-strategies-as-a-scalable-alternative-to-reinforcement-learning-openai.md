@@ -9,7 +9,7 @@ translated: false
 description: "We’ve discovered that evolution strategies (ES), an optimization technique that’s been known for decades, rivals the performance of standard reinforcement learning (RL) techniques on modern RL ben..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 24, 2017
 
@@ -158,4 +158,4 @@ Our work suggests that neuroevolution approaches can be competitive with reinfor
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
-{% endraw %}
+&#123;% endraw %}

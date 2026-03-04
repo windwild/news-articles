@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "TRAE now integrates with Vercel for one-click deployments and access to hundreds of AI models through a single API key. Available in both SOLO and IDE modes."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 3, 2026
 
@@ -91,4 +91,4 @@ You can switch models with a single configuration change while maintaining unifi
 Get started with [AI Gateway](https://vercel.com/ai-gateway) or explore the [documentation](https://vercel.com/docs/ai-gateway) to learn more.
 
 请开始使用 [AI Gateway](https://vercel.com/ai-gateway)，或查阅 [文档](https://vercel.com/docs/ai-gateway) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

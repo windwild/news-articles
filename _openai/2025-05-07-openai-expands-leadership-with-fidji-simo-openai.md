@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Read the message Sam shared with the company earlier today."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 7, 2025
 
@@ -44,4 +44,4 @@ Fidji’s leadership makes me even more optimistic about our future as we contin
 – Sam
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

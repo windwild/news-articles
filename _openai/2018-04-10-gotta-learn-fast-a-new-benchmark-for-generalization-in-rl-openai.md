@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 10, 2018
 
@@ -27,4 +27,4 @@ In this report, we present a new reinforcement learning (RL) benchmark based on 
 
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

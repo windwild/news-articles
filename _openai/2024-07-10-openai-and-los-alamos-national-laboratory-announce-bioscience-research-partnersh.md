@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI and Los Alamos National Laboratory are working to develop safety evaluations to assess and measure biological capabilities and risks associated with frontier models."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 10, 2024
 
@@ -43,4 +43,4 @@ Los Alamos National Laboratory has been a pioneer in safety research and we look
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
-{% endraw %}
+&#123;% endraw %}

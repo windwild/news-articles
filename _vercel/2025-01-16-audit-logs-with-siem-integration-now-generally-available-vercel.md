@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Track team activity and export audit logs to SIEM tools like Datadog or Splunk. Get up to 90 days of immutable logs for enhanced security and compliance."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 16, 2025
 
@@ -21,4 +21,4 @@ Jan 16, 2025
 企业版客户还可将其现有的安全信息与事件管理（SIEM）工具（例如 Datadog 或 Splunk）配置为[实时审计日志流](https://vercel.com/docs/observability/audit-log#custom-siem-log-streaming)。此外，日志亦可发送至持久化对象存储服务（如 Amazon S3、Google Cloud Storage），或自定义的 HTTP `POST` 端点。
 
 如需了解更多详情，请参阅[审计日志文档](https://vercel.com/docs/observability/audit-log)，或联系您的客户经理。
-{% endraw %}
+&#123;% endraw %}

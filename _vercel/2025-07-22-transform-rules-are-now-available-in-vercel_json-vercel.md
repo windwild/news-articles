@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Transform rules allow you to modify request headers, response headers, and request query parameters through the vercel.json."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 22, 2025
 
@@ -86,4 +86,4 @@ vercel.json
 ```
 
 请参阅[转换规则文档](https://vercel.com/docs/project-configuration#transform-object-definition)，了解详细示例。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 7, 2024
 
@@ -35,4 +35,4 @@ For example, you can have a Marketing Engineering Access Group, which has a defa
 This builds on our advanced access controls, like [project level access controls](https://vercel.com/docs/accounts/team-members-and-roles/access-roles/project-level-roles) and [deployment protection](https://vercel.com/docs/security/deployment-protection). Learn more about [Access Groups](https://vercel.com/docs/accounts/team-members-and-roles/access-groups) or [contact us for a demo](https://vercel.com/contact/sales) of our access security features.
 
 该功能进一步完善了我们已有的高级访问控制能力，例如[项目级访问控制](https://vercel.com/docs/accounts/team-members-and-roles/access-roles/project-level-roles)和[部署保护](https://vercel.com/docs/security/deployment-protection)。了解更多关于[访问组](https://vercel.com/docs/accounts/team-members-and-roles/access-groups)的信息，或[联系我们预约演示](https://vercel.com/contact/sales)，了解我们的访问安全功能。
-{% endraw %}
+&#123;% endraw %}

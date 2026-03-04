@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Observability now includes a dedicated AI section to surface metrics related to the AI Gateway."
 ---
-{% raw %}
+&#123;% raw %}
 
 2025年6月9日
 
@@ -45,4 +45,4 @@ description: "Vercel Observability now includes a dedicated AI section to surfac
 Learn more about [Observability](https://vercel.com/docs/observability).
 
 了解更多关于 [可观测性（Observability）](https://vercel.com/docs/observability) 的信息。
-{% endraw %}
+&#123;% endraw %}

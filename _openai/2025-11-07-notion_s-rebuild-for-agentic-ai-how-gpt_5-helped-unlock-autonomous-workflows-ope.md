@@ -9,7 +9,7 @@ translated: false
 description: "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible pr..."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 7, 2025
 
@@ -88,4 +88,4 @@ Notion’s rebuild wasn’t just about launching Notion 3.0. It was about design
 ## Ready to get started?
 
 [Contact sales](https://openai.com/contact-sales/) [Start building(opens in a new window)](https://platform.openai.com/)
-{% endraw %}
+&#123;% endraw %}

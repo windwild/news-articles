@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 23, 2024
 
@@ -49,4 +49,4 @@ This update lets users on all plans leverage existing feature flag workflows wit
 Check out the [documentation](https://vercel.com/docs/workflow-collaboration/feature-flags/integrate-vercel-platform) to learn more.
 
 请查阅[相关文档](https://vercel.com/docs/workflow-collaboration/feature-flags/integrate-vercel-platform)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

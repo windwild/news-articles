@@ -9,7 +9,7 @@ translated: true
 description: "Learn how monday Service developed an eval-driven development framework for their customer-facing service agents."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 _[This is a guest post from our friends at_ [_Monday.com_](http://monday.com/?ref=blog.langchain.com) _driving eval strategy for their customer-facing AI service agents, led by Gal Ben Arieh (Group Tech Lead). Thank you for your contribution!_
 
@@ -262,7 +262,7 @@ export const conversationAnalysis = new MultiSignalEvaluationPrompt({
   systemPrompt: `You are an expert conversation analyst...`,
   humanPrompt: `Analyze the following conversation:
 <conversation>
-{{{all_messages}}}
+&#123;{{all_messages}}}
 </conversation>`,
 });
 ```
@@ -282,7 +282,7 @@ export const conversationAnalysis = new MultiSignalEvaluationPrompt({
   systemPrompt: `你是一位资深对话分析专家……`,
   humanPrompt: `请分析以下对话：
 <conversation>
-{{{all_messages}}}
+&#123;{{all_messages}}}
 </conversation>`,
 });
 ```
@@ -413,4 +413,4 @@ This gave us the best of both worlds: LangSmith's powerful evaluation infrastruc
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：6 分钟
-{% endraw %}
+&#123;% endraw %}

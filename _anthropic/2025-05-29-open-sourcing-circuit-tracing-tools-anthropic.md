@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 Interpretability
 
@@ -66,4 +66,4 @@ Our CEO Dario Amodei [wrote recently](https://www.darioamodei.com/post/the-urgen
 _The open-source-circuit-finding library was developed by [Anthropic Fellows](https://alignment.anthropic.com/2024/anthropic-fellows-program/) Michael Hanna and Mateusz Piotrowski with mentorship from Emmanuel Ameisen and Jack Lindsey. The Neuronpedia integration was implemented by [Decode Research](https://www.decoderesearch.org/) (Neuronpedia lead: Johnny Lin; Science lead/director: Curt Tigges). Our Gemma graphs are based on transcoders trained as part of the [GemmaScope](https://ai.google.dev/gemma/docs/gemma_scope) project. For questions or feedback, please open an issue on GitHub._
 
 _本开源电路发现（circuit-finding）库由 [Anthropic 研究员计划](https://alignment.anthropic.com/2024/anthropic-fellows-program/) 成员 Michael Hanna 与 Mateusz Piotrowski 主导开发，并在 Emmanuel Ameisen 与 Jack Lindsey 的指导下完成。Neuronpedia 集成工作由 [Decode Research](https://www.decoderesearch.org/) 团队实现（Neuronpedia 项目负责人：Johnny Lin；科研负责人/总监：Curt Tigges）。本项目中的 Gemma 图谱基于 [GemmaScope](https://ai.google.dev/gemma/docs/gemma_scope) 项目训练所得的转码器（transcoder）构建。如有任何问题或建议，欢迎在 GitHub 上提交 Issue。_
-{% endraw %}
+&#123;% endraw %}

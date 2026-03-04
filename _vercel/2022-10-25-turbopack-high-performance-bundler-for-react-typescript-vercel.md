@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing Turbopack, the Rust-based successor to Webpack. A high-performance bundler for React Server Components and TypeScript codebases."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 25, 2022
 
@@ -117,4 +117,4 @@ We couldn’t be more excited about the future of the Turbo ecosystem, as we pus
 Explore the [Turbopack alpha](https://turbo.build/pack) in Next.js 13 today.
 
 今天就来体验 Next.js 13 中的 [Turbopack Alpha 版本](https://turbo.build/pack)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "With v0 and the Vercel AI SDK, you can go from AI pipe dream to working prototype in just a few hours. See how AI can transform your ecommerce storefront."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 9, 2024
 
@@ -329,4 +329,4 @@ Vercel.com 着陆页
 ### Understand the wins.
 
 ### 深刻理解各项优势。
-{% endraw %}
+&#123;% endraw %}

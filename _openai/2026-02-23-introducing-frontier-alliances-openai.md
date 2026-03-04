@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 23, 2026
 
@@ -124,4 +124,4 @@ Frontier 当前已面向少量客户开放，未来数月内将逐步扩大可�
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)  
 - [合作伙伴关系](https://openai.com/news/?tags=partnerships)
-{% endraw %}
+&#123;% endraw %}

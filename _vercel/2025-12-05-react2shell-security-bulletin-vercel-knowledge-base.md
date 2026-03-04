@@ -8,7 +8,7 @@ language: "en-us"
 translated: true
 description: "CVE-2025-55182 is a critical vulnerability in React, Next.js, and other frameworks that requires immediate action"
 ---
-{% raw %}
+&#123;% raw %}
 
 _2025 年 12 月 11 日更新：继 React2Shell 漏洞披露后，社区对 React Server Components 的深入研究又发现了两个需紧急修复的漏洞：CVE-2025-55184（拒绝服务，DoS）和 CVE-2025-55183（源代码泄露）。详情请参阅最新发布的_[_安全公告_](https://vercel.com/kb/bulletin/security-bulletin-cve-2025-55184-and-cve-2025-55183)_。_
 
@@ -509,4 +509,4 @@ To patch a [v0 app](https://v0.app/) manually:
 Note that v0 apps that are not published are unaffected by React2Shell.
 
 请注意，未发布的 v0 应用不受 React2Shell 影响。
-{% endraw %}
+&#123;% endraw %}

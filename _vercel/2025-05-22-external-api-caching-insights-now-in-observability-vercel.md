@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "External API caching insights. are now available in Observability for external API calls using Vercel Data Cache."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 22, 2025
 
@@ -31,4 +31,4 @@ Caching insights are available per hostname for all users, and per path for Obse
 View the [external API dashboard](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fobservability%2Fexternal-apis&title=Go+to+Observability+External+API+dashboard) or learn more about [Vercel Data Cache](https://vercel.com/docs/data-cache).
 
 访问 [外部 API 仪表板](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fobservability%2Fexternal-apis&title=Go+to+Observability+External+API+dashboard)，或深入了解 [Vercel Data Cache](https://vercel.com/docs/data-cache)。
-{% endraw %}
+&#123;% endraw %}

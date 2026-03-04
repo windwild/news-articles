@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Today, we're opening up applications for our inaugural student hacker in residence program.
 
@@ -141,4 +141,4 @@ This is a non-exhaustive list of the kinds of applications we hope our student h
 [**LangGraph Platform 正式进入 Beta 测试阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长 4 分钟
-{% endraw %}
+&#123;% endraw %}

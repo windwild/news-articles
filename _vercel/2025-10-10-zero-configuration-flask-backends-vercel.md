@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Flask, one of the most popular Python web application frameworks, can now be deployed instantly at Vercel with no configuration changes needed."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 10, 2025
 
@@ -53,4 +53,4 @@ Vercel 上的后端默认采用 [Fluid Compute](https://vercel.com/fluid) 与 [A
 [Deploy Flask on Vercel](https://vercel.com/templates/python/flask-python-boilerplate) or visit the [Flask on Vercel documentation](https://vercel.com/docs/frameworks/backend/flask).
 
 [在 Vercel 上部署 Flask](https://vercel.com/templates/python/flask-python-boilerplate)，或查阅 [Vercel 上的 Flask 文档](https://vercel.com/docs/frameworks/backend/flask)。
-{% endraw %}
+&#123;% endraw %}

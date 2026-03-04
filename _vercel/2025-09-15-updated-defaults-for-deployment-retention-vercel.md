@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel is updating the default retention policy for deployments. Unlimited retention is no longer available."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 15, 2025
 
@@ -45,4 +45,4 @@ _请注意：您最近的 10 个生产环境部署，以及当前拥有别名（
 Learn more about [Deployment Retention](https://vercel.com/docs/security/deployment-retention).
 
 了解更多关于[部署保留策略](https://vercel.com/docs/security/deployment-retention)的信息。
-{% endraw %}
+&#123;% endraw %}

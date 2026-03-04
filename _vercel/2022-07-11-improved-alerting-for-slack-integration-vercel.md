@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 11, 2022
 
@@ -19,4 +19,4 @@ Jul 11, 2022
 现在，您可通过 [Slack 集成](https://vercel.com/integrations/slack) 针对特定环境接收告警通知。该功能有助于减少冗余通知——例如，您可以将预览（Preview）环境和生产（Production）环境的部署告警分别发送至不同的 Slack 频道。
 
 立即试用 [Slack 集成](https://vercel.com/integrations/slack)。
-{% endraw %}
+&#123;% endraw %}

@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:32:56.863827267+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This post was written by [_Andres Torres_](https://www.linkedin.com/in/andres-torres-360248b1/?ref=blog.langchain.com) and [_Dylan Brock_](https://www.linkedin.com/in/dylan-brock-b8926760/?ref=blog.langchain.com) from [_Norwegian Cruise Line_](https://www.ncl.com/?ref=blog.langchain.com). Building UI/UX for AI applications is hard and there's lot of subtleties. This is a fantastic deep dive into the issues and concerns they are thinking about._
 
@@ -177,4 +177,4 @@ The paradigm shift in digital UX/UI is upon us. As technology advances and more 
 If you like this blog, drop us a line and let us know! This is only the beginning of our deeper dive into Large Language Model User Interfaces.
 
 如果您喜欢本文，请随时联系我们并告诉我们！这只是我们深入探讨大语言模型用户界面（LLM UI）的起点。
-{% endraw %}
+&#123;% endraw %}

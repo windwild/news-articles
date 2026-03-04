@@ -9,7 +9,7 @@ translated: false
 description: "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 29, 2025
 
@@ -84,4 +84,4 @@ It shows what’s possible when great salespeople are supported by AI Assistants
 ## Ready to put ChatGPT to work in your business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

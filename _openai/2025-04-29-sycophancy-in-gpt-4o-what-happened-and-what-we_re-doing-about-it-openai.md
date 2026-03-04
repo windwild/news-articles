@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "We have rolled back last week’s GPT‑4o update in ChatGPT so people are now using an earlier version with more balanced behavior. The update we removed was overly flattering or agreeable—often de..."
 ---
-{% raw %}
+&#123;% raw %}
 
 April 29, 2025
 
@@ -59,4 +59,4 @@ And, we’re exploring new ways to incorporate broader, democratic feedback into
 We are grateful to everyone who’s spoken up about this. It’s helping us build more helpful and better tools for you.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

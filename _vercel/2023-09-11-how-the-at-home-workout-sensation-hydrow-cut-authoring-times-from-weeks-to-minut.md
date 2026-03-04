@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Hydrow gains a seamless publishing workflow. Learn how this team succeeded in their mission to create the ultimate composable ecommerce workflow."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 11, 2023
 
@@ -310,4 +310,4 @@ Get in Touch](https://vercel.com/contact/sales)
 联系专家，了解如何即刻开启 Vercel 之旅。\\
 \\
 立即联系](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

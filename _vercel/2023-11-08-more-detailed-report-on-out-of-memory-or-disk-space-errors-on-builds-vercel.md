@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 8, 2023
 
@@ -23,4 +23,4 @@ Nov 8, 2023
 在发生 OOM 的情况下，构建日志将明确确认该事件；而在 ENOSPC 情况下，则会提供有关磁盘空间分配的详细信息。
 
 请查阅[我们的文档](https://vercel.com/docs/deployments/troubleshoot-a-build#build-container-resources)了解更多信息。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "We’re partnering with TIME and its 101 years of archival content to enhance responses and provide links to stories on Time.com"
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 27, 2024
 
@@ -34,4 +34,4 @@ The partnership will also enable TIME to gain access to OpenAI's technology to d
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

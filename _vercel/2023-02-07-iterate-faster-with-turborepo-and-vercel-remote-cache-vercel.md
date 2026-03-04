@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Remote Cache makes your Turborepo caching strategy multiplayer, allowing you to share caches with your teammates and CI."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 7, 2023
 
@@ -223,4 +223,4 @@ Jan 24, 2023
 Alli and Anthony
 
 Alli 与 Anthony
-{% endraw %}
+&#123;% endraw %}

@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:23:27.351039386+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Three weeks ago OpenAI held a highly anticipated developer day. They released a myriad of new features. The two most interesting to me were the Assistants API and GPTs. To me, these represent the same bet – on a particular, agent-like, closed “cognitive architecture”. They appeal to different end users, but both speak to OpenAI’s ambitions to drive applications towards this particular cognitive architecture. At LangChain, we believe in a world where LLMs power agent-like systems that are truly transformative. However, we believe the route to get there is one where companies have control over their cognitive architectures. You can do that today with projects like [OpenGPTs](https://github.com/langchain-ai/opengpts?ref=blog.langchain.com) \- an open, editable, and configurable version of the Assistants API (and GPTs).
 
@@ -252,4 +252,4 @@ We’ve also recently released [OpenGPTs](https://github.com/langchain-ai/opengp
 This is just the start.
 
 这一切，才刚刚开始。
-{% endraw %}
+&#123;% endraw %}

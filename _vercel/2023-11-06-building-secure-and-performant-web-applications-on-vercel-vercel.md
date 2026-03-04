@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's Frontend Cloud offers support for deploying complex and dynamic web applications with managed infrastructure so you have control and flexibility without having to worry about configuration an..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 6, 2023
 
@@ -228,4 +228,4 @@ Meet with a web app expert and see how your business can build better applicatio
 
 Let's Talk  
 立即沟通](https://vercel.com/contact)
-{% endraw %}
+&#123;% endraw %}

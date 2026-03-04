@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 27, 2023
 
@@ -23,4 +23,4 @@ You can now filter your Deployments on Vercel by their environment type in addit
 [Check out the documentation](https://vercel.com/docs/concepts/deployments/managing-deployments#filter-deployments) to learn more.
 
 [查看相关文档](https://vercel.com/docs/concepts/deployments/managing-deployments#filter-deployments)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

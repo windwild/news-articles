@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "In this blog piece, you’ll learn why and how we built LangGraph for production agents—focusing on control, durability, and the core features needed to scale."
 ---
-{% raw %}
+&#123;% raw %}
 
 _By Nuno Campos_
 
@@ -506,4 +506,4 @@ In summary, we thought deeply about what is different about building with LLMs a
 
 If you want to learn more about LangGraph and test it out for your own projects, head on over to the [docs](https://langchain-ai.github.io/langgraph/?ref=blog.langchain.com) to get started.  
 如果你想进一步了解 LangGraph，并将其应用于自己的项目中，请访问 [文档页面](https://langchain-ai.github.io/langgraph/?ref=blog.langchain.com) 开始上手。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: true
 description: "The fourth installment in our \"In the Loop Series,\" in which we talk about what planning means for an agent and how to improve it."
 tags: ["Harrison's Hot Takes"]
 ---
-{% raw %}
+&#123;% raw %}
 
 _At Sequoia’s AI Ascent conference in March, I talked about three limitations for agents: planning, UX, and memory. Check out that talk_ [_here_](https://www.youtube.com/watch?v=pBBe1pk8hf4&ref=blog.langchain.com) _. In this post, I will dive more into planning for agents._
 
@@ -218,4 +218,4 @@ So while the planning and reasoning of LLMs will certainly get better, we also s
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 min read
 
 [Harrison 的热点评论](https://blog.langchain.com/tag/in-the-loop/) 4 分钟阅读
-{% endraw %}
+&#123;% endraw %}

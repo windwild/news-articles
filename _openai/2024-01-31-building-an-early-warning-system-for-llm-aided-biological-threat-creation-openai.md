@@ -9,7 +9,7 @@ translated: false
 description: "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and student..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 31, 2024
 
@@ -299,4 +299,4 @@ Due to the sensitive nature of this model and of the biological threat creation 
 
 3. C
 Although, if we only assessed total accuracy, and therefore did not adjust for multiple comparisons, this difference would be statistically significant.
-{% endraw %}
+&#123;% endraw %}

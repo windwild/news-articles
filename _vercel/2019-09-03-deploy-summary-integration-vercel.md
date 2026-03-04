@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing Deploy Summary, a Vercel integration to enhance your Pull Requests or Merge Requests with screenshots and links to your changed pages."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 3, 2019
 
@@ -90,4 +90,4 @@ Aside from supporting [more frameworks](https://vercel.com/integrations/deploy-s
 
 Anything unclear? [Drop us a message](https://twitter.com/vercel) [!](mailto:support@zeit.co)  
 如有任何疑问？欢迎 [给我们留言](https://twitter.com/vercel) [!](mailto:support@zeit.co)
-{% endraw %}
+&#123;% endraw %}

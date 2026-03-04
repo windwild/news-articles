@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 InterpretabilityResearch
 
@@ -29,4 +29,4 @@ Mar 8, 2022
 We tracked 11 observable behaviors across thousands of Claude.ai conversations to build the AI Fluency Index — a baseline for measuring how people collaborate with AI today.
 
 我们追踪了数千场 Claude.ai 对话中的 11 种可观测行为，构建出“AI 流利度指数”（AI Fluency Index）—— 这一指数为衡量当今人类与 AI 协作水平提供了基准。
-{% endraw %}
+&#123;% endraw %}

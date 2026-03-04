@@ -9,7 +9,7 @@ translated: false
 description: "We are sharing what we learned from our conversations across 22 countries, and how we will be incorporating those insights moving forward."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 29, 2023
 
@@ -61,4 +61,4 @@ Photo: Tom Isaacson
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

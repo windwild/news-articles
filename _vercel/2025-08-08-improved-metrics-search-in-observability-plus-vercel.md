@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We’ve improved the metrics search and navigation experience in Vercel Observability, making it faster and easier to build custom queries."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 8, 2025
 
@@ -47,4 +47,4 @@ These updates are available now for all teams with [Observability Plus](https://
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%3Fbuilder%3Dtrue%26by%3DprojectId) or learn more about [Observability](https://vercel.com/docs/observability) and [Observability Plus](https://vercel.com/docs/observability/observability-plus).
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%3Fbuilder%3Dtrue%26by%3DprojectId)，或进一步了解 [Observability](https://vercel.com/docs/observability) 和 [Observability Plus](https://vercel.com/docs/observability/observability-plus)。
-{% endraw %}
+&#123;% endraw %}

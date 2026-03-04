@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing v0"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 11, 2023
 
@@ -138,4 +138,4 @@ Feb 10, 2023
 Kiana and Steven
 
 基安娜（Kiana）和史蒂文（Steven）
-{% endraw %}
+&#123;% endraw %}

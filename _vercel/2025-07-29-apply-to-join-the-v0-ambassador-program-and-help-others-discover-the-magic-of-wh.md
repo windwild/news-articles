@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Apply today to join the v0 Ambassador Program and help others discover the magic of what's possible with v0. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 29, 2025
 
@@ -138,4 +138,4 @@ We’ll review applications on a rolling basis.
 Let’s build the next generation of the web together and make sure it’s shared, forked, remixed, and out in the open.
 
 让我们携手共建下一代网络，并确保它开放共享、可自由分叉、可重新混搭，且完全公开透明。
-{% endraw %}
+&#123;% endraw %}

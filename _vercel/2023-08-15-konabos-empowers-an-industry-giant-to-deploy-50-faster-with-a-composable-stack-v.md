@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "American Bath Group's success with Konobos and Vercel"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 15, 2023
 
@@ -71,4 +71,4 @@ Get in Touch](https://vercel.com/contact/sales)
 联系专家，即刻了解如何开始使用 Vercel。  
 \\  
 立即联系](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

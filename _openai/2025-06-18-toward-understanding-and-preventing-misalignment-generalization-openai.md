@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tunin..."
 ---
-{% raw %}
+&#123;% raw %}
 
 June 18, 2025
 
@@ -268,4 +268,4 @@ Interestingly, in the version of GPT-4o fine-tuned for ChatGPT, this latent is m
 
 2. 2
 Steered responses are sometimes incoherent or end abruptly when steering at strengths sufficient to produce misalignment, as shown here. Steering models by adding a single vector to the residual stream can feel like a “blunt instrument” in this way, while full fine-tuning can cause subtler changes in model behavior.
-{% endraw %}
+&#123;% endraw %}

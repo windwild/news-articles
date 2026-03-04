@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's Bot Protection managed ruleset allows users to mitigate unwanted bot activity on their projects in a single click"
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 23, 2025
 
@@ -62,4 +62,4 @@ Learn more about the [Bot Protection managed ruleset](https://vercel.com/docs/ve
 Edit: During the beta period, we renamed the Bot Filter managed ruleset to Bot Protection
 
 编辑说明：在测试期间，我们将原“机器人过滤器（Bot Filter）托管规则集”更名为“机器人防护（Bot Protection）”。
-{% endraw %}
+&#123;% endraw %}

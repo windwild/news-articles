@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 28, 2024
 
@@ -21,4 +21,4 @@ Log Drains 最近已正式[全面开放](https://vercel.com/changelog/log-drains
 基于您的反馈，**我们已下调 Log Drains 的价格**：免费包含的数据传输额度提升至原来的 300%——即从 5GB 提高至 20GB。自您的下一个计费周期开始，Log Drains 将按每 20GB 收费 10 美元（此前为每 5GB 收费 10 美元）。
 
 您可在[用量页面](https://vercel.com/docs/pricing/manage-and-optimize-usage)查看当前 Log Drains 的使用情况。
-{% endraw %}
+&#123;% endraw %}

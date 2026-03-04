@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Agents and Tools are available in the Vercel Marketplace, enabling AI-powered workflows in your projects with native integrations, unified billing, and built-in observability."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 23, 2025
 
@@ -137,4 +137,4 @@ Each listing meets Vercel's integration standards for quality and developer expe
 **For companies building agents**: If you're building agents or AI infrastructure, [join the Marketplace](https://vercel.com/marketplace-providers#become-a-provider) and reach thousands of teams building on Vercel.
 
 **面向构建智能体的企业**：如果您正在开发智能体或 AI 基础设施，欢迎 [加入 Marketplace](https://vercel.com/marketplace-providers#become-a-provider)，触达数千个正在 Vercel 上构建应用的团队。
-{% endraw %}
+&#123;% endraw %}

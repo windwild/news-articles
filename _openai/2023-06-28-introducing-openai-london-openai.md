@@ -9,7 +9,7 @@ translated: false
 description: "We are excited to announce OpenAI’s first international expansion with a new office in London, United Kingdom."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 28, 2023
 
@@ -46,4 +46,4 @@ If you are interested in joining us, please check out the open positions in Lond
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

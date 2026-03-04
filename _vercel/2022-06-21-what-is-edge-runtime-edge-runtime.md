@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Edge Runtime is a toolkit for developing, testing, and defining the runtime Web APIs for Edge infrastructure."
 ---
-{% raw %}
+&#123;% raw %}
 
 Introduction
 
@@ -75,4 +75,4 @@ Get started using Edge Runtime:
 
 [Getting Started](https://edge-runtime.vercel.app/getting-started "Getting Started")  
 [入门指南](https://edge-runtime.vercel.app/getting-started "入门指南")
-{% endraw %}
+&#123;% endraw %}

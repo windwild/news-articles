@@ -9,7 +9,7 @@ translated: false
 description: "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 7, 2025
 
@@ -32,4 +32,4 @@ In this update, we share case studies from the past quarter and how we’re dete
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

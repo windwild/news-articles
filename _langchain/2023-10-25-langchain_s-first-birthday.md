@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 It’s LangChain’s first birthday! It’s been a really exciting year!
 
@@ -7513,4 +7513,4 @@ _注：如因任何原因希望将您的姓名从本列表中移除，请联系 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

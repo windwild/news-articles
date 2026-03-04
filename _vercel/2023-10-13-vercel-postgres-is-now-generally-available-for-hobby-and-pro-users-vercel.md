@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Changelog for (now deprecated) Vercel postgres, our serverless SQL database, general availability for hobby and pro users"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 13, 2023
 
@@ -57,4 +57,4 @@ If you were a beta participant and want to opt out of using Vercel Postgres, you
 
 [Check out the documentation](https://vercel.com/docs/storage/vercel-postgres) to learn more.  
 [查阅文档](https://vercel.com/docs/storage/vercel-postgres)了解更多信息。
-{% endraw %}
+&#123;% endraw %}

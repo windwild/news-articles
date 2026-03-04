@@ -9,7 +9,7 @@ translated: false
 description: "The entire team has joined OpenAI."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 16, 2023
 
@@ -26,4 +26,4 @@ OpenAI has acquired the team at [Global Illumination⁠(opens in a new window)](
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI has been named an Emerging Leader in Gartner’s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise momentum, with over 1 million companies buildin..."
 ---
-{% raw %}
+&#123;% raw %}
 
 November 17, 2025
 
@@ -42,4 +42,4 @@ _GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its 
 Gartner clients can read the report at: [https://www.gartner.com/document/code/840092⁠(opens in a new window)](https://www.gartner.com/document/code/840092)
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

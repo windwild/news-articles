@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Building a family of AI products for everyone."
 ---
-{% raw %}
+&#123;% raw %}
 
 [OpenAI Home](https://openai.com/)
 
@@ -81,4 +81,4 @@ Sam & Jony
 >
 >
 > Share
-{% endraw %}
+&#123;% endraw %}

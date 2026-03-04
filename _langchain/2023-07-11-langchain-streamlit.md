@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The initial integration of Streamlit with LangChain and our future plans."
 ---
-{% raw %}
+&#123;% raw %}
 
 **Editor's Note: This post was written in collaboration with the Streamlit team. From the beginning, Streamlit has been a fantastic tool for LangChain developers. In fact, [one of the first examples](https://github.com/hwchase17/notion-qa?ref=blog.langchain.com) we released used Streamlit as the UI. It has been a honor to have the opportunity to work more closely with the team over the past months, and we're thrilled to share some of the stuff we've been working on and thinking about.**
 
@@ -160,4 +160,4 @@ Happy coding! 🎈🦜🔗
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**使用 Genoss 统一 AI 接口，由 LangChain 提供支持**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
-{% endraw %}
+&#123;% endraw %}

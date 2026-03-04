@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Launching a global brand with Vercel and Wunderman Thompson, unlocking the potential of international brands through strategic, digital-led growth."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 17, 2023
 
@@ -91,4 +91,4 @@ When a client asks how long until the next version of their site is online, Baro
 [_Launch your brand_](https://vercel.com/contact/sales) _with Vercel today._
 
 [立即使用 Vercel 打造您的品牌](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

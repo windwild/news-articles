@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Morning brew"
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 9, 2023
 
@@ -123,4 +123,4 @@ With the ability to comment directly on Previews, they are able to break down si
 Going headless with the leading frontend cloud speed ups development without sacrificing performance. [Get in touch today](https://vercel.com/contact) to learn more.
 
 采用业界领先的前端云实现“无头化”架构，在不牺牲性能的前提下显著加速开发进程。[立即联系我们](https://vercel.com/contact)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

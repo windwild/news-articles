@@ -9,7 +9,7 @@ translated: false
 description: "Morgan Stanley uses AI evals to shape the future of financial services"
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Morgan Stanley uses AI evals to shape the future of financial services
@@ -97,4 +97,4 @@ Their strong eval framework has also unlocked a flywheel for future solutions an
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

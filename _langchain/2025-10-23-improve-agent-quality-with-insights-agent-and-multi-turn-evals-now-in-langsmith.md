@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "LangSmith's new Insights Agent and Multi-turn Evals help you understand what your agents are doing in production and whether they're accomplishing user goals."
 ---
-{% raw %}
+&#123;% raw %}
 
 **TL;DR:** We’re releasing new capabilities in **LangSmith** to help monitor agents in production. We’re making the concept of “threads” — representing a multi-turn agent interaction — a first-party concept, and we’re adding two new tools to monitor threads: **Insights Agent** for automatically categorizing agent usage patterns, and **Multi-turn Evals** for scoring complete agent conversations.
 
@@ -111,4 +111,4 @@ Our latest LangSmith updates work together to address tough challenges when engi
 Ready to ship reliable agents? Get started with [LangSmith](https://smith.langchain.com/?ref=blog.langchain.com) today.
 
 准备好交付高可靠性的智能体了吗？立即开始使用 [LangSmith](https://smith.langchain.com/?ref=blog.langchain.com) 吧！
-{% endraw %}
+&#123;% endraw %}

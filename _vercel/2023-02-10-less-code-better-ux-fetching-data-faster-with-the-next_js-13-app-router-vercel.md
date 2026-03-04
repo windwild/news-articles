@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fetching data in Next.js 13 has been vastly improved with Server Components, smarter caching, and Loading UI."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 10, 2023
 
@@ -141,4 +141,4 @@ Twitter 帖子
 ![Guillermo Rauch's avatar](images/less-code-better-ux-fetching-data-faster-with-the-next_js-13-app-router-vercel/img_003.jpg)Guillermo Rauch@rauchg
 
 ![Guillermo Rauch 的头像](images/less-code-better-ux-fetching-data-faster-with-the-next_js-13-app-router-vercel/img_003.jpg)Guillermo Rauch@rauchg
-{% endraw %}
+&#123;% endraw %}

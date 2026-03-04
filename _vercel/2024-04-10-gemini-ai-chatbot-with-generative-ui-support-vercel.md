@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 10, 2024
 
@@ -31,4 +31,4 @@ The Gemini model used is `models/gemini-1.0-pro-001`, however, the [Vercel AI SD
 [Try the demo](https://gemini.vercel.ai/) or [deploy your own](https://vercel.com/templates/next.js/gemini-ai-chatbot).
 
 [试用演示版](https://gemini.vercel.ai/) 或 [部署您自己的实例](https://vercel.com/templates/next.js/gemini-ai-chatbot)。
-{% endraw %}
+&#123;% endraw %}

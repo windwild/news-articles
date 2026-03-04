@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 20, 2021
 
@@ -29,4 +29,4 @@ Apr 20, 2021
 我们不再支持“删除钩子 URL”（Delete Hook URL）——即当 Integration Configuration 被移除时向其发送 `DELETE` 请求的功能。若此前已设置了 Delete Hook URL，则该 URL 现已被自动设为普通 Webhook URL，且“Integration Removed”（Integration 已移除）事件默认启用。目前，“Integration Removed”事件会以两个请求形式发送（一个 `POST` 请求和一个 `DELETE` 请求）；但从 **2021 年 8 月 20 日起**，`DELETE` 请求将停止发送。
 
 请查阅[更新后的文档](https://vercel.com/docs/integrations#webhooks)及[API 参考](https://vercel.com/docs/integrations#webhooks/events)了解更多信息。
-{% endraw %}
+&#123;% endraw %}

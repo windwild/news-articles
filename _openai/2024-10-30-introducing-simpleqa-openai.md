@@ -9,7 +9,7 @@ translated: false
 description: "A factuality benchmark called SimpleQA that measures the ability for language models to answer short, fact-seeking questions."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 30, 2024
 
@@ -117,4 +117,4 @@ SimpleQA is a simple but challenging benchmark for evaluating the factuality of 
 - [o1](https://openai.com/research/index/?tags=o1)
 - [Language](https://openai.com/research/index/?tags=language)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
-{% endraw %}
+&#123;% endraw %}

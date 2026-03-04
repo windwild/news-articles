@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Over the years, Google's treatment of JavaScript has changed, leaving us with misconceptions of how it's indexed. Here, we debunk the myths."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 31, 2024
 
@@ -587,4 +587,4 @@ With a track record of success across various industries, MERJ brings cutting-ed
 If you need assistance with any of the SEO topics raised in this research, or if you're looking to optimize your web application for better search visibility and performance, don't hesitate to [contact MERJ](https://merj.com/).
 
 若您需要就本项研究中提及的任一 SEO 话题获得支持，或希望优化您的 Web 应用以提升搜索可见性与整体性能，请随时 [联系 MERJ](https://merj.com/)。
-{% endraw %}
+&#123;% endraw %}

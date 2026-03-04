@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Introducing GPT-4o and making more capabilities available for free in ChatGPT."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 13, 2024
 
@@ -44,4 +44,4 @@ Your browser does not support the video tag.
 00:00
 
 Spring Update \| OpenAI
-{% endraw %}
+&#123;% endraw %}

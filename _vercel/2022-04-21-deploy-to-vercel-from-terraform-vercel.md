@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 21, 2022
 
@@ -25,4 +25,4 @@ With the [Vercel Provider](https://registry.terraform.io/providers/vercel/vercel
 [Check out our guide](https://vercel.com/guides/integrating-terraform-with-vercel) to get started.
 
 [查看我们的入门指南](https://vercel.com/guides/integrating-terraform-with-vercel) 开始使用。
-{% endraw %}
+&#123;% endraw %}

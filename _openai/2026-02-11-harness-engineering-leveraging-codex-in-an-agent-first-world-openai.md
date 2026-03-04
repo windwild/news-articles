@@ -9,7 +9,7 @@ translated: true
 description: "By Ryan Lopopolo, Member of the Technical Staff"
 tags: ["Engineering"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 11, 2026
 
@@ -507,4 +507,4 @@ As agents like Codex take on larger portions of the software lifecycle, these qu
 - [Codex](https://openai.com/news/?tags=codex)  
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-..."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 13, 2025
 
@@ -45,4 +45,4 @@ OpenAI has grown to over 800 million weekly active users and strong adoption acr
 _Listen to_ [_episode 8 of the OpenAI Podcast_ ⁠](https://openai.com/podcast/#oai-podcast-episode-8) _. Sam Altman and Greg Brockman sit down with Broadcom’s Hock Tan and Charlie Kawwas._
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

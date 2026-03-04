@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn about how Vercel Functions help you run secure, highly available, and fast compute."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 5, 2024
 
@@ -214,4 +214,4 @@ Vercel Functions 提供可预期的 CPU 性能、在 [多个区域](https://verc
 [Learn more about Vercel Functions](https://vercel.com/docs/functions) or get started [building your first site](https://vercel.com/templates).
 
 [进一步了解 Vercel Functions](https://vercel.com/docs/functions)，或立即 [搭建您的首个网站](https://vercel.com/templates)。
-{% endraw %}
+&#123;% endraw %}

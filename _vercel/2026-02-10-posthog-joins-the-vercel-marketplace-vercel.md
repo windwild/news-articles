@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "PostHog now integrates directly with Vercel to help teams manage feature rollouts and run experiments without redeploying code. This integration makes it easier for Vercel users to:"
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 10, 2026
 
@@ -97,4 +97,4 @@ Create a flags.ts file with a simple identify function and a function to check y
 Check out the [PostHog template](https://vercel.com/templates/edge-middleware/posthog-with-flags-sdk-and-next-js) to learn more about this integration.
 
 请查看 [PostHog 模板](https://vercel.com/templates/edge-middleware/posthog-with-flags-sdk-and-next-js)，深入了解该集成方案。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How Vercel built AI-generated pixel trading cards for Next.js Conf and Ship AI, then turned the same pipeline into a v0 template and festive holiday experiment."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 23, 2025
 
@@ -488,4 +488,4 @@ Those same patterns now power a v0 template, a festive Vercelf Yourself variant,
 Happy holidays!
 
 节日快乐！
-{% endraw %}
+&#123;% endraw %}

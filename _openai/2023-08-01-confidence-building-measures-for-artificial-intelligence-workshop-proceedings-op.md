@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 1, 2023
 
@@ -107,4 +107,4 @@ PublicationJan 31, 2024](https://openai.com/index/building-an-early-warning-syst
 SafetyJan 16, 2024](https://openai.com/index/democratic-inputs-to-ai-grant-program-update/)
 
 Confidence-Building Measures for Artificial Intelligence: Workshop proceedings \| OpenAI
-{% endraw %}
+&#123;% endraw %}

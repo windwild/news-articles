@@ -8,7 +8,7 @@ translated: true
 description: "Claude Code Security is one step towards our goal of more secure codebases and a higher security baseline across the industry."
 tags: ["Announcements"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Announcements
 
@@ -143,4 +143,4 @@ We also encourage open-source maintainers to apply for free, expedited access.
 To learn more, visit [claude.com/solutions/claude-code-security](http://claude.com/solutions/claude-code-security).  
 
 欲了解更多信息，请访问 [claude.com/solutions/claude-code-security](http://claude.com/solutions/claude-code-security)。
-{% endraw %}
+&#123;% endraw %}

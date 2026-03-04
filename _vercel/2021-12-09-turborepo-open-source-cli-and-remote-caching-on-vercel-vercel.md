@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 9, 2021
 
@@ -31,4 +31,4 @@ Turborepo 通过以下特性显著缩短构建时间：
 - **任务流水线（Task pipelines）**
 
 立即 [开始使用 Turborepo](https://turborepo.org/docs/getting-started)。
-{% endraw %}
+&#123;% endraw %}

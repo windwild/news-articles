@@ -9,7 +9,7 @@ translated: false
 description: "Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board"
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 8, 2024
 
@@ -34,4 +34,4 @@ Bret Taylor, Chair of the OpenAI board, stated, “I am excited to welcome Sue, 
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

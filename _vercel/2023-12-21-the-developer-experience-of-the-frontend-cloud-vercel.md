@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's Frontend Cloud offers a complete Developer Experience (DX) Platform, to automate complex systems and offer best-in-market iteration velocity."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 21, 2023
 
@@ -477,4 +477,4 @@ Sep 12, 2023
 Vercel.com 首页
 
 ### 亲身体验
-{% endraw %}
+&#123;% endraw %}

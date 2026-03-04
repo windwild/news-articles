@@ -9,7 +9,7 @@ translated: false
 description: "We’ve made progress towards stable and scalable training of energy-based models (EBMs) resulting in better sample quality and generalization ability than existing models. Generation in EBMs spends..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 21, 2019
 
@@ -114,4 +114,4 @@ Compositionality is one of the [unsolved challenges⁠(opens in a new window)](
 
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 23, 2023
 
@@ -39,4 +39,4 @@ We've redesigned and improved the Vercel documentation with:
 [Get started](https://vercel.com/docs) with the Vercel documentation today.
 
 立即 [开始使用](https://vercel.com/docs) Vercel 文档。
-{% endraw %}
+&#123;% endraw %}

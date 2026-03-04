@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "SEO is a critical priority in Next.js on Vercel, letting you rank higher in search engine results and better optimize your content for users."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 23, 2023
 
@@ -341,4 +341,4 @@ Vercel.com 着陆页
 ### Dive deeper
 
 ### 深入了解
-{% endraw %}
+&#123;% endraw %}

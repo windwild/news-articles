@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js now runs natively in ChatGPT with working navigation, React Server Components, and full features. Learn how we made this possible behind ChatGPTs triple iframe architecture and deploy our star..."
 ---
-{% raw %}
+&#123;% raw %}
 
 2025年10月15日
 
@@ -1344,4 +1344,4 @@ Deploy now](https://vercel.com/templates/ai/chatgpt-app-with-next-js)
 将我们的 ChatGPT Apps SDK Next.js 入门模板一键部署至 Vercel，立即开始实验。\\
 \\
 立即部署](https://vercel.com/templates/ai/chatgpt-app-with-next-js)
-{% endraw %}
+&#123;% endraw %}

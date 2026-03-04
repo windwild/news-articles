@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Resources tab is replacing the Functions tab for deployments in the Vercel Dashboard. It displays and allows you to search and filter middleware, static assets, and functions."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 13, 2025
 
@@ -39,4 +39,4 @@ You can use the three dot menu (`...`) to jump to the Logs, Analytics, Speed Ins
 Read more about [using the Vercel Dashboard](https://vercel.com/docs/deployments#using-the-dashboard) to view and manage your deployments.
 
 了解更多关于[使用 Vercel 控制台](https://vercel.com/docs/deployments#using-the-dashboard)来查看与管理您的部署的信息。
-{% endraw %}
+&#123;% endraw %}

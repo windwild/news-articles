@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Understanding how the team at Speakeasy uses v0 to ship faster with features like Figma import and custom Tailwind config. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 12, 2025
 
@@ -84,4 +84,4 @@ Ready to experience the power of v0 in your day-to-day?
 \\  
 Get started  
 立即开始](https://v0.app/)
-{% endraw %}
+&#123;% endraw %}

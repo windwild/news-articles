@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 7, 2022
 
@@ -27,4 +27,4 @@ With the integration, you can stream function, error, and build logs from your V
 [Try out the integration](https://vercel.com/integrations/newrelic) for instant observability.
 
 [Try out the integration](https://vercel.com/integrations/newrelic) — 立即体验集成，实现即时可观测性。
-{% endraw %}
+&#123;% endraw %}

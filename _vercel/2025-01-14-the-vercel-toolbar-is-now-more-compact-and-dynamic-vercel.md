@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Toolbar has been upgraded with an unobtrusive design, recommended shortcuts, browser extension controls, and more features that give it better UX.. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 14, 2025
 
@@ -39,4 +39,4 @@ Vercel 工具栏已采用全新紧凑式设计，让您更便捷地访问最常�
 Learn more about the [Vercel Toolbar](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) and its features.
 
 了解更多关于 [Vercel 工具栏](https://vercel.com/docs/workflow-collaboration/vercel-toolbar) 及其功能的信息。
-{% endraw %}
+&#123;% endraw %}

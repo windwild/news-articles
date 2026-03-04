@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Content Delivery Networks (CDNs) and Infrastructure as code (IaC) evolved into the next generation of web application delivery."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 20, 2024
 
@@ -200,4 +200,4 @@ Managing infrastructure—like serverless functions, edge caching, automatic sca
 With Vercel, developers don't choose between these principles; they achieve them all, simultaneously, through the simplicity of framework code. The code that brings their frontend vision to life also dictates the infrastructure that powers it. This is how Vercel is reshaping the landscape of application delivery, enabling experiences that were once unimaginable to become the new standard.
 
 借助 Vercel，开发者无需在这些原则之间权衡取舍；他们可通过框架代码的简洁性，同步实现全部六大目标。驱动前端构想落地的代码，本身即定义了支撑其运行的基础设施。这正是 Vercel 重塑应用交付格局的方式——让曾经无法想象的用户体验，成为全新的行业标准。
-{% endraw %}
+&#123;% endraw %}

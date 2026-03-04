@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:05:45.589428076+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Earlier this month we_ [_announced_](https://blog.langchain.com/use-case-accelerant-extraction-service/) _our most recent OSS use-case accelerant: a service for extracting structured data from unstructured sources, such as text and PDF documents. Today we are exposing a hosted version of the service with a simple front end. The application is free to use, but is not intended for production workloads or sensitive data. The intent is to showcase what is possible in this category in 2024, and to help developers get a running start with their own applications._
 
@@ -476,4 +476,4 @@ Which yields:
 We are excited to see what extraction workflows you build, and welcome both feedback on and contributions to LangChain’s extraction capabilities!
 
 我们非常期待看到您构建的各类信息抽取工作流，也诚挚欢迎您就 LangChain 的抽取能力提供反馈或贡献代码！
-{% endraw %}
+&#123;% endraw %}

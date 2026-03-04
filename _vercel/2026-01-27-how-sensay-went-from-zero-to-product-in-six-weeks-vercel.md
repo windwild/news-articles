@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Sensay went from zero to an MVP launch in six weeks for Web Summit. With Vercel preview deployments, feature flags, and rollbacks, the team shipped fast without a DevOps team."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 27, 2026
 
@@ -174,4 +174,4 @@ Sometimes the best infrastructure decision is the one you don't have to make.
 **About Sensay:** [Sensay](https://sensay.io/) builds AI products that ground model responses in real organizational knowledge, including an off-boarding platform that captures knowledge from departing employees so it stays accessible inside the business.
 
 **关于 Sensay：** [Sensay](https://sensay.io/) 致力于开发人工智能产品，使大模型的响应扎根于企业真实的知识体系之中；其产品包括一款离职管理平台，可系统性地捕获即将离职员工所掌握的知识，确保这些知识持续保留在企业内部并可供随时调用。
-{% endraw %}
+&#123;% endraw %}

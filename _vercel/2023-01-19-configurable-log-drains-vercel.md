@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 19, 2023
 
@@ -19,4 +19,4 @@ Jan 19, 2023
 Pro 和 Enterprise 订阅用户现在可在控制台中直接配置日志接收器（Log Drains），无需另行创建集成。第三方日志集成服务将继续得到支持。
 
 [查看文档](https://vercel.com/docs/integrations/log-drains-overview) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

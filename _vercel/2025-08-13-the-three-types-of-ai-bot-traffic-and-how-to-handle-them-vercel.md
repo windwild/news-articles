@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Bots account for over 20% of all web traffic. A quarter of that is AI crawlers alone. But not all bots are bad. Some are key to how your site gets discovered. Learn how AI bots shape visibility and wh..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 13, 2025
 
@@ -137,4 +137,4 @@ The web is shifting to serve both human visitors and AI systems. As more users t
 Bots have always been part of the internet. What is changing is where people go for answers and how those answers are sourced. Making your content accessible can be the difference between being discovered or overlooked.  
 
 机器人（bots）始终是互联网生态的一部分。真正发生变化的是：人们寻求答案的渠道，以及这些答案的来源方式。让您的内容保持可访问性，可能就是决定您是被 AI 发现，还是被彻底忽视的关键所在。
-{% endraw %}
+&#123;% endraw %}

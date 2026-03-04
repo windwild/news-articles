@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 In taking your LLM from prototype into production, many have turned to fine-tuning models to get more consistent and high-quality behavior in their applications. Services like [OpenAI](https://platform.openai.com/docs/guides/fine-tuning?ref=blog.langchain.com) and [HuggingFace](https://huggingface.co/docs/trl/main/en/sft_trainer?ref=blog.langchain.dev) make it easy to fine-tune a model on **your** application-specific data. All it takes is a JSON file!
 
@@ -311,4 +311,4 @@ This is a simple overview of the process for going from traces to fine-tuned mod
 [**LangGraph Platform 正式进入测试阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [作者：LangChain](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

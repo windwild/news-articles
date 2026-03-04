@@ -9,7 +9,7 @@ translated: false
 description: "We’re excited to support today’s launch of Distill, a new kind of journal aimed at excellent communication of machine learning results (novel or existing)."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 20, 2017
 
@@ -30,4 +30,4 @@ Andrej will serve on the steering committee for the publication, and Greg is hel
 
 - [Community](https://openai.com/news/?tags=community)
 - [2017](https://openai.com/news/?tags=2017)
-{% endraw %}
+&#123;% endraw %}

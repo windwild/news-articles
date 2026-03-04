@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Late last week two great blog posts were released with seemingly opposite titles. [“Don’t Build Multi-Agents”](https://cognition.ai/blog/dont-build-multi-agents?ref=blog.langchain.com) by the Cognition team, and [“How we built our multi-agent research system”](https://www.anthropic.com/engineering/built-multi-agent-research-system?ref=blog.langchain.com) by the Anthropic team.
 
@@ -261,4 +261,4 @@ Figuring out how to get multi-agent (or complex single agent) systems to functio
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 分钟阅读
 
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 分钟阅读
-{% endraw %}
+&#123;% endraw %}

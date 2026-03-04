@@ -9,7 +9,7 @@ translated: false
 description: "Lowe’s partnered with OpenAI to build Mylow and Mylow Companion, AI-powered tools that bring expert help to both customers and store associates—making complex home improvement projects easier to p..."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Lowe’s puts project expertise into every hand
@@ -161,4 +161,4 @@ APIMar 27, 2025](https://openai.com/index/zendesk/)
 APIMar 25, 2025](https://openai.com/index/hebbia/)
 
 Lowe’s puts project expertise into every hand \| OpenAI
-{% endraw %}
+&#123;% endraw %}

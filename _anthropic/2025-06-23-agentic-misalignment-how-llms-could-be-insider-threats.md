@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "New research on simulated blackmail, industrial espionage, and other misaligned behaviors in LLMs"
 ---
-{% raw %}
+&#123;% raw %}
 
 Alignment
 
@@ -743,4 +743,4 @@ journal={Anthropic Research},
 note={https://www.anthropic.com/research/agentic-misalignment}
 }
 ```
-{% endraw %}
+&#123;% endraw %}

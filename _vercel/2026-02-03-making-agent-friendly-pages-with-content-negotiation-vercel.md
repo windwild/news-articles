@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel uses HTTP content negotiation to serve markdown to agents and HTML to humans from the same URL, reducing response sizes by 90% while keeping both versions synchronized."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 3, 2026
 
@@ -77,4 +77,4 @@ Agents need to discover what's available. We implemented a markdown sitemap that
 Want to see this in action? Add `.md` to the end of this page's URL to [get the markdown version](https://vercel.com/blog/making-agent-friendly-pages-with-content-negotiation.md).
 
 想亲自体验？只需在本页面 URL 末尾添加 `.md`，即可[获取该页面的 Markdown 版本](https://vercel.com/blog/making-agent-friendly-pages-with-content-negotiation.md)。
-{% endraw %}
+&#123;% endraw %}

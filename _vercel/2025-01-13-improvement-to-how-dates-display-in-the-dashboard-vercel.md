@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Dates across the dashboard now provide more precision. For the first three days will show a relative date, and after that, they switch to absolute dates and times."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 13, 2025
 
@@ -31,4 +31,4 @@ Dates across the dashboard now provide more precision.
 This builds on a recent update where hovering over dates reveals more information, including the exact timestamp.
 
 此改进基于最近一次更新：将鼠标悬停在日期上时，会显示更多信息，包括精确的时间戳。
-{% endraw %}
+&#123;% endraw %}

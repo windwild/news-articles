@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Domains now offers reduced prices for the following TLDs: .site, .space, .website, .fun, .online, .store, .tech"
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 18, 2025
 
@@ -35,4 +35,4 @@ Vercel Domains 现在为以下顶级域名（TLD）提供更优惠的价格：
 Get your domain today at [vercel.com/domains](https://vercel.com/domains).
 
 今天就来 [vercel.com/domains](https://vercel.com/domains) 获取您的域名。
-{% endraw %}
+&#123;% endraw %}

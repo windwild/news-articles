@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 2026年2月2日
 
@@ -60,4 +60,4 @@ Snowflake 正将 OpenAI 的技术能力延伸至全球规模最大、历史最�
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

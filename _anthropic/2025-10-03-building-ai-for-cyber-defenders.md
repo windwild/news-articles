@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How we've improved Claude's cyber defense skills"
 ---
-{% raw %}
+&#123;% raw %}
 
 Policy
 
@@ -241,4 +241,4 @@ But even building and adopting to advantage defenders is only part of the soluti
 _This article was originally posted on September 29 2025 on the Frontier Red Team's blog, [red.anthropic.com](https://red.anthropic.com/)._
 
 _本文最初于 2025 年 9 月 29 日发布于 Frontier Red Team 博客：[red.anthropic.com](https://red.anthropic.com/)。_
-{% endraw %}
+&#123;% endraw %}

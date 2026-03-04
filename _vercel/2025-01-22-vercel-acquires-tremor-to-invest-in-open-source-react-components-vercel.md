@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Tremor, a library of React components to build charts and dashboards, joins Vercel. With this acquisition, all Tremor products—including Tremor Blocks—are now free and open source, bringing elegan..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 22, 2025
 
@@ -79,4 +79,4 @@ Tremor 为开发者提供了构建高级仪表盘所需的各类基础构建模�
 The future of building dashboards is open source, component-driven, and integrated with generative UI. This acquisition supports Vercel's open source commitment and delivers improved tools to streamline UI development for developers.
 
 构建仪表盘的未来在于开源、基于组件，并与生成式 UI 深度融合。此次收购进一步强化了 Vercel 对开源的承诺，并为开发者提供更高效的工具，显著简化 UI 开发流程。
-{% endraw %}
+&#123;% endraw %}

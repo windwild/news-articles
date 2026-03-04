@@ -9,7 +9,7 @@ translated: true
 description: "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes."
 tags: ["Engineering"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 29, 2026
 
@@ -383,4 +383,4 @@ While our tooling will keep benefiting from underlying improvements in agent rea
 尽管我们的工具将持续受益于智能体在推理能力、校验机制与自我修正等方面的底层进步，但我们团队的使命始终如一：在 OpenAI 的整个数据生态中，无缝交付快速、可信的数据分析服务。
 
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

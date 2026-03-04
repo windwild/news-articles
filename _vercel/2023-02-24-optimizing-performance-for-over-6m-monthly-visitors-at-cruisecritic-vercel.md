@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Major improvements to the developer experience means Cruise Critic builds software more efficiently. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 24, 2023
 
@@ -41,4 +41,4 @@ Not only is development faster, but so is page performance. Cruise Critic saw an
 Want to learn more about how to improve your site's performance and your team's development workflow? We'd love to chat. [Get in touch with us here](https://vercel.com/contact).
 
 想进一步了解如何提升网站性能与团队开发工作流？我们非常乐意与您交流。[点击此处联系我们](https://vercel.com/contact)。
-{% endraw %}
+&#123;% endraw %}

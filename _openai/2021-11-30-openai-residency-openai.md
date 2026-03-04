@@ -9,7 +9,7 @@ translated: false
 description: "As part of our effort to support and develop AI talent, we’re excited to announce the OpenAI Residency."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 30, 2021
 
@@ -54,4 +54,4 @@ Sam Altman, CEO of OpenAI
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2021](https://openai.com/news/?tags=2021)
-{% endraw %}
+&#123;% endraw %}

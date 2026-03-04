@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Washington Post paid off tech debt by migrating to Next.js and Vercel between primary season and the 2022 US midterm elections. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 27, 2023
 
@@ -156,4 +156,4 @@ Feb 10, 2023
 Kiana and Steven
 
 基安娜与史蒂文
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to build GPT-3 AI apps with OpenAI, Next.js, and Vercel Edge Functions."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 1, 2023
 
@@ -974,4 +974,4 @@ Deploy this template
 AI Photo Restorer
 
 AI 照片修复器
-{% endraw %}
+&#123;% endraw %}

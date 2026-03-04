@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Why competitive advantage in AI comes from the platform you deploy agents on, not the agents themselves."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 9, 2026
 
@@ -247,4 +247,4 @@ In the future, every enterprise will build their version of d0. And their intern
 The success of these agents depends on the platform that runs them. Companies who invest in their internal AI stack now will not only move faster, they'll experience far higher ROI as their advantages compound over time.
 
 这些智能体的成功，取决于支撑其运行的平台。当下即开始投资构建内部 AI 技术栈的企业，不仅将获得更快的迭代速度，更将随着时间推移持续放大先发优势，从而实现远超同行的投资回报率（ROI）。
-{% endraw %}
+&#123;% endraw %}

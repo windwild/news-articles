@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 AlignmentInterpretability
 
@@ -324,4 +324,4 @@ Monte MacDiarmid led the research, designed and ran the experiments, and wrote m
 _Edited 29 April 2024:_ Added an expanded section on "Related work".
 
 _2024年4月29日修订：_ 新增并扩充了“相关工作”（Related work）一节。
-{% endraw %}
+&#123;% endraw %}

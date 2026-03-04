@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Advanced AI can transform biology and medicine—but also raises biosecurity risks. We’re proactively assessing capabilities and implementing safeguards to prevent misuse."
 ---
-{% raw %}
+&#123;% raw %}
 
 June 18, 2025
 
@@ -74,4 +74,4 @@ We also believe that complementary advances in AI and biosecurity research will 
 We look forward to more collaboration with governments, researchers, and entrepreneurs around the world—not only to ensure that the biosecurity ecosystem is prepared, but to take advantage of the astonishing breakthroughs that are still to come.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

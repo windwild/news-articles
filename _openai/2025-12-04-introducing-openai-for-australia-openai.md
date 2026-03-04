@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 4, 2025
 
@@ -65,4 +65,4 @@ OpenAI is also launching an annual Founder Day in Australia to bring together th
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

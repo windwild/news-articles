@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Sitecore and Vercel Partnership"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 12, 2023
 
@@ -132,4 +132,4 @@ Vercel 已携手多家领先数字代理机构，共同保障 Sitecore 无头架
 - Explore pre-built Sitecore [XM Cloud](https://vercel.com/integrations/sitecore-xm-cloud) and [OrderCloud](https://vercel.com/integrations/ordercloud) integrations
 
 - 探索预构建的 Sitecore [XM Cloud](https://vercel.com/integrations/sitecore-xm-cloud) 和 [OrderCloud](https://vercel.com/integrations/ordercloud) 集成
-{% endraw %}
+&#123;% endraw %}

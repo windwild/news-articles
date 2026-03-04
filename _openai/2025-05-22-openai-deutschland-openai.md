@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI announces the opening of its first office in Germany, based in Munich."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 22, 2025
 
@@ -47,4 +47,4 @@ We’re excited to help Germany seize the AI opportunity and are actively hiring
 - [2025](https://openai.com/news/?tags=2025)
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
-{% endraw %}
+&#123;% endraw %}

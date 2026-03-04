@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how th..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 14, 2025
 
@@ -54,4 +54,4 @@ We’ll have more to share soon about the [improvements underway⁠(opens in a n
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

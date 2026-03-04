@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows."
 ---
-{% raw %}
+&#123;% raw %}
 
 July 23, 2025
 
@@ -94,4 +94,4 @@ _Model ML uses OpenAI’s API platform, including GPT‑4.1, OpenAI o3, and the 
 - [Startup](https://openai.com/stories/?tags=startup)
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Technology](https://openai.com/stories/?tags=industry-technology)
-{% endraw %}
+&#123;% endraw %}

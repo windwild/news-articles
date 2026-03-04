@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 19, 2023
 
@@ -31,4 +31,4 @@ You can now choose to prevent the automatic assignment of production domains whe
 [Learn more](https://vercel.com/docs/deployments/managing-deployments#manually-promoting-to-production) in our documentation.
 
 请参阅我们的[文档](https://vercel.com/docs/deployments/managing-deployments#manually-promoting-to-production)了解更多信息。
-{% endraw %}
+&#123;% endraw %}

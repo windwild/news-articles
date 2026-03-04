@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The open-source link management platform Dub boasts over 3,000 active domains—and growing—with Vercel's multi-tenant SaaS toolkit. Learn how."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 3, 2024
 
@@ -149,4 +149,4 @@ Deploy this template
 Platforms Starter Kit
 
 Platforms 启动套件
-{% endraw %}
+&#123;% endraw %}

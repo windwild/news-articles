@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Our strategy for making updates and maintaining stability while we migrate languages."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 21, 2023
 
@@ -299,4 +299,4 @@ Vercel.com 官网落地页
 ### Visit turborepo.com
 
 ### 访问 turborepo.com
-{% endraw %}
+&#123;% endraw %}

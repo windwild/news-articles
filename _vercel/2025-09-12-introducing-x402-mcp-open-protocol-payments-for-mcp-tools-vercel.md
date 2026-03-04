@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We built x402-mcp to integrate x402 payments with Model Context Protocol (MCP) servers and the Vercel AI SDK."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 12, 2025
 
@@ -280,4 +280,4 @@ x402 为 AI 应用中的程序化支付提供了一种新方法。
 If you're building agents that need to pay for services, or APIs that want to charge agents, the starter template is a good place to begin exploring.
 
 如果您正在构建需要为服务付费的智能体（agents），或希望向智能体收费的 API，那么该入门模板是开始探索的良好起点。
-{% endraw %}
+&#123;% endraw %}

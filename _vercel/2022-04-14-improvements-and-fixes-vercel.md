@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 14, 2022
 
@@ -45,4 +45,4 @@ With your feedback, we've shipped dozens of bug fixes and small feature requests
 [Let us know](https://vercel.com/contact) other opportunities where we can improve your experience with Vercel.
 
 [欢迎告诉我们](https://vercel.com/contact)，您在使用 Vercel 过程中还发现哪些可以进一步优化的体验点。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 4, 2021
 
@@ -29,4 +29,4 @@ On October 14th, 2020, researchers from OpenAI, the Stanford Institute for Human
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
 - [Language](https://openai.com/research/index/?tags=language)
-{% endraw %}
+&#123;% endraw %}

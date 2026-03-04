@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:32:38.742445208+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **Today we’re announcing a** [**Langchain integration**](https://python.langchain.com/docs/modules/callbacks/integrations/context?ref=blog.langchain.com) **for** [**Context**](http://getcontext.ai/?ref=blog.langchain.com). This integration allows builders of Langchain chat products to receive user analytics with a one line plugin.
 
@@ -217,4 +217,4 @@ print(chat(messages))
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
-{% endraw %}
+&#123;% endraw %}

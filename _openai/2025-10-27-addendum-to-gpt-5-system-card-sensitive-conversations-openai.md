@@ -9,7 +9,7 @@ translated: false
 description: "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 27, 2025
 
@@ -29,4 +29,4 @@ We are publishing a related [blog post⁠](https://openai.com/index/strengthenin
 - [Ethics & Safety](https://openai.com/news/?tags=ethics-safety)
 - [GPT](https://openai.com/news/?tags=gpt)
 - [System Cards](https://openai.com/news/?tags=system-cards)
-{% endraw %}
+&#123;% endraw %}

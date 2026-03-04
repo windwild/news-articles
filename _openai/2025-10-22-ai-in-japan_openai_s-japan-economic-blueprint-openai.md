@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 22, 2025
 
@@ -63,4 +63,4 @@ The full Japan Economic Blueprint is available [here⁠(opens in a new window)](
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

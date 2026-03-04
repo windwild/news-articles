@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 27, 2023
 
@@ -78,4 +78,4 @@ When creating and editing Environment Variables on Vercel, you can now see hints
 Learn more about [Environment Variables](https://vercel.com/docs/projects/environment-variables).
 
 了解更多关于 [环境变量](https://vercel.com/docs/projects/environment-variables) 的信息。
-{% endraw %}
+&#123;% endraw %}

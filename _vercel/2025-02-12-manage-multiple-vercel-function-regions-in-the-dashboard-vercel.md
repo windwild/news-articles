@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now select multiple regions for your Vercel Functions directly from the dashboard. This makes configuration easier by removing the need to define regions in vercel.json."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 12, 2025
 
@@ -21,4 +21,4 @@ Pro 和 Enterprise 计划现在可直接在控制台中为 [Vercel Functions](ht
 多区域支持适用于所有 Vercel Functions，并兼容 Vercel 的 [Fluid Compute（弹性计算）](https://vercel.com/blog/introducing-fluid-compute) 实现，该技术倡导一种 [高密度全球计算模型](https://vercel.com/blog/introducing-fluid-compute#dense-global-compute-and-multi-region-failover)，旨在将动态函数部署在更靠近您数据的位置。
 
 请前往 [项目的 Settings（设置）标签页](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Ffunctions&title=Go+to+functions+settings)，自定义您的函数运行区域；或进一步了解 [如何为 Vercel Functions 配置区域](https://vercel.com/docs/functions/configuring-functions/region#configuring-regions-for-vercel-functions)。
-{% endraw %}
+&#123;% endraw %}

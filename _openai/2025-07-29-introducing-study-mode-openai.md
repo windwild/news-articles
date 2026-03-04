@@ -9,7 +9,7 @@ translated: false
 description: "Introducing study mode in ChatGPT, a new learning experience that helps you work through problems step by step, guiding students with questions, scaffolding, and feedback for deeper learning."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 29, 2025
 
@@ -251,4 +251,4 @@ As we run longer-term studies on how students learn best with AI, we intend to p
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "New to the Vercel dashboard: Vercel KV, Vercel Postgres, and Vercel Blob. Announcing serverless storage solutions available on Vercel."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 1, 2023
 
@@ -299,4 +299,4 @@ Open template](https://vercel.com/templates/next.js/postgres-starter)
 Vercel Blob is currently in Private Beta and will be rolling out soon, [sign up](https://www.vercel.com/storage/blob) to get early access. Learn more about pricing, limits, and usage in [the documentation](https://www.vercel.com/docs/storage).
 
 Vercel Blob 目前处于私测阶段，即将正式发布，[立即报名](https://www.vercel.com/storage/blob) 获取早期访问权限。有关定价、用量限制及使用详情，请参阅 [官方文档](https://www.vercel.com/docs/storage)。
-{% endraw %}
+&#123;% endraw %}

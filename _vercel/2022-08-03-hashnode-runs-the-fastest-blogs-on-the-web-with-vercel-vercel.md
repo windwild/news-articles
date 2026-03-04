@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Hashnode runs faster with Vercel"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 3, 2022
 
@@ -73,4 +73,4 @@ Get in Touch](https://vercel.com/contact/sales)
 联系专家，了解如何立即开始使用 Vercel。  
 \\  
 立即联系](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

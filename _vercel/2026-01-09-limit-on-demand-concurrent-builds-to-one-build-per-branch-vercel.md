@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Configure On-Demand Concurrent Builds to run one active build per branch. Deployments to the same branch are queued, and only the latest build runs."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 9, 2026
 
@@ -25,4 +25,4 @@ You can now configure this feature to run one active build per branch. When enab
 Enable this in your [project settings](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment) or learn more in the [documentation](https://vercel.com/docs/deployments/managing-builds#on-demand-concurrent-builds).
 
 您可在 [项目设置](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment) 中启用此功能，或参阅 [文档](https://vercel.com/docs/deployments/managing-builds#on-demand-concurrent-builds) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

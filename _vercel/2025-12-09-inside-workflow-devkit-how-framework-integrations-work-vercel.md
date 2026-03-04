@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A deep dive into how Workflow DevKit integrates with modern frameworks, from Next.js and SvelteKit to Express and Hono, using a unified pattern for creating framework integrations."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 9, 2025
 
@@ -355,4 +355,4 @@ Use familiar JavaScript to build workflows that persist across deploys and crash
 
 Get Started](https://useworkflow.dev/)  
 立即开始](https://useworkflow.dev/)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A collaboration between Anthropic's Alignment Science and Interpretability teams"
 ---
-{% raw %}
+&#123;% raw %}
 
 AlignmentInterpretability
 
@@ -245,4 +245,4 @@ Read [the full paper](https://arxiv.org/abs/2503.10965).
 If you’re interested in working on developing the science of alignment auditing, or any other research aimed at ensuring the alignment of advanced AI systems, we’d be interested in your application. You can find details on our open roles [here](https://boards.greenhouse.io/anthropic/jobs/4009165008).
 
 如果您有兴趣参与对齐审计（alignment auditing）科学体系的建设，或从事任何旨在确保先进 AI 系统对齐性的其他研究工作，我们非常欢迎您的申请。您可点击[此处](https://boards.greenhouse.io/anthropic/jobs/4009165008)了解我们当前开放的职位详情。
-{% endraw %}
+&#123;% endraw %}

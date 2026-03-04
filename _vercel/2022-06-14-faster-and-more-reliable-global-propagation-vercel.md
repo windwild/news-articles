@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 14, 2022
 
@@ -32,4 +32,4 @@ Purges now **propagate globally in ~300ms,** regardless of the region the event 
 [Deploy now](https://vercel.com/templates) to try our improved infrastructure.
 
 [立即部署](https://vercel.com/templates)，体验我们升级后的基础设施。
-{% endraw %}
+&#123;% endraw %}

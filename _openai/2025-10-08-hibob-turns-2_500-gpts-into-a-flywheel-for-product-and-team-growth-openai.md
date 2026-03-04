@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 8, 2025
 
@@ -82,4 +82,4 @@ HiBob’s model doesn’t separate technology from culture. It empowers people t
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

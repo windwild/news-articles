@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've raised $150M Series D at a $2.5B valuation to accelerate our mission to make the Web. Faster."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 23, 2021
 
@@ -107,4 +107,4 @@ We're committed to building the end-to-end platform for the entire development l
 Vercel has added an additional $150M in new funding at a valuation of more than $2.5B. This brings our total funding raised to $313M. This funding round was led by [GGV Capital](https://www.ggvc.com/), with participation from existing investors [Accel](https://accel.com/), [Bedrock Capital](http://www.bedrockcap.com/), [CRV](https://crv.com/), [Geodesic Capital](https://www.geodesiccap.com/), [Greenoaks Capital](http://www.greenoakscap.com/), [GV](https://www.gv.com/), [8VC](https://8vc.com/), [Flex Capital](https://www.flexcapital.com/), [Latacora](https://www.latacora.com/), [Salesforce Ventures](https://www.salesforce.com/company/ventures/), [SV Angel](https://www.svangel.com/), and [Tiger Global](https://www.tigerglobal.com/).
 
 Vercel 新增融资 1.5 亿美元，公司估值超过 25 亿美元。至此，Vercel 累计融资总额已达 3.13 亿美元。本轮融资由 [GGV Capital](https://www.ggvc.com/) 领投，现有投资方 [Accel](https://accel.com/)、[Bedrock Capital](http://www.bedrockcap.com/)、[CRV](https://crv.com/)、[Geodesic Capital](https://www.geodesiccap.com/)、[Greenoaks Capital](http://www.greenoakscap.com/)、[GV](https://www.gv.com/)、[8VC](https://8vc.com/)、[Flex Capital](https://www.flexcapital.com/)、[Latacora](https://www.latacora.com/)、[Salesforce Ventures](https://www.salesforce.com/company/ventures/)、[SV Angel](https://www.svangel.com/) 和 [Tiger Global](https://www.tigerglobal.com/) 也参与了本轮投资。
-{% endraw %}
+&#123;% endraw %}

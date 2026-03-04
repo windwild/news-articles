@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 6, 2023
 
@@ -23,4 +23,4 @@ Monitoring helps you detect and diagnose issues in your web applications by surf
 监控功能面向 Pro 和 Enterprise 计划用户开放：Pro 计划支持 30 天数据保留，Enterprise 计划支持 90 天数据保留。
 
 [查看我们的文档](https://vercel.com/docs/concepts/observability/monitoring) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

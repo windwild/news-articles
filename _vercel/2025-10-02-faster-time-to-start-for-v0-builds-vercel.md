@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Publishing v0 apps on Vercel got 1.1 seconds faster on average due to some optimizations on sending source files during deployment creation."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 2, 2025
 
@@ -25,4 +25,4 @@ We reduced the time it takes to send source files during deployment creation, im
 Deploy today on [v0.app](https://v0.app/).
 
 立即在 [v0.app](https://v0.app/) 上部署应用。
-{% endraw %}
+&#123;% endraw %}

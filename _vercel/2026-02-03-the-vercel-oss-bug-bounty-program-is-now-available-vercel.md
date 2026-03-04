@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel is opening its open source software bug bounty program to the public for researchers find vulnerabilities and make OSS safer"
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 3, 2026
 
@@ -93,4 +93,4 @@ We appreciate the researchers who take the time to dig into our code and report 
 [Join our bug bounty program](https://hackerone.com/vercel-open-source) or [learn more about security at Vercel](https://vercel.com/security).
 
 [加入我们的漏洞赏金计划](https://hackerone.com/vercel-open-source)，或[进一步了解 Vercel 的安全实践](https://vercel.com/security)。
-{% endraw %}
+&#123;% endraw %}

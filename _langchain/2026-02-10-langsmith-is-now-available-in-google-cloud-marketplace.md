@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Today, we&apos;re thrilled to announce that LangSmith, the agent engineering platform from LangChain, is available in Google Cloud Marketplace. Google Cloud customers can now procure LangSmith through..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Today, we're thrilled to announce that LangSmith, the agent engineering platform from LangChain, is available in Google Cloud Marketplace. Google Cloud customers can now procure LangSmith through their existing Google Cloud accounts, enabling seamless billing, simplified procurement, and the ability to draw down on existing Google Cloud commitments.
 
@@ -134,4 +134,4 @@ Ready to bring reliability, visibility, and control to your AI applications on G
 LangChain provides the agent engineering platform and open source frameworks developers need to ship reliable agents fast. Our open source frameworks, LangGraph and LangChain, help developers build agents with speed and granular control, while LangSmith offers observability, evaluation, and deployment for rapid iteration. Trusted by millions of developers worldwide and AI teams at Klarna, Clay, Cloudflare, and Cisco, LangChain provides an integrated toolset to transform LLM systems into dependable production experiences.
 
 LangChain 提供了开发者快速构建可靠智能体（agent）所需的智能体工程平台与开源框架。我们的开源框架 LangGraph 和 LangChain，助力开发者高效构建具备精细控制能力的智能体；而 LangSmith 则提供可观测性、评估能力与部署支持，加速迭代进程。LangChain 已获得全球数百万开发者的信赖，并被 Klarna、Clay、Cloudflare 和 Cisco 等企业的 AI 团队广泛采用，提供一体化工具集，将大语言模型（LLM）系统转化为稳定可靠的生产级体验。
-{% endraw %}
+&#123;% endraw %}

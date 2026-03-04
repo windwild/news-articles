@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "See a full working demo of how we built the interactive Vercel Ship '24 badge using React Three Fiber and react-three-rapier."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 17, 2024
 
@@ -259,7 +259,7 @@ extend({MeshLineGeometry, MeshLineMaterial})
 ```javascript
 export default function App() {
   return (
-    <Canvas camera={{ position: [0, 0, 13], fov: 25 }}>
+    <Canvas camera=&#123;{ position: [0, 0, 13], fov: 25 }}>
       <Physics debug interpolate gravity={[0, -40, 0]} timeStep={1 / 60}>
         <Band />
       </Physics>
@@ -271,7 +271,7 @@ export default function App() {
 ```javascript
 export default function App() {
   return (
-    <Canvas camera={{ position: [0, 0, 13], fov: 25 }}>
+    <Canvas camera=&#123;{ position: [0, 0, 13], fov: 25 }}>
       <Physics debug interpolate gravity={[0, -40, 0]} timeStep={1 / 60}>
         <Band />
       </Physics>
@@ -1267,7 +1267,7 @@ export default function App() {
   const { debug } = useControls({ debug: false })
 
   return (
-    <Canvas camera={{ position: [0, 0, 13], fov: 25 }}>
+    <Canvas camera=&#123;{ position: [0, 0, 13], fov: 25 }}>
       <ambientLight intensity={Math.PI} />
       <Physics debug={debug} interpolate gravity={[0, -40, 0]} timeStep={1 / 60}>
 ```
@@ -1298,7 +1298,7 @@ export default function App() {
   使用 leva 控制面板创建一个布尔型调试开关（初始值为 false）
 
   return (
-    <Canvas camera={{ position: [0, 0, 13], fov: 25 }}>
+    <Canvas camera=&#123;{ position: [0, 0, 13], fov: 25 }}>
       <ambientLight intensity={Math.PI} />
       <Physics debug={debug} interpolate gravity={[0, -40, 0]} timeStep={1 / 60}>
 ```
@@ -1402,4 +1402,4 @@ Nov 29, 2023
 Seif Ghezala
 
 Seif Ghezala
-{% endraw %}
+&#123;% endraw %}

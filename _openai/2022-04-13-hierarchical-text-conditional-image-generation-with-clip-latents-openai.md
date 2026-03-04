@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 13, 2022
 
@@ -28,4 +28,4 @@ Contrastive models like CLIP have been shown to learn robust representations of 
 - [CLIP](https://openai.com/research/index/?tags=technology-clip)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

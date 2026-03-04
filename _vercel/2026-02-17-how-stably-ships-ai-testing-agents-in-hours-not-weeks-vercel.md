@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How Stably, a 6-person team, ships AI testing agents faster with Vercel, moving from weeks to hours. Their shift highlights how Vercel's platform eliminates infrastructure anxiety, boosting autonomous..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 17, 2026
 
@@ -146,4 +146,4 @@ The motto that started as an internal culture shift, _if you see something, just
 **About Stably:** Stably builds AI-powered end-to-end testing that integrates directly into developer workflows, enabling coding agents to validate their own work at scale.
 
 **关于 Stably：** Stably 致力于构建由 AI 驱动的端到端测试解决方案，可直接嵌入开发者工作流，使编程智能体（coding agents）能够规模化地自主验证自身产出。
-{% endraw %}
+&#123;% endraw %}

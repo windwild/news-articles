@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readin..."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 27, 2025
 
@@ -46,4 +46,4 @@ They can also help eliminate the labor shortages which are a growing constraint 
 There’s clear reason to be confident the US can pull it off. From the interstate highway system to the Apollo program, the US has a history of thinking big, acting big, and building big. That same ambition can deliver the energy and infrastructure needed to maintain America’s global lead in AI—and ensure the technology remains a source of national prosperity and strength.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Domains Dashboard now enables zero-downtime migration by allowing SSL certificates to be pre-provisioned before migrating domains."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 5, 2025
 
@@ -29,4 +29,4 @@ You can still import a zone file or [use Domain Connect](https://vercel.com/chan
 [Try it out](https://vercel.com/d?to=/%5Bteam%5D/~/domains/&title=Pre-Generate+your+SSL+certificates) or learn more in [the docs](https://vercel.com/docs/domains/pre-generating-ssl-certs).
 
 [立即试用](https://vercel.com/d?to=/%5Bteam%5D/~/domains/&title=Pre-Generate+your+SSL+certificates) 或参阅[文档](https://vercel.com/docs/domains/pre-generating-ssl-certs)了解更多信息。
-{% endraw %}
+&#123;% endraw %}

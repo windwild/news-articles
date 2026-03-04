@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How Devolver ships game websites 73% faster with built-in CI/CD, zero-configuration integrations, Preview URLs on each pull request, and more."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 21, 2024
 
@@ -40,4 +40,4 @@ Their first project on Vercel was a revamped [Enter the Gungeon](https://enterth
 
 With all this growth and time and frustration saved, they’re even looking to expand their team to a fourth engineer. If you want to move faster and have a more streamlined frontend workflow like Devolver, [reach out to learn more about Vercel can help](https://vercel.com/contact).  
 得益于这一系列增长，以及节省下来的时间与精力，他们甚至正计划将工程团队扩充至第四位工程师。如果你也希望能像 Devolver 一样加速交付、拥有更高效的前端工作流，[欢迎联系我们，进一步了解 Vercel 如何助你成功](https://vercel.com/contact)。
-{% endraw %}
+&#123;% endraw %}

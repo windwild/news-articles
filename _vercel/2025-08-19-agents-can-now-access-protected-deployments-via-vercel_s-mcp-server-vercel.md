@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's MCP server now lets agents access deployments behind authentication, enabling them to act on your behalf."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 19, 2025
 
@@ -27,4 +27,4 @@ Vercel 的 MCP 服务器现已上线两款新工具：
 阅读文档，深入了解该服务器\\
 \\
 快速上手](https://vercel.com/docs/mcp/vercel-mcp#setup)
-{% endraw %}
+&#123;% endraw %}

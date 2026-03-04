@@ -9,7 +9,7 @@ translated: false
 description: "We’ve hired more great people to help us achieve our goals. Welcome, everyone!"
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 16, 2016
 
@@ -44,4 +44,4 @@ We’re also pumped to be working with the following people for a more limited p
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2016](https://openai.com/news/?tags=2016)
-{% endraw %}
+&#123;% endraw %}

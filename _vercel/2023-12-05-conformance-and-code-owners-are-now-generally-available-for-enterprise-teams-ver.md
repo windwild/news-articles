@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 5, 2023
 
@@ -51,4 +51,4 @@ Today, we're releasing new features to Vercel's [Developer Experience Platform](
 [Check out the documentation](https://vercel.com/docs/workflow-collaboration/conformance) to learn more or [contact us](https://vercel.com/contact/sales) to get started.
 
 请查阅[文档](https://vercel.com/docs/workflow-collaboration/conformance)了解更多信息，或[联系我们](https://vercel.com/contact/sales)立即开始。
-{% endraw %}
+&#123;% endraw %}

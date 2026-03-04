@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how v0's composite AI models combine RAG, frontier LLMs, and AutoFix to build accurate, up-to-date web app code with fewer errors and faster output."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 1, 2025
 
@@ -194,4 +194,4 @@ v0 模型系列已通过 API 及 [v0.dev](https://v0.dev/) 网站提供。您可
 ¹: A notable exception is [Perplexity Sonar](https://ai-sdk.dev/providers/ai-sdk-providers/perplexity), an "online" model.
 
 ¹：一个显著的例外是 [Perplexity Sonar](https://ai-sdk.dev/providers/ai-sdk-providers/perplexity)，一种“在线”模型。
-{% endraw %}
+&#123;% endraw %}

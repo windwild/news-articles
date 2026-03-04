@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["agent builder"]
 ---
-{% raw %}
+&#123;% raw %}
 
 ## Tag and Metadata Grouping
 
@@ -291,4 +291,4 @@ You can sign up for LangSmith [here](https://smith.langchain.com/?ref=blog.langc
 [**Access Control Updates for LangSmith**](https://blog.langchain.com/access-control-updates-for-langsmith/)
 
 [**LangSmith 访问控制更新**](https://blog.langchain.com/access-control-updates-for-langsmith/)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Understanding how v0 ensures everything you create is seo-ready by default, without changing how you build"
 ---
-{% raw %}
+&#123;% raw %}
 
 May 2, 2025
 
@@ -160,4 +160,4 @@ Get started](https://v0.app/)
 准备好在日常工作中体验 v0 的强大能力了吗？\\
 \\
 立即开始](https://v0.app/)
-{% endraw %}
+&#123;% endraw %}

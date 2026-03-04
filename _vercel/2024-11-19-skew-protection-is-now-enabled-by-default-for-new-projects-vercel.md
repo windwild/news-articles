@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 19, 2024
 
@@ -23,4 +23,4 @@ Nov 19, 2024
 Skew Protection 可确保客户端代码在一段时间内（或直至发生硬性页面刷新）与对应部署的服务器端代码保持一致。该机制可防止在创建新部署时出现版本不匹配错误，例如因哈希化资源包导致的文件名变更，或 Server Actions 触发的表单回传（post backs）等场景。
 
 了解更多关于 [Skew Protection（倾斜保护）](https://vercel.com/docs/deployments/skew-protection) 的信息。
-{% endraw %}
+&#123;% endraw %}

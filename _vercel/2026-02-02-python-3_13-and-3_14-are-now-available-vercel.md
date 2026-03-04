@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Python versions 3.13 and 3.14 are now available for use in Vercel Builds and Vercel Functions.  Python 3.14 is the new default version for new projects and deployments."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 2, 2026
 
@@ -55,4 +55,4 @@ python_version = "3.12"
 在 Pipfile 中指定 Python 版本
 
 请参阅 [Python 文档](https://vercel.com/docs/functions/runtimes/python)，了解 Vercel 上 Python 支持的更多信息。
-{% endraw %}
+&#123;% endraw %}

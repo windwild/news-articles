@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "New controls to help you safely scale your projects and prevent unexpected bills."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 5, 2023
 
@@ -184,4 +184,4 @@ Next, we're working on **powerful anomaly detection** for your spend to proactiv
 [Check out our documentation on Spend Management](https://vercel.com/docs/accounts/spend-management) and let us know your feedback.
 
 [查阅费用管理相关文档](https://vercel.com/docs/accounts/spend-management)，并欢迎随时向我们反馈您的宝贵意见。
-{% endraw %}
+&#123;% endraw %}

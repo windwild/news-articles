@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:43:15.258007824+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Today, we are excited to announce the first steps towards long-term memory support in LangGraph, available both in [Python](https://langchain-ai.github.io/langgraph/how-tos/cross-thread-persistence/?ref=blog.langchain.com) and [JavaScript](https://langchain-ai.github.io/langgraphjs/how-tos/cross-thread-persistence/?ref=blog.langchain.com). Long-term memory lets you store and recall information between conversations so your agent can **learn from feedback** and adapt to **user preferences**. This feature is part of the OSS library, and it is enabled by default for all LangGraph Cloud & Studio users.
 
@@ -99,4 +99,4 @@ These resources demonstrate one way to leverage long-term memory in LangGraph, b
 
 We encourage you to explore these materials and experiment with incorporating long-term memory into your LangGraph projects. As always, we welcome your feedback and look forward to seeing how you apply these new capabilities in your applications.  
 我们诚挚邀请您深入探索上述资料，并积极尝试将长期记忆能力集成至您的 LangGraph 项目中。一如既往，我们热切期待您的宝贵反馈，并乐于见证您如何在实际应用中发挥这些全新能力的价值。
-{% endraw %}
+&#123;% endraw %}

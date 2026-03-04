@@ -9,7 +9,7 @@ translated: false
 description: "We’re sharing a preliminary overview of the EU AI Act including upcoming deadlines and requirements, with a particular focus on prohibited and high-risk use cases"
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Published: July 30, 2024
 
@@ -146,4 +146,4 @@ OpenAI is committed to complying with the EU AI Act and we will be working close
 If your organization is trying to determine how to comply with the AI Act, you should first attempt to classify any AI systems in scope. Identify what GPAI and other AI systems you use, determine how they are classified, and consider what obligations flow from your use cases. You should also determine whether you are a provider or deployer with respect to any AI systems in scope. These issues can be complex so you should consult with legal counsel if you have questions.
 
 A Primer on the EU AI Act: What It Means for AI Providers and Deployers \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Swell"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 13, 2023
 
@@ -25,4 +25,4 @@ Swell 是一个构建在 Vercel 平台上的电商平台，它允许任何人借
 不仅商家为 Vercel 和 Next.js 所展现的多功能性与灵活性而振奋，Swell 团队自身亦深感欣喜。从原有方案迁移至 Vercel 的过程无需任何故障排查，也毫无压力。他们尤其喜爱 Vercel 的控制台（dashboard），因为它让新增平台、管理子域名变得轻而易举。无论是 API 集成、部署流程，还是操作体验与用户界面，其开发者体验均堪称卓越——因为一切皆“开箱即用”。
 
 想让您的电商网站提速升级？立即[联系我们](https://vercel.com/contact/sales)。
-{% endraw %}
+&#123;% endraw %}

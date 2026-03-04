@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Get detailed, first-party page views, traffic analytics"
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 19, 2023
 
@@ -182,4 +182,4 @@ Deploy this template
 HTML Starter
 
 HTML 启动模板
-{% endraw %}
+&#123;% endraw %}

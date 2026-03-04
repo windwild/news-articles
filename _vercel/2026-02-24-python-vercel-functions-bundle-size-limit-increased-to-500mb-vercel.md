@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The bundle size limit for Python Vercel Functions has increased from 250MB to 500MB, allowing larger dependencies and assets in a single deployment. Learn more in the docs or deploy FastAPI or Flask t..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 24, 2026
 
@@ -21,4 +21,4 @@ The [bundle size limit](https://vercel.com/docs/functions/limitations#bundle-siz
 Learn more in the [functions limitations documentation](https://vercel.com/docs/functions/limitations), or deploy [FastAPI](https://vercel.com/templates/python/fastapi-python-boilerplate) or [Flask](https://vercel.com/templates/python/flask-python-boilerplate) on Vercel to get started.
 
 欲了解更多信息，请参阅 [函数限制文档](https://vercel.com/docs/functions/limitations)，或立即在 Vercel 上部署 [FastAPI](https://vercel.com/templates/python/fastapi-python-boilerplate) 或 [Flask](https://vercel.com/templates/python/flask-python-boilerplate) 开始体验。
-{% endraw %}
+&#123;% endraw %}

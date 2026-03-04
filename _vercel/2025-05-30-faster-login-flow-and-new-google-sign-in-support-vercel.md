@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We’ve improved the login experience with a new design and support for Google sign-in, including Google One Tap. Signing in with Google is now a single-click experience."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 30, 2025
 
@@ -27,4 +27,4 @@ If your existing Vercel account's email matches your Google email, you can use t
 If the emails don’t match, you can manually connect your Google account from [your account settings](https://vercel.com/account/settings/authentication) once logged in.
 
 若邮箱不一致，您可在登录后，前往[账户设置](https://vercel.com/account/settings/authentication)手动绑定您的 Google 账户。
-{% endraw %}
+&#123;% endraw %}

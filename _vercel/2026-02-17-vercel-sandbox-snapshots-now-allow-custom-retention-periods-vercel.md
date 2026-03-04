@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Snapshots created with Vercel Sandbox can now have a configurable expiration policy set instead of the default 30 days allowing users to keep snapshots indefinitely."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 17, 2026
 
@@ -67,4 +67,4 @@ sandbox snapshot sb_1234567890 --stop --expiration 0
 Read the [documentation](https://vercel.com/docs/vercel-sandbox/concepts/snapshots) to learn more about snapshots.
 
 请阅读 [文档](https://vercel.com/docs/vercel-sandbox/concepts/snapshots)，了解有关快照的更多信息。
-{% endraw %}
+&#123;% endraw %}

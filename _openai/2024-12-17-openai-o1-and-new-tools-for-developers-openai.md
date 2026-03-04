@@ -9,7 +9,7 @@ translated: false
 description: "Introducing OpenAI o1, Realtime API improvements, a new fine-tuning method and more for developers."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # OpenAI o1 and new tools for developers
@@ -248,4 +248,4 @@ Have questions? Connect with our team on the [OpenAI Developer Forum⁠(opens in
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

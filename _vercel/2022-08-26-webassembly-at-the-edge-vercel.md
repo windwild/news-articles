@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Leverage Vercel Edge Functions with any Wasm-compatible language"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 26, 2022
 
@@ -101,4 +101,4 @@ This [example maze-solving application](https://wasm-on-the-edge.vercel.app/) cr
 If you want to learn more about WebAssembly in the Vercel Edge Functions, check out the [documentation](https://vercel.com/docs/concepts/edge-network/wasm), and our [examples](https://github.com/vercel/examples/tree/main/edge-api-routes).
 
 如需进一步了解 Vercel 边缘函数（Edge Functions）中的 WebAssembly，请参阅[文档](https://vercel.com/docs/concepts/edge-network/wasm)以及我们的[示例](https://github.com/vercel/examples/tree/main/edge-api-routes)。
-{% endraw %}
+&#123;% endraw %}

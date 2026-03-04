@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Draft Mode and Visual Editing for better content management making it easier to see your latest content changes before they’re published."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 22, 2023
 
@@ -131,4 +131,4 @@ Deploy this template
 Builder.io Shopify Commerce
 
 Builder.io Shopify 商务
-{% endraw %}
+&#123;% endraw %}

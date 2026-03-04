@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now enable Fluid Compute on a per-deployment basis. By setting \"fluid\": true in your vercel.json"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 2, 2025
 
@@ -43,4 +43,4 @@ vercel.json
 Read more in [our documentation](https://vercel.com/docs/fluid-compute#enable-for-specific-environments-and-deployments).
 
 更多详情，请参阅[我们的文档](https://vercel.com/docs/fluid-compute#enable-for-specific-environments-and-deployments)。
-{% endraw %}
+&#123;% endraw %}

@@ -7,7 +7,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 社会影响
 
@@ -453,4 +453,4 @@ On the empirical side, [Kapoor et al. (2024)](https://arxiv.org/abs/2407.01502) 
 16. Whether the adoption curve in software engineering will repeat in other domains is an open question. Software is comparatively easy to test and review—you can run code and see if it works—which makes it easier to trust an agent and catch its mistakes. In domains like law, medicine, or finance, verifying an agent’s output may require significant effort, which could slow the development of trust.
 
 16. 软件工程领域所呈现的采纳曲线是否会在其他领域重演，仍是一个开放性问题。相较而言，软件更易于测试与审查——你只需运行代码，即可直观判断其是否有效——这使得人们更容易信任智能体，也更易及时发现其错误。而在法律、医疗或金融等领域，验证智能体输出往往需要大量专业投入，这或将延缓信任关系的建立。
-{% endraw %}
+&#123;% endraw %}

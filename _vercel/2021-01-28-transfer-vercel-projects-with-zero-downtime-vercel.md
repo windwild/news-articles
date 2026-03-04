@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "With Vercel, you can now transfer projects from Hobby plan to a Vercel Team Plan with Zero Downtime"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 28, 2021
 
@@ -37,4 +37,4 @@ This feature is automatically enabled for all Hobby and Vercel Team plans. To ma
 With just a few clicks, you can upgrade or transfer your Project to a new Vercel Team plan while your Project settings and history remain intact.
 
 仅需数次点击，即可将您的项目升级或迁移至新的 Vercel Team 套餐，且项目设置与历史记录均完整保留。
-{% endraw %}
+&#123;% endraw %}

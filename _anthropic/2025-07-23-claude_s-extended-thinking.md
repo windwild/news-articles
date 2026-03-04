@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Discussing Claude's new thought process"
 ---
-{% raw %}
+&#123;% raw %}
 
 Announcements
 
@@ -207,4 +207,4 @@ The above is just a short summary of some of our extensive safety work on Claude
 You can use Claude 3.7 Sonnet now at [Claude.ai](http://claude.ai/redirect/website.v1.39b61e2c-3b3f-4461-af29-57f3feda34a4) or on [our API](https://docs.anthropic.com/en/api/getting-started). And just as Claude can now let you know what it thinks, we hope you’ll let us know what you think, too. Please send your feedback about the new model to [feedback@anthropic.com](mailto:feedback@anthropic.com).
 
 您现在即可在 [Claude.ai](http://claude.ai/redirect/website.v1.39b61e2c-3b3f-4461-af29-57f3feda34a4) 或通过 [我们的 API](https://docs.anthropic.com/en/api/getting-started) 使用 Claude 3.7 Sonnet。正如 Claude 现在能够向您表达它的想法一样，我们也诚挚期待听到您的反馈。欢迎将您对这一新模型的意见发送至 [feedback@anthropic.com](mailto:feedback@anthropic.com)。
-{% endraw %}
+&#123;% endraw %}

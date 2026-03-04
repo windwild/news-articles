@@ -9,7 +9,7 @@ translated: false
 description: "An affordable offering for universities to responsibly bring AI to campus."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 30, 2024
 
@@ -56,4 +56,4 @@ ChatGPT Edu is designed for schools that want to deploy AI more broadly to stude
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

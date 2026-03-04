@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Advanced Remix integration with streaming SSR and multi-runtime support. Dynamically stream content with Node.js and Edge runtimes, easily build your serverless API, use powerful caching headers, and ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 22, 2023
 
@@ -28,4 +28,4 @@ Mar 22, 2023
 
 
 请访问[我们的博客](https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support)，进一步了解 Vercel 如何增强 Remix 的开发体验。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How ChatPRD Scaled to 20,000 users with Vercel and the AI SDK. ChatPRD is an AI co-pilot designed for product managers, enabling them to write product requirements documents, brainstorm roadmaps, and ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 9, 2024
 
@@ -112,4 +112,4 @@ Build AI-powered applications with the AI SDK.
 
 Get started with the AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-sdk)  
 立即开始使用 AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-sdk)
-{% endraw %}
+&#123;% endraw %}

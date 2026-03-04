@@ -9,7 +9,7 @@ translated: false
 description: "We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, hea..."
 tags: ["Release"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 7, 2025
 
@@ -418,4 +418,4 @@ Play video
 
 - [ChatGPT](https://openai.com/research/index/?tags=chatgpt)
 - [2025](https://openai.com/research/index/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Put AI to work: Automate and Scale Financial Operations"
 tags: ["Webinar"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Recorded: September 30, 2024
 
@@ -25,4 +25,4 @@ Automate and scale financial operations.
 00:0030:13
 
 Put AI to work: Automate and Scale Financial Operations \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "New initiative will fuel innovation by investing in developers and organizations leveraging AI, starting in low- and middle-income countries."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 23, 2024
 
@@ -46,4 +46,4 @@ Supporting those who understand the unique cultures, economies, and social dynam
 - [Community](https://openai.com/news/?tags=community)
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

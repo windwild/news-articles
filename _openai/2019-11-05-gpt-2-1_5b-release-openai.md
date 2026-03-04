@@ -9,7 +9,7 @@ translated: false
 description: "As the final model release of GPT-2’s staged release, we’re releasing the largest version (1.5B parameters) of GPT-2 along with code and model weights to facilitate detection of outputs of GPT..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 5, 2019
 
@@ -102,4 +102,4 @@ APIJan 12, 2024](https://openai.com/index/digital-green/)
 APIMay 29, 2025](https://openai.com/index/wix/)
 
 GPT-2: 1.5B release \| OpenAI
-{% endraw %}
+&#123;% endraw %}

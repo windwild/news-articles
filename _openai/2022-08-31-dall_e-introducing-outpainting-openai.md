@@ -9,7 +9,7 @@ translated: false
 description: "Extend creativity and tell a bigger story with DALL·E images of any size."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 31, 2022
 
@@ -76,4 +76,4 @@ Outpainting is now available to all DALL·E users on desktop. To discover new re
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2022](https://openai.com/news/?tags=2022)
-{% endraw %}
+&#123;% endraw %}

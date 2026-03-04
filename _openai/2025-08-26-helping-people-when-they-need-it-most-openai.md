@@ -9,7 +9,7 @@ translated: false
 description: "How we think about safety for users experiencing mental or emotional distress, the limits of today’s systems, and the work underway to refine them."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 26, 2025
 
@@ -100,4 +100,4 @@ We are deeply aware that safeguards are strongest when every element works as in
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Last month, Vercel had the privilege of sponsoring AfroTech Conference 2022. This was our approach. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 19, 2022
 
@@ -99,4 +99,4 @@ Maybe someday soon, one of our future engineers or data scientists will come up 
 
 - [Take a tour of Vercel](https://vercel.com/vercel-product-tour)  
 - [体验 Vercel 产品导览](https://vercel.com/vercel-product-tour)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Teams on the new Pro pricing model will now have on-demand concurrent builds enabled by default. This ensures builds across projects start immediately without waiting in a queue, except when multiple ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 9, 2025
 
@@ -27,4 +27,4 @@ Sep 9, 2025
 [**更灵活的 Pro 套餐。**  
 立即使用新版 Pro 套餐开始构建：弹性积分、免费查看者席位，以及企业级功能现已全面开放。  
 了解更多](https://vercel.com/blog/new-pro-pricing-plan)
-{% endraw %}
+&#123;% endraw %}

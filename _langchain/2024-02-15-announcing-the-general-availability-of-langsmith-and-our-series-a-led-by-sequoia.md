@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:11:52.764931103+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Today, we’re thrilled to announce the **general availability of LangSmith** — our solution for LLM application development, monitoring, and testing.  
 
@@ -274,4 +274,4 @@ Thank you for going on this journey with us. Onwards!
 感谢您与我们携手同行这一旅程。继续前行！  
 
 ![](images/announcing-the-general-availability-of-langsmith-and-our-series-a-led-by-sequoia/img_002.png)
-{% endraw %}
+&#123;% endraw %}

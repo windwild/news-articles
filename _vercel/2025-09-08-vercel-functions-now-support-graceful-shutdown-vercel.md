@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Functions running on the Node.js or Python runtimes now support graceful shutdown, allowing to run cleanup tasks for up to 500 milliseconds just before shutting down."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 8, 2025
 
@@ -46,4 +46,4 @@ export default {
 Learn more about the [SIGTERM signal](https://vercel.com/docs/functions/functions-api-reference#sigterm-signal).
 
 了解更多关于 [SIGTERM 信号](https://vercel.com/docs/functions/functions-api-reference#sigterm-signal) 的信息。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "We are launching a new generation of embedding models, new GPT-4 Turbo and moderation models, new API usage management tools, and soon, lower pricing on GPT-3.5 Turbo."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 25, 2024
 
@@ -121,4 +121,4 @@ For the latest updates on OpenAI's APIs, follow us on X at [@OpenAIDevs⁠(opens
 
 1. A
 [Matryoshka Representation Learning⁠(opens in a new window)](https://arxiv.org/abs/2205.13147)
-{% endraw %}
+&#123;% endraw %}

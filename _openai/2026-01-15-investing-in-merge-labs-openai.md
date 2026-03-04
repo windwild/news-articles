@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 15, 2026
 
@@ -49,4 +49,4 @@ Merge Labs 的联合创始人包括研究人员 Mikhail Shapiro、Tyson Aflalo �
 If you are excited by their mission, you can reach out [here⁠(opens in a new window)](https://merge.io/careers).
 
 若您认同他们的使命，欢迎通过[此处⁠(在新窗口中打开)](https://merge.io/careers)与他们联系。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Promega's top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing"
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing
@@ -68,4 +68,4 @@ Looking ahead, he sees AI proficiency as a differentiator in the competitive lif
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

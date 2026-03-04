@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 5, 2021
 
@@ -51,4 +51,4 @@ This feature is now automatically activated for all new and existing Serverless 
 Check out [the documentation](http://vercel.com/docs/edge-network/headers#request-headers) as well.
 
 也请参阅 [相关文档](http://vercel.com/docs/edge-network/headers#request-headers)。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Today, OpenAI, in partnership with Mandala Partners, is sharing the OpenAI AI Economic Blueprint for Australia. At a time when boosting productivity has emerged as a national priority for Australia, t..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 30, 2025
 
@@ -52,4 +52,4 @@ See the [Economic Blueprint⁠(opens in a new window)](https://cdn.openai.com/gl
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

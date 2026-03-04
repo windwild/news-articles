@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Team owners can now enforce two-factor authentication (2FA) for every member of their team via a toggle in Security & Privacy under team settings."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 19, 2025
 
@@ -68,4 +68,4 @@ Once enforcement is enabled, members without 2FA will be restricted from:
 
 [Enable 2FA enforcement](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fsecurity&title=Go+to+Security+%26+Privacy) today, and [learn more in our docs](https://vercel.com/docs/two-factor-enforcement).  
 [立即启用 2FA 强制策略](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fsecurity&title=Go+to+Security+%26+Privacy)，并[在我们的文档中了解更多信息](https://vercel.com/docs/two-factor-enforcement)。
-{% endraw %}
+&#123;% endraw %}

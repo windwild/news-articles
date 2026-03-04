@@ -9,7 +9,7 @@ translated: true
 description: "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation."
 tags: ["Engineering"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 22, 2026
 
@@ -216,4 +216,4 @@ Looking ahead, we’ll continue to explore additional approaches to further scal
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

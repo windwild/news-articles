@@ -7,7 +7,7 @@ language: "en-zh"
 translated: true
 description: "A theory of why AI models act like humans"
 ---
-{% raw %}
+&#123;% raw %}
 
 Alignment
 
@@ -132,4 +132,4 @@ We are excited about research targeted at answering these questions, and, more g
 Read the [full post](https://alignment.anthropic.com/2026/psm).
 
 阅读[完整文章](https://alignment.anthropic.com/2026/psm)。
-{% endraw %}
+&#123;% endraw %}

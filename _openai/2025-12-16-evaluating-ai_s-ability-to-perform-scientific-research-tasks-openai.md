@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 16, 2025
 
@@ -424,4 +424,4 @@ Looking ahead, we expect progress in scientific reasoning to come from both bett
 
 - [Reasonings & Policy](https://openai.com/news/?tags=reasoning-policy)  
 - [推理与策略](https://openai.com/news/?tags=reasoning-policy)
-{% endraw %}
+&#123;% endraw %}

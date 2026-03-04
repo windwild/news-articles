@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 Alignment
 
@@ -162,4 +162,4 @@ Many people have reported finding Claude 3 to be more engaging and interesting t
 If character training has indeed made Claude 3 more interesting to talk to, this is consistent with our view that successful alignment interventions will increase, not decrease, the value of AI models for humans.
 
 倘若角色训练的确提升了 Claude 3 的对话趣味性，这也正印证了我们的观点：成功的对齐（alignment）干预措施，将提升而非削弱 AI 模型对人类的价值。
-{% endraw %}
+&#123;% endraw %}

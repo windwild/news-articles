@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Skills support is now available in bash-tool, so your AI SDK agents can use the skills pattern with filesystem context, Bash execution, and sandboxed runtime access."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 21, 2026
 
@@ -101,4 +101,4 @@ Example of using skills with bash-tool in an AI SDK ToolLoopAgent
 Read the [`bash-tool` changelog](https://vercel.com/changelog/introducing-bash-tool-for-filesystem-based-context-retrieval) for background and check out [createSkillTool documentation.](https://github.com/vercel-labs/bash-tool?tab=readme-ov-file#skills-experimental)
 
 请参阅 [`bash-tool` 更新日志](https://vercel.com/changelog/introducing-bash-tool-for-filesystem-based-context-retrieval) 了解背景信息，并查阅 [createSkillTool 文档](https://github.com/vercel-labs/bash-tool?tab=readme-ov-file#skills-experimental)。
-{% endraw %}
+&#123;% endraw %}

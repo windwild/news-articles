@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: " Seeking an improved online experience, PAIGE reimagined their ecommerce strategy by simplifying their headless tech stack—one powered by Shopify, Next.js, and Vercel—that ultimately boosted their..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 3, 2025
 
@@ -125,4 +125,4 @@ Vercel.com 官网落地页
 
 ### Composable commerce on Vercel  
 ### 基于 Vercel 的可组合式电商
-{% endraw %}
+&#123;% endraw %}

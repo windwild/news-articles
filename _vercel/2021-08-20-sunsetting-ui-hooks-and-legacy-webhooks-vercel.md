@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 20, 2021
 
@@ -63,4 +63,4 @@ requests to the configured generic Webhook URL will be not send anymore.
 Check the [updated documentation](https://vercel.com/docs/integrations#upgrading-your-integration) to learn more about upgrading your Integration.
 
 请查阅[更新后的文档](https://vercel.com/docs/integrations#upgrading-your-integration)，了解如何升级您的 Integration。
-{% endraw %}
+&#123;% endraw %}

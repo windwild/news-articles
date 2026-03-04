@@ -9,7 +9,7 @@ translated: false
 description: "Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future"
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Arizona State University personalizes learning and advances research with ChatGPT
@@ -78,4 +78,4 @@ This mindset has translated to even more opportunities for students. “After se
 [Talk with our team](https://chatgpt.com/contact-sales?openaicom-did=550562d1-0353-4b22-b542-4afb18a95d60&openaicom_referred=true) [Learn more](https://openai.com/chatgpt/education/)
 
 Personalizing education with ChatGPT \| OpenAI
-{% endraw %}
+&#123;% endraw %}

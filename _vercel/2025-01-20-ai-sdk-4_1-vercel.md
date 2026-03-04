@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI SDK 4.1 introduces image generation, non-blocking data streaming, improved tool calling, and more"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 20, 2025
 
@@ -1103,4 +1103,4 @@ AI SDK 4.1 是由我们在 [Vercel](https://tweets.vercel.fyi/) 的核心团队�
 Your feedback and contributions are invaluable as we continue to evolve the AI SDK.
 
 在 AI SDK 持续演进的过程中，您的反馈与贡献弥足珍贵。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation o..."
 ---
-{% raw %}
+&#123;% raw %}
 
 November 3, 2025
 
@@ -42,4 +42,4 @@ This news continues the companies’ work together to provide cutting-edge AI te
 To get started with OpenAI’s open weight models in Amazon Bedrock, visit: [aws.amazon.com/bedrock/openai⁠(opens in a new window)](https://aws.amazon.com/bedrock/openai)
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Today, we’re releasing  new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 6, 2025
 
@@ -101,4 +101,4 @@ We can’t wait to see what you build.
 
 - [2025](https://openai.com/news/?tags=2025)
 - [DevDay](https://openai.com/news/?tags=devday)
-{% endraw %}
+&#123;% endraw %}

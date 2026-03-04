@@ -8,7 +8,7 @@ translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 tags: ["Interpretability"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Interpretability
 
@@ -383,4 +383,4 @@ In collaboration with Neuronpedia, our researchers are also providing a [researc
 _**Note:** this demo includes responses to prompts referencing self-harm, to illustrate how the safety intervention improves model behavior. This content may be distressing and should not be viewed by vulnerable persons. Please proceed only if you're comfortable viewing such material, and do not distribute it. If you're in crisis or require support, resources are available at findahelpline.com._
 
 _**注意：** 本演示包含对涉及自伤主题的提示所生成的模型响应，旨在展示安全干预机制如何改善模型行为。相关内容可能引发心理不适，不建议心理脆弱者观看。请您仅在确认自身可承受此类内容的前提下继续浏览，且切勿传播。如您正处于心理危机中或需要支持，请访问 findahelpline.com 获取援助资源。_
-{% endraw %}
+&#123;% endraw %}

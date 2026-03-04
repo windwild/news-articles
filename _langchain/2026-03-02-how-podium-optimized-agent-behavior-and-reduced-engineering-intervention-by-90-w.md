@@ -9,7 +9,7 @@ translated: true
 description: "See how Podium tests across the lifecycle development of their AI employee agent, using LangSmith for dataset curation and finetuning. They improved agent F1 response quality to 98% and reduced the ne..."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 ## **About Podium**
 
@@ -257,4 +257,4 @@ Together, these suite of products have allowed Podium to focus on their core val
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

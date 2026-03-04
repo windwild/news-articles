@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Empirical evidence that serious misalignment can emerge from seemingly benign reward misspecification."
 ---
-{% raw %}
+&#123;% raw %}
 
 Alignment
 
@@ -164,4 +164,4 @@ If you’d like to help us address these questions, or questions of AI Alignment
 [Investigating Reward Tampering in Language Models Policy Memo](https://cdn.sanity.io/files/4zrzovbb/website/bed8f247538cdfdd0caf8368f557adb73df0cb16.pdf)
 
 [关于语言模型中奖励机制篡改问题的调查政策备忘录](https://cdn.sanity.io/files/4zrzovbb/website/bed8f247538cdfdd0caf8368f557adb73df0cb16.pdf)
-{% endraw %}
+&#123;% endraw %}

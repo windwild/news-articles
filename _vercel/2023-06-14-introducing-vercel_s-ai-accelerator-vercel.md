@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A 6 week program with over $850k in credits from Vercel and top AI platforms."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 14, 2023
 
@@ -209,4 +209,4 @@ Deploy this template
 AI Photo Restorer
 
 AI 照片修复工具
-{% endraw %}
+&#123;% endraw %}

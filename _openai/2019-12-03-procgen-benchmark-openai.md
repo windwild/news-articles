@@ -9,7 +9,7 @@ translated: false
 description: "We’re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 3, 2019
 
@@ -253,4 +253,4 @@ _If you’re interested in helping develop diverse environments,_ [_we’re hir
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
-{% endraw %}
+&#123;% endraw %}

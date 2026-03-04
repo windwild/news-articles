@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI-powered Next.js docs search: Ask questions, review queries, copy code, and leave feedback."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 8, 2025
 
@@ -28,4 +28,4 @@ Jan 8, 2025
 
 
 请在 [nextjs.org/docs](https://nextjs.org/docs) 页面中，通过 `⌘K`（Windows 系统为 `Ctrl+K`）快捷键打开搜索菜单，立即开始搜索。
-{% endraw %}
+&#123;% endraw %}

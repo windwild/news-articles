@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 11, 2020
 
@@ -31,4 +31,4 @@ In the new **Install Command** section within the Project Settings, you can now 
 Check out [the documentation](https://vercel.com/docs/build-step#install-command) as well.
 
 也欢迎查阅 [相关文档](https://vercel.com/docs/build-step#install-command)。
-{% endraw %}
+&#123;% endraw %}

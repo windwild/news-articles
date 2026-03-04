@@ -9,7 +9,7 @@ translated: false
 description: "We’re launching a pilot subscription plan for ChatGPT, a conversational AI that can chat with you, answer follow-up questions, and challenge incorrect assumptions."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 1, 2023
 
@@ -47,4 +47,4 @@ We plan to refine and expand this offering based on your feedback and needs. We�
 
 1. A
 We expanded access to ChatGPT Plus for customers outside of the United States on February 10th, 2023.
-{% endraw %}
+&#123;% endraw %}

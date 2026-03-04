@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Secure Compute and Vercel Firewall for enhanced protection of your applications"
 ---
-{% raw %}
+&#123;% raw %}
 
 May 2, 2023
 
@@ -186,4 +186,4 @@ Feb 17, 2023
 Alli Pope
 
 Alli Pope
-{% endraw %}
+&#123;% endraw %}

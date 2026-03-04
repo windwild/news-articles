@@ -9,7 +9,7 @@ translated: true
 description: "Set up real‑time notifications on error rates, run latency & feedback scores to spot failures before your customers do."
 tags: ["agent builder"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Great user experiences start with reliable applications. That’s why catching failures _before_ they reach your users is key. To help you stay ahead, we’ve launched **Alerts in LangSmith—** making it easier to monitor your LLM apps and agents in real time.
 
@@ -148,4 +148,4 @@ If you have feedback or feature requests, let us know what you think by getting 
 [**LangSmith's Latest Feature: Grouped Monitoring Charts**](https://blog.langchain.com/grouped-monitoring-charts/)
 
 [**LangSmith 最新功能：分组监控图表**](https://blog.langchain.com/grouped-monitoring-charts/)
-{% endraw %}
+&#123;% endraw %}

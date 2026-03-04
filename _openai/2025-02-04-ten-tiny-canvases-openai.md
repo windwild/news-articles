@@ -9,7 +9,7 @@ translated: false
 description: "Using ChatGPT to find inspiration for nail art"
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 4, 2025
 
@@ -121,4 +121,4 @@ ChatGPTFeb 4, 2025](https://openai.com/index/my-dog-the-math-tutor/)
 APIDec 11, 2024](https://openai.com/index/zalando/)
 
 Ten tiny canvases \| OpenAI
-{% endraw %}
+&#123;% endraw %}

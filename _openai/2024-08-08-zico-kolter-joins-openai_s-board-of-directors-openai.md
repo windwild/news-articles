@@ -10,7 +10,7 @@ description: "Zico Kolter Joins OpenAI’s Board of Directors
 We’re strengthening our governance with expertise in AI safety and alignment. Zico will also join the Safety & Security Committee"
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 8, 2024
 
@@ -35,4 +35,4 @@ Zico's research includes developing the first methods for creating deep learning
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [Community](https://openai.com/news/?tags=community)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

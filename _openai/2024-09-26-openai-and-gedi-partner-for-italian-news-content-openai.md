@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI and GEDI announce strategic partnership to bring Italian-language news content to ChatGPT."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 26, 2024
 
@@ -42,4 +42,4 @@ Sam Altman, CEO of OpenAI, said, “It’s important we work with publishers aro
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

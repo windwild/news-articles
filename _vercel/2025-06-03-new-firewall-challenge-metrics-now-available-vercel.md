@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now monitor and query for challenge outcomes with two new metrics, available in the Firewall and Observability dashboards."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 3, 2025
 
@@ -37,4 +37,4 @@ Now available in the Firewall [dashboard](https://vercel.com/d?to=%2F%5Bteam%5D%
 Learn more about [custom rules](https://vercel.com/docs/vercel-firewall/vercel-waf/custom-rules) and [managed rulesets](https://vercel.com/docs/vercel-firewall/vercel-waf/managed-rulesets).
 
 了解更多关于 [自定义规则](https://vercel.com/docs/vercel-firewall/vercel-waf/custom-rules) 和 [托管规则集](https://vercel.com/docs/vercel-firewall/vercel-waf/managed-rulesets) 的信息。
-{% endraw %}
+&#123;% endraw %}

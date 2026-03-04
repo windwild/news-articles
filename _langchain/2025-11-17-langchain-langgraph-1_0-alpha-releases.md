@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:18:57.203831832+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Today we are announcing alpha releases of v1.0 for [`langgraph`](https://github.com/langchain-ai/langgraph?ref=blog.langchain.com) and [`langchain`](https://github.com/langchain-ai/langchain?ref=blog.langchain.com), in both Python and JS.  
 
@@ -162,4 +162,4 @@ LangGraph：`pip install langgraph==1.0.0a1`
 Again - please give us feedback on these 1.0 releases (and docs) [here](https://forum.langchain.com/t/langchain-1-0-alpha/1436?ref=blog.langchain.com). You can also find GitHub discussion items ( [LangChain](https://github.com/langchain-ai/langchain/issues/32794?ref=blog.langchain.com), [LangGraph](https://github.com/langchain-ai/langgraph/issues/6062?ref=blog.langchain.com)). This is a big milestone - we are excited to work on this with the community over the next two months.
 
 再次诚邀您就本次 1.0 版本（及配套文档）提供宝贵反馈，欢迎前往 [此处](https://forum.langchain.com/t/langchain-1-0-alpha/1436?ref=blog.langchain.com) 留言。您也可查阅 GitHub 上的相关讨论话题（[LangChain](https://github.com/langchain-ai/langchain/issues/32794?ref=blog.langchain.com)、[LangGraph](https://github.com/langchain-ai/langgraph/issues/6062?ref=blog.langchain.com)）。这是一个重要的里程碑——我们非常期待在未来两个月内与社区携手共进，持续推进这一版本的完善与发展。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Multiagent environments where agents compete for resources are stepping stones on the path to AGI. Multiagent environments have two useful properties: first, there is a natural curriculum—the diffic..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 8, 2017
 
@@ -84,4 +84,4 @@ Agent modeling has a [rich history⁠(opens in a new window)](https://link.spri
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
-{% endraw %}
+&#123;% endraw %}

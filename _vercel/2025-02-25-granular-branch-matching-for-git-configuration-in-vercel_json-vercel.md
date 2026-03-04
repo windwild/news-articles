@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now specify glob patterns for Git branches in the `git.deploymentEnabled` field in `vercel.json`."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 25, 2025
 
@@ -48,4 +48,4 @@ vercel.json
 Learn more about [Git configuration](https://vercel.com/docs/projects/project-configuration/git-configuration#git-configuration).
 
 了解更多关于 [Git 配置](https://vercel.com/docs/projects/project-configuration/git-configuration#git-configuration) 的信息。
-{% endraw %}
+&#123;% endraw %}

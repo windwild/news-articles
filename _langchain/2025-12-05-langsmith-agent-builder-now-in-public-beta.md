@@ -10,7 +10,7 @@ description: "Now anyone can create production ready agents without writing code
 Agent Builder guides you from initial idea to deployed agent, creating detailed prompts, selecting required tools, and ev..."
 tags: ["agent builder", "agents"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Today, we're expanding who can build agents. Now, anyone can create production ready agents without writing code using LangSmith Agent Builder.
 
@@ -260,4 +260,4 @@ If you're not using Agent Builder yet, you can [try it for free using LangSmith]
 [**Access Control Updates for LangSmith**](https://blog.langchain.com/access-control-updates-for-langsmith/)
 
 [**LangSmith 访问控制功能更新**](https://blog.langchain.com/access-control-updates-for-langsmith/)
-{% endraw %}
+&#123;% endraw %}

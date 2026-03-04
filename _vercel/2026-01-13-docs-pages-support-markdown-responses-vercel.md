@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Docs pages now accept `Accept: text/markdown` to return Markdown instead of HTML, and include a `sitemap.md` link at the end for programmatic discovery."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 13, 2026
 
@@ -49,4 +49,4 @@ curl -sL https://vercel.com/docs \
 Example request using the \`Accept: text/markdown\` header.
 
 使用 \`Accept: text/markdown\` 请求头的示例请求。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "We funded 10 teams from around the world to design ideas and tools to collectively govern AI. We summarize the innovations, outline our learnings, and call for researchers and engineers to join us as ..."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 16, 2024
 
@@ -155,4 +155,4 @@ We are recruiting exceptional research engineers from diverse technical backgrou
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

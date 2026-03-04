@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing Vercel OG Image Generation, a new library for generating dynamic social card images."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 10, 2022
 
@@ -124,7 +124,7 @@ export default function () {
 
 10      <div
 
-11        style={{
+11        style=&#123;{
 
 12          display: 'flex',
 ```
@@ -138,7 +138,7 @@ export default function () {
 
 10      <div
 
-11        style={{
+11        style=&#123;{
 
 12          display: 'flex',
 ```
@@ -337,4 +337,4 @@ Vercel OG 图像生成（基于 Vercel Edge Functions）现已开放公开测试
 - [Deploy your first social card](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/edge-functions/vercel-og-nextjs&project-name=vercel-og-nextjs&repository-name=vercel-og-nextjs)
 
 - [部署你的第一张社交卡片](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/edge-functions/vercel-og-nextjs&project-name=vercel-og-nextjs&repository-name=vercel-og-nextjs)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Developers can now fine-tune GPT-4o with images and text to improve vision capabilities"
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 1, 2024
 
@@ -115,4 +115,4 @@ To get started, visit the [fine-tuning dashboard⁠(opens in a new window)](http
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

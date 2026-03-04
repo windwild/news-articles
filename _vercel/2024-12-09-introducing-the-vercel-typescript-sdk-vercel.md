@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A new type-safe SDK for working with the Vercel REST API."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 9, 2024
 
@@ -90,4 +90,4 @@ const result = await vercel.deployments.getDeployment({
 
 [View the docs](https://vercel.com/docs/rest-api/sdk) or [explore the repo](https://github.com/vercel/sdk).  
 [查看文档](https://vercel.com/docs/rest-api/sdk) 或 [浏览代码仓库](https://github.com/vercel/sdk)。
-{% endraw %}
+&#123;% endraw %}

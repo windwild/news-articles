@@ -9,7 +9,7 @@ translated: false
 description: "An update on our findings, the actions we’ve taken, and technical details of the bug."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 24, 2023
 
@@ -72,4 +72,4 @@ The Redis open-source maintainers have been fantastic collaborators, swiftly add
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

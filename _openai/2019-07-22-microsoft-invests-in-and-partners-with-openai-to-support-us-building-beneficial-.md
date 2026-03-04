@@ -9,7 +9,7 @@ translated: false
 description: "Microsoft is investing $1 billion in OpenAI to support us building artificial general intelligence (AGI) with widely distributed economic benefits. We’re partnering to develop a hardware and softwar..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 22, 2019
 
@@ -41,4 +41,4 @@ We believe that the creation of beneficial AGI will be the most important techno
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2019](https://openai.com/news/?tags=2019)
-{% endraw %}
+&#123;% endraw %}

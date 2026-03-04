@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:52:54.660208086+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **Today we are excited to announce** [**LangGraph templates**](https://langgraph-studio.vercel.app/?ref=blog.langchain.com) **, available in both Python and JS. These template repositories address common use cases and are designed for easy configuration and deployment to** [**LangGraph Cloud**](https://langchain-ai.github.io/langgraph/cloud/?ref=blog.langchain.com) **. The best way to use these is to download the newest version of** [**LangGraph Studio**](https://github.com/langchain-ai/langgraph-studio?ref=blog.langchain.com) **, but you can also use them as standalone GitHub repos.**
 
@@ -135,4 +135,4 @@ LangGraph 已被证实具备高度可配置性与高度可定制性，我们坚�
 
 - [**LangGraph**](https://langchain-ai.github.io/langgraph/?ref=blog.langchain.com)  
 - [**LangGraph 官方文档**](https://langchain-ai.github.io/langgraph/?ref=blog.langchain.com)
-{% endraw %}
+&#123;% endraw %}

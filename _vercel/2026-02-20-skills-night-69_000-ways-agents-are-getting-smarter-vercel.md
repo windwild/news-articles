@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Andrew Qu reflects on Skills Night SF: how a weekend project became 69,000 community-created skills, the security partnerships protecting them, and what eight partner demos revealed about agents, cont..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 20, 2026
 
@@ -192,4 +192,4 @@ Join us in London for our next skills.sh event. See from developers how they're 
 Join us in London](https://luma.com/l4nmctta)  
 \\  
 欢迎来到伦敦！](https://luma.com/l4nmctta)
-{% endraw %}
+&#123;% endraw %}

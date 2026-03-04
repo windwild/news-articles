@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Today we announce $40M in new funding to help everyone build the next web."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 16, 2020
 
@@ -61,4 +61,4 @@ Our goal in 2021 is to invest to help **everyone** [build the next web](https://
 _Vercel has secured $40M in series B funding in a round led by_ [_GV_](https://www.gv.com/) _, with participation from new investors_ [_Greenoaks Capital_](http://www.greenoakscap.com/) _,_ [_Bedrock Capital_](http://www.bedrockcap.com/) _, and_ [_Geodesic Capital_](https://www.geodesiccap.com/) _in addition to existing investors_ [_Accel_](https://accel.com/) _and_ [_CRV._](https://crv.com/) _The new funding, which brings the total raised to $61M, will be used to accelerate research and development, drive platform innovation, and scale its team globally to further accelerate frontend developers’ ability to enrich end users’ web experiences._
 
 _Vercel 已完成 4000 万美元的 B 轮融资，本轮融资由_ [_GV_](https://www.gv.com/) _领投，新晋投资方包括_ [_Greenoaks Capital_](http://www.greenoakscap.com/) _、_ [_Bedrock Capital_](http://www.bedrockcap.com/) _和_ [_Geodesic Capital_](https://www.geodesiccap.com/) _；现有投资方_ [_Accel_](https://accel.com/) _与_ [_CRV_](https://crv.com/) _亦继续跟投。本次融资使 Vercel 累计融资总额达 6100 万美元，资金将主要用于加速研发进程、推动平台创新，并在全球范围内扩充团队，从而进一步提升前端开发者丰富终端用户 Web 体验的能力。_
-{% endraw %}
+&#123;% endraw %}

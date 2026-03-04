@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:15:13.082627749+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 ## TL;DR
 
@@ -352,4 +352,4 @@ Check out our course on how to build your own deep research agent to handle rese
 [Head to LangChain Academy](https://academy.langchain.com/courses/deep-research-with-langgraph?ref=blog.langchain.com)
 
 [前往 LangChain Academy](https://academy.langchain.com/courses/deep-research-with-langgraph?ref=blog.langchain.com)
-{% endraw %}
+&#123;% endraw %}

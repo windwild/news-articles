@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We rebuilt the Vercel Domains experience to make search and checkout significantly faster and more reliable."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 25, 2025
 
@@ -55,4 +55,4 @@ An upcoming blog will share how we built this speed using structured concurrency
 Try it now at [vercel.com/domains](https://vercel.com/domains).
 
 立即试用：[vercel.com/domains](https://vercel.com/domains)。
-{% endraw %}
+&#123;% endraw %}

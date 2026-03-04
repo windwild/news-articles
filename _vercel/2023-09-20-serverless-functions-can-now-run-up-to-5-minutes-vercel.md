@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 20, 2023
 
@@ -31,4 +31,4 @@ Sep 20, 2023
 Hobby 和 Enterprise 计划用户的现有默认设置维持不变。
 
 [请参阅我们的文档](https://vercel.com/docs/functions/serverless-functions/runtimes)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

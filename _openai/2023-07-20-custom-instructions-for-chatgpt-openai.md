@@ -9,7 +9,7 @@ translated: false
 description: "We’re rolling out custom instructions to give you more control over how ChatGPT responds. Set your preferences, and ChatGPT will keep them in mind for all future conversations."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 20, 2023
 
@@ -258,4 +258,4 @@ This feature is not yet available in the UK and EU.
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

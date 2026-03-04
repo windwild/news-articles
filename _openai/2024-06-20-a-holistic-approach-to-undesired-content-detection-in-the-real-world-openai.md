@@ -9,7 +9,7 @@ translated: false
 description: "We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 20, 2024
 
@@ -24,4 +24,4 @@ We present a holistic approach to building a robust and useful natural language 
 
 - [Language](https://openai.com/research/index/?tags=language)
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
-{% endraw %}
+&#123;% endraw %}

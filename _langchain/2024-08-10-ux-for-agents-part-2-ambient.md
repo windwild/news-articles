@@ -9,7 +9,7 @@ translated: true
 description: "This is our second post focused on UX for agents. We discuss ambient background agents, which can handle multiple tasks at the same time, and how they can be used in your workflow."
 tags: ["Harrison's Hot Takes"]
 ---
-{% raw %}
+&#123;% raw %}
 
 _At Sequoia’s AI Ascent conference in March, I talked about three limitations for agents: planning, UX, and memory. Check out that talk_ [_here_](https://www.youtube.com/watch?v=pBBe1pk8hf4&ref=blog.langchain.com) _. This is our second post on UX for agents, focused on ambient agents._
 
@@ -184,4 +184,4 @@ If you’re building an application with ambient agents, please reach out. We’
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 min read
 
 [Harrison 的热点评论](https://blog.langchain.com/tag/in-the-loop/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

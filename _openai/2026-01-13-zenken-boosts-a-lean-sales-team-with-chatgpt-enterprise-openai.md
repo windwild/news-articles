@@ -9,7 +9,7 @@ translated: true
 description: "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver..."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 13, 2026
 
@@ -144,4 +144,4 @@ Adoption is also strong at the individual level. Weekly active usage of ChatGPT 
 For Zenken, ChatGPT Enterprise is more than a tool. In Okada’s words, it has become a partner that is changing how employees think and work. The company now sees ChatGPT Enterprise as a core platform that supports everything from day to day efficiency and strategic planning to talent development and, ultimately, company wide transformation.
 
 对 Zenken 而言，ChatGPT Enterprise 远不止是一款工具。用冈田的话说，它已成长为一位合作伙伴，正悄然改变着员工的思维方式与工作模式。如今，Zenken 将 ChatGPT Enterprise 视为核心平台——它既支撑日常运营效率与战略规划，也赋能人才培养，并最终驱动企业级的整体转型。
-{% endraw %}
+&#123;% endraw %}

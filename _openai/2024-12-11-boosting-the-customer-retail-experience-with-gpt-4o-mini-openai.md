@@ -9,7 +9,7 @@ translated: false
 description: "Zalando boosts the customer experience with its Assistant, powered by GPT-4o mini"
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Zalando boosts the customer experience with its Assistant, powered by GPT‑4o mini
@@ -74,4 +74,4 @@ Building on this success, Zalando is progressing the Assistant with more convers
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

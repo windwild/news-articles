@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can use Perplexity web search with any model and any provider on Vercel AI Gateway to access real-time results and up-to-date information."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 14, 2026
 
@@ -281,4 +281,4 @@ const result = await streamText({
 For more information, see the [AI Gateway Perplexity Web Search docs](https://vercel.com/docs/ai-gateway/web-search#using-perplexity-search).
 
 有关更多信息，请参阅 [AI Gateway Perplexity 网络搜索文档](https://vercel.com/docs/ai-gateway/web-search#using-perplexity-search)。
-{% endraw %}
+&#123;% endraw %}

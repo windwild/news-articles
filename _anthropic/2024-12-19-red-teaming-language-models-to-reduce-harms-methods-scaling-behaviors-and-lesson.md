@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 Societal Impacts
 
@@ -46,4 +46,4 @@ We describe our early efforts to red team language models in order to simultaneo
 ## 政策备忘录
 
 [Red Teaming Policy Memo](https://www-cdn.anthropic.com/82564d4ec2451b2eed2e0796b7c658fc989f0c1a/Anthropic_RedTeaming.pdf)
-{% endraw %}
+&#123;% endraw %}

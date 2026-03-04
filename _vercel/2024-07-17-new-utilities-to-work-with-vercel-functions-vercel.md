@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 17, 2024
 
@@ -31,4 +31,4 @@ pnpm i @vercel/functions​
 ```
 
 在[文档](https://vercel.com/docs/functions/vercel-functions-package)中了解更多信息。
-{% endraw %}
+&#123;% endraw %}

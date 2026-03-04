@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 19, 2024
 
@@ -32,4 +32,4 @@ The Support Center now has an improved design to make it easier to understand th
 [Support Center](https://vercel.com/docs/dashboard-features/support-center) is available to Pro and Enterprise customers.
 
 [支持中心](https://vercel.com/docs/dashboard-features/support-center) 面向 Vercel Pro 和 Enterprise 计划用户开放。
-{% endraw %}
+&#123;% endraw %}

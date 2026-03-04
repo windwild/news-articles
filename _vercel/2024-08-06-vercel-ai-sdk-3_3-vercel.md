@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel AI SDK 3.3 introduces tracing, multi-modal attachments, JSON streaming to clients, and more."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 6, 2024
 
@@ -819,4 +819,4 @@ Special thanks for contributing merged pull requests:
 Your feedback and contributions are invaluable as we continue to evolve the SDK.
 
 您宝贵的反馈与贡献，对我们持续完善 SDK 至关重要。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Drains now power Marketplace integrations, letting developers stream logs, traces, and analytics from Vercel projects to tools like Braintrust for real-time observability and debugging."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 15, 2025
 
@@ -47,4 +47,4 @@ This update gives teams more flexibility to use their preferred observability to
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fdrains) or [learn more](http://vercel.com/docs/drains#getting-started-with-drains) about this update available to Pro and ENT customers.
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fdrains) 或 [了解详情](http://vercel.com/docs/drains#getting-started-with-drains)，此更新面向 Pro 和 ENT 用户开放。
-{% endraw %}
+&#123;% endraw %}

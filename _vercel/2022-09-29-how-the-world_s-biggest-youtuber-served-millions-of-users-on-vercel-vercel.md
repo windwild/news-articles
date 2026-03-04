@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Find out how basement.studio balanced performance, entertainment, and reliability for MrBeast's new storefront. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 29, 2022
 
@@ -148,4 +148,4 @@ Thanks to Vercel, Shopify, Axiom, and the media & TV company's team, we stuck to
 In the end, the work speaks for itself.  
 
 最终，成果本身已不言自明。
-{% endraw %}
+&#123;% endraw %}

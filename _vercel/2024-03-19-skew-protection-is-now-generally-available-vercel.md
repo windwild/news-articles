@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 19, 2024
 
@@ -37,4 +37,4 @@ SvelteKit 现已支持 Skew Protection（Vercel 适配器 `v5.2.0` 版本），�
 [Learn more in the documentation](https://vercel.com/docs/deployments/skew-protection) to get started with Skew Protection.
 
 请参阅[文档](https://vercel.com/docs/deployments/skew-protection)，了解如何开始使用 Skew Protection。
-{% endraw %}
+&#123;% endraw %}

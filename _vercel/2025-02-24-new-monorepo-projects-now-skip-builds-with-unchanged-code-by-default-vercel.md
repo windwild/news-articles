@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now defaults to skipping builds for unchanged code in monorepos, reducing queue times and improving efficiency. Additionally, the setting for this behavior has been added to the Vercel Terrafor..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 24, 2025
 
@@ -31,4 +31,4 @@ Additionally, this setting has been added to the [Vercel provider for Terraform]
 Learn more about [skipping deployments](https://vercel.com/docs/monorepos#skipping-unaffected-projects).
 
 了解更多关于[跳过部署](https://vercel.com/docs/monorepos#skipping-unaffected-projects)的信息。
-{% endraw %}
+&#123;% endraw %}

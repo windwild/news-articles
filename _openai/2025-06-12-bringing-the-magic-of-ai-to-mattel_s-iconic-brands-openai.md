@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and Mattel are partnering to integrate AI into iconic brands such as Barbie and Hot Wheels, aiming to enhance creative development, streamline workflows, and create new ways for fans to engage."
 ---
-{% raw %}
+&#123;% raw %}
 
 June 12, 2025
 
@@ -33,4 +33,4 @@ This first-of-its-kind collaboration with OpenAI arrives as Mattel deploys ChatG
 - [Retail](https://openai.com/news/?tags=industry-retail)
 - [Creativity](https://openai.com/news/?tags=creativity)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

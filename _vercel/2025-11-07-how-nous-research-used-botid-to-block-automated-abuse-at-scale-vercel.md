@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel BotID Deep Analysis protected Nous Research by blocking advanced automated abuse from attacking their application"
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 7, 2025
 
@@ -126,4 +126,4 @@ Detect and stop advanced bots before they reach your most sensitive routes like 
 
 Get started](http://vercel.com/botid)  
 立即开始使用](http://vercel.com/botid)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—helping over 8 million researchers accelerate sc..."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 23, 2025
 
@@ -90,4 +90,4 @@ Consensus’s architecture is intentionally modular, designed so new agents can 
 ## OpenAI <3 startups. Come build with us.
 
 [Join the community](https://openai.com/leads/startup/) [Start building(opens in a new window)](https://platform.openai.com/)
-{% endraw %}
+&#123;% endraw %}

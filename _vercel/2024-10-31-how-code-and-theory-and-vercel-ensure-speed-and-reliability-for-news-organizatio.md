@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Code and Theory partners with Vercel to deliver breaking news with high performance and uptime. News organizations RealClearPolitics and Minnesota Star Tribune upgrade their digital infrastructure to ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 31, 2024
 
@@ -186,4 +186,4 @@ Greta Workman
 ![](images/how-code-and-theory-and-vercel-ensure-speed-and-reliability-for-news-organizatio/img_006.jpg)
 
 Alice Alexandra Moore
-{% endraw %}
+&#123;% endraw %}

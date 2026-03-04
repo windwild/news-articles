@@ -9,7 +9,7 @@ translated: false
 description: "Our video generation model, Sora, is now available to use at sora.com. Users can generate videos up to 1080p resolution, up to 20 sec long, and in widescreen, vertical or square aspect ratios. You can..."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 9, 2024
 
@@ -62,4 +62,4 @@ We hope this early version of Sora will enable people everywhere to explore new 
 
 - [Sora](https://openai.com/news/?tags=sora)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

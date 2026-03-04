@@ -9,7 +9,7 @@ translated: false
 description: "We’re launching a classifier trained to distinguish between AI-written and human-written text."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 31, 2023
 
@@ -57,4 +57,4 @@ If you’re directly impacted by these issues (including but not limited to teac
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

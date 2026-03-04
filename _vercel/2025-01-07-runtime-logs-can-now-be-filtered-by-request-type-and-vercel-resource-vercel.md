@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Runtime Logs can now be filtered by request type and Vercel resource, which provides more granular insights into how your requests are processed. Learn how these filters can enhance your debugging and..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 7, 2025
 
@@ -25,4 +25,4 @@ Jan 7, 2025
 这些更新使您能够更精细地洞察请求的处理过程。即日起，所有订阅计划均支持这两个筛选器。
 
 进一步了解 [Vercel 如何处理请求](https://vercel.com/blog/life-of-a-vercel-request-what-happens-when-a-user-presses-enter)。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Learn how Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and scale client service—helping law firms boost productivity and stay competitive."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 27, 2025
 
@@ -75,4 +75,4 @@ Looking ahead, the team is exploring new applications, from automated legal upda
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How we made your Vercel Analytics data more actionable to drive performance for your application."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 9, 2022
 
@@ -168,4 +168,4 @@ Finally, we can use that regression curve for the actual visualization and estim
 To try out this new change, enable [Vercel Analytics](https://vercel.com/analytics) today by visiting the Analytics tab in your project dashboard or [try it free with a team on Vercel Pro](https://vercel.com/signup?next=/dashboard?createTeam=true).
 
 如需体验这一新功能，请立即启用 [Vercel Analytics](https://vercel.com/analytics)：前往项目仪表板中的 “Analytics”（分析）标签页，或 [通过 Vercel Pro 免费为团队试用](https://vercel.com/signup?next=/dashboard?createTeam=true)。
-{% endraw %}
+&#123;% endraw %}

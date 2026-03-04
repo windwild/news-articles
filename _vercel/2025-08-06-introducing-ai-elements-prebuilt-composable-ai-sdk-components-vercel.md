@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Focus on your AI’s intelligence, not the UI scaffolding. AI Elements is now available as a new Vercel product to help frontend engineers build AI-driven interfaces in a fraction of the time."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 6, 2025
 
@@ -110,4 +110,4 @@ npx ai-elements@latest
 AI Elements replaces ChatSDK with a more flexible set of UI building blocks for AI interfaces. ChatSDK will be migrated to a dedicated Next.js template. Future templates will use AI Elements to support a wider range of AI-native interface patterns beyond chat.
 
 AI Elements 以一套更灵活的 UI 构建模块取代了 ChatSDK，专为 AI 界面而设计。ChatSDK 将迁移至一个独立的 Next.js 模板中。未来的所有模板都将基于 AI Elements 构建，从而支持更广泛的 AI 原生界面模式（不仅限于聊天场景）。
-{% endraw %}
+&#123;% endraw %}

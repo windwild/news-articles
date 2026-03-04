@@ -9,7 +9,7 @@ translated: false
 description: "Endex builds the future of financial analysis, powered by OpenAI’s reasoning models."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Endex builds the future of financial analysis, powered by OpenAI’s reasoning models
@@ -90,4 +90,4 @@ Tarun Amasa, CEO at Endex
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

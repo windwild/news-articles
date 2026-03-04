@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 25, 2022
 
@@ -29,4 +29,4 @@ Codex, a large language model (LLM) trained on a variety of codebases, exceeds t
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
-{% endraw %}
+&#123;% endraw %}

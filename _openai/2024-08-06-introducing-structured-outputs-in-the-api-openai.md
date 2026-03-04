@@ -9,7 +9,7 @@ translated: false
 description: "We are introducing Structured Outputs in the API—model outputs now reliably adhere to developer-supplied JSON Schemas."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 6, 2024
 
@@ -1232,4 +1232,4 @@ Structured Outputs takes inspiration from excellent work from the open source co
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Marketplace now supports the Checks API, enabling providers to deliver automated post-deployment tests and surface results directly in the dashboard. Improve developer experience with seamless ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 30, 2025
 
@@ -32,4 +32,4 @@ Apr 30, 2025
 Learn more in the [Checks API documentation](https://vercel.com/docs/checks).
 
 更多详情请参阅 [Checks API 文档](https://vercel.com/docs/checks)。
-{% endraw %}
+&#123;% endraw %}

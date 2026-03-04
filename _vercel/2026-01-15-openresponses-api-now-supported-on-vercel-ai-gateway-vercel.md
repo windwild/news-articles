@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Use the OpenResponses API on Vercel AI Gateway with no other API keys required and support for multiple providers."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 15, 2026
 
@@ -167,4 +167,4 @@ const response = await fetch('https://ai-gateway.vercel.sh/v1/responses', {
 Read the [OpenResponses API documentation](https://vercel.com/docs/ai-gateway/openresponses) or [view the specification](https://www.openresponses.org/specification).
 
 请阅读 [OpenResponses API 文档](https://vercel.com/docs/ai-gateway/openresponses)，或 [查看规范说明](https://www.openresponses.org/specification)。
-{% endraw %}
+&#123;% endraw %}

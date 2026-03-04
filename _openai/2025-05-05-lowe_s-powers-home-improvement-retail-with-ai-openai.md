@@ -9,7 +9,7 @@ translated: false
 description: "A conversation with Chandhu Nair, Senior Vice President of Data, AI, and Innovation."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 5, 2025
 
@@ -94,4 +94,4 @@ _Lowe’s is using OpenAI’s APIs to power Mylow, the first AI-powered home imp
 - [Enterprise](https://openai.com/stories/?tags=enterprise)
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Retail](https://openai.com/stories/?tags=industry-retail)
-{% endraw %}
+&#123;% endraw %}

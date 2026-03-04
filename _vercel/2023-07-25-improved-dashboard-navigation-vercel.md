@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 25, 2023
 
@@ -23,4 +23,4 @@ The dashboard navigation has received a visual update. You can now see the proje
 Check out the [documentation](https://vercel.com/docs/concepts/dashboard-features) to learn more.
 
 请查阅[文档](https://vercel.com/docs/concepts/dashboard-features)了解更多信息。
-{% endraw %}
+&#123;% endraw %}

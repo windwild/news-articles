@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We’re updating Vercel’s Pro plan to better align with how modern teams collaborate and how applications consume infrastructure, and how workloads are changing shape with AI."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 9, 2025
 
@@ -170,4 +170,4 @@ Get flexible credits, free Viewer seats, and self-serve access to Enterprise-lev
 
 Switch now  
 立即切换](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fbilling&title=Switch+to+new+Pro+pricing)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've open-sourced bash-tool, which gives your agent a way to find the right context by running bash-like commands over files, then returning only the results of those tool calls to the model."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 7, 2026
 
@@ -116,4 +116,4 @@ Install the package along with AI SDK v6, and start building your file system ag
 \\  
 Get started  
 立即开始](https://www.npmjs.com/package/bash-tool)
-{% endraw %}
+&#123;% endraw %}

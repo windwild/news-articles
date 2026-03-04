@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn best practices on importing your designs from Figma, working with shadcn/ui, and leveraging public npm packages. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 27, 2025
 
@@ -115,4 +115,4 @@ Get started](https://v0.app/)
 准备好在日常开发中体验 v0 的强大能力了吗？\\
 \\
 立即开始](https://v0.app/)
-{% endraw %}
+&#123;% endraw %}

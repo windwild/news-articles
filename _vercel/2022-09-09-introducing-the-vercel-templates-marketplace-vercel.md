@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We are excited to announce the launch of the Vercel Templates Marketplace."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 9, 2022
 
@@ -53,4 +53,4 @@ Here are some examples:
 - [使用 Svelte 构建的模板](https://vercel.com/templates/svelte)
 
 今天就来浏览我们的 [模板市场](https://vercel.com/templates)，借助我们预先构建的解决方案，快速启动您的应用开发流程。
-{% endraw %}
+&#123;% endraw %}

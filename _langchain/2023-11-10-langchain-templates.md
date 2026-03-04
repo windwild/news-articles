@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:28:05.636124989+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Today we're excited to announce the release of LangChain Templates. LangChain Templates offers a collection of easily deployable reference architectures that anyone can use. We've worked with some of our partners to create a set of easy-to-use templates to help developers get to production more quickly. We will continue to add to this over time. This is a new way to create, share, maintain, download, and customize chains and agents. They are all in a standard format with allows them to easily be deployed with [LangServe](https://github.com/langchain-ai/langserve?ref=blog.langchain.com), allowing you to easily get production-ready APIs and a playground for free.
 
@@ -280,4 +280,4 @@ Big thank you to:
 
 - All our community members who helped test this: Greg Kamradt, Ryan Brandt, Misbah Syed, Hai, Lucas Hänke de Cansino, Hamel Husain  
   所有参与本次测试的社区成员：Greg Kamradt、Ryan Brandt、Misbah Syed、Hai、Lucas Hänke de Cansino、Hamel Husain
-{% endraw %}
+&#123;% endraw %}

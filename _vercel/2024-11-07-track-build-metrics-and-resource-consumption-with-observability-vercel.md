@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Users in the limited beta of Observability can now get additional metrics related to builds, including: Build time, Memory and disk usage, and Build steps"
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 7, 2024
 
@@ -25,4 +25,4 @@ Nov 7, 2024
 - **构建步骤（Build steps）**：查看每个构建步骤的 P50 和 P90 耗时分布。
 
 Observability 目前处于 [有限公测阶段](https://vercel.com/docs/release-phases#limited-beta)，面向当前已启用 [监控（Monitoring）](https://vercel.com/docs/observability/monitoring#monitoring) 功能的用户开放，并可通过 Vercel 项目中的全新 **Observability 标签页** 访问。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 13, 2022
 
@@ -23,4 +23,4 @@ Jul 13, 2022
 借助“热门路径”（Top Paths）功能，您可以应用筛选器，按特定日期范围或项目进行查询。点击“探索”（Explore）按钮，可将该板块展开为全屏视图，使团队成员能够查看更多路径，并支持导出 CSV 文件，以及与团队其他成员共享当前视图。
 
 该功能现已面向所有套餐计划开放公开测试（Public Beta）。如需了解更多详情，请参阅[我们的文档](https://vercel.com/docs/concepts/limits/usage#top-paths)。
-{% endraw %}
+&#123;% endraw %}

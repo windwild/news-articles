@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We're reducing pricing on Vercel fundamentals like bandwidth and functions."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 4, 2024
 
@@ -98,4 +98,4 @@ How can I manage my spend?
 What is regional pricing?
 
 什么是区域定价？
-{% endraw %}
+&#123;% endraw %}

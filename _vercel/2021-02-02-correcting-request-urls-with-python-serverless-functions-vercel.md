@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 2, 2021
 
@@ -39,4 +39,4 @@ As an example, take a look at the Python Serverless Function code shown above an
 To try out this change, define a `FORCE_RUNTIME_TAG` Environment Variable for your project, set it to `canary` and create a new Deployment.
 
 如需试用此项变更，请为您的项目定义一个名为 `FORCE_RUNTIME_TAG` 的环境变量，将其值设为 `canary`，然后创建一次新的部署。
-{% endraw %}
+&#123;% endraw %}

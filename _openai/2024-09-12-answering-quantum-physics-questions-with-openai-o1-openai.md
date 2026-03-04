@@ -9,7 +9,7 @@ translated: false
 description: "Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 12, 2024
 
@@ -22,4 +22,4 @@ Say hello to OpenAI o1—a new series of AI models designed to spend more time t
 
 
 Answering quantum physics questions with OpenAI o1 \| OpenAI
-{% endraw %}
+&#123;% endraw %}

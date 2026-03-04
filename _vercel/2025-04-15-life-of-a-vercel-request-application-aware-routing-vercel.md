@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's gateway leverages framework-defined infrastructure to intelligently load balance, protect, and route applications at-scale and with any architecture complexity."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 15, 2025
 
@@ -265,4 +265,4 @@ Start with Vercel to deploy and scale your app with automated, application-aware
 
 Deploy now](https://vercel.com/new)  
 立即部署](https://vercel.com/new)
-{% endraw %}
+&#123;% endraw %}

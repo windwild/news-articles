@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:44:42.219915934+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 The TED AI Hackathon kicks off October 14 and we’re excited to be their partner in bringing it to life! TED has a long history of inspiring and educating great thinkers and builders and we can’t wait to see what everyone builds.
 
@@ -87,4 +87,4 @@ We’ll be tweeting out our favorite projects throughout the week and collecting
 Tag us on [Twitter](https://twitter.com/LangChainAI?ref=blog.langchain.com) (@langchainai) or send us a note at hello@langchain.dev. We can’t wait to see what you build!
 
 请在 [Twitter](https://twitter.com/LangChainAI?ref=blog.langchain.com) 上 @ 我们（@langchainai），或发送邮件至 hello@langchain.dev。我们迫不及待想看到你们的作品！
-{% endraw %}
+&#123;% endraw %}

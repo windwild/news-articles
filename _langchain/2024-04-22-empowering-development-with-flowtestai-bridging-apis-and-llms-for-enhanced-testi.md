@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:04:22.451492666+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **Editor's note: we're excited to highlight this blog from FlowTestAI. FlowTestAI is an exciting startup building on top of LangChain. Specifically, they try to enable easy accessing of APIs through LLMs. Interacting with APIs via LLMs is a huge use case of LangChain, and so we're excited to showcase what this looks like in a production application.**
 
@@ -226,4 +226,4 @@ We are just getting started, and our aim is to foster a culture where, just as o
 For more information on how to utilize this tool in your daily activities, integrate it into your current stack, or for any other inquiries, feel free to contact us through our [social media platforms](https://flowtestai.gitbook.io/flowtestai?ref=blog.langchain.com) or directly email me at [jsajal1993@gmail.com](mailto:jsajal1993@gmail.com).
 
 如需了解如何在日常工作中使用本工具、将其集成至您当前的技术栈，或有任何其他问题，欢迎通过我们的[社交媒体平台](https://flowtestai.gitbook.io/flowtestai?ref=blog.langchain.com)联系我们，或直接发送邮件至 [jsajal1993@gmail.com](mailto:jsajal1993@gmail.com)。
-{% endraw %}
+&#123;% endraw %}

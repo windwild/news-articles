@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Deployment protection on all plans - Secure your deployment previews and create shareable links to share with collaborators"
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 19, 2022
 
@@ -105,4 +105,4 @@ For now, deployment protection needs to be turned on manually. To get started, h
 Learn more in the [documentation](https://www.vercel.com/docs/concepts/deployments/deployment-protection).
 
 更多详情，请参阅[文档](https://www.vercel.com/docs/concepts/deployments/deployment-protection)。
-{% endraw %}
+&#123;% endraw %}

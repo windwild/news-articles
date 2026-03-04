@@ -9,7 +9,7 @@ translated: false
 description: "A conversation with Connor Zwick, CEO & Co-founder of Speak."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 22, 2025
 
@@ -93,4 +93,4 @@ _Speak leverages OpenAI models to power its language learning curriculum across 
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Education](https://openai.com/stories/?tags=industry-education)
 - [Technology](https://openai.com/stories/?tags=industry-technology)
-{% endraw %}
+&#123;% endraw %}

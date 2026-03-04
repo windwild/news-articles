@@ -9,7 +9,7 @@ translated: false
 description: "We’re open-sourcing OpenAI Baselines, our internal effort to reproduce reinforcement learning algorithms with performance on par with published results. We’ll release the algorithms over upcoming ..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 24, 2017
 
@@ -97,4 +97,4 @@ AI is an empirical science, where the ability to do more experiments directly co
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
-{% endraw %}
+&#123;% endraw %}

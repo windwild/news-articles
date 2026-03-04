@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Sign in with Vercel is now generally available, enabling developers to add Vercel as a sign-in method to their apps and projects."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 26, 2025
 
@@ -27,4 +27,4 @@ Nov 26, 2025
 - 接收 ID Token、访问令牌（Access Token）和刷新令牌（Refresh Token），以便与 Vercel 平台进行交互。
 
 欢迎查看我们的 [示例应用](https://github.com/vercel/sign-in-with-vercel-reference-app) 快速上手。
-{% endraw %}
+&#123;% endraw %}

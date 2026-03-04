@@ -9,7 +9,7 @@ translated: true
 description: "Reflection is a prompting strategy used to improve the quality and success rate of agents and similar AI systems. This post outlines how to build 3 reflection techniques using LangGraph, including imp..."
 tags: ["agents", "langgraph", "By LangChain", "agent builder", "![Building Multi-Agent Apps", "deep agents"]
 ---
-{% raw %}
+&#123;% raw %}
 
 ### Key Links
 
@@ -357,4 +357,4 @@ All of the techniques above leverage additional LLM inference to increase the li
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 6 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：6 分钟
-{% endraw %}
+&#123;% endraw %}

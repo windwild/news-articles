@@ -9,7 +9,7 @@ translated: false
 description: " Building smarter maps with GPT-4o vision fine-tuning"
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Grab builds smarter maps for Southeast Asia with vision fine-tuning
@@ -78,4 +78,4 @@ Grab is also building an advanced support chatbot to handle complex inquiries. B
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

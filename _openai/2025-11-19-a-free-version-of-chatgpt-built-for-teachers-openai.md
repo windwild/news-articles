@@ -9,7 +9,7 @@ translated: false
 description: "ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 19, 2025
 
@@ -114,4 +114,4 @@ _Learn more about ChatGPT for Teachers on our_ [_website_ ⁠(opens in a new win
 - [2025](https://openai.com/news/?tags=2025)
 - [Education](https://openai.com/news/?tags=industry-education)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
-{% endraw %}
+&#123;% endraw %}

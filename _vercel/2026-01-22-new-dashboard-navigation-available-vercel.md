@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Users can now opt-in to the new navigation for the Vercel dashboard with a sidebar, projects as a filter, enhanced scope switchers, and a full mobile rework"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 22, 2026
 
@@ -31,4 +31,4 @@ Jan 22, 2026
 [Try the new navigation](https://vercel.com/api/dash-experiment?value=1&source=changelog) today before it rolls out to all users.
 
 [立即试用新版导航](https://vercel.com/api/dash-experiment?value=1&source=changelog)，抢先体验——该功能将在后续向全体用户正式推送。
-{% endraw %}
+&#123;% endraw %}

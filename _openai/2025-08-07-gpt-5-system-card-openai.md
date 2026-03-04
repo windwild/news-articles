@@ -9,7 +9,7 @@ translated: false
 description: "This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight versions like gpt-5-thinking-nano, optimized for di..."
 tags: ["Publication"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 7, 2025
 
@@ -42,4 +42,4 @@ Similarly to ChatGPT agent, we have decided to treat gpt-5-thinking as High capa
 
 - [2025](https://openai.com/research/index/?tags=2025)
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
-{% endraw %}
+&#123;% endraw %}

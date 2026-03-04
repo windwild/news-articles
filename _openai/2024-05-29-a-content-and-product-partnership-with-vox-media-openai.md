@@ -9,7 +9,7 @@ translated: false
 description: "In a multi-faceted agreement, Vox Media’s content will enhance the output of OpenAI’s ChatGPT, and the company will build on OpenAI’s technology to develop products to better serve its audiences..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 29, 2024
 
@@ -37,4 +37,4 @@ Vox Media will also use OpenAI technology to extend the leadership of Forte, its
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

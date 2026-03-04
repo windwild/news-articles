@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Functions can now run on Fluid compute, a next-generation execution model that improves efficiency and reduces costs. It brings scalable, cost-effective compute without infrastructure complexit..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 4, 2025
 
@@ -45,4 +45,4 @@ Vercel Functions 现在可在 [Fluid compute](https://vercel.com/fluid) 上运�
 or learn more in our [blog](https://vercel.com/blog/introducing-fluid-compute) and [documentation](https://vercel.com/docs/functions/fluid-compute).
 
 或在我们的 [博客文章](https://vercel.com/blog/introducing-fluid-compute) 和 [文档](https://vercel.com/docs/functions/fluid-compute) 中了解更多信息。
-{% endraw %}
+&#123;% endraw %}

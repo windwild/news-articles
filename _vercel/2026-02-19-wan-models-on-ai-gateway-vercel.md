@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Generate stylized AI videos with Alibaba Wan models via the Vercel AI Gateway. Text-to-video, image-to-video, and unique style transfer (R2V) to transform existing footage into anime, watercolor, and ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 19, 2026
 
@@ -193,4 +193,4 @@ const { videos } = await generateVideo({
 For more examples and detailed configuration options for Wan models, check out the [Video Generation Documentation](https://vercel.com/docs/ai-gateway/capabilities/video-generation). You can also find simple getting started scripts with the [Video Generation Quick Start](https://vercel.com/docs/ai-gateway/getting-started/video).
 
 如需了解 Wan 模型的更多示例及详细配置选项，请参阅[视频生成文档](https://vercel.com/docs/ai-gateway/capabilities/video-generation)。您还可以通过[视频生成快速入门](https://vercel.com/docs/ai-gateway/getting-started/video)获取简单的入门脚本。
-{% endraw %}
+&#123;% endraw %}

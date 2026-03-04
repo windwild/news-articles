@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Firewall now stops volumetric DDoS attacks 40x faster and low-and-slow attacks 10x faster."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 10, 2024
 
@@ -29,4 +29,4 @@ This improvement is live for all Vercel customers today with no action required.
 Learn more about how [Vercel Firewall protects your apps](https://vercel.com/blog/life-of-a-request-securing-your-apps-traffic-with-vercel).
 
 深入了解 [Vercel 防火墙如何保护您的应用](https://vercel.com/blog/life-of-a-request-securing-your-apps-traffic-with-vercel)。
-{% endraw %}
+&#123;% endraw %}

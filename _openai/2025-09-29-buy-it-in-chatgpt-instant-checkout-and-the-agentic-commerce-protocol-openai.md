@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "We’re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together."
 ---
-{% raw %}
+&#123;% raw %}
 
 September 29, 2025
 
@@ -136,4 +136,4 @@ This launch is just the beginning. As AI becomes a key interface for how people 
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)  
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
-{% endraw %}
+&#123;% endraw %}

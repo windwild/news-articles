@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now does regional request collapsing on cache miss for Incremental Static Regeneration (ISR)."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 25, 2025
 
@@ -29,4 +29,4 @@ The feature is applied automatically for cacheable routes. Cacheability is infer
 Implementation details are available in the [Preventing the stampede: Request collapsing in the Vercel CDN blog post](https://vercel.com/blog/cdn-request-collapsing).
 
 具体实现细节请参阅博客文章：[防止雪崩：Vercel CDN 中的请求合并](https://vercel.com/blog/cdn-request-collapsing)。
-{% endraw %}
+&#123;% endraw %}

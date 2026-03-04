@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Get the most out of your SvelteKit app with pre-route configuration, Incremental Static Regeneration, and data at the Edge."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 20, 2023
 
@@ -304,4 +304,4 @@ Contact Us](https://vercel.com/solutions/svelte)
 欢迎联系我们，告诉我们您团队的具体需求。\\  
 \\  
 立即联系](https://vercel.com/solutions/svelte)
-{% endraw %}
+&#123;% endraw %}

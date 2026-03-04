@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to integrate a Data Access Layer in your Next.js app and use it to implement a fine-grained authorization model with OpenFGA."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 16, 2024
 
@@ -607,4 +607,4 @@ Centralizing all data operations within a Data Access Layer (DAL) simplifies aut
 A fine-grained authorization approach, as with OpenFGA in the DAL, offers flexibility. It enables you to validate each action to ensure compliance with your authorization model. This ensures that unauthorized actions are quickly blocked, maintaining security and minimizing potential risks.
 
 采用细粒度授权方案（例如在 DAL 中集成 OpenFGA），可提供更高灵活性：它支持对每个操作进行校验，确保其符合您的授权模型。这能快速拦截未授权操作，从而保障系统安全，并最大限度降低潜在风险。
-{% endraw %}
+&#123;% endraw %}

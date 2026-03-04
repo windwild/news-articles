@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 14, 2026
 
@@ -53,4 +53,4 @@ Cerebras 联合创始人兼首席执行官 Andrew Feldman 表示：“我们非�
 The capacity will come online in multiple tranches through 2028.
 
 该产能将分多批次于2028年前陆续投产。
-{% endraw %}
+&#123;% endraw %}

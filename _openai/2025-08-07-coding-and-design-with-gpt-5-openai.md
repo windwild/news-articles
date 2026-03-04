@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Learn how GPT-5 unlocks new possibilities in coding and design."
 ---
-{% raw %}
+&#123;% raw %}
 
 August 7, 2025
 
@@ -23,4 +23,4 @@ August 7, 2025
 
 
 Coding and design with GPT-5 \| OpenAI
-{% endraw %}
+&#123;% endraw %}

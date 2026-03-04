@@ -9,7 +9,7 @@ translated: false
 description: "John Deere’s Justin Rose talks about transforming agriculture with AI and shares how the company is scaling innovation to help farmers work smarter, more efficiently, and sustainably."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 6, 2025
 
@@ -103,4 +103,4 @@ _John Deere is leveraging OpenAI APIs to support their customer success teams, d
 - [Enterprise](https://openai.com/stories/?tags=enterprise)
 - [North America](https://openai.com/stories/?tags=north-america)
 - [Manufacturing](https://openai.com/stories/?tags=industry-manufacturing)
-{% endraw %}
+&#123;% endraw %}

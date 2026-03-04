@@ -9,7 +9,7 @@ translated: false
 description: "We’re providing 6–10 stipends and mentorship to individuals from underrepresented groups to study deep learning full-time for 3 months and open-source a project."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 6, 2018
 
@@ -79,4 +79,4 @@ _Update: Applications for the Summer 2018 Scholars cohort are now closed. We wil
 - [Community](https://openai.com/news/?tags=community)
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2018](https://openai.com/news/?tags=2018)
-{% endraw %}
+&#123;% endraw %}

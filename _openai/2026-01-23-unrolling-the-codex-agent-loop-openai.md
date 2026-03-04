@@ -9,7 +9,7 @@ translated: true
 description: "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API."
 tags: ["Engineering"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 23, 2026
 
@@ -777,4 +777,4 @@ While the agent loop provides the foundation for Codex, it’s only the beginnin
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Leonardo.Ai leveraged Vercel to reduce build times, speed up page performance, and improve their developer experience."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 18, 2024
 
@@ -111,4 +111,4 @@ Since adopting Vercel, Leonardo.Ai has **reduced page load times by 95%** with s
 With Vercel, Leonardo.Ai successfully addressed key challenges in development, stability, and performance, enabling the team to concentrate on creating new AI technologies and workflows that transform creative processes across industries. The partnership with Vercel emphasizes Leonardo.Ai's commitment to delivering a robust, user-friendly platform that empowers creators and innovators worldwide.
 
 借助 Vercel，Leonardo.Ai 成功应对了开发效率、系统稳定性与性能优化等关键挑战，使团队得以专注于研发新一代人工智能技术与工作流，从而重塑各行业的创意生产方式。此次与 Vercel 的合作，彰显了 Leonardo.Ai 致力于打造强大、易用平台的坚定承诺——该平台将持续赋能全球创作者与创新者。
-{% endraw %}
+&#123;% endraw %}

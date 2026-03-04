@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 ### Introduction
 
@@ -209,4 +209,4 @@ The thoughtful union of these two methods offers considerable promise for addres
 [**LangGraph Platform in beta: New deployment options for scalable agent infrastructure**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [**LangGraph 平台进入公测阶段：面向可扩展智能体基础设施的全新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
-{% endraw %}
+&#123;% endraw %}

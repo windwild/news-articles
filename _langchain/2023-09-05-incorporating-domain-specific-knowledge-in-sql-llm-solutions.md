@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:47:48.297551177+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This post was written in collaboration with [Manuel](https://twitter.com/manuelsoria_?ref=blog.langchain.com) and [Francisco](https://twitter.com/fpingham?ref=blog.langchain.com) from the_ [_Pampa Labs team_](https://www.pampa.ai/?ref=blog.langchain.com) _. We're always excited to see new best practices emerge for more customizing/personalizing apps more thoroughly, and this post about extending the capabilities of the standard SQL toolkit by applying innovative RAG techniques is an awesome example._
 
@@ -200,4 +200,4 @@ Also, some examples which aren’t strictly related to the few-shot examples but
 If you want to help implementing any of these or have other best practices that you found helpful, don’t hesitate to join the discussion in the #sql [channel](https://discord.com/channels/1038097195422978059/1080206362669224027?ref=blog.langchain.com) in Discord!
 
 如果您希望参与上述任一功能的实现，或有其他行之有效的最佳实践想分享，欢迎随时加入 Discord 中的 #sql [频道](https://discord.com/channels/1038097195422978059/1080206362669224027?ref=blog.langchain.com) 参与讨论！
-{% endraw %}
+&#123;% endraw %}

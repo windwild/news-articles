@@ -9,7 +9,7 @@ translated: false
 description: "We’re releasing the 774 million parameter GPT-2 language model after the release of our small 124M model in February, staged release of our medium 355M model in May, and subsequent research with..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 20, 2019
 
@@ -143,4 +143,4 @@ APIJan 12, 2024](https://openai.com/index/digital-green/)
 APIMay 29, 2025](https://openai.com/index/wix/)
 
 GPT-2: 6-month follow-up \| OpenAI
-{% endraw %}
+&#123;% endraw %}

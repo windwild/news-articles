@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "When you modify project settings that require a redeploy, like adding new production environment variables, you will get a toast notification prompting you to redeploy immediately"
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 12, 2025
 
@@ -19,4 +19,4 @@ Feb 12, 2025
 当您更改任何需要重新部署才能生效的设置时，将弹出一个 Toast 通知。点击 **重新部署** 后，您可以实时跟踪部署进度。
 
 了解更多关于 [项目设置](https://vercel.com/docs/projects/project-configuration/project-settings) 的信息。
-{% endraw %}
+&#123;% endraw %}

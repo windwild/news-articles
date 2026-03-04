@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now subscribe to receive alerts when anomalies spikes in usage or 5XX errors are detected in your Vercel application"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 14, 2025
 
@@ -29,4 +29,4 @@ Oct 14, 2025
 告警功能现面向订阅 Observability Plus 的 Pro 和 Enterprise 客户开放公开测试（Public Beta）。
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Falerts) 或深入了解 [告警功能（Alerts）](https://vercel.com/docs/alerts)。
-{% endraw %}
+&#123;% endraw %}

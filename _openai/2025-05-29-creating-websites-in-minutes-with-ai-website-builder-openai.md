@@ -9,7 +9,7 @@ translated: false
 description: "Wix’s AI Website Builder, powered by OpenAI, lets anyone create a full website in minutes—just by describing their idea in a conversation."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 29, 2025
 
@@ -84,4 +84,4 @@ As Wix continues to optimize and expand its AI-powered features, the company is 
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

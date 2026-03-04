@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Starting today, Vercel Analytics is available for Gatsby projects – without any configuration."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 4, 2020
 
@@ -100,4 +100,4 @@ Next.js 和 Gatsby 是首批获得支持的 [框架](https://vercel.com/docs/ana
 Next.js and Gatsby analytics are new essentials for ensuring your sites continue to perform beyond Lighthouse scores. Not yet on Vercel? [Import your Gatsby project today](https://vercel.com/import/git).
 
 Next.js 与 Gatsby 的分析功能，是保障网站性能持续超越 Lighthouse 评分的新利器。尚未使用 Vercel？[立即导入您的 Gatsby 项目](https://vercel.com/import/git)。
-{% endraw %}
+&#123;% endraw %}

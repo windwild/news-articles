@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "WebStreams had too much overhead on the server. We built a faster implementation. See how we achieved 10-14x gains in Next.js rendering benchmarks."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 18, 2026
 
@@ -495,4 +495,4 @@ If you are building a server-side JavaScript framework or runtime and hitting We
 And if you are interested in improving WebStreams in Node.js itself, Matteo's [PR](https://github.com/nodejs/node/pull/61807) is a great place to start.  
 
 如果您有兴趣改进 Node.js 自身的 WebStreams 实现，Matteo 的这个 [PR](https://github.com/nodejs/node/pull/61807) 是一个绝佳的入手点。
-{% endraw %}
+&#123;% endraw %}

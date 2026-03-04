@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now set deployment suffixes on a per project level rather than only one for your entire team"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 13, 2026
 
@@ -25,4 +25,4 @@ Project-level suffixes follow the same requirements as team-level suffixes. Your
 Configure suffixes in your [project settings](https://vercel.com/dashboard).
 
 您可在 [项目设置](https://vercel.com/dashboard) 中配置后缀。
-{% endraw %}
+&#123;% endraw %}

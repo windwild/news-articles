@@ -9,7 +9,7 @@ translated: false
 description: "We show that the double descent phenomenon occurs in CNNs, ResNets, and transformers: performance first improves, then gets worse, and then improves again with increasing model size, data size, or..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 5, 2019
 
@@ -67,4 +67,4 @@ Our intuition is that, for models at the interpolation threshold, there is effec
 We leave fully understanding the mechanisms behind double descent in deep neural networks as an important open question.
 
 - [Compute Scaling](https://openai.com/research/index/?tags=compute-scaling)
-{% endraw %}
+&#123;% endraw %}

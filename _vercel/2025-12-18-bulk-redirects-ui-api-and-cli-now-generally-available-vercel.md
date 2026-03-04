@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now manage up to a million redirects on Vercel via UI, API, or CLI instantly without a build or deployment."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 18, 2025
 
@@ -29,4 +29,4 @@ Vercel 的[批量重定向](https://vercel.com/changelog/bulk-redirects-are-now-
 - **额外容量：** 起价为每月 50 美元，每增加 25,000 条重定向
 
 [立即开始使用批量重定向](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fredirects)，或[了解详情](https://vercel.com/docs/redirects/bulk-redirects)。
-{% endraw %}
+&#123;% endraw %}

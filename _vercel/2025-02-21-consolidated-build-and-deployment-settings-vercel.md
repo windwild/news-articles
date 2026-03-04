@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "When you need to customize your project's Build and Deployment settings you can now do this from a single location in the Project Settings."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 21, 2025
 
@@ -27,4 +27,4 @@ Vercel 基于框架定义的基础设施会自动识别多种前端框架的配�
 Learn more about [project settings](https://vercel.com/docs/projects/project-configuration/project-settings) and how to [configure a build](https://vercel.com/docs/deployments/configure-a-build).
 
 了解更多关于[项目设置](https://vercel.com/docs/projects/project-configuration/project-settings)的信息，以及如何[配置构建](https://vercel.com/docs/deployments/configure-a-build)。
-{% endraw %}
+&#123;% endraw %}

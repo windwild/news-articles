@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 12, 2021
 
@@ -31,4 +31,4 @@ As of today, the Directory Listing is **disabled for all newly created Projects*
 Check out [the documentation](https://vercel.com/docs/edge-network/directory-listing) as well.
 
 也欢迎查阅[相关文档](https://vercel.com/docs/edge-network/directory-listing)。
-{% endraw %}
+&#123;% endraw %}

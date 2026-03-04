@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "An Anthropic research paper testing which values AI models express in the real world"
 ---
-{% raw %}
+&#123;% raw %}
 
 Societal Impacts
 
@@ -157,4 +157,4 @@ Download the dataset [here](https://huggingface.co/datasets/Anthropic/values-in-
 If you’re interested in working with us on these or related questions, you should consider applying for our Societal Impacts [Research Scientist](https://boards.greenhouse.io/anthropic/jobs/4524032008) and [Research Engineer](https://boards.greenhouse.io/anthropic/jobs/4251453008) roles.
 
 如果您有兴趣就上述问题或相关议题与我们合作，欢迎申请我们社会影响方向的[研究科学家](https://boards.greenhouse.io/anthropic/jobs/4524032008)和[研究工程师](https://boards.greenhouse.io/anthropic/jobs/4251453008)职位。
-{% endraw %}
+&#123;% endraw %}

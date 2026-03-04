@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Turbo build machines are now available for all paid plans. With 30 CPUs and 60 GB memory they are our fastest yet, ideal for Turbopack builds and large monorepos."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 22, 2025
 
@@ -21,4 +21,4 @@ Turbo 机器非常适合 [Turbopack](https://nextjs.org/docs/app/api-reference/t
 您可为每个项目单独启用 [Turbo 构建机器](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment%23build-machine&title=Enable+Turbo+build+machines)，按实际使用量计费。
 
 更多详情，请参阅 [文档](https://vercel.com/docs/builds/managing-builds#build-machine-types)。
-{% endraw %}
+&#123;% endraw %}

@@ -10,7 +10,7 @@ description: "OpenAI and Reddit Partnership
 We’re bringing Reddit’s unique content to ChatGPT and our products. "
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 16, 2024
 
@@ -44,4 +44,4 @@ _OpenAI Disclosure: Sam Altman is a shareholder in Reddit. This partnership was 
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

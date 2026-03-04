@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:22:47.378859925+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 ### TL;DR
 
@@ -380,4 +380,4 @@ One common approach is to use a message list as your agent state and [summarize 
 LangGraph is designed around a [state](https://langchain-ai.github.io/langgraph/concepts/low_level/?ref=blog.langchain.com#state) object, allowing you to specify a state schema and access state at each agent step. For example, you can store context from tool calls in certain fields in state, isolating them from the LLM until that context is required. In addition to state, LangGraph supports use of sandboxes for context isolation. See this [repo](https://github.com/jacoblee93/mini-chat-langchain?tab=readme-ov-file&ref=blog.langchain.com) for an example LangGraph agent that uses [an E2B sandbox](https://e2b.dev/?ref=blog.langchain.com) for tool calls. See this [video](https://www.youtube.com/watch?v=FBnER2sxt0w&ref=blog.langchain.com) for an example of sandboxing using Pyodide where state can be persisted. LangGraph also has a lot of support for building multi-agent architecture, such as the [supervisor](https://github.com/langchain-ai/langgraph-supervisor-py?ref=blog.langchain.com) and [swarm](https://github.com/langchain-ai/langgraph-swarm-py?ref=blog.langchain.com) libraries. You can [see](https://www.youtube.com/watch?v=4nZl32FwU-o&ref=blog.langchain.com) [these](https://www.youtube.com/watch?v=JeyDrn1dSUQ&ref=blog.langchain.com) [videos](https://www.youtube.com/watch?v=B_0TNuYi56w&ref=blog.langchain.com) for more detail on using multi-agent with LangGraph.
 
 LangGraph 的核心设计理念围绕[状态（state）](https://langchain-ai.github.io/langgraph/concepts/low_level/?ref=blog.langchain.com#state) 对象展开，允许您自定义状态模式（schema），并在每一步智能体交互中访问该状态。例如，您可将工具调用产生的上下文存入状态的特定字段中，使其与大语言模型隔离，直至该上下文真正被需要时才予以暴露。除状态机制外，LangGraph 还原生支持沙箱环境以实现上下文隔离。请参考此 [代码仓库](https://github.com/jacoblee93/mini-chat-langchain?tab=readme-ov-file&ref=blog.langchain.com)，其中展示了一个利用 [E2B 沙箱](https://e2b.dev/?ref=blog.langchain.com) 执行工具调用的 LangGraph 智能体实例；另可观看此 [视频](https://www.youtube.com/watch?v=FBnER2sxt0w&ref=blog.langchain.com)，了解如何借助 Pyodide 实现沙箱隔离并持久化保存状态。此外，LangGraph 还为构建多智能体架构提供了强大支持，例如 [supervisor](https://github.com/langchain-ai/langgraph-supervisor-py?ref=blog.langchain.com) 和 [swarm](https://github.com/langchain-ai/lang
-{% endraw %}
+&#123;% endraw %}

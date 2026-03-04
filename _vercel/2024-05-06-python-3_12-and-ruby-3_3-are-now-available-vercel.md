@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 6, 2024
 
@@ -31,4 +31,4 @@ For Python 3.9, ensure your `Pipfile` and corresponding `Pipfile.lock` have `pyt
 Check out [the documentation](https://vercel.com/docs/runtimes#official-runtimes) to learn more about our supported runtimes.
 
 请查阅[相关文档](https://vercel.com/docs/runtimes#official-runtimes)，了解我们所支持的运行时环境（runtimes）的更多信息。
-{% endraw %}
+&#123;% endraw %}

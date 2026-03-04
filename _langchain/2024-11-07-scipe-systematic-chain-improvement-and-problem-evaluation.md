@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:50:00.967912912+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **_Editor's Note: we're EXTREMELY excited to highlight this research from Ankush Garg and Shreya Shankar from Berkeley. At LangChain, two of the biggest problems we think about are evals and agents, and this research sits right at the intersection. You can try it out today in their Python package._**
 
@@ -335,4 +335,4 @@ In conclusion, SCIPE analyzes independent and dependent failure probabilities to
 We're actively developing SCIPE and would love to hear from you! If you're interested in participating in our user study, have feedback on the tool, or want to stay updated on future developments, please email us at ankush-garg@berkeley.edu.
 
 我们正在积极开发 SCIPE，非常期待您的反馈！如果您有兴趣参与我们的用户研究、对本工具提出建议，或希望及时了解后续进展，请发送邮件至 ankush-garg@berkeley.edu。
-{% endraw %}
+&#123;% endraw %}

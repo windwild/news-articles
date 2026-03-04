@@ -9,7 +9,7 @@ translated: true
 description: "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 27, 2026
 
@@ -166,4 +166,4 @@ We’re excited to learn from researchers using Prism today and to continue buil
 
 - [Science](https://openai.com/news/?tags=science)  
 - [科学](https://openai.com/news/?tags=science)
-{% endraw %}
+&#123;% endraw %}

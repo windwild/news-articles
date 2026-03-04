@@ -9,7 +9,7 @@ translated: false
 description: "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 1..."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 28, 2025
 
@@ -96,4 +96,4 @@ Under its brand statement, “Creating future standards,” DNP seeks to expand 
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

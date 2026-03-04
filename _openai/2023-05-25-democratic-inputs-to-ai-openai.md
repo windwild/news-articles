@@ -9,7 +9,7 @@ translated: false
 description: "Our nonprofit organization, OpenAI, Inc., is launching a program to award ten $100,000 grants to fund experiments in setting up a democratic process for deciding what rules AI systems should follow, w..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 25, 2023
 
@@ -168,4 +168,4 @@ Deliberation can be described as a process that uncovers opinions, helping the d
 
 3. C
 There are many decision-making algorithms to be considered here, such as electing representatives, majority voting, employing [liquid democracy⁠(opens in a new window)](https://www.nber.org/papers/w30794), and making decisions by a [random population sample⁠(opens in a new window)](https://www.theguardian.com/australia-news/2018/oct/14/voting-undermines-the-will-of-the-people-its-time-to-replace-it-with-sortition), also known as a jury or [sortition⁠(opens in a new window)](https://harvardpolitics.com/sortition-in-america/).
-{% endraw %}
+&#123;% endraw %}

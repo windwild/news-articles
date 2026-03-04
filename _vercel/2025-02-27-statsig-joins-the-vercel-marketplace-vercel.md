@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Statsig, the unified platform for experimentation, feature flags, and analytics, is now available as a first-party integration on Vercel. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 27, 2025
 
@@ -28,4 +28,4 @@ Vercel Marketplace 现已新增一个 [“实验（Experimentation）”分类](
 此外，您还可使用 [Flags SDK](https://flags-sdk.dev/)，借助最新发布的 [@flags-sdk/statsig](https://flags-sdk.dev/docs/api-reference/adapters/statsig) 适配器，从 Statsig 加载实验配置与功能开关。
 
 立即体验 [示例模板](https://vercel.com/templates/next.js/statsig-experimentation-with-flags-sdk)，或前往 [Vercel Marketplace 上的 Statsig 页面](https://vercel.com/marketplace/statsig) 开始使用——所有 Vercel 计划（含免费版）用户均可访问。
-{% endraw %}
+&#123;% endraw %}

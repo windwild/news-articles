@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now use ⌘K (or Ctrl+K on Windows) to open the Command Menu on any deployment where the Vercel Toolbar is enabled, including production and localhost. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 2, 2023
 
@@ -31,4 +31,4 @@ Users can now navigate between a deployment and other Vercel pages relevant to t
 [Check out our documentation](https://vercel.com/docs/deployments/preview-deployments#cmd+k-navigation) to learn more.
 
 [查阅我们的文档](https://vercel.com/docs/deployments/preview-deployments#cmd+k-navigation) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

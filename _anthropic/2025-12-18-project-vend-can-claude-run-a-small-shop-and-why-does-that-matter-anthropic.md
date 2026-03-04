@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We let Claude run a small shop in the Anthropic office. Here's what happened."
 ---
-{% raw %}
+&#123;% raw %}
 
 Policy
 
@@ -313,4 +313,4 @@ We’re very grateful to [Andon Labs](https://andonlabs.com/) for their partners
 You can read their earlier research on AIs running shops in a simulated environment [here](https://andonlabs.com/evals/vending-bench).  
 
 您可在此处阅读他们此前关于AI在模拟环境中经营商店的研究成果：[链接](https://andonlabs.com/evals/vending-bench)。
-{% endraw %}
+&#123;% endraw %}

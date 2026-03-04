@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 8, 2025
 
@@ -51,4 +51,4 @@ More than 1 million business customers around the world are directly using OpenA
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
-{% endraw %}
+&#123;% endraw %}

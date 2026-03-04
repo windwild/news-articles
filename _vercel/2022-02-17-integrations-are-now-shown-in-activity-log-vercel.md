@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 17, 2022
 
@@ -21,4 +21,4 @@ Feb 17, 2022
 安装、卸载以及修改 [集成（Integrations）](https://vercel.com/integrations) 的权限操作，现已在活动日志（Activity Log）中显示。
 
 请查看 [活动日志（Activity Log）](https://vercel.com/dashboard/activity)，以浏览集成相关数据。
-{% endraw %}
+&#123;% endraw %}

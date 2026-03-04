@@ -9,7 +9,7 @@ translated: false
 description: "We terminated accounts associated with state-affiliated threat actors. Our findings show our models offer only limited, incremental capabilities for malicious cybersecurity tasks."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 14, 2024
 
@@ -58,4 +58,4 @@ The vast majority of people use our systems to help improve their daily lives, f
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

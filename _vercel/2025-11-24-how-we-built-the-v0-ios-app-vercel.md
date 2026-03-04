@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The v0 engineering team breaks down the challenges and decisions behind building the v0 app for iOS."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 24, 2025
 
@@ -1225,13 +1225,13 @@ function Composer() {
 
 9    <KeyboardStickyView>
 
-10      style={{ position: 'absolute', bottom: 0, left: 0, right: 0 }}
+10      style=&#123;{ position: 'absolute', bottom: 0, left: 0, right: 0 }}
 
-10      样式={{ position: 'absolute', bottom: 0, left: 0, right: 0 }}
+10      样式=&#123;{ position: 'absolute', bottom: 0, left: 0, right: 0 }}
 
-11      offset={{ closed: -insets.bottom, opened: -8 }}
+11      offset=&#123;{ closed: -insets.bottom, opened: -8 }}
 
-11      offset={{ closed: -insets.bottom, opened: -8 }}
+11      offset=&#123;{ closed: -insets.bottom, opened: -8 }}
 
 12    >
 
@@ -1782,9 +1782,9 @@ function FadeIn({ children, onFadedIn, Component }) {
 11  useStaggeredAnimation(startAnimation)
 ```
 
-13  return <Component style={{ opacity }}>{children}</Component>
+13  return <Component style=&#123;{ opacity }}>{children}</Component>
 
-13  返回 `<Component style={{ opacity }}>{children}</Component>`。
+13  返回 `<Component style=&#123;{ opacity }}>{children}</Component>`。
 
 14}
 ```
@@ -2112,4 +2112,4 @@ Vercel 移动端团队正在招聘开发者。如果您对这类工作充满热�
 At Vercel, we're committed to building ambitious products at the highest caliber. We want to make it easy for web and native developers to do the same, and we plan to open-source our findings. Please [reach out on X](https://x.com/fernandorojo) if you would like to beta test an open source library for AI chat apps. We look forward to partnering with the community to continue improving React Native.
 
 在 Vercel，我们致力于以最高标准打造富有雄心的产品。我们希望让 Web 与原生开发者也能轻松实现同等目标，并计划将相关研究成果开源。如果您有兴趣参与一款面向 AI 聊天应用的开源库的早期测试，请[通过 X 平台联系我们](https://x.com/fernandorojo)。我们期待与社区携手合作，持续推动 React Native 的演进与完善。
-{% endraw %}
+&#123;% endraw %}

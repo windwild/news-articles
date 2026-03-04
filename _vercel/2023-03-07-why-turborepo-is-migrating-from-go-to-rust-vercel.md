@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How we're migrating from Go to Rust for better alignment with our tools and work"
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 7, 2023
 
@@ -304,4 +304,4 @@ Jan 24, 2023
 ![](images/why-turborepo-is-migrating-from-go-to-rust-vercel/img_009.png)![](images/why-turborepo-is-migrating-from-go-to-rust-vercel/img_010.jpg)
 
 Alli 和 Anthony
-{% endraw %}
+&#123;% endraw %}

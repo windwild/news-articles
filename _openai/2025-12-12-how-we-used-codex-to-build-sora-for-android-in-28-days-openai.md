@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 12, 2025
 
@@ -294,4 +294,4 @@ What will you make with your own team of Codex?
 _Special thanks to the entire team that helped build Sora for Android._
 
 _特别感谢为 Android 版 Sora 的开发提供支持的全体团队成员。_
-{% endraw %}
+&#123;% endraw %}

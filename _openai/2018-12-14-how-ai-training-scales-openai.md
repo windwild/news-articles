@@ -9,7 +9,7 @@ translated: false
 description: "We’ve discovered that the gradient noise scale, a simple statistical metric, predicts the parallelizability of neural network training on a wide range of tasks. Since complex tasks tend to have nois..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 14, 2018
 
@@ -73,4 +73,4 @@ A complementary [study⁠(opens in a new window)](https://arxiv.org/abs/1811.03
 
 2. B
 When training neural networks, we typically process only a small _batch_ of data at a time, which gives a noisy estimate of the true network gradient. We find that the _gradient noise scale_ \_B\_noise=E\[\| _G_-\_G\_true\|2\] / \|\_G\_true\|2, where the expectation is taken over individual data points, estimates the maximum useful batch size. When the gradient is computed from a batch of size _B_, the normalized distance between the estimated gradient and the true gradient is given by E\[\|\_G\_B-\_G\_true\|2/\|\_G\_true\|2\] = \_B\_noise/ _B_. The point at which increasing _B_ stops reducing the noisiness of the gradient significantly occurs around _B_ = \_B\_noise, and this is also the point at which gains in training speed taper off.
-{% endraw %}
+&#123;% endraw %}

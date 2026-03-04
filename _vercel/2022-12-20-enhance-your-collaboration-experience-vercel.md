@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Preview Deployments"
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 20, 2022
 
@@ -95,4 +95,4 @@ All Pro and Enterprise teams will have the ability to use comments on their Prev
 [Get started today](https://vercel.com/docs/concepts/deployments/comments).
 
 [立即开始使用](https://vercel.com/docs/concepts/deployments/comments)
-{% endraw %}
+&#123;% endraw %}

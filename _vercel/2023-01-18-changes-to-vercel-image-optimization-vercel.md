@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 18, 2023
 
@@ -27,4 +27,4 @@ Teams only incur overages after the included limits have been reached. For examp
 You can view your current source image count in your [usage dashboard.](https://info.vercel.com/dc/I3SdgMG8P3eEUusfQBnDX0jyoT5XjtOln3hMXJ_PpGzfC_uUsPYCWyzxZvLjPWml86hm8CiA5So4TuPyGJDP6mb7wt8SC5nabRSAf7xKuaY=/MDAxLUxSRy0xOTQAAAGJZNHaSutT3CsCgEv0aZjkIHYGCS2cirwzLWi2eiZqOUhIwi2NOlqDVAbRq6kqNp8J999QPeo=) Further, you can always disable optimization for a given project [using this guide.](https://info.vercel.com/MDAxLUxSRy0xOTQAAAGJZNHaSq2A91Y_AOm4YxEV8AzAhWhESfhHrvdMvNW8_GLXKDOt5zRpi8DXwiC0P3bizqjwTBo=)
 
 您可在 [用量仪表板](https://info.vercel.com/dc/I3SdgMG8P3eEUusfQBnDX0jyoT5XjtOln3hMXJ_PpGzfC_uUsPYCWyzxZvLjPWml86hm8CiA5So4TuPyGJDP6mb7wt8SC5nabRSAf7xKuaY=/MDAxLUxSRy0xOTQAAAGJZNHaSutT3CsCgEv0aZjkIHYGCS2cirwzLWi2eiZqOUhIwi2NOlqDVAbRq6kqNp8J999QPeo=) 中查看当前已使用的源图片数量。此外，您也可随时参照 [本指南](https://info.vercel.com/MDAxLUxSRy0xOTQAAAGJZNHaSq2A91Y_AOm4YxEV8AzAhWhESfhHrvdMvNW8_GLXKDOt5zRpi8DXwiC0P3bizqjwTBo=)，为指定项目禁用图片优化功能。
-{% endraw %}
+&#123;% endraw %}

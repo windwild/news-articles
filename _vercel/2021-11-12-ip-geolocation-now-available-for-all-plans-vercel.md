@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 12, 2021
 
@@ -27,4 +27,4 @@ In this Edge Functions [example](https://edge-functions-geolocation.vercel.sh/),
 Check out [our documentation](https://vercel.com/docs/concepts/edge-network/headers#x-vercel-ip-city) to learn more.
 
 请查阅 [我们的文档](https://vercel.com/docs/concepts/edge-network/headers#x-vercel-ip-city)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

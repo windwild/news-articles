@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 27, 2024
 
@@ -27,4 +27,4 @@ Jun 27, 2024
 [Try it out](https://vercel.com/dashboard/stores) 或 [learn more about Vercel Blob](https://vercel.com/docs/storage/vercel-blob).
 
 [立即试用](https://vercel.com/dashboard/stores) 或 [深入了解 Vercel Blob](https://vercel.com/docs/storage/vercel-blob)。
-{% endraw %}
+&#123;% endraw %}

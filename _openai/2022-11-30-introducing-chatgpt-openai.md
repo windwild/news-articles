@@ -9,7 +9,7 @@ translated: false
 description: "We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect ..."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 30, 2022
 
@@ -125,4 +125,4 @@ Gao, Leo, John Schulman, and Jacob Hilton. “ [Scaling Laws for Reward Model Ov
 
 3. 3
 The inspiration for this contest comes in part from work by Kenway, Josh, Camille François, Sasha Costanza-Chock, Inioluwa Deborah Raji, and Joy Buolamwini. _Bug Bounties For Algorithmic Harms? Lessons from Cybersecurity Vulnerability Disclosure for Algorithmic Harms Discovery, Disclosure, and Redress_. Washington, DC: Algorithmic Justice League. January 2022. Available at [https://ajl.org/bugs⁠(opens in a new window)](https://ajl.org/bugs). See also work by Brundage, Miles, Avin, Shahar, Wang, Jasmine, Belfield, Haydn, and Gretchen Krueger et al. “Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims,” April 2020. Available at [https://arxiv.org/abs/2004.07213⁠(opens in a new window)](https://arxiv.org/abs/2004.07213). See an earlier instance of such a competition at HackerOne. 2021b. “Twitter Algorithmic Bias.” HackerOne. [https://hackerone.com/twitter-algorithmic-bias?type=team⁠(opens in a new window)](https://hackerone.com/twitter-algorithmic-bias?type=team). Finally, see early published work on this topic from Rubinovitz, JB, “Bias Bounty Programs as a Method of Combatting Bias in AI,” August 2018. Available at [https://rubinovitz.com/2018/08/01/bias-bounty-programs-as-a-method-of-combatting⁠(opens in a new window)](https://rubinovitz.com/2018/08/01/bias-bounty-programs-as-a-method-of-combatting).
-{% endraw %}
+&#123;% endraw %}

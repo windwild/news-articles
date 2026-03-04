@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:53:31.725076337+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **Editor's Note: This is a guest blog post by** [**Dhruv Ateja**](https://www.linkedin.com/in/dhruv-atreja/?ref=blog.langchain.com) **. It covers building a full stack application that uses an agent to both query data as well as choose how to display that data. It leverages LangGraph and LangGraph Cloud.**
 
@@ -306,7 +306,7 @@ Response Format:
 
 "relevant_tables": [\
 \
-		{{\
+		&#123;{\
 \
 		"table_name": string,\
 \
@@ -326,7 +326,7 @@ Response Format:
 
 “relevant_tables”：[\
 \
-		{{\
+		&#123;{\
 \
 		“table_name”：字符串，\
 \
@@ -485,7 +485,7 @@ You are an AI assistant that validates and fixes SQL queries. Your task is to:
 4. If no issues are found, return the original query.
 
 Respond in JSON format with the following structure. Only respond with the JSON:
-{{
+&#123;{
     "valid": boolean,
     "issues": string or null,
     "corrected_query": string
@@ -500,7 +500,7 @@ Respond in JSON format with the following structure. Only respond with the JSON:
 4. 若未发现任何问题，则返回原始查询。
 
 请严格以如下 JSON 格式响应，且仅输出 JSON 内容：
-{{
+&#123;{
     "valid": 布尔值,
     "issues": 字符串或 null,
     "corrected_query": 字符串
@@ -514,20 +514,20 @@ Respond in JSON format with the following structure. Only respond with the JSON:
 {sql_query}
 
 Respond in JSON format with the following structure. Only respond with the JSON:
-{{
+&#123;{
     "valid": boolean,
     "issues": string or null,
     "corrected_query": string
 }}
 
 For example:
-1. {{
+1. &#123;{
     "valid": true,
     "issues": null,
     "corrected_query": "None"
 }}
 
-2. {{
+2. &#123;{
     "valid": false,
     "issues": "Column USERS does not exist",
     "corrected_query": "SELECT * FROM users WHERE age > 25"
@@ -541,20 +541,20 @@ For example:
 {sql_query}
 
 请严格以如下 JSON 格式响应，且仅输出 JSON 内容：
-{{
+&#123;{
     "valid": 布尔值,
     "issues": 字符串或 null,
     "corrected_query": 字符串
 }}
 
 示例：
-1. {{
+1. &#123;{
     "valid": true,
     "issues": null,
     "corrected_query": "None"
 }}
 
-2. {{
+2. &#123;{
     "valid": false,
     "issues": "列 USERS 不存在",
     "corrected_query": "SELECT * FROM users WHERE age > 25"
@@ -1517,4 +1517,4 @@ The ability to ask natural language questions about your data and receive instan
 We encourage you to try out this project, connect it to your own database, and explore the possibilities of agentic workflows with LangGraph Cloud!
 
 我们诚挚邀请您尝试本项目，将其连接至您自己的数据库，并深入探索 LangGraph Cloud 所赋能的智能体工作流（agentic workflows）的无限可能！
-{% endraw %}
+&#123;% endraw %}

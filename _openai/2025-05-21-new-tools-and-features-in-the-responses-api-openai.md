@@ -9,7 +9,7 @@ translated: false
 description: "New features in the Responses API: Remote MCP, image gen, Code Interpreter, and more. Powering faster, smarter agents with GPT-4o & o-series models, plus new features for reliability and efficiency."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 21, 2025
 
@@ -152,4 +152,4 @@ We’re excited to see what you build!
 
 - [2025](https://openai.com/news/?tags=2025)
 - [API Platform](https://openai.com/news/?tags=api-platform)
-{% endraw %}
+&#123;% endraw %}

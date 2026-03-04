@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Embed tweets into your React application without sacrificing performance."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 25, 2023
 
@@ -222,4 +222,4 @@ Vercel.com 官网首页
 ### Check out the code
 
 ### 查看源代码
-{% endraw %}
+&#123;% endraw %}

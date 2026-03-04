@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 _Guest post written by José Mussa (Staff Software Engineer @ Remote)_
 
@@ -182,4 +182,4 @@ Migrating HR data is one of the toughest parts of onboarding thousands of custom
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 6 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：6 分钟
-{% endraw %}
+&#123;% endraw %}

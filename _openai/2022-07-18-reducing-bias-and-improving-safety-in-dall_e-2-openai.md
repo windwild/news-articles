@@ -9,7 +9,7 @@ translated: false
 description: "Today, we are implementing a new technique so that DALL·E generates images of people that more accurately reflect the diversity of the world’s population."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 18, 2022
 
@@ -50,4 +50,4 @@ Expanding access is an important part of our [deploying AI systems responsibly�
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2022](https://openai.com/news/?tags=2022)
-{% endraw %}
+&#123;% endraw %}

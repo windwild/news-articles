@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research."
 ---
-{% raw %}
+&#123;% raw %}
 
 August 22, 2025
 
@@ -163,4 +163,4 @@ _Special thanks to: Chris Koch, Morgan Griffiths, Raul Arora, Tobias Fehlmann, J
 —
 
 Notes:GPT-4b micro was developed for research purposes and is not broadly available. Sam Altman is an investor in Retro Biosciences. OpenAI’s research team formed the collaboration.
-{% endraw %}
+&#123;% endraw %}

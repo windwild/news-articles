@@ -9,7 +9,7 @@ translated: false
 description: "Recommendations for pro-innovation policies that can help make the UK the AI capital of Europe."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 2, 2025
 
@@ -48,4 +48,4 @@ We look forward to working with governments and creators everywhere to shape the
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
-{% endraw %}
+&#123;% endraw %}

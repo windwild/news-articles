@@ -9,7 +9,7 @@ translated: true
 description: "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 5, 2026
 
@@ -195,4 +195,4 @@ We’re grateful to our partners at Ginkgo Bioworks and the teams who helped des
 
 - [Science](https://openai.com/news/?tags=science)  
 - [科学](https://openai.com/news/?tags=science)
-{% endraw %}
+&#123;% endraw %}

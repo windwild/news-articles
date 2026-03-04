@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 InterpretabilityResearch
 
@@ -49,4 +49,4 @@ Because we have focused on foundational issues, our longer-term path to scaling 
 By articulating this vision, we hope to clarify how we might resolve limitations, like analyzing massive neural networks, that might naively seem intractable in a mechanistic approach.  
 
 通过明确阐述这一愿景，我们希望厘清如何克服某些看似难以逾越的局限——例如对超大规模神经网络的分析——这些局限在机制性方法下可能被简单地认为是不可行的。
-{% endraw %}
+&#123;% endraw %}

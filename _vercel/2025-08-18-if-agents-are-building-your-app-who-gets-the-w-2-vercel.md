@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "If agents can design, build, test, and deploy features, their work should be treated like a developer's under GAAP. With modern AI logging, you can tie usage directly to capitalizable development acti..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 18, 2025
 
@@ -148,4 +148,4 @@ Build AI agents with the AI SDK. Create agents that can design, build, test, and
 
 Build AI agents on Vercel](https://vercel.com/docs/agents)  
 在 Vercel 上构建 AI 智能体](https://vercel.com/docs/agents)
-{% endraw %}
+&#123;% endraw %}

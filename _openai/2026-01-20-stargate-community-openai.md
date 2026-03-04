@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 20, 2026
 
@@ -99,4 +99,4 @@ Stargate是一项需深度协作的实体基础设施计划。我们高度依赖
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

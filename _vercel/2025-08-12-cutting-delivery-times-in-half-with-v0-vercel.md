@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Ready.net uses v0 to reduce ambiguity and accelerate feedback loops with limited resources"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 12, 2025
 
@@ -136,4 +136,4 @@ For a team shipping software in high-stakes, policy-driven spaces, clarity and s
 准备好在日常工作中体验 v0 的强大功能了吗？  
 \\  
 立即开始](https://v0.app/)
-{% endraw %}
+&#123;% endraw %}

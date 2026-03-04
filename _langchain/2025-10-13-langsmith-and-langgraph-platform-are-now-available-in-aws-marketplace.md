@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "LangSmith and LangGraph Platform (self-hosted deployments) are now available in AWS Marketplace."
 ---
-{% raw %}
+&#123;% raw %}
 
 _Note: As of October 2025, LangGraph Platform has been re-named to "LangSmith Deployment"._
 
@@ -103,4 +103,4 @@ To learn more about LangSmith and LangGraph Platform in AWS Marketplace, visit [
 
 LangChain helps developers build mission-critical AI applications. Its open-source frameworks – LangChain and LangGraph – see over 70 million downloads per month, and its commercial platform – consisting of LangSmith and LangGraph Platform – enables teams to build, test, run, and manage agents at scale across their organizations. Founded in 2023, LangChain powers top engineering teams at companies like Replit, Lovable, Clay, Klarna, LinkedIn, and more.  
 LangChain 协助开发者构建关键任务型 AI 应用。其开源框架——LangChain 和 LangGraph——每月下载量超 7000 万次；其商业化平台——由 LangSmith 和 LangGraph Platform 组成——则赋能团队在组织范围内规模化地构建、测试、运行与管理智能体。LangChain 成立于 2023 年，目前已为 Replit、Lovable、Clay、Klarna、LinkedIn 等多家公司的顶尖工程团队提供技术支持。
-{% endraw %}
+&#123;% endraw %}

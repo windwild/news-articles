@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Parallel's Web Search and other tools are now available on Vercel AI Gateway, AI SDK, and Marketplace. Add web search to any model with domain filtering, date constraints, and agentic mode support."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 4, 2026
 
@@ -172,4 +172,4 @@ pnpm install @parallel-web/ai-sdk-tools
 Get started with Parallel for your AI applications through AI Gateway, the AI SDK tool package, or Vercel Marketplace.
 
 通过 AI Gateway、AI SDK 工具包或 Vercel Marketplace，开始在您的 AI 应用中使用 Parallel。
-{% endraw %}
+&#123;% endraw %}

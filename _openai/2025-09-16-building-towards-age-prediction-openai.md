@@ -9,7 +9,7 @@ translated: false
 description: "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 16, 2025
 
@@ -50,4 +50,4 @@ We’ll continue to share progress as we go. In the meantime, we want to thank t
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)
-{% endraw %}
+&#123;% endraw %}

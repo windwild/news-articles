@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:22:46.430861971+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 ### Context
 
@@ -271,4 +271,4 @@ Many of these tasks to improve RAG are narrow and well-defined. For example, que
 Hand-in-hand with our effort to test open source LLMs, we recently launched [public datasets](https://blog.langchain.com/public-langsmith-benchmarks/) that can serve ground truth for evaluation. We will be expanding these to include some more specific RAG challenges and using them to assess the merits of the above approaches as well as the incorporation of open source LLMs.
 
 在开展开源大语言模型（LLM）评测工作的同时，我们近期推出了 [公开数据集](https://blog.langchain.com/public-langsmith-benchmarks/)，为效果评估提供可靠的真实标注（ground truth）。后续，我们将进一步扩充这些数据集，纳入更具针对性的 RAG 挑战任务，并利用它们系统性地评估前述方法的有效性，以及开源 LLM 在 RAG 中的整合价值。
-{% endraw %}
+&#123;% endraw %}

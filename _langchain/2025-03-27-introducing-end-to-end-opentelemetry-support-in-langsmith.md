@@ -9,7 +9,7 @@ translated: true
 description: "LangSmith now provides end-to-end OpenTelemetry (OTel) support for applications built on LangChain and/or LangGraph."
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Observability is critical for debugging and optimizing LLM applications — but until now, getting a complete view of your system meant juggling multiple tools and formats. Now, LangSmith offers full end-to-end OpenTelemetry support for applications built on LangChain and/or LangGraph.
 
@@ -255,4 +255,4 @@ Ready to get started tracing your LangChain and LangGraph applications with Open
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 8 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：8 分钟
-{% endraw %}
+&#123;% endraw %}

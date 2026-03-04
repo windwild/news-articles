@@ -9,7 +9,7 @@ translated: true
 description: "See how Definely used LangGraph to design a multi-agent system to help lawyers speed up their workflows."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [Definely](https://www.definely.com/?ref=blog.langchain.com) is revolutionizing the legal industry by integrating AI-driven solutions into lawyers' daily workflows. Focused on enhancing efficiency and accuracy, Definely is building specialized agents that operate within Microsoft Word, allowing lawyers to streamline contract drafting, negotiating and review. With a goal of building the most effective infrastructure for legal workflows, Definely chose LangGraph to flexibly design a multi-agent system that could help lawyers solve complex legal tasks.
 
@@ -162,4 +162,4 @@ Definely 正蓄势待发，重新定义法律专业人士如何借助 AI 增强�
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

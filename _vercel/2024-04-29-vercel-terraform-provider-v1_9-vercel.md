@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 29, 2024
 
@@ -63,4 +63,4 @@ Bash
 ```bash
 terraform init -upgrade
 ```
-{% endraw %}
+&#123;% endraw %}

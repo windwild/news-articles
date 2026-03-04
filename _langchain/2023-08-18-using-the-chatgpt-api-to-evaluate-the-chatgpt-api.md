@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 OpenAI released a new [ChatGPT API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis?ref=blog.langchain.com) yesterday.  
 OpenAI 昨日发布了全新的 [ChatGPT API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis?ref=blog.langchain.com)。
@@ -249,4 +249,4 @@ Next, the example that GPT3 graded as correct for both, but ChatGPT graded as in
 [**LangGraph Platform in beta: New deployment options for scalable agent infrastructure**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [**LangGraph 平台进入 Beta 阶段：面向可扩展智能体基础设施的新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
-{% endraw %}
+&#123;% endraw %}

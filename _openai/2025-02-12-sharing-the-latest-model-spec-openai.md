@@ -9,7 +9,7 @@ translated: false
 description: "We’ve made updates to the Model Spec based on external feedback and our continued research in shaping desired model behavior."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 12, 2025
 
@@ -73,4 +73,4 @@ Our goal is to continuously enable new use cases safely, evolving our approach g
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

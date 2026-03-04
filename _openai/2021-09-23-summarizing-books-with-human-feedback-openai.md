@@ -9,7 +9,7 @@ translated: false
 description: "Scaling human oversight of AI systems for tasks that are difficult to evaluate."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 23, 2021
 
@@ -63,4 +63,4 @@ These samples were selected from works in the [public domain⁠(opens in a new 
 
 2. B
 We’ve amended our original claim about results on NarrativeQA after being made aware of prior work with better results than ours.
-{% endraw %}
+&#123;% endraw %}

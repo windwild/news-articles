@@ -9,7 +9,7 @@ translated: true
 description: "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 20, 2026
 
@@ -96,4 +96,4 @@ While this is an important milestone, our work to support teen safety is ongoing
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)  
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)  
 - [用户安全与控制](https://openai.com/news/?tags=user-safety)
-{% endraw %}
+&#123;% endraw %}

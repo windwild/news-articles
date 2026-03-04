@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "We’re launching Stargate UAE – the first international deployment of Stargate, OpenAI’s AI infrastructure platform."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 22, 2025
 
@@ -45,4 +45,4 @@ We look forward to continuing to work with governments and partners who share th
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
-{% endraw %}
+&#123;% endraw %}

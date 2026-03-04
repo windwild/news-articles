@@ -7,7 +7,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 Alignment
 
@@ -245,4 +245,4 @@ Our research has important limitations. It is restricted to Claude.ai consumer t
 
 Importantly, our definition does not capture _structural_ forms of disempowerment, such as humans potentially being progressively excluded from economic systems as AI becomes more capable.  
 重要的是，我们的定义并未涵盖“结构性”的失能化形式，例如：随着 AI 能力不断提升，人类可能逐步被排除在经济体系之外。
-{% endraw %}
+&#123;% endraw %}

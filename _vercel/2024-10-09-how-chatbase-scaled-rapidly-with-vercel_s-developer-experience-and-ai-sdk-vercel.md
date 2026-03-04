@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Scaling rapidly in the AI market with Vercel, Next.js, and the AI SDK "
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 9, 2024
 
@@ -93,4 +93,4 @@ Get started with the AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-s
 使用 AI SDK 构建 AI 驱动的应用程序。\\
 \\
 立即开始使用 AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-sdk)
-{% endraw %}
+&#123;% endraw %}

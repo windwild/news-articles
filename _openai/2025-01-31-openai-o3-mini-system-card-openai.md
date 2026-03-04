@@ -9,7 +9,7 @@ translated: false
 description: "This report outlines the safety work carried out for the OpenAI o3-mini model, including safety evaluations, external red teaming, and Preparedness Framework evaluations."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 31, 2025
 
@@ -76,4 +76,4 @@ Due to improved coding and research engineering performance, OpenAI o3‑mini is
 This report outlines the safety work carried out for the OpenAI o3‑mini model, including safety evaluations, external red teaming, and Preparedness Framework evaluations.
 
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
-{% endraw %}
+&#123;% endraw %}

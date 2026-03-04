@@ -9,7 +9,7 @@ translated: false
 description: "We’re proud to announce that the 2021 class of OpenAI Scholars has completed our six-month mentorship program and have produced an open-source research project with stipends and support from Open..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 10, 2021
 
@@ -220,4 +220,4 @@ Play video
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2021](https://openai.com/news/?tags=2021)
-{% endraw %}
+&#123;% endraw %}

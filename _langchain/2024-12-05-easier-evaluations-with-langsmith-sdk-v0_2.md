@@ -9,7 +9,7 @@ translated: true
 description: "We've released a v0.2 of the LangSmith SDKs with various evaluations and performance improvements."
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 We’ve recently released v0.2 of the LangSmith SDKs, which come with a number of improvements to the developer experience for evaluating applications. We have simplified usage of the `evaluate()` / `aevaluate()` methods, added an option to run evaluations locally without uploading any results, improved SDK performance, and expanded our documentation. These improvements have been made in both the Python and TypeScript SDKs.
 
@@ -405,4 +405,4 @@ Python SDK 中进行了两项不兼容的变更：
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 8 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长约 8 分钟
-{% endraw %}
+&#123;% endraw %}

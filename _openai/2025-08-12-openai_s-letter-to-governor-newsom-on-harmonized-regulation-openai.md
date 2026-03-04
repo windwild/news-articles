@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—stand..."
 ---
-{% raw %}
+&#123;% raw %}
 
 August 12, 2025
 
@@ -39,4 +39,4 @@ From our previous submissions to Gov. Newsom and OpenAI CEO Sam Altman’s recen
 Read the full letter [here⁠(opens in a new window)](https://cdn.openai.com/pdf/oai_ca-safety-letter_8-11-25.pdf).
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

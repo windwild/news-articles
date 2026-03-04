@@ -9,7 +9,7 @@ translated: false
 description: "We are now accepting applications for OpenAI Fellows and Interns for 2019."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 9, 2018
 
@@ -112,4 +112,4 @@ _Questions—email_ [_internships@openai.com_ ⁠](mailto:internships@openai.com
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2018](https://openai.com/news/?tags=2018)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 28, 2024
 
@@ -31,4 +31,4 @@ These features are available to Web Analytics users on all plans.
 Check out [our documentation](https://vercel.com/docs/analytics/filtering#using-filters) to learn more.
 
 请查阅[我们的文档](https://vercel.com/docs/analytics/filtering#using-filters)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

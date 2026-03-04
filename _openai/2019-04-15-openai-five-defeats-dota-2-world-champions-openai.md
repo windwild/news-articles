@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI Five is the first AI to beat the world champions in an esports game, having won two back-to-back games versus the world champion Dota 2 team, OG, at Finals this weekend. Both OpenAI Five and..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 15, 2019
 
@@ -115,4 +115,4 @@ Deep reinforcement learning is the idea of training a deep neural network to ach
 
 2. B
 Winrate evaluated on the current game patch. This biases the winrate towards the Finals version as the TI version was trained on an older patch, but currently we don’t have another way to compare agents trained on different game versions.
-{% endraw %}
+&#123;% endraw %}

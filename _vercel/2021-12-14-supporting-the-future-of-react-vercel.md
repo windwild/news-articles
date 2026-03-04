@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "An update on our support for React and other open-source libraries our customers depend on."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 14, 2021
 
@@ -37,4 +37,4 @@ Next.js 团队尤其期待能更直接地与 Sebastian 展开合作。Vercel 将
 [Hear from Sebastian about his decision to join Vercel.](https://twitter.com/sebmarkbage/status/1470761449136001027)
 
 [点击此处，聆听 Sebastian 分享他加入 Vercel 的心路历程。](https://twitter.com/sebmarkbage/status/1470761449136001027)
-{% endraw %}
+&#123;% endraw %}

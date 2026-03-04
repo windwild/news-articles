@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Pro teams can now add unlimited free Viewer seats so team members can more flexibly, and cost-efficiently collaborate."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 9, 2025
 
@@ -35,4 +35,4 @@ Pro 团队现在可免费添加不限数量的 Viewer（查看者）席位，使
 立即使用新版 Pro 计划开始构建应用。灵活的额度机制、免费的查看者席位，以及企业级功能现已全面开放。  
 \\  
 了解更多](https://vercel.com/blog/new-pro-pricing-plan)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: true
 description: "Workspaces in LangSmith lets enterprises separate resources between different teams, business units, or deployment environments."
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 For large companies with many teams and business units, resource separation is a must. Workspaces in LangSmith now provide a logical grouping of users and resources within an organization, enhancing productivity and security for enterprises and startups.
 
@@ -192,4 +192,4 @@ Plans with multiple workspaces can manage user membership by workspace, and plan
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

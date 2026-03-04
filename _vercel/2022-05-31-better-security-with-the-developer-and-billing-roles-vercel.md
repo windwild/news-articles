@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 31, 2022
 
@@ -31,4 +31,4 @@ Enterprise Teams can now assign the developer and billing roles to users:
 The developer and billing roles are now in public beta. Learn more about [roles and permissions](https://vercel.com/docs/concepts/teams/roles-and-permissions) of Team members.
 
 开发者角色与账单角色现已进入公开测试阶段。了解更多关于团队成员的[角色与权限](https://vercel.com/docs/concepts/teams/roles-and-permissions)信息。
-{% endraw %}
+&#123;% endraw %}

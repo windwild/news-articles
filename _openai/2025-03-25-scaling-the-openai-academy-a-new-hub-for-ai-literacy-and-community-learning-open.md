@@ -9,7 +9,7 @@ translated: false
 description: "Online resource hub will support AI literacy and help people from all backgrounds access tools, best practices, and peer insights to use AI."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 25, 2025
 
@@ -45,4 +45,4 @@ We’ll also continue partnering with governments to advance policies that impro
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
-{% endraw %}
+&#123;% endraw %}

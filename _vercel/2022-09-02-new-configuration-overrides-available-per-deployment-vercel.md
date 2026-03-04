@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 2, 2022
 
@@ -40,4 +40,4 @@ Sep 2, 2022
 [Check out the documentation](https://vercel.com/docs/project-configuration)
 
 [查看文档](https://vercel.com/docs/project-configuration) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

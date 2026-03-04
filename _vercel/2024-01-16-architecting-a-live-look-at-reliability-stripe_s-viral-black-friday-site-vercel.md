@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel x Stripe social image"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 16, 2024
 
@@ -198,4 +198,4 @@ Dec 21, 2023
 Alice Alexandra Moore
 
 爱丽丝·亚历山德拉·摩尔
-{% endraw %}
+&#123;% endraw %}

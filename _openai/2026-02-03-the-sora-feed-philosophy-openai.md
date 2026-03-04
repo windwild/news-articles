@@ -9,7 +9,7 @@ translated: true
 description: "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 3, 2026
 
@@ -143,4 +143,4 @@ We also know we won’t get this balance perfect from day one. Recommendation sy
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

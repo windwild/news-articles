@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "At Vercel, we integrated AI into our support workflow. Our AI agent reduced human-handled tickets by 31%, allowing us to maintain high support standards while serving a growing customer base."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 3, 2024
 
@@ -161,4 +161,4 @@ Apr 9, 2024
 Malte Ubl
 
 马尔特·乌布爾
-{% endraw %}
+&#123;% endraw %}

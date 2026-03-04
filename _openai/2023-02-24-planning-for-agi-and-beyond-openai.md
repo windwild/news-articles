@@ -9,7 +9,7 @@ translated: false
 description: "Our mission is to ensure that artificial general intelligence—AI systems that are generally smarter than humans—benefits all of humanity."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 24, 2023
 
@@ -102,4 +102,4 @@ AGI could happen soon or far in the future; the takeoff speed from the initial A
 
 
 As another example, we now believe we were wrong in our original thinking about openness, and have pivoted from thinking we should release everything (though we open source some things, and expect to open source more exciting things in the future!) to thinking that we should figure out how to safely share access to and benefits of the systems. We still believe the benefits of society understanding what is happening are huge and that enabling such understanding is the best way to make sure that what gets built is what society collectively wants (obviously there’s a lot of nuance and conflict here).
-{% endraw %}
+&#123;% endraw %}

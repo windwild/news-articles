@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Teleport unlocked a new customer acquisition channel by overhauling and migrating their documentation to Next.js and Vercel. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 10, 2024
 
@@ -162,4 +162,4 @@ Our experts are here to help you explore how Vercel can safeguard your critical 
 Contact Us](https://vercel.com/contact/sales)  
 
 联系我们](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

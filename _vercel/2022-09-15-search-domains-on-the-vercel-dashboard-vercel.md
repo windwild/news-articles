@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 15, 2022
 
@@ -27,4 +27,4 @@ The search bar improves discoverability for teams working with multiple domains 
 Check out the [documentation](https://vercel.com/docs/concepts/projects/custom-domains) to learn more.
 
 请查阅[文档](https://vercel.com/docs/concepts/projects/custom-domains)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

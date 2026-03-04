@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "See how we built the data-heavy Black Friday-Cyber Monday dashboard to be cost-efficient, fast, and accurate. Building a data-heavy, real-time dashboard with a good user experience comes with challeng..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 24, 2024
 
@@ -576,4 +576,4 @@ Jan 16, 2024
 Greta Workman
 
 格蕾塔·沃克曼
-{% endraw %}
+&#123;% endraw %}

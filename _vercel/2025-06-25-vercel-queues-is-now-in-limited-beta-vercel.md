@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Queues is a message queue service for Vercel apps, now in Limited Beta. It enables background task processing using an append-only log for reliability, with support for pub/sub messaging, strea..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 25, 2025
 
@@ -66,4 +66,4 @@ An example of sending and receiving message with a queue.
 If you have any questions, let us know in the [Vercel Community](https://community.vercel.com/).
 
 如有任何疑问，请在 [Vercel 社区](https://community.vercel.com/) 中告诉我们。
-{% endraw %}
+&#123;% endraw %}

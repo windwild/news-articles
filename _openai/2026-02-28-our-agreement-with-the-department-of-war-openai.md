@@ -9,7 +9,7 @@ translated: true
 description: "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 28, 2026
 
@@ -181,4 +181,4 @@ In addition to these protections, our contract offers additional layered safegua
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

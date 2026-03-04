@@ -9,7 +9,7 @@ translated: false
 description: "We’ve trained a human-like robot hand to manipulate physical objects with unprecedented dexterity."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 30, 2018
 
@@ -153,4 +153,4 @@ This project completes a full cycle of AI development that OpenAI has been pursu
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
-{% endraw %}
+&#123;% endraw %}

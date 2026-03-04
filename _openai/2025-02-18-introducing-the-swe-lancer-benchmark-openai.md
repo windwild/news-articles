@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Can frontier LLMs earn $1 million from real-world freelance software engineering?"
 ---
-{% raw %}
+&#123;% raw %}
 
 February 18, 2025
 
@@ -26,4 +26,4 @@ We introduce SWE-Lancer, a benchmark of over 1,400 freelance software engineerin
 * * *
 
 _**Update on July 28, 2025:**_ _Dataset and results updated as of July 17, 2025, available at:_ [_https://github.com/openai/preparedness_ ⁠(opens in a new window)](https://github.com/openai/preparedness) [_⁠_ ⁠(opens in a new window)](https://github.com/openai/preparedness%E2%81%A0) _and in our system cards. The updated dataset removes the requirement for Internet connectivity during execution, eliminating a primary source of variability in model performance._
-{% endraw %}
+&#123;% endraw %}

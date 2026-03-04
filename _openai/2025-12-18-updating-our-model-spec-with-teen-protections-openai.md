@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthen..."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 18, 2025
 
@@ -145,4 +145,4 @@ We’re committed to making strong teen protections and improving them over time
 
 - [2025](https://openai.com/news/?tags=2025)  
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

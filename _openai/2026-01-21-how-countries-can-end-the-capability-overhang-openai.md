@@ -9,7 +9,7 @@ translated: true
 description: "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 21, 2026
 
@@ -80,4 +80,4 @@ Read more about our OpenAI for Countries expansion in the Ending the Capability 
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

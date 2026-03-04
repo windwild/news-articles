@@ -9,7 +9,7 @@ translated: false
 description: "Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500 hours weekly."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [ChatGPT](https://openai.com/stories/chatgpt/) [API](https://openai.com/stories/api/)
 
@@ -100,4 +100,4 @@ APIMar 18, 2024](https://openai.com/index/superhuman/)
 APIMar 18, 2024](https://openai.com/index/salesforce/)
 
 Building a data-driven, efficient culture with AI \| OpenAI
-{% endraw %}
+&#123;% endraw %}

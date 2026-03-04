@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "An introduction to the underlying infrastructure of the Frontend Cloud: Part 1 of the developer's guide to a future-proofed stack for the modern frontend."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 21, 2023
 
@@ -391,4 +391,4 @@ Vercel.com 着陆页
 ### See for yourself
 
 ### 亲身体验
-{% endraw %}
+&#123;% endraw %}

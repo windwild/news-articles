@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "We’re releasing a research preview of OpenAI GPT‑4.5, our largest and most knowledgeable model yet."
 ---
-{% raw %}
+&#123;% raw %}
 
 February 27, 2025
 
@@ -75,4 +75,4 @@ We’re sharing GPT‑4.5 as a research preview to better understand its strengt
 This system card outlines how we built and trained GPT‑4.5, evaluated its capabilities, and strengthened safety, following OpenAI’s safety process and Preparedness Framework.
 
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
-{% endraw %}
+&#123;% endraw %}

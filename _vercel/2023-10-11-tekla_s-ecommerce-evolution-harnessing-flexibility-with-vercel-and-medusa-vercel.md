@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How Tekla uses Vercel and Medusa to provide speed, top performance, and flexibility to global ecommerce brands."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 11, 2023
 
@@ -71,4 +71,4 @@ Get in Touch](https://vercel.com/contact/sales)
 联系专家，了解如何即刻开启 Vercel 之旅。  
 \\  
 立即联系](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

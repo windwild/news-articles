@@ -9,7 +9,7 @@ translated: false
 description: "Reinforcement learning algorithms can break in surprising, counterintuitive ways. In this post we’ll explore one failure mode, which is where you misspecify your reward function."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 21, 2016
 
@@ -52,4 +52,4 @@ _Get in touch with the authors of this post:_ [_Dario_ ⁠](mailto:damodei@opena
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

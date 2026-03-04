@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How to build 3D web projects with React Three Fiber in v0"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 10, 2024
 
@@ -184,4 +184,4 @@ Get started](https://v0.dev/chat)
 立即使用 v0 开始构建，仅需用自然语言描述即可生成 3D 设计。\\
 \\
 立即开始](https://v0.dev/chat)
-{% endraw %}
+&#123;% endraw %}

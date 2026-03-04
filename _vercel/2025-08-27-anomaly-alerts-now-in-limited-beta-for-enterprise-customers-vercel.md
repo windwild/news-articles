@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Enterprise customers with Observability Plus can now receive anomaly alerts through the limited beta"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 27, 2025
 
@@ -39,4 +39,4 @@ Alerts are available in limited beta for Enterprise customers with [Observabilit
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Falerts) or learn more about [Alerts](https://vercel.com/docs/alerts).
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Falerts)，或深入了解 [告警功能](https://vercel.com/docs/alerts)。
-{% endraw %}
+&#123;% endraw %}

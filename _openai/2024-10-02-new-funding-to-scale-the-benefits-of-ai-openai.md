@@ -9,7 +9,7 @@ translated: false
 description: "We are making progress on our mission to ensure that artificial general intelligence benefits all of humanity."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 2, 2024
 
@@ -28,4 +28,4 @@ We aim to make advanced intelligence a widely accessible resource. We’re grate
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

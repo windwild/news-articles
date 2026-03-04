@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 6, 2025
 
@@ -41,4 +41,4 @@ Meanwhile, through initiatives like OpenAI Academy, which has already supported 
 Hacktivate AI is our latest step on this journey. Over the coming months and years, we will continue to work with public and private partners to make AI a collective European success story and source of prosperity and progress for the continent.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

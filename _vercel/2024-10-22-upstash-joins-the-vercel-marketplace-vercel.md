@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Upstash has joined the Vercel Marketplace with three of its core products: KV, Vector, and QStash. These services offer integrated billing, automated account provisioning, and direct access to the Ups..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 22, 2024
 
@@ -35,4 +35,4 @@ Get started with the [Vercel Marketplace](https://vercel.com/marketplace), avail
 The Vercel KV product has been sunset. You can now deploy alternative KV stores and other storage solutions through the [Vercel Marketplace Storage](https://vercel.com/marketplace/category/storage?category=storage&search=redis), with automatic account provisioning and unified billing. [Learn more](https://vercel.com/blog/introducing-the-vercel-marketplace).
 
 Vercel KV 产品已正式停止维护（sunset）。您现在可通过 [Vercel Marketplace Storage](https://vercel.com/marketplace/category/storage?category=storage&search=redis) 部署其他 KV 存储及各类存储解决方案，享受自动账户开通与统一账单结算功能。[了解更多](https://vercel.com/blog/introducing-the-vercel-marketplace)
-{% endraw %}
+&#123;% endraw %}

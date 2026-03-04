@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Cubic joins the Vercel Agents Marketplace, offering teams an AI code reviewer with full codebase context, unified billing, and automated fixes."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 30, 2026
 
@@ -32,4 +32,4 @@ Jan 30, 2026
 当 cubic 完成首轮自动化审查后，团队可大幅减少人工审查耗时，将更多精力投入到代码合并等高价值工作中。此外，自定义编码规范可在各代码仓库中统一 enforced（强制执行），助力团队在规模扩张过程中持续保障代码一致性。
 
 [立即开始使用 cubic](https://vercel.com/marketplace/cubic)，或浏览 [Vercel Agents](https://vercel.com/marketplace/agents) [市场](https://vercel.com/marketplace/agents)，探索更多实用工具。
-{% endraw %}
+&#123;% endraw %}

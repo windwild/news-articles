@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 28, 2025
 
@@ -55,4 +55,4 @@ We believe that the world’s most powerful technology must be developed in a wa
 00:00
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Redesigned Environment Variables UI with less scrolling, larger hit targets, and progressive disclosure for easier management of shared and project variables."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 16, 2026
 
@@ -21,4 +21,4 @@ Jan 16, 2026
 您将减少滚动操作，拥有更大的点击区域，并且仅在需要时才查看详细信息。
 
 了解更多，请参阅 [环境变量文档](https://vercel.com/docs/environment-variables)。
-{% endraw %}
+&#123;% endraw %}

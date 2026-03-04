@@ -11,7 +11,7 @@ description: "API Partnership with Stack Overflow
 Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge plat..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 6, 2024
 
@@ -39,4 +39,4 @@ The first set of new integrations and capabilities between Stack Overflow and Op
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

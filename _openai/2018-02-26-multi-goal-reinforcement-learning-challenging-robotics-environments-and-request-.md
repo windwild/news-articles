@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 26, 2018
 
@@ -27,4 +27,4 @@ The purpose of this technical report is two-fold. First of all, it introduces a 
 
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
-{% endraw %}
+&#123;% endraw %}

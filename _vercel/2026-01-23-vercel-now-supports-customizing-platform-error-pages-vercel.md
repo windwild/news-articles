@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "For Enterprise customers, Vercel now allows you to customize platform error pages with your own branded pages. This gives a consistent experience for 5xx errors, as visitors see the same design irresp..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 23, 2026
 
@@ -131,4 +131,4 @@ This feature is available for Enterprise teams and enabled automatically across 
 See the [documentation](http://vercel.com/docs/custom-error-pages) to get started or reference the following implementations: [Custom error pages with App Router](https://github.com/vercel/examples/tree/main/cdn/custom-error-pages-app-dir/) or [Custom error pages with public directory](https://github.com/vercel/examples/tree/main/cdn/custom-error-pages-public-dir/).
 
 请参阅[文档](http://vercel.com/docs/custom-error-pages)开始使用，或参考以下实现示例：[使用 App Router 的自定义错误页面](https://github.com/vercel/examples/tree/main/cdn/custom-error-pages-app-dir/) 或 [使用 public 目录的自定义错误页面](https://github.com/vercel/examples/tree/main/cdn/custom-error-pages-public-dir/)。
-{% endraw %}
+&#123;% endraw %}

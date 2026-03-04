@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Uplevel your flags workflow with the Vercel Toolbar"
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 6, 2024
 
@@ -65,7 +65,7 @@ import { FlagValues } from "@vercel/flags/react"
 
 
 
-3<FlagValues values={{ fasterCheckoutPage: true, landingPageRedesign: true }} />
+3<FlagValues values=&#123;{ fasterCheckoutPage: true, landingPageRedesign: true }} />
 ```
 
 ```tsx
@@ -73,7 +73,7 @@ import { FlagValues } from "@vercel/flags/react"
 
 
 
-3<FlagValues values={{ fasterCheckoutPage: true, landingPageRedesign: true }} />
+3<FlagValues values=&#123;{ fasterCheckoutPage: true, landingPageRedesign: true }} />
 ```
 
 Then, you’ll work with `FlagDefinitions` to tell the toolbar about your application’s feature flags, complete with rich metadata.
@@ -184,4 +184,4 @@ Get started](https://vercel.com/docs/workflow-collaboration/feature-flags/using-
 即刻启用全新工作流：使用 Vercel 工具栏读取并设置您应用程序的特性标志覆盖项。\\
 \\
 立即开始](https://vercel.com/docs/workflow-collaboration/feature-flags/using-vercel-toolbar)
-{% endraw %}
+&#123;% endraw %}

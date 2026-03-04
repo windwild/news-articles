@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 15, 2022
 
@@ -30,4 +30,4 @@ Edge Config 现已开放**公开测试（Public Beta）**——您可通过以�
 [Check out the documentation](https://vercel.com/docs/concepts/edge-network/edge-config) to learn more.
 
 [查阅官方文档](https://vercel.com/docs/concepts/edge-network/edge-config)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

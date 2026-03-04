@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes", "![Deep Agents", "**Deep Agents**"]
 ---
-{% raw %}
+&#123;% raw %}
 
 _By Harrison Chase_
 
@@ -244,4 +244,4 @@ I do not think the world needs yet another workflow builder. Rather, I think the
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 3 min read
 
 [Harrison 的热点评论](https://blog.langchain.com/tag/in-the-loop/) 阅读时长：3 分钟
-{% endraw %}
+&#123;% endraw %}

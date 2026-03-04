@@ -9,7 +9,7 @@ translated: false
 description: "Introducing canvas"
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 3, 2024
 
@@ -118,4 +118,4 @@ Canvas is in early beta, and we plan to rapidly improve its capabilities.
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

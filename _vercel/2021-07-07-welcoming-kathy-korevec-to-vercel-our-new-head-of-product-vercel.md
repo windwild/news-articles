@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We’re excited to announce that Kathy Korevec is joining our leadership team at Vercel as Head of Product to accelerate our mission to bring the best developer experience to our customers and communi..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 7, 2021
 
@@ -37,4 +37,4 @@ With Kathy at the helm of our product teams, we’re looking forward to [acceler
 Kathy is one of the many new faces we’re excited about! Vercel is growing rapidly, and carefully. Come build your career with us and [apply to one of our current openings](https://vercel.com/careers). Help us make the web. Faster.
 
 Kathy 是我们热切期待的众多新面孔之一！Vercel 正在快速而审慎地发展壮大。诚邀你加入我们，共同开启职业新篇章——欢迎浏览我们的[当前招聘职位](https://vercel.com/careers)并投递申请。携手共建更迅捷的网络世界。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Put AI to work for your product team"
 tags: ["Webinar"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Recorded: December 9, 2024
 
@@ -25,4 +25,4 @@ For your product team.
 00:0040:11
 
 Put AI to work for your product team \| OpenAI
-{% endraw %}
+&#123;% endraw %}

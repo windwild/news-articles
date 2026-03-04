@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How Super uses Next.js and Vercel to power thousands of Notion-based websites with custom domains from a single codebase."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 1, 2023
 
@@ -118,4 +118,4 @@ Performance on [@super\_](https://x.com/super_) sites is looking pretty good
 [Read 3 replies](https://x.com/TrillCyborg/status/1499498835281735696)
 
 [阅读 3 条回复](https://x.com/TrillCyborg/status/1499498835281735696)
-{% endraw %}
+&#123;% endraw %}

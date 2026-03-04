@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "End-to-end performance of Vercel's log pipeline is now six times faster due to engineering improvements"
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 1, 2025
 
@@ -29,4 +29,4 @@ We've improved our logs infrastructure resulting in significantly better perform
 Learn more about [Runtime Logs](https://vercel.com/docs/logs/runtime).
 
 了解更多关于 [运行时日志（Runtime Logs）](https://vercel.com/docs/logs/runtime) 的信息。
-{% endraw %}
+&#123;% endraw %}

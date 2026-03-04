@@ -9,7 +9,7 @@ translated: false
 description: "Fine-tune custom versions of GPT-4o to increase performance and accuracy for your applications"
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 20, 2024
 
@@ -64,4 +64,4 @@ We’re excited to see what you build by fine-tuning GPT‑4o. If you’d like t
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

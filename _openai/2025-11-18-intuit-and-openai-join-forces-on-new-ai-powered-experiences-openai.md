@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontier models to power personalized financial tools..."
 ---
-{% raw %}
+&#123;% raw %}
 
 November 18, 2025
 
@@ -45,4 +45,4 @@ For businesses, Intuit’s apps will surface tailored insights to improve cash f
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

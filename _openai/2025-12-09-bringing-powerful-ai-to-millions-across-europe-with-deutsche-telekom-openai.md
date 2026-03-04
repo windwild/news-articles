@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche..."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 9, 2025
 
@@ -40,4 +40,4 @@ Deutsche Telekom further extends OpenAI’s work with the world’s largest and 
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
-{% endraw %}
+&#123;% endraw %}

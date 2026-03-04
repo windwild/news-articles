@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 **TL;DR**: We're announcing improvements to our callbacks system, which powers logging, tracing, [streaming output](https://python.langchain.com/docs/modules/model_io/models/llms/how_to/streaming_llm?ref=blog.langchain.com), and some awesome [third-party integrations](https://python.langchain.com/docs/ecosystem/integrations/?ref=blog.langchain.com). This will better support concurrent runs with independent callbacks, tracing of deeply nested trees of LangChain components, and callback handlers scoped to a single request (which is super useful for deploying LangChain on a server).
 
@@ -229,4 +229,4 @@ Please let us know if you run into any issues, as this was a large change!
 [**LangGraph Platform 正式进入 Beta 阶段：面向可扩展智能体基础设施的新部署选项**](https://blog.langchain.com/langgraph-platform-announce/)
 
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 分钟阅读
-{% endraw %}
+&#123;% endraw %}

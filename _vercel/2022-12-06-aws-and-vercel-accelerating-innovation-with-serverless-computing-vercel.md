@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Helping teams take advantage of best-in-class AWS infrastructure with zero configuration."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 6, 2022
 
@@ -82,4 +82,4 @@ I am constantly in awe of our customers’ achievements with this platform, and 
 
 - [See why a serverless infrastructure is best on Vercel](https://vercel.com/features/infrastructure)  
 - [了解为何 Vercel 是运行无服务器基础设施的最佳平台](https://vercel.com/features/infrastructure)
-{% endraw %}
+&#123;% endraw %}

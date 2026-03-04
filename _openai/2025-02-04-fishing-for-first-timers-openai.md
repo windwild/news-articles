@@ -10,7 +10,7 @@ description: "Using ChatGPT to catch halibut
 "
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 4, 2025
 
@@ -122,4 +122,4 @@ ChatGPTFeb 4, 2025](https://openai.com/index/ten-tiny-canvases/)
 APIDec 11, 2024](https://openai.com/index/zalando/)
 
 Fishing for first timers \| OpenAI
-{% endraw %}
+&#123;% endraw %}

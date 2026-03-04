@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 13, 2022
 
@@ -27,4 +27,4 @@ Static files and [function responses](https://vercel.com/docs/concepts/functions
 Check out [the documentation](https://vercel.com/docs/functions/regions) as well.
 
 也欢迎查阅相关[文档](https://vercel.com/docs/functions/regions)。
-{% endraw %}
+&#123;% endraw %}

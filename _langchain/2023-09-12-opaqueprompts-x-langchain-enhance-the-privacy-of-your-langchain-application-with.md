@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:46:15.468211954+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This blog post was written in collaboration with the [Opaque](https://opaque.co/?ref=blog.langchain.com) team. As more apps get into production, we've been hearing more teams talk about solutions for data privacy. Opaque's seamless integration with LangChain ensures personal information in your users’ prompts will be hidden from the LLM provider with just a few lines of code._
 
@@ -215,4 +215,4 @@ You can play with a working implementation of a chatbot built with LangChain and
 With OpaquePrompts, you can bootstrap your existing LangChain-based application to add privacy for your users. With your OpaquePrompts + LangChain application, any personal information in your users’ prompts will be hidden from the LLM provider, ensuring that you, as the LLM application developer, do not have to worry about the provider’s data retention or processing policies. Take a look at the [documentation](https://python.langchain.com/docs/integrations/llms/opaqueprompts?ref=blog.langchain.com) or [try out OpaquePrompts Chat](https://opaqueprompts.opaque.co/?ref=blog.langchain.com) today!
 
 借助 OpaquePrompts，您可以快速为现有基于 LangChain 的应用添加用户隐私保护能力。在您的 OpaquePrompts + LangChain 应用中，用户提示（prompt）中所含的任何个人信息都将对大语言模型（LLM）服务提供商完全隐藏——这意味着作为 LLM 应用开发者，您无需再担忧服务商的数据留存或数据处理政策。立即查阅 [官方文档](https://python.langchain.com/docs/integrations/llms/opaqueprompts?ref=blog.langchain.com)，或直接 [体验 OpaquePrompts 聊天功能](https://opaqueprompts.opaque.co/?ref=blog.langchain.com) 吧！
-{% endraw %}
+&#123;% endraw %}

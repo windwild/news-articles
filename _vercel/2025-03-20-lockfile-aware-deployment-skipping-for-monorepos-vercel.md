@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now maps dependencies in your package manager’s lockfile to applications in your monorepo, skipping unaffected projects for monorepos."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 20, 2025
 
@@ -33,4 +33,4 @@ Previously, any change to the lockfile would redeploy all applications in the mo
 Learn more about [skipping unaffected projects in monorepos](https://vercel.com/docs/monorepos#skipping-unaffected-projects).
 
 了解更多关于[在单体仓库中跳过未受影响项目的机制](https://vercel.com/docs/monorepos#skipping-unaffected-projects)。
-{% endraw %}
+&#123;% endraw %}

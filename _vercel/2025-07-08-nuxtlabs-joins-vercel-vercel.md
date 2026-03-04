@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "NuxtLabs, creators of Nuxt and Nitro, are joining Vercel. Same license, roadmap, and open governance, but now in a joint mission to build the best web."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 8, 2025
 
@@ -55,4 +55,4 @@ Over the next few months Nuxt Studio MDC, Nuxt UI Pro, and NuxtHub Admin will al
 We’re honored to welcome the Nuxt team to Vercel to keep shipping for developers everywhere.
 
 我们非常荣幸地欢迎 Nuxt 团队加入 Vercel，持续为全球开发者交付卓越体验。
-{% endraw %}
+&#123;% endraw %}

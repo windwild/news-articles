@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative."
 ---
-{% raw %}
+&#123;% raw %}
 
 September 26, 2025
 
@@ -79,4 +79,4 @@ Our collaboration with OATS reinforces this fundamental idea: AI education shoul
 
 - [2025](https://openai.com/news/?tags=2025)  
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

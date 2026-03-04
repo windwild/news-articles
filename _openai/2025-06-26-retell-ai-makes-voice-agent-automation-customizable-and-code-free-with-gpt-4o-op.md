@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs,..."
 ---
-{% raw %}
+&#123;% raw %}
 
 June 26, 2025
 
@@ -80,4 +80,4 @@ With every new model release, like GPT‑4.1, Retell unlocks new functionality l
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

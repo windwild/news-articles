@@ -9,7 +9,7 @@ translated: true
 description: "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex."
 tags: ["Engineering"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 13, 2026
 
@@ -211,4 +211,4 @@ Building that experience required rethinking access, usage, and billing as a sin
 - [Sora](https://openai.com/news/?tags=sora)  
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

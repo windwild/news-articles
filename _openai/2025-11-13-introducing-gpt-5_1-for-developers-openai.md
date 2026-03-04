@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools."
 ---
-{% raw %}
+&#123;% raw %}
 
 November 13, 2025
 
@@ -142,4 +142,4 @@ _\\* For Tau_ _2_ _-bench Telecom, we gave GPT‑5.1 a short, generically helpfu
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

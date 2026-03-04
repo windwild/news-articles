@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth acro..."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 30, 2025
 
@@ -34,4 +34,4 @@ Michigan has long been at the center of American engineering and manufacturing. 
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
-{% endraw %}
+&#123;% endraw %}

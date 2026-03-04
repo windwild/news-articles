@@ -9,7 +9,7 @@ translated: false
 description: "Deep learning is an empirical science, and the quality of a group’s infrastructure is a multiplier on progress. Fortunately, today’s open-source ecosystem makes it possible for anyone to build gre..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 29, 2016
 
@@ -138,4 +138,4 @@ Our infrastructure aims to maximize the productivity of deep learning researcher
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
 - [Compute Scaling](https://openai.com/research/index/?tags=compute-scaling)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
-{% endraw %}
+&#123;% endraw %}

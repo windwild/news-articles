@@ -9,7 +9,7 @@ translated: false
 description: "Using GPT-3 to deliver fast, nuanced insights from customer feedback."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Yabble
@@ -83,4 +83,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Delivering nuanced insights from customer feedback \| OpenAI
-{% endraw %}
+&#123;% endraw %}

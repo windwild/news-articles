@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing SPR, an industry-defining feature that allows you to get the best of both static and dynamic data rendering."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 3, 2019
 
@@ -150,4 +150,4 @@ The example showcased above is [fully open-source](https://github.com/vercel/spr
 SPR 功能现已全面进入生产可用阶段，并已部署于我们的全网基础设施中。
 
 您希望我们接下来重点支持哪款 API 或无头 CMS？欢迎通过[反馈渠道](https://vercel.com/feedback/spr)告诉我们！
-{% endraw %}
+&#123;% endraw %}

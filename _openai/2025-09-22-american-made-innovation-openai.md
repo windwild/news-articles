@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "American-made innovation"
 ---
-{% raw %}
+&#123;% raw %}
 
 September 22, 2025
 
@@ -18,4 +18,4 @@ September 22, 2025
 
 
 American-made innovation \| OpenAI
-{% endraw %}
+&#123;% endraw %}

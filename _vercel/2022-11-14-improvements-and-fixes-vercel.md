@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 14, 2022
 
@@ -35,4 +35,4 @@ With your feedback, we've shipped dozens of bug fixes and small feature requests
 - **Vercel 文档中的代码展示优化：** 代码块现均以文件路径作为标题（header）显示。
 
 - **Vercel 文档中的视觉效果优化：** 我们现已支持动态适配深色/浅色模式的截图。
-{% endraw %}
+&#123;% endraw %}

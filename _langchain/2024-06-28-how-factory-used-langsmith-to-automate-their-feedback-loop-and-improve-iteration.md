@@ -9,7 +9,7 @@ translated: true
 description: "How Factory AI uses LangSmith to debug issues and close the product feedback loop, resulting in a 2x improvement in iteration speed."
 tags: ["By LangChain", "Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 In today’s fast-paced software development, streamlined Software Development Lifecycle (SDLC) capabilities are essential. Factory is building the secure AI platform for SDLC automation. Factory’s fleet of Droids automate different stages of the SDLC, boosting engineering velocity for large organizations — and their [Code Droid](https://www.factory.ai/news/code-droid-technical-report?ref=blog.langchain.com) has achieved state-of-the-art performance in complex software development tasks. By leveraging Self-hosted [LangSmith](http://www.langchain.com/langsmith?ref=blog.langchain.com), Factory meets complex observability requirements for autonomous LLM systems while maintaining enterprise-level security and privacy.
 
@@ -190,4 +190,4 @@ For more information, visit [LangChain’s website](https://langchain.com/?ref=b
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

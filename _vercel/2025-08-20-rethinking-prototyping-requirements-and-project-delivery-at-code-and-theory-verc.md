@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How the agency, Code and Theory, cuts time-to-prototype by 75% and moves faster from idea to execution"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 20, 2025
 
@@ -140,4 +140,4 @@ Book a demo](https://vercel.com/contact/sales/v0-enterprise)
 如需体验 v0 Enterprise，请联系我们的团队预约演示。\\
 \\
 预约演示](https://vercel.com/contact/sales/v0-enterprise)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "The latest information about the Unconference is now available at the Unconference wiki, which will be periodically updated with more information for attendees."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 18, 2016
 
@@ -89,4 +89,4 @@ You can discuss plans and logistics with other attendees in the [Gitter chat⁠
 - [Community](https://openai.com/news/?tags=community)
 - [Events](https://openai.com/news/?tags=events)
 - [2016](https://openai.com/news/?tags=2016)
-{% endraw %}
+&#123;% endraw %}

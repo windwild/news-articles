@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've shipped optimizations that reduce build overhead, particularly for projects with many input files, large node_modules, or extensive build outputs."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 14, 2026
 
@@ -29,4 +29,4 @@ Builds complete 2.8 seconds faster on average, with larger builds seeing improve
 See the [builds documentation](https://vercel.com/docs/builds) for details.
 
 详情请参阅[构建文档](https://vercel.com/docs/builds)。
-{% endraw %}
+&#123;% endraw %}

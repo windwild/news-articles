@@ -9,7 +9,7 @@ translated: false
 description: "How Iceland is using GPT-4 to preserve its language."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Government of Iceland
@@ -135,4 +135,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Preserving languages for the future \| OpenAI
-{% endraw %}
+&#123;% endraw %}

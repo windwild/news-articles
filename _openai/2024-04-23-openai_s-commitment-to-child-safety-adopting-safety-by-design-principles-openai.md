@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 23, 2024
 
@@ -68,4 +68,4 @@ SafetyDec 14, 2023](https://openai.com/index/weak-to-strong-generalization/)
 PublicationDec 14, 2023](https://openai.com/index/practices-for-governing-agentic-ai-systems/)
 
 OpenAI’s commitment to child safety: adopting safety by design principles \| OpenAI
-{% endraw %}
+&#123;% endraw %}

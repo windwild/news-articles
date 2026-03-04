@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Work & Co partners with Vercel for BNP Paribas Open's digital transformation resulting in better performance and velocity. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 22, 2024
 
@@ -232,4 +232,4 @@ Our experts will analyze your specific use case and ensure that Vercel keeps you
 \\  
 Contact Us](https://vercel.com/contact/sales)  
 [联系我们](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

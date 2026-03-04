@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Transforming team dynamics by shifting focus from infrastructure management to innovation and delivering value."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 27, 2024
 
@@ -174,4 +174,4 @@ Let's Talk](https://vercel.com/contact/sales)
 释放顶尖云原生工具的强大能力\\  
 \\  
 立即沟通](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

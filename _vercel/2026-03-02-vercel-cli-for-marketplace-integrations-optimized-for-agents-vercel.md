@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI agents can now discover, evaluate, and install Vercel Marketplace integrations autonomously through the CLI with non-interactive commands and JSON output."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 2, 2026
 
@@ -83,4 +83,4 @@ pnpm i -g vercel@latest
 Update to the latest version of the Vercel CLI to try it out, or read the [documentation](https://vercel.com/docs/cli/integration).
 
 请升级至最新版本的 Vercel CLI 以体验该功能，或查阅[文档](https://vercel.com/docs/cli/integration)。
-{% endraw %}
+&#123;% endraw %}

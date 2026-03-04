@@ -9,7 +9,7 @@ translated: true
 description: "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 5, 2026
 
@@ -343,4 +343,4 @@ With GPT‑5.3‑Codex, Codex is moving beyond writing code to using it as a too
 - [2026](https://openai.com/news/?tags=2026)  
 - [Codex](https://openai.com/news/?tags=codex)  
 - [Codex](https://openai.com/news/?tags=codex)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We're excited to share Rich Harris, the creator of Svelte, has joined Vercel to make the Web. Faster."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 11, 2021
 
@@ -41,4 +41,4 @@ Vercel 是一个开放平台，致力于开发与支持那些令人愉悦、易�
 We're excited about the future of Svelte and creating templates for other frameworks in the open ecosystem to follow. See why developers love Svelte and try [Svelte on Vercel](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fsveltekit&template=sveltekit&id=67753070&b=main&from=templates) today. We look forward to building the future of Svelte with you.
 
 我们对 Svelte 的未来充满期待，并将持续为开放生态中的其他框架创建可复用的模板，供业界参考与借鉴。立即了解开发者为何钟爱 Svelte，并马上试用 [Svelte on Vercel](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fsveltekit&template=sveltekit&id=67753070&b=main&from=templates)。我们期待与您携手，共同塑造 Svelte 的未来。
-{% endraw %}
+&#123;% endraw %}

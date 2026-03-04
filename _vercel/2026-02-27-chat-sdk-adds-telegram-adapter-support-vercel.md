@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Chat SDK now supports Telegram for webhook-based bot integrations with mentions, reactions, DMs, and interactive buttons."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 27, 2026
 
@@ -51,4 +51,4 @@ bot.onNewMention(async (thread, message) => {
 Telegram 不向机器人开放完整的历史消息 API，因此消息历史依赖于适配器层面的缓存。此外，回调数据（callback data）限制为 64 字节，且该平台目前不支持模态框（modals）或临时消息（ephemeral messages）。
 
 请阅读 [文档](https://www.chat-sdk.dev/docs/adapters/telegram) 开始使用。
-{% endraw %}
+&#123;% endraw %}

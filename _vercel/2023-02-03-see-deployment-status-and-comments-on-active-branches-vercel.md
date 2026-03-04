@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 3, 2023
 
@@ -19,4 +19,4 @@ Feb 3, 2023
 部署的“活跃分支”（Active Branches）视图已更新设计，现仅显示包含部署记录的已开启分支。此次更新使您能更便捷地访问正在进行中的工作，同时突出展示关键信息，例如部署状态及[评论](https://vercel.com/docs/concepts/deployments/comments)元数据，并提供直达[预览部署](https://vercel.com/docs/concepts/deployments/preview-deployments)的快捷链接。
 
 请查阅[相关文档](https://vercel.com/docs/concepts/projects/project-dashboard#active-branches)以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

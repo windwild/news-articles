@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 8, 2024
 
@@ -29,4 +29,4 @@ This record type is designed for the HTTP protocol to improve client performance
 Since the `HTTPS` record type is still a new standard, not all HTTP clients can support it. Learn more in [our documentation](https://vercel.com/docs/projects/domains/working-with-dns#dns-records).
 
 由于 `HTTPS` 记录类型仍是一项新兴标准，并非所有 HTTP 客户端均支持该功能。更多详情请参阅[我们的文档](https://vercel.com/docs/projects/domains/working-with-dns#dns-records)。
-{% endraw %}
+&#123;% endraw %}

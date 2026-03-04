@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel BotID is an invisible CAPTCHA that protects against sophisticated bots without showing visible challenges or requiring manual intervention. It now catches verified bots and allows users to cont..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 12, 2025
 
@@ -80,4 +80,4 @@ Example of allowing ChatGPT-Operator access
 Get started with [BotID](https://vercel.com/docs/botid) and check out the [documentation for verified bots](https://vercel.com/docs/botid/verified-bots) in BotID.
 
 请通过 [BotID](https://vercel.com/docs/botid) 快速入门，并查阅 BotID 中关于[已验证机器人（verified bots）的文档](https://vercel.com/docs/botid/verified-bots)。
-{% endraw %}
+&#123;% endraw %}

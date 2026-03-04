@@ -9,7 +9,7 @@ translated: false
 description: "Discover how SchoolAI, built on OpenAI’s GPT-4.1, image generation, and TTS, powers safe, teacher-guided AI tools for 1 million classrooms worldwide—boosting engagement, oversight, and personalize..."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 22, 2025
 
@@ -90,4 +90,4 @@ As adoption spreads from pilot campuses to full districts, school leaders are us
 ## OpenAI <3 startups. Come build with us.
 
 [Join the community](https://openai.com/leads/startup/) [Start building(opens in a new window)](https://platform.openai.com/)
-{% endraw %}
+&#123;% endraw %}

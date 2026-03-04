@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 18, 2026
 
@@ -133,4 +133,4 @@ Infrastructure expands what we can deliver. Innovation expands what intelligence
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)  
 - [API 平台](https://openai.com/news/?tags=api-platform)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

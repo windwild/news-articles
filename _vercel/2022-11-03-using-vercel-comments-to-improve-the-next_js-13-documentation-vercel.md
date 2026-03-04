@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Help us build the Next.js 13 documentation by commenting directly on the docs themselves."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 3, 2022
 
@@ -98,4 +98,4 @@ Using comments on the Next.js docs is just one example of this feature in action
 To get started use a [template](https://vercel.com/templates) or sign up for a [free Vercel account](https://vercel.com/signup).
 
 立即开始：使用一个 [模板](https://vercel.com/templates)，或注册一个 [免费的 Vercel 账户](https://vercel.com/signup)。
-{% endraw %}
+&#123;% endraw %}

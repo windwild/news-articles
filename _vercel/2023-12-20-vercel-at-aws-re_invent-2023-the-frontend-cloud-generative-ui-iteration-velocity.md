@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel at AWS re:Invent 2023: The Frontend Cloud, Generative UI, iteration velocity with Malte Ubl"
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 20, 2023
 
@@ -211,4 +211,4 @@ Sep 12, 2023
 Lindsey and Mark
 
 林赛与马克
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Decagon and OpenAI deliver high-performance, fully automated customer support at scale "
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Decagon and OpenAI deliver high-performance, fully automated customer support at scale
@@ -63,4 +63,4 @@ By continuously powering its platform with the latest OpenAI technology, Decagon
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

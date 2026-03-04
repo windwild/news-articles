@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 23, 2021
 
@@ -52,4 +52,4 @@ Dec 23, 2021
 在个人账户与团队账户之间切换时，现在会清晰显示所选账户的类型（Hobby、Pro 或 Enterprise），以及账单是否已逾期。
 
 [告诉我们](https://vercel.com/contact) 其他有助于我们提升您使用 Vercel 体验的机会。
-{% endraw %}
+&#123;% endraw %}

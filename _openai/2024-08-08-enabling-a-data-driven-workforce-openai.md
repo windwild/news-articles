@@ -9,7 +9,7 @@ translated: false
 description: "In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights."
 tags: ["Webinar"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Recorded: August 8, 2024
 
@@ -24,4 +24,4 @@ In this video, we share practical examples of how employees can use ChatGPT Ente
 00:0041:56
 
 Enabling a Data-Driven Workforce \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Harvey partners with OpenAI to build a custom-trained model for legal professionals."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Harvey
@@ -99,4 +99,4 @@ APIApr 1, 2024](https://openai.com/index/oscar/)
 APIMar 28, 2024](https://openai.com/index/zelma/)
 
 Customizing models for legal professionals \| OpenAI
-{% endraw %}
+&#123;% endraw %}

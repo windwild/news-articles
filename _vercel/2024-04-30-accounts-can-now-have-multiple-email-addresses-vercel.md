@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 30, 2024
 
@@ -27,4 +27,4 @@ For example, both your personal email and work email can be attached to the same
 Learn more in our [documentation](https://vercel.com/docs/accounts/manage-emails).
 
 更多详情，请参阅我们的[文档](https://vercel.com/docs/accounts/manage-emails)。
-{% endraw %}
+&#123;% endraw %}

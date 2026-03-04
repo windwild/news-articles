@@ -9,7 +9,7 @@ translated: false
 description: "We’ve trained a system that solves grade school math problems with nearly twice the accuracy of a fine-tuned GPT-3 model. It solves about 90% as many problems as real kids: a small sample of 9-12 y..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 29, 2021
 
@@ -591,4 +591,4 @@ Producing correct arguments and recognizing incorrect ones are key challenges in
 - [Transformers](https://openai.com/research/index/?tags=transformers)
 - [Language](https://openai.com/research/index/?tags=language)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
-{% endraw %}
+&#123;% endraw %}

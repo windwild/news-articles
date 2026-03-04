@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress."
 ---
-{% raw %}
+&#123;% raw %}
 
 October 28, 2025
 
@@ -44,4 +44,4 @@ What has evolved:
 As we step into this next chapter of our partnership, both companies are better positioned than ever to continue building great products that meet real-world needs, and create new opportunity for everyone and every business.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

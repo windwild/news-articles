@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Today, we're excited to launch LangChain Hub–a home for uploading, browsing, pulling, and managing your prompts. (Soon, we'll be adding other artifacts like chains and agents).
 
@@ -352,4 +352,4 @@ So share your prompts, ❤️ your favorites, and tag us when you post your prom
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

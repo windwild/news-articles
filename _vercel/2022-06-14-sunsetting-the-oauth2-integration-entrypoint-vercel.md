@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 14, 2022
 
@@ -19,4 +19,4 @@ Jun 14, 2022
 随着 [API 权限范围（API Scopes）](https://vercel.com/changelog/enhanced-security-with-new-api-scopes-for-integrations) 的推出，OAuth2 入口（OAuth2 entrypoint）将逐步停用。使用 OAuth2 入口的集成必须在 **2022 年 12 月 31 日前** 迁移至 [外部模式（External mode）](https://vercel.com/docs/integrations/install-integration#external) 安装流程，以避免服务中断。
 
 请查阅 [文档](https://vercel.com/docs/integrations/reference#upgrading-your-integration/use-external-flow)，获取详细迁移指南。
-{% endraw %}
+&#123;% endraw %}

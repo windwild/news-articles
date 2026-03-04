@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Let's make the Web. Accessible."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 30, 2022
 
@@ -691,4 +691,4 @@ Dynamic without limits. [#nextjsconf](https://x.com/hashtag/nextjsconf) [nextjs.
 [Read 2 replies](https://x.com/rauchg/status/1566083702836170754)
 
 阅读 2 条回复
-{% endraw %}
+&#123;% endraw %}

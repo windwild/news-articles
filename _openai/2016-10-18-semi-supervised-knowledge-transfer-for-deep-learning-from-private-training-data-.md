@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 18, 2016
 
@@ -30,4 +30,4 @@ To address this problem, we demonstrate a generally applicable approach to provi
 Compared with previous work, the approach imposes only weak assumptions on how teachers are trained: it applies to any model, including non-convex models like DNNs. We achieve state-of-the-art privacy/utility trade-offs on MNIST and SVHN thanks to an improved privacy analysis and semi-supervised learning.
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
-{% endraw %}
+&#123;% endraw %}

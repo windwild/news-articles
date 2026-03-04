@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Bun v1.1.39 introduces text lockfile support, and Vercel now supports bun.lock with zero configuration. You can use the text lockfile today with bun install --save-text-lockfile."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 16, 2025
 
@@ -25,4 +25,4 @@ While Vercel [already supports Bun's binary `bun.lockb` lockfile](https://vercel
 Learn more about [package managers supported by Vercel](https://vercel.com/docs/deployments/builds/package-managers#package-managers).
 
 了解更多关于 [Vercel 支持的包管理器](https://vercel.com/docs/deployments/builds/package-managers#package-managers) 的信息。
-{% endraw %}
+&#123;% endraw %}

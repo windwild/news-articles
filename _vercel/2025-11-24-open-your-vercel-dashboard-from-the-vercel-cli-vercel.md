@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Quickly access your Vercel project dashboard with the new vercel open CLI command. Open your project in the browser with a single command from your terminal."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 24, 2025
 
@@ -29,4 +29,4 @@ Update `vercel` to `48.10.0` or newer with `npm i -g vercel` to give it a try.
 See [docs](https://vercel.com/docs/cli/open) for more.
 
 详见 [文档](https://vercel.com/docs/cli/open)。
-{% endraw %}
+&#123;% endraw %}

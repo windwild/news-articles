@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Runtime Logs exports now stream directly to your browser, export actual requests instead of raw rows, and match exactly what's on your screen or search."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 17, 2026
 
@@ -25,4 +25,4 @@ Feb 17, 2026
 导出的日志数据现按请求（request）进行索引，以确保与 [运行时日志](https://vercel.com/docs/observability/runtime-logs) 控制台界面保持一致。导出限制也已按请求粒度实施，从而确保导出的数据严格匹配控制台中所筛选显示的请求。
 
 [了解更多关于运行时日志的信息](https://vercel.com/docs/logs/runtime)
-{% endraw %}
+&#123;% endraw %}

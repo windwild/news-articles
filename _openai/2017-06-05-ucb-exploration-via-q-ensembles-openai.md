@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 5, 2017
 
@@ -27,4 +27,4 @@ We show how an ensemble of Q\*-functions can be leveraged for more effective ex
 
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
-{% endraw %}
+&#123;% endraw %}

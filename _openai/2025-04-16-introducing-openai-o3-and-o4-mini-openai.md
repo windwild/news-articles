@@ -9,7 +9,7 @@ translated: false
 description: "Our smartest and most capable models to date with full tool access"
 tags: ["Release"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 16, 2025
 
@@ -211,7 +211,7 @@ The coefficient of xxx is x=(−1)n−12n=−19,x = (-1)^{\\frac{n-1}{2}}\\,n = 
 Writing it out gives
 
 p(x)=D19 ⁣(x,1)=x19−19x17+152x15−665x13+1729x11−2717x9+2508x7−1254x5+285x3−19x.
-\\boxed{%
+\\boxed&#123;%
 p(x) = D\_{19}\\!\\left(x,1\\right)
 = x^{19} - 19x^{17} + 152x^{15} - 665x^{13}
 \+ 1729x^{11} - 2717x^{9} + 2508x^{7}
@@ -257,7 +257,7 @@ p(19)=D19 ⁣(19,1)=1876572071974094803391179.p(19) \\;=\\; D\_{19}\\!\\left(1
 
 Thus the polynomial above fulfils every condition, and
 
-p(19)=1,876,572,071,974,094,803,391,179.\\boxed{%
+p(19)=1,876,572,071,974,094,803,391,179.\\boxed&#123;%
 p(19) \\;=\\; 1{,}876{,}572{,}071{,}974{,}094{,}803{,}391{,}179
 }.p(19)=1,876,572,071,974,094,803,391,179​.
 
@@ -465,4 +465,4 @@ Play video
 - [GPT](https://openai.com/research/index/?tags=gpt)
 - [Framework](https://openai.com/research/index/?tags=framework)
 - [2025](https://openai.com/research/index/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

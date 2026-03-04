@@ -9,7 +9,7 @@ translated: false
 description: "ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework."
 tags: ["Publication"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 17, 2025
 
@@ -33,4 +33,4 @@ We have decided to treat this launch as High capability in the Biological and Ch
 
 - [2025](https://openai.com/research/index/?tags=2025)
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access MiniMax M2 with Vercel's AI Gateway for free with no other provider accounts required."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 28, 2025
 
@@ -59,4 +59,4 @@ View the leaderboard](https://vercel.com/ai-gateway/leaderboards)
 AI Gateway 模型排行榜根据通过网关的所有流量所产生的总 Token 量，对不同时期使用最频繁的模型进行排名。榜单定期更新。  
 \\  
 查看排行榜](https://vercel.com/ai-gateway/leaderboards)
-{% endraw %}
+&#123;% endraw %}

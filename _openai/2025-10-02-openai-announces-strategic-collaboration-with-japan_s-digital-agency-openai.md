@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 2, 2025
 
@@ -36,4 +36,4 @@ Looking ahead, OpenAI will continue to prioritize safety, transparency, and inte
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

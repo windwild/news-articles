@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 2, 2023
 
@@ -31,4 +31,4 @@ Based on your feedback, we've updated the design to better highlight the [branch
 Check out the [documentation](https://vercel.com/docs/concepts/deployments/git) to learn more about Git integrations.
 
 请查阅 [文档](https://vercel.com/docs/concepts/deployments/git)，深入了解 Git 集成的相关信息。
-{% endraw %}
+&#123;% endraw %}

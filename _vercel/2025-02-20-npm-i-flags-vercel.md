@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Flags SDK package has been renamed from @vercel/flags to flags, signaling our commitment to open source and great developer experiences."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 20, 2025
 
@@ -76,4 +76,4 @@ If you are using `@vercel/flags`, make sure you are updating to version 3.1.1 an
 Learn more in our redesigned [documentation and examples](https://flags-sdk.dev/).
 
 欢迎访问我们全新设计的[文档与示例](https://flags-sdk.dev/)，了解更多信息。
-{% endraw %}
+&#123;% endraw %}

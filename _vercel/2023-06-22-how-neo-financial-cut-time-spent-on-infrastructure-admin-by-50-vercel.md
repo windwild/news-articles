@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Neo Financial leverages Vercel's frontend cloud to enhance their web development process, boost performance, and meet industry security standards—all while saving on resources. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 22, 2023
 
@@ -169,4 +169,4 @@ Vercel.com 官网落地页
 
 Download the whitepaper  
 下载白皮书
-{% endraw %}
+&#123;% endraw %}

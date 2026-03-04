@@ -9,7 +9,7 @@ translated: false
 description: "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Sca..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 25, 2021
 
@@ -197,4 +197,4 @@ We’ve found Kubernetes to be an exceptionally flexible platform for our resear
 - [DALL·E](https://openai.com/research/index/?tags=dall-e)
 - [Compute Scaling](https://openai.com/research/index/?tags=compute-scaling)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
-{% endraw %}
+&#123;% endraw %}

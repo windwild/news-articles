@@ -9,7 +9,7 @@ translated: false
 description: "JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 25, 2025
 
@@ -97,4 +97,4 @@ Kris Kang, Kris Kang, Head of Product, JetBrains
 More than 1 million businesses around the world are achieving meaningful results with OpenAI.
 
 [Contact our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

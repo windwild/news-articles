@@ -9,7 +9,7 @@ translated: true
 description: "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into re..."
 tags: ["Publication"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 11, 2025
 
@@ -163,4 +163,4 @@ Viewed as a case study, this result illustrates an emerging mode of research pra
 
 - [2025](https://openai.com/research/index/?tags=2025)  
 - [2025](https://openai.com/research/index/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

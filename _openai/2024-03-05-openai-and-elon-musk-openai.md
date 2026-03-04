@@ -9,7 +9,7 @@ translated: false
 description: "We are dedicated to the OpenAI mission and have pursued it every step of the way."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 5, 2024
 
@@ -286,4 +286,4 @@ Yup
 
 - [Community](https://openai.com/news/?tags=community)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

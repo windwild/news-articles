@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:10:01.341566510+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 ### Key Links
 
@@ -115,4 +115,4 @@ The [final generation](https://smith.langchain.com/public/b595525e-59fe-4cb6-905
 LangGraph makes it easy to engineer flows with various cycles and decision points. [Recent work](https://arxiv.org/pdf/2401.08500.pdf?ref=blog.langchain.com) has shown that this is powerful for code generation, where answers to coding questions can be constructed iteratively using using tests to check answers, [reflect](https://blog.langchain.com/reflection-agents/) on failures, and iteratively improve the answer. We show that this can be implemented in LangGraph and test it on 20 questions related to LCEL for both code imports and execution. We find that `context stuffing + LangGraph` with reflection results in `~47%` improvement in code execution relative `context stuffing`. The notebook is [here](https://github.com/langchain-ai/langgraph/blob/main/examples/code_assistant/lcel-teacher-langgraph.ipynb?ref=blog.langchain.com) and be extended to other codebases trivially.
 
 LangGraph 极大简化了具备多种循环与决策点的工作流构建。[近期研究](https://arxiv.org/pdf/2401.08500.pdf?ref=blog.langchain.com) 表明，该能力在代码生成任务中尤为强大：针对编程类问题的答案可借助测试用例验证、对失败结果进行 [反思（reflection）](https://blog.langchain.com/reflection-agents/)，并迭代优化答案。本文展示了如何在 LangGraph 中实现该范式，并在 20 个与 LCEL 相关的问题上，分别对代码导入与执行进行了实证测试。结果表明，相比纯 `context stuffing`，引入反思机制的 `context stuffing + LangGraph` 方案使代码执行准确率提升了 `~47%`。相关 Notebook 示例见 [此处](https://github.com/langchain-ai/langgraph/blob/main/examples/code_assistant/lcel-teacher-langgraph.ipynb?ref=blog.langchain.com)，且可轻松迁移适配至其他代码库。
-{% endraw %}
+&#123;% endraw %}

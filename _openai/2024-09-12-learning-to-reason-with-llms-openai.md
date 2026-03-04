@@ -9,7 +9,7 @@ translated: false
 description: "We are introducing OpenAI o1, a new large language model trained with reinforcement learning to perform complex reasoning. o1 thinks before it answers—it can produce a long internal chain of thought..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 12, 2024
 
@@ -1556,4 +1556,4 @@ o1 significantly advances the state-of-the-art in AI reasoning. We plan to relea
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Language](https://openai.com/research/index/?tags=language)
-{% endraw %}
+&#123;% endraw %}

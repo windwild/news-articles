@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 We think the [LangChain Expression Language](https://blog.langchain.com/langchain-expression-language/) (LCEL) is the quickest way to prototype the brains of your LLM application. The next exciting step is to ship it to your users and get some feedback! Today we're making that a lot easier, launching [LangServe](https://github.com/langchain-ai/langserve?ref=blog.langchain.com). LangServe is the easiest and best way to deploy any LangChain chain/agent/runnable.
 
@@ -295,4 +295,4 @@ Let us know what you'd like to see next!
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长 4 分钟
-{% endraw %}
+&#123;% endraw %}

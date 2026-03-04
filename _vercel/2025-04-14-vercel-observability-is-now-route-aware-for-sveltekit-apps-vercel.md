@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Improved route-level visibility to Vercel Observability for SvelteKit projects using @sveltejs/adapter-vercel v5.7.0. Dynamic segments like /blog/[slug] now appear as individual routes."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 14, 2025
 
@@ -31,4 +31,4 @@ If you're using the Vercel adapter via `@sveltejs/adapter-auto`, we recommend sw
 Learn more about [Vercel Observability](https://vercel.com/docs/observability).
 
 了解更多关于 [Vercel Observability](https://vercel.com/docs/observability) 的信息。
-{% endraw %}
+&#123;% endraw %}

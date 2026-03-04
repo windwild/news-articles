@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We’re honored to be the only vendor recognized as a Visionary in the 2025 Gartner® Magic Quadrant™ for Cloud Native Application Platforms."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 7, 2025
 
@@ -102,4 +102,4 @@ Gartner 并不认可其研究报告中所提及的任何供应商、产品或服
 This graphic was published by Gartner, Inc. as part of a larger research document and should be evaluated in the context of the entire document. The Gartner document is available upon request from Vercel.
 
 本图由 Gartner, Inc. 作为一份更全面的研究报告的一部分发布，应结合整份报告进行评估。该 Gartner 报告可向 Vercel 提出申请获取。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Recommendations build on OpenAI’s Economic Blueprint to strengthen America’s AI leadership."
 ---
-{% raw %}
+&#123;% raw %}
 
 March 13, 2025
 
@@ -42,4 +42,4 @@ _An ambitious government adoption strategy:_ Advancing democratic AI around the 
 America always succeeds when it bets on American ingenuity. The enclosed policy proposals are either derived from, or in the case of copyright represent updates to [OpenAI’s Economic Blueprint⁠(opens in a new window)](https://cdn.openai.com/global-affairs/openai-us-economicblueprint-feb-2025-edu-update.pdf), and we look forward to discussing them with the Administration.
 
 OpenAI’s OSTP submission is available [here⁠(opens in a new window)](https://cdn.openai.com/global-affairs/ostp-rfi/ec680b75-d539-4653-b297-8bcf6e5f7686/openai-response-ostp-nsf-rfi-notice-request-for-information-on-the-development-of-an-artificial-intelligence-ai-action-plan.pdf).
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A new standalone package that brings Streamdown's intelligent incomplete Markdown handling to any application. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 3, 2025
 
@@ -146,4 +146,4 @@ To get started, either use it through [Streamdown](https://www.npmjs.com/package
 ```bash
 npm i remend
 ```
-{% endraw %}
+&#123;% endraw %}

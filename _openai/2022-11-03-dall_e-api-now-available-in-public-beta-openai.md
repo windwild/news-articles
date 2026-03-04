@@ -9,7 +9,7 @@ translated: false
 description: "Starting today, developers can begin building apps with the DALL·E API."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 3, 2022
 
@@ -126,4 +126,4 @@ CompanyMar 8, 2024](https://openai.com/index/review-completed-altman-brockman-to
 CompanyMar 8, 2024](https://openai.com/index/openai-announces-new-members-to-board-of-directors/)
 
 DALL·E API now available in public beta \| OpenAI
-{% endraw %}
+&#123;% endraw %}

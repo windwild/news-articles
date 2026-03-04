@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:18:18.146643874+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editors Note: This post was written by the [NeumAI](https://www.neum.ai/?ref=blog.langchain.com) team and cross-posted from their blog. Keeping source data relevant and up-to-date efficiently is a challenge many builders are facing. It's especially painful for teams that are building on top of datasources constantly changing like team documentation (a use-case we see a lot of). Following up on our blog yesterday about making ingestion pipelines more production ready, we're really excited to highlight this because it continues in that vein. It adds scheduling and orchestration onto the ingestion pipeline, part of which is powered by LangChain text splitters._
 
@@ -198,4 +198,4 @@ You can reach out to [founders@tryneum.com](mailto:founders@tryneum.com) if inte
 [**LangChain Expression Language**](https://blog.langchain.com/langchain-expression-language/)
 
 [**LangChain 表达式语言（LCEL）**](https://blog.langchain.com/langchain-expression-language/)
-{% endraw %}
+&#123;% endraw %}

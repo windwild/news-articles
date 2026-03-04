@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Projects that require migrations should aim for incremental migrations"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 30, 2023
 
@@ -301,4 +301,4 @@ Contact Us](https://vercel.com/contact/sales)
 我们的专家可协助您根据团队的独特需求，高效使用 Vercel。\\
 \\
 联系我们](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

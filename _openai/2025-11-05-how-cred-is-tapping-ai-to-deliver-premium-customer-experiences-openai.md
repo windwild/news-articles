@@ -9,7 +9,7 @@ translated: false
 description: "CRED is transforming premium customer experiences in India with OpenAI. Using GPT-powered tools, the company is improving support accuracy, reducing response times, and boosting customer satisfaction...."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 5, 2025
 
@@ -89,4 +89,4 @@ For us, incorporating OpenAI’s technology has been a true unlock across two of
 More than 1 million businesses around the world are achieving meaningful results with OpenAI.
 
 [Contact our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

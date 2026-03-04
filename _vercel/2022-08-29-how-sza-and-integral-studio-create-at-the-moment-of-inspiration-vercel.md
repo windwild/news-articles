@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "In 2017, Integral Studio chose Vercel & Next.js to create a site that would mirror the creativity of then-up-and-coming artist, SZA. To celebrate the 5-year anniversary and re-release of her Grammy-wi..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 29, 2022
 
@@ -125,4 +125,4 @@ By partnering with Vercel, Integral can scale and build tools for the next gener
 Want to ensure a great user experience for your next launch? [Get in touch with our team.](https://vercel.com/contact/sales)
 
 希望为你的下一次重磅发布确保卓越的用户体验？[立即联系我们的团队。](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

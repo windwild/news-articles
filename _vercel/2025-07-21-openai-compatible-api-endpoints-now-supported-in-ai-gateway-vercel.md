@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "OpenAI-compatible API endpoints now supported in AI Gateway giving you access to 100s of models with no code rewrites required"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 21, 2025
 
@@ -88,4 +88,4 @@ This makes it easy to keep your current tools and workflows while improving upti
 Learn more in the [AI Gateway docs](https://vercel.com/docs/ai-gateway/openai-compat) and see [more examples here](https://vercel.com/docs/ai-gateway/openai-compat#openai-client-libraries).  
 
 更多详情，请参阅 [AI 网关文档](https://vercel.com/docs/ai-gateway/openai-compat)，并在此处查看 [更多示例](https://vercel.com/docs/ai-gateway/openai-compat#openai-client-libraries)。
-{% endraw %}
+&#123;% endraw %}

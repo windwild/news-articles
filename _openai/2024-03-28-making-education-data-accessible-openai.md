@@ -9,7 +9,7 @@ translated: false
 description: "Zelma uses GPT-4 to make education data accessible."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Zelma
@@ -82,4 +82,4 @@ APIApr 2, 2024](https://openai.com/index/harvey/)
 APIApr 1, 2024](https://openai.com/index/oscar/)
 
 Making education data accessible \| OpenAI
-{% endraw %}
+&#123;% endraw %}

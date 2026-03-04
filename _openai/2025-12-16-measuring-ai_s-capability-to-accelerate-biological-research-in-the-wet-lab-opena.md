@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both th..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 16, 2025
 
@@ -354,4 +354,4 @@ As we work to accelerate scientific progress safely and responsibly, we also see
 
 - [2025](https://openai.com/news/?tags=2025)  
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

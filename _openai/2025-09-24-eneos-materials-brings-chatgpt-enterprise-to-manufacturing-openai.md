@@ -9,7 +9,7 @@ translated: true
 description: "By deploying ChatGPT Enterprise, ENEOS Materials transformed operations with faster research, safer plant design, and streamlined HR processes. Over 80% of employees report major workflow improvements..."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 2025年9月24日
 
@@ -173,4 +173,4 @@ Looking ahead, ENEOS Materials plans to extend AI beyond ChatGPT, weaving it acr
 [Talk with our team](https://openai.com/contact-sales/)
 
 [与我们的团队交流](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

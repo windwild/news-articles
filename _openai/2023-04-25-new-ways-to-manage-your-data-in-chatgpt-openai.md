@@ -9,7 +9,7 @@ translated: false
 description: "ChatGPT users can now turn off chat history, allowing you to choose which conversations can be used to train our models."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 25, 2023
 
@@ -131,4 +131,4 @@ Finally, a new Export option in settings makes it much easier to export your Cha
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

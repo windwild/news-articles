@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 20, 2026
 
@@ -74,4 +74,4 @@ We look forward to learning openly along the way and measuring success by what m
 我们期待在前行过程中保持开放学习的态度，并以能否切实改善患者照护质量、以及提升服务患者的卫生工作者工作体验，作为衡量成功的根本标准。
 
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

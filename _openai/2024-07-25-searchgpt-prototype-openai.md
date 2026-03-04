@@ -9,7 +9,7 @@ translated: false
 description: "We’re testing SearchGPT, a temporary prototype of new search features that give you fast and timely answers with clear and relevant sources."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 25, 2024
 
@@ -66,4 +66,4 @@ We’ll keep improving the experience in areas like local information and commer
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

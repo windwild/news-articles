@@ -9,7 +9,7 @@ translated: false
 description: "Ensuring AI benefits humanity by advancing democratic AI, preventing misuse, and protecting against authoritarian threats."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 21, 2025
 
@@ -33,4 +33,4 @@ It has now been a year since OpenAI became the first AI research lab to publish 
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

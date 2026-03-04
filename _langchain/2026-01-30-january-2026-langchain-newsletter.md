@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Read about the latest product updates, events, and content from the LangChain team"
 ---
-{% raw %}
+&#123;% raw %}
 
 We’re kicking off 2026 with a fresh set of agent-building updates, improved experiment comparison, and new reads on observability and evaluation. Read on to see everything we’ve shipped this January.
 
@@ -245,4 +245,4 @@ Get practical POVs on architectures, runtime, and the evolving role of platforms
 **How can you follow along with the Lang Latest? Check out the** [**LangChain blog**](https://blog.langchain.dev/?ref=blog.langchain.com) **,** [**Changelog**](https://changelog.langchain.com/?ref=blog.langchain.com) **, and** [**YouTube channel**](https://www.youtube.com/@LangChain?ref=blog.langchain.com) **for more product and content updates.**
 
 **如何持续关注 LangChain 最新动态？欢迎访问** [**LangChain 博客**](https://blog.langchain.dev/?ref=blog.langchain.com) **、** [**更新日志（Changelog）**](https://changelog.langchain.com/?ref=blog.langchain.com) **以及** [**YouTube 频道**](https://www.youtube.com/@LangChain?ref=blog.langchain.com) **，获取更多产品与内容更新。**
-{% endraw %}
+&#123;% endraw %}

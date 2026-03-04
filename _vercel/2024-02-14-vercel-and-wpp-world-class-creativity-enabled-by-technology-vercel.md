@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel and WPP: World-class creativity enabled by technology, with six trends driving the future of the web."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 14, 2024
 
@@ -242,4 +242,4 @@ Vercel.com 着陆页
 ### Developer Experience Platform
 
 ### 开发者体验平台
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 17, 2023
 
@@ -39,4 +39,4 @@ OpenAI was founded as a non-profit in 2015 with the core mission of ensuring tha
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Build background jobs and AI workflows with Inngest, now on the Vercel Marketplace. Native support for Next.js, preview environments, and branching."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 9, 2025
 
@@ -36,4 +36,4 @@ Inngest 非常适合为您的 Vercel 项目添加 AI 功能或新兴的智能体
 Start building workflows with [Inngest](https://vercel.com/new/clone?demo-description=Develop%20AI%20products%20at%20the%20speed%20of%20thought%20with%20Inngest%20and%20Next.js.%20Demo%20features%20like%20background%20jobs%2C%20real-time%20updates%2C%20and%20throttling.&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F7gjXqVzphYzQuTsU2GqS0W%2F5aced5f656ca71e21421e14d1d6e27ca%2Fvercel-template-thumbnail.png&demo-title=Inngest%20on%20Next.js%20Starter&demo-url=https%3A%2F%2Finngest-nextjs-starter.vercel.app&from=templates&products=%255B%257B%2522type%2522%253A%2522integration%2522%252C%2522protocol%2522%253A%2522workflow%2522%252C%2522productSlug%2522%253A%2522account%2522%252C%2522integrationSlug%2522%253A%2522inngest%2522%257D%255D&project-name=Inngest%20on%20Next.js%20Starter&repository-name=inngest-starter&repository-url=https%3A%2F%2Fgithub.com%2Finngest%2Finngest-js%2Ftree%2Fmain%2Fexamples%2Fframework-nextjs-starter&skippable-integrations=1) on the Vercel Marketplace [today](https://www.inngest.com/blog/vercel-partner-marketplace).
 
 立即在 Vercel Marketplace 上开始使用 [Inngest](https://vercel.com/new/clone?demo-description=Develop%20AI%20products%20at%20the%20speed%20of%20thought%20with%20Inngest%20and%20Next.js.%20Demo%20features%20like%20background%20jobs%2C%20real-time%20updates%2C%20and%20throttling.&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F7gjXqVzphYzQuTsU2GqS0W%2F5aced5f656ca71e21421e14d1d6e27ca%2Fvercel-template-thumbnail.png&demo-title=Inngest%20on%20Next.js%20Starter&demo-url=https%3A%2F%2Finngest-nextjs-starter.vercel.app&from=templates&products=%255B%257B%2522type%2522%253A%2522integration%2522%252C%2522protocol%2522%253A%2522workflow%2522%252C%2522productSlug%2522%253A%2522account%2522%252C%2522integrationSlug%2522%253A%2522inngest%2522%257D%255D&project-name=Inngest%20on%20Next.js%20Starter&repository-name=inngest-starter&repository-url=https%3A%2F%2Fgithub.com%2Finngest%2Finngest-js%2Ftree%2Fmain%2Fexamples%2Fframework-nextjs-starter&skippable-integrations=1) 构建工作流：[今天就出发](https://www.inngest.com/blog/vercel-partner-marketplace)。
-{% endraw %}
+&#123;% endraw %}

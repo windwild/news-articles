@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and Target are partnering to bring a new Target app to ChatGPT, offering personalized shopping and faster checkout. Target will also expand its use of ChatGPT Enterprise to boost productivity a..."
 ---
-{% raw %}
+&#123;% raw %}
 
 November 19, 2025
 
@@ -57,4 +57,4 @@ As AI becomes foundational across more enterprises, partnerships like this show 
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

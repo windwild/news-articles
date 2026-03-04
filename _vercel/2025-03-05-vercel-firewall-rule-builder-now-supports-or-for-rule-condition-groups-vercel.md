@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Vercel Firewall now supports the OR operator to join logical condition groups to create more customized WAF rules"
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 5, 2025
 
@@ -27,4 +27,4 @@ Previously, customers could only use an `AND` operator to join condition groups.
 Learn more about the [Vercel Firewall](https://vercel.com/docs/security/vercel-firewall) or navigate to your [Firewall tab](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Ffirewall&title=Firewall+tab) to customize rules.
 
 了解更多关于 [Vercel 防火墙](https://vercel.com/docs/security/vercel-firewall) 的信息，或前往您的 [防火墙标签页](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Ffirewall&title=Firewall+tab) 自定义规则。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now share any Vercel Preview Deployment, including those for specific commits, with external collaborators. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 14, 2025
 
@@ -27,4 +27,4 @@ The share modal—accessible by selecting **Share** on a deployment page or from
 Read more about [sharing deployments](https://vercel.com/docs/deployments/sharing-deployments).
 
 了解更多关于[共享部署](https://vercel.com/docs/deployments/sharing-deployments) 的信息。
-{% endraw %}
+&#123;% endraw %}

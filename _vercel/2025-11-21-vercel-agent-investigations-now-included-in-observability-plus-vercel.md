@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Observability Plus subscribers now get ten Vercel Agent investigations included in their monthly subscription at no additional cost."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 21, 2025
 
@@ -29,4 +29,4 @@ Teams can purchase Vercel Agent [credits](https://vercel.com/docs/agent/pricing)
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fvercel-agent) or learn more about [Vercel Agent investigations](https://vercel.com/docs/agent/investigation).
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fvercel-agent)，或深入了解 [Vercel Agent 调查功能](https://vercel.com/docs/agent/investigation)。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: true
 description: "Learn how WordSmith, an AI assistant for legal teams, uses LangSmith across its entire product lifecycle — from prototyping, to evaluation, to debugging, to experimentation."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [Wordsmith](https://link.wordsmith.ai/Rp33gza?ref=blog.langchain.com) is an AI assistant for in-house legal teams, reviewing legal docs, drafting emails, and generating contracts using LLMs powered by the customer’s knowledge base. Unlike other legal AI tools, Wordsmith has deep domain knowledge from leading law firms and is easy to install and use. It integrates seamlessly into email and messaging systems to automatically draft responses for the legal team, mimicking what it’s like to work with another person on the team.
 
@@ -192,4 +192,4 @@ Wordsmith 的 RAG 流水线包含大量且持续增长的参数，用以调控�
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "We’re announcing GPT-4 Omni, our new flagship model which can reason across audio, vision, and text in real time."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 13, 2024
 
@@ -279,4 +279,4 @@ Developers can also now access GPT‑4o in the API as a text and vision model. G
 - [Language](https://openai.com/research/index/?tags=language)
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
 - [Transformers](https://openai.com/research/index/?tags=transformers)
-{% endraw %}
+&#123;% endraw %}

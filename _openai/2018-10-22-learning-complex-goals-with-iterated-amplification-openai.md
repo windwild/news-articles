@@ -9,7 +9,7 @@ translated: false
 description: "We’re proposing an AI safety technique called iterated amplification that lets us specify complicated behaviors and goals that are beyond human scale, by demonstrating how to decompose a task into s..."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 22, 2018
 
@@ -49,4 +49,4 @@ Amplification has features in common with our previous work on [AI safety via d
 If you’re interested in helping us extend tools like iterated amplification to build safe, powerful AI, then consider [joining OpenAI⁠](https://openai.com/careers/).
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
-{% endraw %}
+&#123;% endraw %}

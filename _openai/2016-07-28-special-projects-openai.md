@@ -9,7 +9,7 @@ translated: false
 description: "Impactful scientific work requires working on the right problems—problems which are not just interesting, but whose solutions matter."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 28, 2016
 
@@ -37,4 +37,4 @@ We see these problems as having either very broad implications, or addressing im
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2016](https://openai.com/news/?tags=2016)
-{% endraw %}
+&#123;% endraw %}

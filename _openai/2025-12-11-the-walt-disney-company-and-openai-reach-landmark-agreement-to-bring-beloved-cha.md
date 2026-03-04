@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in ente..."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 11, 2025
 
@@ -98,4 +98,4 @@ As part of the agreement, OpenAI has committed to continuing its industry leader
 
 - [2025](https://openai.com/news/?tags=2025)  
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

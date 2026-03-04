@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "commerce ui"
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 14, 2023
 
@@ -73,4 +73,4 @@ All of this makes the developer experience better, which keeps the whole system 
 Want to learn more about improving your team's developer experience? [Reach out to our sales team today](https://vercel.com/contact/sales).
 
 想进一步了解如何提升您团队的开发者体验？[立即联系我们的销售团队](https://vercel.com/contact/sales)。
-{% endraw %}
+&#123;% endraw %}

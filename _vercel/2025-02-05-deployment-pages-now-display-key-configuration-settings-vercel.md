@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Project and deployment pages in the Vercel dashboard now show the deployment's Fluid Compute, Function CPU, Deployment Protection, Skew Protection, and Secure Compute settings."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 5, 2025
 
@@ -27,4 +27,4 @@ Expand to view snapshots of [Fluid Compute](https://vercel.com/docs/functions/fl
 This section is available for all new deployments moving forward. It will appear on your Project Overview page after your next production deployment.
 
 该章节将面向所有后续新建的部署启用；在您下一次生产环境部署完成后，即会显示于您的“项目概览”页面中。
-{% endraw %}
+&#123;% endraw %}

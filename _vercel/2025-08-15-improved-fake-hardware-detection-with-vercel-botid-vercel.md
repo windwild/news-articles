@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel BotID Deep Analysis now uses an updated detection model that expands fingerprinting coverage for bespoke headless browsers and simulated device hardware."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 15, 2025
 
@@ -29,4 +29,4 @@ These updates take effect immediately for BotID Deep Analysis users with no acti
 Get started with [BotID today](https://vercel.com/docs/botid).
 
 立即开始使用 [BotID](https://vercel.com/docs/botid)。
-{% endraw %}
+&#123;% endraw %}

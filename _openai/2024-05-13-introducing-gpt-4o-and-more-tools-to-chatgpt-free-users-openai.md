@@ -10,7 +10,7 @@ description: "Introducing GPT-4o and more tools to ChatGPT free users
 We are launching our newest flagship model and making more capabilities available for free in ChatGPT. "
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 13, 2024
 
@@ -76,4 +76,4 @@ Your browser does not support the video tag.
 [Try ChatGPT(opens in a new window)](https://chatgpt.com/?openaicom-did=9196caf5-85db-4016-a600-870364ae53dd&openaicom_referred=true)
 
 Introducing GPT-4o and more tools to ChatGPT free users \| OpenAI
-{% endraw %}
+&#123;% endraw %}

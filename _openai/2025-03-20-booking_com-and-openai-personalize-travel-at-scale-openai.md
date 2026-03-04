@@ -9,7 +9,7 @@ translated: false
 description: "By integrating its data systems with OpenAI’s LLMs, Booking.com delivers smarter search, faster support, and intent-driven travel experiences."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Booking.com and OpenAI personalize travel at scale
@@ -110,4 +110,4 @@ Rob Francis, SVP and CTO of Booking.com
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

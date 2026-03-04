@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 10, 2024
 
@@ -27,4 +27,4 @@ Challenges are automatically served for malicious traffic or when defined throug
 Learn more about the [Vercel Firewall](https://vercel.com/docs/security/vercel-firewall).
 
 了解更多关于 [Vercel 防火墙](https://vercel.com/docs/security/vercel-firewall) 的信息。
-{% endraw %}
+&#123;% endraw %}

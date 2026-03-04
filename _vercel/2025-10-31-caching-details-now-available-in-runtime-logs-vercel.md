@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Details on ISR cache keys, cache tags, and cache revalidation reasons are now available in Runtime Logs for all customers"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 31, 2025
 
@@ -41,4 +41,4 @@ In the right-hand panel of the Runtime Logs page, we now list:
 This is available to all Vercel users at no additional cost. [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Flogs) or learn more about [Runtime Logs](https://vercel.com/docs/logs/runtime).
 
 此功能面向所有 Vercel 用户免费开放。[立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Flogs)，或进一步了解 [Runtime Logs（运行时日志）](https://vercel.com/docs/logs/runtime)。
-{% endraw %}
+&#123;% endraw %}

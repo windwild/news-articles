@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy ."
 ---
-{% raw %}
+&#123;% raw %}
 
 September 9, 2025
 
@@ -82,4 +82,4 @@ In that same time, SafetyKit has expanded to payments risk, fraud, anti-child ex
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

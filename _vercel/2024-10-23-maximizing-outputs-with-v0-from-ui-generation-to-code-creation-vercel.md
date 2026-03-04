@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn prompt engineering best practices for working with v0's core functionality to get the best results."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 23, 2024
 
@@ -230,4 +230,4 @@ Whether you're coding, designing, or strategizing, v0 is your 24/7 companion, tr
 \\  
 Start building](https://v0.dev/)  
 开始构建](https://v0.dev/)
-{% endraw %}
+&#123;% endraw %}

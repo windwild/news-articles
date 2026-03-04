@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:32:27.915212422+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Naive RAG typically splits documents into chunks, embeds them, and retrieves chunks with high semantic similarity to a user question. But, this present a few problems: (1) document chunks may contain irrelevant content that degrades retrieval, (2) user questions may be poorly worded for retrieval, and (3) structured queries may need to be generated from the user question (e.g., for querying a vectorstore with metadata filtering or a SQL db).
 
@@ -165,4 +165,4 @@ Links:
 As you can see, there are many different ways to do query transformation. Again, this is not a new topic - but what is new is using LLMs to do this. The differences in the methods comes down to the prompts used. It's very easy to write prompts - almost as easy as it to think of them. Which begs the question - what query transformations are YOU going to come up with? Let us know!
 
 如您所见，查询变换（query transformation）有多种不同的实现方式。这本身并非一个新话题——真正的新颖之处在于利用大语言模型（LLM）来完成这一任务。不同方法之间的差异，归根结底在于所使用的提示词（prompts）。编写提示词非常简单——几乎与构思它们一样轻松。这也引出了一个问题：**您将设计出哪些查询变换方案？** 欢迎告诉我们！
-{% endraw %}
+&#123;% endraw %}

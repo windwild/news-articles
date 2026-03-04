@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel achieves the ISO 27001 certification"
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 12, 2023
 
@@ -85,4 +85,4 @@ As we envision the future of the Frontend Cloud, security remains at the forefro
 Let’s build a better web. Securely.
 
 让我们携手共建更美好的 Web——以安全为基石。
-{% endraw %}
+&#123;% endraw %}

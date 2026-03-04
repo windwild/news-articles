@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations."
 tags: ["Publication"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 25, 2025
 
@@ -469,4 +469,4 @@ Community participation is essential—we’re excited to build GDPval together 
 
 - [2025](https://openai.com/research/index/?tags=2025)  
 - [2025](https://openai.com/research/index/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

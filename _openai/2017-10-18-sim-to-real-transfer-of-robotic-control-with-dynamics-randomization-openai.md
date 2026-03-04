@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 18, 2017
 
@@ -27,4 +27,4 @@ Simulations are attractive environments for training agents as they provide an a
 
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
-{% endraw %}
+&#123;% endraw %}

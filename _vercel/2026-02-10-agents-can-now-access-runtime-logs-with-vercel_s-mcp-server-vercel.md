@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Runtime logs are now available via Vercel's MCP server, enabling AI agents to analyze performance, fix errors, and more."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 10, 2026
 
@@ -41,4 +41,4 @@ This enables agents to:
 Get started with the [Vercel MCP server](https://vercel.com/docs/mcp/vercel-mcp).
 
 请通过 [Vercel MCP 服务器文档](https://vercel.com/docs/mcp/vercel-mcp) 开始使用。
-{% endraw %}
+&#123;% endraw %}

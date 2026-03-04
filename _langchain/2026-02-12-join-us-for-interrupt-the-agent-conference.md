@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Interrupt - The Agent Conference by LangChain - is where builders come to learn what&apos;s actually working in production. This year, we&apos;re bringing together more than 1,000 developers, product ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Interrupt - The Agent Conference by LangChain - is where builders come to learn what's actually working in production. This year, we're bringing together more than 1,000 developers, product leaders, researchers, and founders to share what's coming next for agents—and how to build it.
 
@@ -61,4 +61,4 @@ We built this year's agenda from everything we've learned working with customers
 Interrupt tickets are on sale now. Seating is limited and early registration is recommended. [Get tickets](https://interrupt.langchain.com/?ref=blog.langchain.com).
 
 Interrupt 门票现已开售。席位有限，建议尽早注册。[立即购票](https://interrupt.langchain.com/?ref=blog.langchain.com)
-{% endraw %}
+&#123;% endraw %}

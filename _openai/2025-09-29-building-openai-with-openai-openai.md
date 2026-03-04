@@ -9,7 +9,7 @@ translated: false
 description: "At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 29, 2025
 
@@ -56,4 +56,4 @@ If you’d like to learn more, we’d love to connect. Join us at DevDay on Octo
 ## Ready to put ChatGPT to work in your business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

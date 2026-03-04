@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 4, 2024
 
@@ -29,4 +29,4 @@ The automation bypass enables you to protect your project's deployments with [Ve
 See [how to use Protection Bypass for Automation](https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/protection-bypass-automation#using-protection-bypass-for-automation).
 
 请参阅 [如何在自动化中使用保护绕过功能](https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/protection-bypass-automation#using-protection-bypass-for-automation)。
-{% endraw %}
+&#123;% endraw %}

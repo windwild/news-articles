@@ -9,7 +9,7 @@ translated: false
 description: "Empowering a global org with ChatGPT"
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # BBVA puts AI in the hands of every team with OpenAI
@@ -76,4 +76,4 @@ With foundational applications already proving impactful, BBVA plans to continue
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "Developers can now bring their own data to customize GPT-3.5 Turbo for their use cases."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 22, 2023
 
@@ -171,4 +171,4 @@ $0.012 / 1K tokens
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2023](https://openai.com/news/?tags=2023)
-{% endraw %}
+&#123;% endraw %}

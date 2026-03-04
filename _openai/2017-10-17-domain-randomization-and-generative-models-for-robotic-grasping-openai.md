@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 17, 2017
 
@@ -31,4 +31,4 @@ We evaluate our model architecture and data generation pipeline in simulation an
 
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
-{% endraw %}
+&#123;% endraw %}

@@ -10,7 +10,7 @@ description: "Nakasone brings cybersecurity experience to growing Board of Direc
 "
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 13, 2024
 
@@ -39,4 +39,4 @@ General Nakasone shared his perspective on joining the Board, stating, “OpenAI
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

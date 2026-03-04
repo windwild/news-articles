@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 3, 2024
 
@@ -42,4 +42,4 @@ export const showDashboard = flag<boolean>({
 Learn more about Vercel feature flags with SvelteKit [in our documentation](https://vercel.com/docs/workflow-collaboration/feature-flags/flags-pattern-sveltekit) and deploy your own [SvelteKit app with feature flags here](https://vercel.com/templates/svelte/toolbar-feature-flags-sveltekit).
 
 有关 Vercel 与 SvelteKit 结合使用的功能标志（Feature Flags）的更多信息，请参阅[我们的文档](https://vercel.com/docs/workflow-collaboration/feature-flags/flags-pattern-sveltekit)，并在此处[部署您自己的支持功能标志的 SvelteKit 应用](https://vercel.com/templates/svelte/toolbar-feature-flags-sveltekit)。
-{% endraw %}
+&#123;% endraw %}

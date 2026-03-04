@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 16, 2024
 
@@ -41,4 +41,4 @@ For example, `/products/hoodie` can be mapped to `/products/[name]`.
 Learn more in [our documentation](https://vercel.com/docs/observability/otel-overview) or start using the package with [Next.js](https://nextjs.org/docs/app/building-your-application/optimizing/open-telemetry).
 
 请在[我们的文档](https://vercel.com/docs/observability/otel-overview)中了解更多信息，或通过 [Next.js](https://nextjs.org/docs/app/building-your-application/optimizing/open-telemetry) 开始使用该软件包。
-{% endraw %}
+&#123;% endraw %}

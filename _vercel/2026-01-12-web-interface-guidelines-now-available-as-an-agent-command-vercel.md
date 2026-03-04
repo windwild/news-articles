@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Install /web-interface-guidelines to review UI code against Vercel's best practices. Supports Claude Code, Cursor, OpenCode, Windsurf, and Gemini CLI."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 12, 2026
 
@@ -35,4 +35,4 @@ Supports Claude Code, Cursor, OpenCode, Windsurf, and Gemini CLI. For other agen
 Learn more about using the [Web Interface Guidelines with Agents](https://vercel.com/design/guidelines#integrate-with-agents).
 
 了解更多关于如何将 [Web 界面指南与智能体集成（Web Interface Guidelines with Agents）](https://vercel.com/design/guidelines#integrate-with-agents) 的信息。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Leveraging the AI SDK to build with and solve problems with AI"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 15, 2024
 
@@ -71,4 +71,4 @@ Get started with the AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-s
 使用 AI SDK 构建 AI 驱动的应用程序。\\
 \\
 立即开始使用 AI SDK](https://sdk.vercel.ai/docs/introduction#vercel-ai-sdk)
-{% endraw %}
+&#123;% endraw %}

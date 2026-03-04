@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 8, 2026
 
@@ -195,4 +195,4 @@ To learn more about OpenAI for Healthcare, [contact our team⁠](https://openai.
 
 - [API Platform](https://openai.com/news/?tags=api-platform)  
 - [API 平台](https://openai.com/news/?tags=api-platform)
-{% endraw %}
+&#123;% endraw %}

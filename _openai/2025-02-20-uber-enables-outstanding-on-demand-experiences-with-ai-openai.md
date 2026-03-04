@@ -9,7 +9,7 @@ translated: false
 description: "A conversation with Jai Malkani, Head of AI and Product, Customer Obsession at Uber."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 20, 2025
 
@@ -98,4 +98,4 @@ _Uber leverages ChatGPT Enterprise across various departments, including marketi
 - [Technology](https://openai.com/stories/?tags=industry-technology)
 - [Travel](https://openai.com/stories/?tags=industry-travel)
 - [Services](https://openai.com/stories/?tags=industry-services)
-{% endraw %}
+&#123;% endraw %}

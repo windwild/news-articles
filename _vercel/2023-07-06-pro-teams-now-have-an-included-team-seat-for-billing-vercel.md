@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 6, 2023
 
@@ -21,4 +21,4 @@ Pro 团队现在可为单个用户分配 **账单角色（Billing Role）**。
 拥有账单角色的用户可以查看账单、编辑付款设置，并对团队下的所有项目拥有只读访问权限。Pro 团队可**免费添加一个具备账单角色的团队席位（team seat）**；企业版（Enterprise）客户则可添加多个具备账单角色的团队席位。
 
 [查阅文档](https://vercel.com/docs/accounts/team-members-and-roles/access-roles#billing-role) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "At OpenAI, we proactively adapt, including by building comprehensive security measures directly into our infrastructure and models. "
 tags: ["Security"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 26, 2025
 
@@ -69,4 +69,4 @@ Achieving our mission requires more than groundbreaking technology. It demands r
 Today, we serve more than 400 million weekly active users across businesses, enterprises and governments worldwide. This scale brings a crucial obligation to safeguard the systems, intellectual property and data our users entrust to us.
 
 At OpenAI, security is a deep-rooted commitment that strengthens as our models and products advance. We remain fully dedicated to a proactive, transparent approach, driven by rigorous testing, collaborative research, and a clear goal: ensuring the secure, responsible and beneficial development of AGI.
-{% endraw %}
+&#123;% endraw %}

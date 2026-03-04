@@ -9,7 +9,7 @@ translated: false
 description: "This report outlines the safety work carried out prior to releasing GPT-4o including external red teaming, frontier risk evaluations according to our Preparedness Framework, and an overview of the mit..."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 8, 2024
 
@@ -871,4 +871,4 @@ Below we display the results of these evaluations with the audio and text mode o
 
 16. P
     Out of preference or lack of optionality.
-{% endraw %}
+&#123;% endraw %}

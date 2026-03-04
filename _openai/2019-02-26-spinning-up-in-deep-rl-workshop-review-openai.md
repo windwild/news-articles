@@ -9,7 +9,7 @@ translated: false
 description: "On February 2, we held our first Spinning Up Workshop as part of our new education initiative at OpenAI."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 26, 2019
 
@@ -108,4 +108,4 @@ _Thanks to Maddie Hall and Loren Kwan for co-organizing the event, to Ian Atha f
 
 - [Events](https://openai.com/news/?tags=events)
 - [2019](https://openai.com/news/?tags=2019)
-{% endraw %}
+&#123;% endraw %}

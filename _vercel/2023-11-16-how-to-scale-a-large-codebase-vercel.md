@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Transition from monolithic to monorepo architectures with Vercel. Explore feature flags for safe releases, incremental builds for quick iterations, and skew protection for version consistency to ease ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 16, 2023
 
@@ -476,4 +476,4 @@ Vercel.com 着陆页
 ### Talk to a migration expert  
 
 ### 与迁移专家沟通
-{% endraw %}
+&#123;% endraw %}

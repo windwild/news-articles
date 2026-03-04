@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 31, 2024
 
@@ -27,4 +27,4 @@ Access the command menu through the toolbar or `⌘K` (`Ctrl+K` on Windows) a
 Learn more about the [command menu](https://vercel.com/docs/workflow-collaboration/vercel-toolbar#using-the-command-menu) and other features of the toolbar.
 
 了解更多关于 [命令菜单](https://vercel.com/docs/workflow-collaboration/vercel-toolbar#using-the-command-menu) 及工具栏其他功能的信息。
-{% endraw %}
+&#123;% endraw %}

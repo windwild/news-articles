@@ -9,7 +9,7 @@ translated: false
 description: "Together with Anthropic, Google, and Microsoft, we’re announcing the new Executive Director of the Frontier Model Forum and a new $10 million AI Safety Fund."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 25, 2023
 
@@ -80,4 +80,4 @@ The Forum is excited to work with Meserole and to deepen our engagements with th
 
 1. A
 The David and Lucile Packard Foundation intends to provide support, but funding had not yet been formally committed at the time of distribution.
-{% endraw %}
+&#123;% endraw %}

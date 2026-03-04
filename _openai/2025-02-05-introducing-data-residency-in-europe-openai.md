@@ -9,7 +9,7 @@ translated: false
 description: "Data residency builds on OpenAI’s enterprise-grade data privacy, security, and compliance programs supporting customers worldwide."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 5, 2025
 
@@ -70,4 +70,4 @@ For more details on data residency eligibility and supported data, visit our hel
 We look forward to partnering with more organizations across Europe and around the world on their AI initiatives, while maintaining the highest standards of security, privacy, and compliance.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:34:31.894993296+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 We're excited to announce a challenge hosted by Prem in collaboration with LangChain.
 
@@ -342,4 +342,4 @@ Check out our YouTube tutorials
 
 
 [**借助 LangChain，通过 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
-{% endraw %}
+&#123;% endraw %}

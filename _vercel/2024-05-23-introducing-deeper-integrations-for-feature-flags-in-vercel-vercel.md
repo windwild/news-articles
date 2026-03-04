@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Introducing a platform-wide understanding of feature flags in Vercel, and an experimental Next.js design pattern for working with flags in code."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 23, 2024
 
@@ -85,7 +85,7 @@ import { FlagValues } from '@vercel/flags/react';
 
 
 
-3<FlagValues values={{ "summer-sale": true }} />
+3<FlagValues values=&#123;{ "summer-sale": true }} />
 ```
 
 与网页分析集成。
@@ -202,4 +202,4 @@ Get started](https://vercel.com/docs/workflow-collaboration/feature-flags/using-
 即刻启用全新工作流：使用 Vercel 工具栏（Vercel Toolbar）读取并设置您应用的功能标志覆写（overrides）。\\
 \\
 立即开始](https://vercel.com/docs/workflow-collaboration/feature-flags/using-vercel-toolbar)
-{% endraw %}
+&#123;% endraw %}

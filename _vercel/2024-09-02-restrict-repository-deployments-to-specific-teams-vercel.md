@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 2, 2024
 
@@ -31,4 +31,4 @@ This protects against intentional and accidental deployments of protected reposi
 Learn more in our [documentation](https://vercel.com/docs/security/protected-git-scopes).
 
 更多详情，请参阅我们的[文档](https://vercel.com/docs/security/protected-git-scopes)。
-{% endraw %}
+&#123;% endraw %}

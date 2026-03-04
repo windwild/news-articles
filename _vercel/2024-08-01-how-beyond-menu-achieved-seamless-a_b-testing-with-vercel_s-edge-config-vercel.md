@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: " Learn how Beyond Menu resolved feature flagging and A/B testing issues in serverless environments by integrating Hypertune with Vercel’s Edge Config, achieving seamless performance and improved use..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 1, 2024
 
@@ -518,4 +518,4 @@ Vercel.com 官网首页
 ### Stop configuring and start innovating.
 
 ### 停止繁琐配置，开启创新之旅。
-{% endraw %}
+&#123;% endraw %}

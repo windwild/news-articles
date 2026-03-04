@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "This report introduces new metrics of AI usage to provide a rich portrait of interactions with Claude in November 2025, just prior to the release of Opus 4.5."
 ---
-{% raw %}
+&#123;% raw %}
 
 Economic Research
 
@@ -1061,4 +1061,4 @@ Building on prior releases, this edition significantly expands both the scope an
 How willing users are to experiment with AI, and whether policymakers create a regulatory context that advances both safety and innovation, will shape how AI transforms economies. For AI to benefit users globally, expanding access alone will not suffice—developing the human capital that enables effective use, particularly in lower-income economies, is essential.
 
 用户愿以多大程度尝试人工智能，以及政策制定者能否构建兼顾安全性与创新性的监管环境，将共同决定人工智能重塑经济的具体路径。若要让人工智能真正惠及全球用户，仅扩大技术接入渠道远远不够——尤其在低收入经济体中，培育能够有效运用人工智能的人力资本，才是根本所在。
-{% endraw %}
+&#123;% endraw %}

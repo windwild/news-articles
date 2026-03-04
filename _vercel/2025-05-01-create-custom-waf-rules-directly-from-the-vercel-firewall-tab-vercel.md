@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel customers can now create custom WAF rules directly from the chart displayed on the Firewall tab of the Vercel dashboard."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 1, 2025
 
@@ -35,4 +35,4 @@ This feature is available to all users across all plans at no additional cost.
 Learn more about the [Vercel Firewall](https://vercel.com/docs/vercel-firewall).
 
 了解更多关于[Vercel 防火墙](https://vercel.com/docs/vercel-firewall)的信息。
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 16, 2026
 
@@ -98,4 +98,4 @@ Once we begin testing our first ad formats in the coming weeks and months, we lo
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)  
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
-{% endraw %}
+&#123;% endraw %}

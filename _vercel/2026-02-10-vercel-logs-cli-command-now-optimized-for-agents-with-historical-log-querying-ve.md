@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The vercel logs CLI command has been improved to enable more powerful querying capabilities, and optimized for use by agents."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 10, 2026
 
@@ -31,4 +31,4 @@ Whether you're debugging a production issue or building automated monitoring wor
 [Learn about Vercel CLI and `vercel logs` command](https://vercel.com/docs/cli/logs)
 
 [了解 Vercel CLI 及 `vercel logs` 命令](https://vercel.com/docs/cli/logs)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "A universal interface for AI to interact with the digital world."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 23, 2025
 
@@ -141,4 +141,4 @@ As many of Operator’s capabilities are new, so are the risks and mitigation ap
 CUA builds on years of research advancements in multimodality, reasoning and safety. We have made significant progress in deep reasoning through the o-model series, vision capabilities through GPT‑4o, and new techniques to improve robustness through reinforcement learning and [instruction hierarchy](https://openai.com/index/the-instruction-hierarchy/). The next challenge space we plan to explore is expanding the action space of agents. The flexibility offered by a universal interface addresses this challenge, enabling an agent that can navigate any software tool designed for humans. By moving beyond specialized agent-friendly APIs, CUA can adapt to whatever computer environment is available—truly addressing the “long tail” of digital use cases that remain out of reach for most AI models.
 
 We're also working to make CUA available in the [API⁠(opens in a new window)](https://platform.openai.com/), so developers can use it to build their own computer-using agents. As we continue to iterate on CUA, we look forward to seeing the different use cases the community will discover. We plan to use the real-world feedback we gather from this early preview to continuously refine CUA’s capabilities and safety mitigations to safely advance our mission of distributing the benefits of AI to everyone.
-{% endraw %}
+&#123;% endraw %}

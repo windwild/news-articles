@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Microfrontends now generally available, enabling you to split large applications into smaller units that render as one cohesive experience for users."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 31, 2025
 
@@ -49,4 +49,4 @@ Pricing starts today for new projects and on **November 30, 2025** for existing 
 [Get started with microfrontends](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fsettings%2Fmicrofrontends&title=Get+started+with+microfrontends), clone one of our [examples](https://vercel.com/templates/microfrontends), or learn more in our [documentation](https://vercel.com/docs/microfrontends).
 
 [立即开始使用微前端](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fsettings%2Fmicrofrontends&title=Get+started+with+microfrontends)，克隆我们的任一 [示例项目](https://vercel.com/templates/microfrontends)，或查阅 [官方文档](https://vercel.com/docs/microfrontends) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

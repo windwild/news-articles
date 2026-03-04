@@ -9,7 +9,7 @@ translated: false
 description: "Trading Inference-Time Compute for Adversarial Robustness"
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 22, 2025
 
@@ -74,4 +74,4 @@ Overall, we view this work as a promising sign for the power of inference-time c
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Reasonings & Policy](https://openai.com/research/index/?tags=reasoning-policy)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: false
 description: "We introduce Glow, a reversible generative model which uses invertible 1x1 convolutions. It extends previous work on reversible generative models and simplifies the architecture. Our model can gen..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 9, 2018
 
@@ -208,4 +208,4 @@ Finally, if you’d like use Glow in your research, we encourage you to check ou
 - [Glow](https://openai.com/research/index/?tags=glow)
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
-{% endraw %}
+&#123;% endraw %}

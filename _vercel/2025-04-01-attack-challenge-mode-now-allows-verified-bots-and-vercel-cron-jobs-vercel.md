@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's Attack Challenge Mode blocks attacks while securely allowing verified webhooks, search engines, and analytics tools."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 1, 2025
 
@@ -29,4 +29,4 @@ To block specific known bots, create [a custom rule](https://vercel.com/docs/ver
 Learn more about [Attack Challenge Mode](https://vercel.com/docs/attack-challenge-mode) and how [Vercel maintains its directory of legitimate bots](https://vercel.com/docs/attack-challenge-mode#known-bots-support).
 
 了解更多关于[攻击挑战模式（Attack Challenge Mode）](https://vercel.com/docs/attack-challenge-mode) 的信息，以及 [Vercel 如何维护其合法机器人目录](https://vercel.com/docs/attack-challenge-mode#known-bots-support)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI is changing how content gets discovered. Now, SEO ranking ≠ LLM visibility. No one has all the answers, but here's how we're adapting our approach to SEO for LLMs and AI search."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 10, 2025
 
@@ -335,4 +335,4 @@ Traditional SEO still matters. Speed, structure, and indexability are foundation
 Don't optimize in isolation, and don’t chase hype. Call it LLM SEO, Language Engine Optimization (LEO), Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), or AI SEO, the goal is the same: Own a concept clearly, consistently, and with the right structure so models understand it well.
 
 切勿孤立地开展优化，也切勿盲目追逐热点。无论你称其为 LLM SEO、语言引擎优化（Language Engine Optimization, LEO）、生成式引擎优化（Generative Engine Optimization, GEO）、答案引擎优化（Answer Engine Optimization, AEO），还是 AI SEO，其核心目标始终如一：以清晰、一致且结构合理的方式，全面“拥有”某一概念，从而让大模型能够准确、深入地理解它。
-{% endraw %}
+&#123;% endraw %}

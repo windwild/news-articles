@@ -9,7 +9,7 @@ translated: false
 description: "Altera uses GPT-4o to build a new area of human collaboration"
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Altera uses GPT‑4o to build a new area of human collaboration
@@ -72,4 +72,4 @@ Altera plans to scale its efforts to create entire societies of digital humans c
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

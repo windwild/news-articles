@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Discover the upcoming update to Vercel Edge Functions with a new execution duration limit of 300 seconds, enhancing predictability and reliability in function management starting March 1st."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 6, 2025
 
@@ -25,4 +25,4 @@ For customers with a large number of Vercel Functions (100+), builds are more th
 Check out [the documentation](https://vercel.com/docs/deployments/builds) to learn more about builds.
 
 请查阅[相关文档](https://vercel.com/docs/deployments/builds)，进一步了解构建流程。
-{% endraw %}
+&#123;% endraw %}

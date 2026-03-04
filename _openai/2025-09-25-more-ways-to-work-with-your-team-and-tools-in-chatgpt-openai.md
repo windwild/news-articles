@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "ChatGPT business plans now support shared projects, smarter connectors, and enhanced compliance features to help teams work faster and more securely."
 ---
-{% raw %}
+&#123;% raw %}
 
 September 25, 2025
 
@@ -213,4 +213,4 @@ Learn more about [**ChatGPT Business** ⁠(opens in a new window)](https://chatg
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)  
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
-{% endraw %}
+&#123;% endraw %}

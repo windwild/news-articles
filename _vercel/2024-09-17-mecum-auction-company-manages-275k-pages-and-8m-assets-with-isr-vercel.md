@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Content-heavy websites don't need to suffer from long build times. With Incremental Static Regeneration (ISR), Mecum Auction Company handles 8M digital assets and 275K pages, while improving performan..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 17, 2024
 
@@ -118,4 +118,4 @@ Vercel.com 官网着陆页
 ### The managed, global rendering layer for modern web applications
 
 ### 面向现代 Web 应用的托管式全球渲染层
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 21, 2026
 
@@ -103,4 +103,4 @@ Our next cohort will be announced later in 2026. To learn more about how to join
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

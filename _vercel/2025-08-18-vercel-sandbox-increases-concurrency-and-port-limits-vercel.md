@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Run up to 2000 sandboxes at the same time. Sandbox also now supports listening on up to 4 different ports"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 18, 2025
 
@@ -104,4 +104,4 @@ If you need a higher amount of concurrent sandboxes, you can [contact our sales 
 Learn more in the [Vercel Sandbox docs](https://vercel.com/docs/vercel-sandbox).
 
 更多详情，请参阅 [Vercel Sandbox 文档](https://vercel.com/docs/vercel-sandbox)。
-{% endraw %}
+&#123;% endraw %}

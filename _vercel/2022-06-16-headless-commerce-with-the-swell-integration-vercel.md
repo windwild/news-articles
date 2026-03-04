@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 16, 2022
 
@@ -23,4 +23,4 @@ Swell 是一个专为高性能与高度定制化而设计的无头电商（headl
 [Try out the integration](https://vercel.com/integrations/swell) and connect your storefront.
 
 [立即试用该集成](https://vercel.com/integrations/swell)，并连接您的商品展示店面。
-{% endraw %}
+&#123;% endraw %}

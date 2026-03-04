@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 24, 2021
 
@@ -27,4 +27,4 @@ Feb 24, 2021
 请前往 [Pro 或 Enterprise 套餐](https://vercel.com/pricing) 用户团队可用的全新“用量（Usage）”标签页，立即开始优化您的项目。
 
 [同时欢迎查阅相关文档](https://vercel.com/docs/platform/usage)。
-{% endraw %}
+&#123;% endraw %}

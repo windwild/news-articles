@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Firewall and Observability Plus can now configure Custom Rules targeting specific server actions"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 24, 2025
 
@@ -45,4 +45,4 @@ Server Action Name is available in the Firewall for all plans at no additional c
 Read the [docs](https://vercel.com/docs/vercel-firewall/vercel-waf/rule-configuration) to learn more.  
 
 请阅读[文档](https://vercel.com/docs/vercel-firewall/vercel-waf/rule-configuration)了解更多信息。
-{% endraw %}
+&#123;% endraw %}

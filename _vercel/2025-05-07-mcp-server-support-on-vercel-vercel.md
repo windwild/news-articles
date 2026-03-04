@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Run MCP servers on with Next.js or Node.js in your Vercel project with 1st class support for Anthropic's MCP SDK"
 ---
-{% raw %}
+&#123;% raw %}
 
 May 7, 2025
 
@@ -153,4 +153,4 @@ Deploy now](https://vercel.com/templates/next.js/model-context-protocol-mcp-with
 立即开始，在 Vercel 上构建您的首个 MCP 服务器。\\
 \\
 立即部署](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js)
-{% endraw %}
+&#123;% endraw %}

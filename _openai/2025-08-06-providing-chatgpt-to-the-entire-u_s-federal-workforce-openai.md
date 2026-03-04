@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Today, OpenAI for Government is announcing a new partnership with the U.S. General Services Administration (GSA) to launch a transformative initiative. For the next year, ChatGPT Enterprise will be av..."
 ---
-{% raw %}
+&#123;% raw %}
 
 August 6, 2025
 
@@ -39,4 +39,4 @@ As part of this initiative, OpenAI will provide:
 By giving government employees access to powerful, secure AI tools, we can help them solve problems for more people, faster.
 
 Agencies interested in learning more about this partnership should have their CIO, Chief AI Officer, or a designated representative reach out to the National Customer Service Center at [ITCSC@gsa.gov⁠](mailto:ITCSC@gsa.gov), or to OpenAI by reaching out to [gov-gtm@openai.com⁠](mailto:gov-gtm@openai.com).
-{% endraw %}
+&#123;% endraw %}

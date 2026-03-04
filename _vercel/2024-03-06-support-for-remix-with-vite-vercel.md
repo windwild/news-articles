@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 6, 2024
 
@@ -105,4 +105,4 @@ This preset enables adding additional features for Remix on Vercel such as:
 [Deploy Remix to Vercel](https://vercel.com/templates/remix/remix-boilerplate) or learn more [in the docs](https://vercel.com/docs/frameworks/remix).
 
 [将 Remix 部署到 Vercel](https://vercel.com/templates/remix/remix-boilerplate)，或在[文档中](https://vercel.com/docs/frameworks/remix)了解更多信息。
-{% endraw %}
+&#123;% endraw %}

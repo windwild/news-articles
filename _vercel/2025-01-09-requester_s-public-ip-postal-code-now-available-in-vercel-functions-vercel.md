@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Postal codes of the requester's public IP address are now available in Vercel headers. The x-vercel-ip-postal-code header complements existing headers like x-vercel-ip-country and x-vercel-ip-city."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 9, 2025
 
@@ -65,4 +65,4 @@ export function GET(request: Request) {
 ```
 
 有关请求头和地理位置信息的更多信息，请参阅 [Vercel 的请求头文档](https://vercel.com/docs/edge-network/headers/request-headers)。
-{% endraw %}
+&#123;% endraw %}

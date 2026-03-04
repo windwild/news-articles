@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now view the referer for any request listed in the runtime logs page on the Vercel dashboard"
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 12, 2025
 
@@ -27,4 +27,4 @@ This allows you to understand the source of that request and more easily debug i
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Flogs) or learn more about [Runtime Logs](https://vercel.com/docs/logs/runtime).
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Flogs)，或深入了解 [运行时日志（Runtime Logs）](https://vercel.com/docs/logs/runtime)。
-{% endraw %}
+&#123;% endraw %}

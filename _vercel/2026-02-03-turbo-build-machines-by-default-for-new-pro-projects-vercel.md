@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Turbo build machines are now the default for new Pro Vercel projects, delivering faster buil ds with 30 vCPUs/60GB memory—up to 3x faster for long builds."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 3, 2026
 
@@ -25,4 +25,4 @@ Turbo 构建机器于去年 10 月面向所有付费计划推出，提供 30 个
 - 构建耗时超过 10 分钟的场景，最快可提速达 70%  
 
 如需了解更多信息，请参阅[文档](https://vercel.com/docs/builds/managing-builds#build-machine-types)，或前往[设置](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fsettings%2Fbuild-and-deployment%23build-machines)自定义您的构建机器。
-{% endraw %}
+&#123;% endraw %}

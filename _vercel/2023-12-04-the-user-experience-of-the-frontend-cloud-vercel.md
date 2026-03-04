@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The user experience of the Frontend Cloud: Part 2 of the developer's guide to a future-proofed stack."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 4, 2023
 
@@ -313,4 +313,4 @@ Dec 21, 2023
 Alice Alexandra Moore
 
 爱丽丝·亚历山德拉·摩尔
-{% endraw %}
+&#123;% endraw %}

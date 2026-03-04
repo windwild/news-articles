@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fluid Compute cuts cold starts and compute costs by up to 95%, scaling I/O-bound and AI workloads efficiently across 45B+ weekly requests."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 28, 2025
 
@@ -258,4 +258,4 @@ This brings an additional 90%+ savings for heavily I/O-bound workloads, on top o
 Today, over 75% of all Vercel Function invocations are using Fluid compute, saving up to 95% on compute bills costs. Compute that uses resources more efficiently, and thanks to our new [Active CPU pricing](https://vercel.com/docs/fluid-compute/pricing), more cost-effectively. Fluid compute is the [default for new projects](https://vercel.com/changelog/fluid-compute-is-now-the-default-for-new-projects), and we recommend [enabling it on your existing projects](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Ffunctions%23fluid-compute&title=Go+to+Function+Settings) if you haven’t already.
 
 目前，**超过 75% 的 Vercel 函数调用**均已采用 Fluid Compute，最高可节省 **95% 的计算费用**。这种计算方式不仅资源利用更高效，而且依托我们全新的 [Active CPU 定价](https://vercel.com/docs/fluid-compute/pricing)，成本效益也更高。Fluid Compute 已成为 [新项目的默认选项](https://vercel.com/changelog/fluid-compute-is-now-the-default-for-new-projects)，若您尚未启用，我们强烈建议您 [在现有项目中开启该功能](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Ffunctions%23fluid-compute&title=Go+to+Function+Settings)。
-{% endraw %}
+&#123;% endraw %}

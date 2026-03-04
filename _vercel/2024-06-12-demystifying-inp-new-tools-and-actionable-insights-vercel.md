@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Deep dive into Interaction to Next Paint (INP) optimization: A technical guide exploring real-world strategies used to improve INP on nextjs.org. Learn how to tackle common challenges and enhance resp..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 12, 2024
 
@@ -682,4 +682,4 @@ Vercel.com 着陆页
 ### Talk with an SEO expert
 
 ### 与 SEO 专家交流
-{% endraw %}
+&#123;% endraw %}

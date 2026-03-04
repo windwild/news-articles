@@ -9,7 +9,7 @@ translated: false
 description: "We’re working to prevent abuse, provide transparency on AI-generated content, and improve access to accurate voting information."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 15, 2024
 
@@ -103,4 +103,4 @@ We’ll have more to share in the coming months. We look forward to continuing t
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

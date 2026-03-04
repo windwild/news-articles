@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:18:22.141660723+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Learn how to build three foundational LLM apps using TypeScript, LangChain.js, and Zep.
 
@@ -644,4 +644,4 @@ As mentioned above, the chains, agents, and tools we used are quite primitive. T
 
 - Get setup with Zep using the [Quick Start Guide](https://docs.getzep.com/deployment/quickstart?ref=blog.langchain.com)  
 - 通过 [快速入门指南](https://docs.getzep.com/deployment/quickstart?ref=blog.langchain.com) 开始使用 Zep
-{% endraw %}
+&#123;% endraw %}

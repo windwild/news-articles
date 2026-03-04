@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing the acquisition of Grep to further our mission of helping developers work and ship faster. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 20, 2024
 
@@ -53,4 +53,4 @@ Launch](https://grep.app/)
 亲身体验 Grep 为您的工作流带来的速度与简洁性——快速找到您所需的内容。\\
 \\
 立即启动](https://grep.app/)
-{% endraw %}
+&#123;% endraw %}

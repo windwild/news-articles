@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now invalidate the CDN cache contents by tag providing a way to revalidate content without increasing latency for your users"
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 3, 2025
 
@@ -55,4 +55,4 @@ In addition to invalidating by tag if the origin content changes, you can also d
 Learn more about [cache invalidation](https://vercel.com/docs/edge-cache/purge#manually-purging-vercel-cache).
 
 了解更多关于[缓存失效](https://vercel.com/docs/edge-cache/purge#manually-purging-vercel-cache)的信息。
-{% endraw %}
+&#123;% endraw %}

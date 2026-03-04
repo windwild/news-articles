@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:15:37.252997618+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 If you’ve built an agent, you know that the delta between “it works on my machine” and “it works in production” can be huge.  
 如果你已经构建过一个智能体（agent），你就知道，“在我的机器上能运行”和“在生产环境中稳定运行”之间的差距可能非常巨大。
@@ -161,4 +161,4 @@ The teams shipping reliable agents today share one thing: they've stopped trying
 Agent engineering is emerging because the opportunity demands it. Agents can now handle workflows that previously required human judgment, but only if you can make them reliable enough to trust. There is no shortcut, just the systematic work of iteration. The question isn't whether agent engineering will become standard practice. It's how quickly your team can adopt it to unlock what agents can do.
 
 智能体工程应运而生，源于现实机遇的迫切需求。如今，智能体已能承担过去必须依赖人类判断的工作流程——但前提是，你能让它们足够可靠、值得信赖。这里没有捷径，唯有依靠系统化的持续迭代。问题已不再是“智能体工程是否会成为行业标准”，而是：你的团队能以多快的速度采纳这一范式，从而真正释放智能体的全部潜能。
-{% endraw %}
+&#123;% endraw %}

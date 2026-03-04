@@ -9,7 +9,7 @@ translated: true
 description: "We ran a few experiments, which show how few-shot prompting can significantly enhance model accuracy - especially for complex tasks. Read on for how we did it (and the results)."
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Tools are an essential component of LLM applications, and we’ve been working hard to improve the LangChain interfaces for using tools (see our posts on [standardized tool calls](https://blog.langchain.com/tool-calling-with-langchain/) and [core tool improvements](https://blog.langchain.com/improving-core-tool-interfaces-and-docs-in-langchain/)).
 
@@ -516,4 +516,4 @@ If you’ve done similar benchmarking or have ideas for future evaluations to ru
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

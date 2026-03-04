@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "v0.dev is now v0.app, the AI builder for everyone: founders, designers, developers, marketers, sales, finance, and more "
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 11, 2025
 
@@ -101,4 +101,4 @@ v0.app 正在改变软件的构建方式——只需一个提示，任何人都�
 Try it for free at [v0.app](http://v0.app/).
 
 免费试用：[v0.app](http://v0.app/)
-{% endraw %}
+&#123;% endraw %}

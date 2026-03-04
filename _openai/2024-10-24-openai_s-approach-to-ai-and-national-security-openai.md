@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI’s approach to AI and national security"
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 24, 2024
 
@@ -53,4 +53,4 @@ We believe the U.S. government and U.S. companies like ours have an opportunity 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

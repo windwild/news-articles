@@ -9,7 +9,7 @@ translated: false
 description: "Ironclad uses GPT-4 to simplify the contract review process."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Ironclad
@@ -81,4 +81,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Simplifying contract reviews with AI \| OpenAI
-{% endraw %}
+&#123;% endraw %}

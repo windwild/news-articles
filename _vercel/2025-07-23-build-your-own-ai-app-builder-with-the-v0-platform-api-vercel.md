@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to build, extend, and automate AI-generated apps like BI tools and website builders with v0 Platform API"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 23, 2025
 
@@ -267,4 +267,4 @@ await v0.chats.create({
 vercel.com/changelog/v0-p…  
 
 vercel.com/changelog/v0-p…
-{% endraw %}
+&#123;% endraw %}

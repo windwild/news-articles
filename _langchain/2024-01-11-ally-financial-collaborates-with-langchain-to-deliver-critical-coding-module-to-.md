@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Ally Financial, the largest digital-only bank in the US and a leading auto lender, has recently collaborated with LangChain to release the first initial coding module that addresses a significant challenge for AI developers working with personal identifiable information (PII) in highly regulated, consumer-focused industries. The PII Masking module - available [here](https://js.langchain.com/docs/modules/experimental/mask/?ref=blog.langchain.com) \- provides a starting point for organizations that frequently handle customer PII during the normal course of business – including those in financial services, healthcare and retail - to build generative AI applications that also protect customer data.
 
@@ -157,4 +157,4 @@ _LangChain, Inc. 于 2023 年初成立，旨在帮助开发者构建具备上下
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

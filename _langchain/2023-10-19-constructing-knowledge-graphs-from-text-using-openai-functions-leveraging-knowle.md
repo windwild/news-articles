@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:33:44.958523651+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This post was written by [_Tomaz Bratanic_](https://twitter.com/tb_tomaz?ref=blog.langchain.com) from the Neo4j team._
 
@@ -494,4 +494,4 @@ If you are eager to learn more about building AI applications with graphs, join 
 The code is available on [GitHub](https://github.com/tomasonjo/blogs/blob/master/llm/openaifunction_constructing_graph.ipynb?ref=blog.langchain.com).
 
 相关代码已在 [GitHub](https://github.com/tomasonjo/blogs/blob/master/llm/openaifunction_constructing_graph.ipynb?ref=blog.langchain.com) 上开源。
-{% endraw %}
+&#123;% endraw %}

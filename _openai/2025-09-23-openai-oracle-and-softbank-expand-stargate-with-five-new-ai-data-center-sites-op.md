@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 September 23, 2025
 
@@ -46,4 +46,4 @@ Together with Oracle, SoftBank, and our other partners, we’re turning a $500 b
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Partnerships](https://openai.com/news/?tags=partnerships)
-{% endraw %}
+&#123;% endraw %}

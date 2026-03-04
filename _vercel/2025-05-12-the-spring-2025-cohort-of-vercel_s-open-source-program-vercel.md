@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Announcing the spring 2025 cohort of Vercel's Open Source Program. Open source community frameworks, libraries, and tools we rely on every day to build the web,"
 ---
-{% raw %}
+&#123;% raw %}
 
 May 12, 2025
 
@@ -539,4 +539,4 @@ Applications for the winter cohort open in January
 Build with us](https://vercel.com/docs/open-source-program)  
 
 与我们一起构建](https://vercel.com/docs/open-source-program)
-{% endraw %}
+&#123;% endraw %}

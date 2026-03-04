@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Clay
@@ -63,4 +63,4 @@ Your browser does not support the video tag.
 [Talk with our team](https://openai.com/contact-sales/)
 
 Achieving 10x growth with agentic sales prospecting \| OpenAI
-{% endraw %}
+&#123;% endraw %}

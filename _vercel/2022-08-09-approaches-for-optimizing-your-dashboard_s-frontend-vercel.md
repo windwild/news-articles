@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Let’s review the techniques and strategies we used to improve the Vercel Dashboard so you can make a data-driven impact on your application. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 9, 2022
 
@@ -272,9 +272,9 @@ const ParentComponent = () => {
 
 14    <>
 
-15      <div style={{height: "200vh"}}></div>
+15      <div style=&#123;{height: "200vh"}}></div>
 
-15      <div style={{height: "200vh"}}></div>
+15      <div style=&#123;{height: "200vh"}}></div>
 
 16        <div ref={childRefContainer as any}>
 
@@ -414,9 +414,9 @@ const Paragraph = (props) => {
 
 14    // 因此这一改动不会影响最终渲染效果。
 
-15    <p style={{ props.style }}>{ props.children }</p>
+15    <p style=&#123;{ props.style }}>{ props.children }</p>
 
-15    <p style={{ props.style }}>{ props.children }</p>
+15    <p style=&#123;{ props.style }}>{ props.children }</p>
 
 16  )
 
@@ -585,12 +585,12 @@ const ReusableSection = ( props ) => {
 
 6    // 却会使最终生成的 HTML 变得臃肿。
 
-7    <div style={{ marginTop: props.marginTop || 0 }}>
+7    <div style=&#123;{ marginTop: props.marginTop || 0 }}>
 
-7    <div style={{ marginTop: props.marginTop || 0 }}>
+7    <div style=&#123;{ marginTop: props.marginTop || 0 }}>
 
-8      <p style={{ paddingBottom: props.paragraphBottomPad || 0 }}>
-8      <p style={{ paddingBottom: props.paragraphBottomPad || 0 }}>
+8      <p style=&#123;{ paddingBottom: props.paragraphBottomPad || 0 }}>
+8      <p style=&#123;{ paddingBottom: props.paragraphBottomPad || 0 }}>
 ```
 
 9        {props.paragraph}
@@ -633,13 +633,13 @@ const ReusableSection = (props) => {
 
 18    // 此 `<style>` 标签将不再包含在最终生成的 HTML 中。
 
-19    <div style={{ marginTop: props.marginTop || undefined }}>
+19    <div style=&#123;{ marginTop: props.marginTop || undefined }}>
 
-19    <div style={{ marginTop: props.marginTop || undefined }}>
+19    <div style=&#123;{ marginTop: props.marginTop || undefined }}>
 
-20      <p style={{ paddingBottom: props.paragraphBottomPad || undefined }}>
+20      <p style=&#123;{ paddingBottom: props.paragraphBottomPad || undefined }}>
 
-20      <p style={{ paddingBottom: props.paragraphBottomPad || undefined }}>
+20      <p style=&#123;{ paddingBottom: props.paragraphBottomPad || undefined }}>
 
 21        {props.paragraph}
 
@@ -686,4 +686,4 @@ As a part of our continued effort to help developers improve their application p
 Enable [Analytics](https://vercel.com/analytics) today by visiting the Analytics tab in your project dashboard or [try it free with a team on Vercel Pro](https://vercel.com/signup?next=/dashboard?createTeam=true).
 
 立即启用 [Analytics](https://vercel.com/analytics)：请访问项目仪表板中的 Analytics 标签页；或[在 Vercel Pro 上免费为团队试用](https://vercel.com/signup?next=/dashboard?createTeam=true)。
-{% endraw %}
+&#123;% endraw %}

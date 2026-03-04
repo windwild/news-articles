@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "AWS Databases Now Available on the Vercel Marketplace with their AWS Aurora PostgreSQL, Amazon DynamoDB, and Aurora DSQL "
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 17, 2025
 
@@ -186,4 +186,4 @@ Setup a database client
 You can also try a working example by deploying the [Movie Fetching Database](https://vercel.com/templates/next.js/next-js-vercel-app-with-aurora-postgresql) template to see the integration end-to-end.
 
 您还可以通过部署 [电影数据获取数据库](https://vercel.com/templates/next.js/next-js-vercel-app-with-aurora-postgresql) 模板来尝试一个可运行的示例，从而端到端地体验该集成效果。
-{% endraw %}
+&#123;% endraw %}

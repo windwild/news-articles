@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 8, 2024
 
@@ -35,4 +35,4 @@ You can now incorporate AI models and services from industry-leading providers i
 [Check out the documentation](https://vercel.com/docs/integrations#ai-integrations) to get started.
 
 [查看文档](https://vercel.com/docs/integrations#ai-integrations) 开始使用。
-{% endraw %}
+&#123;% endraw %}

@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:39:24.349441986+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Editor's Note: This post was written by the [Kay](https://www.kay.ai/?ref=blog.langchain.com) team, in collaboration with [Cybersyn](https://www.cybersyn.com/?ref=blog.langchain.com)._
 
@@ -273,4 +273,4 @@ Here’s some resources to dive in further
 
 Also, a reminder: [LangChain Users get 10,000 Free Kay Requests for next 3 Months](https://kay.ai/?ref=blog.langchain.com) ⚡️  
 另外提醒一下：[LangChain 用户可享未来 3 个月内 10,000 次免费 Kay 请求额度](https://kay.ai/?ref=blog.langchain.com) ⚡️
-{% endraw %}
+&#123;% endraw %}

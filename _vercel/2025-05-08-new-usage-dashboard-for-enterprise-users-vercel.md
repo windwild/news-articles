@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We’ve launched a new usage dashboard for Enterprise teams to analyze Vercel usage and costs with detailed breakdowns and export options."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 8, 2025
 
@@ -37,4 +37,4 @@ You can now break down usage by:
 Explore the [new dashboard](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fusage&title=Go%20to%20the%20new%20usage%20dashboard) today.
 
 立即体验[全新仪表板](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fusage&title=Go%20to%20the%20new%20usage%20dashboard)。
-{% endraw %}
+&#123;% endraw %}

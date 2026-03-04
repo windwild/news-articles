@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 8, 2024
 
@@ -31,4 +31,4 @@ Runtime logs now have improved filtering and visibility of request details:
 These improvements are available to all Vercel customers.
 
 上述改进已面向所有 Vercel 客户开放使用。
-{% endraw %}
+&#123;% endraw %}

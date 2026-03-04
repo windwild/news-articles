@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 Interpretability
 
@@ -44,4 +44,4 @@ At the link above, we report a number of developing ideas on the Anthropic inter
 We'd ask you to treat these results like those of a colleague sharing some thoughts or preliminary experiments for a few minutes at a lab meeting, rather than a mature paper.
 
 我们希望您将这些成果视作一位同事在实验室组会上用几分钟时间分享的一些初步想法或实验结果，而非一篇成熟定稿的学术论文。
-{% endraw %}
+&#123;% endraw %}

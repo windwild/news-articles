@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "GPT-5 is OpenAI’s most advanced model—transforming enterprise AI, automation, and workforce productivity in the new era of intelligent work."
 ---
-{% raw %}
+&#123;% raw %}
 
 August 7, 2025
 
@@ -38,4 +38,4 @@ Team, Enterprise, and Edu customers will also soon get access to GPT‑5 Pro, a 
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [API Platform](https://openai.com/news/?tags=api-platform)
-{% endraw %}
+&#123;% endraw %}

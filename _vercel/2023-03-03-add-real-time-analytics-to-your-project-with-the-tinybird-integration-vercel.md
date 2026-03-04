@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 3, 2023
 
@@ -23,4 +23,4 @@ Tinybird 集成可让您在几分钟内为 Vercel 项目构建实时后端。开
 Try out [the integration](https://vercel.com/integrations/tinybird) for your own data-driven application.
 
 请尝试将该集成应用于您自己的数据驱动型应用：[集成页面](https://vercel.com/integrations/tinybird)
-{% endraw %}
+&#123;% endraw %}

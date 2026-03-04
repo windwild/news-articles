@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:25:07.057421884+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 _Note: As of October 2025, LangGraph Platform has been re-named to "LangSmith Deployment"._
 
@@ -274,4 +274,4 @@ And check out the [full-stack template](https://github.com/langchain-ai/custom-a
 Try it out and share your feedback on [GitHub](https://github.com/langchain-ai/langgraph/discussions?ref=blog.langchain.com). This is another step toward supporting more sophisticated deployment patterns — we're excited to see what you build!
 
 欢迎立即尝试，并在 [GitHub](https://github.com/langchain-ai/langgraph/discussions?ref=blog.langchain.com) 上分享您的反馈。这是 LangGraph 支持更复杂部署模式的又一重要进展——我们热切期待您构建出的精彩应用！
-{% endraw %}
+&#123;% endraw %}

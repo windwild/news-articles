@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Featuring a new update channel for Next.js, our first canary release and the Next.js 5 Roadmap."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 15, 2017
 
@@ -245,4 +245,4 @@ If you are looking to start contributing to Next.js, we have recently introduced
 If you have any questions or want some guidance on how to get started, feel free to join our public chat and ask around!
 
 如果您有任何疑问，或希望获得如何起步的指导，欢迎加入我们的 [公开聊天室](https://nextjs.org/chat) 并随时提问！
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now supports and automatically optimizes your Hydrogen 2 projects as of Vercel CLI v31.2.3.  "
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 14, 2023
 
@@ -19,4 +19,4 @@ Aug 14, 2023
 Vercel 现已支持 Hydrogen 2 项目，并自 Vercel CLI `v31.2.3` 版本起自动对其进行优化。在导入新项目时，Vercel 将自动识别 Hydrogen 并配置最优性能所需的相关设置——包括使用 [Vercel Edge Functions](https://vercel.com/features/edge-functions) 来实现页面的服务器端渲染。
 
 立即部署 [Hydrogen 模板](https://vercel.com/templates/remix/hydrogen-2)，或在终端中运行 `vercel init hydrogen-2` 命令开始使用。
-{% endraw %}
+&#123;% endraw %}

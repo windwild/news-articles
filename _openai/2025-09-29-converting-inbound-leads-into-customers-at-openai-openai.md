@@ -9,7 +9,7 @@ translated: false
 description: "Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 29, 2025
 
@@ -92,4 +92,4 @@ Personalizing every lead isn’t a tactic. It’s becoming a better way for all 
 ## Ready to put ChatGPT to work in your business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

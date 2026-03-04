@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic research on predicting rare, undesirable AI behaviors"
 ---
-{% raw %}
+&#123;% raw %}
 
 Alignment
 
@@ -119,4 +119,4 @@ Read [the full paper](https://arxiv.org/abs/2502.16797).
 
 If you’re interested in working on problems like deployment evaluations or jailbreak robustness, we’re currently recruiting for [Research Engineers / Scientists](https://boards.greenhouse.io/anthropic/jobs/4459012008) and we’d love to see your application.  
 若您对部署阶段评测、越狱攻击鲁棒性等前沿课题感兴趣，我们目前正在招聘[研究工程师／科学家（Research Engineers / Scientists）](https://boards.greenhouse.io/anthropic/jobs/4459012008)，诚挚期待您的申请！
-{% endraw %}
+&#123;% endraw %}

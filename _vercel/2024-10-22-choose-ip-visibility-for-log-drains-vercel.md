@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 22, 2024
 
@@ -23,4 +23,4 @@ Since IP addresses can be considered personal information under certain data pri
 This can be done by [Owner and Admin](https://vercel.com/docs/observability/log-drains#manage-ip-address-visibility-of-log-drains) roles on [Pro and Enterprise plans](https://vercel.com/docs/observability/log-drains#working-with-log-drains).
 
 此功能支持 [Owner（所有者）和 Admin（管理员）](https://vercel.com/docs/observability/log-drains#manage-ip-address-visibility-of-log-drains) 角色，在 [Pro 和 Enterprise 计划](https://vercel.com/docs/observability/log-drains#working-with-log-drains) 下使用。
-{% endraw %}
+&#123;% endraw %}

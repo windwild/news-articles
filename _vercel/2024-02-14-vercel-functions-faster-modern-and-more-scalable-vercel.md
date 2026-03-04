@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Our first major iteration of Vercel Functions with increased concurrency, longer durations, faster cold starts, streaming, and more."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 14, 2024
 
@@ -323,4 +323,4 @@ Learn more about [Runtime Logs](https://vercel.com/docs/observability/runtime-lo
 
 We're continuing to evolve our compute products at Vercel. This is the first of many more improvements planned to help you have low latency, instantly scalable, cost effective compute through Vercel Functions.  
 我们正持续推进 Vercel 计算产品的发展演进。本次更新是系列优化中的首项——后续还将推出更多改进，助您通过 Vercel Functions 实现低延迟、即时弹性伸缩且高性价比的计算能力。
-{% endraw %}
+&#123;% endraw %}

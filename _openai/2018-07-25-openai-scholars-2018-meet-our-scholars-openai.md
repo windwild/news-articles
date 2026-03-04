@@ -9,7 +9,7 @@ translated: false
 description: "Our first class of OpenAI Scholars is underway, and you can now follow along as this group of experienced software developers becomes machine learning practitioners."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 25, 2018
 
@@ -154,4 +154,4 @@ Thanks to AWS for providing compute credits to the scholars.
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2018](https://openai.com/news/?tags=2018)
-{% endraw %}
+&#123;% endraw %}

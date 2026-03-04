@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 11, 2024
 
@@ -39,4 +39,4 @@ You can now get AI-assisted answers to your questions directly from the Vercel d
 Start searching with `⌘K` (or `Ctrl+K` on Windows) menu on [vercel.com/docs](https://vercel.com/docs).
 
 请在 [vercel.com/docs](https://vercel.com/docs) 页面中，通过 `⌘K`（Windows 系统为 `Ctrl+K`）快捷键打开搜索菜单，立即开始搜索。
-{% endraw %}
+&#123;% endraw %}

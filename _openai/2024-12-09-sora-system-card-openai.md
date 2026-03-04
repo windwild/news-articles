@@ -9,7 +9,7 @@ translated: false
 description: "Sora is OpenAI’s video generation model, designed to take text, image, and video inputs and generate a new video as an output. Sora builds on learnings from DALL-E and GPT models, and is designed to..."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 9, 2024
 
@@ -281,4 +281,4 @@ We are grateful to our group of Alpha artists and our expert red teamers who pro
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
 - [Community & Collaboration](https://openai.com/research/index/?tags=community-collaboration)
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
-{% endraw %}
+&#123;% endraw %}

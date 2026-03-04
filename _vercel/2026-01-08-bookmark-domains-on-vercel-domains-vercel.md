@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now curate and save a list of domains within the Vercel Domains product for purchasing at a later date"
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 8, 2026
 
@@ -26,4 +26,4 @@ Jan 8, 2026
 之后，您可通过“已保存”标签页查看已收藏的域名，并将其添加至购物车。
 
 立即前往 [vercel.com/domains](https://vercel.com/domains) 尝试该功能
-{% endraw %}
+&#123;% endraw %}

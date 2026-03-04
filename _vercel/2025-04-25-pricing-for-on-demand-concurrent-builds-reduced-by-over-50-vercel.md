@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Pricing for on-demand concurrent builds has been reduced by more than 50%. Billable intervals have also been lowered from 10 minutes to 1 minute."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 25, 2025
 
@@ -24,4 +24,4 @@ Apr 25, 2025
 此项调整同样适用于所有正在使用“增强型按需构建（Enhanced On-demand builds）”的客户——该模式为构建计算分配更多内存，从而显著缩短部署耗时。
 
 了解更多关于[按需并发构建](https://vercel.com/docs/builds/managing-builds#on-demand-concurrent-builds)的信息，并[在您的项目中启用该功能](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment&title=Enable%20on-demand%20concurrent%20builds)。
-{% endraw %}
+&#123;% endraw %}

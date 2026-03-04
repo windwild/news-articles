@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Functions are now cached more effectively during deployment, saving 400ms-5s per build. Python, Go, Ruby, Rust, and   standalone functions benefit most."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 23, 2026
 
@@ -33,4 +33,4 @@ The optimization is applied automatically to all deployments with no configurati
 Learn more about [functions](https://vercel.com/docs/functions) and [builds](https://vercel.com/docs/deployments/builds) in our documentation.
 
 请参阅我们的文档，进一步了解 [函数（functions）](https://vercel.com/docs/functions) 和 [构建（builds）](https://vercel.com/docs/deployments/builds)。
-{% endraw %}
+&#123;% endraw %}

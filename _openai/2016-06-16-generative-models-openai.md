@@ -9,7 +9,7 @@ translated: false
 description: "This post describes four projects that share a common theme of enhancing or using generative models, a branch of unsupervised learning techniques in machine learning. In addition to describing our wor..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 16, 2016
 
@@ -177,4 +177,4 @@ Generative models are a rapidly advancing area of research. As we continue to ad
 However, the deeper promise of this work is that, in the process of training generative models, we will endow the computer with an understanding of the world and what it is made up of.
 
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reaso..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 18, 2025
 
@@ -476,4 +476,4 @@ Because we believe that chain-of-thought monitoring could be a load-bearing laye
 
 - [Reasonings & Policy](https://openai.com/news/?tags=reasoning-policy)  
 - [推理与策略（Reasonings & Policy）](https://openai.com/news/?tags=reasoning-policy)
-{% endraw %}
+&#123;% endraw %}

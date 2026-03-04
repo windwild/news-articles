@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 6, 2023
 
@@ -23,4 +23,4 @@ You are now able to filter the Activity of your team on Vercel based on a specif
 [Check out the documentation](https://vercel.com/docs/concepts/observability/activity-log) to learn more.
 
 [查看文档](https://vercel.com/docs/concepts/observability/activity-log) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

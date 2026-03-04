@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic developed a way to test how persuasive language models (LMs) are, and analyzed how persuasiveness scales across different versions of Claude."
 ---
-{% raw %}
+&#123;% raw %}
 
 社会影响
 
@@ -310,4 +310,4 @@ We thank Sally Aldous, Cem Anil, Amanda Askell, Aaron Begg, Sam Bowman, David Du
 
 [Measuring the Persuasiveness of Language Models](https://cdn.sanity.io/files/4zrzovbb/website/5f5bf833a83e4c85550768e8b16ff282f268d7a3.pdf)  
 [评估语言模型的说服力](https://cdn.sanity.io/files/4zrzovbb/website/5f5bf833a83e4c85550768e8b16ff282f268d7a3.pdf)
-{% endraw %}
+&#123;% endraw %}

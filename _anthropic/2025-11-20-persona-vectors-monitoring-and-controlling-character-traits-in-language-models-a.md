@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A paper from Anthropic describing persona vectors and their applications to monitoring and controlling model behavior"
 ---
-{% raw %}
+&#123;% raw %}
 
 Interpretability
 
@@ -180,4 +180,4 @@ We also tested this data flagging technique on real-world data like LMSYS-Chat-1
 ## 致谢
 
 本研究由 [Anthropic 研究员计划](https://alignment.anthropic.com/2024/anthropic-fellows-program/)（Anthropic Fellows）项目的参与者主导完成。
-{% endraw %}
+&#123;% endraw %}

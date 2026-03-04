@@ -9,7 +9,7 @@ translated: false
 description: "We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply provid..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 5, 2021
 
@@ -370,4 +370,4 @@ FairFace is a face image dataset designed to balance age, gender, and race, in o
 
 41. 41
     Keyes, O. (2018). “ [The misgendering machines: Trans/HCI implications of automatic gender recognition.⁠(opens in a new window)](https://dl.acm.org/doi/10.1145/3274357)” In Proceedings of the ACM on Human-Computer Interaction.
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI agents need secure, isolated environments that spin up instantly. Vercel Sandbox is now generally available with filesystem snapshots, container support, and production reliability."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 30, 2026
 
@@ -206,4 +206,4 @@ npx sandbox create --connect
 Explore the [documentation](https://vercel.com/docs/vercel-sandbox) to get started, and check out the [open-source SDK](https://github.com/vercel/sandbox).
 
 请查阅 [文档](https://vercel.com/docs/vercel-sandbox) 以快速上手，并查看 [开源 SDK](https://github.com/vercel/sandbox)。
-{% endraw %}
+&#123;% endraw %}

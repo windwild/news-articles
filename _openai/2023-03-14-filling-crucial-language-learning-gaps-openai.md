@@ -9,7 +9,7 @@ translated: false
 description: "GPT-4 deepens the conversation on Duolingo."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Duolingo
@@ -99,4 +99,4 @@ APIMay 29, 2025](https://openai.com/index/wix/)
 APIJan 4, 2024](https://openai.com/index/whoop/)
 
 Filling crucial language learning gaps \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "A new automated auditing tool for AI safety research"
 ---
-{% raw %}
+&#123;% raw %}
 
 Alignment
 
@@ -219,4 +219,4 @@ _\*Anthropic 研究员计划成员_
 > year={2025},
 > url={https://github.com/safety-research/petri},
 > }`
-{% endraw %}
+&#123;% endraw %}

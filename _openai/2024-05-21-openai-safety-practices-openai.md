@@ -9,7 +9,7 @@ translated: false
 description: "Artificial general intelligence has the potential to benefit nearly every aspect of our lives—so it must be developed and deployed responsibly."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 21, 2024
 
@@ -49,4 +49,4 @@ As we move towards our next frontier model, we recognize we will need to evolve 
 
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

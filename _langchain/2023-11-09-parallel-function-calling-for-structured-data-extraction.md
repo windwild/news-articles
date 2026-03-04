@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:28:47.622630811+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **Important Links:**
 
@@ -194,4 +194,4 @@ While most people are excited about function calling for creating agents, there 
 One of these use cases is extraction, but with old function calling you had to do some hacks to get that to work. With parallel function calling it is significantly easier. Try it out!
 
 其中一种应用场景便是信息抽取（extraction）；但在旧版函数调用中，你不得不采用一些变通技巧才能实现。而借助并行函数调用（parallel function calling），这一过程则显著简化。快去试试吧！
-{% endraw %}
+&#123;% endraw %}

@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:02:23.216911024+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 **This blog post walks through our improved regression testing experience in LangSmith. If video form is more your style, you can check out our YouTube walkthrough** [**here**](https://youtu.be/xTMngs6JWNM?ref=blog.langchain.com) **. Sign up for LangSmith** [**here**](https://smith.langchain.com/?ref=blog.langchain.com) **for free to try it out for yourself!**
 
@@ -85,4 +85,4 @@ These features make it easy to explore data across multiple evaluation runs. Thi
 **If video form is more your style, you can check out our YouTube walkthrough** [**here**](https://youtu.be/xTMngs6JWNM?ref=blog.langchain.com) **. Sign up for LangSmith** [**here**](https://smith.langchain.com/?ref=blog.langchain.com) **for free to try it out for yourself!**
 
 **如果视频形式更符合您的偏好，欢迎点击此处观看我们的 YouTube 教程** [**这里**](https://youtu.be/xTMngs6JWNM?ref=blog.langchain.com) **。立即免费注册 LangSmith** [**此处**](https://smith.langchain.com/?ref=blog.langchain.com) **，亲自体验吧！**
-{% endraw %}
+&#123;% endraw %}

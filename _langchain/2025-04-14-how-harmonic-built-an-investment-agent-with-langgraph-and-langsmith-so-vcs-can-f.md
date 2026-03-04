@@ -9,7 +9,7 @@ translated: true
 description: "See how Harmonic uses LangSmith and LangGraph products to streamline venture investing workflows."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Harmonic is the startup discovery engine, tracking company formation and growth while providing valuable insights and workflow tools to venture capitalists (VCs). By aggregating vast amounts of public data and private data collected through partnerships with venture ecosystem players, Harmonic enables users to discover startups based on various criteria, enhancing their sourcing efforts. Using LangGraph and LangSmith, they’ve been able to move several steps further down the investment pipeline. With automatic market maps, research reports, and conversational interactions, VCs can now leverage Harmonic to pick and win the best deals in addition to sourcing.
 
@@ -177,4 +177,4 @@ Harmonic 还借此新增多项功能，在整个投资流程中为用户创造�
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

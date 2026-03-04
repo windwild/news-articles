@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes. "
 ---
-{% raw %}
+&#123;% raw %}
 
 2025年9月29日
 
@@ -153,4 +153,4 @@ This is an important step forward, but our work isn’t done. We’ll continue t
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)  
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
-{% endraw %}
+&#123;% endraw %}

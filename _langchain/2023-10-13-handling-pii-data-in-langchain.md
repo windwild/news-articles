@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:38:09.913282623+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 This blog post was written by Francisco, a founder at [Pampa Labs](https://www.pampa.ai/?ref=blog.langchain.com), who assists companies in developing LLM applications that are accurate and cost efficient.
 
@@ -197,4 +197,4 @@ Handling PII data effectively is an important aspect of building safe and reliab
 If you enjoyed this blog post, we're also doing a webinar on this subject next week - [sign up here](https://www.crowdcast.io/c/6es3zwnv0ygy?ref=blog.langchain.com) to join!
 
 如果您喜欢这篇博客文章，我们还将于下周围绕该主题举办一场网络研讨会——欢迎[点击此处报名参加](https://www.crowdcast.io/c/6es3zwnv0ygy?ref=blog.langchain.com)！
-{% endraw %}
+&#123;% endraw %}

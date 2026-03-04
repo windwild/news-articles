@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Observability's Vercel Functions dashboard now shows quick-view tiles for advanced metrics, highlighting Fluid Compute and key insights to optimize projects on all plans."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 18, 2025
 
@@ -27,4 +27,4 @@ Feb 18, 2025
 上述洞察功能面向所有订阅计划开放。
 
 了解更多关于 [可观测性（Observability）](https://vercel.com/docs/observability) 和 [Fluid Compute](https://vercel.com/docs/functions/fluid-compute) 的信息。
-{% endraw %}
+&#123;% endraw %}

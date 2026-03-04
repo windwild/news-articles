@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've improved the developer experience by introducing three updates that apply to all users on Hobby, Pro, and Enterprise plans."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 18, 2020
 
@@ -67,4 +67,4 @@ We’ve recently added two advanced Next.js templates, _Next.js Commerce_ and _V
 We’re committed to continue enhancing your experience as a developer on Vercel, thank you for your support and feedback!
 
 我们始终致力于持续优化您在 Vercel 平台上的开发者体验。感谢您的支持与宝贵反馈！
-{% endraw %}
+&#123;% endraw %}

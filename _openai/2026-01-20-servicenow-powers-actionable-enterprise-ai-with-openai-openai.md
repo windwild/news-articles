@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 20, 2026
 
@@ -86,4 +86,4 @@ ServiceNow 进一步拓展了 OpenAI 在全球范围内与规模最大、历史�
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

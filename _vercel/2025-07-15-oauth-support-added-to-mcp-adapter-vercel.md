@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's open-source MCP adapter now supports the latest MCP Authorization spec—letting you securely ship, OAuth-enabled MCP servers."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 15, 2025
 
@@ -166,4 +166,4 @@ Get started building your first MCP server on Vercel.
 
 Deploy now  
 立即部署](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js)
-{% endraw %}
+&#123;% endraw %}

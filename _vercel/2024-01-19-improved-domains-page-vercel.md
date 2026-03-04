@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 19, 2024
 
@@ -21,4 +21,4 @@ Jan 19, 2024
 您现在可以更便捷地根据域名的续订状态进行筛选，同时还能轻松查看针对单个域名执行配置、转移、迁移或删除等操作的选项。
 
 [查阅文档](https://vercel.com/docs/concepts/projects/domains/renew-a-domain) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

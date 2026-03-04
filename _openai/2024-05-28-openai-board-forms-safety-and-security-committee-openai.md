@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 28, 2024
 
@@ -38,4 +38,4 @@ Additionally, OpenAI will retain and consult with other safety, security, and te
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [Policies and Procedures](https://openai.com/news/?tags=policies-procedures)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

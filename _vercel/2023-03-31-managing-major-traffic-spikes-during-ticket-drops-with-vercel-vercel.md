@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Shotgun"
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 31, 2023
 
@@ -92,4 +92,4 @@ Get in touch](https://vercel.com/contact)
 联系专家，探讨如何提升您自身网站的性能表现。\\  
 \\  
 立即联系](https://vercel.com/contact)
-{% endraw %}
+&#123;% endraw %}

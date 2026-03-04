@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 22, 2022
 
@@ -31,4 +31,4 @@ With your feedback, we've shipped dozens of bug fixes and small feature requests
 - **用量汇总（Usage summaries）：** 免费版（Hobby）账户的[用量汇总](https://vercel.com/docs/concepts/limits/usage)现已可在「账户设置 → 账单」（Account Settings → Billing）中查看。
 
 - **移动端分支 URL（Branch URLs on mobile）：** 部署概览页面现已支持弹出式菜单，其中列出所有[分支 URL](https://vercel.com/docs/concepts/deployments/generated-urls#automatic-branch-urls)，方便您在移动设备上快速访问。
-{% endraw %}
+&#123;% endraw %}

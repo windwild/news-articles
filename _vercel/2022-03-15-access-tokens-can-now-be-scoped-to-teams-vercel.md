@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 15, 2022
 
@@ -21,4 +21,4 @@ Mar 15, 2022
 此项改进为通过 Vercel CLI 或 API 扩展 Vercel 平台的用户提供了更强的安全性与更精细的权限控制。
 
 也欢迎查阅[相关文档](https://vercel.com/docs/rest-api#introduction/api-basics/authentication)。
-{% endraw %}
+&#123;% endraw %}

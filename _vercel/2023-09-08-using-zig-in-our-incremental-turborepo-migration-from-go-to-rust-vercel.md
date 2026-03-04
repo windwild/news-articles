@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "In this Turborepo migration update, we explore the innovative strategies, such as the \"Go Sandwich\" approach and leveraging Zig's cross-compilation, guiding our gradual shift from Go to Rust, aiming t..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 8, 2023
 
@@ -281,4 +281,4 @@ Deploy this template
 Turborepo & Next.js Starter
 
 Turborepo 与 Next.js 入门模板
-{% endraw %}
+&#123;% endraw %}

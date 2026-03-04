@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Observability Plus subscribers now get 30 days of runtime log retention in the Logs page within the Vercel dashboard"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 26, 2025
 
@@ -27,4 +27,4 @@ Aug 26, 2025
 [Runtime Logs](https://vercel.com/docs/logs/runtime)
 
 [运行时日志](https://vercel.com/docs/logs/runtime)
-{% endraw %}
+&#123;% endraw %}

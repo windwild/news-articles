@@ -9,7 +9,7 @@ translated: false
 description: "Our latest research finds we can improve language model behavior with respect to specific behavioral values by fine-tuning on a small, curated dataset."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 10, 2021
 
@@ -127,4 +127,4 @@ Read more about the GPT-3 model and its training data in the [GPT-3 Model Card�
 
 6. F
 Our research experimented with a question–answer format.
-{% endraw %}
+&#123;% endraw %}

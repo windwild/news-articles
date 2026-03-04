@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fluid compute on Vercel combines serverless efficiency with server-like flexibility, reducing cold starts and cutting compute costs by up to 85%. Scale intelligently, minimize latency, and optimize pe..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 4, 2025
 
@@ -130,4 +130,4 @@ Learn more in the [changelog](https://vercel.com/changelog/vercel-functions-can-
 _Acknowledgments: While Fluid is a new compute model, it builds on previous work in the community. We'd like to acknowledge products like Google Cloud Run, and other autoscaling server infrastructure, which has approached solving these problems in similar ways._
 
 _致谢：尽管 Fluid 是一种全新的计算模型，但它建立在社区已有工作的基础之上。我们特别感谢 Google Cloud Run 等产品，以及其它支持自动扩缩容的服务器基础设施——它们以类似方式探索并解决了此类问题。_
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 20, 2022
 
@@ -33,4 +33,4 @@ While existing Deployments with Serverless Functions using the Node.js 12 runtim
 Check out [the documentation](https://vercel.com/docs/runtimes#official-runtimes/node-js/node-js-version) as well.
 
 也请参阅相关 [文档](https://vercel.com/docs/runtimes#official-runtimes/node-js/node-js-version)。
-{% endraw %}
+&#123;% endraw %}

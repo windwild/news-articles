@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "New research reveals how ChatGPT, Claude, and other AI crawlers process web content, including JavaScript rendering, assets, and other behavior and patterns—with recommendations for site owners, dev..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 17, 2024
 
@@ -347,4 +347,4 @@ Jul 31, 2024
 Giacomo, Alice, and 2 others
 
 贾科莫、爱丽丝及另外两位作者
-{% endraw %}
+&#123;% endraw %}

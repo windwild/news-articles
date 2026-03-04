@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "AI Chat is now live on Vercel docs. Ask questions, load docs as context for page-aware answers, and copy chats as Markdown for easy sharing."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 24, 2025
 
@@ -41,4 +41,4 @@ We're excited to announce that [**AI Chat**](https://vercel.com/docs) is now liv
 
 - Use the **Ask AI about this page** at the top of each docs page to load a page as context for focused learning, or copy the conversation as Markdown to share with your team.  
 - 在每篇文档页面顶部使用 **Ask AI about this page（就本页向 AI 提问）** 功能，可将当前页面自动加载为上下文，助力深度学习；也可将整段对话复制为 Markdown，方便与团队共享。
-{% endraw %}
+&#123;% endraw %}

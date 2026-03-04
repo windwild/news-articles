@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Analysis provides insights into ChatGPT’s impact on the economy. OpenAI also launches new research collaboration to study AI’s broader effects on the labor market and productivity."
 ---
-{% raw %}
+&#123;% raw %}
 
 July 22, 2025
 
@@ -45,4 +45,4 @@ Our task isn’t to stop this change, but to guide it. History shows that new te
 You can read our first look at ChatGPT‑driven productivity [here⁠(opens in a new window)](https://cdn.openai.com/global-affairs/be0fe9e0-eb97-43d1-9614-99f2bd948bcc/OpenAI_Productivity-Note_Jul-2025.pdf).
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

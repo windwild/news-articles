@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Next.js 5.1 features support for environment configuration, phases, source maps, and new Next.js plugins."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 26, 2018
 
@@ -349,4 +349,4 @@ If you are looking to start contributing to Next.js you can find issues with the
 A special thank you to Trulia for their valuable feedback related to environment configuration and the new error page handling.
 
 特别感谢 Trulia 团队就环境配置及全新错误页面处理机制所提供的宝贵反馈。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Today, we&apos;re expanding what you can do with LangSmith Agent Builder. It&#x2019;s an big update built around a simple idea: working with an agent should feel like working with a teammate.We rebuil..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Today, we're expanding what you can do with [LangSmith Agent Builder](https://www.langchain.com/langsmith/agent-builder?ref=blog.langchain.com). It’s an big update built around a simple idea: working with an agent should feel like working with a teammate.
 
@@ -157,4 +157,4 @@ If you haven't tried Agent Builder yet, this is a great time to start. And if yo
 [Try Agent Builder free](https://smith.langchain.com/agents?skipOnboarding=true&ref=blog.langchain.com).
 
 [免费试用 Agent Builder](https://smith.langchain.com/agents?skipOnboarding=true&ref=blog.langchain.com)。
-{% endraw %}
+&#123;% endraw %}

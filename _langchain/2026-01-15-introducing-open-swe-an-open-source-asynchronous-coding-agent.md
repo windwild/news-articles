@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:14:40.759571411+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 The use of AI in software engineering has evolved over the past two years. It started as autocomplete, then went to a copilot in an IDE, and in the fast few months has evolved to be a long running, more end-to-end agent that run asynchronously in the cloud.
 
@@ -187,4 +187,4 @@ Open SWE 是一个复杂的多智能体系统。让该系统真正具备实用�
 - [**GitHub 仓库**](https://github.com/langchain-ai/open-swe?ref=blog.langchain.com)  
 - [**文档**](https://github.com/langchain-ai/open-swe/tree/main/apps/docs?ref=blog.langchain.com)  
 - [**YouTube 视频发布预告**](https://youtu.be/TaYVvXbOs8c?ref=blog.langchain.com)
-{% endraw %}
+&#123;% endraw %}

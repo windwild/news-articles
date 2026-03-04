@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:11:33.087385178+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 ## Learn to implement an open-source Mixtral agent that interacts with a graph database Neo4j through a semantic layer
 
@@ -114,7 +114,7 @@ The only values that should be in the "action" field are: {tool_names}
 The $JSON_BLOB should only contain a SINGLE action, do NOT return a list of multiple actions. Here is an example of a valid $JSON_BLOB:
 
 ```
-{{
+&#123;{
 "action": $TOOL_NAME,
 "action_input": $INPUT
 }}
@@ -133,7 +133,7 @@ The $JSON_BLOB should only contain a SINGLE action, do NOT return a list of mult
 `$JSON_BLOB` 中**只能包含单个动作**，切勿返回多个动作组成的列表。以下是一个合法的 `$JSON_BLOB` 示例：
 
 ```
-{{
+&#123;{
 "action": $TOOL_NAME,
 "action_input": $INPUT
 }}
@@ -159,7 +159,7 @@ The prompt starts by defining the available tools, which we will get to a bit la
 提示词首先定义了可用的工具（我们稍后会详细介绍）。提示词中最重要的部分，是明确指示大语言模型（LLM）应以何种格式输出结果。当 LLM 需要调用某个函数时，必须使用以下 JSON 结构：
 
 ```  
-{{  
+&#123;{  
   "action": $TOOL_NAME,  
   "action_input": $INPUT  
 }}  
@@ -197,14 +197,14 @@ In my experiments, when it didn’t want to use any tools, it sometimes used the
 在我的实验中，当模型不打算调用任何工具时，它有时会输出如下 JSON 动作输入：
 
 ```
-{{
+&#123;{
   "action": Null,
   "action_input": ""
 }}
 ```
 
 ```
-{{
+&#123;{
   "action": Null,
   "action_input": ""
 }}
@@ -435,4 +435,4 @@ Most of the work to implement the JSON-based agent was done by Harrison Chase an
 The [code is available as a Langchain template](https://github.com/langchain-ai/langchain/tree/master/templates/neo4j-semantic-ollama?ref=blog.langchain.com) and as a [Jupyter notebook](https://github.com/tomasonjo/blogs/blob/master/llm/ollama_semantic_layer.ipynb?ref=blog.langchain.com).
 
 代码以 Langchain 模板形式提供：[点击访问](https://github.com/langchain-ai/langchain/tree/master/templates/neo4j-semantic-ollama?ref=blog.langchain.com)，同时也提供 [Jupyter Notebook 版本](https://github.com/tomasonjo/blogs/blob/master/llm/ollama_semantic_layer.ipynb?ref=blog.langchain.com)。
-{% endraw %}
+&#123;% endraw %}

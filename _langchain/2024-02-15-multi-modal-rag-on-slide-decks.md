@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:12:34.906060910+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 ## Key Links
 
@@ -120,4 +120,4 @@ To ease testing of multi-modal RAG application for this use-case, we are releasi
 
 Multi-modal LLMs have potential to unlock the visual content in slide decks for RAG applications. We build a public benchmark evaluation set of question-answer pairs on an investor presentation slide deck for Datadog ( [here](https://investors.datadoghq.com/static-files/986ca4cd-9507-4c9d-b56f-4bae59d3dd47?ref=blog.langchain.com)). We tested multi-modal RAG using two approaches on this benchmark. We found that both exceed the performance of text-only RAG. We identified trade-offs between approaches for multi-modal RAG: text summarization of each slide can improve retrieval but comes at the cost of pre-generating summaries of each slide. Multi-model are likely to have a higher performance ceiling, but current options are somewhat limited and, in our test, under-perform text summarization. To aid in the testing and deployment of multi-modal RAG apps, we also are releasing a [template](https://templates.langchain.com/?integration_name=rag-chroma-multi-modal&ref=blog.langchain.com).  
 多模态大语言模型（Multi-modal LLMs）有望充分释放幻灯片中的视觉信息价值，赋能 RAG 应用。为此，我们构建了一个面向 Datadog 投资者财报演示文稿的公开基准评测数据集（含问答对），详见[此处](https://investors.datadoghq.com/static-files/986ca4cd-9507-4c9d-b56f-4bae59d3dd47?ref=blog.langchain.com)。我们在该基准上测试了两种多模态 RAG 方法，结果表明：二者性能均明显优于纯文本 RAG。我们进一步识别出不同方法间的权衡取舍：对每张幻灯片生成文本摘要虽可提升检索效果，但需额外投入资源预先生成所有摘要；而多模态模型理论上具备更高的性能上限，但目前可用选项仍较有限，且在我们的实测中，其表现尚不及文本摘要方案。为支持多模态 RAG 应用的测试与部署，我们同步发布了上述[模板](https://templates.langchain.com/?integration_name=rag-chroma-multi-modal&ref=blog.langchain.com)。
-{% endraw %}
+&#123;% endraw %}

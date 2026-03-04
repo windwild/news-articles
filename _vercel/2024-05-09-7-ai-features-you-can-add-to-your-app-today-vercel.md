@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Discover how AI is transforming businesses with Vercel. Learn about easy LLM integration, 7 game-changing applications, and how to implement AI features to boost user experience and growth."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 9, 2024
 
@@ -473,4 +473,4 @@ Vercel.com 首页
 ![](images/7-ai-features-you-can-add-to-your-app-today-vercel/img_001.jpg)
 
 Malte Ubl
-{% endraw %}
+&#123;% endraw %}

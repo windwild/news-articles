@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Vercel protects the AI SDK Playground using our best-in-class DDoS mitigation, Next.js Middleware, and our partner Kasada."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 22, 2024
 
@@ -176,4 +176,4 @@ Talk with an Expert](https://vercel.com/contact/sales)
 深入了解 Vercel 为关键应用提供的强大安全防护与 DDoS 缓解方案。\\
 \\
 联系专家](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

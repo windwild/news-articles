@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now apply suggested code fixes from the Vercel Agent directly from the Vercel Dashboard with a single click."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 21, 2026
 
@@ -49,4 +49,4 @@ Vercel Agent — 跟踪并发的 Agent 任务
 Get started with Vercel Agent code review in the [Agent dashboard](https://vercel.com/~/agent), or learn more in the [documentation](https://vercel.com/docs/agent).
 
 请在 [Agent 控制台](https://vercel.com/~/agent) 中开始使用 Vercel Agent 进行代码审查，或参阅 [文档](https://vercel.com/docs/agent) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

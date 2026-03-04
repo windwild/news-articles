@@ -9,7 +9,7 @@ translated: true
 description: "See how Acxiom debugged their agent application with LangSmith and built a scalable solution for their user base, complete with long-term memory, dynamic updates, and attribute-specific search."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [Acxiom](https://www.acxiom.com/?ref=blog.langchain.com) ® 是全球客户智能与 AI 驱动型数据营销领域的领导者。作为宏盟集团（Interpublic, Inc.，IPG）旗下企业，Acxiom 专注于高性能解决方案，助力全球顶级品牌与广告代理机构提升客户获取与留存能力，并驱动业务增长。依托其 AI 赋能的身份识别基础架构、基于云的数据管理平台，以及营销技术（martech）与分析服务，Acxiom 已彻底重塑全渠道营销战略与执行方式。五十多年来，Acxiom 分布于美国、英国、德国、中国、波兰和墨西哥的团队持续帮助各类企业优化营销与广告投入，同时始终将客户隐私保护置于首位。
 
@@ -139,4 +139,4 @@ By integrating with LangSmith, Acxiom successfully overcame the challenges of bu
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

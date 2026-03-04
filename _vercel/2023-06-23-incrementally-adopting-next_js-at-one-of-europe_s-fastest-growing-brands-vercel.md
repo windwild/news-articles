@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "reMarkable goes composable "
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 23, 2023
 
@@ -156,4 +156,4 @@ Deploy this template
 Sanity + Next.js Clean App
 
 Sanity + Next.js 简洁应用
-{% endraw %}
+&#123;% endraw %}

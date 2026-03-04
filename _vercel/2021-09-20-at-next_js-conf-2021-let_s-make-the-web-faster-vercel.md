@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Join us for Next.js Conf on October 26, 2021. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 20, 2021
 
@@ -47,4 +47,4 @@ Please email `conf+sponsor@nextjs.org` to learn how you can sponsor Next.js Conf
 Claim your ticket at [nextjs.org/conf](https://nextjs.org/conf) and check back for more announcements and updates. We’ll see you soon!
 
 请前往 [nextjs.org/conf](https://nextjs.org/conf) 免费领取参会门票，并随时关注后续公告与更新。期待与您相见！
-{% endraw %}
+&#123;% endraw %}

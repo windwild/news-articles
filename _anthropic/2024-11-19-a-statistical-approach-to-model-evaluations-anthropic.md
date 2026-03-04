@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
-{% raw %}
+&#123;% raw %}
 
 Evaluations
 
@@ -179,4 +179,4 @@ Statistics can only form one aspect of a science of evals—but a critical one, 
 We hope that the recommendations in our paper [**Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations**](https://arxiv.org/abs/2411.00640) will help AI researchers calculate, interpret, and communicate eval numbers with greater precision and clarity than before—and we encourage researchers in the AI community to explore other techniques from experiment design so that they may understand more exactly all the things that they want to measure.  
 
 我们希望，本文提出的建议——[**为评估添加误差棒：面向大语言模型评估的统计学方法**](https://arxiv.org/abs/2411.00640)——能够帮助人工智能研究者比以往更精确、更清晰地计算、解读和传达评估结果；同时，我们也鼓励人工智能领域的研究者进一步探索实验设计中的其他技术，从而更准确地理解所有他们希望测量的对象。
-{% endraw %}
+&#123;% endraw %}

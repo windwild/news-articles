@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI has grown a lot. We remain focused on the same core—pursuing frontier AI research that accelerates human progress–but we now also deliver products used by hundreds of millions of people."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 24, 2025
 
@@ -38,4 +38,4 @@ As we scale, I am proud to announce three of our leaders are taking on additiona
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
-{% endraw %}
+&#123;% endraw %}

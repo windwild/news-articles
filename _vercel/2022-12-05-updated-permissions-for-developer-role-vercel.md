@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 5, 2022
 
@@ -31,4 +31,4 @@ We suggest Enterprise plan customers review their policies in their Git environm
 Learn more about [Enterprise team roles and permissions](https://vercel.com/docs/teams-and-accounts/team-members-and-roles#enterprise-team-roles).
 
 了解更多关于 [Enterprise 团队角色与权限](https://vercel.com/docs/teams-and-accounts/team-members-and-roles#enterprise-team-roles) 的信息。
-{% endraw %}
+&#123;% endraw %}

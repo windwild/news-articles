@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn more about how Rox runs global, AI-driven sales ops on fast, reliable infrastructure thanks to Vercel"
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 16, 2025
 
@@ -129,4 +129,4 @@ Talk to our team to learn more about building AI-powered applications at your or
 
 Contact Us  
 联系我们](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

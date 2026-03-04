@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 6, 2024
 
@@ -39,4 +39,4 @@ This functionality is currently in beta and available to users on all plans.
 If you're a feature flag provider and interested in integrating with the Vercel Toolbar, [contact us](https://vercel.com/help).
 
 如果您是特性开关服务提供商，且有意与 Vercel 工具栏集成，请[联系我们](https://vercel.com/help)。
-{% endraw %}
+&#123;% endraw %}

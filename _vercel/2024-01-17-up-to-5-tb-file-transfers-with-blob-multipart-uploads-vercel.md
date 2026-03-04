@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 17, 2024
 
@@ -47,4 +47,4 @@ Network output is maximized without consuming too much memory. Multipart uploads
 [Check out the documentation](https://vercel.com/docs/storage/vercel-blob/using-blob-sdk#upload) to learn more.
 
 [查看文档](https://vercel.com/docs/storage/vercel-blob/using-blob-sdk#upload) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

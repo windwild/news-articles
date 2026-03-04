@@ -9,7 +9,7 @@ translated: false
 description: "We’ve co-authored a paper that forecasts how malicious actors could misuse AI technology, and potential ways we can prevent and mitigate these threats. This paper is the outcome of almost a year of ..."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 20, 2018
 
@@ -35,4 +35,4 @@ Like our work on [concrete problems in AI safety⁠](https://openai.com/index/c
 We’re excited to start having this discussion with our peers, policymakers, and the general public; we’ve spent the last two years researching and solidifying our internal policies at OpenAI and are going to begin engaging a wider audience on these issues. We’re especially keen to [work with more⁠](https://openai.com/careers/) researchers that see themselves contributing to the policy debates around AI as well as making research breakthroughs.
 
 - [Ethics & Safety](https://openai.com/research/index/?tags=ethics-safety)
-{% endraw %}
+&#123;% endraw %}

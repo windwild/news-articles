@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Last week, we published CVE-2025-29927 and patched a critical severity vulnerability in Next.js. Here’s our post-incident analysis and next steps."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 25, 2025
 
@@ -201,4 +201,4 @@ Next.js 使用一个内部的 `x-middleware-subrequest` 请求头来检测并防
 Thank you to security researchers Rachid Allam ( [zhero](https://x.com/zhero___)) and Yassir Alam ( [inzo\_](https://x.com/inzo____)) for responsibly disclosing this issue to our team. These researchers were awarded payouts as part of our bug bounty program.
 
 衷心感谢安全研究员 Rachid Allam（[zhero](https://x.com/zhero___)）和 Yassir Alam（[inzo\_](https://x.com/inzo____)）向我方团队负责任地披露此问题。两位研究员已根据我们的漏洞赏金计划获得相应奖励。
-{% endraw %}
+&#123;% endraw %}

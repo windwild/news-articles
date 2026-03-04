@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn about the docs refresh for LangChain v0.2. There's now versioned docs and a clearer structure — with tutorials, how-to guides, conceptual guides, and API docs"
 ---
-{% raw %}
+&#123;% raw %}
 
 **_LangChain v0.2 现已向所有用户开放（有关此次发布的动机与详细信息，请点击此处了解_** [**_详情_**](https://blog.langchain.com/langchain-v02-leap-to-stability/) **_）。本次发布的一大亮点是我们的文档全面焕新。我们想借此机会，详细介绍此次文档更新的具体内容，并特别感谢社区成员长期以来的积极反馈与推动。_**
 
@@ -104,4 +104,4 @@ Improving the docs has been a team and community effort at LangChain. A big shou
 **_LangChain v0.2 is all about improving stability and discoverability. Check out the new docs (_** [**_Python_**](https://python.langchain.com/v0.2/docs/introduction/?ref=blog.langchain.com) **_and_** [**_JS_**](https://js.langchain.com/v0.2/docs/introduction/?ref=blog.langchain.com) **_) – and drop us a line in_** [**_GitHub_**](https://github.com/langchain-ai/langchain/discussions/21716?ref=blog.langchain.com) **_. You can also read more about LangChain v0.2_** [**_here_**](https://blog.langchain.com/langchain-v02-leap-to-stability/) **_._**
 
 **LangChain v0.2 的核心目标是提升稳定性与可发现性。欢迎访问全新文档：**[**Python 版本**](https://python.langchain.com/v0.2/docs/introduction/?ref=blog.langchain.com) **与** [**JS 版本**](https://js.langchain.com/v0.2/docs/introduction/?ref=blog.langchain.com) **——也欢迎随时在** [**GitHub 讨论区**](https://github.com/langchain-ai/langchain/discussions/21716?ref=blog.langchain.com) **与我们交流！您还可点击此处** [**进一步了解 LangChain v0.2**](https://blog.langchain.com/langchain-v02-leap-to-stability/) **。**
-{% endraw %}
+&#123;% endraw %}

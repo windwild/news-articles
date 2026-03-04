@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Gemini 3 Pro Preview model, released today, is now available through AI Gateway and in production on v0.app."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 18, 2025
 
@@ -108,4 +108,4 @@ You can also build your own custom interface using your framework of choice, [AI
 [Vercel AI Cloud](https://vercel.com/ai) is built for developers shaping how software is created, including building with the technology that's at the forefront of AI like the latest models.
 
 [Vercel AI Cloud](https://vercel.com/ai) 专为塑造软件开发方式的开发者而打造，涵盖使用处于 AI 前沿的最新技术（例如最新大模型）进行构建的各类场景。
-{% endraw %}
+&#123;% endraw %}

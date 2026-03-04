@@ -9,7 +9,7 @@ translated: false
 description: "Our second class of OpenAI Scholars has concluded, with all eight scholars producing an exciting final project showcased at Scholars Demo Day at OpenAI."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 May 23, 2019
 
@@ -255,4 +255,4 @@ CompanyMar 8, 2024](https://openai.com/index/openai-announces-new-members-to-boa
 CompanyMar 8, 2024](https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai/)
 
 OpenAI Scholars 2019: Final projects \| OpenAI
-{% endraw %}
+&#123;% endraw %}

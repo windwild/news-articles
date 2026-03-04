@@ -9,7 +9,7 @@ translated: false
 description: "Our latest robotics techniques allow robot controllers, trained entirely in simulation and deployed on physical robots, to react to unplanned changes in the environment as they solve simple tasks. Tha..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 19, 2017
 
@@ -59,4 +59,4 @@ A naive feed-forward policy is unable to adapt to the real-world puck environmen
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
-{% endraw %}
+&#123;% endraw %}

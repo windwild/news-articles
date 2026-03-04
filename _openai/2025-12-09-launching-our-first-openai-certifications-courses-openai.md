@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 9, 2025
 
@@ -51,4 +51,4 @@ Together, these two programs connect learning, certification, and real economic 
 We’re building fast, learning with partners, and expanding carefully—and we’re just getting started.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

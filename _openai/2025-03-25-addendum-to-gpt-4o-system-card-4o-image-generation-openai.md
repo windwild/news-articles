@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "4o image generation is a new, significantly more capable image generation approach than our earlier DALL·E 3 series of models. It can create photorealistic output. It can take images as inputs and tr..."
 ---
-{% raw %}
+&#123;% raw %}
 
 March 25, 2025
 
@@ -26,4 +26,4 @@ March 25, 2025
 4o image generation benefits from our existing safety infrastructure, and from lessons we have learned deploying DALL·E and Sora. At the same time, these new capabilities also bring some new risks. This addendum to the GPT‑4o system card describes the marginal risks we’ve focused on, and the work we have done to address them.
 
 - [System Cards](https://openai.com/research/index/?tags=system-cards)
-{% endraw %}
+&#123;% endraw %}

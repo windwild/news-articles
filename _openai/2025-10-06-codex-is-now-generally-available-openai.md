@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier ..."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 6, 2025
 
@@ -99,4 +99,4 @@ Starting October 20, Codex cloud tasks will also begin counting towards your Cod
 
 - [2025](https://openai.com/news/?tags=2025)
 - [Codex](https://openai.com/news/?tags=codex)
-{% endraw %}
+&#123;% endraw %}

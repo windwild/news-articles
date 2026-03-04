@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 6, 2022
 
@@ -29,4 +29,4 @@ All new integrations are required to select which API scopes they need access to
 Check out [the documentation](https://vercel.com/docs/integrations/reference#using-the-vercel-api/scopes) as well.
 
 也欢迎查阅 [相关文档](https://vercel.com/docs/integrations/reference#using-the-vercel-api/scopes)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 11, 2024
 
@@ -37,4 +37,4 @@ Jan 11, 2024
 5. 您现在即可使用通行密钥登录
 
 [了解更多](https://vercel.com/docs/accounts/create-an-account#login-with-passkeys) 请参阅我们的文档。
-{% endraw %}
+&#123;% endraw %}

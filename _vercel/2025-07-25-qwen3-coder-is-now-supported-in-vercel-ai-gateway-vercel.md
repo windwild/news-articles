@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access Qwen3 Coder, a model from QwenLM, an Alibaba Cloud company, designed to handle complex, multi-step coding workflows, using Vercel's AI Gateway with no other provider accounts requir..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 25, 2025
 
@@ -79,4 +79,4 @@ To deliver high performance and reliability to Qwen3 Coder, AI Gateway leverages
 Learn more about [AI Gateway](https://vercel.com/docs/ai-gateway).
 
 了解更多关于 [AI Gateway](https://vercel.com/docs/ai-gateway) 的信息。
-{% endraw %}
+&#123;% endraw %}

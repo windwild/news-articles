@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 17, 2022
 
@@ -35,4 +35,4 @@ Feb 17, 2022
 Starting today when deployed to Vercel, on-demand revalidation propagates globally in ~300ms when pushing pages to the edge. [Read the 12.1 blog post](https://nextjs.org/blog/next-12-1) to learn more.
 
 从今天起，当部署到 Vercel 时，按需重新验证（on-demand revalidation）在将页面推送至边缘节点时，可在约 300 毫秒内全局生效。[阅读 12.1 版本博客文章](https://nextjs.org/blog/next-12-1) 了解详情。
-{% endraw %}
+&#123;% endraw %}

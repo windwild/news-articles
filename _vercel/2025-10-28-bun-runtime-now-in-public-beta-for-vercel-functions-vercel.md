@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The Bun runtime is now available in Public Beta for Vercel Functions. Benchmarks show Bun reduced average latency by 28% for CPU-bound Next.js rendering compared to Node.js."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 28, 2025
 
@@ -116,4 +116,4 @@ Bun 部署自动与 Vercel 现有的日志记录、可观测性和监控系统�
 See [benchmarks in our blog post](https://vercel.com/blog/bun-runtime-on-vercel-functions), or [read the docs to learn more](https://vercel.com/docs/functions/runtimes/bun).
 
 请参阅[我们博客文章中的性能基准测试](https://vercel.com/blog/bun-runtime-on-vercel-functions)，或[阅读文档以了解更多信息](https://vercel.com/docs/functions/runtimes/bun)。
-{% endraw %}
+&#123;% endraw %}

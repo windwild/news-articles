@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Find out which ai crawlers or search engines are scraping your content. Act later on using Vercel Firewall if wanted"
 ---
-{% raw %}
+&#123;% raw %}
 
 May 7, 2025
 
@@ -40,4 +40,4 @@ Additionally, Observability Plus users can:
 Inspect bot and crawler activity in [your Observability dashboard](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fobservability%2Fedge-requests?tab=botId&title=Edge%20Requests%20by%20Bot%20Name) now.
 
 立即前往[您的 Observability 仪表板](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fobservability%2Fedge-requests?tab=botId&title=Edge%20Requests%20by%20Bot%20Name)，检查机器人与爬虫活动。
-{% endraw %}
+&#123;% endraw %}

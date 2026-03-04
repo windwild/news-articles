@@ -9,7 +9,7 @@ translated: false
 description: "We’re releasing Universe, a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 5, 2016
 
@@ -265,4 +265,4 @@ We’re compiling a large dataset of human demonstrations on Universe environmen
 - [Exploration & Games](https://openai.com/research/index/?tags=exploration-game)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
-{% endraw %}
+&#123;% endraw %}

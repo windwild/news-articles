@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "We’re releasing gpt-oss-120b and gpt-oss-20b—two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 licens..."
 ---
-{% raw %}
+&#123;% raw %}
 
 August 5, 2025
 
@@ -244,4 +244,4 @@ A healthy open model ecosystem is one dimension to helping make AI widely access
 \
 - [2025](https://openai.com/research/index/?tags=2025)\
 \
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Agent code reviews now read AGENTS.md, CLAUDE.md, .cursorrules, and other guideline formats from your repository. No configuration required."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 6, 2026
 
@@ -23,4 +23,4 @@ Jan 6, 2026
 Agent 将自动识别并应用这些编码规范，从而为您的代码库提供上下文相关的反馈。
 
 无需任何配置。了解更多关于[编码规范](https://vercel.com/docs/agent/pr-review#code-guidelines)的信息。
-{% endraw %}
+&#123;% endraw %}

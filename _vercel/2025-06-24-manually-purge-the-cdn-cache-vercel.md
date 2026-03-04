@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's CDN Cache can now be purged with the click of a button in the dashboard or by running a CLI command, vercel cache purge --type=cdn, using version 44.2.0 or newer."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 24, 2025
 
@@ -31,4 +31,4 @@ This is especially useful for persistent cache scenarios, like **Image Optimizat
 Learn more in the [documentation](https://vercel.com/docs/edge-cache#manually-purging-edge-cache).
 
 更多详情，请参阅 [文档](https://vercel.com/docs/edge-cache#manually-purging-edge-cache)。
-{% endraw %}
+&#123;% endraw %}

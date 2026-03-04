@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to..."
 ---
-{% raw %}
+&#123;% raw %}
 
 January 2, 2026
 
@@ -109,4 +109,4 @@ The first and last week of the program take place in San Francisco. We will cove
 OpenAI Grove is designed for founders at the very earliest stages—whether you’re pre-idea, just starting out, or preparing to launch a company. [Pioneers](https://openai.com/index/openai-pioneers-program/) and [OpenAI for Startups](https://openai.com/startups/) are for established companies building in a specific domain.
 
 OpenAI Grove 面向处于最早期阶段的创始人——无论您尚处于“想法萌芽期”、刚刚起步，还是正准备正式创立公司。而 [Pioneers](https://openai.com/index/openai-pioneers-program/) 和 [OpenAI for Startups](https://openai.com/startups/) 则面向已在特定领域开展业务的成熟企业。
-{% endraw %}
+&#123;% endraw %}

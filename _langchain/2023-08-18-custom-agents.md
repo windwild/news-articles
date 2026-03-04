@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 One of the most common requests we've heard is better functionality and documentation for creating custom agents.  
 我们听到的最常见需求之一，是增强创建自定义 Agent 的功能与文档支持。
@@ -232,4 +232,4 @@ If any of those sound interesting, we are always willing to work with folks to i
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

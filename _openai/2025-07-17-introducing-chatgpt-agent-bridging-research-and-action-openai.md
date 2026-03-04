@@ -9,7 +9,7 @@ translated: false
 description: "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 17, 2025
 
@@ -212,4 +212,4 @@ Play video
 
 - [2025](https://openai.com/news/?tags=2025)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
-{% endraw %}
+&#123;% endraw %}

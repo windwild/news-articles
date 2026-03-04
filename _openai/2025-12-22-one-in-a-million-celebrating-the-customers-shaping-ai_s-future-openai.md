@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moder..."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 22, 2025
 
@@ -155,4 +155,4 @@ Read more
 [联系我们的团队](https://openai.com/contact-sales/)
 
 百万中的一位：致敬塑造人工智能未来的客户 \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Configure custom DNS Records for your Domains and apply presets. Right in the Web UI."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 23, 2020
 
@@ -82,4 +82,4 @@ For more details, check out the [documentation](https://vercel.com/docs/v2/custo
 [Let us know](https://zeit.co/contact) what you think about this change and if there are any DNS Records Presets you'd like to see us add. We're excited to help you succeed.
 
 欢迎通过 [联系我们](https://zeit.co/contact) 告知我们您对本次更新的看法，以及您希望我们后续支持的 DNS 记录预设类型。我们非常期待助您取得成功！
-{% endraw %}
+&#123;% endraw %}

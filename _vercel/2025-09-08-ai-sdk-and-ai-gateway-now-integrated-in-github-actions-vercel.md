@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access the AI SDK and AI Gateway with the vercel/ai-action@v2 GitHub Action.  Use it to generate text or structured JSON directly in your workflows by configuring a prompt, model, and api-..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 8, 2025
 
@@ -64,9 +64,9 @@ jobs:
 
 12          模型："openai/gpt-5"
 
-13          api-key: ${{ secrets.AI_GATEWAY_API_KEY }}
+13          api-key: $&#123;{ secrets.AI_GATEWAY_API_KEY }}
 
-13          API 密钥：${{ secrets.AI_GATEWAY_API_KEY }}
+13          API 密钥：$&#123;{ secrets.AI_GATEWAY_API_KEY }}
 
 14          prompt: |
 
@@ -76,29 +76,29 @@ jobs:
 
 15            这是否是一个紧急问题？如果该问题正阻碍用户执行某项关键操作，请回答“yes”。
 
-17            Issue Title: ${{ github.event.issue.title }}
+17            Issue Title: $&#123;{ github.event.issue.title }}
 
-17            问题标题：${{ github.event.issue.title }}
+17            问题标题：$&#123;{ github.event.issue.title }}
 
-19            Issue Body: ${{ github.event.issue.body }}
+19            Issue Body: $&#123;{ github.event.issue.body }}
 
-19            问题正文：${{ github.event.issue.body }}
-
-20      - if: steps.prompt.outputs.text == 'yes'
+19            问题正文：$&#123;{ github.event.issue.body }}
 
 20      - if: steps.prompt.outputs.text == 'yes'
 
-21        run: gh issue edit ${{ github.event.issue.html_url }} --add-label urgent
+20      - if: steps.prompt.outputs.text == 'yes'
 
-21        run: gh issue edit ${{ github.event.issue.html_url }} --add-label urgent
+21        run: gh issue edit $&#123;{ github.event.issue.html_url }} --add-label urgent
+
+21        run: gh issue edit $&#123;{ github.event.issue.html_url }} --add-label urgent
 
 22        env:
 
 22        env:
 
-23          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+23          GH_TOKEN: $&#123;{ secrets.GITHUB_TOKEN }}
 
-23          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+23          GH_TOKEN: $&#123;{ secrets.GITHUB_TOKEN }}
 ```
 
 Learn more and see examples in the [Github Actions marketplace](https://github.com/marketplace/actions/vercel-ai) or [view the source code](https://github.com/vercel/ai-action).
@@ -116,4 +116,4 @@ Get an API Key](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fai%2Fapi-keys%3Fut
 通过单一端点统一访问数百种 AI 模型，支持自动故障转移、简化的身份验证，且无需管理 API 密钥。\\
 \\
 获取 API 密钥](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fai%2Fapi-keys%3Futm_source%3Dai_gateway_landing_page&title=Get+an+API+Key)
-{% endraw %}
+&#123;% endraw %}

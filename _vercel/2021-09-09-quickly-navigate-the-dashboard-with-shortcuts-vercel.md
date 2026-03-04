@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 9, 2021
 
@@ -29,4 +29,4 @@ Sep 9, 2021
 - **新建项目**：基于现有 Git 仓库或模板创建新项目
 
 也欢迎查阅[相关文档](https://vercel.com/docs/personal-accounts/command-menu)。
-{% endraw %}
+&#123;% endraw %}

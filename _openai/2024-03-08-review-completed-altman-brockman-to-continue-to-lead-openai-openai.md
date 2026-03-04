@@ -9,7 +9,7 @@ translated: false
 description: "New board members named and enhancements to the governance structure introduced "
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 8, 2024
 
@@ -63,4 +63,4 @@ The Special Committee is pleased to conclude this review and looks forward to co
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

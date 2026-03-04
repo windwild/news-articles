@@ -9,7 +9,7 @@ translated: false
 description: "We’re open-sourcing a high-performance Python library for robotic simulation using the MuJoCo engine, developed over our past year of robotics research."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 28, 2017
 
@@ -77,4 +77,4 @@ For advanced users, we provide a number of lower-level interfaces for accessing 
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Software & Engineering](https://openai.com/research/index/?tags=software-engineering)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: true
 description: "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 20, 2026
 
@@ -108,4 +108,4 @@ Cisco 基于真实生产环境中的持续使用，向 OpenAI 提供了大量反
 —Brad Murphy，思科 Splunk 工程团队副总裁
 
 在接下来的数月里，Cisco 与 OpenAI 将继续围绕 Codex 及更广泛的 AI 工程能力开展紧密协作，共同推进双方的共同使命：在企业级规模上实现原生 AI 工程（AI-native engineering）。
-{% endraw %}
+&#123;% endraw %}

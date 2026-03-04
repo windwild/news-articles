@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes", "![Deep Agents", "**Deep Agents**"]
 ---
-{% raw %}
+&#123;% raw %}
 
 **TL;DR**
 
@@ -327,4 +327,4 @@ If you're building agents and you don't have this, you're working blind. The log
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 3 分钟阅读
 
 [Harrison 的热评](https://blog.langchain.com/tag/in-the-loop/) 3 分钟阅读
-{% endraw %}
+&#123;% endraw %}

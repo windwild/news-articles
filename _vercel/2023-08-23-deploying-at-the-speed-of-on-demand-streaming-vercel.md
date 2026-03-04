@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Streamlined deployment process and superior developer experience for Joyn"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 23, 2023
 
@@ -49,4 +49,4 @@ This means the viewing experience for Joyn users is seamless and near-instant—
 Want to learn more about how you can ensure on-demand performance with Vercel? [Get in touch with us](https://vercel.com/contact).
 
 想进一步了解如何借助 Vercel 实现按需高性能？[联系我们](https://vercel.com/contact)。
-{% endraw %}
+&#123;% endraw %}

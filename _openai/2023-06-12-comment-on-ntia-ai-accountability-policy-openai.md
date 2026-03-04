@@ -9,7 +9,7 @@ translated: false
 description: "The National Telecommunications and Information Administration (NTIA) request for comments on AI Accountability policy."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Submitted: June 12, 2023
 
@@ -121,4 +121,4 @@ There remain many open questions in the design of registration and licensing mec
 
 
 Comment on NTIA AI Accountability Policy \| OpenAI
-{% endraw %}
+&#123;% endraw %}

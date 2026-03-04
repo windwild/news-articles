@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fluid compute now uses Active CPU pricing. Only pay CPU rates when your function is actively computing. Building on existing Fluid gains, this brings additional savings of up to 90% for workloads like..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 25, 2025
 
@@ -129,4 +129,4 @@ Get started](https://vercel.com/templates/ai)
 利用 Fluid Compute 优化您的 AI 应用，充分释放计算性能。\\
 \\
 立即开始](https://vercel.com/templates/ai)
-{% endraw %}
+&#123;% endraw %}

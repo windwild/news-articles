@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI and Guardian Media Group announce content partnership to bring Guardian news content to ChatGPT."
 ---
-{% raw %}
+&#123;% raw %}
 
 February 14, 2025
 
@@ -38,4 +38,4 @@ Keith Underwood, Chief Financial and Operating Officer, Guardian Media Group sai
 “Our partnership with Guardian Media Group furthers our goal of supporting world-class journalism and enriches the ChatGPT experience by providing access to relevant, timely news content. It’s part of our overall strategy to help publishers and audiences benefit from advanced AI technology,” said Brad Lightcap, OpenAI COO.
 
 - [Partnerships](https://openai.com/news/?tags=partnerships)
-{% endraw %}
+&#123;% endraw %}

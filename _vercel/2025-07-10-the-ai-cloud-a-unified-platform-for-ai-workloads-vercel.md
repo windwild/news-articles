@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We made it simple to build, preview, and ship any frontend, from marketing pages to dynamic apps, without managing infrastructure. Now we’re introducing the next layer: the Vercel AI Cloud."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 10, 2025
 
@@ -397,4 +397,4 @@ Whether you're starting a migration, need help optimizing, or want to add AI to 
 
 [Contact Us](https://vercel.com/contact/sales)  
 [联系我们](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

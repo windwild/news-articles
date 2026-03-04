@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 16, 2024
 
@@ -25,4 +25,4 @@ End users will experience significant speed improvements when first loading any 
 This performance upgrade is available immediately for all Vercel customers across all plans, with no action required. Your sites will automatically benefit from these improvements without any changes needed on your part.
 
 此项性能升级现已面向所有 Vercel 用户（涵盖全部付费计划）即时生效，无需任何操作。您的网站将自动受益于这些改进，您无需进行任何配置或修改。
-{% endraw %}
+&#123;% endraw %}

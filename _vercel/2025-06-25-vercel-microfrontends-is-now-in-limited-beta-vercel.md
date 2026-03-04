@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now manage multiple projects as a single application with Vercel Microfrontends. This improves velocity for large apps, supports independent teams, and enables incremental migration. Available..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 25, 2025
 
@@ -25,4 +25,4 @@ Vercel Microfrontends 现已面向企业客户开放 [有限公测](https://verc
 - **渐进式迁移**：无需耗时费力的大规模重写，即可逐模块现代化遗留系统  
 
 了解更多关于 [Vercel Microfrontends](https://vercel.com/docs/microfrontends) 的信息。如需加入本次有限公测，请联系您的客户经理，或 [联系销售团队](https://vercel.com/contact/sales)。
-{% endraw %}
+&#123;% endraw %}

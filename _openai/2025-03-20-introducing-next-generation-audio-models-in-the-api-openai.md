@@ -9,7 +9,7 @@ translated: false
 description: "For the first time, developers can also instruct the text-to-speech model to speak in a specific way—for example, “talk like a sympathetic customer service agent”—unlocking a new level of cust..."
 tags: ["Release"]
 ---
-{% raw %}
+&#123;% raw %}
 
 March 20, 2025
 
@@ -96,4 +96,4 @@ Looking ahead, we plan to continue to invest in improving the intelligence and a
 ![](images/introducing-next-generation-audio-models-in-the-api-openai/img_002.png)
 
 Play video
-{% endraw %}
+&#123;% endraw %}

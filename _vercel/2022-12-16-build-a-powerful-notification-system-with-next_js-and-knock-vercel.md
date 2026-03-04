@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Notifications on Vercel"
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 16, 2022
 
@@ -259,4 +259,4 @@ Get started with your own Knock notification system by adding the Vercel + Knock
 Vercel's [integration marketplace](https://vercel.com/integrations) is a great way to get started quickly with headless databases, commerce tools, CMSs and more. Or, build APIs into your application without any plugins or added configuration, simply by using [Next.js API Routes](https://nextjs.org/docs/api-routes/introduction). When deployed on Vercel, these are automatically deployed as Serverless Functions. Just push your code to get a powerful, scalable, and secure composable application.
 
 Vercel 的 [集成市场](https://vercel.com/integrations) 是快速接入无头数据库、电商工具、内容管理系统（CMS）等服务的理想起点。或者，您也可以直接使用 [Next.js API 路由](https://nextjs.org/docs/api-routes/introduction)，无需任何插件或额外配置，即可在应用中构建 API；部署至 Vercel 后，这些路由将自动作为 Serverless 函数运行。只需推送代码，即可获得一个功能强大、高度可扩展且安全可靠的可组合式应用。
-{% endraw %}
+&#123;% endraw %}

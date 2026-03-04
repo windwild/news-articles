@@ -8,7 +8,7 @@ language: "en-US"
 translated: true
 description: "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongo..."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 18, 2025
 
@@ -128,4 +128,4 @@ Scientific discovery has always advanced fastest when great tools meet great sci
 
 - [2025](https://openai.com/news/?tags=2025)  
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

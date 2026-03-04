@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 26, 2026
 
@@ -93,4 +93,4 @@ To get started, install the [Figma MCP server⁠(opens in a new window)](https:/
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

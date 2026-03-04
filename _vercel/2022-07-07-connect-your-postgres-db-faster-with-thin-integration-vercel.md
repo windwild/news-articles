@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 7, 2022
 
@@ -21,4 +21,4 @@ Thin 在您的 PostgreSQL 数据库之上提供一个快速、功能完备的 AP
 [Try out the integration](https://vercel.com/integrations/thin) and create your backend.
 
 [试用该集成](https://vercel.com/integrations/thin)，并创建您的后端。
-{% endraw %}
+&#123;% endraw %}

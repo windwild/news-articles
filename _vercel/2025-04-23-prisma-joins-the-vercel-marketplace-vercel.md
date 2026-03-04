@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Prisma Postgres is now available on the Vercel Marketplace as a Database provider—offering serverless performance, global caching, and integrated billing for fullstack and edge apps. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 23, 2025
 
@@ -27,4 +27,4 @@ Apr 23, 2025
 - 可视化数据管理及 AI 驱动的性能优化建议  
 
 [立即在 Vercel Marketplace 上开始使用 Prisma](https://vercel.com/new/clone?project-name=Next.js+%26+Prisma+Postgres+Auth+Starter&repository-name=nextjs-auth-starter&repository-url=https%3A%2F%2Fgithub.com%2Fprisma%2Fnextjs-auth-starter&demo-title=Superblog&demo-url=https%3A%2F%2Fnextjs-auth-starter-mu.vercel.app&products=%5B%7B%22type%22%3A%22integration%22%2C%22protocol%22%3A%22storage%22%2C%22productSlug%22%3A%22prisma-postgres%22%2C%22integrationSlug%22%3A%22prisma%22%7D%5D)。所有 Vercel 计划用户均可使用。
-{% endraw %}
+&#123;% endraw %}

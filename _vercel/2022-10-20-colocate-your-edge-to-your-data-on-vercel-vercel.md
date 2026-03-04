@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "At this year's P99 Conference, we discussed how edge computing can reduce latency for end users. See how regional Edge Functions can help."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 20, 2022
 
@@ -105,4 +105,4 @@ Configuring regions for your Edge Functions requires [Next.js v12.3.2](https://n
 To learn more about regional Edge Functions with Vercel, [check out the documentation](https://vercel.com/docs/concepts/edge-network/regions) or [explore a few examples](https://vercel.com/docs/concepts/edge-network/regions).
 
 如需进一步了解 Vercel 提供的区域性 Edge Functions，请[查阅相关文档](https://vercel.com/docs/concepts/edge-network/regions)，或[浏览若干示例](https://vercel.com/docs/concepts/edge-network/regions)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "More flexible pricing for v0 that scales with your usage and lets you pay on-demand through credits."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 13, 2025
 
@@ -99,4 +99,4 @@ You can track usage and remaining credits in your settings page. Team and Enterp
 All new v0 usage, beginning today, will be metered in tokens. You can view the updated pricing on [v0's pricing page](https://v0.dev/pricing).
 
 自今日起，所有新增的 v0 使用量均将以 token 为单位进行计量。您可前往 [v0 官方定价页面](https://v0.dev/pricing) 查看最新定价详情。
-{% endraw %}
+&#123;% endraw %}

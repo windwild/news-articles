@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 25, 2024
 
@@ -27,4 +27,4 @@ Sep 25, 2024
 - **网络管理界面优化**：全新“网络”页面提供更详尽的信息展示与配置能力，涵盖对等连接、IP 地址分配及关联项目等。
 
 本次更新大幅简化了网络管理流程，同时强化了 Vercel 与 AWS 环境之间安全、自主的连接能力。欢迎查阅 [相关文档](https://vercel.com/docs/security/secure-compute#vercel-secure-compute) 了解详情。
-{% endraw %}
+&#123;% endraw %}

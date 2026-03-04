@@ -9,7 +9,7 @@ translated: false
 description: "LY Corporation: Driving growth and ‘WOW’ moments with OpenAI"
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 [API](https://openai.com/stories/api/) [ChatGPT](https://openai.com/stories/chatgpt/)
 
@@ -86,4 +86,4 @@ Looking forward, LY Corporation aims to further embed AI into its services and o
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

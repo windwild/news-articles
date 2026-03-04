@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn about the upcoming routing and layouts changes to Next.js."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 14, 2022
 
@@ -451,4 +451,4 @@ Route groups can be used to:
 
 [Read the full Layouts RFC](https://nextjs.org/blog/layouts-rfc) and stay tuned for more information from the Next.js team at Vercel.  
 [阅读完整的《布局 RFC》文档](https://nextjs.org/blog/layouts-rfc)，并持续关注 Vercel 的 Next.js 团队发布的更多信息。
-{% endraw %}
+&#123;% endraw %}

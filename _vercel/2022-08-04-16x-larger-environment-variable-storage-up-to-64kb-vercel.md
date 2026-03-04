@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 4, 2022
 
@@ -27,4 +27,4 @@ Deployments using Node.js, Python, and Ruby can support the larger 64KB environm
 Check out [the documentation](https://vercel.com/docs/concepts/projects/environment-variables#environment-variable-size) as well.
 
 也欢迎查阅[相关文档](https://vercel.com/docs/concepts/projects/environment-variables#environment-variable-size)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Streamdown 2.3 focuses on design polish and developer experience. Tables, code blocks, and Mermaid diagrams have been redesigned."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 19, 2026
 
@@ -45,4 +45,4 @@ This release also resolves issues with nested HTML block parsing, custom tag han
 [Read the documentation](https://streamdown.ai/docs) for more information.
 
 [查阅文档](https://streamdown.ai/docs) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

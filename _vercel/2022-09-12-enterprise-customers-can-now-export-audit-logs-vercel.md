@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 12, 2022
 
@@ -27,4 +27,4 @@ Audit Logs allow team owners to track important events that occurred on their te
 Check out the [documentation](https://www.vercel.com/docs/concepts/teams/security-and-compliance#audit-logs) to learn more.
 
 请查阅[文档](https://www.vercel.com/docs/concepts/teams/security-and-compliance#audit-logs)了解更多信息。
-{% endraw %}
+&#123;% endraw %}

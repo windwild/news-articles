@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Explore Claude's breakthrough performance on SWE-Bench, demonstrating advanced software engineering capabilities and code generation accuracy. Learn about our technical evaluation methods."
 ---
-{% raw %}
+&#123;% raw %}
 
 _Our latest model, the upgraded [Claude 3.5 Sonnet](https://www.anthropic.com/news/3-5-models-and-computer-use), achieved 49% on SWE-bench Verified, a software engineering evaluation, beating the previous state-of-the-art model's 45%. This post explains the "agent" we built around the model, and is intended to help developers get the best possible performance out of Claude 3.5 Sonnet._
 
@@ -620,4 +620,4 @@ SWE-bench 是一项 AI 评测基准，旨在评估模型完成真实世界软件
 Product updates, how-tos, community spotlights, and more. Delivered monthly to your inbox.
 
 产品更新、操作指南、社区亮点等内容，每月发送至您的邮箱。
-{% endraw %}
+&#123;% endraw %}

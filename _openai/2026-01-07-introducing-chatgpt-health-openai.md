@@ -9,7 +9,7 @@ translated: true
 description: "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 7, 2026
 
@@ -261,4 +261,4 @@ We’ll continue to expand what you can connect and the insights Health can supp
 
 - [Health & Wellness](https://openai.com/news/?tags=health-wellness)  
 - [健康与 wellness（健康福祉）](https://openai.com/news/?tags=health-wellness)
-{% endraw %}
+&#123;% endraw %}

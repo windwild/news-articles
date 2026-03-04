@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Data-driven-characters is a repo for creating, debugging, and interacting your own chatbots conditioned on your own story corpora."
 ---
-{% raw %}
+&#123;% raw %}
 
 **Editor's Note: the following is a blog post by Michael Chang. We were lucky enough to have Michael spend ~2 months with us before he started at DeepMind. He took on some of the most open-ended problems that faced us — starting with a lot of work in agent simulation, and now this deep dive into memory.**
 
@@ -443,4 +443,4 @@ If this sounds exciting to you, please consider submitting a pull request! See t
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain，使用 Genoss 统一 AI 接口**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
-{% endraw %}
+&#123;% endraw %}

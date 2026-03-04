@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: " Thanks to an overhauled UI, managing the Git connection of a project or an entire account is easier than ever."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 23, 2020
 
@@ -49,4 +49,4 @@ Mar 23, 2020
 自今日起，管理现有 Git 服务商连接的操作，已与导入 Git 仓库一样简单便捷。
 
 [欢迎告诉我们您对此次更新的看法](https://zeit.co/contact)。
-{% endraw %}
+&#123;% endraw %}

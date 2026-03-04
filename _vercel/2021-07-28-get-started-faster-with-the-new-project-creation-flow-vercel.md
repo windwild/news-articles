@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jul 28, 2021
 
@@ -25,4 +25,4 @@ Jul 28, 2021
 这些改进让导入 Git 仓库或从模板全新开始变得更加轻松。立即点击控制台上的 [New Project（新建项目）](https://vercel.com/new) 按钮体验吧！
 
 如果您希望将我们的全新项目创建流程集成到您自己的应用程序或 Git 仓库中，也欢迎查阅 [相关文档](https://vercel.com/docs/more/deploy-button)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Nick Bogaty joins Vercel as first Chief Revenue Officer from Adobe, bringing more than 20 years of enterprise GTM experience to lead an AI-forward sales organization."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 13, 2026
 
@@ -91,4 +91,4 @@ Nick is also known for fostering strong cultures tied to career growth. "We're r
 If you're interested in joining a Sales organization that's rethinking how enterprise GTM should work, [we're hiring](https://vercel.com/careers?function=Sales).
 
 如果您希望加入一支正在重新定义企业级市场落地（Enterprise GTM）运作方式的销售团队，[我们正在招聘](https://vercel.com/careers?function=Sales)。
-{% endraw %}
+&#123;% endraw %}

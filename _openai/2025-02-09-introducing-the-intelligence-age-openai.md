@@ -9,7 +9,7 @@ translated: false
 description: "We aired our first-ever television ad during the Super Bowl to pique people’s curiosity and help us all realize how AI can open up new possibilities for us, create more fulfillment in our lives, and..."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 9, 2025
 
@@ -66,4 +66,4 @@ These are also the kinds of innovations societies need to drive lasting economic
 AI is already helping hundreds of millions of users do things they previously couldn’t. Not far off is a future in which everyone’s lives can be better than anyone’s life is now.
 
 - [Global Affairs](https://openai.com/news/?tags=global-affairs)
-{% endraw %}
+&#123;% endraw %}

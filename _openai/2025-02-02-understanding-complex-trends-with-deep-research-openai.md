@@ -9,7 +9,7 @@ translated: false
 description: "How OpenAI deep research helps Bain & Company understand complex industry trends."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 February 2, 2025
 
@@ -44,4 +44,4 @@ SafetyFeb 25, 2025](https://openai.com/index/deep-research-system-card/)
 [Our research approach](https://openai.com/research/)
 
 Understanding complex trends with deep research \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 8, 2021
 
@@ -23,4 +23,4 @@ Jan 8, 2021
 与此同时，“克隆模板”（Cloning a Template）的操作也大幅简化——模板现在与推荐的 Git 仓库一同展示在同一页面上。
 
 也欢迎查阅 [相关文档](https://vercel.com/docs/git#deploying-a-git-repository)。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Image Optimization is 60% faster. We also now offer new, reduced pricing for Image Optimization based on transformations."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 18, 2025
 
@@ -76,4 +76,4 @@ View](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fsettings%2Fbilling%23image-opt
 查看您的费用预估，并迁移至基于图像转换（transformations）、缓存读取（cache reads）和缓存写入（cache writes）的新图像优化定价模型。\\  
 \\  
 立即查看](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fsettings%2Fbilling%23image-optimization-new-price&title=Go+to+Billing+Settings)
-{% endraw %}
+&#123;% endraw %}

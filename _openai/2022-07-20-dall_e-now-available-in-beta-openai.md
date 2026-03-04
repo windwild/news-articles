@@ -9,7 +9,7 @@ translated: false
 description: "We’ll invite 1 million people from our waitlist over the coming weeks. Users can create with DALL·E using free credits that refill every month, and buy additional credits in 115-generation incremen..."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 July 20, 2022
 
@@ -72,4 +72,4 @@ We are excited to see what people create with DALL·E and look forward to users�
 
 1. A
 Number of images is approximate. DALL·E generates four images for every natural language prompt. DALL·E’s Edit and Variations features generate three images.
-{% endraw %}
+&#123;% endraw %}

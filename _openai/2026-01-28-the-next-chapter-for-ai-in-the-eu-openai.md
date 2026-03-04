@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 28, 2026
 
@@ -111,4 +111,4 @@ The EU Economic Blueprint 2.0 sets out how Europe can lead in AI, and we look fo
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

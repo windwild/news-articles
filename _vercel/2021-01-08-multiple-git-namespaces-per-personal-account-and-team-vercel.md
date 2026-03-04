@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 8, 2021
 
@@ -23,4 +23,4 @@ Jan 8, 2021
 现在，每个个人账户或团队均可包含多个 Vercel Project，且这些 Project 可分别连接至位于不同 Git 命名空间下的 Git 仓库。这也意味着：在导入 Project 时，Vercel 不再强制指定某个特定的目标个人账户或团队。
 
 也可参阅[相关文档](https://vercel.com/docs/platform/projects#git)。
-{% endraw %}
+&#123;% endraw %}

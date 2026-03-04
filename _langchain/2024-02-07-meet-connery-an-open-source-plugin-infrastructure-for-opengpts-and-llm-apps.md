@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 **_Editor's Note: this blog was written by Michael Liebmann and Volodymyr Machula, co-founders of Connery._**  
 **_编者注：本文由 Connery 联合创始人 Michael Liebmann 和 Volodymyr Machula 撰写。_**
@@ -337,4 +337,4 @@ If you like the project or want to stay in the loop, [give the GitHub repo a sta
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长约 4 分钟
-{% endraw %}
+&#123;% endraw %}

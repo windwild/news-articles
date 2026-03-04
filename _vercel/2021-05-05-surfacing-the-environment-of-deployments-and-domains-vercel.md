@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 5, 2021
 
@@ -45,4 +45,4 @@ This change will make it easier for you to determine which Deployments, Domains,
 Check out [the documentation](https://vercel.com/docs/platform/deployments?query=production#deployment-types) as well.
 
 也欢迎查阅[相关文档](https://vercel.com/docs/platform/deployments?query=production#deployment-types)。
-{% endraw %}
+&#123;% endraw %}

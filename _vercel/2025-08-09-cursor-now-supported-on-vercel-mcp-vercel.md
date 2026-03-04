@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Connect Cursor to Vercel MCP to manage projects and deployments, analyze logs, search docs, and more"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 9, 2025
 
@@ -50,4 +50,4 @@ mcp.json
 添加完成后，Cursor 将提示您使用 Vercel 账户登录。
 
 有关在 Vercel MCP 中使用 Cursor 的更多信息，请参阅 [Cursor 在 Vercel MCP 中的使用](https://vercel.com/docs/mcp/vercel-mcp#cursor)。
-{% endraw %}
+&#123;% endraw %}

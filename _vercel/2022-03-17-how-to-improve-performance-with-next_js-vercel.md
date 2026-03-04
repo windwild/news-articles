@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how Next.js provides a toolkit to improve site performance, improve the developer experience, and decrease build times with every upgrade."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 17, 2022
 
@@ -404,4 +404,4 @@ By upgrading to the latest version, we were able to vastly optimize our applicat
 [Try out the upgraded demo](https://serverless-vrs.vercel.app/) or [view the full PR](https://github.com/vercel/vrs/pull/50) for the upgrade. If you'd like to upgrade your Next.js app, check out our [upgrade guide](https://nextjs.org/docs/upgrading).
 
 [试用升级后的演示版](https://serverless-vrs.vercel.app/)，或 [查看本次升级的完整 PR](https://github.com/vercel/vrs/pull/50)。如需升级您的 Next.js 应用，请参考我们的 [升级指南](https://nextjs.org/docs/upgrading)。
-{% endraw %}
+&#123;% endraw %}

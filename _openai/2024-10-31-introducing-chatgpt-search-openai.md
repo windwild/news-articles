@@ -9,7 +9,7 @@ translated: false
 description: "Get fast, timely answers with links to relevant web sources"
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 31, 2024
 
@@ -82,4 +82,4 @@ ChatGPT Plus and Team users can try it out today at [chatgpt.com⁠(opens in a n
 
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

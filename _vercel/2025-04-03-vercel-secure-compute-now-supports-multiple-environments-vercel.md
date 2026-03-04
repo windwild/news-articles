@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Users can now associate each project environment—Production, Preview, and custom—with a distinct Secure Compute network directly from the project settings"
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 3, 2025
 
@@ -31,4 +31,4 @@ Apr 3, 2025
 3. 点击 **保存（Save）** 以持久化您的配置更改  
 
 了解更多关于 [Secure Compute](https://vercel.com/docs/secure-compute) 的信息。
-{% endraw %}
+&#123;% endraw %}

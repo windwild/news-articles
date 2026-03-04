@@ -9,7 +9,7 @@ translated: false
 description: "We are improving our AI systems’ ability to learn from human feedback and to assist humans at evaluating AI. Our goal is to build a sufficiently aligned AI system that can help us solve all other al..."
 tags: ["Safety & Alignment"]
 ---
-{% raw %}
+&#123;% raw %}
 
 August 24, 2022
 
@@ -95,4 +95,4 @@ _We’re looking to hire more talented people for this line of research! If this
 
 - [Alignment](https://openai.com/news/?tags=alignment)
 - [2022](https://openai.com/news/?tags=2022)
-{% endraw %}
+&#123;% endraw %}

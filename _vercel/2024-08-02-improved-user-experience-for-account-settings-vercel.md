@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 2, 2024
 
@@ -35,4 +35,4 @@ The [Settings page](https://vercel.com/docs/dashboard-features#settings) consoli
 This streamlined layout aims to enhance clarity and simplify account management for all users.
 
 这一精简优化的布局旨在提升信息清晰度，简化所有用户的账户管理流程。
-{% endraw %}
+&#123;% endraw %}

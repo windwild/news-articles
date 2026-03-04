@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel Marketplace adds Aurora PostgreSQL, Amazon DynamoDB, Aurora DSQL, available December 15. One-click provisioning, zero-config setup, and full v0 support."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 1, 2025
 
@@ -108,4 +108,4 @@ AWS 数据库将于 12 月 15 日上线 [Vercel Marketplace](https://vercel.com/
 
 
 如果您正在使用 [v0](https://v0.app/)，只需描述您的应用需求。v0 将自动生成前端、后端以及 AWS 数据库。
-{% endraw %}
+&#123;% endraw %}

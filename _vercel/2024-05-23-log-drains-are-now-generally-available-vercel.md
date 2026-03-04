@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 23, 2024
 
@@ -31,4 +31,4 @@ _基于用量的计费模式（新）_
 **如何查看我的 Log Drains 用量？**
 
 您可在 [用量页面](https://vercel.com/docs/pricing/manage-and-optimize-usage) 查看当前 Log Drains 的用量情况。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal knowledge."
 ---
-{% raw %}
+&#123;% raw %}
 
 Recorded: April 24, 2025
 
@@ -24,4 +24,4 @@ Hands-on demos of OpenAI o3, image generation, memory and internal knowledge.
 - [Talk with our team](https://openai.com/contact-sales/)
 
 New in ChatGPT for Business: April 2025 \| OpenAI
-{% endraw %}
+&#123;% endraw %}

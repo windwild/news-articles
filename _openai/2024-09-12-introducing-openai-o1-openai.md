@@ -9,7 +9,7 @@ translated: false
 description: "Introducing OpenAI o1"
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 12, 2024
 
@@ -78,4 +78,4 @@ We also plan to continue developing and releasing models in our GPT series, in a
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [ChatGPT](https://openai.com/news/?tags=chatgpt)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

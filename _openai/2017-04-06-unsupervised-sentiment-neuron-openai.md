@@ -9,7 +9,7 @@ translated: false
 description: "We’ve developed an unsupervised system which learns an excellent representation of sentiment, despite being trained only to predict the next character in the text of Amazon reviews."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 6, 2017
 
@@ -99,4 +99,4 @@ Overall, it’s important to understand the properties of models, training regim
 - [Generative Models](https://openai.com/research/index/?tags=generative-models)
 - [Learning Paradigms](https://openai.com/research/index/?tags=learning-paradigms)
 - [Language](https://openai.com/research/index/?tags=language)
-{% endraw %}
+&#123;% endraw %}

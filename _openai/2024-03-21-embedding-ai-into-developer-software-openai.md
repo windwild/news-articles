@@ -9,7 +9,7 @@ translated: false
 description: "JetBrains uses OpenAI’s API to build its fastest-growing product ever."
 tags: ["Story"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # JetBrains
@@ -105,4 +105,4 @@ APIMar 18, 2024](https://openai.com/index/superhuman/)
 APIMar 18, 2024](https://openai.com/index/salesforce/)
 
 Embedding AI into developer software \| OpenAI
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We replaced slow JSON path lookups with Bloom filters in our global routing service, cutting memory usage by 15% and reducing 99th percentile lookup times from hundreds of milliseconds to under 1 ms. ..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 19, 2025
 
@@ -312,4 +312,4 @@ P75 and P99 TTFB improved after Bloom filter rollout.
 By bringing the duration of the path lookup operation down to effectively zero, we’ve eliminated an entire class of memory and CPU intensive processes when we serve websites, which makes it faster for everyone and dramatically faster for our heaviest websites.
 
 通过将路径查找操作的耗时降至近乎零，我们在提供网站服务时彻底消除了一类高内存与高 CPU 消耗的处理流程。这不仅让所有用户访问更快，更使我们负载最重的网站获得极为显著的性能提升。
-{% endraw %}
+&#123;% endraw %}

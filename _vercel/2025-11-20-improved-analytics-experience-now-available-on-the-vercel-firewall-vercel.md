@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "An updated Firewall analytics experience that provides an overview of DDoS attacks, top activity across system rules, custom rules, and IP blocks, and the ability to drill down into signals for easier..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 20, 2025
 
@@ -43,4 +43,4 @@ The updates include:
 Learn more about the [Firewall](https://vercel.com/docs/vercel-firewall) or visit the [Firewall tab](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Ffirewall&title=Firewall+tab) on your project to see the updates.
 
 如需了解更多信息，请参阅 [防火墙文档](https://vercel.com/docs/vercel-firewall)，或前往您项目的 [防火墙标签页（Firewall tab）](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Ffirewall&title=Firewall+tab) 查看本次更新。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 4, 2024
 
@@ -33,4 +33,4 @@ This update offers three key benefits:
 
 [Sign up](https://vercel.com/signup) today to get started.  
 [立即注册](https://vercel.com/signup)，即刻开始使用。
-{% endraw %}
+&#123;% endraw %}

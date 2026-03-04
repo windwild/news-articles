@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now export logs, traces, web analytics events, and speed insights datapoints with Vercel Drains."
 ---
-{% raw %}
+&#123;% raw %}
 
 2025年9月5日
 
@@ -31,4 +31,4 @@ Pro 和 Enterprise 团队可按相同的 **每 GB 0.50 美元** 费率将数据�
 [Try it out](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fdrains) or learn more about [Vercel Drains](https://www.vercel.com/docs/drains).
 
 [立即试用](https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fdrains)，或深入了解 [Vercel Drains](https://www.vercel.com/docs/drains)。
-{% endraw %}
+&#123;% endraw %}

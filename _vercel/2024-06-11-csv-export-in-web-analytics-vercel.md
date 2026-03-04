@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jun 11, 2024
 
@@ -27,4 +27,4 @@ This feature is available to all customers using Web Analytics.
 [Enable Web Analytics](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fanalytics&title=Go+to+Web+Analytics)
 
 [启用 Web Analytics](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fanalytics&title=Go+to+Web+Analytics)
-{% endraw %}
+&#123;% endraw %}

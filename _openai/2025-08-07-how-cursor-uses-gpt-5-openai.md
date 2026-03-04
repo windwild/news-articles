@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Learn how Cursor uses GPT-5."
 ---
-{% raw %}
+&#123;% raw %}
 
 August 7, 2025
 
@@ -21,4 +21,4 @@ August 7, 2025
 
 
 How Cursor uses GPT-5 \| OpenAI
-{% endraw %}
+&#123;% endraw %}

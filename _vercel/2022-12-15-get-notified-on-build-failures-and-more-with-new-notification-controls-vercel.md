@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 15, 2022
 
@@ -39,4 +39,4 @@ Start configuring your notifications more granularly to increase the signal for:
 [Check out the documentation](https://vercel.com/docs/concepts/dashboard-features/notifications) to learn more.
 
 [查看文档](https://vercel.com/docs/concepts/dashboard-features/notifications) 了解更多信息。
-{% endraw %}
+&#123;% endraw %}

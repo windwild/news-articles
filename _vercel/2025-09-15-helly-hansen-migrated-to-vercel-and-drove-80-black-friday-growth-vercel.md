@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The 150-year-old Norwegian brand leveraged Next.js and Vercel to achieve 154% Black Friday growth and 30%+ conversion lift while competing against industry titans in a crowded space"
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 15, 2025
 
@@ -207,4 +207,4 @@ By partnering with Vercel, Helly Hansen has not only solved its immediate perfor
 Wherever you are in your headless migration journey, we can help. Talk to our team of experts about modernizing your ecommerce stack with Vercel.\\
 无论您正处于无头迁移旅程的哪个阶段，我们都能提供支持。欢迎联系 Vercel 专家团队，共同探讨如何借助 Vercel 实现电商技术栈的现代化升级。  
 \\
-{% endraw %}
+&#123;% endraw %}

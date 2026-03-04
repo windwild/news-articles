@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn more about how to collaborate, build, and succeed with one of Vercel's Agency Experts, or become an Agency Expert today. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 16, 2021
 
@@ -149,4 +149,4 @@ We believe in building a better web, together. Visit our [Marketplace](http://ww
 If you would like to hear the latest that Vercel and Next.js has to offer, [request an invite to join our agency partner workshop](https://vercel.zoom.us/meeting/register/tZ0sd-uvrj4vEtVrEQj1eTOpldwzf8zg_awa) on **Tuesday March 9th, 2021** at **1pm ET/10am PT**, to hear more about upcoming partner opportunities available to you.
 
 如果您希望第一时间了解 Vercel 和 Next.js 的最新动态与资源，请 [申请获取邀请，参加我们的机构合作伙伴线上研讨会](https://vercel.zoom.us/meeting/register/tZ0sd-uvrj4vEtVrEQj1eTOpldwzf8zg_awa)，时间定于 **2021 年 3 月 9 日（星期二）下午 1 点（美国东部时间）/ 上午 10 点（美国太平洋时间）**，届时我们将详细介绍面向合作伙伴的全新合作机会。
-{% endraw %}
+&#123;% endraw %}

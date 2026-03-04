@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "An update from the OpenAI board on transitioning its for-profit entity to a Public Benefit Corporation, reinforcing its mission-driven structure under nonprofit oversight while enabling greater impact..."
 ---
-{% raw %}
+&#123;% raw %}
 
 May 5, 2025
 
@@ -79,4 +79,4 @@ Sam Altman
 May 2025
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

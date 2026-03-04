@@ -9,7 +9,7 @@ translated: true
 description: "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 28, 2026
 
@@ -184,4 +184,4 @@ If you’re a researcher working on prompt injection, agent security, or data ex
 - [2026](https://openai.com/news/?tags=2026)
 
 - [2026](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

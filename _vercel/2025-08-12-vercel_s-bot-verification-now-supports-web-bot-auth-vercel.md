@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's bot verification system now supports Web Bot Auth, a proposal that leverages HTTP Message Signatures, enabling Vercel to verify traffic automation from dynamic and distributed sources."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 12, 2025
 
@@ -33,4 +33,4 @@ Verified Bots using Web Bot Auth include signed headers to authenticate each req
 Learn more about [Bot Management](https://vercel.com/docs/bot-management).
 
 了解更多关于 [Bot Management（机器人管理）](https://vercel.com/docs/bot-management) 的信息。
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how eval-driven development helps you build better AI faster. Discover a new testing paradigm for AI-native development and unlock continuous improvement."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 17, 2024
 
@@ -173,7 +173,7 @@ function ItemList(props) {
 
 6      {props.items.map((item) => (
 
-7        <li style={{ fontWeight: "bold" }}>{item}</li>
+7        <li style=&#123;{ fontWeight: "bold" }}>{item}</li>
 
 8      ))}
 
@@ -193,7 +193,7 @@ function ItemList(props) {
 
 6      {props.items.map((item) => (
 
-7        <li style={{ fontWeight: "bold" }}>{item}</li>
+7        <li style=&#123;{ fontWeight: "bold" }}>{item}</li>
 
 8      ))}
 
@@ -424,4 +424,4 @@ Aug 12, 2024
 Alice Alexandra Moore
 
 爱丽丝·亚历山德拉·摩尔
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The team behind Zapier’s embedded platform uses v0 to turn partner conversations into scalable integrations"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 8, 2025
 
@@ -134,4 +134,4 @@ Book a demo](https://vercel.com/contact/sales/v0-enterprise)
 
 Want to learn more about Powered by Zapier and the team’s developer tools? Visit [https://zapier.com/developer-platform](https://zapier.com/developer-platform)  
 想进一步了解“Powered by Zapier”计划及团队提供的开发者工具？请访问 [https://zapier.com/developer-platform](https://zapier.com/developer-platform)
-{% endraw %}
+&#123;% endraw %}

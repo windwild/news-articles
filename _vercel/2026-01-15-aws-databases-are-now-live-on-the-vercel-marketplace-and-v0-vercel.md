@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "v0 can now provision AWS databases as it builds your app. Aurora PostgreSQL, DynamoDB, and Aurora DSQL available in the Vercel Marketplace."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 15, 2026
 
@@ -364,4 +364,4 @@ By combining AWS reliability and scale with the Vercel developer experience, tea
 To get started, install AWS databases from the [Vercel Marketplace](https://vercel.com/marketplace/aws), ask [v0](https://v0.app/) to build an app using AWS databases, or deploy the [Movie Fetching Database](https://vercel.com/templates/next.js/next-js-vercel-app-with-aurora-dsql) template to see the integration in action.
 
 立即开始：请从 [Vercel Marketplace](https://vercel.com/marketplace/aws) 安装 AWS 数据库服务；或请 [v0](https://v0.app/) 基于 AWS 数据库为您生成一个应用；亦可部署 [Movie Fetching Database](https://vercel.com/templates/next.js/next-js-vercel-app-with-aurora-dsql) 模板，亲身体验该集成的实际效果。
-{% endraw %}
+&#123;% endraw %}

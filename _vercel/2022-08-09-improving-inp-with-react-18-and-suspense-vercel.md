@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Learn how to improve Interaction to Next Paint in React applications by using Suspense and selective hydration."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 9, 2022
 
@@ -344,4 +344,4 @@ Since the main thread must be idle in order to process event handlers, you can a
 You can start measuring INP today inside [Vercel Speed Insights](https://vercel.com/docs/speed-insights), which gives you real-time information from your real users about how your site is performing. This enables you to quickly debug performance issues and focus on what optimizations are working.
 
 你现在即可在 [Vercel Speed Insights](https://vercel.com/docs/speed-insights) 中开始测量 INP（Interaction to Next Paint）。它能从真实用户处实时采集网站性能数据，助你快速定位性能问题，并聚焦于真正有效的优化措施。
-{% endraw %}
+&#123;% endraw %}

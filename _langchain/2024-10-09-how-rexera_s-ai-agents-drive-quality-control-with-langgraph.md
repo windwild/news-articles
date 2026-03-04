@@ -9,7 +9,7 @@ translated: true
 description: "See how Rexera migrated to LangGraph to create a robust quality control agent for real estate workflows, significantly improving their LLM response accuracy."
 tags: ["Case Studies"]
 ---
-{% raw %}
+&#123;% raw %}
 
 Rexera is revolutionizing the $50 billion real estate transaction industry by harnessing AI to automate manual workflows. By deploying intelligent AI agents, Rexera streamlines real estate operations, accelerates transactions, and significantly reduces both costs and errors.
 
@@ -257,4 +257,4 @@ By leveraging LangGraph's cycles and branching capabilities, Rexera created a mo
 [Case Studies](https://blog.langchain.com/tag/case-studies/) 4 min read
 
 [案例研究](https://blog.langchain.com/tag/case-studies/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

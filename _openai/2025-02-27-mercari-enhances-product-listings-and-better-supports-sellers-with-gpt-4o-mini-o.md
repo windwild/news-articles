@@ -9,7 +9,7 @@ translated: false
 description: "Mercari leverages GPT-4o mini and GPT-4 to streamline selling, enhance product listings, and boost sales, transforming the online marketplace with features like AI Listing Support and Mercari AI Assis..."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 
 # Mercari enhances product listings and better supports sellers with GPT‑4o mini
@@ -93,4 +93,4 @@ By integrating OpenAI's advanced models, Mercari aims to create a cohesive AI ec
 ## Interested in learning more about ChatGPT for business?
 
 [Talk with our team](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

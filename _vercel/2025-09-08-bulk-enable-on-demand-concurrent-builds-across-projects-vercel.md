@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now enable on-demand concurrent builds for many projects, or even your whole team, in just a few clicks."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 8, 2025
 
@@ -26,4 +26,4 @@ Pro 团队现在可通过[单击一次](https://vercel.com/d?to=%2F%5Bteam%5D%2F
 - 搜索并选择特定项目，仅在这些项目中启用该功能  
 
 了解更多，请参阅[官方文档](https://vercel.com/docs/builds/managing-builds#on-demand-concurrent-builds)。
-{% endraw %}
+&#123;% endraw %}

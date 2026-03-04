@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now has an official hosted MCP server (aka Vercel MCP), which you can use to connect your favorite AI tools, such as Claude or VS Code, directly to Vercel."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 6, 2025
 
@@ -227,4 +227,4 @@ Define tools, expose context, and build your own server using the same standards
 
 [Build your own MCP server.](https://vercel.com/docs/mcp#get-started-with-mcp)  
 [构建你自己的 MCP 服务器。](https://vercel.com/docs/mcp#get-started-with-mcp)
-{% endraw %}
+&#123;% endraw %}

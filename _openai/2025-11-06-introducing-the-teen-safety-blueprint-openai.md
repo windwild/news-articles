@@ -9,7 +9,7 @@ translated: false
 description: "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 6, 2025
 
@@ -31,4 +31,4 @@ This is ongoing work, and there is more to do. We are committed to building AI r
 
 - [2025](https://openai.com/news/?tags=2025)
 - [User Safety & Control](https://openai.com/news/?tags=user-safety)
-{% endraw %}
+&#123;% endraw %}

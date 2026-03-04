@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Simplified Vercel CLI login with OAuth 2.0 Device Flow. Sign in securely from any browser. Email and provider-based logins deprecated Feb 1. Upgrade now."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 12, 2025
 
@@ -41,4 +41,4 @@ _注：此前已将原定弃用日期（2026 年 2 月 1 日）延长至 2026 �
 Learn more in the [docs](https://vercel.com/docs/cli/login).
 
 更多详情请参阅 [文档](https://vercel.com/docs/cli/login)。
-{% endraw %}
+&#123;% endraw %}

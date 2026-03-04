@@ -9,7 +9,7 @@ translated: true
 description: "Use Loom to record quick videos of your screen and cam. Explain anything clearly and easily – and skip the meeting. An essential tool for hybrid workplaces., Use Loom to record quick videos of your ..."
 tags: ["By LangChain"]
 ---
-{% raw %}
+&#123;% raw %}
 
 We’re excited to announce streaming support in LangChain. There's been a lot of talk about the best UX for LLM applications, and we believe streaming is at its core. We’ve also updated the [chat-langchain](https://github.com/hwchase17/chat-langchain?ref=blog.langchain.com) repo to include streaming and [async execution](https://blog.langchain.com/async-api/). We hope that this repo can serve as a template for developers building best-in-class chat and question/answering applications.
 
@@ -158,4 +158,4 @@ We're just getting started with streaming, callbacks, and async support! We'd lo
 [By LangChain](https://blog.langchain.com/tag/by-langchain/) 4 min read
 
 [由 LangChain 撰写](https://blog.langchain.com/tag/by-langchain/) 阅读时长：4 分钟
-{% endraw %}
+&#123;% endraw %}

@@ -9,7 +9,7 @@ translated: true
 description: "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers."
 tags: ["ChatGPT"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 11, 2025
 
@@ -151,4 +151,4 @@ Use OpenAI agents to take on routine tasks, reduce errors, and keep your operati
 
 [Try ChatGPT Business(opens in a new window)](https://chatgpt.com/team-sign-up?promo_campaign=team-1-month-free&utm_campaign=WEB-team-1-month-free&utm_internal_medium=referral&openaicom-did=67e1ea67-39f6-4ce9-b4c7-568bbe41564d&openaicom_referred=true) [Contact sales](https://openai.com/contact-sales/)  
 [试用 ChatGPT Business（在新窗口中打开）](https://chatgpt.com/team-sign-up?promo_campaign=team-1-month-free&utm_campaign=WEB-team-1-month-free&utm_internal_medium=referral&openaicom-did=67e1ea67-39f6-4ce9-b4c7-568bbe41564d&openaicom_referred=true) [联系销售](https://openai.com/contact-sales/)
-{% endraw %}
+&#123;% endraw %}

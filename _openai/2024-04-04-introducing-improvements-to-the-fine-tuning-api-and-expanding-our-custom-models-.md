@@ -9,7 +9,7 @@ translated: false
 description: "We’re adding new features to help developers have more control over fine-tuning and announcing new ways to build custom models with OpenAI."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 4, 2024
 
@@ -88,4 +88,4 @@ PublicationJan 31, 2024](https://openai.com/index/building-an-early-warning-syst
 SafetyDec 14, 2023](https://openai.com/index/weak-to-strong-generalization/)
 
 Introducing improvements to the fine-tuning API and expanding our custom models program \| OpenAI
-{% endraw %}
+&#123;% endraw %}

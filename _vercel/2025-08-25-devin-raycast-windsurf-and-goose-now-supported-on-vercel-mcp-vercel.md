@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Use Vercel MCP with supported AI clients like Devin, Raycast, Windsurf, and Goose to explore projects, view logs, inspect deployments, and more."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 25, 2025
 
@@ -101,4 +101,4 @@ Follow the steps below to get started with each client:
 阅读文档，深入了解该服务\\
 \\
 立即开始](https://vercel.com/docs/mcp/vercel-mcp#setup)
-{% endraw %}
+&#123;% endraw %}

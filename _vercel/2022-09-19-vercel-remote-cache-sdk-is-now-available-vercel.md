@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 19, 2022
 
@@ -31,4 +31,4 @@ In addition to [Turborepo](https://turborepo.org/), which ships with the Vercel
 Check out our [examples](https://github.com/vercel/remote-cache/tree/main/examples?rgh-link-date=2022-09-19T23%3A37%3A04Z) to get started.
 
 请查看我们的 [示例代码](https://github.com/vercel/remote-cache/tree/main/examples?rgh-link-date=2022-09-19T23%3A37%3A04Z)，快速上手。
-{% endraw %}
+&#123;% endraw %}

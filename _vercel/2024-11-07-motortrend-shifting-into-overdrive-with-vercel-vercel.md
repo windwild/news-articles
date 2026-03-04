@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "How a performance-first approach drives business value. By migrating to Vercel, MotorTrend improved release times from 18 days to 10 minutes. As velocity improved, ad impressions grew, translating int..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 7, 2024
 
@@ -136,4 +136,4 @@ Mar 7, 2023
 
 Malte Ubl  
 马尔特·乌布爾
-{% endraw %}
+&#123;% endraw %}

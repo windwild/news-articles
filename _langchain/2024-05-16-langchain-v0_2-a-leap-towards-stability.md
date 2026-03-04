@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "LangChain v0.2 decouples langchain and langchain-community packages. Includes versioned docs, standardized tool calling, and LangGraph."
 ---
-{% raw %}
+&#123;% raw %}
 
 Four months ago, we released the [first stable version of LangChain](https://blog.langchain.com/langchain-v0-1-0/).
 
@@ -181,4 +181,4 @@ While `langchain` and `langchain-core` are currently in a pre-1.0 state, we stri
 ### Tags
 
 ### 标签
-{% endraw %}
+&#123;% endraw %}

@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now search for domains on Vercel using AI. Results are fast and creative, and you have full control via the search bar."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 7, 2025
 
@@ -37,4 +37,4 @@ In smart search, you can:
 Try it at [vercel.com/domains](https://vercel.com/domains).
 
 欢迎前往 [vercel.com/domains](https://vercel.com/domains) 体验！
-{% endraw %}
+&#123;% endraw %}

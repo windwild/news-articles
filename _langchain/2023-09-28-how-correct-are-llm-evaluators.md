@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T08:39:41.352338768+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 ## Summary:
 
@@ -236,4 +236,4 @@ While tweaks in prompt and output parsing have improved reliability, there are f
 - Incorporate function calling for GPT-3.5 models to generate more reliable
 
 - 为 GPT-3.5 模型集成函数调用（function calling）功能，以生成更可靠的结果。
-{% endraw %}
+&#123;% endraw %}

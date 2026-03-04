@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T07:32:22.569538599+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 Today we're releasing the LangMem SDK, a library that helps your agents learn and improve through long-term memory.
 
@@ -279,4 +279,4 @@ If your team wants to add personalization or life-long learning to your agents, 
 We're recruiting engineers to build the world's best runtime for adaptive agents. If you're interested in designing and building with us, check out our [open positions](https://www.langchain.com/careers?ref=blog.langchain.com).
 
 我们正在招聘工程师，共同打造全球最佳的自适应智能体（adaptive agents）运行时系统。如果您有兴趣与我们一起进行设计与开发，请查看我们的[开放职位](https://www.langchain.com/careers?ref=blog.langchain.com)。
-{% endraw %}
+&#123;% endraw %}

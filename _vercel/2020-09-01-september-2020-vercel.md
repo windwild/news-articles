@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel's changelog for September 2020"
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 1, 2020
 
@@ -179,4 +179,4 @@ Sep 1, 2020
 - The email that is sent after a Personal Account requested to be deleted now correctly considers the new 4 day recovery period (instead of 48 hours).
 
 - 个人账户申请删除后所发送的邮件，现已正确采用新的 4 天恢复期（而非原先的 48 小时）。
-{% endraw %}
+&#123;% endraw %}

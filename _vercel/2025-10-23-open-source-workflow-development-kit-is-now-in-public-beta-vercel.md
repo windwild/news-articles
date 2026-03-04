@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Turn TypeScript functions into durable, reliable workflows with automatic retries, persistence, and observability built in."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 23, 2025
 
@@ -70,4 +70,4 @@ export async function hailRide(requestId: string) {
 Learn more about [Workflow](https://useworkflow.dev/) or [read the documentation](https://useworkflow.dev/docs/getting-started).
 
 了解更多关于 [Workflow](https://useworkflow.dev/) 的信息，或 [查阅文档](https://useworkflow.dev/docs/getting-started)。
-{% endraw %}
+&#123;% endraw %}

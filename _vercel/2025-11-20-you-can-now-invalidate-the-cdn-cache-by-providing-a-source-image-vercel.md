@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now invalidate the CDN cache contents by providing a source image allowing you to revalidate image optimization content without increasing latency for your users"
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 20, 2025
 
@@ -61,4 +61,4 @@ This is available on all plans using the [new image optimization price](https://
 Learn more about [cache invalidation](https://vercel.com/docs/edge-cache/purge#manually-purging-vercel-cache).
 
 了解更多关于[缓存失效](https://vercel.com/docs/edge-cache/purge#manually-purging-vercel-cache)的信息。
-{% endraw %}
+&#123;% endraw %}

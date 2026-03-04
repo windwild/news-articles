@@ -9,7 +9,7 @@ translated: false
 description: "Increasing enterprise support with more security features and controls, updates to our Assistants API, and tools to better manage costs."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 23, 2024
 
@@ -58,4 +58,4 @@ We plan to keep adding new features focused on enterprise-grade security, admini
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

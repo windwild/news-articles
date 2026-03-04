@@ -9,7 +9,7 @@ translated: false
 description: "We’re releasing an API for accessing new AI models developed by OpenAI."
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 June 11, 2020
 
@@ -79,4 +79,4 @@ _Updated September 18, 2020_
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2020](https://openai.com/news/?tags=2020)
-{% endraw %}
+&#123;% endraw %}

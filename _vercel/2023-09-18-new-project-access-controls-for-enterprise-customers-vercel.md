@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 18, 2023
 
@@ -31,4 +31,4 @@ Additionally, we’ve introduced new [Project level roles](https://vercel.com/do
 [Check out the documentation](https://vercel.com/docs/accounts/team-members-and-roles/access-roles) to learn more.
 
 [查阅相关文档](https://vercel.com/docs/accounts/team-members-and-roles/access-roles) 以了解更多信息。
-{% endraw %}
+&#123;% endraw %}

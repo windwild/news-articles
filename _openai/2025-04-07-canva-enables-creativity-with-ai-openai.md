@@ -9,7 +9,7 @@ translated: false
 description: "A conversation with Cameron Adams, Chief Product Officer and Co-founder of Canva."
 tags: ["API"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 7, 2025
 
@@ -106,4 +106,4 @@ _Canva uses OpenAI’s APIs to build parts of  Magic Studio, a suite of AI prod
 - [Asia-Pacific & Oceania](https://openai.com/stories/?tags=apac-oceania)
 - [Arts & Culture](https://openai.com/stories/?tags=arts-culture)
 - [Technology](https://openai.com/stories/?tags=industry-technology)
-{% endraw %}
+&#123;% endraw %}

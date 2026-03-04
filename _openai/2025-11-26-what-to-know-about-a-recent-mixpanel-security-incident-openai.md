@@ -9,7 +9,7 @@ translated: false
 description: "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protect..."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 November 26, 2025
 
@@ -115,4 +115,4 @@ OpenAI
 - If you have questions, concerns, or security issues, you can reach our support team at [mixpanelincident@openai.com⁠](mailto:mixpanelincident@openai.com).
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

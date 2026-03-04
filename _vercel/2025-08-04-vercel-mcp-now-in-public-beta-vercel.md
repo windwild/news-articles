@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Connect your AI tools to Vercel using the Model Context Protocol (MCP), an open standard that lets AI assistants interact with your Vercel projects"
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 4, 2025
 
@@ -29,4 +29,4 @@ Vercel MCP 全面实现了最新的 [MCP 授权规范](https://modelcontextproto
 本次更新进一步强化了 AI 驱动工作流与 Vercel 生态系统之间的协同能力。
 
 如需了解更多信息，请查阅我们的 [文档](https://vercel.com/docs/mcp/vercel-mcp)。
-{% endraw %}
+&#123;% endraw %}

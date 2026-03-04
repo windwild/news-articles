@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "l'officiel"
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 21, 2023
 
@@ -171,4 +171,4 @@ Get in Touch](https://vercel.com/contact/sales)
 联系专家，了解如何即刻开启 Vercel 之旅。\\
 \\
 立即联系](https://vercel.com/contact/sales)
-{% endraw %}
+&#123;% endraw %}

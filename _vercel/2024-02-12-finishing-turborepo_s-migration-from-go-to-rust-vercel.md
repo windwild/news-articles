@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "We've finished porting Turborepo, the high performance JavaScript and TypeScript build system, from Go to Rust."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 12, 2024
 
@@ -243,4 +243,4 @@ Vercel 模板
 Turborepo & Next.js Starter
 
 Turborepo 与 Next.js 入门模板
-{% endraw %}
+&#123;% endraw %}

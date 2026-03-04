@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel changes Edge Config Reads and Writes to granular usage based billing for increased flexibility and scalability "
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 6, 2025
 
@@ -25,4 +25,4 @@ Nov 6, 2025
 按单位计费模式能更平滑地适配不同规模团队及多样化的使用模式。同时，它也有助于 Pro 套餐用户在使用 Edge Config 时，避免在月初即快速耗尽当月包含的用量额度。
 
 [立即开始使用](https://vercel.com/docs/edge-config/get-started) 或进一步了解 [Edge Config](https://vercel.com/docs/edge-config)。
-{% endraw %}
+&#123;% endraw %}

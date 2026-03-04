@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Apr 13, 2022
 
@@ -23,4 +23,4 @@ Enterprise users can now be assigned a viewer role, providing increased security
 Viewer role is in public beta. Learn more about [roles and permissions](https://vercel.com/docs/concepts/teams/members#enterprise-team-account-roles) of Team members.
 
 “查看者”角色目前处于公开测试阶段。了解更多关于团队成员的[角色与权限](https://vercel.com/docs/concepts/teams/members#enterprise-team-account-roles)信息。
-{% endraw %}
+&#123;% endraw %}

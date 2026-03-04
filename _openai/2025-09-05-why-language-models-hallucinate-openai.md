@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety."
 ---
-{% raw %}
+&#123;% raw %}
 
 September 5, 2025
 
@@ -94,4 +94,4 @@ Our latest models have lower hallucination rates, and we continue to work hard t
 ## Announcement contributors
 
 Adam Kalai, Santosh Vempala (Georgia Tech), Ofir Nachum, Eddie Zhang, David Robinson, Saachi Jain, Eric Mitchell, Alex Beutel, Johannes Heidecke
-{% endraw %}
+&#123;% endraw %}

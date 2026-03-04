@@ -9,7 +9,7 @@ translated: false
 description: "We’ve created the world’s first Spam-detecting AI trained entirely in simulation and deployed on a physical robot."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 April 1, 2017
 
@@ -51,4 +51,4 @@ If you’d like to sink your teeth into compelling applied research problems lik
 
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
-{% endraw %}
+&#123;% endraw %}

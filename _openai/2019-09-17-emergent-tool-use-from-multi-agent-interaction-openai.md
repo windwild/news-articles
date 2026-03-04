@@ -9,7 +9,7 @@ translated: false
 description: "We’ve observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek. Through training in our new simulated hide-and-seek environment, agents build a se..."
 tags: ["Research"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 17, 2019
 
@@ -179,4 +179,4 @@ We’ve shown that agents can learn sophisticated tool use in a high fidelity ph
 - [Multi-agent](https://openai.com/research/index/?tags=multi-agent)
 - [Robotics](https://openai.com/research/index/?tags=robotics)
 - [Simulated Environments](https://openai.com/research/index/?tags=simulated-environments)
-{% endraw %}
+&#123;% endraw %}

@@ -7,7 +7,7 @@ scraped_at: "2026-03-03T09:45:45.937081275+00:00"
 language: "en-zh"
 translated: true
 ---
-{% raw %}
+&#123;% raw %}
 
 We are super excited to team up with Zapier and integrate their new [Zapier NLA API](https://zapier.com/l/natural-language-actions?ref=blog.langchain.com) into LangChain, which you can now use with your agents and chains. With this integration, you have access to the **5k+ apps and 20k+ actions** on Zapier's platform through a natural language API interface. This is extremely powerful and gives your LangChain agents seemingly limitless possibilities. Big shoutout to Mike Knoop and the rest of the Zapier team for helping with this integration. You can request access in the link shared above. What will you build?
 
@@ -115,4 +115,4 @@ agent = initialize_agent(toolkit.get_tools(), llm, agent="zero-shot-react-descri
 [**Unifying AI endpoints with Genoss, powered by LangChain**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
 
 [**借助 LangChain 支持的 Genoss 统一 AI 接口端点**](https://blog.langchain.com/unifying-ai-endpoints-with-genoss/)
-{% endraw %}
+&#123;% endraw %}

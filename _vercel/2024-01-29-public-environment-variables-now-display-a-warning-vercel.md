@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 29, 2024
 
@@ -39,4 +39,4 @@ This supports all frameworks that use a prefix to mark an environment variable a
 Learn more about [Environment Variables](https://vercel.com/docs/projects/environment-variables).
 
 了解更多关于 [环境变量](https://vercel.com/docs/projects/environment-variables) 的信息。
-{% endraw %}
+&#123;% endraw %}

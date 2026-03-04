@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Feb 26, 2021
 
@@ -29,4 +29,4 @@ Vercel Analytics 现在可在访问者加载您的网站时，以**近乎实时*
 除了近乎实时的更新外，您现在还可调整得分时间间隔的粒度，从而比以往更深入地理解您的真实体验得分。
 
 今天就为您的项目[启用 Vercel Analytics](https://vercel.com/analytics)，或[查阅文档](https://vercel.com/docs/analytics)。
-{% endraw %}
+&#123;% endraw %}

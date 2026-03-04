@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Sep 27, 2024
 
@@ -21,4 +21,4 @@ You can now purchase .ai domains on Vercel. Secure your new domain and use the [
 For a comprehensive list of all supported domains, check out the documentation [here](https://vercel.com/docs/projects/domains/supported-domains#supported-domains-for-purchase).
 
 如需查看所有支持购买的域名的完整列表，请参阅[此处](https://vercel.com/docs/projects/domains/supported-domains#supported-domains-for-purchase)的文档。
-{% endraw %}
+&#123;% endraw %}

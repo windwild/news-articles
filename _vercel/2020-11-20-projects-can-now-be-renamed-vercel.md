@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Nov 20, 2020
 
@@ -23,4 +23,4 @@ Nov 20, 2020
 在更改 Project 名称时，无论您是通过 [Git 仓库进行部署](https://vercel.com/docs/git)，还是使用 Vercel CLI [将 Project 关联至本地目录](https://vercel.com/docs/cli#commands/overview/project-linking)，您本人或团队的工作流程均不会受到任何影响。
 
 您也可查阅 [相关文档](https://vercel.com/docs/platform/projects#project-name)。
-{% endraw %}
+&#123;% endraw %}

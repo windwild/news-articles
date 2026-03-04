@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel now detects and deploys Hono, a fast, lightweight web application framework built on web standards, with zero configuration."
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 1, 2025
 
@@ -94,4 +94,4 @@ Now, new Hono applications deployed to Vercel benefit from [Fluid compute](https
 [Deploy Hono on Vercel](https://vercel.com/new/clone?demo-description=Deploying%20an%20API%20on%20Vercel%20with%20Hono.&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2FCYbcj30ZJhtGhg8JnR2Jm%2Fc2d3920a1878f356401b50593c1bc647%2FGeist_OG_Light.avif&demo-title=Hono%20on%20Vercel&demo-url=https%3A%2F%2Fhono.vercel.dev&from=templates&project-name=Hono%20on%20Vercel&repository-name=hono-on-vercel&repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fframework-boilerplates%2Fhono&skippable-integrations=1) or [visit Hono's Vercel documentation](https://vercel.com/docs/frameworks/backend/hono).
 
 [在 Vercel 上部署 Hono](https://vercel.com/new/clone?demo-description=Deploying%20an%20API%20on%20Vercel%20with%20Hono.&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2FCYbcj30ZJhtGhg8JnR2Jm%2Fc2d3920a1878f356401b50593c1bc647%2FGeist_OG_Light.avif&demo-title=Hono%20on%20Vercel&demo-url=https%3A%2F%2Fhono.vercel.dev&from=templates&project-name=Hono%20on%20Vercel&repository-name=hono-on-vercel&repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fframework-boilerplates%2Fhono&skippable-integrations=1)，或[查阅 Hono 的 Vercel 官方文档](https://vercel.com/docs/frameworks/backend/hono)。
-{% endraw %}
+&#123;% endraw %}

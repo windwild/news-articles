@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innova..."
 ---
-{% raw %}
+&#123;% raw %}
 
 November 4, 2025
 
@@ -43,4 +43,4 @@ We want to share more of these stories that highlight Brazil’s potential to ta
 OpenAI is committed to further supporting this progress. By collaborating with both public and private sectors, we aim to build a path rooted in safety and transparency, while preserving the freedom to innovate and empowering Brazil to unleash the entrepreneurship and creativity that have always defined it.
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

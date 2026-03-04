@@ -9,7 +9,7 @@ translated: false
 description: "Today, we’re excited to announce the appointment of Helen Toner to our board of directors."
 tags: ["Company"]
 ---
-{% raw %}
+&#123;% raw %}
 
 September 8, 2021
 
@@ -40,4 +40,4 @@ Helen currently oversees CSET’s data-driven AI policy research, which provides
 
 - [Culture & Careers](https://openai.com/news/?tags=culture-careers)
 - [2021](https://openai.com/news/?tags=2021)
-{% endraw %}
+&#123;% endraw %}

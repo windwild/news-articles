@@ -9,7 +9,7 @@ translated: true
 description: "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
 tags: ["Global Affairs"]
 ---
-{% raw %}
+&#123;% raw %}
 
 January 12, 2026
 
@@ -55,4 +55,4 @@ Like other companies in our industry, OpenAI continues to distinguish between ra
 
 - [2026](https://openai.com/news/?tags=2026)  
 - [2026年](https://openai.com/news/?tags=2026)
-{% endraw %}
+&#123;% endraw %}

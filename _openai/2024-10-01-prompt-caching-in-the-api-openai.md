@@ -9,7 +9,7 @@ translated: false
 description: "Offering automatic discounts on inputs that the model has recently seen"
 tags: ["Product"]
 ---
-{% raw %}
+&#123;% raw %}
 
 October 1, 2024
 
@@ -85,4 +85,4 @@ Prompt Caching is one of a variety of tools for developers to scale their applic
 
 - [API Platform](https://openai.com/news/?tags=api-platform)
 - [2024](https://openai.com/news/?tags=2024)
-{% endraw %}
+&#123;% endraw %}

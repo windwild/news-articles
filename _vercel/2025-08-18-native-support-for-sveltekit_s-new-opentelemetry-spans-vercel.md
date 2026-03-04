@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "SvelteKit natively supports OpenTelemetry tracing on Vercel using `registerOTel` from `@vercel/otel`. "
 ---
-{% raw %}
+&#123;% raw %}
 
 Aug 18, 2025
 
@@ -92,4 +92,4 @@ Traces generated during [tracing sessions](https://vercel.com/docs/session-traci
 
 ![SvelteKit integrated spans (in green) shown beneath Vercel infrastructure spans. Delays added for illustration.](images/native-support-for-sveltekit_s-new-opentelemetry-spans-vercel/img_001.jpg)  
 ![SvelteKit 集成的跨度（绿色）显示在 Vercel 基础设施跨度下方；图中添加了延迟以作示意。](images/native-support-for-sveltekit_s-new-opentelemetry-spans-vercel/img_001.jpg)
-{% endraw %}
+&#123;% endraw %}

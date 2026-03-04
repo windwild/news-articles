@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Earlier this year we introduced the foundations of the AI Cloud: a platform for building intelligent systems that think, plan, and act. At Ship AI, we showed what comes next. What and how to build wit..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 27, 2025
 
@@ -325,4 +325,4 @@ The pieces fit together because they solve the same problem: making agent develo
 You can just ship agents.
 
 您只需专注于交付智能体。
-{% endraw %}
+&#123;% endraw %}

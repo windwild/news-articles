@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["Harrison's Hot Takes"]
 ---
-{% raw %}
+&#123;% raw %}
 
 **TL;DR:**
 
@@ -932,4 +932,4 @@ You can find a living version of the spreadsheet [here](https://docs.google.com/
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 分钟阅读
 
 [Harrison's Hot Takes](https://blog.langchain.com/tag/in-the-loop/) 4 分钟阅读
-{% endraw %}
+&#123;% endraw %}

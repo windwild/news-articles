@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Fern used Vercel and Next.js to achieve efficient multi-tenancy, faster development cycles, and 50-80% faster load times"
 ---
-{% raw %}
+&#123;% raw %}
 
 May 15, 2025
 
@@ -184,4 +184,4 @@ Let's Talk](https://vercel.com/contact)
 预约一位 Web 应用专家，了解您的业务如何为用户打造更卓越的应用程序。  
 \\  
 立即交流](https://vercel.com/contact)
-{% endraw %}
+&#123;% endraw %}

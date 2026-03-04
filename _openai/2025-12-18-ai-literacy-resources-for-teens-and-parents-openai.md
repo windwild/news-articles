@@ -9,7 +9,7 @@ translated: true
 description: "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, h..."
 tags: ["Safety"]
 ---
-{% raw %}
+&#123;% raw %}
 
 December 18, 2025
 
@@ -42,4 +42,4 @@ Both resources were developed with expert input, including members of our [Exper
 - [用户安全与控制](https://openai.com/news/?tags=user-safety)  
 - [2025](https://openai.com/news/?tags=2025)  
 - [2025年](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}

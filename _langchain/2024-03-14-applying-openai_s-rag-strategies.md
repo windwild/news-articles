@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 tags: ["![Extraction Benchmarking", "**Extraction Benchmarking**", "**The Prompt Landscape**", "![Building Chat LangChain", "**Building Chat LangChain**"]
 ---
-{% raw %}
+&#123;% raw %}
 
 ## Context
 
@@ -185,4 +185,4 @@ However, the OpenAI results also show that evaluation is critically important to
 [**Building Chat LangChain**](https://blog.langchain.com/building-chat-langchain-2/)
 
 [**构建 Chat LangChain**](https://blog.langchain.com/building-chat-langchain-2/)
-{% endraw %}
+&#123;% endraw %}

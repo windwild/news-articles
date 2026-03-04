@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "The best way to deploy your Next.js site."
 ---
-{% raw %}
+&#123;% raw %}
 
 Mar 1, 2022
 
@@ -25,4 +25,4 @@ Monorepo build systems like Turborepo are able to leverage Vercel's infrastructu
 This API is now available as a public beta. To learn more about using the Remote Cache API please read our documentation [here](https://vercel.com/docs/concepts/deployments/remote-caching#how-to-use-remote-caching-api).
 
 该 API 现已开放公开测试（public beta）。如需了解如何使用远程缓存 API，请查阅我们的文档：[此处](https://vercel.com/docs/concepts/deployments/remote-caching#how-to-use-remote-caching-api)。
-{% endraw %}
+&#123;% endraw %}

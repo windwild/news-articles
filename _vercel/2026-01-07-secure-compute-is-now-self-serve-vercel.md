@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Secure Compute Networks are self-serve for all Enterprise Teams. Customers can self serve creating, updating and deleting Secure Compute Networks from the Vercel Dashboard."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 7, 2026
 
@@ -51,4 +51,4 @@ This is available today for Enterprise teams.
 [Check out the documentation](https://vercel.com/docs/connectivity/secure-compute) to get started.
 
 请查阅[文档](https://vercel.com/docs/connectivity/secure-compute)开始使用。
-{% endraw %}
+&#123;% endraw %}

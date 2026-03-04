@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "Vercel sandboxes now let you snapshot an entire filesystem, and you can restore from those snapshots for future work."
 ---
-{% raw %}
+&#123;% raw %}
 
 Jan 22, 2026
 
@@ -74,4 +74,4 @@ for await (const chunk of await newSandbox.readFile({ path: '/vercel/sandbox/hel
 See the [documentation](https://vercel.com/docs/vercel-sandbox/concepts/snapshots) to get started with snapshots.
 
 请参阅[文档](https://vercel.com/docs/vercel-sandbox/concepts/snapshots)，了解如何开始使用快照。
-{% endraw %}
+&#123;% endraw %}

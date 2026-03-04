@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "In-function concurrency is now in public beta, and allows a single function instance to handle multiple invocations concurrently, improving resource utilization by taking advantage of idle time in exi..."
 ---
-{% raw %}
+&#123;% raw %}
 
 Oct 3, 2024
 
@@ -31,4 +31,4 @@ Fluid 计算融合了传统服务器的高效性与无服务器架构的灵活�
 函数内并发的公开测试版面向所有使用 [Standard 或 Performance 函数 CPU 配置](https://vercel.com/docs/functions/configuring-functions/memory#setting-your-default-function-memory-/-cpu-size) 的 [Pro 和 Enterprise 计划](https://vercel.com/docs/accounts/plans#account-plans-on-vercel) 用户开放。您可通过 [控制台仪表板启用该功能](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Ffunctions%23in-function-concurrency&title=Go+to+Function+Settings)，并实时追踪资源节省效果。
 
 了解更多，请阅读我们的 [博客文章](https://vercel.com/blog/serverless-servers-introducing-in-function-concurrency-for-vercel-functions-2MoEVmoCwraZoZC9t5HI59) 和 [官方文档](https://vercel.com/docs/functions/runtimes/node-js#in-function-concurrency)。
-{% endraw %}
+&#123;% endraw %}

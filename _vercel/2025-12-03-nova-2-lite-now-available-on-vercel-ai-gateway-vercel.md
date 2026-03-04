@@ -8,7 +8,7 @@ language: "en-zh"
 translated: true
 description: "You can now access Amazon's latest model Nova 2 Lite on Vercel AI Gateway with no other provider accounts required."
 ---
-{% raw %}
+&#123;% raw %}
 
 Dec 3, 2025
 
@@ -67,4 +67,4 @@ AI Gateway 模型排行榜根据通过该网关的所有流量的总 Token 量�
 
 [View the leaderboard](https://vercel.com/ai-gateway/leaderboards)  
 [查看排行榜](https://vercel.com/ai-gateway/leaderboards)
-{% endraw %}
+&#123;% endraw %}

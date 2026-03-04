@@ -8,7 +8,7 @@ language: "en-US"
 translated: false
 description: "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI."
 ---
-{% raw %}
+&#123;% raw %}
 
 December 9, 2025
 
@@ -71,4 +71,4 @@ Established by OpenAI, [Block⁠(opens in a new window)](https://block.xyz/), [A
 We welcome contributors of all kinds—tool builders, researchers, enterprises, and individual developers—to help shape and extend this work. Learn more about [AGENTS.md⁠(opens in a new window)](http://agents.md/) and get involved with the AAIF [here⁠(opens in a new window)](https://aaif.io/).
 
 - [2025](https://openai.com/news/?tags=2025)
-{% endraw %}
+&#123;% endraw %}
