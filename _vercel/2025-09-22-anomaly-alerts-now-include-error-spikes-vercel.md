@@ -1,5 +1,6 @@
 ---
 title: "Anomaly alerts now include error spikes - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/anomaly-alerts-now-include-error-spikes"
 date: "2025-09-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Enterprise customers with Observability Plus can now receive anomaly alerts for errors through the limited beta"
 ---
 
+render_with_liquid: false
 Sep 22, 2025
 
 2025年9月22日

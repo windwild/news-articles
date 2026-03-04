@@ -1,5 +1,6 @@
 ---
 title: "GPT 5.1 models now available in Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gpt-5-1-models-now-available-in-vercel-ai-gateway"
 date: "2025-11-13"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access the two GPT 5.1 models with Vercel's AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Nov 13, 2025
 
 2025 年 11 月 13 日

@@ -1,5 +1,6 @@
 ---
 title: "Domains can now be redirected with a custom status code - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/domains-can-now-be-redirected-with-a-custom-status-code"
 date: "2021-02-18"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 18, 2021
 
 2021 年 2 月 18 日

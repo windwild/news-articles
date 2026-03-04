@@ -1,5 +1,6 @@
 ---
 title: "Streaming is now supported in Vercel Functions for the Python runtime - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/streaming-is-now-supported-in-vercel-functions-for-the-python-runtime"
 date: "2024-11-22"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 22, 2024
 
 2024 年 11 月 22 日

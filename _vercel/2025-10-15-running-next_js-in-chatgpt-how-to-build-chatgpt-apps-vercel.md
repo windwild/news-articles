@@ -1,5 +1,6 @@
 ---
 title: "Running Next.js in ChatGPT: How to Build ChatGPT Apps - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/running-next-js-inside-chatgpt-a-deep-dive-into-native-app-integration"
 date: "2025-10-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Next.js now runs natively in ChatGPT with working navigation, React Server Components, and full features. Learn how we made this possible behind ChatGPTs triple iframe architecture and deploy our star..."
 ---
 
+render_with_liquid: false
 2025年10月15日
 
 2025年10月15日

@@ -1,5 +1,6 @@
 ---
 title: "Builds now start up to 30% faster - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/builds-now-start-up-to-30-faster"
 date: "2025-09-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel builds now initialize faster due optimized cache downloads. We use a worker pool to download the build cache, reducing initialization times by 30%"
 ---
 
+render_with_liquid: false
 Sep 16, 2025
 
 2025 年 9 月 16 日

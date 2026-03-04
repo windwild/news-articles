@@ -1,5 +1,6 @@
 ---
 title: "Introducing Serverless Pre-Rendering (SPR) - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/serverless-pre-rendering"
 date: "2019-05-03"
@@ -9,6 +10,7 @@ translated: true
 description: "Introducing SPR, an industry-defining feature that allows you to get the best of both static and dynamic data rendering."
 ---
 
+render_with_liquid: false
 May 3, 2019
 
 2019 年 5 月 3 日

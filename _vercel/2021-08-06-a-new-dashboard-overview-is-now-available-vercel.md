@@ -1,5 +1,6 @@
 ---
 title: "A new dashboard overview is now available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/a-new-dashboard-overview-is-now-available"
 date: "2021-08-06"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 6, 2021
 
 2021年8月6日

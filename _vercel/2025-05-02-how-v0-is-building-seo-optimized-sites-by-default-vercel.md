@@ -1,5 +1,6 @@
 ---
 title: "How v0 is building SEO-optimized sites by default - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-v0-is-building-seo-optimized-sites-by-default"
 date: "2025-05-02"
@@ -9,6 +10,7 @@ translated: true
 description: "Understanding how v0 ensures everything you create is seo-ready by default, without changing how you build"
 ---
 
+render_with_liquid: false
 May 2, 2025
 
 2025年5月2日

@@ -1,5 +1,6 @@
 ---
 title: "Tracing the thoughts of a large language model"
+render_with_liquid: false
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/tracing-thoughts-language-model"
 scraped_at: "2026-03-02T09:21:11.311716016+00:00"
@@ -9,6 +10,7 @@ description: "Anthropic's latest interpretability research: a new microscope to 
 tags: ["Interpretability"]
 ---
 
+render_with_liquid: false
 Interpretability
 
 可解释性

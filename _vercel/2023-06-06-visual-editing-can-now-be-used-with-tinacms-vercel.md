@@ -1,5 +1,6 @@
 ---
 title: "Visual Editing can now be used with TinaCMS - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/visual-editing-can-now-be-used-with-tinacms"
 date: "2023-06-06"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 6, 2023
 
 2023年6月6日

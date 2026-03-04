@@ -1,5 +1,6 @@
 ---
 title: "Server rendering benchmarks: Fluid Compute and Cloudflare Workers - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/fluid-compute-benchmark-results"
 date: "2025-10-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Fluid Compute outperforms Cloudflare Workers by 1.2x–5x in server-side rendering benchmarks, offering faster, more consistent response times through an optimized in-region architecture."
 ---
 
+render_with_liquid: false
 Oct 9, 2025
 
 2025年10月9日

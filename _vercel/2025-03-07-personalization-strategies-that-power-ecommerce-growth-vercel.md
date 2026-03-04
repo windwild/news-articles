@@ -1,5 +1,6 @@
 ---
 title: "Personalization strategies that power ecommerce growth - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/personalization-strategies-that-power-ecommerce-growth"
 date: "2025-03-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how to implement high-performance personalization with Next.js and Vercel. Discover best practices, avoid common pitfalls, and deliver fast, scalable, and revenue-driving ecommerce experiences w..."
 ---
 
+render_with_liquid: false
 Mar 7, 2025
 
 2025年3月7日

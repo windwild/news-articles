@@ -1,5 +1,6 @@
 ---
 title: "Spend Management: Realtime Usage Alerts, SMS Notifications, and Project Pausing - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-spend-management-realtime-usage-alerts-sms-notifications"
 date: "2023-10-05"
@@ -9,6 +10,7 @@ translated: true
 description: "New controls to help you safely scale your projects and prevent unexpected bills."
 ---
 
+render_with_liquid: false
 Oct 5, 2023
 
 2023 年 10 月 5 日

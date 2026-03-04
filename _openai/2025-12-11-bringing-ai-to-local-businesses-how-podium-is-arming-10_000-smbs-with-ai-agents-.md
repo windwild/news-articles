@@ -1,5 +1,6 @@
 ---
 title: "Bringing AI to local businesses: How Podium is arming 10,000+ SMBs with AI agents | OpenAI"
+render_with_liquid: false
 source: "OpenAI Blog"
 url: "https://openai.com/index/podium"
 date: "2025-12-11"
@@ -10,6 +11,7 @@ description: "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an
 tags: ["ChatGPT"]
 ---
 
+render_with_liquid: false
 December 11, 2025
 
 2025年12月11日

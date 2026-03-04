@@ -1,5 +1,6 @@
 ---
 title: "Bounce rate support in Web Analytics - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bounce-rate-support-in-web-analytics"
 date: "2025-01-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Web Analytics now displays the bounce rate on your Vercel dashboard. The bounce rate shows the percentage of users visiting a single page without navigating any further."
 ---
 
+render_with_liquid: false
 Jan 15, 2025
 
 2025 年 1 月 15 日

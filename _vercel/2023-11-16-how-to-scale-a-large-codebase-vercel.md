@@ -1,5 +1,6 @@
 ---
 title: "How to scale a large codebase - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-to-scale-a-large-codebase"
 date: "2023-11-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Transition from monolithic to monorepo architectures with Vercel. Explore feature flags for safe releases, incremental builds for quick iterations, and skew protection for version consistency to ease ..."
 ---
 
+render_with_liquid: false
 Nov 16, 2023
 
 2023 年 11 月 16 日

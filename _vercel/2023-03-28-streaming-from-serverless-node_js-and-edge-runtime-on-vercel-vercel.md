@@ -1,5 +1,6 @@
 ---
 title: "Streaming from serverless Node.js and Edge Runtime on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/streaming-for-serverless-node-js-and-edge-runtimes-with-vercel-functions"
 date: "2023-03-28"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how Vercel enables streaming for serverless Node.js and Edge runtimes. HTTP streaming enables the server to incrementally send response data in smaller chunks to the client while generating the ..."
 ---
 
+render_with_liquid: false
 Mar 28, 2023
 
 2023 年 3 月 28 日

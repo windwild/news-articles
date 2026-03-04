@@ -1,5 +1,6 @@
 ---
 title: "Deploy agents instantly with Agent Builder templates"
+render_with_liquid: false
 source: "LangChain Blog"
 url: "https://blog.langchain.com/introducing-agent-builder-template-library/"
 date: "2026-01-21"
@@ -10,6 +11,7 @@ description: "Introducing the Agent Builder Template Library: a collection of re
 tags: ["agent builder", "agents"]
 ---
 
+render_with_liquid: false
 [LangSmith Agent Builder](https://www.langchain.com/langsmith/agent-builder?ref=blog.langchain.com)  
 [LangSmith Agent Builder（LangSmith 智能体构建器）](https://www.langchain.com/langsmith/agent-builder?ref=blog.langchain.com)
 

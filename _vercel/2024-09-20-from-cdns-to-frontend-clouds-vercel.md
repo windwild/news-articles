@@ -1,5 +1,6 @@
 ---
 title: "From CDNs to Frontend Clouds - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/from-cdns-to-frontend-clouds"
 date: "2024-09-20"
@@ -9,6 +10,7 @@ translated: true
 description: "Content Delivery Networks (CDNs) and Infrastructure as code (IaC) evolved into the next generation of web application delivery."
 ---
 
+render_with_liquid: false
 Sep 20, 2024
 
 2024 年 9 月 20 日

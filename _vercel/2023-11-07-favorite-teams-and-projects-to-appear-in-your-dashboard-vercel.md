@@ -1,5 +1,6 @@
 ---
 title: "Favorite teams and projects to appear in your dashboard - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/favorite-teams-and-projects-to-appear-in-your-dashboard"
 date: "2023-11-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Now, favorited projects will also appear in your dashboard overview, and you can easily add and remove them from the context menu."
 ---
 
+render_with_liquid: false
 Nov 7, 2023
 
 2023 年 11 月 7 日

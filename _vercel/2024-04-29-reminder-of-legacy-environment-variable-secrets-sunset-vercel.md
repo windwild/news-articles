@@ -1,5 +1,6 @@
 ---
 title: "Reminder of legacy environment variable secrets sunset - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/legacy-environment-variable-secrets-sunset-reminder"
 date: "2024-04-29"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 29, 2024
 
 2024 年 4 月 29 日

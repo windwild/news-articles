@@ -1,5 +1,6 @@
 ---
 title: "On Agent Frameworks and Agent Observability"
+render_with_liquid: false
 source: "LangChain Blog"
 url: "https://blog.langchain.com/on-agent-frameworks-and-agent-observability/"
 date: "2026-02-13"
@@ -10,6 +11,7 @@ description: "Every time LLMs get better, the same question comes back: &quot;Do
 tags: ["Harrison's Hot Takes"]
 ---
 
+render_with_liquid: false
 Every time LLMs get better, the same question comes back: "Do you still need an agent framework?" It's a fair question. The best way to build agents changes as the models get more performant and evolve, but fundamentally, the agent is a system _around_ the model, so they will not disappear – they just need to evolve too.  
 每次大语言模型（LLM）能力提升，同一个问题就会再次浮现：“我们是否仍需要智能体（agent）框架？”这是一个合理的问题。随着模型性能不断提升、能力持续演进，构建智能体的最佳方式也在变化；但从根本上说，智能体本质上是围绕模型构建的一套**系统**，因此它不会消失——只是自身也需要同步演进。
 

@@ -1,5 +1,6 @@
 ---
 title: "Updated logging limits for Vercel Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/updated-logging-limits-for-vercel-functions"
 date: "2025-01-09"
@@ -9,6 +10,7 @@ translated: true
 description: "The runtime log limits for Vercel Functions have been increased, allowing for significantly larger log entries. Logs are increased to 256KB per log line, 256 log lines per request, and 1MB total log s..."
 ---
 
+render_with_liquid: false
 Jan 9, 2025
 
 2025 年 1 月 9 日

@@ -1,5 +1,6 @@
 ---
 title: "New Domains Registrar API for domain search, pricing, purchase, and management - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-domains-registrar-api-for-domain-search-pricing-purchase-and-management"
 date: "2025-10-08"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Domains Registrar APIs let you search TLDs, fetch pricing, check availability, purchase or renew domains, manage nameservers, and handle transfers."
 ---
 
+render_with_liquid: false
 Oct 8, 2025
 
 2025 年 10 月 8 日

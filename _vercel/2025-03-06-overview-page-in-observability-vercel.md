@@ -1,5 +1,6 @@
 ---
 title: "Overview page in Observability - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/overview-page-in-observability"
 date: "2025-03-06"
@@ -9,6 +10,7 @@ translated: true
 description: "The Observability section now includes an Overview dashboard that shows key metrics from Edge Requests, Fast Data Transfer, Vercel Functions, and Edge Functions at a glance."
 ---
 
+render_with_liquid: false
 Mar 6, 2025
 
 2025年3月6日

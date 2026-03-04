@@ -1,5 +1,6 @@
 ---
 title: "Middleware insights now available in Vercel Observability - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/middleware-insights-now-available-in-vercel-observability"
 date: "2025-05-23"
@@ -9,6 +10,7 @@ translated: true
 description: "The Vercel Observability dashboard now includes a dedicated view for middleware, showing invocation counts and performance metrics."
 ---
 
+render_with_liquid: false
 May 23, 2025
 
 2025 年 5 月 23 日

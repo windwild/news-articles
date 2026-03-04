@@ -1,5 +1,6 @@
 ---
 title: "How AI Gateway runs on Fluid compute - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-ai-gateway-runs-on-fluid-compute"
 date: "2025-11-06"
@@ -9,6 +10,7 @@ translated: true
 description: "The AI Gateway is a simple application deployed on Vercel, but it achieves scale, efficiency, and resilience by running on Fluid compute and leveraging Vercel’s global infrastructure."
 ---
 
+render_with_liquid: false
 Nov 6, 2025
 
 2025 年 11 月 6 日

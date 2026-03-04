@@ -1,5 +1,6 @@
 ---
 title: "Projects can now be transferred to Personal Accounts - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/projects-can-now-be-transferred-to-personal-accounts"
 date: "2021-08-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Projects can now be transferred from Teams to Personal Accounts with no workflow interruptions or downtime"
 ---
 
+render_with_liquid: false
 Aug 12, 2021
 
 2021 年 8 月 12 日

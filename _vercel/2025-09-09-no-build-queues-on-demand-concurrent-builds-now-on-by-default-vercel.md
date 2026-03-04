@@ -1,5 +1,6 @@
 ---
 title: "No build queues: On-demand concurrent builds now on by default - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/no-build-queues-on-demand-concurrent-builds-now-on-by-default"
 date: "2025-09-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Teams on the new Pro pricing model will now have on-demand concurrent builds enabled by default. This ensures builds across projects start immediately without waiting in a queue, except when multiple ..."
 ---
 
+render_with_liquid: false
 Sep 9, 2025
 
 2025 年 9 月 9 日

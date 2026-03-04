@@ -1,5 +1,6 @@
 ---
 title: "More Secure Deployment Protection - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/more-secure-deployment-protection"
 date: "2025-07-14"
@@ -9,6 +10,7 @@ translated: true
 description: "Standard Deployment Protection now protects all except production custom domains enhancing protection for automatic aliases for production deployments."
 ---
 
+render_with_liquid: false
 Jul 14, 2025
 
 2025年7月14日

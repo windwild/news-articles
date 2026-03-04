@@ -1,5 +1,6 @@
 ---
 title: "Improved unhandled Node.js errors in Fluid compute - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-unhandled-node-js-errors-in-fluid-compute"
 date: "2025-06-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Fluid compute now gracefully handles Node.js uncaught exceptions and unhandled rejections to provide better isolation between requests."
 ---
 
+render_with_liquid: false
 Jun 12, 2025
 
 2025 年 6 月 12 日

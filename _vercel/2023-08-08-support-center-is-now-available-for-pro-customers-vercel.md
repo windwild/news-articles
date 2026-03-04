@@ -1,5 +1,6 @@
 ---
 title: "Support Center is now available for Pro customers - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-center-on-pro"
 date: "2023-08-08"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 8, 2023
 
 2023 年 8 月 8 日

@@ -1,5 +1,6 @@
 ---
 title: "Helpers for Serverless Node.js Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-node-helpers"
 date: "2019-06-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Introducing six default methods to the request and response payloads in your Node.js Serverless Functions."
 ---
 
+render_with_liquid: false
 Jun 19, 2019
 
 2019 年 6 月 19 日

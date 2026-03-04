@@ -1,5 +1,6 @@
 ---
 title: "Build your own web framework - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/build-your-own-web-framework"
 date: "2022-07-28"
@@ -9,6 +10,7 @@ translated: true
 description: "Build your own web framework that deploys to edge and serverless infrastructure."
 ---
 
+render_with_liquid: false
 Jul 28, 2022
 
 2022 年 7 月 28 日

@@ -1,5 +1,6 @@
 ---
 title: "Changes to supported TLD registrations - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/changes-to-supported-tld-registrations"
 date: "2025-02-25"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Domains now supports registration for 66 new TLDs, while removing select ccTLDs and regional domains. Learn more about these updates."
 ---
 
+render_with_liquid: false
 Feb 25, 2025
 
 2025 年 2 月 25 日

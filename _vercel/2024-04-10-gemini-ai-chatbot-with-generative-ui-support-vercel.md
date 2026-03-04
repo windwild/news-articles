@@ -1,5 +1,6 @@
 ---
 title: "Gemini AI Chatbot with Generative UI support - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gemini-ai-chatbot-with-generative-ui-support"
 date: "2024-04-10"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 10, 2024
 
 2024年4月10日

@@ -1,5 +1,6 @@
 ---
 title: "Docs pages support Markdown responses - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/docs-pages-support-markdown-responses"
 date: "2026-01-13"
@@ -9,6 +10,7 @@ translated: true
 description: "Docs pages now accept `Accept: text/markdown` to return Markdown instead of HTML, and include a `sitemap.md` link at the end for programmatic discovery."
 ---
 
+render_with_liquid: false
 Jan 13, 2026
 
 2026 年 1 月 13 日

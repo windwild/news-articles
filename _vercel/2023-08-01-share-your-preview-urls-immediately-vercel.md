@@ -1,5 +1,6 @@
 ---
 title: "Share your Preview URLs immediately - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/share-your-preview-urls-immediately"
 date: "2023-08-01"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 1, 2023
 
 2023 年 8 月 1 日

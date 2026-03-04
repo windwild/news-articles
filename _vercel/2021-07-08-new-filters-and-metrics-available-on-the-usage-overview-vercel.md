@@ -1,5 +1,6 @@
 ---
 title: "New filters and metrics available on the Usage Overview - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-filters-and-metrics-available-on-the-usage-overview"
 date: "2021-07-08"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 8, 2021
 
 2021 年 7 月 8 日

@@ -1,5 +1,6 @@
 ---
 title: "OpenID Connect (OIDC) Federation now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/openid-connect-federation-now-generally-available"
 date: "2024-10-23"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 23, 2024
 
 2024 年 10 月 23 日

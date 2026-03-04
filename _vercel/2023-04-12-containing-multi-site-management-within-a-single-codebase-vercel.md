@@ -1,5 +1,6 @@
 ---
 title: "Containing multi-site management within a single codebase - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/wunderman-thompson-composable-workflow"
 date: "2023-04-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Discover how to create an efficient design system that streamlines the site creation process, inspired by Wunderman Thompson's work in managing hundreds of brands from a single codebase."
 ---
 
+render_with_liquid: false
 Apr 12, 2023
 
 2023年4月12日

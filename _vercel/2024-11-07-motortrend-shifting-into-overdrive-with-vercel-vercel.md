@@ -1,5 +1,6 @@
 ---
 title: "MotorTrend: Shifting into overdrive with Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/motortrend-shifting-into-overdrive-with-vercel"
 date: "2024-11-07"
@@ -9,6 +10,7 @@ translated: true
 description: "How a performance-first approach drives business value. By migrating to Vercel, MotorTrend improved release times from 18 days to 10 minutes. As velocity improved, ad impressions grew, translating int..."
 ---
 
+render_with_liquid: false
 Nov 7, 2024
 
 2024 年 11 月 7 日

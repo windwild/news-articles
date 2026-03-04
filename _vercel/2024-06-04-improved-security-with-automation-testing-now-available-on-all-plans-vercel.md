@@ -1,5 +1,6 @@
 ---
 title: "Improved security with automation testing now available on all plans - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-security-with-automation-testing-now-available-on-all-plans"
 date: "2024-06-04"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 4, 2024
 
 2024 年 6 月 4 日

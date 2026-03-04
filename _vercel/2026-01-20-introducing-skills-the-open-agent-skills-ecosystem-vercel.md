@@ -1,5 +1,6 @@
 ---
 title: "Introducing skills, the open agent skills ecosystem - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-skills-the-open-agent-skills-ecosystem"
 date: "2026-01-20"
@@ -9,6 +10,7 @@ translated: true
 description: "Introducing skills, a CLI for installing and managing agent “skill packages.” Add a skill package with npx skills add , with more commands planned."
 ---
 
+render_with_liquid: false
 Jan 20, 2026
 
 2026 年 1 月 20 日

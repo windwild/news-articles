@@ -1,5 +1,6 @@
 ---
 title: "Trigger a Vercel deployment from any event using Deploy Hooks - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-deploy-hooks"
 date: "2019-07-30"
@@ -9,6 +10,7 @@ translated: true
 description: "With Deploy Hooks, you can create a deployment based on any event."
 ---
 
+render_with_liquid: false
 Jul 30, 2019
 
 2019年7月30日

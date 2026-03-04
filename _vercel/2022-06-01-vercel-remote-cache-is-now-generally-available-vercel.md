@@ -1,5 +1,6 @@
 ---
 title: "Vercel Remote Cache is now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-remote-cache-is-now-generally-available"
 date: "2022-06-01"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 1, 2022
 
 2022 年 6 月 1 日

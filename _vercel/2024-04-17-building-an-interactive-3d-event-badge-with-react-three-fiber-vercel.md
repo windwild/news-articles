@@ -1,5 +1,6 @@
 ---
 title: "Building an interactive 3D event badge with React Three Fiber - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber"
 date: "2024-04-17"
@@ -9,6 +10,7 @@ translated: true
 description: "See a full working demo of how we built the interactive Vercel Ship '24 badge using React Three Fiber and react-three-rapier."
 ---
 
+render_with_liquid: false
 Apr 17, 2024
 
 2024 年 4 月 17 日

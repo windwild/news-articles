@@ -1,5 +1,6 @@
 ---
 title: "Search any public GitHub repo with Grep - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/search-any-public-github-repo-with-grep"
 date: "2025-07-14"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now use Grep to search any public repository on GitHub, no longer limited to the 1M+ pre-indexed repos. Get quick, full-text search across the repo without any setup."
 ---
 
+render_with_liquid: false
 Jul 14, 2025
 
 2025年7月14日

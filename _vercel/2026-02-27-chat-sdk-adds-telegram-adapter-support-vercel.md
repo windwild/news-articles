@@ -1,5 +1,6 @@
 ---
 title: "Chat SDK adds Telegram adapter support - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/chat-sdk-adds-telegram-adapter-support"
 date: "2026-02-27"
@@ -9,6 +10,7 @@ translated: true
 description: "Chat SDK now supports Telegram for webhook-based bot integrations with mentions, reactions, DMs, and interactive buttons."
 ---
 
+render_with_liquid: false
 Feb 27, 2026
 
 2026 年 2 月 27 日

@@ -1,5 +1,6 @@
 ---
 title: "Observe your feature flags with the Vercel DX platform - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/observe-your-feature-flags-with-the-vercel-dx-platform"
 date: "2024-05-23"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 23, 2024
 
 2024 年 5 月 23 日

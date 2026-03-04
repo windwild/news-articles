@@ -1,5 +1,6 @@
 ---
 title: "How to prompt v0 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-to-prompt-v0"
 date: "2025-12-15"
@@ -9,6 +10,7 @@ translated: true
 description: "The best v0 prompts include three things. What you're building, who uses it and when, and your design constraints. This guide walks through the framework with side-by-side tests showing faster generat..."
 ---
 
+render_with_liquid: false
 Dec 15, 2025
 
 2025 年 12 月 15 日

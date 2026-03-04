@@ -1,5 +1,6 @@
 ---
 title: "The Vercel Toolbar is now more compact and dynamic - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/the-vercel-toolbar-is-now-more-compact-and-dynamic"
 date: "2025-01-14"
@@ -9,6 +10,7 @@ translated: true
 description: "The Vercel Toolbar has been upgraded with an unobtrusive design, recommended shortcuts, browser extension controls, and more features that give it better UX.. "
 ---
 
+render_with_liquid: false
 Jan 14, 2025
 
 2025 年 1 月 14 日

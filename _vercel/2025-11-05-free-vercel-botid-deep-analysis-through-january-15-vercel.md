@@ -1,5 +1,6 @@
 ---
 title: "Free Vercel BotID Deep Analysis through January 15 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/free-botid-deep-analysis"
 date: "2025-11-05"
@@ -9,6 +10,7 @@ translated: true
 description: "BotID is Vercel's most advanced bot solution, and will be free for all pro and enterprise customers during the Black Friday Cyber Monday/ the holidays."
 ---
 
+render_with_liquid: false
 Nov 5, 2025
 
 2025 年 11 月 5 日

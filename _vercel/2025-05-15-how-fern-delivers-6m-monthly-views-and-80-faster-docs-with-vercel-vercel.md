@@ -1,5 +1,6 @@
 ---
 title: "How Fern delivers 6M+ monthly views and 80% faster docs with Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-fern-delivers-6m-monthly-views-and-80-faster-docs-with-vercel"
 date: "2025-05-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Fern used Vercel and Next.js to achieve efficient multi-tenancy, faster development cycles, and 50-80% faster load times"
 ---
 
+render_with_liquid: false
 May 15, 2025
 
 2025年5月15日

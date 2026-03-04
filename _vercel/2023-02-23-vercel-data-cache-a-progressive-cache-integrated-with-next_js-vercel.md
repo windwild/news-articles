@@ -1,5 +1,6 @@
 ---
 title: "Vercel Data Cache: A progressive cache, integrated with Next.js - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-cache-api-nextjs-cache"
 date: "2023-02-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Cache only part of your page as static data, while fully dynamically rendering the rest of your application, including accessing real-time and personalized data."
 ---
 
+render_with_liquid: false
 Feb 23, 2023
 
 2023 年 2 月 23 日

@@ -1,5 +1,6 @@
 ---
 title: "View, upload, and delete Blob files in the dashboard - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/view-upload-and-delete-blob-files-in-the-dashboard"
 date: "2023-12-21"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 21, 2023
 
 2023 年 12 月 21 日

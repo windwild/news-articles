@@ -1,5 +1,6 @@
 ---
 title: "Deployments can now require cryptographically-verified commits - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deployments-can-now-require-cryptographically-verified-commits"
 date: "2025-11-24"
@@ -9,6 +10,7 @@ translated: true
 description: "When enabled, Vercel will only create deployments for commits that have been verified by GitHub. For all other commits, the deployment will be automatically canceled."
 ---
 
+render_with_liquid: false
 Nov 24, 2025
 
 2025 年 11 月 24 日

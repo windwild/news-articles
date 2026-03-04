@@ -1,5 +1,6 @@
 ---
 title: "MiniMax M2 now available for free in Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/minimax-m2-now-available-in-vercel-ai-gateway"
 date: "2025-10-28"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access MiniMax M2 with Vercel's AI Gateway for free with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Oct 28, 2025
 
 2025 年 10 月 28 日

@@ -1,5 +1,6 @@
 ---
 title: "Two-Factor Authentication (2FA) is now available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/2fa-is-now-available"
 date: "2025-04-03"
@@ -9,6 +10,7 @@ translated: true
 description: "Two-Factor Authentication (2FA) is now available. You can now secure your personal account using Two-Factor Authentication (2FA) with Time-based One-Time Passwords (TOTP)"
 ---
 
+render_with_liquid: false
 Apr 3, 2025
 
 2025年4月3日

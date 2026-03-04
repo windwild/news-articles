@@ -1,5 +1,6 @@
 ---
 title: "Edge Function metrics now available in Monitoring - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/edge-function-metrics-now-available-in-monitoring"
 date: "2025-01-30"
@@ -9,6 +10,7 @@ translated: true
 description: "Monitoring now includes three new metrics for Edge Functions to provide a comprehensive view of your Edge Function activity and performance. These metrics are available for all Observability Plus and ..."
 ---
 
+render_with_liquid: false
 Jan 30, 2025
 
 2025 年 1 月 30 日

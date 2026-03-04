@@ -1,5 +1,6 @@
 ---
 title: "How Ruggable optimized their frontend architecture - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-ruggable-saw-more-organic-clicks-by-optimizing-their-frontend"
 date: "2024-04-08"
@@ -9,6 +10,7 @@ translated: true
 description: "Ruggable improved organic search traffic by 300% by migrating their ecommerce storefront from a Shopify monolith to a headless solution on Next.js and Vercel."
 ---
 
+render_with_liquid: false
 Apr 8, 2024
 
 2024 年 4 月 8 日

@@ -1,5 +1,6 @@
 ---
 title: "Statement on the comments from Secretary of War Pete Hegseth"
+render_with_liquid: false
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/statement-comments-secretary-war"
 scraped_at: "2026-03-02T09:21:04.906420880+00:00"
@@ -9,6 +10,7 @@ description: "Anthropic's response to the Secretary of War and advice for custom
 tags: ["Announcements"]
 ---
 
+render_with_liquid: false
 # Statement on the comments from Secretary of War Pete Hegseth
 
 # 关于美国战争部长彼得·赫格塞斯（Pete Hegseth）相关言论的声明

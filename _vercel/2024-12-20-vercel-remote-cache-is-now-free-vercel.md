@@ -1,5 +1,6 @@
 ---
 title: "Vercel Remote Cache is now free - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/free-vercel-remote-cache"
 date: "2024-12-20"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Remote Cache is now free for all plans.  Never do the same work twice in your Turborepo or Nx repository with a shared store of build outputs and logs for your team."
 ---
 
+render_with_liquid: false
 Dec 20, 2024
 
 2024 年 12 月 20 日

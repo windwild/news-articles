@@ -1,5 +1,6 @@
 ---
 title: "Claude Opus 4.1 is now supported in Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claude-4-1-opus-is-now-supported-in-vercel-ai-gateway"
 date: "2025-08-05"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access Claude Opus 4.1, a new model released by Anthropic today, using Vercel's AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Aug 5, 2025
 
 2025 年 8 月 5 日

@@ -1,5 +1,6 @@
 ---
 title: "Updated v0 pricing - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/updated-v0-pricing"
 date: "2025-05-13"
@@ -9,6 +10,7 @@ translated: true
 description: "More flexible pricing for v0 that scales with your usage and lets you pay on-demand through credits."
 ---
 
+render_with_liquid: false
 May 13, 2025
 
 2025 年 5 月 13 日

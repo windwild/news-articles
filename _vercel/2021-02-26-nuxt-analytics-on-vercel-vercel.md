@@ -1,5 +1,6 @@
 ---
 title: "Nuxt Analytics on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nuxt-analytics-on-vercel"
 date: "2021-02-26"
@@ -9,6 +10,7 @@ translated: true
 description: "Starting today, Vercel Analytics is available for Nuxt projects – without any configuration."
 ---
 
+render_with_liquid: false
 Feb 26, 2021
 
 2021年2月26日

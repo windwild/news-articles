@@ -1,5 +1,6 @@
 ---
 title: "How the world’s biggest YouTuber served millions of users on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/serving-millions-of-users-on-the-new-mrbeast-storefront"
 date: "2022-09-29"
@@ -9,6 +10,7 @@ translated: true
 description: "Find out how basement.studio balanced performance, entertainment, and reliability for MrBeast's new storefront. "
 ---
 
+render_with_liquid: false
 Sep 29, 2022
 
 2022 年 9 月 29 日

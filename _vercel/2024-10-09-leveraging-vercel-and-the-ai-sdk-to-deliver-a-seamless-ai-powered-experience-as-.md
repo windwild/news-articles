@@ -1,5 +1,6 @@
 ---
 title: "Leveraging Vercel and the AI SDK to deliver a seamless, AI-powered experience as a solo founder - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/leveraging-vercel-and-the-ai-sdk-to-deliver-a-seamless-ai-powered-experience"
 date: "2024-10-09"
@@ -9,6 +10,7 @@ translated: true
 description: "How ChatPRD Scaled to 20,000 users with Vercel and the AI SDK. ChatPRD is an AI co-pilot designed for product managers, enabling them to write product requirements documents, brainstorm roadmaps, and ..."
 ---
 
+render_with_liquid: false
 Oct 9, 2024
 
 2024 年 10 月 9 日

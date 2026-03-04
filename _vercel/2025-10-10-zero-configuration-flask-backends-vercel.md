@@ -1,5 +1,6 @@
 ---
 title: "Zero-configuration Flask backends - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/zero-configuration-flask-backends"
 date: "2025-10-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Flask, one of the most popular Python web application frameworks, can now be deployed instantly at Vercel with no configuration changes needed."
 ---
 
+render_with_liquid: false
 Oct 10, 2025
 
 2025年10月10日

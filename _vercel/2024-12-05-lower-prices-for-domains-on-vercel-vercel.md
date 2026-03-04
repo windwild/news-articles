@@ -1,5 +1,6 @@
 ---
 title: "Lower prices for domains on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/lower-prices-for-domains-on-vercel"
 date: "2024-12-05"
@@ -9,6 +10,7 @@ translated: true
 description: "We have lowered the prices for purchasing domains by up to 50%."
 ---
 
+render_with_liquid: false
 Dec 5, 2024
 
 2024 年 12 月 5 日

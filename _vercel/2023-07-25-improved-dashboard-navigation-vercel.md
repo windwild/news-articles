@@ -1,5 +1,6 @@
 ---
 title: "Improved dashboard navigation - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-dashboard-navigation"
 date: "2023-07-25"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 25, 2023
 
 2023年7月25日

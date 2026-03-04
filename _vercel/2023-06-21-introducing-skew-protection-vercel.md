@@ -1,5 +1,6 @@
 ---
 title: "Introducing Skew Protection - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/version-skew-protection"
 date: "2023-06-21"
@@ -9,6 +10,7 @@ translated: true
 description: "Skew Protection from Vercel, a mechanism to eliminate version skew"
 ---
 
+render_with_liquid: false
 Jun 21, 2023
 
 2023 年 6 月 21 日

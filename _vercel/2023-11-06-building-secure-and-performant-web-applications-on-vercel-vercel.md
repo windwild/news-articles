@@ -1,5 +1,6 @@
 ---
 title: "Building secure and performant web applications on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-secure-and-performant-web-applications-on-vercel"
 date: "2023-11-06"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel's Frontend Cloud offers support for deploying complex and dynamic web applications with managed infrastructure so you have control and flexibility without having to worry about configuration an..."
 ---
 
+render_with_liquid: false
 Nov 6, 2023
 
 2023 年 11 月 6 日

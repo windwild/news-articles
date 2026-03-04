@@ -1,5 +1,6 @@
 ---
 title: "Monorepos are changing how teams build software - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/monorepos-are-changing-how-teams-build-software"
 date: "2020-08-28"
@@ -9,6 +10,7 @@ translated: true
 description: "Monorepos are codebases containing multiple projects in a single unified code repository. This post explores how monorepos can improve your development workflow."
 ---
 
+render_with_liquid: false
 Mar 3, 2022
 
 2022 年 3 月 3 日

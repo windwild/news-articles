@@ -1,5 +1,6 @@
 ---
 title: "Claude Haiku 4.5 now available in Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claude-haiku-4-5-now-available-in-vercel-ai-gateway"
 date: "2025-10-15"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access Claude Haiku 4.5 with Vercel's AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Oct 15, 2025
 
 2025 年 10 月 15 日

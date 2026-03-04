@@ -1,5 +1,6 @@
 ---
 title: "Vercel Marketplace integrations now available in v0 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-marketplace-integrations-now-available-in-v0"
 date: "2025-03-14"
@@ -9,6 +10,7 @@ translated: true
 description: "v0 users are now able to add Supabase, Upstash, and Neon integrations from the Vercel Marketplace in their v0 generations. "
 ---
 
+render_with_liquid: false
 Mar 14, 2025
 
 2025年3月14日

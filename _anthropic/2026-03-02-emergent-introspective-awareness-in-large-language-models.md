@@ -1,5 +1,6 @@
 ---
 title: "Emergent introspective awareness in large language models"
+render_with_liquid: false
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/introspection"
 scraped_at: "2026-03-02T09:21:07.787518055+00:00"
@@ -9,6 +10,7 @@ description: "Research from Anthropic on the ability of large language models to
 tags: ["Interpretability"]
 ---
 
+render_with_liquid: false
 Interpretability
 
 可解释性

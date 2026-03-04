@@ -1,5 +1,6 @@
 ---
 title: "Preview links between microfrontends projects now serve all paths - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/preview-links-between-microfrontends-projects-now-serve-all-paths"
 date: "2025-10-21"
@@ -9,6 +10,7 @@ translated: true
 description: "Teams using microfrontends can now visit all routes from any domain in the microfrontends group, enabling teams to test their full site experience without broken links or missing pages."
 ---
 
+render_with_liquid: false
 Oct 21, 2025
 
 2025 年 10 月 21 日

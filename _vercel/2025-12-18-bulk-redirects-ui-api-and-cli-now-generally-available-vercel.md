@@ -1,5 +1,6 @@
 ---
 title: "Bulk redirects UI, API, and CLI now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bulk-redirects-ui-api-and-cli-now-generally-available"
 date: "2025-12-18"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now manage up to a million redirects on Vercel via UI, API, or CLI instantly without a build or deployment."
 ---
 
+render_with_liquid: false
 Dec 18, 2025
 
 2025 年 12 月 18 日

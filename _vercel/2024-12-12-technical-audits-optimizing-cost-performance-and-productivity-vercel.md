@@ -1,5 +1,6 @@
 ---
 title: "Technical audits: Optimizing cost, performance, and productivity - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/technical-audits"
 date: "2024-12-12"
@@ -9,6 +10,7 @@ translated: true
 description: "See what we've learned from hundreds of real-world audits—what to look for and what you can do to improve your applications."
 ---
 
+render_with_liquid: false
 Dec 12, 2024
 
 2024 年 12 月 12 日

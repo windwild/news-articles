@@ -1,5 +1,6 @@
 ---
 title: "Node.js 24 LTS is now generally available for builds and functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-24-lts-is-now-generally-available-for-builds-and-functions"
 date: "2025-11-25"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now supports Node.js 24 for builds and functions, featuring a V8 13.6 upgrade, the global URLPattern API, Undici v7 for faster fetch(), and npm v11 for modern package compatibility."
 ---
 
+render_with_liquid: false
 Nov 25, 2025
 
 2025 年 11 月 25 日

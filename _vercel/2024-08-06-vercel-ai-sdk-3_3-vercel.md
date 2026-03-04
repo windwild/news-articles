@@ -1,5 +1,6 @@
 ---
 title: "Vercel AI SDK 3.3 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-ai-sdk-3-3"
 date: "2024-08-06"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel AI SDK 3.3 introduces tracing, multi-modal attachments, JSON streaming to clients, and more."
 ---
 
+render_with_liquid: false
 Aug 6, 2024
 
 2024 年 8 月 6 日

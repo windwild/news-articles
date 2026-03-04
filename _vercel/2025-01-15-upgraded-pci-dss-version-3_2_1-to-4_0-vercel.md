@@ -1,5 +1,6 @@
 ---
 title: "Upgraded PCI DSS version 3.2.1 to 4.0 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/upgraded-pci-dss-version-3-2-1-to-4-0"
 date: "2025-01-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel has successfully transitioned from Payment Card Industry Data Security Standard (PCI DSS) version 3.2.1 to 4.0, completing the SAQ-D Attestation of Compliance for service providers."
 ---
 
+render_with_liquid: false
 Jan 15, 2025
 
 2025 年 1 月 15 日

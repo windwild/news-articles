@@ -1,5 +1,6 @@
 ---
 title: "Install Marketplace Integrations from the Vercel CLI - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/install-marketplace-integrations-from-the-vercel-cli"
 date: "2024-09-19"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Sep 19, 2024
 
 2024 年 9 月 19 日

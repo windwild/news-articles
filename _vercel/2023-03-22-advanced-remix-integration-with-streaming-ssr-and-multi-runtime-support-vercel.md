@@ -1,5 +1,6 @@
 ---
 title: "Advanced Remix integration with streaming SSR and multi-runtime support - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/advanced-remix-integration-with-streaming-ssr-and-multi-runtime-support"
 date: "2023-03-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Advanced Remix integration with streaming SSR and multi-runtime support. Dynamically stream content with Node.js and Edge runtimes, easily build your serverless API, use powerful caching headers, and ..."
 ---
 
+render_with_liquid: false
 Mar 22, 2023
 
 2023年3月22日

@@ -1,5 +1,6 @@
 ---
 title: "A more flexible Pro plan for modern teams - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/new-pro-pricing-plan"
 date: "2025-09-09"
@@ -9,6 +10,7 @@ translated: true
 description: "We’re updating Vercel’s Pro plan to better align with how modern teams collaborate and how applications consume infrastructure, and how workloads are changing shape with AI."
 ---
 
+render_with_liquid: false
 Sep 9, 2025
 
 2025 年 9 月 9 日

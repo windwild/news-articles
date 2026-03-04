@@ -1,5 +1,6 @@
 ---
 title: "Vercel security roundup: Faster defenses and better visibility for your apps - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-security-roundup-faster-defenses-and-better-visibility-for-your-apps"
 date: "2025-02-21"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how Vercel's security product updates improved traffic visibility, enhanced mitigation techniques, and resulted in blocking billions of malicious attacks."
 ---
 
+render_with_liquid: false
 Feb 21, 2025
 
 2025年2月21日

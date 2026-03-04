@@ -1,5 +1,6 @@
 ---
 title: "Powering a serverless Web: Vercel joins AWS Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-joins-aws-marketplace"
 date: "2023-04-05"
@@ -9,6 +10,7 @@ translated: true
 description: "Powering a serverless Web: Vercel joins the AWS Marketplace"
 ---
 
+render_with_liquid: false
 Apr 5, 2023
 
 2023年4月5日

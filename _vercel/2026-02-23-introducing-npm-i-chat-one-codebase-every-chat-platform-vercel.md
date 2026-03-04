@@ -1,5 +1,6 @@
 ---
 title: "Introducing npm i chat – One codebase, every chat platform - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/chat-sdk"
 date: "2026-02-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Chat SDK is now open source and available in public beta. It's a TypeScript library for building chat bots that work across Slack, Microsoft Teams, Google Chat, Discord, GitHub, and Linear — from a ..."
 ---
 
+render_with_liquid: false
 Feb 23, 2026
 
 2026 年 2 月 23 日

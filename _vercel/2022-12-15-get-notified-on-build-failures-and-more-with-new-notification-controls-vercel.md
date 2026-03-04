@@ -1,5 +1,6 @@
 ---
 title: "Get notified on build failures and more with new notification controls - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-notification-controls-available-in-public-beta"
 date: "2022-12-15"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 15, 2022
 
 2022 年 12 月 15 日

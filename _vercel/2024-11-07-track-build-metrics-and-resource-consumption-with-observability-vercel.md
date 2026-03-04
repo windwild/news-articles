@@ -1,5 +1,6 @@
 ---
 title: "Track build metrics and resource consumption with Observability  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/track-build-metrics-and-resource-consumption-with-observability"
 date: "2024-11-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Users in the limited beta of Observability can now get additional metrics related to builds, including: Build time, Memory and disk usage, and Build steps"
 ---
 
+render_with_liquid: false
 Nov 7, 2024
 
 2024 年 11 月 7 日

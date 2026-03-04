@@ -1,5 +1,6 @@
 ---
 title: "Zero-configuration Express backends - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/zero-configuration-express-backends"
 date: "2025-09-05"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now detects and deploys Express, a fast, unopinionated, minimalist web framework built on web standards, with zero configuration."
 ---
 
+render_with_liquid: false
 Sep 5, 2025
 
 2025 年 9 月 5 日

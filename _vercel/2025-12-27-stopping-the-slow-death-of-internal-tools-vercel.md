@@ -1,5 +1,6 @@
 ---
 title: "Stopping the slow death of internal tools - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/stopping-the-slow-death-of-internal-tools"
 date: "2025-12-27"
@@ -9,6 +10,7 @@ translated: true
 description: "Internal tools often decay due to high maintenance costs and security tradeoffs. Learn how Vercel uses v0 to build secure, sustainable custom software that business teams can ship and maintain without..."
 ---
 
+render_with_liquid: false
 Dec 27, 2025
 
 2025 年 12 月 27 日

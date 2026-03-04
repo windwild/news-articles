@@ -1,5 +1,6 @@
 ---
 title: "Collaborating with Anthropic on Claude Sonnet 4.5 to power intelligent coding agents - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/collaborating-with-anthropic-on-claude-sonnet-4-5"
 date: "2025-09-29"
@@ -9,6 +10,7 @@ translated: true
 description: "Claude Sonnet 4.5 is now available on Vercel AI Gateway and across the Vercel AI Cloud. Also introducing a new coding agent platform template."
 ---
 
+render_with_liquid: false
 Sep 29, 2025
 
 2025 年 9 月 29 日

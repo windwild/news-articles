@@ -1,5 +1,6 @@
 ---
 title: "Vercel achieves TISAX AL2 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-achieves-tisax-al2"
 date: "2025-10-29"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel has achieved TISAX Assessment Level 2 security standard used in the automotive and manufacturing industries"
 ---
 
+render_with_liquid: false
 Oct 29, 2025
 
 2025年10月29日

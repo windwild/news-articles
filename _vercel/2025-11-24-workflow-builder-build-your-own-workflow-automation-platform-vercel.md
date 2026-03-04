@@ -1,5 +1,6 @@
 ---
 title: "Workflow Builder: Build your own workflow automation platform - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/workflow-builder-build-your-own-workflow-automation-platform"
 date: "2025-11-24"
@@ -9,6 +10,7 @@ translated: true
 description: "Workflow Builder is a free, open-source template, powered by Next.js and the Workflow DevKit, that helps you build workflow builder applications and agents."
 ---
 
+render_with_liquid: false
 Nov 24, 2025
 
 2025 年 11 月 24 日

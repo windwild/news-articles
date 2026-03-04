@@ -1,5 +1,6 @@
 ---
 title: "Bun's text lockfile is now supported with zero configuration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/buns-text-lockfile-is-now-supported-with-zero-configuration"
 date: "2025-01-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Bun v1.1.39 introduces text lockfile support, and Vercel now supports bun.lock with zero configuration. You can use the text lockfile today with bun install --save-text-lockfile."
 ---
 
+render_with_liquid: false
 Jan 16, 2025
 
 2025 年 1 月 16 日

@@ -1,5 +1,6 @@
 ---
 title: "Caching details now available in Runtime Logs - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/caching-details-now-available-in-runtime-logs"
 date: "2025-10-31"
@@ -9,6 +10,7 @@ translated: true
 description: "Details on ISR cache keys, cache tags, and cache revalidation reasons are now available in Runtime Logs for all customers"
 ---
 
+render_with_liquid: false
 Oct 31, 2025
 
 2025 年 10 月 31 日

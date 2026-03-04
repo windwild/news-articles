@@ -1,5 +1,6 @@
 ---
 title: "Hashnode runs the fastest blogs on the web with Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/hashnode-runs-faster-blogs-on-the-web-with-vercel"
 date: "2022-08-03"
@@ -9,6 +10,7 @@ translated: true
 description: "Hashnode runs faster with Vercel"
 ---
 
+render_with_liquid: false
 Aug 3, 2022
 
 2022 年 8 月 3 日

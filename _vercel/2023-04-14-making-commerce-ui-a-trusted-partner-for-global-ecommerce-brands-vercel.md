@@ -1,5 +1,6 @@
 ---
 title: "Making Commerce-UI a trusted partner for global ecommerce brands - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/making-commerce-ui-a-trusted-partner-for-global-ecommerce-brands"
 date: "2023-04-14"
@@ -9,6 +10,7 @@ translated: true
 description: "commerce ui"
 ---
 
+render_with_liquid: false
 Apr 14, 2023
 
 2023年4月14日

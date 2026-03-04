@@ -1,5 +1,6 @@
 ---
 title: "Deployment integration actions for Marketplace integrations - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deployment-integration-actions-for-marketplace-integrations"
 date: "2025-02-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Deployment integration actions are now available for Marketplace integrations giving providers more control over deployment workflows. "
 ---
 
+render_with_liquid: false
 Feb 19, 2025
 
 2025 年 2 月 19 日

@@ -1,5 +1,6 @@
 ---
 title: "Incremental Static Regeneration (ISR): A flexible way to cache dynamic content - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/isr-a-flexible-way-to-cache-dynamic-content"
 date: "2024-09-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Explore how Incremental Static Regeneration (ISR) enhances your caching strategy. Learn its benefits, implementation across frameworks, and real-world applications. Optimize performance with this hybr..."
 ---
 
+render_with_liquid: false
 Sep 16, 2024
 
 2024 年 9 月 16 日

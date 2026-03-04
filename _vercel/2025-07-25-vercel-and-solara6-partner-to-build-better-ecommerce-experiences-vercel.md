@@ -1,5 +1,6 @@
 ---
 title: "Vercel and Solara6 partner to build better ecommerce experiences - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-and-solara6-partner-to-build-better-ecommerce-experiences"
 date: "2025-07-25"
@@ -9,6 +10,7 @@ translated: true
 description: "Solara6 is partnering with us to help ecommerce brands ship faster and deploy with confidence. Through this partnership, ecommerce teams working with Solara6 can expect improved SEO, site speed, and r..."
 ---
 
+render_with_liquid: false
 Jul 25, 2025
 
 2025 年 7 月 25 日

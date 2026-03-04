@@ -1,5 +1,6 @@
 ---
 title: "Headless Salesforce: An incremental migration from monolith to composable - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/salesforce-incremental-migration"
 date: "2025-01-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Go headless with your Salesforce storefront while keeping your commerce backend intact. Learn how to de-risk migration to Next.js and Vercel, reducing load times & boosting conversions."
 ---
 
+render_with_liquid: false
 Jan 7, 2025
 
 2025 年 1 月 7 日

@@ -1,5 +1,6 @@
 ---
 title: "Vercel Python SDK is now available in beta - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-python-sdk-in-beta"
 date: "2025-10-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now has a native Python library hosted on PyPI to simplify tasks such as executing code on Vercel Sandboxes, transferring objects to Vercel Blob, working with the Runtime Cache and retrieving p..."
 ---
 
+render_with_liquid: false
 Oct 23, 2025
 
 2025 年 10 月 23 日

@@ -1,5 +1,6 @@
 ---
 title: "45% faster build initialization - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/45-percent-faster-build-initialization"
 date: "2025-05-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Customers on all plans can now benefit from faster build cache restoration times. We've made architectural improvements to builds to help customers build faster."
 ---
 
+render_with_liquid: false
 May 15, 2025
 
 2025年5月15日

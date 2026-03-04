@@ -1,5 +1,6 @@
 ---
 title: "Why all application migrations should be incremental  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/incremental-migrations"
 date: "2023-08-30"
@@ -9,6 +10,7 @@ translated: true
 description: "Projects that require migrations should aim for incremental migrations"
 ---
 
+render_with_liquid: false
 Aug 30, 2023
 
 2023年8月30日

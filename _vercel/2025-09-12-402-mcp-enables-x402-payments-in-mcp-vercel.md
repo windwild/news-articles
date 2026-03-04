@@ -1,5 +1,6 @@
 ---
 title: "402-mcp enables x402 payments in MCP - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/402-mcp-enables-x402-payments-in-mcp"
 date: "2025-09-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Introducing x402-mcp, a library that integrates with the AI SDK to bring x402 paywalls to Model Context Protocol (MCP) servers to let agents discover and call pay for MCP tools easily and securely."
 ---
 
+render_with_liquid: false
 Sep 12, 2025
 
 2025 年 9 月 12 日

@@ -1,5 +1,6 @@
 ---
 title: "AI agents at scale: Rox’s Vercel-powered revenue operating system - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-agents-at-scale-roxs-vercel-powered-revenue-operating-system"
 date: "2025-09-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn more about how Rox runs global, AI-driven sales ops on fast, reliable infrastructure thanks to Vercel"
 ---
 
+render_with_liquid: false
 Sep 16, 2025
 
 2025 年 9 月 16 日

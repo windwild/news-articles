@@ -1,5 +1,6 @@
 ---
 title: "Private storage for Vercel Blob, now available in public beta - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/private-storage-for-vercel-blob-now-available-in-public-beta"
 date: "2026-02-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Blob now supports private storage for user content or sensitive files. Private blobs require authentication for all read operations, ensuring your data cannot be accessed via public URLs and is..."
 ---
 
+render_with_liquid: false
 Feb 19, 2026
 
 2026 年 2 月 19 日

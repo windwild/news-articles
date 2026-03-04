@@ -1,5 +1,6 @@
 ---
 title: "OpenAI will not support the Hong Kong region (hkg1) for Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/openai-will-not-support-the-hong-kong-region-hkg1-for-functions"
 date: "2024-06-27"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 27, 2024
 
 2024 年 6 月 27 日

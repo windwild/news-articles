@@ -1,5 +1,6 @@
 ---
 title: "Nick Bogaty joins Vercel as Chief Revenue Officer - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nick-bogaty-joins-vercel-as-chief-revenue-officer"
 date: "2026-01-13"
@@ -9,6 +10,7 @@ translated: true
 description: "Nick Bogaty joins Vercel as first Chief Revenue Officer from Adobe, bringing more than 20 years of enterprise GTM experience to lead an AI-forward sales organization."
 ---
 
+render_with_liquid: false
 Jan 13, 2026
 
 2026年1月13日

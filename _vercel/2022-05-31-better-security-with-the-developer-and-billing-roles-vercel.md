@@ -1,5 +1,6 @@
 ---
 title: "Better security with the developer and billing roles - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/increased-security-with-the-developer-and-billing-roles"
 date: "2022-05-31"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 31, 2022
 
 2022年5月31日

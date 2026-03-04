@@ -1,5 +1,6 @@
 ---
 title: "FastHTML projects can now be deployed with zero configuration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/fasthtml-htmx-python-vercel"
 date: "2024-07-29"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 29, 2024
 
 2024年7月29日

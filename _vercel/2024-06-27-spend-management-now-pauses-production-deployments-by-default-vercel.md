@@ -1,5 +1,6 @@
 ---
 title: "Spend Management now pauses production deployments by default - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/spend-management-now-pauses-production-deployments-by-default"
 date: "2024-06-27"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 27, 2024
 
 2024 年 6 月 27 日

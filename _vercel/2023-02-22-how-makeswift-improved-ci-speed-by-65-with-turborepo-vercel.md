@@ -1,5 +1,6 @@
 ---
 title: "How Makeswift improved CI speed by 65% with Turborepo - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-makeswift-improved-ci-speed-by-65-with-turborepo"
 date: "2023-02-22"
@@ -9,6 +10,7 @@ translated: true
 description: "makeswift"
 ---
 
+render_with_liquid: false
 Feb 22, 2023
 
 2023 年 2 月 22 日

@@ -1,5 +1,6 @@
 ---
 title: "Cursor now supported on Vercel MCP - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/cursor-now-supported-on-vercel-mcp"
 date: "2025-08-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Connect Cursor to Vercel MCP to manage projects and deployments, analyze logs, search docs, and more"
 ---
 
+render_with_liquid: false
 Aug 9, 2025
 
 2025年8月9日

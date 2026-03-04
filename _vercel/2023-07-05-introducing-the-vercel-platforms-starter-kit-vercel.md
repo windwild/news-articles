@@ -1,5 +1,6 @@
 ---
 title: "Introducing the Vercel Platforms Starter Kit - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/platforms-starter-kit"
 date: "2023-07-05"
@@ -9,6 +10,7 @@ translated: true
 description: "A fullstack template for building multi-tenant applications with custom domains using Next.js App Router, Vercel Postgres, and the Vercel Domains API."
 ---
 
+render_with_liquid: false
 Jul 5, 2023
 
 2023 年 7 月 5 日

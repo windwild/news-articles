@@ -1,5 +1,6 @@
 ---
 title: "Video Generation with AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/video-generation-with-ai-gateway"
 date: "2026-02-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Build video generation into your apps with AI Gateway. Create product videos, dynamic content, and marketing assets at scale."
 ---
 
+render_with_liquid: false
 Feb 19, 2026
 
 2026 年 2 月 19 日

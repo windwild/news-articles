@@ -1,5 +1,6 @@
 ---
 title: "Supporting the Future of React - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/supporting-the-future-of-react"
 date: "2021-12-14"
@@ -9,6 +10,7 @@ translated: true
 description: "An update on our support for React and other open-source libraries our customers depend on."
 ---
 
+render_with_liquid: false
 Dec 14, 2021
 
 2021年12月14日

@@ -1,5 +1,6 @@
 ---
 title: "Improved monorepo support in Recent Previews - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-monorepo-support-in-recent-previews"
 date: "2024-10-10"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 10, 2024
 
 2024 年 10 月 10 日

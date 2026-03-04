@@ -1,5 +1,6 @@
 ---
 title: "Reworked Integrations and Integrations Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/reworked-integrations-and-integrations-marketplace"
 date: "2021-07-07"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 7, 2021
 
 2021 年 7 月 7 日

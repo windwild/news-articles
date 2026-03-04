@@ -1,5 +1,6 @@
 ---
 title: "PostHog joins the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/posthog-joins-the-vercel-marketplace"
 date: "2026-02-10"
@@ -9,6 +10,7 @@ translated: true
 description: "PostHog now integrates directly with Vercel to help teams manage feature rollouts and run experiments without redeploying code. This integration makes it easier for Vercel users to:"
 ---
 
+render_with_liquid: false
 Feb 10, 2026
 
 2026 年 2 月 10 日

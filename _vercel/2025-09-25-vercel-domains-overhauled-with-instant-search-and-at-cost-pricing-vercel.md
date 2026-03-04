@@ -1,5 +1,6 @@
 ---
 title: "Vercel Domains overhauled with instant search and at-cost pricing - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-domains-at-cost-pricing-and-the-fastest-on-the-web"
 date: "2025-09-25"
@@ -9,6 +10,7 @@ translated: true
 description: "We rebuilt the Vercel Domains experience to make search and checkout significantly faster and more reliable."
 ---
 
+render_with_liquid: false
 Sep 25, 2025
 
 2025 年 9 月 25 日

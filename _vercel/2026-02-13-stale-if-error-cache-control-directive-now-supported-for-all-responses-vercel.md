@@ -1,5 +1,6 @@
 ---
 title: "Stale-if-error cache-control directive now supported for all responses - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/stale-if-error-cache-control-header-is-now-supported"
 date: "2026-02-13"
@@ -9,6 +10,7 @@ translated: true
 description: "Stale-if-error directive now supported with Cache-control header for all responses, which allows the cache serves a stale response when an error is encountered instead of returning a hard error to the..."
 ---
 
+render_with_liquid: false
 Feb 13, 2026
 
 2026 年 2 月 13 日

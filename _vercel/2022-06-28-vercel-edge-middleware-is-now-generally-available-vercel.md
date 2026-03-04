@@ -1,5 +1,6 @@
 ---
 title: "Vercel Edge Middleware is now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-edge-middleware-is-now-generally-available"
 date: "2022-06-28"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 28, 2022
 
 2022年6月28日

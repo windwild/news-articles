@@ -1,5 +1,6 @@
 ---
 title: "Latency numbers every frontend developer should know - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/latency-numbers-every-web-developer-should-know"
 date: "2024-04-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Latency numbers every web developer should know"
 ---
 
+render_with_liquid: false
 Apr 23, 2024
 
 2024年4月23日

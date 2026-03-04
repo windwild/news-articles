@@ -1,5 +1,6 @@
 ---
 title: "Runtime logs can now be filtered by request type and Vercel resource - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/runtime-logs-can-now-be-filtered-by-request-type-and-vercel-resource"
 date: "2025-01-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Runtime Logs can now be filtered by request type and Vercel resource, which provides more granular insights into how your requests are processed. Learn how these filters can enhance your debugging and..."
 ---
 
+render_with_liquid: false
 Jan 7, 2025
 
 2025 年 1 月 7 日

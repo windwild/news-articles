@@ -1,5 +1,6 @@
 ---
 title: "From newsletter to global media brand with a frontend cloud and headless stack - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/from-newsletter-to-global-media-brand-with-a-headless-frontend"
 date: "2023-02-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Morning brew"
 ---
 
+render_with_liquid: false
 Feb 9, 2023
 
 2023 年 2 月 9 日

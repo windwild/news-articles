@@ -1,5 +1,6 @@
 ---
 title: "Vercel Flags is now in public beta - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-flags-is-now-in-public-beta"
 date: "2026-02-11"
@@ -9,6 +10,7 @@ translated: true
 description: "Create and manage feature flags in the Vercel Dashboard with targeting rules, user segments, and environment controls. Works seamlessly with the Flags SDK for Next.js and Svelte."
 ---
 
+render_with_liquid: false
 Feb 11, 2026
 
 2026 年 2 月 11 日

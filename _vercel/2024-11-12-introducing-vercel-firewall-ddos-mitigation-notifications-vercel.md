@@ -1,5 +1,6 @@
 ---
 title: "Introducing Vercel Firewall DDoS mitigation notifications - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-vercel-firewall-notifications"
 date: "2024-11-12"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 12, 2024
 
 2024 年 11 月 12 日

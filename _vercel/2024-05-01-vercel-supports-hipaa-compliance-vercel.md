@@ -1,5 +1,6 @@
 ---
 title: "Vercel supports HIPAA compliance - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-supports-hipaa-compliance"
 date: "2024-05-01"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now supports HIPAA compliance for our enterprise customers, enabling companies to leverage our Frontend Cloud while maintaining compliance"
 ---
 
+render_with_liquid: false
 May 1, 2024
 
 2024 年 5 月 1 日

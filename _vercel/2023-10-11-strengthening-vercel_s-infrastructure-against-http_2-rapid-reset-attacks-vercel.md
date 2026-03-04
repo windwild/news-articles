@@ -1,5 +1,6 @@
 ---
 title: "Strengthening Vercel's Infrastructure against HTTP/2 Rapid Reset Attacks - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/strengthening-vercels-infrastructure-against-http-2-rapid-reset-attacks"
 date: "2023-10-11"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 11, 2023
 
 2023 年 10 月 11 日

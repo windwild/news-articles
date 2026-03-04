@@ -1,5 +1,6 @@
 ---
 title: "Improved team overview page - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-team-overview-page"
 date: "2025-06-12"
@@ -9,6 +10,7 @@ translated: true
 description: "The Vercel team overview now sorts by your activity, can be filtered by repository, and shows a window into your usage. "
 ---
 
+render_with_liquid: false
 Jun 12, 2025
 
 2025年6月12日

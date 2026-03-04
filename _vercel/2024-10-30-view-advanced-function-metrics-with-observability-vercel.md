@@ -1,5 +1,6 @@
 ---
 title: "View advanced function metrics with Observability - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/view-advanced-function-metrics-with-observability"
 date: "2024-10-30"
@@ -9,6 +10,7 @@ translated: true
 description: "Users in the limited beta of Observability can now view advanced insights for serverless Vercel Functions. Explore low level metrics about function execution."
 ---
 
+render_with_liquid: false
 2024年10月30日
 
 2024年10月30日

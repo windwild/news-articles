@@ -1,5 +1,6 @@
 ---
 title: "Vercel BotID now leverages Vercel's verified bot directory - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-botid-now-leverages-vercels-verified-bot-directory"
 date: "2025-08-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel BotID is an invisible CAPTCHA that protects against sophisticated bots without showing visible challenges or requiring manual intervention. It now catches verified bots and allows users to cont..."
 ---
 
+render_with_liquid: false
 Aug 12, 2025
 
 2025 年 8 月 12 日

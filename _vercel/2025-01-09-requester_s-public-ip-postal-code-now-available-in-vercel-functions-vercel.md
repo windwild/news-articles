@@ -1,5 +1,6 @@
 ---
 title: "Requester's public IP postal code now available in Vercel Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/requesters-public-ip-postal-code-now-available-in-vercel-functions"
 date: "2025-01-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Postal codes of the requester's public IP address are now available in Vercel headers. The x-vercel-ip-postal-code header complements existing headers like x-vercel-ip-country and x-vercel-ip-city."
 ---
 
+render_with_liquid: false
 Jan 9, 2025
 
 2025 年 1 月 9 日

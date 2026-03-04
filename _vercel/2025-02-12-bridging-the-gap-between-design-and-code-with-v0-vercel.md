@@ -1,5 +1,6 @@
 ---
 title: "Bridging the gap between design and code with v0 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/bridging-the-gap-between-design-and-code-with-v0"
 date: "2025-02-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Understanding how the team at Speakeasy uses v0 to ship faster with features like Figma import and custom Tailwind config. "
 ---
 
+render_with_liquid: false
 Feb 12, 2025
 
 2025 年 2 月 12 日

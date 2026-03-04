@@ -1,5 +1,6 @@
 ---
 title: "Aggregate and visualize traffic data with Monitoring - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/aggregate-and-visualize-traffic-data-with-monitoring"
 date: "2024-05-17"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 17, 2024
 
 2024 年 5 月 17 日

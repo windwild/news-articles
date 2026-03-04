@@ -1,5 +1,6 @@
 ---
 title: "Near-zero latency using Vercel Edge Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/edge-functions-enable-read-cv-to-deliver-profiles-globally-with-near-zero"
 date: "2023-01-13"
@@ -9,6 +10,7 @@ translated: true
 description: "For Read.cv, showing is better than telling. The professional networking platform helps users add a more personal touch to the typical work profile—all made possible with Vercel and Edge Functions."
 ---
 
+render_with_liquid: false
 Jan 13, 2023
 
 2023 年 1 月 13 日

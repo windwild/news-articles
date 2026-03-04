@@ -1,5 +1,6 @@
 ---
 title: "New integrations to extend your Vercel workflow - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-integrations-to-extend-your-vercel-workflow"
 date: "2022-11-21"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 21, 2022
 
 2022 年 11 月 21 日

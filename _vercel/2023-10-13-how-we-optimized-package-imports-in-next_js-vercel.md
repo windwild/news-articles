@@ -1,5 +1,6 @@
 ---
 title: "How we optimized package imports in Next.js - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-we-optimized-package-imports-in-next-js"
 date: "2023-10-13"
@@ -9,6 +10,7 @@ translated: true
 description: "How solving barrel files led to faster cold boots and build times."
 ---
 
+render_with_liquid: false
 Oct 13, 2023
 
 2023 年 10 月 13 日

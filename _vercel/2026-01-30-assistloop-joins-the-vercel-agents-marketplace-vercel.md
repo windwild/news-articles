@@ -1,5 +1,6 @@
 ---
 title: "AssistLoop joins the Vercel Agents Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/assistloop-joins-the-vercel-agents-marketplace"
 date: "2026-01-30"
@@ -9,6 +10,7 @@ translated: true
 description: "AssistLoop is now available in the Vercel Marketplace, making it easy to add AI-powered customer support to Next.js apps deployed on Vercel."
 ---
 
+render_with_liquid: false
 Jan 30, 2026
 
 2026年1月30日

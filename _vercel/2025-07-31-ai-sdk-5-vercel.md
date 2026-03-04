@@ -1,5 +1,6 @@
 ---
 title: "AI SDK 5 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-5"
 date: "2025-07-31"
@@ -9,6 +10,7 @@ translated: true
 description: "Introducing type-safe chat, agentic loop control, new specification, tool enhancements,  speech generation, and more."
 ---
 
+render_with_liquid: false
 Jul 31, 2025
 
 2025 年 7 月 31 日

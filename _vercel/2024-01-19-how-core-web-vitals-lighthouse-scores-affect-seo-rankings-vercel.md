@@ -1,5 +1,6 @@
 ---
 title: "How Core Web Vitals & Lighthouse scores affect SEO Rankings - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-core-web-vitals-affect-seo"
 date: "2024-01-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Understand your application's Google page experience ranking and Lighthouse scores. We'll dive into what they are, how they’re measured, and how your users and search ranking are impacted by them."
 ---
 
+render_with_liquid: false
 Jan 19, 2024
 
 2024 年 1 月 19 日

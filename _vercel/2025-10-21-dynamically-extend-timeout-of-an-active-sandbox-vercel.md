@@ -1,5 +1,6 @@
 ---
 title: "Dynamically extend timeout of an active Sandbox - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/dynamically-extend-timeout-of-an-active-sandbox"
 date: "2025-10-21"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now extend the duration of a running Vercel Sandbox using the new extendTimeout method. This lets you keep long-running sandboxes alive beyond their initial timeout. It is useful for workflows..."
 ---
 
+render_with_liquid: false
 Oct 21, 2025
 
 2025 年 10 月 21 日

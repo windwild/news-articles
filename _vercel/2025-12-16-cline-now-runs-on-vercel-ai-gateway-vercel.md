@@ -1,5 +1,6 @@
 ---
 title: "Cline now runs on Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/cline-on-ai-gateway"
 date: "2025-12-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Cline scales its open source coding agent with Vercel AI Gateway, delivering global performance, transparent pricing, and enterprise reliability."
 ---
 
+render_with_liquid: false
 Dec 16, 2025
 
 2025 年 12 月 16 日

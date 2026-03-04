@@ -1,5 +1,6 @@
 ---
 title: "Route build traffic through Static IPs - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/route-build-traffic-through-static-ips"
 date: "2025-11-04"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now choose whether build traffic, such as calls to external APIs or CMS data sources during the build process, routes through your Static IPs."
 ---
 
+render_with_liquid: false
 Nov 4, 2025
 
 2025 年 11 月 4 日

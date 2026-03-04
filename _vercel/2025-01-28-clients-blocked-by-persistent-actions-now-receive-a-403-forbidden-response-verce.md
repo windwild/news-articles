@@ -1,5 +1,6 @@
 ---
 title: "Clients blocked by persistent actions now receive a 403 Forbidden response - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/clients-blocked-by-persistent-actions-now-receive-a-403-forbidden-response"
 date: "2025-01-28"
@@ -9,6 +10,7 @@ translated: true
 description: "The Vercel Web Application Firewall blocks clients by persistent actions with a 403 Forbidden response "
 ---
 
+render_with_liquid: false
 Jan 28, 2025
 
 2025 年 1 月 28 日

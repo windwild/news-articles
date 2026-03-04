@@ -1,5 +1,6 @@
 ---
 title: "Track server-side custom events with Vercel Web Analytics - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/track-server-side-custom-events-with-vercel-web-analytics"
 date: "2023-10-06"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 6, 2023
 
 2023 年 10 月 6 日

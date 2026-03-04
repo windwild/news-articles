@@ -1,5 +1,6 @@
 ---
 title: "Support for now.json will be removed on March 31, 2026 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-for-now-json-will-be-removed-on-march-31-2026"
 date: "2026-02-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Support for the deprecated \"now.json\" configuration file will be removed on March 31, 2026. Move to \"vercel.json\" instead. "
 ---
 
+render_with_liquid: false
 Feb 23, 2026
 
 2026 年 2 月 23 日

@@ -1,5 +1,6 @@
 ---
 title: "Bulk enable on-demand concurrent builds across projects  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/bulk-enable-on-demand-concurrent-builds-across-projects"
 date: "2025-09-08"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now enable on-demand concurrent builds for many projects, or even your whole team, in just a few clicks."
 ---
 
+render_with_liquid: false
 Sep 8, 2025
 
 2025 年 9 月 8 日

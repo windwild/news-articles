@@ -1,5 +1,6 @@
 ---
 title: "Image-only models available in Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/image-only-models-available-in-vercel-ai-gateway"
 date: "2025-11-28"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access image-only models from Black Forest Labs and Google in Vercel AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Nov 28, 2025
 
 2025 年 11 月 28 日

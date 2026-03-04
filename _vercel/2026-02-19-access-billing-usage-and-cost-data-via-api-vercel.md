@@ -1,5 +1,6 @@
 ---
 title: "Access billing usage and cost data via API - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/access-billing-usage-cost-data-api"
 date: "2026-02-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now supports programmatic access to billing usage and cost data through the API and CLI, and we're introducing a new native integration that connects Vercel teams to Vantage accounts."
 ---
 
+render_with_liquid: false
 Feb 19, 2026
 
 2026 年 2 月 19 日

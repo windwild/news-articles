@@ -1,5 +1,6 @@
 ---
 title: "16x larger Environment Variable storage up to 64KB - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/16x-larger-environment-variable-storage-up-to-64kb"
 date: "2022-08-04"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 4, 2022
 
 2022 年 8 月 4 日

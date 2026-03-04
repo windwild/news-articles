@@ -1,5 +1,6 @@
 ---
 title: "Prisma joins the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/prisma-joins-the-vercel-marketplace"
 date: "2025-04-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Prisma Postgres is now available on the Vercel Marketplace as a Database provider—offering serverless performance, global caching, and integrated billing for fullstack and edge apps. "
 ---
 
+render_with_liquid: false
 Apr 23, 2025
 
 2025年4月23日

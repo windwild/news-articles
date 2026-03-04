@@ -1,5 +1,6 @@
 ---
 title: "Improved Speed Insights experience - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-speed-insights-experience"
 date: "2023-12-07"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 7, 2023
 
 2023 年 12 月 7 日

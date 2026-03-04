@@ -1,5 +1,6 @@
 ---
 title: "Apply to join the v0 Ambassador Program and help others discover the magic of what's possible with v0.  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/join-the-v0-ambassador-program"
 date: "2025-07-29"
@@ -9,6 +10,7 @@ translated: true
 description: "Apply today to join the v0 Ambassador Program and help others discover the magic of what's possible with v0. "
 ---
 
+render_with_liquid: false
 Jul 29, 2025
 
 2025 年 7 月 29 日

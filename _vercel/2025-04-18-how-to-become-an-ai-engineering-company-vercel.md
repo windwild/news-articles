@@ -1,5 +1,6 @@
 ---
 title: "How to become an AI engineering company - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/becoming-an-ai-engineering-company"
 date: "2025-04-18"
@@ -9,6 +10,7 @@ translated: true
 description: "The question isn’t if AI will transform your business, but how to use it to maintain your competitive edge. Vercel CTO Malte Ubl shows how companies can understand AI’s fundamental shifts, adapt t..."
 ---
 
+render_with_liquid: false
 Apr 18, 2025
 
 2025 年 4 月 18 日

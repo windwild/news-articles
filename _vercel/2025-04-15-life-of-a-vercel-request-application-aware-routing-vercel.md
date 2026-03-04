@@ -1,5 +1,6 @@
 ---
 title: "Life of a Vercel request: Application-aware routing - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/life-of-a-request-application-aware-routing"
 date: "2025-04-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel's gateway leverages framework-defined infrastructure to intelligently load balance, protect, and route applications at-scale and with any architecture complexity."
 ---
 
+render_with_liquid: false
 Apr 15, 2025
 
 2025 年 4 月 15 日

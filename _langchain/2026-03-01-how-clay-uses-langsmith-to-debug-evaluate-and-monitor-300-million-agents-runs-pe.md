@@ -1,5 +1,6 @@
 ---
 title: "How Clay uses LangSmith to debug, evaluate, and monitor 300 million agents runs per month"
+render_with_liquid: false
 source: "LangChain Blog"
 url: "https://blog.langchain.com/customers-clay/"
 date: "2026-03-01"
@@ -9,6 +10,7 @@ translated: true
 description: "Clay is the creative tool for growth — a platform where go-to-market teams build, enrich, and activate lists of companies and people. Sales teams use Clay to source target accounts, qualify leads wi..."
 ---
 
+render_with_liquid: false
 [Clay](https://clay.com/?ref=blog.langchain.com) 是面向增长的创意工具——一个供市场拓展（Go-to-Market）团队构建、丰富并激活公司与联系人名单的平台。销售团队使用 Clay 来挖掘目标客户账户、借助 AI 驱动的研究对潜在客户进行资质评估、撰写个性化外联内容，并将商机路由至其 CRM 系统。Clay 的客户涵盖快速成长的初创公司到大型企业团队，所有客户均依赖该平台规模化地支撑其主动外拓（outbound）业务。
 
 Today, Clay runs approximately **300 million AI agent runs per month**— each one a multi-step reasoning process that might scrape web pages, synthesize research, qualify an account against an ICP, or draft personalized messaging. To maintain quality, control costs, and keep up with the breakneck pace of model releases, Clay relies on LangSmith as its observability and evaluation backbone.

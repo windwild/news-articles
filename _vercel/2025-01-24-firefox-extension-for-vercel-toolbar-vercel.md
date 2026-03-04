@@ -1,5 +1,6 @@
 ---
 title: "Firefox extension for Vercel Toolbar - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/firefox-extension-for-vercel-toolbar"
 date: "2025-01-24"
@@ -9,6 +10,7 @@ translated: true
 description: "The Vercel Toolbar extension, which enables the toolbar in production and user preferences, is now available in Firefox."
 ---
 
+render_with_liquid: false
 Jan 24, 2025
 
 2025年1月24日

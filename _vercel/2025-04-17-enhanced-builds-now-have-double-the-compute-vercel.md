@@ -1,5 +1,6 @@
 ---
 title: "Enhanced Builds now have double the compute - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-builds-now-have-double-the-compute"
 date: "2025-04-17"
@@ -9,6 +10,7 @@ translated: true
 description: "Enterprise customers using Enhanced Build Machines now benefit from 8 of our faster CPUs. This upgrade is available today and has delivered an average 20 percent improvement in build performance acros..."
 ---
 
+render_with_liquid: false
 Apr 17, 2025
 
 2025 年 4 月 17 日

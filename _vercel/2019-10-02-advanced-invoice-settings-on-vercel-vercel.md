@@ -1,5 +1,6 @@
 ---
 title: "Advanced Invoice Settings on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/advanced-invoice-settings"
 date: "2019-10-02"
@@ -9,6 +10,7 @@ translated: true
 description: " As of today, invoices received from Vercel can be extended with much more information. "
 ---
 
+render_with_liquid: false
 Oct 2, 2019
 
 2019 年 10 月 2 日

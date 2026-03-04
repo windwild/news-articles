@@ -1,5 +1,6 @@
 ---
 title: "Mitigating Denial of Wallet risks with Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/mitigating-denial-of-wallet-risks-with-vercel"
 date: "2025-01-24"
@@ -9,6 +10,7 @@ translated: true
 description: "Protect against Denial of Wallet (DoW) attacks with Vercel. DoW exploits cloud scalability to inflate costs. Vercel provides solutions like budget alerts, spend limits, and anomaly detection to safegu..."
 ---
 
+render_with_liquid: false
 Jan 24, 2025
 
 2025 年 1 月 24 日

@@ -1,5 +1,6 @@
 ---
 title: "Claude Opus 4.5 now available in Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claude-opus-4-5-now-available-in-vercel-ai-gateway"
 date: "2025-11-24"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access Anthropic's latest model Claude Opus 4.5 in Vercel AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Nov 24, 2025
 
 2025 年 11 月 24 日

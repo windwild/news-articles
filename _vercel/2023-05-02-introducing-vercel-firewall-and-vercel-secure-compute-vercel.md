@@ -1,5 +1,6 @@
 ---
 title: "Introducing Vercel Firewall and Vercel Secure Compute - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-security"
 date: "2023-05-02"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Secure Compute and Vercel Firewall for enhanced protection of your applications"
 ---
 
+render_with_liquid: false
 May 2, 2023
 
 2023 年 5 月 2 日

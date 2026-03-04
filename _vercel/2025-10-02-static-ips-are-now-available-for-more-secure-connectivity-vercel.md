@@ -1,5 +1,6 @@
 ---
 title: "Static IPs are now available for more secure connectivity - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/static-ips-are-now-available-for-more-secure-connectivity"
 date: "2025-10-02"
@@ -9,6 +10,7 @@ translated: true
 description: "Teams on Pro and Enterprise can now access Static IPs to connect to services that require IP allowlisting. Static IPs give your projects consistent outbound IPs without needing the full networking sta..."
 ---
 
+render_with_liquid: false
 Oct 2, 2025
 
 2025 年 10 月 2 日

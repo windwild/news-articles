@@ -1,5 +1,6 @@
 ---
 title: "Attack Challenge Mode now allows verified bots and Vercel cron jobs - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/attack-challenge-mode-now-allows-verified-bots-and-vercel-cron-jobs"
 date: "2025-04-01"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel's Attack Challenge Mode blocks attacks while securely allowing verified webhooks, search engines, and analytics tools."
 ---
 
+render_with_liquid: false
 Apr 1, 2025
 
 2025 年 4 月 1 日

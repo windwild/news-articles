@@ -1,5 +1,6 @@
 ---
 title: "October 2019 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/changelog-october-2019"
 date: "2019-10-01"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel's changelog for October 2019"
 ---
 
+render_with_liquid: false
 Oct 1, 2019
 
 2019 年 10 月 1 日

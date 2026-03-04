@@ -1,5 +1,6 @@
 ---
 title: "Checkly Integration and Checks API now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/checkly-integration-and-checks-api-now-generally-available"
 date: "2022-01-18"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jan 18, 2022
 
 2022 年 1 月 18 日

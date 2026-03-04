@@ -1,5 +1,6 @@
 ---
 title: "Enhanced firewall data now available in Monitoring - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-firewall-data-now-available-in-monitoring"
 date: "2025-02-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Monitoring now has better firewall support, offering insights into your firewall rules. Filter blocked requests by actions and custom firewall rules and more fields are now displayed"
 ---
 
+render_with_liquid: false
 Feb 7, 2025
 
 2025 年 2 月 7 日

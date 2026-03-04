@@ -1,5 +1,6 @@
 ---
 title: "Improved metrics search in Observability Plus - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-metrics-search-in-observability-plus"
 date: "2025-08-08"
@@ -9,6 +10,7 @@ translated: true
 description: "We’ve improved the metrics search and navigation experience in Vercel Observability, making it faster and easier to build custom queries."
 ---
 
+render_with_liquid: false
 Aug 8, 2025
 
 2025 年 8 月 8 日

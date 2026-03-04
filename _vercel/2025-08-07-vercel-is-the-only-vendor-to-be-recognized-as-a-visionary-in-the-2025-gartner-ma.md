@@ -1,5 +1,6 @@
 ---
 title: "Vercel is the only vendor to be recognized as a Visionary in the 2025 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/gartner-mq-visionary-2025"
 date: "2025-08-07"
@@ -9,6 +10,7 @@ translated: true
 description: "We’re honored to be the only vendor recognized as a Visionary in the 2025 Gartner® Magic Quadrant™ for Cloud Native Application Platforms."
 ---
 
+render_with_liquid: false
 Aug 7, 2025
 
 2025年8月7日

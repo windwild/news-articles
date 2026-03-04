@@ -1,5 +1,6 @@
 ---
 title: "Model Context Protocol (MCP) explained: An FAQ - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/model-context-protocol-mcp-explained"
 date: "2025-07-25"
@@ -9,6 +10,7 @@ translated: true
 description: "Model Context Protocol (MCP) is a new spec that helps standardize the way large language models (LLMs) access data and systems, extending what they can do beyond their training data. "
 ---
 
+render_with_liquid: false
 Jul 25, 2025
 
 2025年7月25日

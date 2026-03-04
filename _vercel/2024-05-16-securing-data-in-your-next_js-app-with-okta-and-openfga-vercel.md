@@ -1,5 +1,6 @@
 ---
 title: "Securing data in your Next.js app with Okta and OpenFGA - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/securing-data-in-your-next-js-app-with-okta-and-openfga"
 date: "2024-05-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how to integrate a Data Access Layer in your Next.js app and use it to implement a fine-grained authorization model with OpenFGA."
 ---
 
+render_with_liquid: false
 May 16, 2024
 
 2024 年 5 月 16 日

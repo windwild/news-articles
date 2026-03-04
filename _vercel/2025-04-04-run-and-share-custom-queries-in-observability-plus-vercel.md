@@ -1,5 +1,6 @@
 ---
 title: "Run and share custom queries in Observability Plus - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/run-and-share-custom-queries-in-observability-plus"
 date: "2025-04-04"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now use the all new querying interface to visualize, analyze and dig deep into your observability data "
 ---
 
+render_with_liquid: false
 Apr 4, 2025
 
 2025年4月4日

@@ -1,5 +1,6 @@
 ---
 title: "September 2020 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/changelog-september-2020"
 date: "2020-09-01"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel's changelog for September 2020"
 ---
 
+render_with_liquid: false
 Sep 1, 2020
 
 2020 年 9 月 1 日

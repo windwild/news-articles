@@ -1,5 +1,6 @@
 ---
 title: "Partial prerendering: Building towards a new default rendering model for web applications - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/partial-prerendering-with-next-js-creating-a-new-default-rendering-model"
 date: "2023-11-09"
@@ -9,6 +10,7 @@ translated: true
 description: "PPR combines ultra-quick static delivery with fully dynamic capabilities and we believe it has the potential to become the default rendering model for web applications, bringing together the best of s..."
 ---
 
+render_with_liquid: false
 Nov 9, 2023
 
 2023 年 11 月 9 日

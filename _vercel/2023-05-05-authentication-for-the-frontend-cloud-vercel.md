@@ -1,5 +1,6 @@
 ---
 title: "Authentication for the frontend cloud - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/authentication-for-the-frontend-cloud"
 date: "2023-05-05"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how Clerk is reimagining authentication to embrace the architecture of framework-defined infrastructure."
 ---
 
+render_with_liquid: false
 May 5, 2023
 
 2023 年 5 月 5 日

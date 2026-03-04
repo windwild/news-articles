@@ -1,5 +1,6 @@
 ---
 title: "Rate limiting now available on Hobby, with higher included usage on Pro - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/rate-limiting-now-available-on-hobby-with-higher-included-usage-on-pro"
 date: "2025-05-23"
@@ -9,6 +10,7 @@ translated: true
 description: "The first 1,000,000 allowed rate limit requests per month are now included. Hobby teams also get 1 free rate limit rule per project, up to the same included allotment."
 ---
 
+render_with_liquid: false
 May 23, 2025
 
 2025 年 5 月 23 日

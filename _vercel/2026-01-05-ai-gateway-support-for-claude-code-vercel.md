@@ -1,5 +1,6 @@
 ---
 title: "AI Gateway support for Claude Code - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-gateway-support-for-claude-code"
 date: "2026-01-05"
@@ -9,6 +10,7 @@ translated: true
 description: "Use Vercel AI Gateway from Claude Code via the Anthropic-compatible endpoint, with a URL change and AI Gateway usage and cost tracking."
 ---
 
+render_with_liquid: false
 Jan 5, 2026
 
 2026 年 1 月 5 日

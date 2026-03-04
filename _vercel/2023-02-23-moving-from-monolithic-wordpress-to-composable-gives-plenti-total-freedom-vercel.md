@@ -1,5 +1,6 @@
 ---
 title: "Moving from monolithic WordPress to composable gives Plenti total freedom - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/from-monolith-to-composable-equipping-a-financial-services-ipo"
 date: "2023-02-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Plenti"
 ---
 
+render_with_liquid: false
 Feb 23, 2023
 
 2023 年 2 月 23 日

@@ -1,5 +1,6 @@
 ---
 title: "Corepack (experimental) is now available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/corepack-experimental-is-now-available"
 date: "2022-07-14"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 14, 2022
 
 2022年7月14日

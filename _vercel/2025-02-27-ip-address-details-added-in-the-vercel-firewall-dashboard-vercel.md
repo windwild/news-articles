@@ -1,5 +1,6 @@
 ---
 title: "IP address details added in the Vercel Firewall dashboard - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ip-address-details-added-in-the-vercel-firewall-dashboard"
 date: "2025-02-27"
@@ -9,6 +10,7 @@ translated: true
 description: "The Vercel Firewall dashboard now displays enriched IP address data, including the AS name, AS number, and geolocation on hover."
 ---
 
+render_with_liquid: false
 Feb 27, 2025
 
 2025 年 2 月 27 日

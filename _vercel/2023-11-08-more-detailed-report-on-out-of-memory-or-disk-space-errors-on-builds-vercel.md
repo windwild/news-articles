@@ -1,5 +1,6 @@
 ---
 title: "More detailed report on out of memory or disk space errors on builds - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/report-on-out-of-memory-or-disk-space"
 date: "2023-11-08"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 8, 2023
 
 2023 年 11 月 8 日

@@ -1,5 +1,6 @@
 ---
 title: "Nova 2 Lite now available on Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/nova-2-lite-now-available-on-vercel-ai-gateway"
 date: "2025-12-03"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access Amazon's latest model Nova 2 Lite on Vercel AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Dec 3, 2025
 
 2025 年 12 月 3 日

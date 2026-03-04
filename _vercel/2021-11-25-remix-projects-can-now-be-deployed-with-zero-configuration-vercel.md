@@ -1,5 +1,6 @@
 ---
 title: "Remix projects can now be deployed with zero configuration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/remix-projects-can-now-be-deployed-with-zero-configuration"
 date: "2021-11-25"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 25, 2021
 
 2021 年 11 月 25 日

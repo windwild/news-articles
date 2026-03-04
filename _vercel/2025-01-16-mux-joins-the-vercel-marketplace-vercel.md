@@ -1,5 +1,6 @@
 ---
 title: "Mux joins the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/mux-joins-the-vercel-marketplace"
 date: "2025-01-16"
@@ -9,6 +10,7 @@ translated: true
 description: "New Video Category on Vercel Marketplace Featuring Mux Integration that allows users to add video streaming and playback capabilities with minimal setup"
 ---
 
+render_with_liquid: false
 Jan 16, 2025
 
 2025 年 1 月 16 日

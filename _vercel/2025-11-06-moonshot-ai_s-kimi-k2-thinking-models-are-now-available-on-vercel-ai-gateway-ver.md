@@ -1,5 +1,6 @@
 ---
 title: "Moonshot AI's Kimi K2 Thinking models are now available on Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/moonshot-ai-kimi-k2-thinking-and-kimi-k2-thinking-turbo-are-now-available"
 date: "2025-11-06"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access Moonshot AI's Kimi K2 Thinking and Kimi K2 Thinking Turbo with Vercel's AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Nov 6, 2025
 
 2025 年 11 月 6 日

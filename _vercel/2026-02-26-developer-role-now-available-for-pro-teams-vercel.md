@@ -1,5 +1,6 @@
 ---
 title: "Developer role now available for Pro teams - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/developer-role-now-available-for-pro-teams"
 date: "2026-02-26"
@@ -9,6 +10,7 @@ translated: true
 description: "Teams on the Pro plan can now assign the Developer role to their members for more granular access control."
 ---
 
+render_with_liquid: false
 Feb 26, 2026
 
 2026 年 2 月 26 日

@@ -1,5 +1,6 @@
 ---
 title: "Design Engineering at Vercel: What we do and how we do it - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/design-engineering-at-vercel"
 date: "2024-03-29"
@@ -9,6 +10,7 @@ translated: true
 description: "Design Engineers at Vercel blend aesthetic sensibility with technical skills. Learn about Vercel's philosophy on what Design Engineering is and how we work."
 ---
 
+render_with_liquid: false
 Mar 29, 2024
 
 2024年3月29日

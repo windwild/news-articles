@@ -1,5 +1,6 @@
 ---
 title: "Introducing bytecode caching for Vercel Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-bytecode-caching-for-vercel-functions"
 date: "2024-06-03"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn about how we're further improving startup performance for large applications."
 ---
 
+render_with_liquid: false
 Jun 3, 2024
 
 2024 年 6 月 3 日

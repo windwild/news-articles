@@ -1,5 +1,6 @@
 ---
 title: "Using Zig in our incremental Turborepo migration from Go to Rust - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-we-continued-porting-turborepo-to-rust"
 date: "2023-09-08"
@@ -9,6 +10,7 @@ translated: true
 description: "In this Turborepo migration update, we explore the innovative strategies, such as the \"Go Sandwich\" approach and leveraging Zig's cross-compilation, guiding our gradual shift from Go to Rust, aiming t..."
 ---
 
+render_with_liquid: false
 Sep 8, 2023
 
 2023 年 9 月 8 日

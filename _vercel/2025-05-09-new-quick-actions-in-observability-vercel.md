@@ -1,5 +1,6 @@
 ---
 title: "New quick actions in Observability - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-quick-actions-in-observability"
 date: "2025-05-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Copy, filter, or exclude any value in Observability queries with new one-click actions, making it faster to analyze incoming traffic."
 ---
 
+render_with_liquid: false
 May 9, 2025
 
 2025年5月9日

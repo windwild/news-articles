@@ -1,5 +1,6 @@
 ---
 title: "Configurable Log Drains - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/configurable-log-drains"
 date: "2023-01-19"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jan 19, 2023
 
 2023 年 1 月 19 日

@@ -1,5 +1,6 @@
 ---
 title: "Improved traffic visibility on Firewall overview page - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-traffic-visibility-on-firewall-overview-page"
 date: "2025-02-20"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel improves traffic visibility on the Firewall page with a new design, better filtering, and a new warnings if a reverse proxy is inhibiting Vercel's ability to protect your site."
 ---
 
+render_with_liquid: false
 Feb 20, 2025
 
 2025 年 2 月 20 日

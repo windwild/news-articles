@@ -1,5 +1,6 @@
 ---
 title: "More flexible Environment Variables in Edge Functions and Middleware - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/more-flexible-environment-variables-in-edge-functions-and-middleware"
 date: "2023-05-24"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 24, 2023
 
 2023 年 5 月 24 日

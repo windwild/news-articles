@@ -1,5 +1,6 @@
 ---
 title: " Vercel's Bot Protection stops malicious bots in a single click  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/one-click-bot-protection-now-in-public-beta"
 date: "2025-04-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Mitigate unwanted bot traffic by challenging requests from non-browser sources. Now available in public beta and free for all users on all plans."
 ---
 
+render_with_liquid: false
 Apr 23, 2025
 
 2025 年 4 月 23 日

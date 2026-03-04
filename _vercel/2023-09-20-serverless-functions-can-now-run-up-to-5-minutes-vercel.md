@@ -1,5 +1,6 @@
 ---
 title: "Serverless Functions can now run up to 5 minutes - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/serverless-functions-can-now-run-up-to-5-minutes"
 date: "2023-09-20"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Sep 20, 2023
 
 2023 年 9 月 20 日

@@ -1,5 +1,6 @@
 ---
 title: "How Frame.io builds fluid UI for a seamless user experience - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/frameio-never-drop-the-illusion"
 date: "2024-06-11"
@@ -9,6 +10,7 @@ translated: true
 description: "Their users \"see in milliseconds,\" so every frame within their web experience matters. Frame.io commits itself to delivering web applications that feel as responsive and powerful as their desktop coun..."
 ---
 
+render_with_liquid: false
 Jun 11, 2024
 
 2024 年 6 月 11 日

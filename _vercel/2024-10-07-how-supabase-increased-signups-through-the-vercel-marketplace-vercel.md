@@ -1,5 +1,6 @@
 ---
 title: "How Supabase increased signups through the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-supabase-increased-signups-through-the-vercel-marketplace"
 date: "2024-10-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Supabase increased signups through the Vercel Marketplace"
 ---
 
+render_with_liquid: false
 Oct 7, 2024
 
 2024年10月7日

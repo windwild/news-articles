@@ -1,5 +1,6 @@
 ---
 title: "Instantly transfer domains to new projects - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/instantly-transfer-domains-to-new-projects"
 date: "2022-08-05"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 5, 2022
 
 2022年8月5日

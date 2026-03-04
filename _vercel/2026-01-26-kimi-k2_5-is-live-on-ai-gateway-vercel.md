@@ -1,5 +1,6 @@
 ---
 title: "Kimi K2.5 is live on AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/kimi-k2-5-on-ai-gateway"
 date: "2026-01-26"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access Moonshot AI's Kimi K2.5 model via Vercel's AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Jan 26, 2026
 
 2026年1月26日

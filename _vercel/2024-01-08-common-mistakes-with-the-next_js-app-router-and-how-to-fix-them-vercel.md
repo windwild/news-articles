@@ -1,5 +1,6 @@
 ---
 title: "Common mistakes with the Next.js App Router and how to fix them - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/common-mistakes-with-the-next-js-app-router-and-how-to-fix-them"
 date: "2024-01-08"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how to use the Next.js App Router more effectively and understand the new model."
 ---
 
+render_with_liquid: false
 Jan 8, 2024
 
 2024 年 1 月 8 日

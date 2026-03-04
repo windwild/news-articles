@@ -1,5 +1,6 @@
 ---
 title: "SSH into running Vercel Sandboxes with the CLI - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ssh-into-running-sandboxes-with-the-sandbox-cli"
 date: "2026-01-15"
@@ -9,6 +10,7 @@ translated: true
 description: "SSH into running Sandboxes using the Vercel Sandbox CLI. Open secure, interactive shell sessions, with timeouts automatically extended in 5-minute increments for up to 5 hours."
 ---
 
+render_with_liquid: false
 Jan 15, 2026
 
 2026 年 1 月 15 日

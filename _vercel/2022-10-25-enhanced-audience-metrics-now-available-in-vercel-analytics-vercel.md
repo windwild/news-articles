@@ -1,5 +1,6 @@
 ---
 title: "Enhanced audience metrics now available in Vercel Analytics - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-audience-metrics-now-available-in-vercel-analytics"
 date: "2022-10-25"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 25, 2022
 
 2022 年 10 月 25 日

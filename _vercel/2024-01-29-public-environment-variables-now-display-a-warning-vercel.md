@@ -1,5 +1,6 @@
 ---
 title: "Public environment variables now display a warning - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/public-environment-variables-now-display-a-warning"
 date: "2024-01-29"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jan 29, 2024
 
 2024 年 1 月 29 日

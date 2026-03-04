@@ -1,5 +1,6 @@
 ---
 title: "Login with passkey is now supported - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/login-with-passkey-is-now-supported"
 date: "2024-01-11"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jan 11, 2024
 
 2024 年 1 月 11 日

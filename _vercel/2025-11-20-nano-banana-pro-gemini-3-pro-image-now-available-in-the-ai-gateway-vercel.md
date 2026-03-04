@@ -1,5 +1,6 @@
 ---
 title: "Nano Banana Pro (Gemini 3 Pro Image) now available in the AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/nano-banana-pro-gemini-3-pro-image-now-available-in-the-ai-gateway"
 date: "2025-11-20"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access Google's latest model Nano Banana Pro (Gemini 3 Pro Image) in Vercel AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Nov 20, 2025
 
 2025 年 11 月 20 日

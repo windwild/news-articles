@@ -1,5 +1,6 @@
 ---
 title: "New usage dashboard for Enterprise users - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-usage-dashboard-for-enterprise-users"
 date: "2025-05-08"
@@ -9,6 +10,7 @@ translated: true
 description: "We’ve launched a new usage dashboard for Enterprise teams to analyze Vercel usage and costs with detailed breakdowns and export options."
 ---
 
+render_with_liquid: false
 May 8, 2025
 
 2025 年 5 月 8 日

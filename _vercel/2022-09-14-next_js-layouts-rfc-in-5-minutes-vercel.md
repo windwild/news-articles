@@ -1,5 +1,6 @@
 ---
 title: "Next.js Layouts RFC in 5 minutes - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next-js-layouts-rfc-in-5-minutes"
 date: "2022-09-14"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn about the upcoming routing and layouts changes to Next.js."
 ---
 
+render_with_liquid: false
 Sep 14, 2022
 
 2022 年 9 月 14 日

@@ -1,5 +1,6 @@
 ---
 title: "Vercel Agent Investigations now in Public Beta - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-agent-investigations-now-in-public-beta"
 date: "2025-10-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Agent can now automatically run AI investigations on anomalous events for faster incident response."
 ---
 
+render_with_liquid: false
 Oct 23, 2025
 
 2025 年 10 月 23 日

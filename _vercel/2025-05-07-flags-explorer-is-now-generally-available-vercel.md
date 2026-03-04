@@ -1,5 +1,6 @@
 ---
 title: "Flags Explorer is now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/flags-explorer-is-now-generally-available"
 date: "2025-05-07"
@@ -9,6 +10,7 @@ translated: true
 description: "View and override feature flags in your browser with Flags Explorer – now generally available for all customers"
 ---
 
+render_with_liquid: false
 May 7, 2025
 
 2025年5月7日

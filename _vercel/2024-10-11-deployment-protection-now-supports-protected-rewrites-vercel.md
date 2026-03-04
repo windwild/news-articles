@@ -1,5 +1,6 @@
 ---
 title: "Deployment Protection now supports protected rewrites - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deployment-protection-now-supports-protected-rewrites"
 date: "2024-10-11"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 11, 2024
 
 2024 年 10 月 11 日

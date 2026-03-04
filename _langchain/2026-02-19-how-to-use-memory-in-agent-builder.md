@@ -1,5 +1,6 @@
 ---
 title: "How to Use Memory in Agent Builder"
+render_with_liquid: false
 source: "LangChain Blog"
 url: "https://blog.langchain.com/how-to-use-memory-in-agent-builder/"
 date: "2026-02-19"
@@ -9,6 +10,7 @@ translated: true
 description: "By Jacob TalbotAgent Builder gets better the more you use it because it remembers your feedback. Every correction you make, preference you share, and approach that works well is something that your ag..."
 ---
 
+render_with_liquid: false
 _By Jacob Talbot_
 
 作者：Jacob Talbot

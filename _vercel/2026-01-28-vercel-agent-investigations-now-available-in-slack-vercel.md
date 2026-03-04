@@ -1,5 +1,6 @@
 ---
 title: "Vercel Agent investigations now available in Slack - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-agent-investigations-now-available-in-slack"
 date: "2026-01-28"
@@ -9,6 +10,7 @@ translated: true
 description: "With our updated Slack integration, investigations now appear directly in Slack alert messages as a threaded response. This eliminates the need to click into the Vercel dashboard and gives you context..."
 ---
 
+render_with_liquid: false
 Jan 28, 2026
 
 2026 年 1 月 28 日

@@ -1,5 +1,6 @@
 ---
 title: "Access groups now generally available on Enterprise plans - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/access-groups-now-generally-available-on-enterprise-plans"
 date: "2024-05-07"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 7, 2024
 
 2024年5月7日

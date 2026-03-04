@@ -1,5 +1,6 @@
 ---
 title: "Pro teams now have an included team seat for Billing - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/billing-role-on-pro"
 date: "2023-07-06"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 6, 2023
 
 2023 年 7 月 6 日

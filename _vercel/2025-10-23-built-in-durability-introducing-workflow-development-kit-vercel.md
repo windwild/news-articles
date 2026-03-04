@@ -1,5 +1,6 @@
 ---
 title: "Built-in durability: Introducing Workflow Development Kit - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-workflow"
 date: "2025-10-23"
@@ -9,6 +10,7 @@ translated: true
 description: "The Workflow Development Kit (WDK) makes async workflows in TypeScript reliable, durable, fault-tolerant, and portable across any cloud."
 ---
 
+render_with_liquid: false
 Oct 23, 2025
 
 2025 年 10 月 23 日

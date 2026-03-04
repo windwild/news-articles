@@ -1,5 +1,6 @@
 ---
 title: "Upcoming change in Let's Encrypt Chain of Trust - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/upcoming-change-in-lets-encrypt-chain-of-trust"
 date: "2024-04-18"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 18, 2024
 
 2024 年 4 月 18 日

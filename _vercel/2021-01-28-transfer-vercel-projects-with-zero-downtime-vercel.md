@@ -1,5 +1,6 @@
 ---
 title: "Transfer Vercel projects with zero downtime - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/transfer-vercel-projects-with-zero-downtime"
 date: "2021-01-28"
@@ -9,6 +10,7 @@ translated: true
 description: "With Vercel, you can now transfer projects from Hobby plan to a Vercel Team Plan with Zero Downtime"
 ---
 
+render_with_liquid: false
 Jan 28, 2021
 
 2021 年 1 月 28 日

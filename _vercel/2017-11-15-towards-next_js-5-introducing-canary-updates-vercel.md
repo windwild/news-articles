@@ -1,5 +1,6 @@
 ---
 title: "Towards Next.js 5: Introducing Canary Updates - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next-canary"
 date: "2017-11-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Featuring a new update channel for Next.js, our first canary release and the Next.js 5 Roadmap."
 ---
 
+render_with_liquid: false
 Nov 15, 2017
 
 2017 年 11 月 15 日

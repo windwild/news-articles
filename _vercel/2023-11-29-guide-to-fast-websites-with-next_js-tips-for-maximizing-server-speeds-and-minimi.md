@@ -1,5 +1,6 @@
 ---
 title: "Guide to fast websites with Next.js: Tips for maximizing server speeds and minimizing client burden - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/guide-to-fast-websites-with-next-js-tips-for-maximizing-server-speeds"
 date: "2023-11-29"
@@ -9,6 +10,7 @@ translated: true
 description: "A collection of tips to make faster Next.js websites by maximizing work on the server and minimizing the burden on the client."
 ---
 
+render_with_liquid: false
 Nov 29, 2023
 
 2023 年 11 月 29 日

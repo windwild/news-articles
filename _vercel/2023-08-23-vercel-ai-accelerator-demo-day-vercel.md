@@ -1,5 +1,6 @@
 ---
 title: "Vercel AI Accelerator Demo Day - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-ai-accelerator-demo-day"
 date: "2023-08-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Watch 28 talented AI startups show off impressive demos in 3 minutes each as part of our AI Accelerator Demo Day."
 ---
 
+render_with_liquid: false
 2023年8月23日
 
 2023年8月23日

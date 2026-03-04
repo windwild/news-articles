@@ -1,5 +1,6 @@
 ---
 title: "Transforming customer support with AI: How Vercel decreased tickets by 31% - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/transforming-customer-support-with-ai-how-vercel-decreased-tickets"
 date: "2024-09-03"
@@ -9,6 +10,7 @@ translated: true
 description: "At Vercel, we integrated AI into our support workflow. Our AI agent reduced human-handled tickets by 31%, allowing us to maintain high support standards while serving a growing customer base."
 ---
 
+render_with_liquid: false
 Sep 3, 2024
 
 2024 年 9 月 3 日

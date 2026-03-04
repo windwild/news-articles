@@ -1,5 +1,6 @@
 ---
 title: "Vercel Blob insights now available in Observability - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-blob-insights-now-available-in-observability"
 date: "2025-05-19"
@@ -9,6 +10,7 @@ translated: true
 description: "The Observability dashboard now includes a dedicated tab for Vercel Blob, which provides visibility into how Blob stores are used across your applications."
 ---
 
+render_with_liquid: false
 May 19, 2025
 
 2025 年 5 月 19 日

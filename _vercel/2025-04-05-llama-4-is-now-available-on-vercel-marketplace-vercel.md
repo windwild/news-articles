@@ -1,5 +1,6 @@
 ---
 title: "Llama 4 is now available on Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/llama-4-is-now-available-on-vercel-marketplace"
 date: "2025-04-05"
@@ -9,6 +10,7 @@ translated: true
 description: "Llama 4 is now available on Vercel Marketplace via Groq to bring bring state-of-the-art AI capabilities like multimodal input to your Vercel projects. "
 ---
 
+render_with_liquid: false
 Apr 5, 2025
 
 2025 年 4 月 5 日

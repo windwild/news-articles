@@ -1,5 +1,6 @@
 ---
 title: "Automated DNS configuration with Domain Connect - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automated-dns-configuration-with-domain-connect"
 date: "2025-02-14"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now supports Domain Connect, enabling one-click DNS configuration. Available now with Cloudflare domains."
 ---
 
+render_with_liquid: false
 Feb 14, 2025
 
 2025 年 2 月 14 日

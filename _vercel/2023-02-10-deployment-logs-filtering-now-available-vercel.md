@@ -1,5 +1,6 @@
 ---
 title: "Deployment logs filtering now available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deployment-logs-filtering-now-available"
 date: "2023-02-10"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 10, 2023
 
 2023年2月10日

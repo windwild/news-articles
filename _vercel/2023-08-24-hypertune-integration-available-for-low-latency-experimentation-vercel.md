@@ -1,5 +1,6 @@
 ---
 title: "Hypertune integration available for low latency experimentation - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/hypertune-integration-available-for-low-latency-experimentation"
 date: "2023-08-24"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 24, 2023
 
 2023年8月24日

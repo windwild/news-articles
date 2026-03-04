@@ -1,5 +1,6 @@
 ---
 title: "How Vercel helped Desenio future-proof their business - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-vercel-helped-desenio-future-proof-their-business"
 date: "2024-05-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel helped Desenio future-proof their business"
 ---
 
+render_with_liquid: false
 May 9, 2024
 
 2024年5月9日

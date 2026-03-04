@@ -1,5 +1,6 @@
 ---
 title: "Improving support with every interaction at OpenAI | OpenAI"
+render_with_liquid: false
 source: "OpenAI Blog"
 url: "https://openai.com/index/openai-support-model"
 date: "2025-09-29"
@@ -10,6 +11,7 @@ description: "Learn how OpenAI uses AI to enhance support, cutting response time
 tags: ["API"]
 ---
 
+render_with_liquid: false
 September 29, 2025
 
 2025年9月29日

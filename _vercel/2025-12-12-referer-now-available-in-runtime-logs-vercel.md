@@ -1,5 +1,6 @@
 ---
 title: "Referer now available in runtime logs - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/referer-now-available-in-runtime-logs"
 date: "2025-12-12"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now view the referer for any request listed in the runtime logs page on the Vercel dashboard"
 ---
 
+render_with_liquid: false
 Dec 12, 2025
 
 2025 年 12 月 12 日

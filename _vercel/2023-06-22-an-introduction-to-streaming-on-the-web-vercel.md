@@ -1,5 +1,6 @@
 ---
 title: "An Introduction to Streaming on the Web - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/an-introduction-to-streaming-on-the-web"
 date: "2023-06-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how web streams work, their advantages, streaming on Vercel, and tools built around web streams."
 ---
 
+render_with_liquid: false
 Jun 22, 2023
 
 2023 年 6 月 22 日

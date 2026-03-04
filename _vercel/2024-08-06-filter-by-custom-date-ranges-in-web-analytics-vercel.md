@@ -1,5 +1,6 @@
 ---
 title: "Filter by custom date ranges in Web Analytics - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-by-custom-date-ranges-in-web-analytics"
 date: "2024-08-06"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 6, 2024
 
 2024 年 8 月 6 日

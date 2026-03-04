@@ -1,5 +1,6 @@
 ---
 title: "How Core Web Vitals Will Impact Google Rankings in 2021 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/core-web-vitals"
 date: "2021-04-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Landing a top spot on Google can have a multi-million dollar impact on your business. Starting in June 2021, the performance of your site (determined by Core Web Vitals) will be critical to your searc..."
 ---
 
+render_with_liquid: false
 Apr 15, 2021
 
 2021年4月15日

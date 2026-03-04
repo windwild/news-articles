@@ -1,5 +1,6 @@
 ---
 title: "Node.js 16 is being deprecated on January 31, 2025 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-16-deprecation"
 date: "2023-11-29"
@@ -9,6 +10,7 @@ translated: true
 description: "Following the Node.js 16 end of life on September 11, 2023, we are deprecating Node.js 16 for Builds and Functions on January 31, 2025."
 ---
 
+render_with_liquid: false
 Nov 29, 2023
 
 2023 年 11 月 29 日

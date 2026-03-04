@@ -1,5 +1,6 @@
 ---
 title: "Welcoming Kathy Korevec to Vercel, our new Head of Product - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/welcoming-kathy-korevec-to-vercel-our-new-head-of-product"
 date: "2021-07-07"
@@ -9,6 +10,7 @@ translated: true
 description: "We’re excited to announce that Kathy Korevec is joining our leadership team at Vercel as Head of Product to accelerate our mission to bring the best developer experience to our customers and communi..."
 ---
 
+render_with_liquid: false
 Jul 7, 2021
 
 2021 年 7 月 7 日

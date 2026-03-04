@@ -1,5 +1,6 @@
 ---
 title: "HIPAA BAAs are now available to Pro teams - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/hipaa-baas-are-now-available-to-pro-teams"
 date: "2025-09-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Pro teams can now access and sign a Business Associate Agreement (BAA) to enable HIPAA-compliant workloads on Vercel. The BAA is self-serve and available from the team billing dashboard."
 ---
 
+render_with_liquid: false
 2025年9月9日
 
 2025年9月9日

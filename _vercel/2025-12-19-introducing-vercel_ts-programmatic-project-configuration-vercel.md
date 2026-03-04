@@ -1,5 +1,6 @@
 ---
 title: "Introducing vercel.ts: Programmatic project configuration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-ts"
 date: "2025-12-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now supports vercel.ts, a new TypeScript-based configuration file that brings type safety, dynamic logic, and better developer experience to project configuration."
 ---
 
+render_with_liquid: false
 Dec 19, 2025
 
 2025 年 12 月 19 日

@@ -1,5 +1,6 @@
 ---
 title: "Join us for Interrupt: The Agent Conference"
+render_with_liquid: false
 source: "LangChain Blog"
 url: "https://blog.langchain.com/join-us-for-interrupt-the-agent-conference/"
 date: "2026-02-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Interrupt - The Agent Conference by LangChain - is where builders come to learn what&apos;s actually working in production. This year, we&apos;re bringing together more than 1,000 developers, product ..."
 ---
 
+render_with_liquid: false
 Interrupt - The Agent Conference by LangChain - is where builders come to learn what's actually working in production. This year, we're bringing together more than 1,000 developers, product leaders, researchers, and founders to share what's coming next for agents—and how to build it.
 
 Interrupt — LangChain 主办的智能体大会 — 是开发者们齐聚一堂、共同探讨哪些技术真正落地并投入实际生产应用的盛会。今年，我们将汇聚逾 1,000 名开发者、产品负责人、研究人员及创始人，共同分享智能体（agents）的未来发展方向，以及如何构建下一代智能体。

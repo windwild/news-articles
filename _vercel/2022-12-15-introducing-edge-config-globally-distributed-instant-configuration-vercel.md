@@ -1,5 +1,6 @@
 ---
 title: "Introducing Edge Config: Globally distributed, instant configuration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/edge-config-public-beta"
 date: "2022-12-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Edge Config is a distributed data store optimized for near-instant reads. By pushing data to every region, before any requests are made, you're able to read that data from a Vercel Function or Edge Mi..."
 ---
 
+render_with_liquid: false
 Dec 15, 2022
 
 2022 年 12 月 15 日

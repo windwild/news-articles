@@ -1,5 +1,6 @@
 ---
 title: "Introducing the Vercel Templates Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-vercel-templates-marketplace"
 date: "2022-09-09"
@@ -9,6 +10,7 @@ translated: true
 description: "We are excited to announce the launch of the Vercel Templates Marketplace."
 ---
 
+render_with_liquid: false
 Sep 9, 2022
 
 2022 年 9 月 9 日

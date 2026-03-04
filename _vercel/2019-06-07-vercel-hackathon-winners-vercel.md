@@ -1,5 +1,6 @@
 ---
 title: "Vercel Hackathon Winners - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/hackathon-winners"
 date: "2019-06-07"
@@ -9,6 +10,7 @@ translated: true
 description: "The first-ever Vercel Hackathon was a phenomenal success. Read on to learn about winners, and a summary of the event."
 ---
 
+render_with_liquid: false
 Jun 7, 2019
 
 2019 年 6 月 7 日

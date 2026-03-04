@@ -1,5 +1,6 @@
 ---
 title: "Towards the AI Cloud: Our Series F - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/series-f"
 date: "2025-09-30"
@@ -9,6 +10,7 @@ translated: true
 description: "Today, Vercel announced an important milestone: a Series F funding round valuing our company at $9.3 billion."
 ---
 
+render_with_liquid: false
 Sep 30, 2025
 
 2025 年 9 月 30 日

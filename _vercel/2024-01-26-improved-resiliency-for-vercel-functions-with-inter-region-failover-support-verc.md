@@ -1,5 +1,6 @@
 ---
 title: "Improved resiliency for Vercel Functions with inter-region failover support - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-resiliency-for-vercel-functions-with-failover-support"
 date: "2024-01-26"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jan 26, 2024
 
 2024 年 1 月 26 日

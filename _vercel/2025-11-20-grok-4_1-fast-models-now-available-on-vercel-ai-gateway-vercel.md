@@ -1,5 +1,6 @@
 ---
 title: "Grok 4.1 Fast models now available on Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/grok-4-1-fast-models-now-available-on-vercel-ai-gateway"
 date: "2025-11-20"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access xAI's Grok 4.1 models in Vercel AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Nov 20, 2025
 
 2025 年 11 月 20 日

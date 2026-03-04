@@ -1,5 +1,6 @@
 ---
 title: "Custom firewall rules for IP blocking - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/custom-firewall-rules-for-ip-blocking"
 date: "2023-05-02"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 2, 2023
 
 2023 年 5 月 2 日

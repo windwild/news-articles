@@ -1,5 +1,6 @@
 ---
 title: "Enhanced Logs to search, inspect, and share runtime logs - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-logs-ui-to-search-inspect-and-share-application-logs"
 date: "2023-03-01"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Mar 1, 2023
 
 2023 年 3 月 1 日

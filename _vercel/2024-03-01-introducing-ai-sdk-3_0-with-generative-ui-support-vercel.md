@@ -1,5 +1,6 @@
 ---
 title: "Introducing AI SDK 3.0 with Generative UI support - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-3-generative-ui"
 date: "2024-03-01"
@@ -9,6 +10,7 @@ translated: true
 description: "Stream React Components from LLMs to deliver richer user experiences"
 ---
 
+render_with_liquid: false
 Mar 1, 2024
 
 2024 年 3 月 1 日

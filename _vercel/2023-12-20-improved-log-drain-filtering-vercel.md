@@ -1,5 +1,6 @@
 ---
 title: "Improved Log Drain filtering - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-log-drain-filtering"
 date: "2023-12-20"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 20, 2023
 
 2023 年 12 月 20 日

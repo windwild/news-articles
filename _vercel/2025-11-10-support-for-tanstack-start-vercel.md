@@ -1,5 +1,6 @@
 ---
 title: "Support for TanStack Start - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-for-tanstack-start"
 date: "2025-11-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now detects and deploys TanStack Start, a full-stack framework powered by TanStack Router for React and Solid."
 ---
 
+render_with_liquid: false
 Nov 10, 2025
 
 2025年11月10日

@@ -1,5 +1,6 @@
 ---
 title: "Automated security audits now available for skills.sh - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automated-security-audits-now-available-for-skills-sh"
 date: "2026-02-17"
@@ -9,6 +10,7 @@ translated: true
 description: "Skills on the skills.sh now have automated security audits to help developers to use skills with confidence."
 ---
 
+render_with_liquid: false
 Feb 17, 2026
 
 2026 年 2 月 17 日

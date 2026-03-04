@@ -1,5 +1,6 @@
 ---
 title: "Introducing the Dubai Vercel region (dxb1) - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-the-dubai-vercel-region-dxb1"
 date: "2025-06-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Dubai (dxb1) is now part of Vercel’s global edge network, improving latency for users in the Middle East, Africa, and Central Asia."
 ---
 
+render_with_liquid: false
 Jun 16, 2025
 
 2025 年 6 月 16 日

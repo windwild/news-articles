@@ -1,5 +1,6 @@
 ---
 title: "Anthropic Education Report: The AI Fluency Index"
+render_with_liquid: false
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/AI-fluency-index"
 scraped_at: "2026-03-02T09:21:16.646480348+00:00"
@@ -9,6 +10,7 @@ description: "Anthropic's AI Fluency Index measures 11 observable behaviors acro
 tags: ["Announcements"]
 ---
 
+render_with_liquid: false
 Announcements
 
 公告

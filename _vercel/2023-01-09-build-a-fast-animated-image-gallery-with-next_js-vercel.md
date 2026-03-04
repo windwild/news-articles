@@ -1,5 +1,6 @@
 ---
 title: "Build a fast, animated image gallery with Next.js - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-a-fast-animated-image-gallery-with-next-js"
 date: "2023-01-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how to build a performant image gallery using the Next.js image component and Cloudinary that can handle hundreds of large images and deliver great UX."
 ---
 
+render_with_liquid: false
 Jan 9, 2023
 
 2023年1月9日

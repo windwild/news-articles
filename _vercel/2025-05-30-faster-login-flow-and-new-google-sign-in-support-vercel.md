@@ -1,5 +1,6 @@
 ---
 title: "Faster login flow and new Google Sign-in support - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-login-flow-and-new-google-sign-in-support"
 date: "2025-05-30"
@@ -9,6 +10,7 @@ translated: true
 description: "We’ve improved the login experience with a new design and support for Google sign-in, including Google One Tap. Signing in with Google is now a single-click experience."
 ---
 
+render_with_liquid: false
 May 30, 2025
 
 2025年5月30日

@@ -1,5 +1,6 @@
 ---
 title: "January 2026: LangChain Newsletter"
+render_with_liquid: false
 source: "LangChain Blog"
 url: "https://blog.langchain.com/january-2026-langchain-newsletter/"
 date: "2026-01-30"
@@ -9,6 +10,7 @@ translated: true
 description: "Read about the latest product updates, events, and content from the LangChain team"
 ---
 
+render_with_liquid: false
 We’re kicking off 2026 with a fresh set of agent-building updates, improved experiment comparison, and new reads on observability and evaluation. Read on to see everything we’ve shipped this January.
 
 我们以一系列全新的智能体（agent）构建更新、更完善的实验对比功能，以及关于可观测性（observability）与评估（evaluation）的深度文章，开启 2026 年。请继续阅读，了解本月（2026 年 1 月）我们发布的所有内容。

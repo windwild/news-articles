@@ -1,5 +1,6 @@
 ---
 title: "Streamdown 2.2 - animated streaming and better support for custom HTML - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/streamdown-2-2"
 date: "2025-09-08"
@@ -9,6 +10,7 @@ translated: true
 description: "Streamdown 2.2 delivers animated per-word text streaming, improved custom HTML handling, and drop-in compatibility with ReactMarkdown - making it easier to adopt Streamdown in existing projects."
 ---
 
+render_with_liquid: false
 Sep 8, 2025
 
 2025 年 9 月 8 日

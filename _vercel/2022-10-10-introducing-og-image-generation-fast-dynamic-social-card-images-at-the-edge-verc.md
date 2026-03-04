@@ -1,5 +1,6 @@
 ---
 title: "Introducing OG Image Generation: Fast, dynamic social card images at the Edge - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-vercel-og-image-generation-fast-dynamic-social-card-images"
 date: "2022-10-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Announcing Vercel OG Image Generation, a new library for generating dynamic social card images."
 ---
 
+render_with_liquid: false
 Oct 10, 2022
 
 2022年10月10日

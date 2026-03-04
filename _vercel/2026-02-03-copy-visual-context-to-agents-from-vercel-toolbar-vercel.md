@@ -1,5 +1,6 @@
 ---
 title: "Copy visual context to agents from Vercel Toolbar - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/copy-visual-context-to-agents"
 date: "2026-02-03"
@@ -9,6 +10,7 @@ translated: true
 description: "Copy visual context from Vercel Toolbar comments directly to agents. Streamlines feedback-to-code workflow with deployment details and component data."
 ---
 
+render_with_liquid: false
 Feb 3, 2026
 
 2026年2月3日

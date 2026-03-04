@@ -1,5 +1,6 @@
 ---
 title: "Vercel WAF upgrade brings persistent actions, rate limiting, and API control - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-waf-upgrade-brings-persistent-actions-rate-limiting-and-api-control"
 date: "2024-10-02"
@@ -9,6 +10,7 @@ translated: true
 description: "New capabilities reduce effects of DDoS attacks and enhance traffic control"
 ---
 
+render_with_liquid: false
 Oct 2, 2024
 
 2024 年 10 月 2 日

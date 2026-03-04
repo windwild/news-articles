@@ -1,5 +1,6 @@
 ---
 title: "Unified documentation search across Vercel, Next.js, and Turborepo - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/unified-documentation-search-across-vercel-next-js-and-turborepo"
 date: "2023-12-08"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 8, 2023
 
 2023 年 12 月 8 日

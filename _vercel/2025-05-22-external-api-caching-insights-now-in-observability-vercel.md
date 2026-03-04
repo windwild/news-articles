@@ -1,5 +1,6 @@
 ---
 title: "External API caching insights now in Observability - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/external-api-caching-insights-now-in-observability"
 date: "2025-05-22"
@@ -9,6 +10,7 @@ translated: true
 description: "External API caching insights. are now available in Observability for external API calls using Vercel Data Cache."
 ---
 
+render_with_liquid: false
 May 22, 2025
 
 2025 年 5 月 22 日

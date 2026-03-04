@@ -1,5 +1,6 @@
 ---
 title: "Vercel Analytics are now real-time - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/real-time-vercel-analytics"
 date: "2021-02-26"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 26, 2021
 
 2021 年 2 月 26 日

@@ -1,5 +1,6 @@
 ---
 title: "Native support for SvelteKit's new OpenTelemetry spans - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/native-support-for-sveltekits-new-opentelemetry-spans"
 date: "2025-08-18"
@@ -9,6 +10,7 @@ translated: true
 description: "SvelteKit natively supports OpenTelemetry tracing on Vercel using `registerOTel` from `@vercel/otel`. "
 ---
 
+render_with_liquid: false
 Aug 18, 2025
 
 2025 年 8 月 18 日

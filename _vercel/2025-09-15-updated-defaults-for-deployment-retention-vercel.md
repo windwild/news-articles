@@ -1,5 +1,6 @@
 ---
 title: "Updated defaults for deployment retention - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/updated-defaults-for-deployment-retention"
 date: "2025-09-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel is updating the default retention policy for deployments. Unlimited retention is no longer available."
 ---
 
+render_with_liquid: false
 Sep 15, 2025
 
 2025 年 9 月 15 日

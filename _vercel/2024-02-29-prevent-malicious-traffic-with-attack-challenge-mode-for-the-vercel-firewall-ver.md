@@ -1,5 +1,6 @@
 ---
 title: "Prevent malicious traffic with Attack Challenge Mode for the Vercel Firewall - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/prevent-malicious-traffic-with-attack-challenge-mode-for-vercel-firewall"
 date: "2024-02-29"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 29, 2024
 
 2024 年 2 月 29 日

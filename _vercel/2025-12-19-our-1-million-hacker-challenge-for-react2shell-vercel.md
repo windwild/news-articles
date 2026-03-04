@@ -1,5 +1,6 @@
 ---
 title: "Our $1 million hacker challenge for React2Shell - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/our-million-dollar-hacker-challenge-for-react2shell"
 date: "2025-12-19"
@@ -9,6 +10,7 @@ translated: true
 description: "We paid $1M to security researchers to break our WAF. Here's what we learned defending against React2Shell."
 ---
 
+render_with_liquid: false
 Dec 19, 2025
 
 2025 年 12 月 19 日

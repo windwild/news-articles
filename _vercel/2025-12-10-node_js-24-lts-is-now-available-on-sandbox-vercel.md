@@ -1,5 +1,6 @@
 ---
 title: "Node.js 24 LTS is now available on Sandbox - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-24-lts-is-now-available-on-sandbox"
 date: "2025-12-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Sandbox now supports running sandboxes with the Node.js 24 LTS runtime. This is supported in @vercel/sandbox versions 1.1.0 and later."
 ---
 
+render_with_liquid: false
 Dec 10, 2025
 
 2025 年 12 月 10 日

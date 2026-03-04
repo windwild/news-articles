@@ -1,5 +1,6 @@
 ---
 title: "Invalidate the CDN cache by tag - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/invalidate-the-cdn-cache-by-tag"
 date: "2025-10-03"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now invalidate the CDN cache contents by tag providing a way to revalidate content without increasing latency for your users"
 ---
 
+render_with_liquid: false
 Oct 3, 2025
 
 2025 年 10 月 3 日

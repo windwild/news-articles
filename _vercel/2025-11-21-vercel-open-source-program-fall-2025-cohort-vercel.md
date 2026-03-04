@@ -1,5 +1,6 @@
 ---
 title: "Vercel Open Source Program: Fall 2025 cohort - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-open-source-program-fall-2025-cohort"
 date: "2025-11-21"
@@ -9,6 +10,7 @@ translated: true
 description: "Announcing the fall 2025 cohort of Vercel's Open Source Program. Open source community frameworks, libraries, and tools we rely on every day to build the web."
 ---
 
+render_with_liquid: false
 Nov 21, 2025
 
 2025 年 11 月 21 日

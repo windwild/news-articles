@@ -1,5 +1,6 @@
 ---
 title: "Agents can now access runtime logs with Vercel's MCP server - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/agents-can-now-access-runtime-logs-with-vercels-mcp-server"
 date: "2026-02-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Runtime logs are now available via Vercel's MCP server, enabling AI agents to analyze performance, fix errors, and more."
 ---
 
+render_with_liquid: false
 Feb 10, 2026
 
 2026 年 2 月 10 日

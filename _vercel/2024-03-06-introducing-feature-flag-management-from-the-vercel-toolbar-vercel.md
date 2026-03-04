@@ -1,5 +1,6 @@
 ---
 title: "Introducing feature flag management from the Vercel Toolbar - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/toolbar-feature-flags"
 date: "2024-03-06"
@@ -9,6 +10,7 @@ translated: true
 description: "Uplevel your flags workflow with the Vercel Toolbar"
 ---
 
+render_with_liquid: false
 Mar 6, 2024
 
 2024 年 3 月 6 日

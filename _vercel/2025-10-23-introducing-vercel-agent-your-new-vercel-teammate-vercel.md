@@ -1,5 +1,6 @@
 ---
 title: "Introducing Vercel Agent: Your new Vercel teammate - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-vercel-agent"
 date: "2025-10-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Agent provides AI-powered code reviews and production investigations, delivering accurate, context-aware insights to help you ship reliable software."
 ---
 
+render_with_liquid: false
 Oct 23, 2025
 
 2025 年 10 月 23 日

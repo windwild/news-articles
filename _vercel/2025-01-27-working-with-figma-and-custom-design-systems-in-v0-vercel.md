@@ -1,5 +1,6 @@
 ---
 title: "Working with Figma and custom design systems in v0 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/working-with-figma-and-custom-design-systems-in-v0"
 date: "2025-01-27"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn best practices on importing your designs from Figma, working with shadcn/ui, and leveraging public npm packages. "
 ---
 
+render_with_liquid: false
 Jan 27, 2025
 
 2025 年 1 月 27 日

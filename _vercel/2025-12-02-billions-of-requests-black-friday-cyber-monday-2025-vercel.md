@@ -1,5 +1,6 @@
 ---
 title: "Billions of requests: Black Friday-Cyber Monday 2025 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/bfcm-2025"
 date: "2025-12-02"
@@ -9,6 +10,7 @@ translated: true
 description: "Every year, Black Friday and Cyber Monday reveal how people shop, browse, and discover products at global scale. For Vercel, the weekend is not a different operating mode. The platform behaves the sam..."
 ---
 
+render_with_liquid: false
 Dec 2, 2025
 
 2025年12月2日

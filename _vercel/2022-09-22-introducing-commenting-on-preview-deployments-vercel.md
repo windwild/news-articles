@@ -1,5 +1,6 @@
 ---
 title: "Introducing Commenting on Preview Deployments - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-commenting-on-preview-deployments"
 date: "2022-09-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Commenting in Vercel Preview Deployment"
 ---
 
+render_with_liquid: false
 Sep 22, 2022
 
 2022 年 9 月 22 日

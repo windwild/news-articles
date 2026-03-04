@@ -1,5 +1,6 @@
 ---
 title: "CSV Export in Web Analytics - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/csv-export-in-web-analytics"
 date: "2024-06-11"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 11, 2024
 
 2024年6月11日

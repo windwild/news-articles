@@ -1,5 +1,6 @@
 ---
 title: "Instantly redirect traffic using custom Vercel Firewall rules - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/instantly-redirect-traffic-using-custom-vercel-firewall-rules"
 date: "2024-07-24"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 24, 2024
 
 2024年7月24日

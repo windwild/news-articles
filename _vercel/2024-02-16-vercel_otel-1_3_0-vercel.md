@@ -1,5 +1,6 @@
 ---
 title: "@vercel/otel 1.3.0 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-otel-1-3-0"
 date: "2024-02-16"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 16, 2024
 
 2024 年 2 月 16 日

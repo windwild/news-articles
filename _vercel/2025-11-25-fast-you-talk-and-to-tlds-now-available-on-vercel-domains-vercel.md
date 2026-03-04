@@ -1,5 +1,6 @@
 ---
 title: ".fast, .you, .talk, and .to TLDs now available on Vercel Domains - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/fast-you-talk-and-to-tlds-now-available-on-vercel-domains"
 date: "2025-11-25"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Domains now supports the .fast, .you, .talk, and .to TLDs for purchase and transfer to Vercel projects."
 ---
 
+render_with_liquid: false
 Nov 25, 2025
 
 2025 年 11 月 25 日

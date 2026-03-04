@@ -1,5 +1,6 @@
 ---
 title: "How Vercel's adapting SEO for LLMs and AI search - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search"
 date: "2025-06-10"
@@ -9,6 +10,7 @@ translated: true
 description: "AI is changing how content gets discovered. Now, SEO ranking ≠ LLM visibility. No one has all the answers, but here's how we're adapting our approach to SEO for LLMs and AI search."
 ---
 
+render_with_liquid: false
 Jun 10, 2025
 
 2025年6月10日

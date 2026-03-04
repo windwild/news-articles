@@ -1,5 +1,6 @@
 ---
 title: "BotID uncovers hidden SEO poisoning - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/botid-uncovers-hidden-seo-poisoning"
 date: "2025-09-22"
@@ -9,6 +10,7 @@ translated: true
 description: "A financial institution's suspicious bot traffic turned out to be Google bots crawling SEO-poisoned URLs from years ago. Here's how BotID revealed the real problem."
 ---
 
+render_with_liquid: false
 Sep 22, 2025
 
 2025年9月22日

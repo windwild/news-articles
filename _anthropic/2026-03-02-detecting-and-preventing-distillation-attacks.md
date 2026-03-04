@@ -1,5 +1,6 @@
 ---
 title: "Detecting and preventing distillation attacks "
+render_with_liquid: false
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks"
 scraped_at: "2026-03-02T09:21:04.894203897+00:00"
@@ -9,6 +10,7 @@ description: "Anthropic is an AI safety and research company that's working to b
 tags: ["Announcements"]
 ---
 
+render_with_liquid: false
 Announcements
 
 公告

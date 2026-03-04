@@ -1,5 +1,6 @@
 ---
 title: "Claude is a space to think | Anthropic"
+render_with_liquid: false
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/claude-is-a-space-to-think"
 scraped_at: "2026-03-02T09:21:04.890205865+00:00"
@@ -9,6 +10,7 @@ description: "We’ve made a choice: Claude will remain ad-free. We explain why 
 tags: ["Announcements"]
 ---
 
+render_with_liquid: false
 Announcements
 
 公告

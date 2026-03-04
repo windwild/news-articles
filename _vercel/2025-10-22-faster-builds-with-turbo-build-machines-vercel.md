@@ -1,5 +1,6 @@
 ---
 title: "Faster builds with Turbo build machines - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/turbo-build-machines"
 date: "2025-10-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Turbo build machines are now available for all paid plans. With 30 CPUs and 60 GB memory they are our fastest yet, ideal for Turbopack builds and large monorepos."
 ---
 
+render_with_liquid: false
 Oct 22, 2025
 
 2025 年 10 月 22 日

@@ -1,5 +1,6 @@
 ---
 title: "February 2020 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/changelog-february-2020"
 date: "2020-02-01"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel's changelog for February 2020"
 ---
 
+render_with_liquid: false
 Feb 1, 2020
 
 2020 年 2 月 1 日

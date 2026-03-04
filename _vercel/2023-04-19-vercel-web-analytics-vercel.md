@@ -1,5 +1,6 @@
 ---
 title: "Vercel Web Analytics - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-web-analytics-is-now-generally-available"
 date: "2023-04-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Get detailed, first-party page views, traffic analytics"
 ---
 
+render_with_liquid: false
 Apr 19, 2023
 
 2023 年 4 月 19 日

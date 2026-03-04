@@ -1,5 +1,6 @@
 ---
 title: "Building secure AI agents - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-secure-ai-agents"
 date: "2025-06-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how to design secure AI agents that resist prompt injection attacks. Understand tool scoping, input validation, and output sanitization strategies to protect LLM-powered systems."
 ---
 
+render_with_liquid: false
 Jun 9, 2025
 
 2025年6月9日

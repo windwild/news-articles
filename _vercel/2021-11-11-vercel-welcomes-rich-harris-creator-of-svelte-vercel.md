@@ -1,5 +1,6 @@
 ---
 title: "Vercel welcomes Rich Harris, creator of Svelte   - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"
 date: "2021-11-11"
@@ -9,6 +10,7 @@ translated: true
 description: "We're excited to share Rich Harris, the creator of Svelte, has joined Vercel to make the Web. Faster."
 ---
 
+render_with_liquid: false
 Nov 11, 2021
 
 2021 年 11 月 11 日

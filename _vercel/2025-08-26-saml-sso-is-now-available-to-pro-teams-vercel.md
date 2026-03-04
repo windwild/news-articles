@@ -1,5 +1,6 @@
 ---
 title: "SAML SSO is now available to Pro teams - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/saml-sso-is-now-available-to-pro-teams"
 date: "2025-08-26"
@@ -9,6 +10,7 @@ translated: true
 description: "SAML-based Single Sign-On (SAML SSO) is now available as an add-on to all Pro teams and can be configured directly in the dashboard. This includes support for major identity providers like Okta, Azure..."
 ---
 
+render_with_liquid: false
 Aug 26, 2025
 
 2025年8月26日

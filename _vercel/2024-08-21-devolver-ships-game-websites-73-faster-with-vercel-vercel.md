@@ -1,5 +1,6 @@
 ---
 title: "Devolver ships game websites 73% faster with Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/devolver-ships-game-websites-73-faster-with-vercel"
 date: "2024-08-21"
@@ -9,6 +10,7 @@ translated: true
 description: "How Devolver ships game websites 73% faster with built-in CI/CD, zero-configuration integrations, Preview URLs on each pull request, and more."
 ---
 
+render_with_liquid: false
 Aug 21, 2024
 
 2024年8月21日

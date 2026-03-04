@@ -1,5 +1,6 @@
 ---
 title: "Vercel now supports customizing platform error pages - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-now-supports-customizing-platform-error-pages"
 date: "2026-01-23"
@@ -9,6 +10,7 @@ translated: true
 description: "For Enterprise customers, Vercel now allows you to customize platform error pages with your own branded pages. This gives a consistent experience for 5xx errors, as visitors see the same design irresp..."
 ---
 
+render_with_liquid: false
 Jan 23, 2026
 
 2026 年 1 月 23 日

@@ -1,5 +1,6 @@
 ---
 title: "Fullstack serverless with MongoDB Atlas integration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/mongodb-atlas-integration"
 date: "2022-06-07"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 7, 2022
 
 2022年6月7日

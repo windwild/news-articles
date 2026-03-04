@@ -1,5 +1,6 @@
 ---
 title: "How Dub grew to 3,000 active domains with Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-dub-grew-to-3000-active-domains-with-vercels-multi-tenant-saas-toolkit"
 date: "2024-05-03"
@@ -9,6 +10,7 @@ translated: true
 description: "The open-source link management platform Dub boasts over 3,000 active domains—and growing—with Vercel's multi-tenant SaaS toolkit. Learn how."
 ---
 
+render_with_liquid: false
 May 3, 2024
 
 2024 年 5 月 3 日

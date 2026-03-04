@@ -1,5 +1,6 @@
 ---
 title: "The Frontend Cloud: Resiliency for global web applications - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-resiliency-of-the-frontend-cloud"
 date: "2024-02-29"
@@ -9,6 +10,7 @@ translated: true
 description: "Optimize your web presence for maximum uptime, scalability, and security. Discover the power of frontend clouds for enterprise resilience."
 ---
 
+render_with_liquid: false
 Feb 29, 2024
 
 2024 年 2 月 29 日

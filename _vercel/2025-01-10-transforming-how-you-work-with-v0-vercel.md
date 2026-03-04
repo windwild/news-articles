@@ -1,5 +1,6 @@
 ---
 title: "Transforming how you work with v0 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/transforming-how-you-work-with-v0"
 date: "2025-01-10"
@@ -9,6 +10,7 @@ translated: true
 description: "v0 lets all creators—not just developers—bring their ideas to life. Explore v0 use cases and prompt inspiration for designers, marketers, project managers, customer support, data analysis, and mor..."
 ---
 
+render_with_liquid: false
 Jan 10, 2025
 
 2025 年 1 月 10 日

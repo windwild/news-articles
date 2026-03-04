@@ -1,5 +1,6 @@
 ---
 title: "How Vercel helped this popular health database increase free trials by 284% - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/examine"
 date: "2023-07-25"
@@ -9,6 +10,7 @@ translated: true
 description: "Examine"
 ---
 
+render_with_liquid: false
 Jul 25, 2023
 
 2023 年 7 月 25 日

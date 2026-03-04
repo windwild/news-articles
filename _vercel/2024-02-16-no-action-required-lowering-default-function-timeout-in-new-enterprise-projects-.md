@@ -1,5 +1,6 @@
 ---
 title: "No action required: Lowering default function timeout in new Enterprise projects - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/lowering-default-serverless-function-timeout-in-enterprise-projects"
 date: "2024-02-16"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 16, 2024
 
 2024 年 2 月 16 日

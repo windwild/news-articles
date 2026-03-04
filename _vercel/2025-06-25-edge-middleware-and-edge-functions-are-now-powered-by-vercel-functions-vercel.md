@@ -1,5 +1,6 @@
 ---
 title: "Edge Middleware and Edge Functions are now powered by Vercel Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/edge-middleware-and-edge-functions-are-now-powered-by-vercel-functions"
 date: "2025-06-25"
@@ -9,6 +10,7 @@ translated: true
 description: "The Edge runtime now runs on Vercel Functions, unifying pricing across all compute, and available before and after cache. Edge Middleware and Edge Functions are now deprecated."
 ---
 
+render_with_liquid: false
 Jun 25, 2025
 
 2025 年 6 月 25 日

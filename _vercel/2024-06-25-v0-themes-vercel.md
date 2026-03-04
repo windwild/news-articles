@@ -1,5 +1,6 @@
 ---
 title: "v0 Themes - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/v0-themes"
 date: "2024-06-25"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 25, 2024
 
 2024 年 6 月 25 日

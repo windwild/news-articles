@@ -1,5 +1,6 @@
 ---
 title: "Next.js 6.1 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next6-1"
 date: "2018-06-27"
@@ -9,6 +10,7 @@ translated: true
 description: "Next.js 6.1 features improved reliability and consistency in development."
 ---
 
+render_with_liquid: false
 Jun 27, 2018
 
 2018 年 6 月 27 日

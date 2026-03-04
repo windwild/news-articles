@@ -1,5 +1,6 @@
 ---
 title: "Anomaly alerts now in public beta - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/anomaly-alerts-now-in-public-beta"
 date: "2025-10-14"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now subscribe to receive alerts when anomalies spikes in usage or 5XX errors are detected in your Vercel application"
 ---
 
+render_with_liquid: false
 Oct 14, 2025
 
 2025 年 10 月 14 日

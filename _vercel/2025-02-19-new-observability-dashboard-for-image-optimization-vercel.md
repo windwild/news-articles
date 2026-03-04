@@ -1,5 +1,6 @@
 ---
 title: "New Observability dashboard for Image Optimization - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-observability-dashboard-for-image-optimization"
 date: "2025-02-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Observability now includes a dedicated dashboard for Image Optimization, providing deeper insights into image transformations and efficiency."
 ---
 
+render_with_liquid: false
 Feb 19, 2025
 
 2025 年 2 月 19 日

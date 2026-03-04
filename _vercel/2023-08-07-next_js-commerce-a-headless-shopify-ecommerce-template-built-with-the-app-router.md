@@ -1,5 +1,6 @@
 ---
 title: "Next.js Commerce: A headless Shopify ecommerce template built with the App Router - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-next-js-commerce-2-0"
 date: "2023-08-07"
@@ -9,6 +10,7 @@ translated: true
 description: "A high-performance ecommerce template, including support for BigCommerce, Medusa, Saleor, Shopify, and Swell."
 ---
 
+render_with_liquid: false
 Aug 7, 2023
 
 2023 年 8 月 7 日

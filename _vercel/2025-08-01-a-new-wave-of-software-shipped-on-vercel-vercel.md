@@ -1,5 +1,6 @@
 ---
 title: "A new wave of software, shipped on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/shipped-on-vercel"
 date: "2025-08-01"
@@ -9,6 +10,7 @@ translated: true
 description: "We're launching a new way to showcase standout products built and shipped on Vercel. Submit your project. "
 ---
 
+render_with_liquid: false
 Aug 1, 2025
 
 2025年8月1日

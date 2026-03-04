@@ -1,5 +1,6 @@
 ---
 title: "Zero-configuration support for Fastify - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/zero-configuration-support-for-fastify"
 date: "2025-10-31"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now detects and deploys Fastify, a fast and low overhead web framework, with zero configuration."
 ---
 
+render_with_liquid: false
 Oct 31, 2025
 
 2025 年 10 月 31 日

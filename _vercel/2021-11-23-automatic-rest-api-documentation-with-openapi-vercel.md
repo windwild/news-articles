@@ -1,5 +1,6 @@
 ---
 title: "Automatic REST API documentation with OpenAPI - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/automatic-rest-api-documentation-with-openapi"
 date: "2021-11-23"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 23, 2021
 
 2021 年 11 月 23 日

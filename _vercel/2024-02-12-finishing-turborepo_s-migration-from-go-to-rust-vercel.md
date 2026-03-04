@@ -1,5 +1,6 @@
 ---
 title: "Finishing Turborepo's migration from Go to Rust - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/finishing-turborepos-migration-from-go-to-rust"
 date: "2024-02-12"
@@ -9,6 +10,7 @@ translated: true
 description: "We've finished porting Turborepo, the high performance JavaScript and TypeScript build system, from Go to Rust."
 ---
 
+render_with_liquid: false
 Feb 12, 2024
 
 2024 年 2 月 12 日

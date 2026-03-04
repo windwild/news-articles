@@ -1,5 +1,6 @@
 ---
 title: "Faster and more reliable Managed Infrastructure - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-and-more-reliable-managed-infrastructure"
 date: "2023-11-29"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 2023年11月29日
 
 2023年11月29日

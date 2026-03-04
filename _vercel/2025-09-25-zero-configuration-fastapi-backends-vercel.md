@@ -1,5 +1,6 @@
 ---
 title: "Zero-configuration FastAPI backends - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/zero-config-fastapi-backends"
 date: "2025-09-25"
@@ -9,6 +10,7 @@ translated: true
 description: "FastAPI, a modern, high-performance, web framework for building APIs with Python based on standard Python type hints, is now supported with zero-configuration."
 ---
 
+render_with_liquid: false
 Sep 25, 2025
 
 2025 年 9 月 25 日

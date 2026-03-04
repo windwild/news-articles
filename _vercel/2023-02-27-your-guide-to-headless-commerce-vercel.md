@@ -1,5 +1,6 @@
 ---
 title: "Your guide to headless commerce - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/your-guide-to-headless-commerce"
 date: "2023-02-27"
@@ -9,6 +10,7 @@ translated: true
 description: "Curious about headless commerce? Learn all about going headless with a composable stack so you can boost developer velocity, conversions, and more."
 ---
 
+render_with_liquid: false
 Feb 27, 2023
 
 2023 年 2 月 27 日

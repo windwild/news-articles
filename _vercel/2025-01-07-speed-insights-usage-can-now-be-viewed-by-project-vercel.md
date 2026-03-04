@@ -1,5 +1,6 @@
 ---
 title: "Speed Insights usage can now be viewed by Project - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/speed-insights-usage-can-now-be-viewed-by-project"
 date: "2025-01-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Speed Insights usage can now be viewed by Project"
 ---
 
+render_with_liquid: false
 Jan 7, 2025
 
 2025 年 1 月 7 日

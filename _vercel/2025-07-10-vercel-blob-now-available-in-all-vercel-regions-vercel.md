@@ -1,5 +1,6 @@
 ---
 title: "Vercel Blob now available in all Vercel Regions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-blob-now-available-in-all-vercel-regions"
 date: "2025-07-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Blob stores are now available in 19 Vercel Regions. Select regions closer to your Functions and users to optimize upload speed and comply with data-residency requirements."
 ---
 
+render_with_liquid: false
 Jul 10, 2025
 
 2025年7月10日

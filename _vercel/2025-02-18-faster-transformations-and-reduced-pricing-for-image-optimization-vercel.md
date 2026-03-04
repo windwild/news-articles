@@ -1,5 +1,6 @@
 ---
 title: "Faster transformations and reduced pricing for Image Optimization - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-transformations-and-reduced-pricing-for-image-optimization"
 date: "2025-02-18"
@@ -9,6 +10,7 @@ translated: true
 description: "Image Optimization is 60% faster. We also now offer new, reduced pricing for Image Optimization based on transformations."
 ---
 
+render_with_liquid: false
 Feb 18, 2025
 
 2025年2月18日

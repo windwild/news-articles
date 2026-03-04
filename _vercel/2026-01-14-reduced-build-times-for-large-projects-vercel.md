@@ -1,5 +1,6 @@
 ---
 title: "Reduced build times for large projects - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/reduced-build-times-for-large-projects"
 date: "2026-01-14"
@@ -9,6 +10,7 @@ translated: true
 description: "We've shipped optimizations that reduce build overhead, particularly for projects with many input files, large node_modules, or extensive build outputs."
 ---
 
+render_with_liquid: false
 Jan 14, 2026
 
 2026 年 1 月 14 日

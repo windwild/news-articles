@@ -1,5 +1,6 @@
 ---
 title: "How Neo Financial cut time spent on infrastructure admin by 50% - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/neo-financial"
 date: "2023-06-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Neo Financial leverages Vercel's frontend cloud to enhance their web development process, boost performance, and meet industry security standards—all while saving on resources. "
 ---
 
+render_with_liquid: false
 Jun 22, 2023
 
 2023年6月22日

@@ -1,5 +1,6 @@
 ---
 title: "Use the Vercel Toolbar in Production with the Chrome Extension or the toolbar menu - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/use-the-vercel-toolbar-in-production"
 date: "2024-05-23"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 23, 2024
 
 2024年5月23日

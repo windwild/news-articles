@@ -1,5 +1,6 @@
 ---
 title: "Access tokens can now be scoped to teams - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/access-tokens-can-now-be-scoped-to-teams"
 date: "2022-03-15"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Mar 15, 2022
 
 2022 年 3 月 15 日

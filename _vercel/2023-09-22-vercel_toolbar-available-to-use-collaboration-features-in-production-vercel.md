@@ -1,5 +1,6 @@
 ---
 title: "@vercel/toolbar available to use collaboration features in production - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-toolbar-now-available-to-use-collaboration-features-in-production"
 date: "2023-09-22"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Sep 22, 2023
 
 2023 年 9 月 22 日

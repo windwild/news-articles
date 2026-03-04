@@ -1,5 +1,6 @@
 ---
 title: "Deployment Protection: Added security controls now available on all plans - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/protecting-deployments"
 date: "2022-12-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Deployment protection on all plans - Secure your deployment previews and create shareable links to share with collaborators"
 ---
 
+render_with_liquid: false
 Dec 19, 2022
 
 2022 年 12 月 19 日

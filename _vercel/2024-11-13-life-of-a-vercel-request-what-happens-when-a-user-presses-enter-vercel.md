@@ -1,5 +1,6 @@
 ---
 title: "Life of a Vercel request: What happens when a user presses enter - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/life-of-a-vercel-request-what-happens-when-a-user-presses-enter"
 date: "2024-11-13"
@@ -9,6 +10,7 @@ translated: true
 description: "Application delivery through the lens of a web request with Vercel’s framework-defined infrastructure."
 ---
 
+render_with_liquid: false
 Nov 13, 2024
 
 2024 年 11 月 13 日

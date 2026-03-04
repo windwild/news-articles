@@ -1,5 +1,6 @@
 ---
 title: "Images on the web - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/images-on-the-web"
 date: "2023-10-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn about the differences between the image formats JPEG, PNG, WebP, and AVIF with regards to compression techniques, resolution capabilities, pixel density, and effects on user experience for optim..."
 ---
 
+render_with_liquid: false
 Oct 10, 2023
 
 2023年10月10日

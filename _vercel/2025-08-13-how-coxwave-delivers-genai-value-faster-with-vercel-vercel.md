@@ -1,5 +1,6 @@
 ---
 title: "How Coxwave delivers GenAI value faster with Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-coxwave-delivers-genai-value-faster-with-vercel"
 date: "2025-08-13"
@@ -9,6 +10,7 @@ translated: true
 description: "Coxwave's journey to cutting deployment times by 85% and building AI-native products faster with Vercel"
 ---
 
+render_with_liquid: false
 Aug 13, 2025
 
 2025年8月13日

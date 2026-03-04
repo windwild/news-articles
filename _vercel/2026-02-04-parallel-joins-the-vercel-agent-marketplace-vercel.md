@@ -1,5 +1,6 @@
 ---
 title: "Parallel joins the Vercel Agent Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/parallel-joins-the-vercel-agent-marketplace"
 date: "2026-02-04"
@@ -9,6 +10,7 @@ translated: true
 description: "Parallel is now available on the Vercel Marketplace with a native integration for Vercel projects. Developers can add Parallel’s web tools and AI agents to their apps in minutes, including Search, E..."
 ---
 
+render_with_liquid: false
 Feb 4, 2026
 
 2026 年 2 月 4 日

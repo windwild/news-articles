@@ -1,5 +1,6 @@
 ---
 title: "Automatic SSL with Vercel and Let's Encrypt - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/automatic-ssl-with-vercel-lets-encrypt"
 date: "2019-04-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how Vercel uses Let's Encrypt to provision free SSL certificates for all users, automatically."
 ---
 
+render_with_liquid: false
 Apr 16, 2019
 
 2019 年 4 月 16 日

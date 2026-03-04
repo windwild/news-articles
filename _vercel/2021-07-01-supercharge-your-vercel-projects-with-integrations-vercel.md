@@ -1,5 +1,6 @@
 ---
 title: "Supercharge your Vercel Projects with Integrations - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/integrations-marketplace"
 date: "2021-07-01"
@@ -9,6 +10,7 @@ translated: true
 description: "Connect your Vercel project to databases, monitoring tools, commerce providers, developer tools, and more."
 ---
 
+render_with_liquid: false
 Jul 1, 2021
 
 2021 年 7 月 1 日

@@ -1,5 +1,6 @@
 ---
 title: "Content Link can now be used with Contentful  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/content-link-can-now-be-used-with-contentful"
 date: "2024-09-18"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 2024年9月18日
 
 2024年9月18日

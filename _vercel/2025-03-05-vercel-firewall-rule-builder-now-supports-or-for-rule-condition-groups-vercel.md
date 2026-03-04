@@ -1,5 +1,6 @@
 ---
 title: "Vercel Firewall rule builder now supports `OR` for rule condition groups - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-firewall-rule-builder-now-supports-or-for-rule-condition-groups"
 date: "2025-03-05"
@@ -9,6 +10,7 @@ translated: true
 description: "The Vercel Firewall now supports the OR operator to join logical condition groups to create more customized WAF rules"
 ---
 
+render_with_liquid: false
 Mar 5, 2025
 
 2025年3月5日

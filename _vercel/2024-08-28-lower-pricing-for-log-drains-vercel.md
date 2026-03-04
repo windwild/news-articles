@@ -1,5 +1,6 @@
 ---
 title: "Lower pricing for Log Drains - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/lower-pricing-for-log-drains"
 date: "2024-08-28"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 28, 2024
 
 2024 年 8 月 28 日

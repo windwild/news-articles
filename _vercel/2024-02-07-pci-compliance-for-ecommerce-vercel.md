@@ -1,5 +1,6 @@
 ---
 title: "PCI compliance for ecommerce - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/pci-compliance-for-ecommerce-teams"
 date: "2024-02-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Leverage iframes for payment processing to enable PCI compliance and maintain secure transactions on Vercel."
 ---
 
+render_with_liquid: false
 Feb 7, 2024
 
 2024 年 2 月 7 日

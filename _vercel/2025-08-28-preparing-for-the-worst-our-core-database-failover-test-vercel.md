@@ -1,5 +1,6 @@
 ---
 title: "Preparing for the worst: Our core database failover test - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/preparing-for-the-worst-our-core-database-failover-test"
 date: "2025-08-28"
@@ -9,6 +10,7 @@ translated: true
 description: "On July 24, 2025, we successfully performed a full production failover of our core control-plane database from Azure West US to East US 2 with zero customer impact."
 ---
 
+render_with_liquid: false
 Aug 28, 2025
 
 2025年8月28日

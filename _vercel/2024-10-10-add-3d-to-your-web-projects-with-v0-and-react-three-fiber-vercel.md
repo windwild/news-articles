@@ -1,5 +1,6 @@
 ---
 title: "Add 3D to your web projects with v0 and React Three Fiber - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/add-3d-to-your-web-projects-with-v0-and-react-three-fiber"
 date: "2024-10-10"
@@ -9,6 +10,7 @@ translated: true
 description: "How to build 3D web projects with React Three Fiber in v0"
 ---
 
+render_with_liquid: false
 Oct 10, 2024
 
 2024年10月10日

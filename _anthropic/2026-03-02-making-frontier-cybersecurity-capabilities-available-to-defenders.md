@@ -1,5 +1,6 @@
 ---
 title: "Making frontier cybersecurity capabilities available to defenders"
+render_with_liquid: false
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/claude-code-security"
 scraped_at: "2026-03-02T09:21:04.903760846+00:00"
@@ -9,6 +10,7 @@ description: "Claude Code Security is one step towards our goal of more secure c
 tags: ["Announcements"]
 ---
 
+render_with_liquid: false
 Announcements
 
 公告

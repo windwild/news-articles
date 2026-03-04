@@ -1,5 +1,6 @@
 ---
 title: "Less code, better UX: Fetching data faster with the Next.js 13 App Router - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-app-router-data-fetching"
 date: "2023-02-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Fetching data in Next.js 13 has been vastly improved with Server Components, smarter caching, and Loading UI."
 ---
 
+render_with_liquid: false
 Feb 10, 2023
 
 2023 年 2 月 10 日

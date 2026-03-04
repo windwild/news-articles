@@ -1,5 +1,6 @@
 ---
 title: "Disable Git Integration comments from the dashboard - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/disable-git-integration-comments"
 date: "2023-07-26"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 26, 2023
 
 2023 年 7 月 26 日

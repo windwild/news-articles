@@ -1,5 +1,6 @@
 ---
 title: "Package installation for v0 builds is now ~70% faster. - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/package-installation-for-v0-builds-is-now-70-faster"
 date: "2025-09-08"
@@ -9,6 +10,7 @@ translated: true
 description: "NPM packages installation got faster for v0 builds. It went from 5 seconds to 1.5 seconds on average, which is a 70% reduction."
 ---
 
+render_with_liquid: false
 Sep 8, 2025
 
 2025 年 9 月 8 日

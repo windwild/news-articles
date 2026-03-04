@@ -1,5 +1,6 @@
 ---
 title: "ENEOS Materials brings ChatGPT Enterprise to manufacturing | OpenAI"
+render_with_liquid: false
 source: "OpenAI Blog"
 url: "https://openai.com/index/eneos-materials"
 date: "2025-09-24"
@@ -10,6 +11,7 @@ description: "By deploying ChatGPT Enterprise, ENEOS Materials transformed opera
 tags: ["ChatGPT"]
 ---
 
+render_with_liquid: false
 2025年9月24日
 
 2025年9月24日

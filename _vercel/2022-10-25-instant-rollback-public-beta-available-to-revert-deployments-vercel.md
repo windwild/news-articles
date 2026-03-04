@@ -1,5 +1,6 @@
 ---
 title: "Instant Rollback public beta available to revert deployments - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/instant-rollback-public-beta-available-to-revert-deployments"
 date: "2022-10-25"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 25, 2022
 
 2022年10月25日

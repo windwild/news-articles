@@ -1,5 +1,6 @@
 ---
 title: "Improved hard caps for Spend Management - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-hard-caps-for-spend-management"
 date: "2024-03-08"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Mar 8, 2024
 
 2024 年 3 月 8 日

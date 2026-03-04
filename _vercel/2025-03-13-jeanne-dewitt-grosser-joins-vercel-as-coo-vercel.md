@@ -1,5 +1,6 @@
 ---
 title: "Jeanne DeWitt Grosser joins Vercel as COO - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/jeanne-dewitt-grosser-joins-vercel-as-coo"
 date: "2025-03-13"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel welcomes Jeanne DeWitt Grosser as Chief Operating Officer. Jeanne helped take Stripe from $100M to billions, pioneered usage-based go-to-market strategies, and scaled influential developer plat..."
 ---
 
+render_with_liquid: false
 Mar 13, 2025
 
 2025年3月13日

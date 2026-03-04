@@ -1,5 +1,6 @@
 ---
 title: "Switch between branches directly from deployments - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/switch-between-branches-directly-from-deployments"
 date: "2024-01-31"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jan 31, 2024
 
 2024 年 1 月 31 日

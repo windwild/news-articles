@@ -1,5 +1,6 @@
 ---
 title: "Improved Node.js compatibility for Edge Middleware and Edge Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-node-js-compatibility-for-edge-middleware-and-edge-functions"
 date: "2023-04-03"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 3, 2023
 
 2023年4月3日

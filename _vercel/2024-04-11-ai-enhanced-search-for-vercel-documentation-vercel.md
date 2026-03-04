@@ -1,5 +1,6 @@
 ---
 title: "AI-enhanced search for Vercel documentation - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-enhanced-search-for-vercel-documentation"
 date: "2024-04-11"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 11, 2024
 
 2024年4月11日

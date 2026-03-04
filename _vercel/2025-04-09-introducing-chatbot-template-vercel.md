@@ -1,5 +1,6 @@
 ---
 title: "Introducing Chatbot Template - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-chatbot"
 date: "2025-04-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Chatbot is a free, open-source template, powered by Next.js and the AI SDK, that helps you build chatbot applications."
 ---
 
+render_with_liquid: false
 Apr 9, 2025
 
 2025年4月9日

@@ -1,5 +1,6 @@
 ---
 title: "Transform rules are now available in vercel.json - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/transform-rules-are-now-available-in-vercel-json"
 date: "2025-07-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Transform rules allow you to modify request headers, response headers, and request query parameters through the vercel.json."
 ---
 
+render_with_liquid: false
 Jul 22, 2025
 
 2025 年 7 月 22 日

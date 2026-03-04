@@ -1,5 +1,6 @@
 ---
 title: "Vercel Blob is now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-blob-is-now-generally-available"
 date: "2025-05-21"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Blob is now generally available, bringing high-performance storage integrated with the Vercel application delivery platform."
 ---
 
+render_with_liquid: false
 May 21, 2025
 
 2025年5月21日

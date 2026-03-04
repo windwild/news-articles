@@ -1,5 +1,6 @@
 ---
 title: "Deploy steps are now up to 21% faster - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deploy-steps-are-now-up-to-21-faster"
 date: "2025-12-02"
@@ -9,6 +10,7 @@ translated: true
 description: "Deploy steps for projects with Functions are now up to 21% faster—nearly 2 seconds faster on average. No changes required."
 ---
 
+render_with_liquid: false
 Dec 2, 2025
 
 2025 年 12 月 2 日

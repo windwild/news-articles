@@ -1,5 +1,6 @@
 ---
 title: "Updated permissions for Developer role - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/updated-permissions-for-developer-role"
 date: "2022-12-05"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 5, 2022
 
 2022 年 12 月 5 日

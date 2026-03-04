@@ -1,5 +1,6 @@
 ---
 title: "Prediction and control with temporal segment models | OpenAI"
+render_with_liquid: false
 source: "OpenAI Blog"
 url: "https://openai.com/index/prediction-and-control-with-temporal-segment-models"
 date: "2017-03-12"
@@ -9,6 +10,7 @@ translated: true
 tags: ["Research"]
 ---
 
+render_with_liquid: false
 March 12, 2017
 
 2017年3月12日

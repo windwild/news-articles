@@ -1,5 +1,6 @@
 ---
 title: "Improved environment variables UI - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-environment-variables-ui"
 date: "2026-01-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Redesigned Environment Variables UI with less scrolling, larger hit targets, and progressive disclosure for easier management of shared and project variables."
 ---
 
+render_with_liquid: false
 Jan 16, 2026
 
 2026 年 1 月 16 日

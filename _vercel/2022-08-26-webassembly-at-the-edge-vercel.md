@@ -1,5 +1,6 @@
 ---
 title: "WebAssembly at the Edge - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge"
 date: "2022-08-26"
@@ -9,6 +10,7 @@ translated: true
 description: "Leverage Vercel Edge Functions with any Wasm-compatible language"
 ---
 
+render_with_liquid: false
 Aug 26, 2022
 
 2022年8月26日

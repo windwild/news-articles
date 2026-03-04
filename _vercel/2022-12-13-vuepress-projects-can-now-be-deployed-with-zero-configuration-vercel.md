@@ -1,5 +1,6 @@
 ---
 title: "VuePress projects can now be deployed with zero configuration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vuepress-projects-can-now-be-deployed-with-zero-configuration"
 date: "2022-12-13"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 13, 2022
 
 2022年12月13日

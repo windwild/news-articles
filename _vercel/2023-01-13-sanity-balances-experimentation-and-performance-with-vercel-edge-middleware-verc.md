@@ -1,5 +1,6 @@
 ---
 title: "Sanity balances experimentation and performance with Vercel Edge Middleware  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/sanity-edge-middleware"
 date: "2023-01-13"
@@ -9,6 +10,7 @@ translated: true
 description: "Setting the standard for A/B testing and performance with Vercel Edge Middleware."
 ---
 
+render_with_liquid: false
 Jan 13, 2023
 
 2023年1月13日

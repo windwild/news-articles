@@ -1,5 +1,6 @@
 ---
 title: "Create and view support cases on the Vercel dashboard - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-center"
 date: "2023-01-27"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jan 27, 2023
 
 2023 年 1 月 27 日

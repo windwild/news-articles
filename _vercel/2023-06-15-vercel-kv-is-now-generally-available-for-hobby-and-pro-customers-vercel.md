@@ -1,5 +1,6 @@
 ---
 title: "Vercel KV is now generally available for Hobby and Pro customers - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-kv-is-now-generally-available"
 date: "2023-06-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Announcing Vercel KV general availability for hobby and pro Vercel customers. Connect your Vercel projects to native storage solutions. "
 ---
 
+render_with_liquid: false
 Jun 15, 2023
 
 2023年6月15日

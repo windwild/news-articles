@@ -1,5 +1,6 @@
 ---
 title: "The assistant axis: situating and stabilizing the character of large language models"
+render_with_liquid: false
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/assistant-axis"
 scraped_at: "2026-03-02T09:21:19.635064230+00:00"
@@ -9,6 +10,7 @@ description: "Anthropic is an AI safety and research company that's working to b
 tags: ["Interpretability"]
 ---
 
+render_with_liquid: false
 Interpretability
 
 可解释性

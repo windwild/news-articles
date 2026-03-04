@@ -1,5 +1,6 @@
 ---
 title: "Node.js runtime now defaults to version 24 for Vercel Sandbox - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-runtime-now-defaults-to-version-24-for-vercel-sandbox"
 date: "2026-01-14"
@@ -9,6 +10,7 @@ translated: true
 description: "Node.js runtime in Vercel Sandbox now defaults to Node.js 24 for newer features and performance improvements."
 ---
 
+render_with_liquid: false
 Jan 14, 2026
 
 2026 年 1 月 14 日

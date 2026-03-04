@@ -1,5 +1,6 @@
 ---
 title: "Introducing Conformance and Code Owners: Move fast, don't break things - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-conformance"
 date: "2023-12-05"
@@ -9,6 +10,7 @@ translated: true
 description: "Conformance and Code Owners are now available"
 ---
 
+render_with_liquid: false
 Dec 5, 2023
 
 2023 年 12 月 5 日

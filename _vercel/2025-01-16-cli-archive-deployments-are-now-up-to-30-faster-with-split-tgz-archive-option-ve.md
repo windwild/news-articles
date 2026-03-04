@@ -1,5 +1,6 @@
 ---
 title: "CLI archive deployments are now up to 30% faster with split-tgz archive option - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/cli-archive-deployments-are-now-up-to-30-faster-with-split-tgz-archive"
 date: "2025-01-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Archive CLI uploads now support larger projects with faster upload speeds. Instead of using the old tgz archive option, use the beta split-tgz option."
 ---
 
+render_with_liquid: false
 Jan 16, 2025
 
 2025 年 1 月 16 日

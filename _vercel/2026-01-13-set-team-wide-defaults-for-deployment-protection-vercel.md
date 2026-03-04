@@ -1,5 +1,6 @@
 ---
 title: "Set team-wide defaults for Deployment Protection - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/set-team-wide-defaults-for-deployment-protection"
 date: "2026-01-13"
@@ -9,6 +10,7 @@ translated: true
 description: "Set default Deployment Protection levels for your Vercel team. Configure Standard Protection, All Deployments, or no protection for all new projects."
 ---
 
+render_with_liquid: false
 Jan 13, 2026
 
 2026年1月13日

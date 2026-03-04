@@ -1,5 +1,6 @@
 ---
 title: "Node.js v20 LTS is now available in beta - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/nodejs-20"
 date: "2023-11-16"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 16, 2023
 
 2023 年 11 月 16 日

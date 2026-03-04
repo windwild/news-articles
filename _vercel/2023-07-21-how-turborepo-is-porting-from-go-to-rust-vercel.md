@@ -1,5 +1,6 @@
 ---
 title: "How Turborepo is porting from Go to Rust - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust"
 date: "2023-07-21"
@@ -9,6 +10,7 @@ translated: true
 description: "Our strategy for making updates and maintaining stability while we migrate languages."
 ---
 
+render_with_liquid: false
 Jul 21, 2023
 
 2023 年 7 月 21 日

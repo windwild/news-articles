@@ -1,5 +1,6 @@
 ---
 title: "Vercel Blob is now in public beta for Hobby and Pro customers - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-blob-is-now-in-public-beta-for-hobby-and-pro-customers"
 date: "2023-09-18"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Sep 18, 2023
 
 2023 年 9 月 18 日

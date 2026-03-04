@@ -1,5 +1,6 @@
 ---
 title: "You can just ship agents - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/you-can-just-ship-agents"
 date: "2025-10-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel AI Cloud combines unified model routing and failover, elastic cost-efficient compute that only bills for active CPU time, isolated execution for untrusted code, and workflow durability that sur..."
 ---
 
+render_with_liquid: false
 Oct 23, 2025
 
 2025年10月23日

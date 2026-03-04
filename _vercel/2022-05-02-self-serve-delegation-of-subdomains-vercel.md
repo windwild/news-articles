@@ -1,5 +1,6 @@
 ---
 title: "Self-serve delegation of subdomains - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/self-serve-delegation-of-subdomains"
 date: "2022-05-02"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 2, 2022
 
 2022 年 5 月 2 日

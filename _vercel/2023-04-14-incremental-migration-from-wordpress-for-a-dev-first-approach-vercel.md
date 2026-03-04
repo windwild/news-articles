@@ -1,5 +1,6 @@
 ---
 title: "Incremental migration from WordPress for a dev-first approach - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/incremental-migration-from-wordpress-for-a-dev-first-approach"
 date: "2023-04-14"
@@ -9,6 +10,7 @@ translated: true
 description: "Gearbox"
 ---
 
+render_with_liquid: false
 Apr 14, 2023
 
 2023年4月14日

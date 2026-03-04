@@ -1,5 +1,6 @@
 ---
 title: "Live model performance metrics accessible via AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/live-model-performance-metrics-accessible-via-ai-gateway"
 date: "2026-01-26"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now view live model performance metrics for latency and throughput on Vercel AI Gateway on the website and via REST API."
 ---
 
+render_with_liquid: false
 Jan 26, 2026
 
 2026 年 1 月 26 日

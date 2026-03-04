@@ -1,5 +1,6 @@
 ---
 title: "Auto Job Cancellation for Vercel for GitHub - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/auto-job-cancellation-for-vercel-github"
 date: "2018-11-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Deploying the latest push with Vercel for GitHub for the latest changes in an instant."
 ---
 
+render_with_liquid: false
 Nov 15, 2018
 
 2018 年 11 月 15 日

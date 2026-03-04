@@ -1,5 +1,6 @@
 ---
 title: "Version 7 of npm is now supported - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/version-7-of-npm-is-now-supported"
 date: "2021-08-06"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 6, 2021
 
 2021年8月6日

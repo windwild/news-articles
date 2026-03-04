@@ -1,5 +1,6 @@
 ---
 title: "What does Vercel do?  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/what-is-vercel"
 date: "2023-05-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Technically newsletter founder Justin Gage explains how Vercel makes building web applications as easy as possible, powered by the frontend cloud."
 ---
 
+render_with_liquid: false
 May 10, 2023
 
 2023年5月10日

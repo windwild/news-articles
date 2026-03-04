@@ -1,5 +1,6 @@
 ---
 title: "Python support added to in-function concurrency beta - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/python-support-added-to-in-function-concurrency-beta"
 date: "2025-01-14"
@@ -9,6 +10,7 @@ translated: true
 description: "Python functions can now leverage In-function concurrency, which optimizes function to handle multiple invocations simultaneously and improves resource efficiency."
 ---
 
+render_with_liquid: false
 Jan 14, 2025
 
 2025 年 1 月 14 日

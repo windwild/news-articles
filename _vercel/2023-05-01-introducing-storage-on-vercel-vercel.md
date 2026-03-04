@@ -1,5 +1,6 @@
 ---
 title: "Introducing storage on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-storage"
 date: "2023-05-01"
@@ -9,6 +10,7 @@ translated: true
 description: "New to the Vercel dashboard: Vercel KV, Vercel Postgres, and Vercel Blob. Announcing serverless storage solutions available on Vercel."
 ---
 
+render_with_liquid: false
 May 1, 2023
 
 2023 年 5 月 1 日

@@ -1,5 +1,6 @@
 ---
 title: "Faster build times with optimized uploads - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-build-times-with-optimized-uploads"
 date: "2024-04-30"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 30, 2024
 
 2024 年 4 月 30 日

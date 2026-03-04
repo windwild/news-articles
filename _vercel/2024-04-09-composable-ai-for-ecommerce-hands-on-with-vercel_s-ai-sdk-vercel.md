@@ -1,5 +1,6 @@
 ---
 title: "Composable AI for ecommerce: Hands-on with Vercel’s AI SDK - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/composable-ai-for-ecommerce-hands-on-with-vercels-ai-sdk"
 date: "2024-04-09"
@@ -9,6 +10,7 @@ translated: true
 description: "With v0 and the Vercel AI SDK, you can go from AI pipe dream to working prototype in just a few hours. See how AI can transform your ecommerce storefront."
 ---
 
+render_with_liquid: false
 Apr 9, 2024
 
 2024 年 4 月 9 日

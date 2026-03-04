@@ -1,5 +1,6 @@
 ---
 title: "Custom Environments are now available on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/custom-environments-are-now-available-on-vercel"
 date: "2024-12-11"
@@ -9,6 +10,7 @@ translated: true
 description: "Custom Environments are now available on Vercel. You can now define additional pre-production environments, like staging or QA, directly in the Vercel dashboard—without external workarounds or multi..."
 ---
 
+render_with_liquid: false
 Dec 11, 2024
 
 2024年12月11日

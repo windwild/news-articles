@@ -1,5 +1,6 @@
 ---
 title: "ChatGPT can now integrate with Vercel MCP - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/chatgpt-is-now-supported-on-vercel-mcp"
 date: "2025-09-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Use Vercel MCP with ChatGPT to explore projects, view logs, share access to protected deployments, and more."
 ---
 
+render_with_liquid: false
 Sep 10, 2025
 
 2025年9月10日

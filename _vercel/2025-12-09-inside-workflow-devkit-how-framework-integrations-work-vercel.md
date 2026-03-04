@@ -1,5 +1,6 @@
 ---
 title: "Inside Workflow DevKit: How framework integrations work - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/inside-workflow-devkit-how-framework-integrations-work"
 date: "2025-12-09"
@@ -9,6 +10,7 @@ translated: true
 description: "A deep dive into how Workflow DevKit integrates with modern frameworks, from Next.js and SvelteKit to Express and Hono, using a unified pattern for creating framework integrations."
 ---
 
+render_with_liquid: false
 Dec 9, 2025
 
 2025 年 12 月 9 日

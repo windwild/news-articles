@@ -1,5 +1,6 @@
 ---
 title: "The AI Cloud: A unified platform for AI workloads - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-ai-cloud-a-unified-platform-for-ai-workloads"
 date: "2025-07-10"
@@ -9,6 +10,7 @@ translated: true
 description: "We made it simple to build, preview, and ship any frontend, from marketing pages to dynamic apps, without managing infrastructure. Now we’re introducing the next layer: the Vercel AI Cloud."
 ---
 
+render_with_liquid: false
 Jul 10, 2025
 
 2025 年 7 月 10 日

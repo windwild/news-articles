@@ -1,5 +1,6 @@
 ---
 title: "Introducing the vercel api CLI command - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-the-vercel-api-cli-command"
 date: "2026-01-27"
@@ -9,6 +10,7 @@ translated: true
 description: "The vercel api command makes an authenticated HTTP request to the Vercel API and prints the response."
 ---
 
+render_with_liquid: false
 Jan 27, 2026
 
 2026 年 1 月 27 日

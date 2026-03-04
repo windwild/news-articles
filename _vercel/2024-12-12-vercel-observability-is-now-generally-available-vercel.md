@@ -1,5 +1,6 @@
 ---
 title: "Vercel Observability is now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-observability-is-now-generally-available"
 date: "2024-12-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Observability is now available to all Vercel customers, delivering insights to optimize infrastructure and application performance."
 ---
 
+render_with_liquid: false
 Dec 12, 2024
 
 2024 年 12 月 12 日

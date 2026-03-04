@@ -1,5 +1,6 @@
 ---
 title: "Manually purge the CDN cache - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/manually-purge-the-cdn-cache"
 date: "2025-06-24"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel's CDN Cache can now be purged with the click of a button in the dashboard or by running a CLI command, vercel cache purge --type=cdn, using version 44.2.0 or newer."
 ---
 
+render_with_liquid: false
 Jun 24, 2025
 
 2025年6月24日

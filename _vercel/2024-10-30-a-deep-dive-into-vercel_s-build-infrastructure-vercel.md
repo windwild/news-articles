@@ -1,5 +1,6 @@
 ---
 title: "A deep dive into Vercel’s build infrastructure - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/a-deep-dive-into-hive-vercels-builds-infrastructure"
 date: "2024-10-30"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel’s low-level untrusted and ephemeral compute platform is designed to give us the control needed to securely and efficiently manage and run builds."
 ---
 
+render_with_liquid: false
 Oct 30, 2024
 
 2024 年 10 月 30 日

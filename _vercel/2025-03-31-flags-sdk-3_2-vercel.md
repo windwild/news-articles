@@ -1,5 +1,6 @@
 ---
 title: "Flags SDK 3.2 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/flags-sdk-3-2"
 date: "2025-03-31"
@@ -9,6 +10,7 @@ translated: true
 description: "Flags SDK 3.2 now supports precomputing pattern in SvelteKit, making it possible to use feature flags on static pages without causing layout shift or jank."
 ---
 
+render_with_liquid: false
 Mar 31, 2025
 
 2025年3月31日

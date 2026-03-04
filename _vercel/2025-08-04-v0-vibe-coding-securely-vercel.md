@@ -1,5 +1,6 @@
 ---
 title: "v0: vibe coding, securely - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/v0-vibe-coding-securely"
 date: "2025-08-04"
@@ -9,6 +10,7 @@ translated: true
 description: "Vibe coding makes it possible for anyone to ship a viral app. But every line of AI-generated code is a potential vulnerability. Security cannot be an afterthought, it must be the foundation. Turn idea..."
 ---
 
+render_with_liquid: false
 Aug 4, 2025
 
 2025年8月4日

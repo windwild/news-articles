@@ -1,5 +1,6 @@
 ---
 title: "Vercel's Black Friday-Cyber Monday 2024 recap - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/black-friday-cyber-monday-2024-recap"
 date: "2024-12-03"
@@ -9,6 +10,7 @@ translated: true
 description: "With 3B+ firewall blocks and 99.999+% uptime, top ecommerce brands like Under Armour, Fanatics, and ASICS trust Vercel’s Managed Infrastructure to handle the demand and ship with confidence."
 ---
 
+render_with_liquid: false
 Dec 3, 2024
 
 2024年12月3日

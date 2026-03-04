@@ -1,5 +1,6 @@
 ---
 title: "Vercel Functions are now faster—and powered by Rust - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-functions-are-now-faster-and-powered-by-rust"
 date: "2024-05-03"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn about how we've improved startup performance with our Rust-powered functions."
 ---
 
+render_with_liquid: false
 May 3, 2024
 
 2024 年 5 月 3 日

@@ -1,5 +1,6 @@
 ---
 title: "Filesystem snapshots supported on Vercel Sandboxes - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filesystem-snapshots-supported-on-vercel-sandboxes"
 date: "2026-01-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel sandboxes now let you snapshot an entire filesystem, and you can restore from those snapshots for future work."
 ---
 
+render_with_liquid: false
 Jan 22, 2026
 
 2026 年 1 月 22 日

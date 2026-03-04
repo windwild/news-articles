@@ -1,5 +1,6 @@
 ---
 title: "Node.js 12 is being deprecated - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-12-is-being-deprecated"
 date: "2022-05-20"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 20, 2022
 
 2022 年 5 月 20 日

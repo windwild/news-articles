@@ -1,5 +1,6 @@
 ---
 title: "Making agent-friendly pages with content negotiation - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/making-agent-friendly-pages-with-content-negotiation"
 date: "2026-02-03"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how Vercel uses HTTP content negotiation to serve markdown to agents and HTML to humans from the same URL, reducing response sizes by 90% while keeping both versions synchronized."
 ---
 
+render_with_liquid: false
 Feb 3, 2026
 
 2026 年 2 月 3 日

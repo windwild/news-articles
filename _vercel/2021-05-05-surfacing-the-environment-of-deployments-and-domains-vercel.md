@@ -1,5 +1,6 @@
 ---
 title: "Surfacing the Environment of Deployments and Domains - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/surfacing-the-environment-of-deployments-and-domains"
 date: "2021-05-05"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 5, 2021
 
 2021 年 5 月 5 日

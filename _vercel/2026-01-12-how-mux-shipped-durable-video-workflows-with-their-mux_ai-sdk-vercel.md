@@ -1,5 +1,6 @@
 ---
 title: "How Mux shipped durable video workflows with their @mux/ai SDK - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-mux-shipped-durable-video-workflows-with-their-mux-ai-sdk"
 date: "2026-01-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how Mux built durable AI video workflows into their @mux/ai SDK using Workflow DevKit, with automatic retries, state persistence, and zero infrastructure setup."
 ---
 
+render_with_liquid: false
 Jan 12, 2026
 
 2026年1月12日

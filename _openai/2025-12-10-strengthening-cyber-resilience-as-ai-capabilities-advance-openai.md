@@ -1,5 +1,6 @@
 ---
 title: "Strengthening cyber resilience as AI capabilities advance | OpenAI"
+render_with_liquid: false
 source: "OpenAI Blog"
 url: "https://openai.com/index/strengthening-cyber-resilience"
 date: "2025-12-10"
@@ -10,6 +11,7 @@ description: "OpenAI is investing in stronger safeguards and defensive capabilit
 tags: ["Security"]
 ---
 
+render_with_liquid: false
 December 10, 2025
 
 2025年12月10日

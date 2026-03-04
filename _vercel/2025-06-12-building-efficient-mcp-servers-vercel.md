@@ -1,5 +1,6 @@
 ---
 title: "Building efficient MCP servers - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-efficient-mcp-servers"
 date: "2025-06-12"
@@ -9,6 +10,7 @@ translated: true
 description: "MCP is becoming the standard for building AI model integrations. See how you can use Vercel's open-source MCP adapter to quickly build your own MCP server, like the teams at Zapier, Composio, and Sola..."
 ---
 
+render_with_liquid: false
 Jun 12, 2025
 
 2025年6月12日

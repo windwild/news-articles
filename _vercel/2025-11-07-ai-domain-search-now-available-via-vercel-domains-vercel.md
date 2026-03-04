@@ -1,5 +1,6 @@
 ---
 title: "AI domain search now available via Vercel Domains - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-domain-search-now-available-via-vercel-domains"
 date: "2025-11-07"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now search for domains on Vercel using AI. Results are fast and creative, and you have full control via the search bar."
 ---
 
+render_with_liquid: false
 Nov 7, 2025
 
 2025 年 11 月 7 日

@@ -1,5 +1,6 @@
 ---
 title: "Safely inject credentials in HTTP headers with Vercel Sandbox - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/safely-inject-credentials-in-http-headers-with-vercel-sandbox"
 date: "2026-02-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Sandbox network policies now support HTTP header injection to prevent secrets exfiltration by untrusted code"
 ---
 
+render_with_liquid: false
 Feb 23, 2026
 
 2026 年 2 月 23 日

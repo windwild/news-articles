@@ -1,5 +1,6 @@
 ---
 title: "Consolidated Build and Deployment settings - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/consolidated-build-and-deployment-settings"
 date: "2025-02-21"
@@ -9,6 +10,7 @@ translated: true
 description: "When you need to customize your project's Build and Deployment settings you can now do this from a single location in the Project Settings."
 ---
 
+render_with_liquid: false
 Feb 21, 2025
 
 2025 年 2 月 21 日

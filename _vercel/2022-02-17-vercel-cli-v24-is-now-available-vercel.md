@@ -1,5 +1,6 @@
 ---
 title: "Vercel CLI v24 is now available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-cli-v24"
 date: "2022-02-17"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 17, 2022
 
 2022 年 2 月 17 日

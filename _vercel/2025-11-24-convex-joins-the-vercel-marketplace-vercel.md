@@ -1,5 +1,6 @@
 ---
 title: "Convex joins the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/convex-joins-the-vercel-marketplace"
 date: "2025-11-24"
@@ -9,6 +10,7 @@ translated: true
 description: "Install Convex from the Vercel Marketplace and get a streamlined path to building full-stack apps with real-time data, strong consistency, and a great developer experience."
 ---
 
+render_with_liquid: false
 Nov 24, 2025
 
 2025 年 11 月 24 日

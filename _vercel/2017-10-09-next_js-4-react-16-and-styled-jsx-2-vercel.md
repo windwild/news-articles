@@ -1,5 +1,6 @@
 ---
 title: "Next.js 4: React 16 and styled-jsx 2 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next4"
 date: "2017-10-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Next.js 4: React 16 and styled-jsx 2"
 ---
 
+render_with_liquid: false
 Oct 9, 2017
 
 2017 年 10 月 9 日

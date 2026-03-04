@@ -1,5 +1,6 @@
 ---
 title: "Managing major traffic spikes during ticket drops with Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/managing-major-traffic-spikes-during-ticket-drops-with-vercel"
 date: "2023-03-31"
@@ -9,6 +10,7 @@ translated: true
 description: "Shotgun"
 ---
 
+render_with_liquid: false
 Mar 31, 2023
 
 2023年3月31日

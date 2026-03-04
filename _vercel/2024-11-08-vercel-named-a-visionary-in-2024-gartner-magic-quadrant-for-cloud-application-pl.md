@@ -1,5 +1,6 @@
 ---
 title: "Vercel named a Visionary in 2024 Gartner® Magic Quadrant™ for Cloud Application Platforms - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-named-a-visionary-in-2024-gartner-magic-quadrant-for-cloud"
 date: "2024-11-08"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel is proud to be recognized as a Visionary; we view this Gartner® Magic Quadrant™ as a validation of the Frontend Cloud ecosystem."
 ---
 
+render_with_liquid: false
 Nov 8, 2024
 
 2024 年 11 月 8 日

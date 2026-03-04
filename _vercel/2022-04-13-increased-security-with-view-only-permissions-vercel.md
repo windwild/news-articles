@@ -1,5 +1,6 @@
 ---
 title: "Increased security with view-only permissions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/increased-security-with-view-only-permissions"
 date: "2022-04-13"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 13, 2022
 
 2022年4月13日

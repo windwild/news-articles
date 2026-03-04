@@ -1,5 +1,6 @@
 ---
 title: "Detailed usage metrics are now available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/detailed-usage-metrics-are-now-available"
 date: "2021-02-24"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 24, 2021
 
 2021 年 2 月 24 日

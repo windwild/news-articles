@@ -1,5 +1,6 @@
 ---
 title: "Integrated billing for Supabase, Redis, and EdgeDB - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/integrated-billing-for-supabase-redis-and-edgedb"
 date: "2024-08-28"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now has native integrations with Supabase, Redis, and EdgeDB. These include integrated billing, direct access to provider consoles, and more."
 ---
 
+render_with_liquid: false
 Aug 28, 2024
 
 2024 年 8 月 28 日

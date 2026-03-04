@@ -1,5 +1,6 @@
 ---
 title: "Resources tab allows instant searching and filtering of functions, middleware, and static assets - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/resources-tab-allows-instant-searching-and-filtering-of-functions-middleware"
 date: "2025-05-13"
@@ -9,6 +10,7 @@ translated: true
 description: "The Resources tab is replacing the Functions tab for deployments in the Vercel Dashboard. It displays and allows you to search and filter middleware, static assets, and functions."
 ---
 
+render_with_liquid: false
 May 13, 2025
 
 2025年5月13日

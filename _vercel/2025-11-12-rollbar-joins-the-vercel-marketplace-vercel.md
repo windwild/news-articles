@@ -1,5 +1,6 @@
 ---
 title: "Rollbar joins the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/rollbar-joins-the-vercel-marketplace"
 date: "2025-11-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Connect Rollbar to your Vercel projects to track errors, monitor releases, and resolve issues faster. Get real-time observability for Next.js, React, and serverless apps."
 ---
 
+render_with_liquid: false
 Nov 12, 2025
 
 2025 年 11 月 12 日

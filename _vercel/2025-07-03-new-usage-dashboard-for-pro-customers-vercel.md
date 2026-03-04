@@ -1,5 +1,6 @@
 ---
 title: "New usage dashboard for Pro customers - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-usage-dashboard-for-pro-customers"
 date: "2025-07-03"
@@ -9,6 +10,7 @@ translated: true
 description: "We’ve launched a new usage dashboard for Pro teams to analyze Vercel usage and costs with detailed breakdowns and export options."
 ---
 
+render_with_liquid: false
 Jul 3, 2025
 
 2025 年 7 月 3 日

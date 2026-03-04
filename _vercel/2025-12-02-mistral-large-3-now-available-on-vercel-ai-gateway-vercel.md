@@ -1,5 +1,6 @@
 ---
 title: "Mistral Large 3 now available on Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/mistral-large-3-now-available-on-vercel-ai-gateway"
 date: "2025-12-02"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access Mistral's latest model, Mistral Large 3, on Vercel AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Dec 2, 2025
 
 2025 年 12 月 2 日

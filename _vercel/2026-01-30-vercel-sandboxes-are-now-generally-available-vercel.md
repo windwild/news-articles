@@ -1,5 +1,6 @@
 ---
 title: "Vercel Sandboxes are now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-sandboxes-ga"
 date: "2026-01-30"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Sandbox is now GA, providing isolated Linux VMs for safely executing untrusted code. Run AI agent output, user uploads, and third-party code without exposing production systems."
 ---
 
+render_with_liquid: false
 Jan 30, 2026
 
 2026 年 1 月 30 日

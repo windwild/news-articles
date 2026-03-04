@@ -1,5 +1,6 @@
 ---
 title: "Colocate your edge to your data on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/regional-execution-for-ultra-low-latency-rendering-at-the-edge"
 date: "2022-10-20"
@@ -9,6 +10,7 @@ translated: true
 description: "At this year's P99 Conference, we discussed how edge computing can reduce latency for end users. See how regional Edge Functions can help."
 ---
 
+render_with_liquid: false
 Oct 20, 2022
 
 2022年10月20日

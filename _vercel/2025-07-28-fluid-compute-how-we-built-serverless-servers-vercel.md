@@ -1,5 +1,6 @@
 ---
 title: "Fluid compute: How we built serverless servers - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/fluid-how-we-built-serverless-servers"
 date: "2025-07-28"
@@ -9,6 +10,7 @@ translated: true
 description: "Fluid Compute cuts cold starts and compute costs by up to 95%, scaling I/O-bound and AI workloads efficiently across 45B+ weekly requests."
 ---
 
+render_with_liquid: false
 Jul 28, 2025
 
 2025 年 7 月 28 日

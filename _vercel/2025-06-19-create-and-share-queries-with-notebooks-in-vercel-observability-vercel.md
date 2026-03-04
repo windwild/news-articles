@@ -1,5 +1,6 @@
 ---
 title: "Create and share queries with notebooks in Vercel Observability - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/create-and-share-queries-with-notebooks-in-vercel-observability"
 date: "2025-06-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Observability Plus users can now create a collection of queries in notebooks to collaboratively explore their observability data."
 ---
 
+render_with_liquid: false
 Jun 19, 2025
 
 2025 年 6 月 19 日

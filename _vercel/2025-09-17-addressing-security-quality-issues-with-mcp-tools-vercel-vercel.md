@@ -1,5 +1,6 @@
 ---
 title: "Addressing security & quality issues with MCP tools - Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/generate-static-ai-sdk-tools-from-mcp-servers-with-mcp-to-ai-sdk"
 date: "2025-09-17"
@@ -9,6 +10,7 @@ translated: true
 description: "Use mcp-to-ai-sdk to generate MCP tools directly into your project. Gain security, reliability, and prompt-tuned control while avoiding dynamic MCP risks."
 ---
 
+render_with_liquid: false
 Sep 17, 2025
 
 2025 年 9 月 17 日

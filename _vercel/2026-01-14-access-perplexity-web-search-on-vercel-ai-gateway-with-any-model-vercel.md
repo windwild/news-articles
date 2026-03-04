@@ -1,5 +1,6 @@
 ---
 title: "Access Perplexity Web Search on Vercel AI Gateway with any model - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/access-perplexity-web-search-on-vercel-ai-gateway-with-any-model"
 date: "2026-01-14"
@@ -9,6 +10,7 @@ translated: true
 description: "You can use Perplexity web search with any model and any provider on Vercel AI Gateway to access real-time results and up-to-date information."
 ---
 
+render_with_liquid: false
 Jan 14, 2026
 
 2026 年 1 月 14 日

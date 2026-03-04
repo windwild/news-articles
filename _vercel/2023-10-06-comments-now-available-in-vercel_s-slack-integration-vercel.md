@@ -1,5 +1,6 @@
 ---
 title: "Comments now available in Vercel's Slack integration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/comments-now-available-in-vercels-slack-integration"
 date: "2023-10-06"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 6, 2023
 
 2023年10月6日

@@ -1,5 +1,6 @@
 ---
 title: "How Vercel helped Tonies expand into new markets - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-vercel-helped-tonies-expand-into-new-markets"
 date: "2024-04-26"
@@ -9,6 +10,7 @@ translated: true
 description: "By embracing a headless stack powered by Vercel and Contentful, Tonies was able to scale their ecommerce presence, expand into new markets, and improve UX."
 ---
 
+render_with_liquid: false
 Apr 26, 2024
 
 2024年4月26日

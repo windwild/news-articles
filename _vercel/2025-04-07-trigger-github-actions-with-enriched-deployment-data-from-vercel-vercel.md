@@ -1,5 +1,6 @@
 ---
 title: "Trigger GitHub Actions with enriched deployment data from Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/trigger-github-actions-with-enriched-deployment-data-from-vercel"
 date: "2025-04-07"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now use repository_dispatch events in GitHub Actions for your Vercel projects, simplifying how you trigger GitHub Actions workflows in response to Vercel deployments."
 ---
 
+render_with_liquid: false
 Apr 7, 2025
 
 2025 年 4 月 7 日

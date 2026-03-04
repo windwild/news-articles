@@ -1,5 +1,6 @@
 ---
 title: "Vercel Analytics API is now available for all frameworks - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-analytics-api-is-now-available-for-all-frameworks"
 date: "2022-07-01"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 1, 2022
 
 2022年7月1日

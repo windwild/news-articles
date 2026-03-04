@@ -1,5 +1,6 @@
 ---
 title: "Convert Comments on Preview Deployments to Linear issues - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/convert-comments-on-preview-deployments-to-linear-issues"
 date: "2023-04-13"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 13, 2023
 
 2023年4月13日

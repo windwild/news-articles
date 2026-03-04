@@ -1,5 +1,6 @@
 ---
 title: "Anyone can build agents, but it takes a platform to run them - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/anyone-can-build-agents-but-it-takes-a-platform-to-run-them"
 date: "2026-02-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Why competitive advantage in AI comes from the platform you deploy agents on, not the agents themselves."
 ---
 
+render_with_liquid: false
 Feb 9, 2026
 
 2026年2月9日

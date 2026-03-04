@@ -1,5 +1,6 @@
 ---
 title: "Unlimited custom domains for all Pro teams - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/unlimited-custom-domains-for-all-pro-teams"
 date: "2022-01-24"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jan 24, 2022
 
 2022 年 1 月 24 日

@@ -1,5 +1,6 @@
 ---
 title: "How to build scalable AI applications - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-to-build-scalable-ai-applications"
 date: "2024-08-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Explore AI integration strategies with Vercel's AI SDK. Learn to choose providers, optimize performance, and future-proof your apps. Discover tools for seamless AI deployment and scalability."
 ---
 
+render_with_liquid: false
 Aug 12, 2024
 
 2024 年 8 月 12 日

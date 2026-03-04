@@ -1,5 +1,6 @@
 ---
 title: "Add real-time analytics to your project with the Tinybird integration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/add-real-time-analytics-to-your-application-with-tinybird-integration"
 date: "2023-03-03"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Mar 3, 2023
 
 2023年3月3日

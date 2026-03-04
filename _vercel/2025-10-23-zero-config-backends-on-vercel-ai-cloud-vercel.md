@@ -1,5 +1,6 @@
 ---
 title: "Zero-config backends on Vercel AI Cloud - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/zero-config-backends-on-vercel-ai-cloud"
 date: "2025-10-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Build, scale, and orchestrate AI backends on Vercel. Deploy Python or Node frameworks with zero config and optimized compute for agents and workflows."
 ---
 
+render_with_liquid: false
 Oct 23, 2025
 
 2025 年 10 月 23 日

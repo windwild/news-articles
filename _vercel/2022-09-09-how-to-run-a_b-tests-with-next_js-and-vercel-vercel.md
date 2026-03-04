@@ -1,5 +1,6 @@
 ---
 title: "How to run A/B tests with Next.js and Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ab-testing-with-nextjs-and-vercel"
 date: "2022-09-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how to run A/B tests with Next.js and Vercel Edge Middleware."
 ---
 
+render_with_liquid: false
 Sep 9, 2022
 
 2022 年 9 月 9 日

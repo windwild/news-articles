@@ -1,5 +1,6 @@
 ---
 title: "Turborepo Open-Source CLI and Remote Caching on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/turborepo-open-source-cli-and-remote-caching-on-vercel"
 date: "2021-12-09"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 9, 2021
 
 2021 年 12 月 9 日

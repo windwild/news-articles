@@ -1,5 +1,6 @@
 ---
 title: "AWS databases are now live on the Vercel Marketplace and v0 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/aws-databases-are-now-live-on-the-vercel-marketplace-and-v0"
 date: "2026-01-15"
@@ -9,6 +10,7 @@ translated: true
 description: "v0 can now provision AWS databases as it builds your app. Aurora PostgreSQL, DynamoDB, and Aurora DSQL available in the Vercel Marketplace."
 ---
 
+render_with_liquid: false
 Jan 15, 2026
 
 2026 年 1 月 15 日

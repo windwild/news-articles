@@ -1,5 +1,6 @@
 ---
 title: "Expanding observability on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/expanding-observability-on-vercel"
 date: "2025-04-08"
@@ -9,6 +10,7 @@ translated: true
 description: "The Vercel Marketplace adds new native integrations from Sentry, Checkly, and Dash0. Use the tools you already trust to monitor, measure, and debug your apps with integrated billing, single sign-on, a..."
 ---
 
+render_with_liquid: false
 Apr 8, 2025
 
 2025 年 4 月 8 日

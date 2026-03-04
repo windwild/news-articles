@@ -1,5 +1,6 @@
 ---
 title: "Introducing deeper integrations for feature flags in Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/feature-flags"
 date: "2024-05-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Introducing a platform-wide understanding of feature flags in Vercel, and an experimental Next.js design pattern for working with flags in code."
 ---
 
+render_with_liquid: false
 May 23, 2024
 
 2024 年 5 月 23 日

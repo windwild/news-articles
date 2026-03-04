@@ -1,5 +1,6 @@
 ---
 title: "New features for SvelteKit: Optimize your application with ease - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/feature-complete-sveltekit"
 date: "2023-06-20"
@@ -9,6 +10,7 @@ translated: true
 description: "Get the most out of your SvelteKit app with pre-route configuration, Incremental Static Regeneration, and data at the Edge."
 ---
 
+render_with_liquid: false
 Jun 20, 2023
 
 2023年6月20日

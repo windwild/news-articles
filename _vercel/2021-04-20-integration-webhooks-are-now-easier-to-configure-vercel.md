@@ -1,5 +1,6 @@
 ---
 title: "Integration Webhooks are now easier to configure - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/integration-webhooks-are-now-easier-to-configure"
 date: "2021-04-20"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 20, 2021
 
 2021 年 4 月 20 日

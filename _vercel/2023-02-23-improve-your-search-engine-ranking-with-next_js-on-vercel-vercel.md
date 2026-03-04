@@ -1,5 +1,6 @@
 ---
 title: "Improve your search engine ranking with Next.js on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-seo-playbook"
 date: "2023-02-23"
@@ -9,6 +10,7 @@ translated: true
 description: "SEO is a critical priority in Next.js on Vercel, letting you rank higher in search engine results and better optimize your content for users."
 ---
 
+render_with_liquid: false
 Feb 23, 2023
 
 2023 年 2 月 23 日

@@ -1,5 +1,6 @@
 ---
 title: "Web Analytics now has route support - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/web-analytics-now-has-route-support"
 date: "2024-11-15"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 15, 2024
 
 2024 年 11 月 15 日

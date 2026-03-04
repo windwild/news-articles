@@ -1,5 +1,6 @@
 ---
 title: "Announcing v0: Generative UI - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/announcing-v0-generative-ui"
 date: "2023-10-11"
@@ -9,6 +10,7 @@ translated: true
 description: "Introducing v0"
 ---
 
+render_with_liquid: false
 Oct 11, 2023
 
 2023 年 10 月 11 日

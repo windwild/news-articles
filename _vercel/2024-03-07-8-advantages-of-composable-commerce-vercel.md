@@ -1,5 +1,6 @@
 ---
 title: "8 advantages of composable commerce - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/8-advantages-of-composable-commerce"
 date: "2024-03-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Faster development cycles, better personalization, increased site performance, and more. Here are the benefits composable commerce can offer."
 ---
 
+render_with_liquid: false
 Mar 7, 2024
 
 2024 年 3 月 7 日

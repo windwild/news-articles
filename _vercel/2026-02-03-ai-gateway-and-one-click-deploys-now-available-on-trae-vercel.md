@@ -1,5 +1,6 @@
 ---
 title: "AI Gateway and one-click deploys now available on TRAE - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-gateway-and-one-click-deploys-now-available-on-trae"
 date: "2026-02-03"
@@ -9,6 +10,7 @@ translated: true
 description: "TRAE now integrates with Vercel for one-click deployments and access to hundreds of AI models through a single API key. Available in both SOLO and IDE modes."
 ---
 
+render_with_liquid: false
 Feb 3, 2026
 
 2026年2月3日

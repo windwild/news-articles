@@ -1,5 +1,6 @@
 ---
 title: "Introducing parental controls | OpenAI"
+render_with_liquid: false
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-parental-controls"
 date: "2025-09-29"
@@ -9,6 +10,7 @@ translated: true
 description: "We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes. "
 ---
 
+render_with_liquid: false
 2025年9月29日
 
 [产品动态](https://openai.com/news/product-releases/) [安全与对齐](https://openai.com/news/safety-alignment/)

@@ -1,5 +1,6 @@
 ---
 title: "LangSmith is Now Available in Google Cloud Marketplace"
+render_with_liquid: false
 source: "LangChain Blog"
 url: "https://blog.langchain.com/langsmith-is-now-available-in-google-cloud-marketplace/"
 date: "2026-02-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Today, we&apos;re thrilled to announce that LangSmith, the agent engineering platform from LangChain, is available in Google Cloud Marketplace. Google Cloud customers can now procure LangSmith through..."
 ---
 
+render_with_liquid: false
 Today, we're thrilled to announce that LangSmith, the agent engineering platform from LangChain, is available in Google Cloud Marketplace. Google Cloud customers can now procure LangSmith through their existing Google Cloud accounts, enabling seamless billing, simplified procurement, and the ability to draw down on existing Google Cloud commitments.
 
 今天，我们非常激动地宣布：LangChain 推出的智能体（agent）工程平台 LangSmith 现已上线 Google Cloud Marketplace。Google Cloud 客户现在可通过其现有的 Google Cloud 账户直接采购 LangSmith，从而实现账单无缝集成、采购流程简化，并可动用已有的 Google Cloud 承诺消费额度（commitments）。

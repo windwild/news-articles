@@ -1,5 +1,6 @@
 ---
 title: "Vercel Observability is now route-aware for SvelteKit apps - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-observability-is-now-route-aware-for-sveltekit-apps"
 date: "2025-04-14"
@@ -9,6 +10,7 @@ translated: true
 description: "Improved route-level visibility to Vercel Observability for SvelteKit projects using @sveltejs/adapter-vercel v5.7.0. Dynamic segments like /blog/[slug] now appear as individual routes."
 ---
 
+render_with_liquid: false
 Apr 14, 2025
 
 2025年4月14日

@@ -1,5 +1,6 @@
 ---
 title: "Enhanced content management for your headless CMS - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/enhanced-content-management-for-headless-cmses"
 date: "2023-06-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Draft Mode and Visual Editing for better content management making it easier to see your latest content changes before they’re published."
 ---
 
+render_with_liquid: false
 Jun 22, 2023
 
 2023 年 6 月 22 日

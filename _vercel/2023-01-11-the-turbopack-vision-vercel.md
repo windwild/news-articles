@@ -1,5 +1,6 @@
 ---
 title: "The Turbopack vision - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-turbopack-vision"
 date: "2023-01-11"
@@ -9,6 +10,7 @@ translated: true
 description: "Watch webpack founder Tobias Koppers talk about the vision for Turbopack at React Day Berlin."
 ---
 
+render_with_liquid: false
 Jan 11, 2023
 
 2023 年 1 月 11 日

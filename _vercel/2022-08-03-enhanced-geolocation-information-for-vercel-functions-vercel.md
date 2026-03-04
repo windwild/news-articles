@@ -1,5 +1,6 @@
 ---
 title: "Enhanced geolocation information for Vercel Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-geolocation-information-available-for-vercel-functions"
 date: "2022-08-03"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 3, 2022
 
 2022 年 8 月 3 日

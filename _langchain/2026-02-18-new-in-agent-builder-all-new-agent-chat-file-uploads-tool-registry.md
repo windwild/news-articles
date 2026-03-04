@@ -1,5 +1,6 @@
 ---
 title: "New in Agent Builder: all new agent chat, file uploads + tool registry"
+render_with_liquid: false
 source: "LangChain Blog"
 url: "https://blog.langchain.com/new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry/"
 date: "2026-02-18"
@@ -9,6 +10,7 @@ translated: true
 description: "Today, we&apos;re expanding what you can do with LangSmith Agent Builder. It&#x2019;s an big update built around a simple idea: working with an agent should feel like working with a teammate.We rebuil..."
 ---
 
+render_with_liquid: false
 Today, we're expanding what you can do with [LangSmith Agent Builder](https://www.langchain.com/langsmith/agent-builder?ref=blog.langchain.com). It’s an big update built around a simple idea: working with an agent should feel like working with a teammate.
 
 今天，我们正在拓展您使用 [LangSmith Agent Builder](https://www.langchain.com/langsmith/agent-builder?ref=blog.langchain.com) 所能完成的任务。这是一次重大更新，其核心理念十分简单：与智能体协作，应当如同与一位真实队友协作一样自然。

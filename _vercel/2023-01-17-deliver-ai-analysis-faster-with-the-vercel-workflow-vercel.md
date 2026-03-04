@@ -1,5 +1,6 @@
 ---
 title: "Deliver AI analysis faster with the Vercel workflow - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/delivering-ai-analysis-faster-with-the-vercel-workflow"
 date: "2023-01-17"
@@ -9,6 +10,7 @@ translated: true
 description: "Viable customer story"
 ---
 
+render_with_liquid: false
 Jan 17, 2023
 
 2023年1月17日

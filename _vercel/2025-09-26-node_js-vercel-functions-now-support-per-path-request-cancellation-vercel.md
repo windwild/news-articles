@@ -1,5 +1,6 @@
 ---
 title: "Node.js Vercel Functions now support per-path request cancellation  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/node-js-vercel-functions-now-support-per-path-request-cancellation"
 date: "2025-09-26"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Functions using Node.js can now detect when a request is cancelled and stop execution before completion. This includes actions like navigating away, closing a tab, or hitting stop on an AI chat..."
 ---
 
+render_with_liquid: false
 Sep 26, 2025
 
 2025 年 9 月 26 日

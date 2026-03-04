@@ -1,5 +1,6 @@
 ---
 title: "Claude Code Max via AI Gateway, available now for Claude Code - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claude-code-max-via-ai-gateway-available-now-for-claude-code"
 date: "2026-01-26"
@@ -9,6 +10,7 @@ translated: true
 description: "You can use your Claude Code Max subscription through Vercel's AI Gateway. This lets you leverage your existing subscription while gaining centralized observability, usage tracking, and monitoring cap..."
 ---
 
+render_with_liquid: false
 Jan 26, 2026
 
 2026 年 1 月 26 日

@@ -1,5 +1,6 @@
 ---
 title: "Granular branch matching for Git configuration in vercel.json - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/granular-branch-matching-for-git-configuration-in-vercel-json"
 date: "2025-02-25"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now specify glob patterns for Git branches in the `git.deploymentEnabled` field in `vercel.json`."
 ---
 
+render_with_liquid: false
 Feb 25, 2025
 
 2025 年 2 月 25 日

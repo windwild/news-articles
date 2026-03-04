@@ -1,5 +1,6 @@
 ---
 title: "AI Gateway is now in Beta - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-gateway-is-now-in-beta"
 date: "2025-06-25"
@@ -9,6 +10,7 @@ translated: true
 description: "AI Gateway is now in Beta, giving you a single endpoint to access a wide range of AI models across providers, with better uptime, faster responses, no lock-in."
 ---
 
+render_with_liquid: false
 Jun 25, 2025
 
 2025年6月25日

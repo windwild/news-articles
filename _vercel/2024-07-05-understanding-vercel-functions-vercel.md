@@ -1,5 +1,6 @@
 ---
 title: "Understanding Vercel Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/understanding-vercel-functions"
 date: "2024-07-05"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn about how Vercel Functions help you run secure, highly available, and fast compute."
 ---
 
+render_with_liquid: false
 Jul 5, 2024
 
 2024 年 7 月 5 日

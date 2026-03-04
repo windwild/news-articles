@@ -1,5 +1,6 @@
 ---
 title: "The Walt Disney Company and OpenAI reach landmark agreement to  bring beloved characters from across Disney’s brands to Sora | OpenAI"
+render_with_liquid: false
 source: "OpenAI Blog"
 url: "https://openai.com/index/disney-sora-agreement"
 date: "2025-12-11"
@@ -9,6 +10,7 @@ translated: true
 description: "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in ente..."
 ---
 
+render_with_liquid: false
 December 11, 2025
 
 2025年12月11日

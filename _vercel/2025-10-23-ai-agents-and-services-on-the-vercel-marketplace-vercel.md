@@ -1,5 +1,6 @@
 ---
 title: "AI agents and services on the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-agents-and-services-on-the-vercel-marketplace"
 date: "2025-10-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Agents and Tools are available in the Vercel Marketplace, enabling AI-powered workflows in your projects with native integrations, unified billing, and built-in observability."
 ---
 
+render_with_liquid: false
 Oct 23, 2025
 
 2025 年 10 月 23 日

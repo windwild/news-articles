@@ -1,5 +1,6 @@
 ---
 title: "Our agreement with the Department of War | OpenAI"
+render_with_liquid: false
 source: "OpenAI Blog"
 url: "https://openai.com/index/our-agreement-with-the-department-of-war"
 date: "2026-02-28"
@@ -10,6 +11,7 @@ description: "Details on OpenAI’s contract with the Department of War, outlini
 tags: ["Company"]
 ---
 
+render_with_liquid: false
 February 28, 2026
 
 

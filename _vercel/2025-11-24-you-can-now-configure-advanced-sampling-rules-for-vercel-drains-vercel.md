@@ -1,5 +1,6 @@
 ---
 title: "You can now configure advanced sampling rules for Vercel Drains - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/you-can-now-configure-advanced-sampling-rules-for-vercel-drains"
 date: "2025-11-24"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now configure sampling rates by environment or path prefix when exporting data with Vercel Drains"
 ---
 
+render_with_liquid: false
 Nov 24, 2025
 
 2025 年 11 月 24 日

@@ -1,5 +1,6 @@
 ---
 title: "Redirects and rewrites now available in Observability - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/redirects-and-rewrites-now-available-in-observability"
 date: "2025-11-03"
@@ -9,6 +10,7 @@ translated: true
 description: "Improved observability of redirects and rewrites are now generally available under the Observability tab on Vercel's Dashboard.  Redirect and rewrite request logs are now drainable to any configured D..."
 ---
 
+render_with_liquid: false
 Nov 3, 2025
 
 2025 年 11 月 3 日

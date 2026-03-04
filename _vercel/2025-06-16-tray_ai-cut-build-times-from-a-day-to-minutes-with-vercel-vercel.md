@@ -1,5 +1,6 @@
 ---
 title: "Tray.ai cut build times from a day to minutes with Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/tray-ai-cut-build-times-from-a-day-to-minutes-with-vercel"
 date: "2025-06-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Tray.ai cut build times from a full day to just two minutes after migrating to Vercel. By consolidating infrastructure and updating their tech stack, they now deliver over a million monthly page views..."
 ---
 
+render_with_liquid: false
 Jun 16, 2025
 
 2025年6月16日

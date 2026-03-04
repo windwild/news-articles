@@ -1,5 +1,6 @@
 ---
 title: "Vercel now supports post-quantum cryptography - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/post-quantum-crypto"
 date: "2025-11-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Connections to all Vercel deployments now support a new encryption algorithm during TLS handshakes, which protects against future quantum threats."
 ---
 
+render_with_liquid: false
 Nov 7, 2025
 
 2025 年 11 月 7 日

@@ -1,5 +1,6 @@
 ---
 title: "Skills v1.1.1: Interactive discovery, open source release, and agent support - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/skills-v1-1-1-interactive-discovery-open-source-release-and-agent-support"
 date: "2026-01-26"
@@ -9,6 +10,7 @@ translated: true
 description: "Skills v1.1.1 introduces interactive skill discovery with npx skills find, full open source release on GitHub, and enhanced support for 27 coding agents with automated workflows."
 ---
 
+render_with_liquid: false
 Jan 26, 2026
 
 2026 年 1 月 26 日

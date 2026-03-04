@@ -1,5 +1,6 @@
 ---
 title: "Stress testing Biome's noFloatingPromises lint rule - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/stress-testing-biomes-nofloatingpromises-lint-rule"
 date: "2025-09-04"
@@ -9,6 +10,7 @@ translated: true
 description: "We partnered with Biome to push their noFloatingPromises lint rule to the limit, uncovering edge cases and showing how we solve hard problems together."
 ---
 
+render_with_liquid: false
 Sep 4, 2025
 
 2025 年 9 月 4 日

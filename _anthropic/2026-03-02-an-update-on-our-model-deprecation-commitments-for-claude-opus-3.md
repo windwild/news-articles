@@ -1,5 +1,6 @@
 ---
 title: "An update on our model deprecation commitments for Claude Opus 3"
+render_with_liquid: false
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/deprecation-updates-opus-3"
 scraped_at: "2026-03-02T09:21:17.214329314+00:00"
@@ -8,6 +9,7 @@ translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
 
+render_with_liquid: false
 Alignment
 
 对 Claude Opus 3 模型停用承诺的最新进展

@@ -1,5 +1,6 @@
 ---
 title: "Visual Editing meets Markdown with Tina.io - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/visual-editing-meets-markdown"
 date: "2023-06-06"
@@ -9,6 +10,7 @@ translated: true
 description: "TinaCMS adopts Visual Editing"
 ---
 
+render_with_liquid: false
 Jun 6, 2023
 
 2023年6月6日

@@ -1,5 +1,6 @@
 ---
 title: "HTML element attribution in Speed Insights - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/html-element-attribution-in-speed-insights"
 date: "2024-06-12"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 12, 2024
 
 2024 年 6 月 12 日

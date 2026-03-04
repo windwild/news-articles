@@ -1,5 +1,6 @@
 ---
 title: "Removing Domains is now much easier - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/removing-domains-is-now-much-easier"
 date: "2021-07-16"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 16, 2021
 
 2021年7月16日

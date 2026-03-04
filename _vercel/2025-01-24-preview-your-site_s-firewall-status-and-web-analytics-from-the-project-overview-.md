@@ -1,5 +1,6 @@
 ---
 title: "Preview your site's Firewall status and Web Analytics from the Project Overview - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/preview-firewall-status-and-web-analytics-from-project-overview"
 date: "2025-01-24"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel has added preview cards on the project overview page that display your site's web analytics and firewall status."
 ---
 
+render_with_liquid: false
 Jan 24, 2025
 
 2025年1月24日

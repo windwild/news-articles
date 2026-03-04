@@ -1,5 +1,6 @@
 ---
 title: "New deployments with vulnerable versions of the third-party package next-mdx-remote are now blocked by default - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-deployments-with-vulnerable-versions-of-next-mdx-remote-are-now-blocked-by-default"
 date: "2026-02-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Any new deployment containing a version of next-mdx-remote that is vulnerable to CVE-2026-0969 will now automatically fail to deploy on Vercel."
 ---
 
+render_with_liquid: false
 Feb 12, 2026
 
 2026 年 2 月 12 日

@@ -1,5 +1,6 @@
 ---
 title: "How SZA and Integral Studio create at the moment of inspiration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/sza-integral-create-at-the-moment-of-inspiration"
 date: "2022-08-29"
@@ -9,6 +10,7 @@ translated: true
 description: "In 2017, Integral Studio chose Vercel & Next.js to create a site that would mirror the creativity of then-up-and-coming artist, SZA. To celebrate the 5-year anniversary and re-release of her Grammy-wi..."
 ---
 
+render_with_liquid: false
 Aug 29, 2022
 
 2022年8月29日

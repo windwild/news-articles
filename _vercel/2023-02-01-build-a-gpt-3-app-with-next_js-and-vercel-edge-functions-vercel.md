@@ -1,5 +1,6 @@
 ---
 title: "Build a GPT-3 app with Next.js and Vercel Edge Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/gpt-3-app-next-js-vercel-edge-functions"
 date: "2023-02-01"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how to build GPT-3 AI apps with OpenAI, Next.js, and Vercel Edge Functions."
 ---
 
+render_with_liquid: false
 Feb 1, 2023
 
 2023 年 2 月 1 日

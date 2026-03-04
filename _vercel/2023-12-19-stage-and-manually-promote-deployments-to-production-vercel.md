@@ -1,5 +1,6 @@
 ---
 title: "Stage and manually promote deployments to production - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/stage-and-manually-promote-deployments-to-production"
 date: "2023-12-19"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 19, 2023
 
 2023 年 12 月 19 日

@@ -1,5 +1,6 @@
 ---
 title: "NuxtLabs joins Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nuxtlabs-joins-vercel"
 date: "2025-07-08"
@@ -9,6 +10,7 @@ translated: true
 description: "NuxtLabs, creators of Nuxt and Nitro, are joining Vercel. Same license, roadmap, and open governance, but now in a joint mission to build the best web."
 ---
 
+render_with_liquid: false
 Jul 8, 2025
 
 2025年7月8日

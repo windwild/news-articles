@@ -1,5 +1,6 @@
 ---
 title: "Hints now available when creating Environment Variables - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/hints-now-available-when-creating-environment-variables"
 date: "2023-09-27"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Sep 27, 2023
 
 2023 年 9 月 27 日

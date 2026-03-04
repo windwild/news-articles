@@ -1,5 +1,6 @@
 ---
 title: "The foundations of the Frontend Cloud - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-foundations-of-the-frontend-cloud"
 date: "2023-11-21"
@@ -9,6 +10,7 @@ translated: true
 description: "An introduction to the underlying infrastructure of the Frontend Cloud: Part 1 of the developer's guide to a future-proofed stack for the modern frontend."
 ---
 
+render_with_liquid: false
 Nov 21, 2023
 
 2023 年 11 月 21 日

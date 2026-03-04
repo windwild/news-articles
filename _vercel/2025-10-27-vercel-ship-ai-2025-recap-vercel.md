@@ -1,5 +1,6 @@
 ---
 title: "Vercel Ship AI 2025 recap - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ship-ai-2025-recap"
 date: "2025-10-27"
@@ -9,6 +10,7 @@ translated: true
 description: "Earlier this year we introduced the foundations of the AI Cloud: a platform for building intelligent systems that think, plan, and act. At Ship AI, we showed what comes next. What and how to build wit..."
 ---
 
+render_with_liquid: false
 Oct 27, 2025
 
 2025 年 10 月 27 日

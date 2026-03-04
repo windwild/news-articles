@@ -1,5 +1,6 @@
 ---
 title: "Vercel acquires Turborepo to accelerate build speed and improve developer experience  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-acquires-turborepo"
 date: "2021-12-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel acquires Turborepo to accelerate build speed and improve developer experience"
 ---
 
+render_with_liquid: false
 Dec 9, 2021
 
 2021年12月9日

@@ -1,5 +1,6 @@
 ---
 title: "Next.js - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next"
 date: "2016-10-25"
@@ -9,6 +10,7 @@ translated: true
 description: "We're very proud to open-source Next.js, a small framework for server-rendered universal JavaScript webapps."
 ---
 
+render_with_liquid: false
 Oct 25, 2016
 
 2016 年 10 月 25 日

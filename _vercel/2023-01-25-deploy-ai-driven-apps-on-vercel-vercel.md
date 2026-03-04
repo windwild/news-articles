@@ -1,5 +1,6 @@
 ---
 title: "Deploy AI-driven apps on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/deploying-ai-applications"
 date: "2023-01-25"
@@ -9,6 +10,7 @@ translated: true
 description: "Deploying AI-driven apps on Vercel is easier than ever before. Here's some templates and tooling to jump-start your AI application."
 ---
 
+render_with_liquid: false
 Jan 25, 2023
 
 2023 年 1 月 25 日

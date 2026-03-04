@@ -1,5 +1,6 @@
 ---
 title: "The user experience of the Frontend Cloud - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-user-experience-of-the-frontend-cloud"
 date: "2023-12-04"
@@ -9,6 +10,7 @@ translated: true
 description: "The user experience of the Frontend Cloud: Part 2 of the developer's guide to a future-proofed stack."
 ---
 
+render_with_liquid: false
 Dec 4, 2023
 
 2023 年 12 月 4 日

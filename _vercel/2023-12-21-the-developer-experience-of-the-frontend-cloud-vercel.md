@@ -1,5 +1,6 @@
 ---
 title: "The developer experience of the Frontend Cloud - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-developer-experience-of-the-frontend-cloud"
 date: "2023-12-21"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel's Frontend Cloud offers a complete Developer Experience (DX) Platform, to automate complex systems and offer best-in-market iteration velocity."
 ---
 
+render_with_liquid: false
 Dec 21, 2023
 
 2023 年 12 月 21 日

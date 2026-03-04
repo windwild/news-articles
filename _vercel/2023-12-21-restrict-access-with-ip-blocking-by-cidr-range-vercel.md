@@ -1,5 +1,6 @@
 ---
 title: "Restrict access with IP blocking by CIDR range - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/restrict-access-with-ip-blocking-by-cidr-range"
 date: "2023-12-21"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 21, 2023
 
 2023年12月21日

@@ -1,5 +1,6 @@
 ---
 title: "Sell globally with a Next.js + Shopify site - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/kidsuper-innovates-with-next.js"
 date: "2023-01-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Next.js and Vercel allow KidSuper to easily scale and reflect the brand's creativity online. "
 ---
 
+render_with_liquid: false
 Jan 10, 2023
 
 2023 年 1 月 10 日

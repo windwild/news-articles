@@ -1,5 +1,6 @@
 ---
 title: "Improving readability with React Wrap Balancer - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/react-wrap-balancer"
 date: "2023-01-19"
@@ -9,6 +10,7 @@ translated: true
 description: "React Wrap Balancer tidies up bad typography and matches line lengths on the fly."
 ---
 
+render_with_liquid: false
 Jan 19, 2023
 
 2023 年 1 月 19 日

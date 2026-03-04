@@ -1,5 +1,6 @@
 ---
 title: "Improved alerting for Slack Integration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-alerting-for-slack-integration"
 date: "2022-07-11"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 11, 2022
 
 2022 年 7 月 11 日

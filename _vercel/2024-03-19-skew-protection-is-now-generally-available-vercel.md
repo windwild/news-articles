@@ -1,5 +1,6 @@
 ---
 title: "Skew Protection is now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/skew-protection-is-now-generally-available"
 date: "2024-03-19"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Mar 19, 2024
 
 2024年3月19日

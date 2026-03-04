@@ -1,5 +1,6 @@
 ---
 title: "Quality software at scale with Vercel Spaces - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-spaces"
 date: "2023-05-03"
@@ -9,6 +10,7 @@ translated: true
 description: "Spaces from Vercel"
 ---
 
+render_with_liquid: false
 May 3, 2023
 
 2023年5月3日

@@ -1,5 +1,6 @@
 ---
 title: "UI Hooks for Integrations will be deprecated - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ui-hooks-for-integrations-will-be-deprecated"
 date: "2021-05-25"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 25, 2021
 
 2021 年 5 月 25 日

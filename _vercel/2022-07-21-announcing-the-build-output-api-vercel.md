@@ -1,5 +1,6 @@
 ---
 title: "Announcing the Build Output API - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/build-output-api"
 date: "2022-07-21"
@@ -9,6 +10,7 @@ translated: true
 description: "The Build Output API enables any framework, including your own custom-built solution, to take advantage of Vercel’s infrastructure building blocks."
 ---
 
+render_with_liquid: false
 Jul 21, 2022
 
 2022 年 7 月 21 日

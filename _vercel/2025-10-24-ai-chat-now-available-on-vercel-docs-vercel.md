@@ -1,5 +1,6 @@
 ---
 title: "AI Chat now available on Vercel docs - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ai-chat-now-available-on-vercel-docs"
 date: "2025-10-24"
@@ -9,6 +10,7 @@ translated: true
 description: "AI Chat is now live on Vercel docs. Ask questions, load docs as context for page-aware answers, and copy chats as Markdown for easy sharing."
 ---
 
+render_with_liquid: false
 Oct 24, 2025
 
 2025年10月24日

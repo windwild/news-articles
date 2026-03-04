@@ -1,5 +1,6 @@
 ---
 title: "Integrate Remix session storage with your Vercel KV database - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/integrate-remix-session-storage-with-your-vercel-kv-database"
 date: "2023-05-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Introducing createKvSessionStorage function within @vercel/remix which allows remix session storage with Vercel KV database0"
 ---
 
+render_with_liquid: false
 May 22, 2023
 
 2023年5月22日

@@ -1,5 +1,6 @@
 ---
 title: "FastAPI Lifespan Events are now supported on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/fastapi-lifespan-events-are-now-supported-on-vercel"
 date: "2025-12-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now supports lifespan events on FastAPI apps, allowing you to define startup and shutdown logic such as setting up and shutting down database connections or flushing external logs."
 ---
 
+render_with_liquid: false
 Dec 9, 2025
 
 2025 年 12 月 9 日

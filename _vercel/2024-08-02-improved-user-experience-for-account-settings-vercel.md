@@ -1,5 +1,6 @@
 ---
 title: "Improved user experience for Account Settings - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-user-experience-for-account-settings"
 date: "2024-08-02"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 2, 2024
 
 2024年8月2日

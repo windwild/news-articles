@@ -1,5 +1,6 @@
 ---
 title: "Protecting your app (and wallet) against malicious traffic - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/protecting-your-app-and-wallet-against-malicious-traffic"
 date: "2024-08-02"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how to block traffic with the Firewall, set up soft and hard spend limits, apply code-level optimizations, and more."
 ---
 
+render_with_liquid: false
 Aug 2, 2024
 
 2024年8月2日

@@ -1,5 +1,6 @@
 ---
 title: " Web Interface Guidelines now available as an agent command - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/web-interface-guidelines-now-available-as-an-agent-command"
 date: "2026-01-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Install /web-interface-guidelines to review UI code against Vercel's best practices. Supports Claude Code, Cursor, OpenCode, Windsurf, and Gemini CLI."
 ---
 
+render_with_liquid: false
 Jan 12, 2026
 
 2026 年 1 月 12 日

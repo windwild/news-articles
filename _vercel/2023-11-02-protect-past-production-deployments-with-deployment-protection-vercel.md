@@ -1,5 +1,6 @@
 ---
 title: "Protect past Production Deployments with Deployment Protection - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/protect-past-production-deployments-with-deployment-protection"
 date: "2023-11-02"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 2, 2023
 
 2023 年 11 月 2 日

@@ -1,5 +1,6 @@
 ---
 title: "New execution duration limit for Edge Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-execution-duration-limit-for-edge-functions"
 date: "2025-02-06"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn about the upcoming update to Vercel Edge Functions, introducing a new execution duration limit of 300 seconds to enhance predictability and reliability in function management starting March 1st,..."
 ---
 
+render_with_liquid: false
 Feb 6, 2025
 
 2025 年 2 月 6 日

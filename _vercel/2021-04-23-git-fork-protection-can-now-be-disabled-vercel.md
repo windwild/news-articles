@@ -1,5 +1,6 @@
 ---
 title: "Git Fork Protection can now be disabled - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/git-fork-protection-can-now-be-disabled"
 date: "2021-04-23"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 23, 2021
 
 2021 年 4 月 23 日

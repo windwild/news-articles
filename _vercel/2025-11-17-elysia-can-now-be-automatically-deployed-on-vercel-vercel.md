@@ -1,5 +1,6 @@
 ---
 title: "Elysia can now be automatically deployed on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/support-for-elysia"
 date: "2025-11-17"
@@ -9,6 +10,7 @@ translated: true
 description: "Elysia, a popular ergonomic TypeScript framework with end-to-end type safety, can now be detected and deployed at Vercel."
 ---
 
+render_with_liquid: false
 Nov 17, 2025
 
 2025年11月17日

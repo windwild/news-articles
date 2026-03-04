@@ -1,5 +1,6 @@
 ---
 title: "Support for Sign in with Apple - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sign-in-with-apple-support"
 date: "2026-02-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now supports Sign in with Apple, enabling faster access for users with Apple accounts and devices"
 ---
 
+render_with_liquid: false
 Feb 10, 2026
 
 2026 年 2 月 10 日

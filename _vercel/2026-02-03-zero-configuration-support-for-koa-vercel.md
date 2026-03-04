@@ -1,5 +1,6 @@
 ---
 title: "Zero-configuration support for Koa - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/zero-configuration-support-for-koa"
 date: "2026-02-03"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now detects and deploys Koa, an expressive HTTP middleware framework to make web applications and APIs more enjoyable to write."
 ---
 
+render_with_liquid: false
 Feb 3, 2026
 
 2026 年 2 月 3 日

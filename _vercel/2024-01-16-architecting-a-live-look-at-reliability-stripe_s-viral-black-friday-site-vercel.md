@@ -1,5 +1,6 @@
 ---
 title: "Architecting a live look at reliability: Stripe's viral Black Friday site - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/architecting-reliability-stripes-black-friday-site"
 date: "2024-01-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel x Stripe social image"
 ---
 
+render_with_liquid: false
 Jan 16, 2024
 
 2024 年 1 月 16 日

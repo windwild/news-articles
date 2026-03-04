@@ -1,5 +1,6 @@
 ---
 title: "Filter runtime logs for fatal function errors - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-runtime-logs-for-fatal-function-errors"
 date: "2025-06-10"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now filter your runtime logs to identify fatal function errors, such as Node.js crashes, in the Vercel Logs UI. "
 ---
 
+render_with_liquid: false
 Jun 10, 2025
 
 2025年6月10日

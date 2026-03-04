@@ -1,5 +1,6 @@
 ---
 title: "Next.js 14 on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/next-js-14"
 date: "2023-10-26"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 26, 2023
 
 2023 年 10 月 26 日

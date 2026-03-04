@@ -1,5 +1,6 @@
 ---
 title: "Z.ai's GLM-4.5 and GLM-4.5 Air are now supported in Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/z-ais-glm-4-5-and-glm-4-5-air-are-now-supported-in-vercel-ai-gateway"
 date: "2025-07-29"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access GLM-4.5 and GLM-4.5 Air, new flagship models from Z.ai designed to unify frontier reasoning, coding, and agentic capabilities, using Vercel's AI Gateway with no other provider accou..."
 ---
 
+render_with_liquid: false
 Jul 29, 2025
 
 2025 年 7 月 29 日

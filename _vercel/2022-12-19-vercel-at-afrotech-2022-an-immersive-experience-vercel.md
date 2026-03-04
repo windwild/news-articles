@@ -1,5 +1,6 @@
 ---
 title: "Vercel at AfroTech 2022: An immersive experience - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-at-afrotech-2022"
 date: "2022-12-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Last month, Vercel had the privilege of sponsoring AfroTech Conference 2022. This was our approach. "
 ---
 
+render_with_liquid: false
 Dec 19, 2022
 
 2022年12月19日

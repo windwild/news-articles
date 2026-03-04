@@ -1,5 +1,6 @@
 ---
 title: "Grok 3 now available on Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/grok-3-now-available-on-vercel-marketplace"
 date: "2025-04-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Grok 3 is now available on the Vercel Marketplace, allowing users to access xAI's latest large language models directly from their Vercel projects"
 ---
 
+render_with_liquid: false
 Apr 9, 2025
 
 2025 年 4 月 9 日

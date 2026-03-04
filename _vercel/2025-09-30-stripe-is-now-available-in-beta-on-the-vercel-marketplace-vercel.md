@@ -1,5 +1,6 @@
 ---
 title: "Stripe is now available in beta on the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/stripe-is-now-available-in-beta-on-the-vercel-marketplace"
 date: "2025-09-30"
@@ -9,6 +10,7 @@ translated: true
 description: "stripe claimable sandbox available on vercel marketplace and v0. You can test your flow fully in test mode and go claim it when ready to go live"
 ---
 
+render_with_liquid: false
 Sep 30, 2025
 
 2025年9月30日

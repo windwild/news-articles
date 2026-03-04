@@ -1,5 +1,6 @@
 ---
 title: "Detailed deployment summaries - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/detailed-deployment-summaries"
 date: "2023-04-25"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 25, 2023
 
 2023年4月25日

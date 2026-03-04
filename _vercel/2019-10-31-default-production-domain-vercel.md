@@ -1,5 +1,6 @@
 ---
 title: "Default Production Domain - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/default-production-domain"
 date: "2019-10-31"
@@ -9,6 +10,7 @@ translated: true
 description: "Every new project now receives a default production domain."
 ---
 
+render_with_liquid: false
 Oct 31, 2019
 
 2019年10月31日

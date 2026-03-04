@@ -1,5 +1,6 @@
 ---
 title: "Improving Deep Agents with harness engineering"
+render_with_liquid: false
 source: "LangChain Blog"
 url: "https://blog.langchain.com/improving-deep-agents-with-harness-engineering/"
 date: "2026-02-17"
@@ -9,6 +10,7 @@ translated: true
 description: "TLDR: Our coding agent went from Top 30 to Top 5 on Terminal Bench 2.0. We only changed the harness. Here&#x2019;s our approach to harness engineering (teaser: self-verification & tracing help a lot)...."
 ---
 
+render_with_liquid: false
 TLDR: Our coding agent went from Top 30 to Top 5 on [Terminal Bench 2.0](https://www.tbench.ai/leaderboard/terminal-bench/2.0?ref=blog.langchain.com). We only changed the harness. Here’s our approach to harness engineering (teaser: self-verification & tracing help a lot).
 
 TLDR：我们的编程智能体在 [Terminal Bench 2.0](https://www.tbench.ai/leaderboard/terminal-bench/2.0?ref=blog.langchain.com) 榜单中，排名从第 30 名跃升至前 5 名。我们仅调整了“harness”（执行框架）。以下是我们在 harness 工程化方面的实践思路（预告：自验证与追踪效果显著）。

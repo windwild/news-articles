@@ -1,5 +1,6 @@
 ---
 title: "Self-serve domain renewals and redemptions now available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/self-serve-domain-renewals-and-redemptions-now-available"
 date: "2025-01-21"
@@ -9,6 +10,7 @@ translated: true
 description: "Self-serve domain renewals and redemptions are now available directly in the Vercel dashboard, giving you the ability to manage domain lifecycle events without assistance."
 ---
 
+render_with_liquid: false
 Jan 21, 2025
 
 2025 年 1 月 21 日

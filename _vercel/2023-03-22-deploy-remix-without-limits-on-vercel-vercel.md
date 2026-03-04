@@ -1,5 +1,6 @@
 ---
 title: "Deploy Remix without limits on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support"
 date: "2023-03-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now has advanced Remix support, including SSR streaming with Edge Functions and multi-runtime support."
 ---
 
+render_with_liquid: false
 Mar 22, 2023
 
 2023 年 3 月 22 日

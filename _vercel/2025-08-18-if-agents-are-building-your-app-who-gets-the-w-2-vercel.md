@@ -1,5 +1,6 @@
 ---
 title: "If agents are building your app, who gets the W-2? - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/if-agents-are-building-your-app-who-gets-the-w-2"
 date: "2025-08-18"
@@ -9,6 +10,7 @@ translated: true
 description: "If agents can design, build, test, and deploy features, their work should be treated like a developer's under GAAP. With modern AI logging, you can tie usage directly to capitalizable development acti..."
 ---
 
+render_with_liquid: false
 Aug 18, 2025
 
 2025年8月18日

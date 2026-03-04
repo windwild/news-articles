@@ -1,5 +1,6 @@
 ---
 title: "Understanding the SameSite cookie attribute - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/understanding-the-samesite-cookie-attribute"
 date: "2023-10-02"
@@ -9,6 +10,7 @@ translated: true
 description: "Explore the SameSite cookie attribute's significance in ensuring web security and user privacy to strike the right balance between security and usability."
 ---
 
+render_with_liquid: false
 Oct 2, 2023
 
 2023年10月2日

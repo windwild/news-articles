@@ -1,5 +1,6 @@
 ---
 title: "Grep a million GitHub repositories via MCP - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/grep-a-million-github-repositories-via-mcp"
 date: "2025-07-17"
@@ -9,6 +10,7 @@ translated: true
 description: "Search 1M+ GitHub repositories from your AI agent using Grep's MCP server. Your agent can now reference coding patterns and solutions used in open source projects to solve problems."
 ---
 
+render_with_liquid: false
 Jul 17, 2025
 
 2025年7月17日

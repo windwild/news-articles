@@ -1,5 +1,6 @@
 ---
 title: "The no-nonsense approach to AI agent development - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/the-no-nonsense-approach-to-ai-agent-development"
 date: "2025-06-04"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how to build reliable, domain-specific AI agents by simulating tasks manually, structuring logic with code, and optimizing with real-world feedback. A clear, hands-on approach to practical autom..."
 ---
 
+render_with_liquid: false
 Jun 4, 2025
 
 2025 年 6 月 4 日

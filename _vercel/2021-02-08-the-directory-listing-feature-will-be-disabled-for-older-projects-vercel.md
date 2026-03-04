@@ -1,5 +1,6 @@
 ---
 title: "The Directory Listing feature will be disabled for older projects - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/the-directory-listing-feature-will-be-disabled-for-older-projects"
 date: "2021-02-08"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 8, 2021
 
 2021 年 2 月 8 日

@@ -1,5 +1,6 @@
 ---
 title: "Vercel acquires Splitbee to expand first-party analytics - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-acquires-splitbee"
 date: "2022-10-25"
@@ -9,6 +10,7 @@ translated: true
 description: "Introducing the next generation of Vercel Analytics"
 ---
 
+render_with_liquid: false
 Oct 25, 2022
 
 2022 年 10 月 25 日

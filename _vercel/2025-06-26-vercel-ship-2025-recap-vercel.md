@@ -1,5 +1,6 @@
 ---
 title: "Vercel Ship 2025 recap - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-ship-2025-recap"
 date: "2025-06-26"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Ship 2025 added new building blocks for an AI era: Fast, flexible, and secure by default. Lower costs with Fluid's Active CPU pricing, Rolling Releases for safer deployments, invisible CAPTCHA ..."
 ---
 
+render_with_liquid: false
 Jun 26, 2025
 
 2025年6月26日

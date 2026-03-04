@@ -1,5 +1,6 @@
 ---
 title: "Responsible Scaling Policy Version 3.0"
+render_with_liquid: false
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/responsible-scaling-policy-v3"
 scraped_at: "2026-03-02T09:21:05.525159586+00:00"
@@ -9,6 +10,7 @@ description: "An update to Anthropic's policy to mitigate catastrophic risks fro
 tags: ["Policy"]
 ---
 
+render_with_liquid: false
 PolicyAnnouncements
 
 # Anthropic’s Responsible Scaling Policy: Version 3.0

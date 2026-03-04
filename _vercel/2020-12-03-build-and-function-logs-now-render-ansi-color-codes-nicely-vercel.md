@@ -1,5 +1,6 @@
 ---
 title: "Build and Function Logs now render ANSI color codes nicely - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/build-and-function-logs-now-render-ansi-color-codes-nicely"
 date: "2020-12-03"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 3, 2020
 
 2020 年 12 月 3 日

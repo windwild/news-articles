@@ -1,5 +1,6 @@
 ---
 title: "Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/next5"
 date: "2018-02-05"
@@ -9,6 +10,7 @@ translated: true
 description: "Next.js 5 focuses on greater extensibility, composability for large applications and performance"
 ---
 
+render_with_liquid: false
 Feb 5, 2018
 
 2018 年 2 月 5 日

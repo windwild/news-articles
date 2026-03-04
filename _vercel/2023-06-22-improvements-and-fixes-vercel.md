@@ -1,5 +1,6 @@
 ---
 title: "Improvements and fixes - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improvements-and-fixes"
 date: "2023-06-22"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 22, 2023
 
 2023年6月22日

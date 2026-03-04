@@ -1,5 +1,6 @@
 ---
 title: "Deploying dreams: An inside look at a summer internship with Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/summer-internship-at-vercel"
 date: "2024-09-13"
@@ -9,6 +10,7 @@ translated: true
 description: "What's an internship like at Vercel? Hear firsthand from one of Vercel's summer interns what the process was like, what they worked on, and what they learned."
 ---
 
+render_with_liquid: false
 Sep 13, 2024
 
 2024年9月13日

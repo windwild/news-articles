@@ -1,5 +1,6 @@
 ---
 title: "Inspect Open Graph data with the Vercel Toolbar - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/inspect-open-graph-data-with-the-vercel-toolbar"
 date: "2024-05-20"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 20, 2024
 
 2024 年 5 月 20 日

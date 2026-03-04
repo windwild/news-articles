@@ -1,5 +1,6 @@
 ---
 title: "Supabase improves their DX with Turborepo - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-supabase-elevated-their-developer-experience-with-turborepo"
 date: "2023-01-24"
@@ -9,6 +10,7 @@ translated: true
 description: "Supabase and Turborepo"
 ---
 
+render_with_liquid: false
 Jan 24, 2023
 
 2023 年 1 月 24 日

@@ -1,5 +1,6 @@
 ---
 title: "Security through design: Creating the improved Firewall experience - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/security-through-design-improved-firewall-experience"
 date: "2025-11-24"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel introduces a new Firewall UI for better surfacing of events and alerts while providing deeper information on mitigation activity"
 ---
 
+render_with_liquid: false
 Nov 24, 2025
 
 2025 年 11 月 24 日

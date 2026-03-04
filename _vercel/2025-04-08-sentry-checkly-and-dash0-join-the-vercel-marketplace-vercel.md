@@ -1,5 +1,6 @@
 ---
 title: "Sentry, Checkly, and Dash0 join the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sentry-checkly-and-dash0-join-the-vercel-marketplace"
 date: "2025-04-08"
@@ -9,6 +10,7 @@ translated: true
 description: "The Observability category on the Vercel Marketplace brings native integrations from Sentry, Checkly, and Dash0, making it easier to monitor, debug, and optimize your applications—all in one place."
 ---
 
+render_with_liquid: false
 Apr 8, 2025
 
 2025 年 4 月 8 日

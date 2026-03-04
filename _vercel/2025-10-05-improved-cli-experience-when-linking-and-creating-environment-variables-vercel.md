@@ -1,5 +1,6 @@
 ---
 title: "Improved CLI experience when linking and creating environment variables​​​​‌‍​‍​‍‌‍ ‌​‍‌‍‍‌‌‍‌‌‍‍‌‌‍‍​‍​‍​‍‍​‍​‍‌‍​‌‍ ‌‍‍‌‌​‌‍‌‌‌‍‍‌‌​‌‍‌‍‌‌‌‌‍​​‍‍‌‍​‌‍ ‌‍‌​‍​‍​‍​​‍​‍‌‍‍​‌​‍‌‍‌‌‌‍‌‍​‍​‍​‍‍​‍​‍‌‍‍​‌‌​‌‌​‌​​‌​​‍‍​‍ ​‍ - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-cli-experience-when-linking-and-creating-environment-variables"
 date: "2025-10-05"
@@ -9,6 +10,7 @@ translated: true
 description: "The Vercel CLI 49.0.0 introduces standardized ls error handling along with improved project linking, environment variable syncing, and more reliable --repo behavior."
 ---
 
+render_with_liquid: false
 Oct 5, 2025
 
 2025年10月5日

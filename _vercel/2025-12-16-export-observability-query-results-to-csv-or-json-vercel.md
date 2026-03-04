@@ -1,5 +1,6 @@
 ---
 title: "Export Observability query results to CSV or JSON - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/export-observability-query-results-to-csv-or-json"
 date: "2025-12-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Export Observability query results as CSV or JSON files. Analyze, share, and process your data outside the dashboard."
 ---
 
+render_with_liquid: false
 Dec 16, 2025
 
 2025 年 12 月 16 日

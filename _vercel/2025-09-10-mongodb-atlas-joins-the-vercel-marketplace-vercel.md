@@ -1,5 +1,6 @@
 ---
 title: "MongoDB Atlas joins the Vercel Marketplace  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/mongodb-atlas-joins-the-vercel-marketplace"
 date: "2025-09-10"
@@ -9,6 +10,7 @@ translated: true
 description: "MongoDB Atlas is now available on the Vercel Marketplace, making it simple to provision and scale databases directly from your Vercel dashboard"
 ---
 
+render_with_liquid: false
 Sep 10, 2025
 
 2025年9月10日

@@ -1,5 +1,6 @@
 ---
 title: "Vercel MCP now in Public Beta - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercels-mcp"
 date: "2025-08-04"
@@ -9,6 +10,7 @@ translated: true
 description: "Connect your AI tools to Vercel using the Model Context Protocol (MCP), an open standard that lets AI assistants interact with your Vercel projects"
 ---
 
+render_with_liquid: false
 Aug 4, 2025
 
 2025年8月4日

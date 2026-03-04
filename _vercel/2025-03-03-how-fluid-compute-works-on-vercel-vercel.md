@@ -1,5 +1,6 @@
 ---
 title: "How Fluid compute works on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-fluid-compute-works-on-vercel"
 date: "2025-03-03"
@@ -9,6 +10,7 @@ translated: true
 description: "See how Fluid combines server efficiency and serverless flexibility by reusing compute before creating new resources, reducing cold starts, and running in unconstrained environments while staying secu..."
 ---
 
+render_with_liquid: false
 Mar 3, 2025
 
 2025 年 3 月 3 日

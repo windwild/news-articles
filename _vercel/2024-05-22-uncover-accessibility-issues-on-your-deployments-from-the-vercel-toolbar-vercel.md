@@ -1,5 +1,6 @@
 ---
 title: "Uncover accessibility issues on your deployments from the Vercel Toolbar - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/accessibility-tool"
 date: "2024-05-22"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 22, 2024
 
 2024 年 5 月 22 日

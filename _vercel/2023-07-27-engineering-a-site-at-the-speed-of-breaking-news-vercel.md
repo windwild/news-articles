@@ -1,5 +1,6 @@
 ---
 title: "Engineering a site at the speed of breaking news - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/washington-post-next.js-vercel-engineering-at-the-speed-of-breaking-news"
 date: "2023-07-27"
@@ -9,6 +10,7 @@ translated: true
 description: "The Washington Post paid off tech debt by migrating to Next.js and Vercel between primary season and the 2022 US midterm elections. "
 ---
 
+render_with_liquid: false
 Jul 27, 2023
 
 2023年7月27日

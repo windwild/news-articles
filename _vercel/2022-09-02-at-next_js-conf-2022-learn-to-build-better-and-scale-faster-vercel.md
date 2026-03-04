@@ -1,5 +1,6 @@
 ---
 title: "At Next.js Conf 2022, learn to build better and scale faster - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-conf-2022"
 date: "2022-09-02"
@@ -9,6 +10,7 @@ translated: true
 description: "Next.js Conf 2022: Presented by Vercel"
 ---
 
+render_with_liquid: false
 Sep 2, 2022
 
 2022年9月2日

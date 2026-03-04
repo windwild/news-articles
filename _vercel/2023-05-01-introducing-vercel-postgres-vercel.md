@@ -1,5 +1,6 @@
 ---
 title: "Introducing Vercel Postgres - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-postgres"
 date: "2023-05-01"
@@ -9,6 +10,7 @@ translated: true
 description: "Announcing Postgres storage on Vercel. Connect your projects to native storage solutions. Works with any frontend framework."
 ---
 
+render_with_liquid: false
 May 1, 2023
 
 2023年5月1日

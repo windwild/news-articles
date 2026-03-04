@@ -1,5 +1,6 @@
 ---
 title: "The two patterns by which agents connect sandboxes"
+render_with_liquid: false
 source: "LangChain Blog"
 url: "https://blog.langchain.com/the-two-patterns-by-which-agents-connect-sandboxes/"
 date: "2026-02-10"
@@ -9,6 +10,7 @@ translated: true
 description: "Thank you to Nuno Campos from Witan Labs, Tomas Beran and Mikayel Harutyunyan from E2B, Jonathan Wall from Runloop, and Ben Guo from Zo Computer for their review and comments.TL;DR:More and more agent..."
 ---
 
+render_with_liquid: false
 _Thank you to Nuno Campos from Witan Labs, Tomas Beran and Mikayel Harutyunyan from E2B, Jonathan Wall from Runloop, and Ben Guo from Zo Computer for their review and comments._
 
 感谢 Witan Labs 的 Nuno Campos、E2B 的 Tomas Beran 和 Mikayel Harutyunyan、Runloop 的 Jonathan Wall，以及 Zo Computer 的 Ben Guo 对本文的审阅与宝贵意见。

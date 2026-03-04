@@ -1,5 +1,6 @@
 ---
 title: "Security boundaries in agentic architectures - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/security-boundaries-in-agentic-architectures"
 date: "2026-02-24"
@@ -9,6 +10,7 @@ translated: true
 description: "A framework for drawing security boundaries in agentic architectures. Most agents run with zero isolation between the agent and the code it generates. Learn where to draw the boundaries, from secret i..."
 ---
 
+render_with_liquid: false
 Feb 24, 2026
 
 2026 年 2 月 24 日

@@ -1,5 +1,6 @@
 ---
 title: "Braintrust joins the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/braintrust-joins-the-vercel-marketplace"
 date: "2025-10-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Braintrust joins the Vercel Marketplace with native support for the Vercel AI SDK and AI Gateway, enabling developers to monitor, evaluate, and improve AI application performance in real time."
 ---
 
+render_with_liquid: false
 Oct 16, 2025
 
 2025年10月16日

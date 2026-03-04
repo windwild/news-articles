@@ -1,5 +1,6 @@
 ---
 title: "Zero-configuration support for NestJS - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/zero-configuration-support-for-nestjs"
 date: "2025-10-17"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now detects and deploys NestJS, a framework for building efficient, scalable Node.js server-side applications, with zero configuration."
 ---
 
+render_with_liquid: false
 Oct 17, 2025
 
 2025年10月17日

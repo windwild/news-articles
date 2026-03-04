@@ -1,5 +1,6 @@
 ---
 title: "Veo video models on AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/veo-video-models-on-ai-gateway"
 date: "2026-02-19"
@@ -9,6 +10,7 @@ translated: true
 description: "Generate photorealistic AI videos with the Veo models via Vercel AI Gateway. Text-to-video and image-to-video with native audio generation. Up to 4K resolution with fast mode options."
 ---
 
+render_with_liquid: false
 Feb 19, 2026
 
 2026年2月19日

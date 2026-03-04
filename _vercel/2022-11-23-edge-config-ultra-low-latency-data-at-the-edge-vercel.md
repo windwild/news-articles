@@ -1,5 +1,6 @@
 ---
 title: "Edge Config: Ultra-low latency data at the edge - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/edge-config-ultra-low-latency-data-at-the-edge"
 date: "2022-11-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Introducing a new data store built for near-instant reads at the edge"
 ---
 
+render_with_liquid: false
 Nov 23, 2022
 
 2022 年 11 月 23 日

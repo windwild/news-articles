@@ -1,5 +1,6 @@
 ---
 title: "The Anthropic Economic Index report: New building blocks for understanding AI use"
+render_with_liquid: false
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/economic-index-primitives"
 scraped_at: "2026-03-02T09:21:25.196726076+00:00"
@@ -8,6 +9,7 @@ translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
 
+render_with_liquid: false
 经济研究
 
 # Anthropic 经济指数：理解 AI 应用的新基石

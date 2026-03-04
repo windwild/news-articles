@@ -1,5 +1,6 @@
 ---
 title: "Filter by custom date ranges in Speed Insights - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-by-custom-date-ranges-in-speed-insights"
 date: "2024-10-29"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 29, 2024
 
 2024年10月29日

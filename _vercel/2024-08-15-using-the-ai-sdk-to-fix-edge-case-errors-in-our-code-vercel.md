@@ -1,5 +1,6 @@
 ---
 title: "Using the AI SDK to fix edge-case errors in our code - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/using-the-ai-sdk-to-fix-edge-case-errors-in-our-code"
 date: "2024-08-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Leveraging the AI SDK to build with and solve problems with AI"
 ---
 
+render_with_liquid: false
 Aug 15, 2024
 
 2024年8月15日

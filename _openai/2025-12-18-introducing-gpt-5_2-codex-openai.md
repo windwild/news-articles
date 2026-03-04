@@ -1,5 +1,6 @@
 ---
 title: "Introducing GPT-5.2-Codex | OpenAI"
+render_with_liquid: false
 source: "OpenAI Blog"
 url: "https://openai.com/index/introducing-gpt-5-2-codex"
 date: "2025-12-18"
@@ -10,6 +11,7 @@ description: "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering l
 tags: ["Product"]
 ---
 
+render_with_liquid: false
 December 18, 2025
 
 2025年12月18日

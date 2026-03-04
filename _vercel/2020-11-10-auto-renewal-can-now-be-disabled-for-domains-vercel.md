@@ -1,5 +1,6 @@
 ---
 title: "Auto Renewal can now be disabled for Domains - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/auto-renewal-can-now-be-disabled-for-domains"
 date: "2020-11-10"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 10, 2020
 
 2020 年 11 月 10 日

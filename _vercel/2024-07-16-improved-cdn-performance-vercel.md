@@ -1,5 +1,6 @@
 ---
 title: "Improved CDN Performance - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-cdn-performance"
 date: "2024-07-16"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 16, 2024
 
 2024 年 7 月 16 日

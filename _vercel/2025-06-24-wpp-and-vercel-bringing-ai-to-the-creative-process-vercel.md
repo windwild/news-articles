@@ -1,5 +1,6 @@
 ---
 title: "WPP and Vercel: Bringing AI to the creative process - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/wpp-and-vercel-bringing-ai-to-the-creative-process"
 date: "2025-06-24"
@@ -9,6 +10,7 @@ translated: true
 description: "Announcing an expansion of our partnership with WPP, a first-of-its-kind agency collaboration that now brings v0 and AI SDK directly to WPP's global network of creative teams and their clients."
 ---
 
+render_with_liquid: false
 Jun 24, 2025
 
 2025年6月24日

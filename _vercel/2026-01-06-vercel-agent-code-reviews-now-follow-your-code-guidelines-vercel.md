@@ -1,5 +1,6 @@
 ---
 title: "Vercel Agent code reviews now follow your code guidelines - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-agent-code-reviews-now-follow-your-code-guidelines"
 date: "2026-01-06"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Agent code reviews now read AGENTS.md, CLAUDE.md, .cursorrules, and other guideline formats from your repository. No configuration required."
 ---
 
+render_with_liquid: false
 Jan 6, 2026
 
 2026 年 1 月 6 日

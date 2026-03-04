@@ -1,5 +1,6 @@
 ---
 title: "vlt is now available in builds via zero configuration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vlt-is-now-available-in-builds-via-zero-configuration"
 date: "2025-08-08"
@@ -9,6 +10,7 @@ translated: true
 description: "The package manager vlt is now available as a zero-config option, auto detected based on the presence of a lockfile in your build."
 ---
 
+render_with_liquid: false
 Aug 8, 2025
 
 2025 年 8 月 8 日

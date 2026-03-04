@@ -1,5 +1,6 @@
 ---
 title: "Introducing the Vercel Web Application Firewall - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-vercel-waf"
 date: "2024-05-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Introducing the Vercel Web Application Firewall: application-aware, Vercel-native protection that brings the web one step closer to being secure by default."
 ---
 
+render_with_liquid: false
 May 23, 2024
 
 2024 年 5 月 23 日

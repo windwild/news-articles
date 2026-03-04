@@ -1,5 +1,6 @@
 ---
 title: "Improved log visibility for function durations and memory - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/improved-log-visibility-for-function-durations-and-memory"
 date: "2025-01-13"
@@ -9,6 +10,7 @@ translated: true
 description: "Logs now indicate function durations against their maximums for each request using a Vercel Function."
 ---
 
+render_with_liquid: false
 Jan 13, 2025
 
 2025年1月13日

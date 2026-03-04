@@ -1,5 +1,6 @@
 ---
 title: "Blog - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-the-web-evolves"
 date: "2022-02-02"
@@ -9,6 +10,7 @@ translated: true
 description: "Blog posts from the Vercel team and community. Discover the latest in web development."
 ---
 
+render_with_liquid: false
 # 2月9日  
 # 2月9日  
 

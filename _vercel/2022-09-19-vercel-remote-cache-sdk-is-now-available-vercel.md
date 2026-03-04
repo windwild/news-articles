@@ -1,5 +1,6 @@
 ---
 title: "Vercel Remote Cache SDK is now available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-remote-cache-sdk-is-now-available"
 date: "2022-09-19"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Sep 19, 2022
 
 2022 年 9 月 19 日

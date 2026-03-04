@@ -1,5 +1,6 @@
 ---
 title: "Build cache storage increased for larger build machines - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/build-cache-storage-increased-for-larger-build-machines"
 date: "2026-01-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Projects using larger build machines now get higher build cache storage limits, at no additional charge."
 ---
 
+render_with_liquid: false
 Jan 12, 2026
 
 2026 年 1 月 12 日

@@ -1,5 +1,6 @@
 ---
 title: "React Server Components security update: DoS and Source Code Exposure - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/react-server-components-security-update-dos-and-source-code-exposure"
 date: "2025-12-11"
@@ -9,6 +10,7 @@ translated: true
 description: "Two additional vulnerabilities in React Server Components have been identified: CVE-2025-55184 and CVE-2025-55183"
 ---
 
+render_with_liquid: false
 Dec 11, 2025
 
 2025 年 12 月 11 日

@@ -1,5 +1,6 @@
 ---
 title: "Up to 5 TB file transfers with Blob multipart uploads - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/5tb-file-transfers-with-vercel-blob-multipart-uploads"
 date: "2024-01-17"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jan 17, 2024
 
 2024 年 1 月 17 日

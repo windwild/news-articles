@@ -1,5 +1,6 @@
 ---
 title: "Refined Logging on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/refined-logging"
 date: "2020-03-11"
@@ -9,6 +10,7 @@ translated: true
 description: "The refined UI for Build and Serverless Function logs makes consuming logs a pleasure."
 ---
 
+render_with_liquid: false
 Mar 11, 2020
 
 2020年3月11日

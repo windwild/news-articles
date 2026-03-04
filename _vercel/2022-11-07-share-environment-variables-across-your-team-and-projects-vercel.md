@@ -1,5 +1,6 @@
 ---
 title: "Share environment variables across your Team and Projects - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/share-environment-variables-across-your-team-and-projects"
 date: "2022-11-07"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 7, 2022
 
 2022 年 11 月 7 日

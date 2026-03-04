@@ -1,5 +1,6 @@
 ---
 title: "Build and deploy data applications on Snowflake with v0 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/build-and-deploy-data-applications-on-snowflake-with-v0"
 date: "2025-11-04"
@@ -9,6 +10,7 @@ translated: true
 description: "The v0 Snowflake integration lets you build and deploy Next.js data applications with natural language. Your data stays secure in your Snowflake account."
 ---
 
+render_with_liquid: false
 Nov 4, 2025
 
 2025 年 11 月 4 日

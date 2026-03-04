@@ -1,5 +1,6 @@
 ---
 title: "Protecting AI apps from bots and bad actors with Vercel and Kasada - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/protecting-ai-apps-with-vercel-and-kasada"
 date: "2024-03-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how Vercel protects the AI SDK Playground using our best-in-class DDoS mitigation, Next.js Middleware, and our partner Kasada."
 ---
 
+render_with_liquid: false
 Mar 22, 2024
 
 2024 年 3 月 22 日

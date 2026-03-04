@@ -1,5 +1,6 @@
 ---
 title: "Enterprise customers can now transfer projects - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enterprise-customers-can-now-transfer-projects"
 date: "2022-02-24"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 24, 2022
 
 2022 年 2 月 24 日

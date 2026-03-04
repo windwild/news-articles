@@ -1,5 +1,6 @@
 ---
 title: "Sunsetting the OAuth2 integration entrypoint - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/sunsetting-the-oauth2-integration-entrypoint"
 date: "2022-06-14"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jun 14, 2022
 
 2022 年 6 月 14 日

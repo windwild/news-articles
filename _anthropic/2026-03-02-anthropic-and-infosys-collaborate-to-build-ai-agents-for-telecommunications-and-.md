@@ -1,5 +1,6 @@
 ---
 title: "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries"
+render_with_liquid: false
 source: "Anthropic News"
 url: "https://www.anthropic.com/news/anthropic-infosys"
 scraped_at: "2026-03-02T09:21:05.271941866+00:00"
@@ -9,6 +10,7 @@ description: "Anthropic is an AI safety and research company that's working to b
 tags: ["Announcements"]
 ---
 
+render_with_liquid: false
 Announcements
 
 公告

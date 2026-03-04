@@ -1,5 +1,6 @@
 ---
 title: "Faster builds with per-branch caching - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/faster-builds-with-per-branch-caching"
 date: "2021-03-16"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Mar 16, 2021
 
 2021 年 3 月 16 日

@@ -1,5 +1,6 @@
 ---
 title: "How the at-home workout sensation, Hydrow, cut authoring times from weeks to minutes - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/hydrow"
 date: "2023-09-11"
@@ -9,6 +10,7 @@ translated: true
 description: "Hydrow gains a seamless publishing workflow. Learn how this team succeeded in their mission to create the ultimate composable ecommerce workflow."
 ---
 
+render_with_liquid: false
 Sep 11, 2023
 
 2023 年 9 月 11 日

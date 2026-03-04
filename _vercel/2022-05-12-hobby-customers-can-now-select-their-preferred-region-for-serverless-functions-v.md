@@ -1,5 +1,6 @@
 ---
 title: "Hobby customers can now select their preferred region for Serverless Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/hobby-customers-can-now-select-their-preferred-region-for-serverless"
 date: "2022-05-12"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 12, 2022
 
 2022年5月12日

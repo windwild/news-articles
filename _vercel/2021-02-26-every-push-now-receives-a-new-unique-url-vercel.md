@@ -1,5 +1,6 @@
 ---
 title: "Every push now receives a new unique URL - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/every-push-now-receives-a-unique-url"
 date: "2021-02-26"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 26, 2021
 
 2021年2月26日

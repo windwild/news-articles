@@ -1,5 +1,6 @@
 ---
 title: "Log Drains are now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/log-drains-are-now-generally-available"
 date: "2024-05-23"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 May 23, 2024
 
 2024 年 5 月 23 日

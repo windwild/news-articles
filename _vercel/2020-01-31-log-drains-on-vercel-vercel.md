@@ -1,5 +1,6 @@
 ---
 title: "Log Drains on Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/log-drains"
 date: "2020-01-31"
@@ -9,6 +10,7 @@ translated: true
 description: "Easily forward and collect your logs using Log Drains."
 ---
 
+render_with_liquid: false
 Jan 31, 2020
 
 2020 年 1 月 31 日

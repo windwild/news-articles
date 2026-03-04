@@ -1,5 +1,6 @@
 ---
 title: "New deployments of vulnerable Next.js applications are now blocked by default - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-deployments-of-vulnerable-next-js-applications-are-now-blocked-by"
 date: "2025-12-05"
@@ -9,6 +10,7 @@ translated: true
 description: "Any new deployment containing a version of Next.js that is vulnerable to CVE-2025-66478 will now automatically fail to deploy on Vercel."
 ---
 
+render_with_liquid: false
 Dec 5, 2025
 
 2025 年 12 月 5 日

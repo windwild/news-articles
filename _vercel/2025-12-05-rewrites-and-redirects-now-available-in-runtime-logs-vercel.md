@@ -1,5 +1,6 @@
 ---
 title: "Rewrites and redirects now available in runtime logs - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/rewrites-and-redirects-now-available-in-runtime-logs"
 date: "2025-12-05"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now view rewrites and redirects made by your application in the Vercel dashboard on Runtime Logs"
 ---
 
+render_with_liquid: false
 Dec 5, 2025
 
 2025 年 12 月 5 日

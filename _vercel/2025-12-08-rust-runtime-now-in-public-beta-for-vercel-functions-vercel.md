@@ -1,5 +1,6 @@
 ---
 title: "Rust runtime now in public beta for Vercel Functions - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/rust-runtime-now-in-public-beta-for-vercel-functions"
 date: "2025-12-08"
@@ -9,6 +10,7 @@ translated: true
 description: "The Rust runtime is now available in public beta for Vercel Functions. Now powered by Fluid compute."
 ---
 
+render_with_liquid: false
 Dec 8, 2025
 
 2025 年 12 月 8 日

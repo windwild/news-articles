@@ -1,5 +1,6 @@
 ---
 title: "Leonardo generates 4.5M images daily with Next.js and Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/leonardo-ai-performantly-generates-4-5-million-images-daily-with-next-js-and-vercel"
 date: "2024-03-18"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how Leonardo.Ai leveraged Vercel to reduce build times, speed up page performance, and improve their developer experience."
 ---
 
+render_with_liquid: false
 Mar 18, 2024
 
 2024年3月18日

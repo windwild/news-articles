@@ -1,5 +1,6 @@
 ---
 title: "Chat with Vercel Marketplace integrations using Vercel Agent - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/chat-with-vercel-marketplace-integrations-using-vercel-agent"
 date: "2025-12-18"
@@ -9,6 +10,7 @@ translated: true
 description: "Agent Tools for Marketplace Integrations part of vercel agent tools and dashboard , featured on integration page for providers"
 ---
 
+render_with_liquid: false
 Dec 18, 2025
 
 2025 年 12 月 18 日

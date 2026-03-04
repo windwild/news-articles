@@ -1,5 +1,6 @@
 ---
 title: "Updates to Vercel Toolbar shortcuts - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/updates-to-vercel-toolbar-shortcuts"
 date: "2025-04-24"
@@ -9,6 +10,7 @@ translated: true
 description: "The Vercel Toolbar now lets users set custom keyboard shortcuts to show and hide the Toolbar Menu, and add shortcuts for frequently used tools. The default shortcut to open the Toolbar Menu also chang..."
 ---
 
+render_with_liquid: false
 Apr 24, 2025
 
 2025年4月24日

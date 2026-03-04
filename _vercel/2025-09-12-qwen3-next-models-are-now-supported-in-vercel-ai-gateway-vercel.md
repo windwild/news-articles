@@ -1,5 +1,6 @@
 ---
 title: "Qwen3-Next models are now supported in Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/qwen3-next-models-are-now-supported-in-vercel-ai-gateway"
 date: "2025-09-12"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access Qwen3 Next, two models from QwenLM, designed to be ultra-efficient, using Vercel's AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Sep 12, 2025
 
 2025 年 9 月 12 日

@@ -1,5 +1,6 @@
 ---
 title: "Trusted IPs for Deployment Protection is now Generally Available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/trusted-ips-is-now-generally-available-for-enterprise-customers"
 date: "2023-11-02"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 2, 2023
 
 2023 年 11 月 2 日

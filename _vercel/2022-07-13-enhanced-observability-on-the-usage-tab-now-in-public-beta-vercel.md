@@ -1,5 +1,6 @@
 ---
 title: "Enhanced observability on the Usage tab now in public beta - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/enhanced-observability-on-the-usage-tab"
 date: "2022-07-13"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 13, 2022
 
 2022 年 7 月 13 日

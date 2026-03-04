@@ -1,5 +1,6 @@
 ---
 title: "Keeping community human while scaling with agents - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/keeping-community-human-while-scaling-with-agents"
 date: "2026-02-27"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how Vercel scales community support with AI agents. We automated logistics to reclaim human focus, empowering our team to solve complex problems"
 ---
 
+render_with_liquid: false
 Feb 27, 2026
 
 2026 年 2 月 27 日

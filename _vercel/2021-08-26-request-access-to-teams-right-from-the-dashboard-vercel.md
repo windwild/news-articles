@@ -1,5 +1,6 @@
 ---
 title: "Request access to Teams right from the Dashboard - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/request-access-to-teams-right-from-the-dashboard"
 date: "2021-08-26"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Aug 26, 2021
 
 2021年8月26日

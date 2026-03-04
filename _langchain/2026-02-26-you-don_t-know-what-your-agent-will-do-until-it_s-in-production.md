@@ -1,5 +1,6 @@
 ---
 title: "You don’t know what your agent will do until it’s in production"
+render_with_liquid: false
 source: "LangChain Blog"
 url: "https://blog.langchain.com/you-dont-know-what-your-agent-will-do-until-its-in-production/"
 date: "2026-02-26"
@@ -9,6 +10,7 @@ translated: true
 description: "You can't monitor agents like traditional software. Inputs are infinite, behavior is non-deterministic, and quality lives in the conversations themselves. This article explains what to monitor, how to..."
 ---
 
+render_with_liquid: false
 When you ship traditional software to production, you have a good sense of what to expect. Users click buttons, fill out forms, navigate through predetermined paths. Your test suite might cover 80-90% of code paths, and monitoring tools track the usual suspects: error rates, response times, database queries. When something breaks, you look at stack traces and logs.
 
 当您将传统软件部署到生产环境时，通常能较好地预判其行为。用户点击按钮、填写表单、沿预设路径导航。您的测试套件可能覆盖了 80–90% 的代码路径，而监控工具则追踪常规指标：错误率、响应时间、数据库查询等。一旦出现问题，您会查看堆栈跟踪（stack traces）和日志。

@@ -1,5 +1,6 @@
 ---
 title: "Monitoring pricing reduced up to 87% - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/monitoring-pricing-reduced-up-to-87"
 date: "2024-12-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Monitoring pricing has been reduced to $1.20 per million events and is now part of Observability Plus."
 ---
 
+render_with_liquid: false
 Dec 12, 2024
 
 2024 年 12 月 12 日

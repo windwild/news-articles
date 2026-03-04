@@ -1,5 +1,6 @@
 ---
 title: "New monorepo projects now skip builds with unchanged code by default - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/new-monorepo-projects-now-skip-builds-with-unchanged-code-by-default"
 date: "2025-02-24"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now defaults to skipping builds for unchanged code in monorepos, reducing queue times and improving efficiency. Additionally, the setting for this behavior has been added to the Vercel Terrafor..."
 ---
 
+render_with_liquid: false
 Feb 24, 2025
 
 2025 年 2 月 24 日

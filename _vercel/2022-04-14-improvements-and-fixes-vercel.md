@@ -1,5 +1,6 @@
 ---
 title: "Improvements and fixes - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/april-2022-papercuts"
 date: "2022-04-14"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 14, 2022
 
 2022年4月14日

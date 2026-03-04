@@ -1,5 +1,6 @@
 ---
 title: "Build an interactive WebGL experience with Next.js - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-an-interactive-webgl-experience-in-next-js"
 date: "2022-10-21"
@@ -9,6 +10,7 @@ translated: true
 description: "Use interactive code sandboxes to build the Next.js Conf registration prism game."
 ---
 
+render_with_liquid: false
 Oct 21, 2022
 
 2022 年 10 月 21 日

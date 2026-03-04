@@ -1,5 +1,6 @@
 ---
 title: "Introducing Vercel AI SDK 3.2 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-vercel-ai-sdk-3-2"
 date: "2024-06-18"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel AI SDK 3.2 enables agent and embeddings workflows while improving provider support and DX. "
 ---
 
+render_with_liquid: false
 Jun 18, 2024
 
 2024 年 6 月 18 日

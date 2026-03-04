@@ -1,5 +1,6 @@
 ---
 title: "Axiom is joining the Vercel marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/axiom-is-joining-the-vercel-marketplace"
 date: "2022-04-26"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 26, 2022
 
 2022 年 4 月 26 日

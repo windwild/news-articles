@@ -1,5 +1,6 @@
 ---
 title: "Anomaly alerts now available via email - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/anomaly-alerts-now-available-via-email"
 date: "2025-10-07"
@@ -9,6 +10,7 @@ translated: true
 description: "Subscribe to receive alerts by email when anomalous spikes in usage or HTTP 500 errors occur on your Vercel projects."
 ---
 
+render_with_liquid: false
 Oct 7, 2025
 
 2025 年 10 月 7 日

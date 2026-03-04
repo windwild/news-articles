@@ -1,5 +1,6 @@
 ---
 title: "Python Vercel Functions now have streaming enabled by default - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/python-vercel-functions-now-have-streaming-enabled-by-default"
 date: "2025-01-06"
@@ -9,6 +10,7 @@ translated: true
 description: "Streaming is now enabled by default for all Vercel Functions using the Python runtime. Python functions can now send data to the client as it’s generated, rather than waiting for the entire response..."
 ---
 
+render_with_liquid: false
 Jan 6, 2025
 
 2025 年 1 月 6 日

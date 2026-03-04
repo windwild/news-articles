@@ -1,5 +1,6 @@
 ---
 title: "Just another (Black) Friday - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/just-another-black-friday"
 date: "2025-10-15"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel customers can treat Black Friday like just another day, ready to scale to billions of requests."
 ---
 
+render_with_liquid: false
 Oct 15, 2025
 
 2025 年 10 月 15 日

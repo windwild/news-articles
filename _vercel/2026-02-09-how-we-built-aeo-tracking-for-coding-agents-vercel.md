@@ -1,5 +1,6 @@
 ---
 title: "How we built AEO tracking for coding agents - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-we-built-aeo-tracking-for-coding-agents"
 date: "2026-02-09"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn how we built an AI Engine Optimization system to track coding agents using Vercel Sandbox, AI Gateway, and Workflows for isolated execution."
 ---
 
+render_with_liquid: false
 Feb 9, 2026
 
 2026 年 2 月 9 日

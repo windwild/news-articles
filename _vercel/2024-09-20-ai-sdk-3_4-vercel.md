@@ -1,5 +1,6 @@
 ---
 title: "AI SDK 3.4 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/ai-sdk-3-4"
 date: "2024-09-20"
@@ -9,6 +10,7 @@ translated: true
 description: "AI SDK 3.4 introduces middleware, data stream protocol, and multi-step generations"
 ---
 
+render_with_liquid: false
 Sep 20, 2024
 
 2024 年 9 月 20 日

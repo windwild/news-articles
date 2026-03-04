@@ -1,5 +1,6 @@
 ---
 title: "Introducing the Montréal, Canada region (yul1)  - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/introducing-the-montreal-canada-vercel-region-yul1"
 date: "2026-01-20"
@@ -9,6 +10,7 @@ translated: true
 description: "Montréal (yul1) is now part of Vercel’s global edge network, improving latency for users in Central Canada"
 ---
 
+render_with_liquid: false
 Jan 20, 2026
 
 2026 年 1 月 20 日

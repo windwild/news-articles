@@ -1,5 +1,6 @@
 ---
 title: "Redeploy without leaving project settings - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/redeploy-without-leaving-project-settings"
 date: "2025-02-12"
@@ -9,6 +10,7 @@ translated: true
 description: "When you modify project settings that require a redeploy, like adding new production environment variables, you will get a toast notification prompting you to redeploy immediately"
 ---
 
+render_with_liquid: false
 Feb 12, 2025
 
 2025 年 2 月 12 日

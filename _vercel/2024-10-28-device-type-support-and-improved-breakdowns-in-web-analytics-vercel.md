@@ -1,5 +1,6 @@
 ---
 title: "Device type support and improved breakdowns in Web Analytics - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/device-type-support-and-improved-breakdowns-in-web-analytics"
 date: "2024-10-28"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 28, 2024
 
 2024年10月28日

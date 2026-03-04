@@ -1,5 +1,6 @@
 ---
 title: "How Remote Caching decreased publish times by 80% - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/turborepo-remote-cache-nextjs-publish-times-80-percent"
 date: "2022-12-22"
@@ -9,6 +10,7 @@ translated: true
 description: "The Next.js release process got 80% faster using Turborepo Remote Caching."
 ---
 
+render_with_liquid: false
 Dec 22, 2022
 
 2022 年 12 月 22 日

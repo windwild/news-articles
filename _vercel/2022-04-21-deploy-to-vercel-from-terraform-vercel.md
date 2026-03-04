@@ -1,5 +1,6 @@
 ---
 title: "Deploy to Vercel from Terraform - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deploy-to-vercel-from-terraform"
 date: "2022-04-21"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 21, 2022
 
 2022 年 4 月 21 日

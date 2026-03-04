@@ -1,5 +1,6 @@
 ---
 title: "Edge Config is now in public beta - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/edge-config-is-now-in-public-beta"
 date: "2022-12-15"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Dec 15, 2022
 
 2022 年 12 月 15 日

@@ -1,5 +1,6 @@
 ---
 title: "Three Improvements to Project Creation & Git Integration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/three-improvements-to-vercel-project-creation-vercel-git-integration"
 date: "2020-12-18"
@@ -9,6 +10,7 @@ translated: true
 description: "We've improved the developer experience by introducing three updates that apply to all users on Hobby, Pro, and Enterprise plans."
 ---
 
+render_with_liquid: false
 Dec 18, 2020
 
 2020 年 12 月 18 日

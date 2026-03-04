@@ -1,5 +1,6 @@
 ---
 title: "The spring 2025 cohort of Vercel’s Open Source Program - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/spring25-oss-program"
 date: "2025-05-12"
@@ -9,6 +10,7 @@ translated: true
 description: "Announcing the spring 2025 cohort of Vercel's Open Source Program. Open source community frameworks, libraries, and tools we rely on every day to build the web,"
 ---
 
+render_with_liquid: false
 May 12, 2025
 
 2025 年 5 月 12 日

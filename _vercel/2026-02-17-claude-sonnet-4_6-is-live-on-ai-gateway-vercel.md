@@ -1,5 +1,6 @@
 ---
 title: "Claude Sonnet 4.6 is live on AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/claude-sonnet-4-6-is-live-on-ai-gateway"
 date: "2026-02-17"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access Anthropic's newest model Claude Sonnet 4.6 via Vercel's AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Feb 17, 2026
 
 2026年2月17日

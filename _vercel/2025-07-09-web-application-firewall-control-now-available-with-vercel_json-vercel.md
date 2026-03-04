@@ -1,5 +1,6 @@
 ---
 title: "Web Application Firewall control now available with vercel.json - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/web-application-firewall-control-now-available-with-vercel-json"
 date: "2025-07-09"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now configure firewall mitigation rules through your vercel.json project configuration file. This is in addition to the existing dashboard and API support."
 ---
 
+render_with_liquid: false
 Jul 9, 2025
 
 2025 年 7 月 9 日

@@ -1,5 +1,6 @@
 ---
 title: "Building the most ambitious sites on the Web with Vercel and Next.js 14 - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/building-the-most-ambitious-sites-on-the-web-with-vercel-and-next-js-14"
 date: "2023-11-06"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel and Next.js 14: Server Actions, Experimental Partial Prerendering, Next.js faster startups, and other announcements."
 ---
 
+render_with_liquid: false
 Nov 6, 2023
 
 2023 年 11 月 6 日

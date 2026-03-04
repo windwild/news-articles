@@ -1,5 +1,6 @@
 ---
 title: "Backups now available for Vercel Edge Config - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/backups-now-available-for-vercel-edge-config"
 date: "2023-11-08"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 8, 2023
 
 2023 年 11 月 8 日

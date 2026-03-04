@@ -1,5 +1,6 @@
 ---
 title: "Inspect and validate Open Graph metadata for enhanced link sharing - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/open-graph-link-sharing-inspector"
 date: "2023-04-28"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 28, 2023
 
 2023年4月28日

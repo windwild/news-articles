@@ -1,5 +1,6 @@
 ---
 title: "Clerk joins the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/clerk-joins-the-vercel-marketplace"
 date: "2025-07-14"
@@ -9,6 +10,7 @@ translated: true
 description: "Clerk is now available on the Vercel Marketplace, add secure auth, user management, and SSO to your app with a native integration and fully integrated billing."
 ---
 
+render_with_liquid: false
 Jul 14, 2025
 
 2025年7月14日

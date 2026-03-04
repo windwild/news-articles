@@ -1,5 +1,6 @@
 ---
 title: "Measuring AI agent autonomy in practice"
+render_with_liquid: false
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/measuring-agent-autonomy"
 scraped_at: "2026-03-02T09:21:16.665678093+00:00"
@@ -8,6 +9,7 @@ translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
 
+render_with_liquid: false
 社会影响
 
 # 在实践中衡量 AI 代理的自主性

@@ -1,5 +1,6 @@
 ---
 title: "IP Geolocation now available for all plans - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/ip-geolocation-now-available-for-all-plans"
 date: "2021-11-12"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 12, 2021
 
 2021 年 11 月 12 日

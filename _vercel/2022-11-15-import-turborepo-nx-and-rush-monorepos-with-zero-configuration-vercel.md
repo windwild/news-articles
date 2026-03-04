@@ -1,5 +1,6 @@
 ---
 title: "Import Turborepo, Nx, and Rush monorepos with zero configuration - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/import-turborepo-nx-and-rush-monorepos-with-zero-configuration"
 date: "2022-11-15"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Nov 15, 2022
 
 2022 年 11 月 15 日

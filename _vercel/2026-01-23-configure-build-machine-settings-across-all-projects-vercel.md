@@ -1,5 +1,6 @@
 ---
 title: "Configure build machine settings across all projects - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/configure-build-machine-settings-across-all-projects"
 date: "2026-01-23"
@@ -9,6 +10,7 @@ translated: true
 description: "Manage build and deployment settings across all Vercel projects at once. Configure Build Machines and On-Demand Concurrent Builds from a single place."
 ---
 
+render_with_liquid: false
 Jan 23, 2026
 
 2026 年 1 月 23 日

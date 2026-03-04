@@ -1,5 +1,6 @@
 ---
 title: "Javascript SEO: How Google Crawls, Renders & Indexes JS - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process"
 date: "2024-07-31"
@@ -9,6 +10,7 @@ translated: true
 description: "Over the years, Google's treatment of JavaScript has changed, leaving us with misconceptions of how it's indexed. Here, we debunk the myths."
 ---
 
+render_with_liquid: false
 Jul 31, 2024
 
 2024 年 7 月 31 日

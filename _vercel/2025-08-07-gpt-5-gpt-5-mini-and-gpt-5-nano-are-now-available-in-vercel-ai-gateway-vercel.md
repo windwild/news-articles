@@ -1,5 +1,6 @@
 ---
 title: "GPT-5, GPT-5-mini, and GPT-5-nano are now available in Vercel AI Gateway - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/gpt-5-gpt-5-mini-and-gpt-5-nano-are-now-available-in-vercel-ai-gateway"
 date: "2025-08-07"
@@ -9,6 +10,7 @@ translated: true
 description: "You can now access the gpt-5 models by OpenAI, their most advanced models pushing the frontier of reasoning and domain expertise, using Vercel's AI Gateway with no other provider accounts required."
 ---
 
+render_with_liquid: false
 Aug 7, 2025
 
 2025 年 8 月 7 日

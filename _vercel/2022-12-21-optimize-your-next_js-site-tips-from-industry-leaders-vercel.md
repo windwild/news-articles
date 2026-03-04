@@ -1,5 +1,6 @@
 ---
 title: "Optimize your Next.js site: Tips from industry leaders - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/optimize-your-nextjs-site"
 date: "2022-12-21"
@@ -9,6 +10,7 @@ translated: true
 description: "Hear from industry leaders on how you can best use React Server Components, the latest in Web UI, powerful layouts, and more to create a fast site."
 ---
 
+render_with_liquid: false
 Dec 21, 2022
 
 2022年12月21日

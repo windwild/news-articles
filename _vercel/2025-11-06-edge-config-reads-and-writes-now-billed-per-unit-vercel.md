@@ -1,5 +1,6 @@
 ---
 title: "Edge Config reads and writes now billed per unit - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/pro-edge-config-pricing"
 date: "2025-11-06"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel changes Edge Config Reads and Writes to granular usage based billing for increased flexibility and scalability "
 ---
 
+render_with_liquid: false
 Nov 6, 2025
 
 2025 年 11 月 6 日

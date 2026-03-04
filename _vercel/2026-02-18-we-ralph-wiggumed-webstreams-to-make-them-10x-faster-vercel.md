@@ -1,5 +1,6 @@
 ---
 title: "We Ralph Wiggumed WebStreams to make them 10x faster - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/we-ralph-wiggumed-webstreams-to-make-them-10x-faster"
 date: "2026-02-18"
@@ -9,6 +10,7 @@ translated: true
 description: "WebStreams had too much overhead on the server. We built a faster implementation. See how we achieved 10-14x gains in Next.js rendering benchmarks."
 ---
 
+render_with_liquid: false
 Feb 18, 2026
 
 2026 年 2 月 18 日

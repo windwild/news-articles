@@ -1,5 +1,6 @@
 ---
 title: "Deployment filters for project dashboard - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/deployment-filters-for-project-dashboard"
 date: "2022-04-25"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Apr 25, 2022
 
 2022 年 4 月 25 日

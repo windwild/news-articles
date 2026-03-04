@@ -1,5 +1,6 @@
 ---
 title: "Invite collaborators to view and comment on your deployments - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/invite-collaborators-to-view-and-comment-on-your-deployments"
 date: "2024-02-06"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 6, 2024
 
 2024 年 2 月 6 日

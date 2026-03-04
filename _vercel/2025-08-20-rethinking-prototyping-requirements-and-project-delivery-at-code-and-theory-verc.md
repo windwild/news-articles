@@ -1,5 +1,6 @@
 ---
 title: "Rethinking prototyping, requirements, and project delivery at Code and Theory - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/rethinking-prototyping-requirements-and-project-delivery-at-code-and-theory"
 date: "2025-08-20"
@@ -9,6 +10,7 @@ translated: true
 description: "How the agency, Code and Theory, cuts time-to-prototype by 75% and moves faster from idea to execution"
 ---
 
+render_with_liquid: false
 Aug 20, 2025
 
 2025年8月20日

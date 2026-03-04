@@ -1,5 +1,6 @@
 ---
 title: "Build logs now support interactive links - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/build-logs-now-support-interactive-links"
 date: "2026-02-04"
@@ -9,6 +10,7 @@ translated: true
 description: "Click URLs directly in build logs to navigate to internal and external resources instantly. No more manual copying and pasting required."
 ---
 
+render_with_liquid: false
 Feb 4, 2026
 
 2026年2月4日

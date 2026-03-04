@@ -1,5 +1,6 @@
 ---
 title: "Audit logs with SIEM integration now generally available - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/audit-logs-with-siem-integration-now-generally-available"
 date: "2025-01-16"
@@ -9,6 +10,7 @@ translated: true
 description: "Track team activity and export audit logs to SIEM tools like Datadog or Splunk. Get up to 90 days of immutable logs for enhanced security and compliance."
 ---
 
+render_with_liquid: false
 Jan 16, 2025
 
 2025 年 1 月 16 日

@@ -1,5 +1,6 @@
 ---
 title: "CORE Construction builds excellence with Vercel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/core-construction"
 date: "2023-04-18"
@@ -9,6 +10,7 @@ translated: true
 description: "CORE"
 ---
 
+render_with_liquid: false
 Apr 18, 2023
 
 2023年4月18日

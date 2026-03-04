@@ -1,5 +1,6 @@
 ---
 title: "Request collapsing for ISR cache misses - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/request-collapsing-for-isr-cache-misses"
 date: "2025-09-25"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel now does regional request collapsing on cache miss for Incremental Static Regeneration (ISR)."
 ---
 
+render_with_liquid: false
 Sep 25, 2025
 
 2025 年 9 月 25 日

@@ -1,5 +1,6 @@
 ---
 title: "Vercel + Sanity: Innovating on a fast, collaborative Web with features like Visual Editing - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/vercel-sanity-innovating-on-a-faster-collaborative-web"
 date: "2023-05-17"
@@ -9,6 +10,7 @@ translated: true
 description: "Announcing a strategic partnership with Sanity—the Composable Content Cloud"
 ---
 
+render_with_liquid: false
 May 17, 2023
 
 2023 年 5 月 17 日

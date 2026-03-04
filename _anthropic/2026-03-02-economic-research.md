@@ -1,5 +1,6 @@
 ---
 title: "Economic Research"
+render_with_liquid: false
 source: "Anthropic Research"
 url: "https://www.anthropic.com/research/team/economic-research"
 scraped_at: "2026-03-02T09:21:11.388176137+00:00"
@@ -8,6 +9,7 @@ translated: true
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 ---
 
+render_with_liquid: false
 [Back to Overview](https://www.anthropic.com/research)
 
 [返回概览](https://www.anthropic.com/research)

@@ -1,5 +1,6 @@
 ---
 title: "How to build agents with filesystems and bash - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/how-to-build-agents-with-filesystems-and-bash"
 date: "2026-01-09"
@@ -9,6 +10,7 @@ translated: true
 description: "How to build agents with filesystems and bash, production agents, context management, template, bash"
 ---
 
+render_with_liquid: false
 Jan 9, 2026
 
 2026 年 1 月 9 日

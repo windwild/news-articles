@@ -1,5 +1,6 @@
 ---
 title: "Growthbook joins the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/growthbook-joins-the-vercel-marketplace"
 date: "2025-07-24"
@@ -9,6 +10,7 @@ translated: true
 description: "Add feature flags and A/B testing to your Vercel projects with GrowthBook, now available on the Vercel Marketplace."
 ---
 
+render_with_liquid: false
 Jul 24, 2025
 
 2025年7月24日

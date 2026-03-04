@@ -1,5 +1,6 @@
 ---
 title: "Filter deployments by author - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/filter-deployments-by-author"
 date: "2025-09-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Easily filter deployments on the Vercel dashboard by the Vercel username or email, or git username (if applicable)."
 ---
 
+render_with_liquid: false
 Sep 22, 2025
 
 2025 年 9 月 22 日

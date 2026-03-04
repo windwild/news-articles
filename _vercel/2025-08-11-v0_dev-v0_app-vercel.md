@@ -1,5 +1,6 @@
 ---
 title: "v0.dev -> v0.app - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/v0-app"
 date: "2025-08-11"
@@ -9,6 +10,7 @@ translated: true
 description: "v0.dev is now v0.app, the AI builder for everyone: founders, designers, developers, marketers, sales, finance, and more "
 ---
 
+render_with_liquid: false
 Aug 11, 2025
 
 2025年8月11日

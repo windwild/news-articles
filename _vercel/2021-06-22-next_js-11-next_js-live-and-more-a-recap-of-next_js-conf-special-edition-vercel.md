@@ -1,5 +1,6 @@
 ---
 title: "Next.js 11, Next.js Live and more: A recap of Next.js Conf Special Edition - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/nextjs-special-event-recap"
 date: "2021-06-22"
@@ -9,6 +10,7 @@ translated: true
 description: "Learn more about the latest releases announced at Next.js Conf, including Next.js 11 and Next.js Live."
 ---
 
+render_with_liquid: false
 Jun 22, 2021
 
 2021年6月22日

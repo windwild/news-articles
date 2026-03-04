@@ -1,5 +1,6 @@
 ---
 title: "Spend Management now available for Pro users - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/spend-management-now-available-for-pro-users"
 date: "2023-10-05"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Oct 5, 2023
 
 2023 年 10 月 5 日

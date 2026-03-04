@@ -1,5 +1,6 @@
 ---
 title: "Vercel Agent can now install Web Analytics and Speed insights for you - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/vercel-agent-installation"
 date: "2025-12-03"
@@ -9,6 +10,7 @@ translated: true
 description: "Vercel Agent helps integrate Web Analytics and Speed Insights automatically in your project using AI. "
 ---
 
+render_with_liquid: false
 Dec 3, 2025
 
 2025 年 12 月 3 日

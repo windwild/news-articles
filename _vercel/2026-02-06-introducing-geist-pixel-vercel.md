@@ -1,5 +1,6 @@
 ---
 title: "Introducing Geist Pixel - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-geist-pixel"
 date: "2026-02-06"
@@ -9,6 +10,7 @@ translated: true
 description: "Geist Pixel is a bitmap-inspired typeface built on the same foundations as Geist and Geist Mono, reinterpreted through a strict pixel grid. It’s precise, intentional, and unapologetically digital."
 ---
 
+render_with_liquid: false
 Feb 6, 2026
 
 2026 年 2 月 6 日

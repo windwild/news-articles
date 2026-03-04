@@ -1,5 +1,6 @@
 ---
 title: "Redeploy or promote CLI deployments from the dashboard - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/redeploy-or-promote-cli-deployments-from-the-dashboard"
 date: "2023-02-04"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Feb 4, 2023
 
 2023年2月4日

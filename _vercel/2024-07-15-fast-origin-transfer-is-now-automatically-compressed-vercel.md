@@ -1,5 +1,6 @@
 ---
 title: "Fast Origin Transfer is now automatically compressed - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/changelog/fast-origin-transfer-is-now-automatically-compressed"
 date: "2024-07-15"
@@ -9,6 +10,7 @@ translated: true
 description: "The best way to deploy your Next.js site."
 ---
 
+render_with_liquid: false
 Jul 15, 2024
 
 2024 年 7 月 15 日

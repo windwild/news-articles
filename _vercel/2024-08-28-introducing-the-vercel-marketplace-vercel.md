@@ -1,5 +1,6 @@
 ---
 title: "Introducing the Vercel Marketplace - Vercel"
+render_with_liquid: false
 source: "Vercel Blog"
 url: "https://vercel.com/blog/introducing-the-vercel-marketplace"
 date: "2024-08-28"
@@ -9,6 +10,7 @@ translated: true
 description: "The Vercel Marketplace adds support for EdgeDB, Redis, and Supabase with unified billing and simpler installations."
 ---
 
+render_with_liquid: false
 Aug 28, 2024
 
 2024 年 8 月 28 日
